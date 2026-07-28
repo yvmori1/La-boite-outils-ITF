@@ -53,6 +53,8 @@ Le Taekwon-Do a pris forme à la suite d'une combinaison de circonstances histor
 
 ### 4. Instructeurs Fondateurs du Club de Blainville
 
+| Nom | Description |
+| --- | --- |
 | **Yannick Drolet** | Initié à de multiples styles (kung-fu, judo, kickboxing, kempo, aïkibudo, WTF), il obtient son 1er degré ITF en 1991 sous Pierre Laquerre et Tran Trieu Quan. Instructeur international certifié PNCE #1, #2 et #3, il a enseigné à plus de 350 élèves, entraîné des champions nationaux et dispensé des cours dans plusieurs pays (États-Unis, Espagne, France, Suisse, Équateur, Italie) avant de s'établir à Blainville. Il détient un 7e degré ITF. |
 | **Sylvain Audet** | Débute le judo à 10 ans, s'entraîne à Montréal sous Me André Blake (qui instruisait alors l'escouade tactique de la police). Il s'est entraîné au Kim's TKD à Tokyo, a obtenu son 3e degré en 2004 et s'entraîne avec Richard Lajeunesse et Rock Soucy. Il détient un 5e degré ITF. |
 | **Yves Morin** | Pratique le TaeKwon-DO ITF depuis 1993, ancien président et assistant du club de Baie-Comeau, il s'est spécialisé en autodéfense et instruit au Centre Richard Lajeunesse de Verdun. Il est président du club de TaeKwon-DO Hosinsul. Il détient un 5e degré ITF. |
@@ -62,13 +64,15 @@ Le Taekwon-Do a pris forme à la suite d'une combinaison de circonstances histor
 
 Les sources retracent le développement des techniques de combat à mains nues à travers l'histoire de l'humanité, des peintures murales du Nil en 3000 av. J.-C. jusqu'aux arènes du pancrace grec et des gladiateurs romains.
 
+| Titre | Description |
+| --- | --- |
 | **Le Moine Bodhidharma (Daruma)** | En 520 apr. J.-C., ce moine bouddhiste de l'Inde du Sud arrive en Chine au Temple de Shaolin. Constatant l'épuisement physique des moines soumis à une méditation rigoureuse, il introduit des exercices de conditionnement physique et spirituel issus des traités *L-Jin Kyong* (développement musculaire) et *Si Shim Kyong* (purification de l'esprit), jetant ainsi les bases de la boxe Shaolin (*Ch’yan Fa*).
 | **La Péninsule Coréenne et le Hwa-Rang-Do** | Durant l'époque des Trois Royaumes (Silla, Koguryo, Baek Je), le petit royaume de Silla forme un corps d'élite de jeunes guerriers aristocrates, les **Hwa-Rang**. Pour défendre leur patrie, ils endurcissent leur corps et leur esprit en escaladant des montagnes et en nageant dans des fleuves glacés. Ils adoptent un **Code de conduite en 5 points** rédigé par le moine Won Kang :
     1. *Soyez loyal envers votre Roi (ou patrie).*
     2. *Soyez obéissant envers vos parents.*
     3. *Soyez d'honneur (fidèle) envers vos amis.*
     4. *Ne retraitez jamais en combat.*
-    5. *Faites des morts justes (tuer avec discernement).*
+    5. *Faites des morts justes (tuer avec discernement).*|
 
 ---
 
@@ -93,21 +97,21 @@ Tout nouvel adepte doit prononcer et vivre selon ce serment réitéré réguliè
 1. *Je respecterai le crédo du Taekwon-Do.*
 2. *Je respecterai mon instructeur et les seniors.*
 3. *J'utiliserai le Taekwon-Do à de bonnes fins.*
-4. *JJe serai un champion de la liberté et de la justice.*
+4. *Je serai un champion de la liberté et de la justice.*
 5. *Je bâtirai un monde meilleur et pacifique.*
 
 ### 3. La Charte du Taekwon-Do (Taekwon-Do Jang)
 
 Établie par le fondateur pour baliser la transmission pure et noble de l'art martial :
 
-| Titre | Description |
+| Article | Description |
 | --- | --- |
-| **Article 1** | Améliorer la santé physique et nourrir l'intellect par la pratique scientifique pour promouvoir la justice et une société pacifique. |
-| **Article 2** | Étudier l'art en vue de maîtriser la vie et la mort, en léguant un héritage spirituel de valeur illimitée aux générations futures. |
-| **Article 3** | Demeurer humble, indulgent et imperméable aux motifs égoïstes ou à l'avarice pour préserver l'indépendance pure du Taekwon-Do. |
-| **Article 4** | Traiter tous les adeptes de façon égale, indépendamment du statut social, de la race ou des convictions religieuses, démontrant ainsi la fraternité humaine. |
-| **Article 5** | Contrecarrer les excès matériels et la dépendance inutile envers la machine de la société moderne en promouvant l'autodiscipline, le sacrifice et la dévotion. |
-| **Article 6** | Vivre selon sa conscience, faire preuve de respect envers les professeurs, les aînés et d'empressement attentionné envers ses cadets. |
+| **1** | Améliorer la santé physique et nourrir l'intellect par la pratique scientifique pour promouvoir la justice et une société pacifique. |
+| **2** | Étudier l'art en vue de maîtriser la vie et la mort, en léguant un héritage spirituel de valeur illimitée aux générations futures. |
+| **3** | Demeurer humble, indulgent et imperméable aux motifs égoïstes ou à l'avarice pour préserver l'indépendance pure du Taekwon-Do. |
+| **4** | Traiter tous les adeptes de façon égale, indépendamment du statut social, de la race ou des convictions religieuses, démontrant ainsi la fraternité humaine. |
+| **5** | Contrecarrer les excès matériels et la dépendance inutile envers la machine de la société moderne en promouvant l'autodiscipline, le sacrifice et la dévotion. |
+| **6** | Vivre selon sa conscience, faire preuve de respect envers les professeurs, les aînés et d'empressement attentionné envers ses cadets. |
 
 ### 4. La Philosophie de la Société et les Vertus Cardinales
 
@@ -173,7 +177,7 @@ Ces douze règlements intérieurs codifient la vie du club pour préserver la s�
 6. Limiter strictement les commentaires et conversations ; le chahut est banni.
 7. Maîtriser ses émotions et son langage afin de préserver la réputation de l'art.
 8. Respecter mutuellement ses pairs et s'efforcer de maintenir la propreté du dojang.
-9. **Pour éviter les blessures : interdiction absolue de porter des bijoux, interdiction de mâcher de la gomme et obligation de maintenir les ongles des mains et des pieds propres et coupés très courts**.
+9. **Pour éviter les blessures** : interdiction absolue de porter des bijoux, interdiction de mâcher de la gomme et obligation de maintenir les ongles des mains et des pieds propres et coupés très courts.
 10. Les chaussures de ville sont rigoureusement interdites sur la surface d'entraînement.
 11. Interdiction stricte de boire, de manger ou de fumer dans ou à proximité du dojang.
 12. Le Dobok doit être impeccable, propre et complet, représentant le respect que l'élève porte à son art.
@@ -278,7 +282,7 @@ Le secret de la force dévastatrice du Taekwon-Do réside dans l'application mat
 | **Équilibre (Kyun Hyung)** | L'équilibre assure la stabilité nécessaire pour qu'un coup soit puissant et efficace. Le centre de gravité doit être aligné au milieu des deux jambes ou au centre du pied d'appui. **Le talon du pied arrière ne doit jamais quitter le sol au moment de l'impact** pour sceller la puissance. |
 | **Contrôle de la Respiration (Hohup Jojul)** | Une expiration sèche au moment de l'impact tend l'abdomen, rigidifie le corps pour encaisser un éventuel contre-coup et décuple la force de frappe. Il ne faut jamais inhaler pendant l'exécution d'un blocage ou d'une attaque, sous peine de perdre sa puissance. |
 | **Masse (Zilyang)** | L'énergie cinétique maximale est obtenue en projetant la masse du corps par une rotation des hanches. De plus, l'adepte utilise l'action de ressort du genou (mouvement de vague) : monter légèrement le corps au début de la technique pour le descendre brusquement au moment de l'impact. |
-| **Vitesse (Sokdo)** | La vitesse est le facteur le plus déterminant de la puissance. Selon la formule de l'énergie cinétique ($E = rac{1}{2}mv^2$), si la masse est multipliée par 3, la puissance est multipliée par 3 ; mais si la vitesse est multipliée par 3, la puissance est multipliée par 9. |
+| **Vitesse (Sokdo)** | La vitesse est le facteur le plus déterminant de la puissance. Selon la formule de l'énergie cinétique ($E = (1/2)mv^2$), si la masse est multipliée par 3, la puissance est multipliée par 3 ; mais si la vitesse est multipliée par 3, la puissance est multipliée par 9. |
 | **Vitesse et Réflexes (Sokdo wa Baung)** | L'étude strobo-photographique menée au MIT en 1973 a démontré que la vitesse d'exécution d'un coup de pied de côté ou avant sauté est plus rapide que le temps de réflexe humain le plus rapide (2/10 de seconde). Il est donc physiologiquement impossible de parer ces attaques si on attend le départ du coup ; l'adepte doit anticiper en fixant continuellement les yeux de son adversaire. |
 
 ---
@@ -308,8 +312,6 @@ Inspirée du zen bouddhiste, elle vise à calmer l'esprit et à éliminer le str
 ---
 
 ## SECTION IX : LE PROGRAMME DE SELF-DÉFENSE DE LA FQTI
-
-Ce programme d'autodéfense pas-à-pas est une exclusivité issue de la source de Yannick Drolet (2011) :
 
 ### 1. Niveau Ceinture Blanche (Dégagement sur Saisies)
 
