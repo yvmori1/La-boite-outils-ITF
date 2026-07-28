@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Site généré par import-local.sh
+public_html/
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
