@@ -13,40 +13,71 @@
 
 ## Liste Détaillée des Mouvements
 
-### Posture de départ : Position de préparation fermée C (Closed Ready Stance C / Moa Chunbi Sogi C).
+### Posture de départ : position de préparation fermée C
 
-1. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage pressant moyen vers D avec la paume gauche (Annun So Wen Sonbadak Kaunde Yobap Miro Makgi).
-2. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant la position assise (Annun So Orun Joomuk Kaunde Ap Jirugi).
-3. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant la position assise (Annun So Wen Joomuk Kaunde Ap Jirugi).
-4. Exécuter un blocage double de l'avant-bras tout en formant une position en L gauche vers A, en pivotant avec le pied gauche (Niunja So Sang Palmok Makgi).
-5. Exécuter un coup de poing ascendant with le poing gauche tout en ramenant le poing droit devant l'épaule gauche, maintenant la position en L gauche vers A (Niunja So Baro Ollyo Jirugi).
-6. Exécuter un coup de poing moyen vers A avec le poing droit tout en formant une position fixe droite vers A dans un glissement de pied (Gojung So Kaunde Yop Jirugi).
-7. Exécuter une frappe vers le bas with le tranchant de la main droite tout en formant une position verticale gauche vers A en ramenant le pied droit (Soojik So Sonkal Bandae Naeryo Taerigi).
-8. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant un coup de poing moyen vers A avec le poing gauche (Gunnun So Kaunde Jirugi).
-9. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage bas vers D avec l'avant-bras gauche (Gunnun So Palmok Najunde Makgi).
-10. Avancer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit (Gunnun So Kaunde Jirugi).
-11. Ramener le pied gauche vers le pied droit tout en amenant la paume gauche sur le poing droit, et en fléchissant le coude droit à 45 degrés vers l'extérieur.
-12. Exécuter un coup de pied de côté percutant moyen vers D with le pied droit tout en tirant les deux mains dans la direction opposée, puis poser le pied droit vers D pour former une position en L gauche vers D tout en exécutant une frappe latérale moyenne vers D avec le tranchant de la main droite (Niunja So Kaunde Yopcha Jirugi, Sonkal Kaunde Bakuro Taerigi).
-13. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche (Gunnun So Kaunde Jirugi).
-14. Avancer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit (Gunnun So Kaunde Jirugi).
-15. Déplacer le pied gauche vers E, en tournant dans le sens anti-horaire pour former une position en L droite vers E tout en exécutant un blocage de garde moyen vers E avec le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
-16. Avancer le pied droit vers E pour former une position de marche droite vers E tout en exécutant une attaque de pique de la main droite avec l'extrémité des doigts rectilignes (Gunnun So Sun Sonkut Kaunde Tulgi).
-17. Déplacer le pied droit sur la ligne EF pour former une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
-18. Exécuter un coup de pied circulaire haut vers DF with le pied droit, puis poser le pied au sol vers F (Nopunde Dollyo Chagi).
-19. Exécuter un coup de pied circulaire haut vers CF avec le pied gauche, puis poser le pied au sol vers F pour former une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec le tranchant de la main (Nopunde Dollyo Chagi, Niunja So Sonkal Kaunde Daebi Makgi).
-20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage bas vers C avec l'avant-bras gauche (Gunnun So Palmok Najunde Makgi).
-21. Exécuter un coup de poing moyen vers C avec le poing droit tout en formant une position en L droite vers C, en ramenant le pied gauche (Niunja So Kaunde Baro Jirugi).
-22. Déplacer le pied droit vers C pour former une position en L gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche (Niunja So Kaunde Baro Jirugi).
-23. Déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing droit (Niunja So Kaunde Baro Jirugi).
-24. Exécuter un blocage pressant avec les poignets croisés en X tout en formant une position de marche gauche vers C en glissant le pied gauche (Gunnun So Kyocha Joomuk Noollo Makgi).
-25. Déplacer le pied droit vers C dans un mouvement glissé pour former une position en L droite vers D tout en frappant vers C avec le coude latéral droit (Niunja So Yop Palkup Tulgi).
-26. Ramener le pied gauche vers le pied droit en tournant dans le sens anti-horaire pour former une position fermée vers B tout en exécutant un blocage frontal latéral avec l'avant-bras intérieur droit et en étendant l'avant-bras gauche vers le bas de côté (Moa So Orun Anpalmok Yobap Makgi).
-27. Exécuter un blocage frontal latéral avec l'avant-bras intérieur gauche et étendre l'avant-bras droit vers le bas de côté tout en maintenant la position fermée vers B (Moa So Wen Anpalmok Yobap Makgi).
-28. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
-29. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
+1. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage poussée moyen vers D avec la paume gauche.
+   *(Annun so wen sonbadak kaunde yobap miro makgi)*
+2. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position assise vers D.
+   *(Annun so orun joomuk kaunde ap jirugi)*
+3. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position assise vers D.
+   *(Annun so wen joomuk kaunde ap jirugi)*
+4. Exécuter un blocage double des avant-bras tout en formant une position en L gauche vers A, en pivotant avec le pied gauche.
+   *(Niunja so sang palmok makgi)*
+5. Exécuter un coup de poing montant avec le poing gauche tout en tirant le droit côté poing en avant de la épaule gauche, en maintenant une position en L gauche vers A.
+   *(Niunja so baro ollyo jirugi)*
+6. Exécuter un coup de poing moyen vers A avec le poing droit tout en formant une position fixe droite vers A en un en glissant mouvement.
+   *(Gojung so kaunde yop jirugi)*
+7. Exécuter une frappe descendante avec le tranchant de la main droite tout en formant une position verticale gauche vers A, en tirant le pied droit.
+   *(Soojik so sonkal bandae naeryo taerigi)*
+8. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant un coup de poing moyen vers A avec le poing gauche.
+   *(Gunnun so kaunde jirugi)*
+9. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage bas vers D avec l'avant-bras gauche.
+   *(Gunnun so palmok najunde makgi)*
+10. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
+   *(Gunnun so kaunde jirugi)*
+11. Tirer le pied gauche vers le pied droit tout en amenant la paume gauche vers le devant du poing droit, en même temps en pliant le coude droit environ 45 degrés vers l'extérieur.
+12. Exécuter un coup de pied latéral perçant moyen vers D avec le pied droit tout en tirant les deux mains dans la direction opposée puis abaisser il vers D pour former une position en L gauche vers D, en même temps en exécutant une frappe extérieure moyenne vers D avec le tranchant de la main droite.
+   *(Kaunde yopcha jirugi, niunja so sonkal kaunde bakuro taerigi)*
+13. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
+   *(Gunnun so kaunde jirugi)*
+14. Déplacer le pied droit vers D pour former une position de marche droite vers D en même temps en exécutant un coup de poing moyen vers D avec le poing droit.
+   *(Gunnun so kaunde jirugi)*
+15. Déplacer le pied gauche vers E en tournant dans le sens anti-horaire pour former une position en L droite vers E tout en exécutant un blocage de garde moyen vers E avec un tranchant de la main.
+   *(Niunja so sonkal kaunde daebi makgi)*
+16. Déplacer le pied droit vers E pour former une position de marche droite vers E tout en exécutant une pique moyenne vers E avec le droit droit bout des doigts.
+   *(Gunnun so sun sonkut kaunde tulgi)*
+17. Déplacer le pied droit sur ligne EF pour former une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec un tranchant de la main.
+   *(Niunja so sonkal kaunde daebi makgi)*
+18. Exécuter un coup de pied circulaire haut vers DF avec le pied droit puis abaisser il vers F.
+   *(Nopunde dollyo chagi)*
+19. Exécuter un coup de pied circulaire haut vers CF avec le pied gauche puis abaisser il vers F pour former une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec un tranchant de la main.
+   *(Nopunde dollyo chagi, niunja so sonkal kaunde daebi makgi)*
 
-### FIN : Ramener le pied droit vers la posture de départ (Ready Posture).
+   > *Exécuter 18 et 19 en mouvement rapide.*
+
+20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage bas vers C avec l'avant-bras gauche.
+   *(Gunnun so palmok najunde makgi)*
+21. Exécuter un coup de poing moyen vers C avec le poing droit tout en formant une position en L droite vers C, en tirant le pied gauche.
+   *(Niunja so kaunde baro jirugi)*
+22. Déplacer le pied droit vers C pour former une position en L gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
+   *(Niunja so kaunde baro jirugi)*
+23. Déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
+   *(Niunja so kaunde baro jirugi)*
+24. Exécuter un blocage en pression avec un poings croisés tout en formant une position de marche gauche vers C, en glissant le pied gauche vers C.
+   *(Gunnun so kyocha joomuk noollo makgi)*
+25. Déplacer le pied droit vers C en un en glissant mouvement pour former une position en L droite vers D tout en en piquant vers C avec le droit côté coude.
+   *(Niunja so yop palkup tulgi)*
+26. Ramener le pied gauche vers le pied droit, en tournant dans le sens anti-horaire pour former une position fermée vers B tout en exécutant un blocage latéral-avant avec l'avant-bras intérieur droit tout en étendant l'avant-bras gauche vers le côté vers le bas.
+   *(Moa so orun anpalmok yobap makgi)*
+27. Exécuter un blocage latéral-avant avec l'avant-bras intérieur gauche, en étendant l'avant-bras droit vers le côté vers le bas tout en maintenant une position fermée vers B.
+   *(Moa so wen anpalmok yobap makgi)*
+28. Déplacer le pied gauche vers B pour former une position en L droite vers B en même temps en exécutant un blocage de garde moyen vers B avec un tranchant de la main.
+   *(Niunja so sonkal kaunde daebi makgi)*
+29. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec un tranchant de la main.
+   *(Niunja so sonkal kaunde daebi makgi)*
+
+### FIN : ramener le pied droit à la posture de départ.
 
 ---
 
-[← Index des formes](index.md) · [Recueil complet](toutes-les-formes.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)
+[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

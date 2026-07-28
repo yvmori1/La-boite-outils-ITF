@@ -57,4 +57,4 @@
 
 ---
 
-[← Index des formes](index.md) · [Recueil complet](toutes-les-formes.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)
+[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

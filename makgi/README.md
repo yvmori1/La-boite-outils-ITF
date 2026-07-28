@@ -2,9 +2,9 @@
 
 Fiches détaillées des blocages du Taekwon-Do ITF. Chaque fiche décompose la technique : sens littéral du nom coréen, surface de blocage employée, armement, trajectoire, point d'arrêt, erreurs fréquentes et emploi en défense.
 
-Un nom de blocage se construit en combinant quatre éléments : **surface** (*Palmok*, *Sonkal*, *Sonbadak*…) → **niveau** (*Najunde*, *Kaunde*, *Nopunde*) → **direction** (*An*, *Bakat*, *Yop*…) → **Makgi**. Les fiches ci-dessous isolent chacun de ces éléments ; les combinaisons complètes se trouvent dans [../Techniques/index.md](../Techniques/index.md).
+Un nom de blocage se construit en combinant quatre éléments : **surface** (*Palmok*, *Sonkal*, *Sonbadak*…) → **niveau** (*Najunde*, *Kaunde*, *Nopunde*) → **direction** (*An*, *Bakat*, *Yop*…) → **Makgi**. Les fiches ci-dessous isolent chacun de ces éléments ; les combinaisons complètes se trouvent dans [../Techniques/README.md](../Techniques/README.md).
 
-[← Retour à l'index général](../index.md)
+[← Retour à l'index général](../README.md)
 
 ---
 
@@ -97,5 +97,5 @@ Un nom de blocage se construit en combinant quatre éléments : **surface** (*Pa
 ## Voir aussi
 
 * [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — règles de construction des noms de blocages.
-* [../Techniques/index.md](../Techniques/index.md) — blocages combinés à une position.
+* [../Techniques/README.md](../Techniques/README.md) — blocages combinés à une position.
 * [../Theorie/Lexique.md](../Theorie/Lexique.md) — vocabulaire coréen.

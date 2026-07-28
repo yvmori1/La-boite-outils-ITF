@@ -8,7 +8,7 @@ Trois natures d'action se distinguent dans les noms :
 * **Taerigi (때리기)** — frappe cinglante ou fouettée, obtenue par la vitesse d'extrémité.
 * **Tulgi (툴기)** — pique pénétrante dans une ouverture étroite.
 
-[← Retour à l'index général](../index.md)
+[← Retour à l'index général](../README.md)
 
 ---
 
@@ -63,5 +63,5 @@ Trois natures d'action se distinguent dans les noms :
 ## Voir aussi
 
 * [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — construction des noms et distinction *Jirugi* / *Taerigi* / *Tulgi*.
-* [../Techniques/index.md](../Techniques/index.md) — frappes combinées à une position.
+* [../Techniques/README.md](../Techniques/README.md) — frappes combinées à une position.
 * [../Theorie/Lexique.md](../Theorie/Lexique.md) — vocabulaire coréen.

@@ -2,9 +2,9 @@
 
 Diagrammes et schémas référencés par les fiches du dépôt : **diagrammes des formes** (le tracé au sol de chaque Tul, avec son symbole) et **schémas des positions** (dimensions et répartition du poids).
 
-Ces fichiers sont utilisés par [../tul/toutes-les-formes.md](../tul/toutes-les-formes.md) et [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md). Les scripts [../import-local.sh](../import-local.sh) et [../import-wp.sh](../import-wp.sh) reprennent ce répertoire tel quel — conserver les noms de fichiers en l'état.
+Ces fichiers sont utilisés par [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md).
 
-[← Retour à l'index général](../index.md)
+[← Retour à l'index général](../README.md)
 
 ---
 
@@ -34,7 +34,7 @@ Voir [../Theorie/positions.md](../Theorie/positions.md) pour les descriptions.
 
 ## Diagrammes des formes (*Tul*)
 
-Dans l'ordre de progression des grades. Voir [../tul/index.md](../tul/index.md).
+Dans l'ordre de progression des grades. Voir [../tul/README.md](../tul/README.md).
 
 | Image | Forme | Grade |
 | :--- | :--- | :--- |

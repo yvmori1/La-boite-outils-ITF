@@ -4,7 +4,7 @@ Fiches détaillées des coups de pied du Taekwon-Do ITF. Chaque fiche décompose
 
 Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 
-[← Retour à l'index général](../index.md)
+[← Retour à l'index général](../README.md)
 
 ---
 
@@ -107,4 +107,4 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 
 * [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — règles de construction des noms de techniques.
 * [../Theorie/Distance des sauts dans les formes.md](../Theorie/Distance%20des%20sauts%20dans%20les%20formes.md) — pour les techniques sautées.
-* [../tul/index.md](../tul/index.md) — les coups de pied en contexte, dans les formes.
+* [../tul/README.md](../tul/README.md) — les coups de pied en contexte, dans les formes.

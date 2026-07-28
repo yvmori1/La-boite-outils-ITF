@@ -4,6 +4,8 @@ Les **Tul** sont les formes codifiées du Taekwon-Do ITF : une séquence imposé
 
 Ce répertoire contient **une fiche par forme** : signification du nom, nombre de mouvements, diagramme au sol, lien vidéo, posture de départ et **liste détaillée de tous les mouvements** un par un.
 
+[← Retour à l'index général](../README.md)
+
 ## Manuel Technique (Du 10e Gup au 6e Dan)
 
 Ce recueil technique réunit l'ensemble des 24 formes (Tuls) officielles créées par le Général Choi Hong Hi, complétées par les exercices préparatoires fondamentaux. Chaque fiche respecte rigoureusement la nomenclature, l'historique moral, le diagramme au sol et la décomposition pas-à-pas des mouvements.
@@ -42,8 +44,6 @@ Je lègue les 24 formes du Taekwon-Do comme les 24 heures d'une journée, soit t
 9. Maîtriser chaque forme avant de passer à l'exécution de la forme qui lui succède dans l'apprentissage.
 
 La forme est un travail technique de recherche de la perfection, mais la forme est aussi un combat : l'exécution de chaque forme doit refléter ces deux aspects. Chacune des 24 formes du Taekwon-Do permet d'évaluer sur une base constante pour chaque niveau de ceinture.
-
-[← Retour à l'index général](../index.md)
 
 ---
 
@@ -104,5 +104,5 @@ Non officiels, mais préalables à Chon-Ji. Diagramme en croix, quatre direction
 * [../Theorie/Analyse_Statistique.md](../Theorie/Analyse_Statistique.md) — analyse statistique du contenu technique des formes.
 * [../Theorie/Distance des sauts dans les formes.md](../Theorie/Distance%20des%20sauts%20dans%20les%20formes.md) — sauts réglementaires.
 * [../chagi/Dans-les-formes.md](../chagi/Dans-les-formes.md) — répartition des coups de pied par forme.
-* [../images/index.md](../images/index.md) — diagrammes au sol de chaque forme.
-* [../Ceintures/index.md](../Ceintures/index.md) — à quel grade chaque forme est exigée.
+* [../images/README.md](../images/README.md) — diagrammes au sol de chaque forme.
+* [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque forme est exigée.

@@ -13,56 +13,113 @@
 
 ## Liste Détaillée des Mouvements
 
-### Posture de départ : Position parallèle avec coudes latéraux doubles (Parallel Stance with Twin Side Elbow / Narani Sogi Ssang Yop Palkup).
+### Posture de départ : position parallèle avec les deux coudes latéraux
 
-1. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur (Annun So An Palmok Narani Makgi).
-2. Exécuter un blocage crochetant moyen vers D avec la paume droite tout en se redressant vers D (Sonbadak Kaunde Golcho Makgi).
-3. Exécuter un coup de poing moyen vers D with le poing gauche tout en formant une position assise vers D (Annun So Kaunde Bandae Jirugi).
-4. Ramener le tranchant externe du pied droit vers l'articulation du genou gauche pour former une position sur une jambe gauche vers D tout en exécutant un blocage parallèle avec l'avant-bras extérieur (Waebal So Bakat Palmok Narani Makgi).
-5. Exécuter un coup de pied de côté percutant moyen vers A, puis un coup de pied crocheté inversé haut vers B consécutivement avec le pied droit, en conservant la position des mains du mouvement 4 (Kaunde Yopcha Jirugi, Nopunde Bandae Dollyo Goro Chagi).
-6. Poser le pied droit au sol vers B dans un mouvement sauté pour former une position en X droite vers F tout en exécutant une frappe vers le bas vers B avec le revers du poing droit (Twigi, Orun Kyocha So Dung Joomuk Naeryo Taerigi).
-7. Exécuter un coup de pied crocheté moyen, puis un coup de pied de côté percutant haut vers F consécutivement avec le pied gauche tout en tirant les deux poings devant la poitrine (Kaunde Dollyo Goro Chagi, Nopunde Yopcha Jirugi).
-8. Poser le pied gauche au sol vers F en frappant le sol du pied pour former une position assise vers B tout en exécutant une frappe croisée haute vers l'extérieur vers F avec le bout des doigts à plat gauche (Annun So Opun Sonkut Nopunde Bakuro Ghutgi).
-9. Exécuter une frappe de coude haute droite vers BF, en pressant le poing droit avec la paume gauche, tout en formant une position de marche gauche vers BF (Gunnun So Nopunde Palkup Taerigi).
-10. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers B tout en exécutant un blocage frontal bas vers B with le tranchant de la main inversé gauche, et en amenant le bout des doigts droits sur l'avant-bras gauche (Orun Kyocha So Sonkal Dung Najunde Ap Makgi).
-11. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A with le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
-12. Exécuter une frappe en plein vol vers A avec le tranchant de la main gauche en pivotant dans le sens anti-horaire, puis atterrir vers A pour former une position en L droite vers A avec le bras gauche étendu (Twio Dolmyo Sonkal Taerigi, Niunja Sogi).
-13. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage parallèle with l'avant-bras intérieur (Annun So An Palmok Narani Makgi).
-14. Exécuter un blocage crochetant moyen vers D avec la paume gauche tout en se redressant vers D (Sonbadak Kaunde Golcho Makgi).
-15. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position assise vers D (Annun So Kaunde Bandae Jirugi).
-16. Ramener le tranchant externe du pied gauche vers l'articulation du genou droit pour former une position sur une jambe droite vers D tout en exécutant un blocage parallèle with l'avant-bras extérieur (Waebal So Bakat Palmok Narani Makgi).
-17. Exécuter un coup de pied de côté percutant moyen vers B, puis un coup de pied crocheté inversé haut vers A consécutivement avec le pied gauche, en conservant la position des mains du mouvement 16 (Kaunde Yopcha Jirugi, Nopunde Bandae Dollyo Goro Chagi).
-18. Poser le pied gauche au sol vers A dans un mouvement sauté pour former une position en X gauche vers E tout en exécutant une frappe vers le bas vers A avec le revers du poing gauche (Twigi, Wen Kyocha So Dung Joomuk Naeryo Taerigi).
-19. Exécuter un coup de pied crocheté moyen, puis un coup de pied de côté percutant haut vers E consécutivement with le pied droit tout en tirant les deux poings devant la poitrine (Kaunde Dollyo Goro Chagi, Nopunde Yopcha Jirugi).
-20. Poser le pied droit au sol vers E en frappant le sol du pied pour former une position assise vers A tout en exécutant une frappe croisée haute vers l'extérieur vers E avec le bout des doigts à plat droite (Annun So Opun Sonkut Nopunde Bakuro Ghutgi).
-21. Exécuter une frappe de coude haute gauche vers AE, en pressant le poing gauche avec la paume droite, tout en formant une position de marche droite vers AE (Gunnun So Nopunde Palkup Taerigi).
-22. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers A tout en exécutant un blocage frontal bas vers A avec le tranchant de la main inversé droit, et en amenant le bout des doigts gauches sur l'avant-bras droit (Wen Kyocha So Sonkal Dung Najunde Ap Makgi).
-23. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
-24. Exécuter une frappe en plein vol vers B with le tranchant de la main droite en pivotant dans le sens horaire, puis atterrir vers B pour former une position en L gauche vers B avec le bras droit étendu (Twio Dolmyo Sonkal Taerigi, Niunja Sogi).
-25. Exécuter un coup de pied en forme de pic vers B avec le pied gauche, puis le poser au sol vers B pour former une position de pied arrière droite vers B tout en exécutant un blocage de garde moyen avec l'avant-bras (Gokaeng-i Chagi, Dwitbal So Palmok Kaunde Daebi Makgi).
-26. Ramener le pied droit vers le pied gauche pour former une position fermée avec mains du ciel vers D (Moa So Hanulson).
-27. Glisser vers C pour former une position de pied arrière gauche vers D tout en exécutant une poussée vers le bas with le coude droit rectiligne (Dwitbal So Sun Palkup Naeryo Tulgi).
-28. Exécuter une frappe en croissant haute with la main en arc gauche tout en formant une position de marche droite vers D, en faisant glisser le pied droit (Gunnun So Bandalson Nopunde Taerigi).
-29. Glisser vers C pour former une position de pied arrière droite vers D tout en exécutant une poussée vers le bas avec le coude gauche rectiligne (Dwitbal So Sun Palkup Naeryo Tulgi).
-30. Exécuter une frappe en croissant haute with la main en arc droite tout en formant une position de marche gauche vers D, en faisant glisser le pied gauche (Gunnun So Bandalson Nopunde Taerigi).
-31. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe vers l'intérieur haute vers D avec double tranchant de la main (Gunnun So Sang Sonkal Nopunde Anuro Taerigi).
-32. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un coup de poing vers le bas avec le poing droit (Gunnun So Naeryo Jirugi).
-33. Déplacer le pied gauche vers l'arrière de côté du pied droit, puis glisser vers C pour former une position en L droite vers D tout en exécutant un blocage vers le bas with l'avant-bras extérieur gauche (Niunja So Bakat Palmok Naeryo Makgi).
-34. Exécuter un coup de pied circulaire inversé d'esquive vers D avec le pied droit tout en sautant de côté depuis D, puis atterrir vers C pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras (Pihamyo Bandae Dollyo Chagi, Niunja So Palmok Kaunde Daebi Makgi).
-35. Déplacer le pied droit vers l'arrière de côté du pied gauche, puis glisser vers C pour former une position en L gauche vers D tout en exécutant un blocage vers le bas avec l'avant-bras extérieur droit (Niunja So Bakat Palmok Naeryo Makgi).
-36. Exécuter un coup de pied circulaire inversé d'esquive vers D avec le pied gauche tout en sautant de côté depuis D, puis atterrir vers C pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras (Pihamyo Bandae Dollyo Chagi, Niunja So Palmok Kaunde Daebi Makgi).
-37. Déplacer le pied droit vers D, puis le pied gauche vers D, puis exécuter un coup de pied volant dans deux directions (coup de pied torsadé avec le pied gauche, coup de pied de côté percutant avec le pied droit) tout en sautant vers D (Twimyo Sangbang Chagi).
-38. Atterrir vers D pour former une position diagonale gauche vers D tout en exécutant un blocage ascendant avec double paume (Sasun So Sang Sonbadak Ollyo Makgi).
-39. Glisser vers D pour former une position de pied arrière droite vers C tout en poussant de côté vers D avec le coude droit (Dwitbal So Yop Palkup Tulgi).
-40. Tourner le visage vers D tout en formant une position de préparation avec flexion droite B vers C, puis exécuter un coup de pied arrière percutant moyen vers D avec le pied gauche (Guburyo Junbi So B, Kaunde Dwitcha Jirugi).
-41. Poser le pied gauche au sol vers D en frappant le sol du pied pour former une position en L droite vers D tout en exécutant une frappe horizontale vers D avec le revers du poing gauche (Niunja So Dung Joomuk Soopyong Taerigi).
-42. Exécuter une frappe croisée haute vers l'intérieur vers D with le bout des doigts à plat droite tout en formant une position parallèle vers D, en ramenant le pied droit (Narani So Opun Sonkut Nopunde Anuro Ghutgi).
-43. Exécuter un coup de poing frontal et un coup de poing remontant consécutivement vers D with le poing droit tout en sautant vers D, puis atterrir vers D pour former une position fermée vers D avec le poing droit étendu (Twigi, Ap Jirugi, Dwijibo Jirugi, Moa Sogi).
-44. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une frappe vers le bas frontale avec le tranchant de la main gauche (Gunnun So Sonkal Naeryo Ap Taerigi).
-45. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit (Gunnun So Kaunde Bandae Jirugi).
+1. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur.
+   *(Annun so anpalmok narani makgi)*
+2. Exécuter un blocage crocheté moyen vers D avec la paume droite tout en se tenant vers le haut vers D.
+   *(Sonbadak kaunde golcho makgi)*
+3. Exécuter un coup de poing moyen vers D avec le poing gauche tout en formant une position assise vers D.
+   *(Annun so wen joomuk kaunde jirugi)*
+4. Tirer le droit inversé tranchant du pied vers le genou gauche articulation pour former une position sur une jambe gauche vers D tout en exécutant un blocage parallèle avec l'avant-bras extérieur.
+   *(Waebal so bakat palmok narani makgi)*
+5. Exécuter un coup de pied latéral perçant moyen vers A puis un coup de pied crocheté inversé haut vers B consécutivement avec le pied droit en gardant le position de la mains comme s'ils étaient en 4.
+   *(Kaunde yopcha jirugi, orun nopunde bandae dollyo gorochagi)*
 
-### FIN : Ramener le pied droit vers la posture de départ (Ready Posture).
+   > *Exécuter en mouvement lent.*
+
+6. Abaisser le pied droit vers B en mouvement sauté pour former une position en X droite vers F tout en exécutant une frappe descendante vers B avec le revers du poing droit.
+   *(Twigi, orun kyocha so dung joomuk baro naeryo taerigi)*
+7. Exécuter un coup de pied crocheté moyen puis un coup de pied latéral perçant haut vers F consécutivement avec le pied gauche tout en tirant les deux poings en avant du poitrine.
+   *(Kaunde golcho chagi, wen nopunde yopcha jirugi)*
+8. Abaisser le pied gauche vers F en un en écrasant mouvement pour former une position assise vers B tout en exécutant une coupe croisée extérieure haute vers F avec le gauche à plat bout des doigts.
+   *(Annun so wen opun sonkut nopunde bakuro ghutgi)*
+9. Exécuter une frappe haute du coude droit vers BF pressant le droit côté poing avec la paume gauche tout en formant une position de marche gauche vers BF.
+   *(Gunnun so nopun palkup bandae taerigi)*
+10. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers B tout en exécutant un blocage frontal bas vers B avec le revers de la main gauche, en amenant la pulpe des doigts droit sur le gauche arrière avant-bras.
+   *(Kyocha so sonkal dung najunde bandae ap makgi)*
+11. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec un tranchant de la main.
+   *(Niunja so sonkal kaunde daebi makgi)*
+12. Exécuter une frappe en vol vers A avec un tranchant de la main gauche tout en pivotant dans le sens anti-horaire puis atterrir vers A pour former une position en L droite vers A avec le bras gauche étendu.
+   *(Sonkal twio dolymyo taerigi)*
+13. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur.
+   *(Annun so anpalmok narani makgi)*
+14. Exécuter un blocage crocheté moyen vers D avec la paume gauche tout en se tenant vers le haut vers D.
+   *(Sonbadak kaunde golcho makgi)*
+15. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position assise vers D.
+   *(Annun so orun joomuk kaunde jirugi)*
+16. Tirer le gauche inversé tranchant du pied vers le genou droit articulation pour former une position sur une jambe droite vers D tout en exécutant un blocage parallèle avec l'avant-bras extérieur.
+   *(Waebal so bakat palmok narani makgi)*
+17. Exécuter un coup de pied latéral perçant moyen vers B puis un coup de pied crocheté inversé haut vers A consécutivement avec le pied gauche en gardant le position de la mains comme s'ils étaient en 16.
+   *(Kaunde yopcha jirugi, wen nopunde bandae dollyo gorochagi)*
+
+   > *Exécuter en mouvement lent.*
+
+18. Abaisser le pied gauche vers A en mouvement sauté pour former une position en X gauche vers E tout en exécutant une frappe descendante vers A avec le revers du poing gauche.
+   *(Twigi, wen kyocha so dung joomuk baro naeryo taerigi)*
+19. Exécuter un coup de pied crocheté moyen puis un coup de pied latéral perçant haut vers E consécutivement avec le pied droit tout en tirant les deux poings en avant du poitrine.
+   *(Kaunde golcho chagi, orun nopunde yopcha jirugi)*
+20. Abaisser le pied droit vers E en un en écrasant mouvement pour former une position assise vers A tout en exécutant une coupe croisée extérieure haute vers E avec le droit à plat bout des doigts.
+   *(Annun so orun opun sonkut nopunde bakuro ghutgi)*
+21. Exécuter une frappe haute du coude gauche vers AE pressant le gauche côté poing avec la paume droite tout en formant une position de marche droite vers AE.
+   *(Gunnun so nopun palkup bandae taerigi)*
+22. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers A tout en exécutant un blocage frontal bas vers A avec le revers de la main droite, en amenant la pulpe des doigts gauche sur le droit arrière avant-bras.
+   *(Kyocha so sonkal dung najunde bandae ap makgi)*
+23. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec un tranchant de la main.
+   *(niunja so sonkal kaunde daebi makgi)*
+24. Exécuter une frappe en vol vers B avec un tranchant de la main droite tout en pivotant dans le sens horaire puis atterrir vers B pour former une position en L gauche vers B avec le bras droit étendu.
+   *(Sonkal twio dolmyo taerigi)*
+25. Exécuter un coup de pied en pioche vers B avec le pied gauche puis abaisser il vers B pour former une position sur la jambe arrière droite vers B tout en exécutant un blocage de garde moyen avec l'avant-bras.
+   *(Gokaeng-i chagi, orun dwitbal so palmok kaunde daebi makgi)*
+26. Ramener le pied droit vers le pied gauche pour former une position fermée avec un ciel main vers D.
+   *(Moa so hanulson)*
+
+   > *Exécuter en mouvement lent.*
+
+27. Glisser vers C pour former une position sur la jambe arrière gauche vers D tout en exécutant une pique descendante avec le droit droit coude.
+   *(Dwitbal so sun palkup bandae naeryo tulgi)*
+28. Exécuter une frappe semi-circulaire haute avec l'arc de main gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
+   *(Gunnun so bandal son nopunde bandae bandal taerigi)*
+29. Glisser vers C pour former une position sur la jambe arrière droite vers D tout en exécutant une pique descendante avec le gauche droit coude.
+   *(Dwitbal so sun palkup bandae naeryo tulgi)*
+30. Exécuter une frappe semi-circulaire haute avec l'arc de main droite tout en formant une position de marche gauche vers D, en glissant le pied gauche.
+   *(Gunnun so bandal son nopunde bandae bandal taerigi)*
+31. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe intérieure haute vers D avec un double tranchant de la main.
+   *(Gunnun so sang sonkal nopunde anuro taerigi)*
+32. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un coup de poing descendant avec le poing droit.
+   *(Gunnun so bandae naeryo jirugi)*
+33. Déplacer le pied gauche vers le côté arrière du pied droit puis glisser vers C pour former une position en L droite vers D tout en exécutant un blocage descendant avec l'avant-bras extérieur gauche.
+   *(Niunja so bakat palmok bandae naeryo makgi)*
+34. Exécuter un coup de pied circulaire inversé en esquive vers D avec le pied droit tout en sauté en s'éloignant de D puis atterrir vers C pour former une position en L gauche vers D en même temps en exécutant un blocage de garde moyen vers D avec l'avant-bras.
+   *(Pihamyo bandae dollyo chagi, wen niunja so palmok kaunde daebi makgi)*
+35. Déplacer le pied droit vers le côté arrière du pied gauche puis glisser vers C pour former une position en L gauche vers D tout en exécutant un blocage descendant avec l'avant-bras extérieur droit.
+   *(Niunja so bakat palmok bandae naeryo makgi)*
+36. Exécuter un coup de pied circulaire inversé en esquive vers D avec le pied gauche tout en sauté en s'éloignant de D puis atterrir vers C pour former une position en L droite vers D en même temps en exécutant un blocage de garde moyen vers D avec l'avant-bras.
+   *(Pihamyo bandae dollyo chagi, orun niunja so palmok kaunde daebi makgi)*
+37. Déplacer le pied droit vers D puis le pied gauche vers D puis exécuter un coup de pied sauté simultané (vrillé coup de pied avec le pied gauche, côté perçant avec le pied droit) tout en sauté vers D.
+   *(Twimyo sangbang chagi,yop bituro chagi)*
+38. Atterrir vers D pour former une position diagonale gauche vers D tout en exécutant un blocage montant avec une paumes jumelées.
+   *(Sasun so sang sonbadak chookyo makgi)*
+39. Glisser vers D pour former une position sur la jambe arrière droite vers C tout en exécutant une pique latérale vers D avec le coude droit.
+   *(Dwitbal so yop palkup tulgi)*
+40. Tourner le visage vers D tout en formant un droit position de préparation pliée B vers C puis exécuter un coup de pied arrière perçant moyen vers D avec le pied gauche.
+   *(Guburyo junbi sogi B, wen kaunde dwitcha jirugi)*
+
+   > *Exécuter en mouvement lent.*
+
+41. Abaisser le pied gauche vers D en un en écrasant mouvement pour former une position en L droite vers D en même temps en exécutant une frappe horizontale vers D avec le revers du poing gauche.
+   *(Niunja so dung joomuk bandae soopyong taerigi)*
+42. Exécuter une coupe croisée intérieure haute vers D avec le droit à plat bout des doigts tout en formant une position parallèle vers D, en tirant le pied droit.
+   *(Narani so orun opun sonkut nopunde anuro ghutgi)*
+43. Exécuter un coup de poing frontal et un coup de poing renversé vers D consécutivement avec le poing droit tout en sauté vers D puis atterrir vers D pour former une position fermée vers D avec le poing droit étendu.
+   *(Twimyo orun joomuk ap jirugi, orun joomuk dwijibo jirigi)*
+44. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une frappe descendante frontale avec le tranchant de la main gauche.
+   *(Gunnun so sonkal bandae ap naeryo taerigi)*
+45. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
+   *(Gunnun so kaunde bandae jirugi)*
+
+### FIN : ramener le pied droit à la posture de départ.
 
 ---
 
-[← Index des formes](index.md) · [Recueil complet](toutes-les-formes.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)
+[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

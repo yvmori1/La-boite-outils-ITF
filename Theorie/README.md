@@ -4,7 +4,7 @@ Documents de fond : vocabulaire, règles de nomenclature, principes de puissance
 
 Ce répertoire contient les documents de référence transversaux, par opposition aux fiches de technique unitaires des autres répertoires.
 
-[← Retour à l'index général](../index.md)
+[← Retour à l'index général](../README.md)
 
 ---
 
@@ -38,5 +38,5 @@ Ce répertoire contient les documents de référence transversaux, par oppositio
 
 ## Voir aussi
 
-* [../Ceintures/index.md](../Ceintures/index.md) — la théorie ci-dessus filtrée grade par grade.
-* [../tul/index.md](../tul/index.md) — exécution mouvement par mouvement des formes.
+* [../Ceintures/README.md](../Ceintures/README.md) — la théorie ci-dessus filtrée grade par grade.
+* [../tul/README.md](../tul/README.md) — exécution mouvement par mouvement des formes.

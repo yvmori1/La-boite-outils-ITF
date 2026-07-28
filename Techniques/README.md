@@ -2,13 +2,13 @@
 
 Fiches de techniques **nommées intégralement**, c'est-à-dire position et mouvement combinés — la forme sous laquelle elles sont annoncées en cours et exigées en examen.
 
-Là où [makgi](../makgi/index.md), [chagi](../chagi/index.md) et [jirugi](../jirugi/index.md) isolent un élément de vocabulaire, ce répertoire décrit le geste complet : mise en place de la position, coordination hanche/bras, force de réaction, temps d'exécution.
+Là où [makgi](../makgi/README.md), [chagi](../chagi/README.md) et [jirugi](../jirugi/README.md) isolent un élément de vocabulaire, ce répertoire décrit le geste complet : mise en place de la position, coordination hanche/bras, force de réaction, temps d'exécution.
 
 L'ordre de lecture d'un nom ITF est : **position → surface → niveau → direction → action**.
 
 > *Gunnun So Bakat Palmok Nopunde Yop Makgi* = en position de marche, avec l'avant-bras externe, au niveau haut, blocage latéral.
 
-[← Retour à l'index général](../index.md)
+[← Retour à l'index général](../README.md)
 
 ---
 
@@ -45,4 +45,4 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 * [../Theorie/positions.md](../Theorie/positions.md) — description détaillée de toutes les positions (*Sogi*), dont *Gunnun Sogi* et *Niunja Sogi*.
 * [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — règles complètes de nomenclature.
-* [../Ceintures/index.md](../Ceintures/index.md) — à quel grade chaque technique est exigée.
+* [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.
