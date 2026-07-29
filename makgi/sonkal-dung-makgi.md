@@ -33,7 +33,7 @@ La préparation de la main est critique pour cette technique afin d'éviter les 
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant sur la ligne centrale pour viser et préparer le tirage à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité à l'amorce de la vague.
 
-### Étape 2 : La Trajectoire et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation du corps puis redescente fluide (*Basse - Haute - Basse*).
 2. **Arc de cercle :** La main d'attaque s'élance en arc de cercle (vers l'intérieur ou vers l'extérieur selon la variante *Anuro* ou *Bakuro*).

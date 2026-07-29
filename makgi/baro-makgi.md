@@ -34,7 +34,7 @@ Le terme *Baro* ne décrit pas la surface de frappe ou la hauteur, mais la **rel
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant sur la ligne centrale pour guider l'axe et préparer son tirage puissant vers la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité à l'amorce du déplacement.
 
-### Étape 2 : L'Avancée et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : L'Avancée et le Mouvement de Vague (*Sine Wave*)
 
 1. **Prise d'appui :** Avancée d'un pas en posture de marche (**Gunnun Sogi**) ou autre posture.
 2. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*) synchronisée avec le déploiement du bras.

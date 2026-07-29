@@ -31,7 +31,7 @@ Cette trajectoire directionnelle s'associe à différentes armes naturelles selo
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant sur la ligne centrale pour mesurer la distance et fournir la force de réaction lors de son retrait à la hanche.
 3. **Phase haute (*Sine Wave*) :** Élévation du centre de gravité lors de la préparation.
 
-### Étape 2 : La Trajectoire Entrante et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Entrante et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Le corps s'élève puis redescend brusquement en fin de trajectoire (*Basse - Haute - Basse*).
 2. **Arc de cercle balistique :** Le bras décrit une trajectoire courbe et puissante qui ramène l'avant-bras de l'extérieur vers l'axe central du buste ou du visage.

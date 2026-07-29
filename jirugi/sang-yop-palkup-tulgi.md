@@ -33,7 +33,7 @@ Cette technique s'exécute le plus souvent en **Annun Sogi** (posture du cavalie
 1. **Regroupement central :** Les deux mains se regroupent au centre du thorax (poings fermés), coudes resserrés près du corps.
 2. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux lors de la prise de posture.
 
-### Étape 2 : La Projection Latérale et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Projection Latérale et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps pendant la transition, suivie d'une redescente explosive lors de la fixation de la posture au sol.
 2. **Poussée axiale opposée :** Les deux coudes s'écartent vivement en ligne droite vers l'extérieur (gauche et droite), propulsés par la contraction du haut du dos et l'ouverture de la poitrine.

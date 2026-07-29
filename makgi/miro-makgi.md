@@ -33,7 +33,7 @@ Le *Miro Makgi* s'exécute avec différentes armes naturelles selon la distance 
 
 ### Étape 2 : Le Déploiement et la Poussée Continue (*Sine Wave*)
 
-1. **Engagement du poids du corps :** L'onde de choc (*Basse - Haute - Basse*) est transférée non pas sous forme d'impact sec, mais sous forme d'une **poussée constante soutenue par la masse corporelle**.
+1. **Engagement du poids du corps :** Le mouvement de vague (*Basse - Haute - Basse*) est transféré non pas sous forme d'impact sec, mais sous forme d'une **poussée constante soutenue par la masse corporelle**.
 2. **Trajectoire progressive :** La paume ou l'avant-bras avance en appuyant vers l'avant/le côté, en maintenant le contact avec le membre adverse tout au long de la poussée.
 
 ### Étape 3 : Le Verrouillage et le Transfert de Masse

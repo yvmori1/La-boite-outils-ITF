@@ -30,7 +30,7 @@ Le *Bakwo Makgi* définit le **changement dynamique d'armement et de blocage** e
 1. **Initialisation :** Le premier bras effectue une parade (par exemple, un blocage direct ou latéral) tandis que la main de réaction s'arme au flanc ou devant le thorax.
 2. **Détection du changement :** L'adversaire feinte ou enchaîne une seconde attaque sur un angle différent.
 
-### Étape 2 : La Permutation Croisée et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Permutation Croisée et le Mouvement de Vague (*Sine Wave*)
 
 1. **Croisement de transition :** Les deux bras se croisent au niveau de la poitrine. Le bras qui bloquait se retire vers la hanche/poitrine pendant que le bras opposé s'élance pour prendre le relais.
 2. **Légère ondulation (*Sine Wave*) :** Un court mouvement de baisse-hausse-baisse du centre de gravité alimente le transfert de puissance sans nécessiter un grand pas.

@@ -39,7 +39,7 @@ Pour bien exécuter le *Bandal Jirugi*, il faut comprendre comment sa trajectoir
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu devant soi pour fixer la cible et guider l'axe de réaction.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors de la prise d'appui.
 
-### Étape 2 : La Trajectoire en Demi-Lune et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire en Demi-Lune et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps pendant la transition, suivie d'une redescente explosive au moment de la fixation au sol.
 2. **Trajectoire incurvée :** Plutôt que de partir droit vers l'avant, le poing s'écarte légèrement vers l'extérieur avant de revenir vers la ligne centrale dans une courbe fluide en demi-lune (*Bandal*).

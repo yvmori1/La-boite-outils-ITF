@@ -34,7 +34,7 @@ Le terme *Bandae* exprime une **relation d'opposition croisée entre le haut et 
 2. **Main de réaction (*Bandae Son*) :** Le bras du même côté que la jambe avant est tendu pour guider la ligne centrale et préparer son retrait puissant vers la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement de la jambe.
 
-### Étape 2 : La Torsion du Bust et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Torsion du Bust et le Mouvement de Vague (*Sine Wave*)
 
 1. **Pivote des hanches :** L'avancée d'un pas en posture de marche (**Gunnun Sogi**) génère une légère torsion du buste.
 2. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*) pour transférer la masse corporelle vers l'avant.

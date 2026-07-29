@@ -40,7 +40,7 @@ Le *Najunde Daebi Makgi* s'exécute soit poings fermés, soit mains ouvertes :
    * Le bras arrière (garde) passe **à l'extérieur**.
 3. **Phase haute (*Sine Wave*) :** Élévation du centre de gravité lors du croisement des bras.
 
-### Étape 2 : La Descente et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Descente et le Mouvement de Vague (*Sine Wave*)
 
 1. **Chute de masse :** Le corps s'abaisse brusquement en fléchissant les genoux (*Basse - Haute - Basse*).
 2. **Déploiement synchronisé :** Les deux bras descendent simultanément en décrivant un arc de cercle fluide vers le bas.

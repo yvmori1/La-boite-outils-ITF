@@ -42,7 +42,7 @@ Pour impacter avec les doigts sans se blesser les articulations :
 2. **Main de réaction :** Selon la combinaison, le bras opposé est étendu devant ou vient se placer en protection/appui.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux lors de la prise de posture (souvent en *Gunnun Sogi* — posture de marche).
 
-### Étape 2 : La Trajectoire Rectiligne et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Rectiligne et le Mouvement de Vague (*Sine Wave*)
 
 1. **Piston direct :** La main s'élance en ligne droite vers la cible.
 2. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps pendant le déplacement, suivie d'une redescente explosive lors du verrouillage au sol.

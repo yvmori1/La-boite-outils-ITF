@@ -31,7 +31,7 @@ Selon l'arme naturelle engagée et l'orientation du mouvement, le *Narani Makgi*
 2. **Alignement :** Les coudes restent rapprochés pour garantir que la trajectoire à venir demeure parfaitement parallèle.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité à l'amorce de la vague.
 
-### Étape 2 : Le Trajet Parallèle et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Trajet Parallèle et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Déploiement jumeau :** Les deux bras se déploient côte à côte en conservant un écartement constant (environ la largeur des épaules ou de la poitrine).

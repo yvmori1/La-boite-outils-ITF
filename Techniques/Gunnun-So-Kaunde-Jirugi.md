@@ -55,7 +55,7 @@ En fonction du bras d'attaque par rapport à la jambe avancée, la frappe prend 
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu devant soi pour guider l'axe et viser la cible.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant légèrement les genoux au départ du pas.
 
-### Étape 2 : Le Déplacement et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déplacement et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Le corps s'élève légèrement au milieu du pas (phase de relâchement) puis redescend de manière explosive lors de la prise d'appui finale.
 2. **Glissé du pied :** Le pied arrière avance en traçant un léger arc de cercle vers l'intérieur avant de s'ouvrir à sa position finale.

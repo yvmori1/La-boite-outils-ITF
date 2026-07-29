@@ -37,7 +37,7 @@ Cette technique s'étudie principalement en travail de ligne ou sur place, notam
 2. **Coudes resserrés :** Les coudes sont pointés vers l'axe central pour préparer l'expansion.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux.
 
-### Étape 2 : La Poussée et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Poussée et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps pendant la transition, suivie d'une redescente lourde et explosive lors du verrouillage de la posture au sol.
 2. **Projection axiale :** Les deux coudes sont propulsés simultanément en ligne droite sur le plan horizontal, poussés par l'ouverture du thorax et le verrouillage des dorsaux.

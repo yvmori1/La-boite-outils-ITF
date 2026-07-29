@@ -32,7 +32,7 @@ Alors que le *Dung Joomuk Taerigi* général peut s'effectuer vers l'avant ou en
 3. **Main de réaction (*Bandae Son*) :** L'autre bras est étendu vers le côté ou croisé devant soi pour préparer son tirage puissant à la hanche.
 4. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement.
 
-### Étape 2 : Le Déploiement en Fouet et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement en Fouet et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente sèche du corps (*Basse - Haute - Basse*).
 2. **Action de charnière :** Le coude reste fixé sur la ligne d'attaque latérale tandis que l'avant-bras se détend de manière explosive vers le côté.

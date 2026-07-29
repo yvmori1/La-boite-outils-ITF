@@ -33,7 +33,7 @@ Le *Yobap Makgi* s'adapte à différentes armes naturelles et hauteurs (*Nopunde
 3. **Orientation du regard :** La tête se tourne vers la cible située **dans l'angle oblique à 45°**.
 4. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement.
 
-### Étape 2 : Le Déploiement Diagonal et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Diagonal et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Trajectoire à 45° :** Le bras s'élance de manière fluide en direction de la ligne diagonale séparant le profil de la face.

@@ -32,9 +32,9 @@ Le *Sang Palmok Makgi* fait travailler les deux avant-bras de manière compléme
 1. **Croisement des bras :** Les deux avant-bras se croisent devant la poitrine.
     * Le bras qui va bloquer en haut passe **à l'intérieur** (près du corps), paume vers soi.
     * Le bras qui va bloquer en bas passe **à l'extérieur**, paume vers le sol.
-2. **Position du corps :** Le corps s'abaisse légèrement pour entamer la première phase de l'onde de choc (*Sine Wave*).
+2. **Position du corps :** Le corps s'abaisse légèrement pour entamer la première phase du mouvement de vague (*Sine Wave*).
 
-### Étape 2 : L'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Le centre de gravité remonte puis redescend de manière fluide (*Basse - Haute - Basse*).
 2. **Déploiement circulaire :** Les deux poings pivotent et s'écartent vers leurs zones de blocage respectives dans une rotation synchronisée.

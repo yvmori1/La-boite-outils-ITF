@@ -54,7 +54,7 @@ Comme pour toutes les frappes directes en posture de marche, l'alignement du bra
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu devant soi pour guider l'axe d'attaque et viser les yeux de la cible.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant légèrement les genoux au départ du pas.
 
-### Étape 2 : Le Déplacement et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déplacement et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps au milieu de la transition de pas, puis redescente explosive lors de la prise d'appui finale au sol.
 2. **Glissé du pied :** Le pied arrière avance selon un léger arc de cercle vers l'intérieur avant de se verrouiller dans sa position finale.

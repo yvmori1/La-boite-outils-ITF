@@ -40,7 +40,7 @@ Sa décomposition linguistique est la suivante :
 2. **Main de réaction (*Bandae Son*) :** L'autre bras s'arme au flanc ou en garde pour équilibrer la structure.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux.
 
-### Étape 2 : L'Ascension et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : L'Ascension et le Mouvement de Vague (*Sine Wave*)
 
 1. **Poussée verticale :** Extension des jambes et poussée des hanches (*Basse - Haute - Basse*) pour transmettre la masse corporelle du bas vers le haut.
 2. **Propulsion de la paume :** La paume s'élance vers le haut dans une trajectoire rectiligne ou légèrement en arc de cercle sous la frappe adverse.
@@ -78,4 +78,4 @@ On retrouve le blocage/frappe montant de la paume dans plusieurs *Tul* de niveau
 * **Doigts tendus ou mollement écartés :** Laisser les doigts raides ou ouverts, ce qui expose à des entorses ou fractures des phalanges en cas de choc.
 * **Pouce décollé :** Ne pas plaquer le pouce, risquant de l'accrocher dans le dobok ou le membre du partenaire.
 * **Tendre complètement le coude :** Bloquer bras tendu à 180°, éliminant toute absorption et fatiguant l'épaule.
-* **Mouvement uniquement musculaire des bras :** Ignorer la poussée des jambes et l'onde de choc (*Sine Wave*), ce qui rend le blocage faible face à une attaque lourde.
+* **Mouvement uniquement musculaire des bras :** Ignorer la poussée des jambes et le mouvement de vague (*Sine Wave*), ce qui rend le blocage faible face à une attaque lourde.

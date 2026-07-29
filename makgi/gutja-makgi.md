@@ -68,4 +68,4 @@ Cette technique supérieure est enseignée dans les formes de ceintures noires (
 
 * **Déformer la géométrie du "9" :** Écarter trop les coudes ou arrondir les angles, ce qui détruit la structure osseuse du blocage et dissipe sa force d'absorption.
 * **Désynchronisation des bras :** Faire arriver le bras haut avant le bras bas (ou inversement) au lieu d'obtenir un verrouillage strictement simultané.
-* **Négliger l'onde de choc (*Sine Wave*) :** Bloquer uniquement avec la force des bras sans engager la redescente du centre de gravité.
+* **Négliger le mouvement de vague (*Sine Wave*) :** Bloquer uniquement avec la force des bras sans engager la redescente du centre de gravité.

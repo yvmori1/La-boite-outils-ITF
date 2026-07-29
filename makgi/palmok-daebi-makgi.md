@@ -35,7 +35,7 @@ Les deux bras travaillent en parfaite synergie pour créer une double ligne de d
    * Le bras de garde (arrière) passe **à l'extérieur**, paume tournée vers le sol.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité pour emmagasiner l'énergie.
 
-### Étape 2 : L'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Déploiement en arc :** Les deux bras s'élancent de manière circulaire vers la cible.

@@ -34,7 +34,7 @@ Pour transformer la main en une pointe rigide et perforante sans se blesser les 
 2. **Main de réaction / Pression (*Sonbadak Nullo Makgi*) :** Souvent, le bras opposé s'étend vers l'avant en exécutant un blocage descendant de la paume pour abaisser ou chasser la garde adverse tout en guidant l'axe de frappe.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors du déplacement.
 
-### Étape 2 : La Trajectoire Rectiligne et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Rectiligne et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps au milieu de la transition de pas, puis redescente explosive lors de la prise d'appui finale au sol.
 2. **Piston axial :** La pointe des doigts s'élance en ligne droite le long du centre de gravité vers le plexus de la cible.

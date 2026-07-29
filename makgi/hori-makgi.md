@@ -32,7 +32,7 @@ Le *Hori Makgi* s'adapte à la nature de la frappe arrivant à la ceinture :
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu vers l'avant ou s'arme au flanc pour guider la trajectoire et balancer la réaction.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux.
 
-### Étape 2 : Le Déploiement Horizontal et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Horizontal et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente fluide du corps (*Basse - Haute - Basse*).
 2. **Trajectoire le long de la ceinture :** Le bras s'élance selon un arc horizontal rasant la ligne de la taille.
@@ -67,4 +67,4 @@ On retrouve des blocages et balayages au niveau de la taille dans de nombreuses 
 
 * **Mauvaise hauteur :** Monter le bras au niveau de la poitrine (ce qui en fait un *Kaujunde Makgi*) ou le descendre au niveau des cuisses (ce qui en fait un *Najunde Makgi*).
 * **Écarter le coude du buste :** Laisser un espace trop grand entre le coude et le flanc, ce qui affaiblit la structure et laisse passer la frappe.
-* **Ne pas engager les hanches :** Réaliser le blocage uniquement avec la force du bras sans utiliser la rotation des hanches et l'onde de choc (*Sine Wave*).
+* **Ne pas engager les hanches :** Réaliser le blocage uniquement avec la force du bras sans utiliser la rotation des hanches et le mouvement de vague (*Sine Wave*).

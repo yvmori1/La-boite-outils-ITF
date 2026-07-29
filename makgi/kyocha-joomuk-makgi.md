@@ -34,7 +34,7 @@ Selon la hauteur d'attaque (*Najunde* ou *Nopunde*), le croisement des poings s'
 2. **Main/Poing de réaction :** Les deux mains sont prêtes à s'élancer simultanément.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors de la prise de pas.
 
-### Étape 2 : Le Déploiement Synchronisé et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Synchronisé et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*) pour transférer la masse corporelle globale dans le verrouillage.
 2. **Trajectoire convergente :** Les deux avant-bras s'élancent sur l'axe central pour venir se croiser au millième de seconde de l'impact.

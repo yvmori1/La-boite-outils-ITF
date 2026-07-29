@@ -49,7 +49,7 @@ La frappe s'exécute en profil de trois-quarts (*Half-facing*), associant protec
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu devant soi sur la ligne centrale pour guider la trajectoire avant d'être tiré à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors de la prise de pas.
 
-### Étape 2 : Le Déploiement Cinglant et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Cinglant et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps au milieu du pas, puis redescente explosive lors de la fixation de la posture au sol.
 2. **Ouverture en arc :** Le coude mène l'ouverture du bras vers l'extérieur, agissant comme une charnière pour détendre l'avant-bras de façon cinglante.

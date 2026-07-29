@@ -32,7 +32,7 @@ Le terme *Son* (main) sert de catégorie générale et se spécifie selon la sur
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu sur la ligne centrale pour viser et accentuer l'effet de levier lors de son tirage à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux.
 
-### Étape 2 : Le Déploiement Circulaire et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Circulaire et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Trajectoire en arc :** La main s'élance selon une courbe arrondie de 45° à 90° vers la cible, le coude menant légèrement le mouvement avant de relâcher le bras en fouet.

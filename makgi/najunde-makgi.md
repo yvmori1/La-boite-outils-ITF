@@ -31,7 +31,7 @@ Bien que le terme désigne la zone cible à protéger, la technique s'associe le
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant à niveau moyen pour viser et préparer le tirage puissant à la hanche.
 3. **Phase haute (*Sine Wave*) :** Élévation du centre de gravité lors de la préparation.
 
-### Étape 2 : La Descente et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Descente et le Mouvement de Vague (*Sine Wave*)
 
 1. **Chute de masse :** Le corps s'abaisse brusquement en fléchissant les genoux (*Basse - Haute - Basse*).
 2. **Trajectoire descendante :** Le poing de blocage descend le long du corps en décrivant un arc fluide du haut vers le bas.

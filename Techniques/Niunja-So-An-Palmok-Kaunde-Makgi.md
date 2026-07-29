@@ -46,7 +46,7 @@ La posture en L offre une protection naturelle du buste en le présentant de tro
 2. **Main de réaction :** L'autre bras est étendu devant soi pour guider l'axe de défense.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors du recul ou de l'avancée du pas.
 
-### Étape 2 : La Trajectoire et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Le corps s'élève légèrement au milieu du déplacement puis s'ancre fermement dans le sol lors de la fixation en *Niunja Sogi*.
 2. **Balayage de l'intérieur vers l'extérieur :** L'avant-bras d'attaque s'élance selon une trajectoire en courbe pour venir couper la ligne centrale.

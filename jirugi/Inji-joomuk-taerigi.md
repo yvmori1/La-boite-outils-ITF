@@ -40,7 +40,7 @@ Le *Inji Joomuk* est une arme naturelle fragile si elle est mal formée. Sa pré
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu sur la ligne centrale pour fixer la cible et guider le tirage de réaction.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux.
 
-### Étape 2 : La Trajectoire Cinglante et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Cinglante et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps pendant le déplacement, suivie d'une redescente lourde lors de la prise d'appui au sol.
 2. **Déploiement en fouet :** Le poing s'élance en arc de cercle, l'avant-bras se détendant autour de l'articulation du coude.

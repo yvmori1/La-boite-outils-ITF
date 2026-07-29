@@ -36,7 +36,7 @@ C'est l'un des blocages les plus fondamentaux, rigides et fréquemment enseigné
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant pour guider l'axe et préparer son retrait puissant vers la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité pour emmagasiner l'énergie potentielle.
 
-### Étape 2 : L'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente brusque du corps (*Basse - Haute - Basse*).
 2. **Déploiement en arc :** Le bras s'élance de manière fluide vers la zone ciblée.

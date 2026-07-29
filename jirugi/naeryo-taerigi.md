@@ -33,7 +33,7 @@ Le *Naeryo Taerigi* définit une dynamique de frappe descendante qui s'applique 
 
 1. **Hauteur d'amorce :** La main d'attaque s'élève au-dessus du niveau de l'épaule ou de la tête (près de l'oreille opposée pour le *Sonkal*), le coude fléchi vers le haut.
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu vers l'avant ou le bas pour mesurer la distance, calibrer la trajectoire ou contrôler l'adversaire.
-3. **Phase haute de l'onde de choc (*Sine Wave*) :** Élévation légère du corps sur les jambes.
+3. **Phase haute du mouvement de vague (*Sine Wave*) :** Élévation légère du corps sur les jambes.
 
 ### Étape 2 : La Trajectoire Descendante et la Chute de Masse
 

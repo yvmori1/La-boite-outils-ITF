@@ -47,7 +47,7 @@ Le blocage tire sa stabilité et la force de sa structure de l'ancrage au sol de
 2. **Main de réaction (*Bandae Son*) :** L'autre bras s'étend vers la ligne centrale pour guider le temps de réaction et l'axe de défense.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux au départ du déplacement.
 
-### Étape 2 : Le Déploiement Latéral et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Latéral et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps pendant la transition du pas, puis redescente explosive lors de la prise d'appui finale au sol.
 2. **Trajectoire vers le côté :** Le bras bloqueur s'élance depuis le centre vers la ligne latérale haute (*Yop*).

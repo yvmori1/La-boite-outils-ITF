@@ -40,7 +40,7 @@ Pour transformer la main en une arme perforante efficace sans se blesser :
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu sur la ligne centrale pour fixer la trajectoire vers le visage adverse.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux au départ du pas.
 
-### Étape 2 : La Trajectoire Directe et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Directe et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps pendant la transition, suivie d'une redescente explosive lors du verrouillage de la posture au sol.
 2. **Trajectoire rectiligne :** La pique s'élance en ligne droite depuis la hanche vers la ligne des yeux de la cible.

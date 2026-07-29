@@ -51,7 +51,7 @@ La force de la frappe s'appuie sur la rigidité et l'ancrage de la posture de ma
 2. **Main de réaction (*Bandae Son*) :** Le bras du côté de la jambe avancée est étendu devant soi sur la ligne centrale pour viser la cible.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux au départ du pas.
 
-### Étape 2 : L'Engament des Hanches et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : L'Engament des Hanches et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps pendant la transition, suivie d'une redescente explosive au moment de verrouiller la posture au sol.
 2. **Torsion des hanches (*Heori Torsion*) :** La hanche arrière pivote puissamment vers l'avant pour propulser le poing inverse le long de la ligne centrale du corps.

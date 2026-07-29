@@ -46,7 +46,7 @@ Le blocage bas tire sa puissance de l'ancrage de la posture de marche :
 2. **Main de réaction (*Bandae Son*) :** L'autre bras s'étend vers l'avant et légèrement vers le bas pour viser l'axe de réaction.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux au départ du pas.
 
-### Étape 2 : La Trajectoire Descendante et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Descendante et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Le corps remonte légèrement lors de la transition du pas puis redescend de façon explosive à la prise d'appui.
 2. **Balayage descendant :** Le bras bloqueur s'élance vers le bas le long de la ligne centrale du corps.
@@ -73,7 +73,7 @@ Le blocage bas tire sa puissance de l'ancrage de la posture de marche :
 
 C'est la première technique défensive enseignée dans l'école ITF :
 
-* **Saju Makgi / Saju Jirugi (Exercices fondamentaux) :** Premier mouvement de blocage appris par le débutant pour intégrer l'onde de choc et le déplacement aux 4 points cardinaux.
+* **Saju Makgi / Saju Jirugi (Exercices fondamentaux) :** Premier mouvement de blocage appris par le débutant pour intégrer le mouvement de vague et le déplacement aux 4 points cardinaux.
 * **Chon-Ji Tul (Mouvements 1, 3, 5, 7) :** La première moitié de cette première forme est entièrement construite sur l'enchaînement *Gunnun So Bakat Palmok Najunde Makgi* suivi de *Gunnun So Kaujunde Jirugi*.
 * **Dan-Gun Tul, Do-San Tul, Won-Hyo Tul :** Utilisé régulièrement pour amorcer des transitions de lignes ou bloquer des attaques basses.
 

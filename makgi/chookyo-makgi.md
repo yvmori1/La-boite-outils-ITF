@@ -31,7 +31,7 @@ Le **Chookyo Makgi** est la réponse défensive de référence contre toutes les
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu vers l'avant sur la ligne centrale pour guider l'axe et préparer son tirage puissant à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement.
 
-### Étape 2 : L'Ascension et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : L'Ascension et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation du corps puis redescente brève en fin de trajectoire (*Basse - Haute - Basse*).
 2. **Propulsion verticale :** Le bras s'élance vers le haut dans un mouvement dynamique de pistonnage croisé au-dessus du visage.

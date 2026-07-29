@@ -40,7 +40,7 @@ Le *Ikwon Taerigi* s'adapte à plusieurs axes d'attaque selon la position de l'a
 2. **L'Axe du coude :** Le coude pointe déjà vers la cible et sert de point fixe de rotation.
 3. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu sur la ligne centrale pour guider l'axe avant d'être tiré à la hanche.
 
-### Étape 2 : Le Déploiement en Fouet et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement en Fouet et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement, suivi d'une montée et d'une redescente explosive à l'impact.
 2. **Action de charnière :** Le coude s'ouvre brusquement, propulsant l'avant-bras et le revers du poing comme un fouet.

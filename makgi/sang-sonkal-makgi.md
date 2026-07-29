@@ -35,9 +35,9 @@ Bien que les deux mains soient ouvertes en position *Sonkal*, elles remplissent 
    * La main de garde passe **à l'extérieur**, paume vers le sol.
 
 
-3. **Pression du corps :** Abaissement du centre de gravité pour entamer la première phase de l'onde de choc (*Sine Wave*).
+3. **Pression du corps :** Abaissement du centre de gravité pour entamer la première phase du mouvement de vague (*Sine Wave*).
 
-### Étape 2 : L'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Le centre de gravité remonte puis redescend de manière fluide (*Basse - Haute - Basse*).
 2. **Déploiement en arc :** Les deux mains s'élancent en trajectoire circulaire vers leurs positions finales respectives.

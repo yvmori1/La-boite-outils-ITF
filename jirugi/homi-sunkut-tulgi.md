@@ -35,7 +35,7 @@ Pour réussir cette arme naturelle (*Jook Bang*) très spécifique sans se bless
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu sur la ligne centrale pour guider l'axe de frappe avant d'être tiré puissamment vers la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement.
 
-### Étape 2 : La Trajectoire Pénétrante et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Pénétrante et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Pique crochue :** La main s'élance vers l'avant dans une trajectoire rectiligne ou légèrement ascendante/descendante selon la cible visée.

@@ -47,7 +47,7 @@ Le terme *Sang* (double) indique que les deux bras travaillent ensemble dans une
 1. **Position d'amorce :** Les deux bras se croisent fermement devant le buste, poings fermés. Le bras qui va effectuer le blocage haut se place généralement à l'intérieur du croisement, paumes orientées vers le corps.
 2. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors de la prise de pas ou du recul.
 
-### Étape 2 : Le Déploiement Synchronisé et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Synchronisé et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps au milieu de la transition, puis redescente explosive lors de la fixation de la posture en L.
 2. **Déploiement en ciseaux :** Les deux bras s'écartent vivement de l'axe central : l'un monte vers la tempe/tête, l'autre se fixe devant le thorax.

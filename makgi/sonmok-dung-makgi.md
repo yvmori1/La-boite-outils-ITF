@@ -30,7 +30,7 @@ Sa décomposition linguistique est la suivante :
 2. **Casse du poignet :** Le poignet se fléchit fortement dès l'amorce pour présenter la bosse du dos du poignet (*Sonmok Dung*) vers la trajectoire de l'attaque.
 3. **Visée / Réaction :** Le bras opposé s'étend vers l'avant pour mesurer la distance et fournir la force de réaction (*Bandae Son*).
 
-### Étape 2 : L'Onde de Choc (*Sine Wave*) et la Trajectoire
+### Étape 2 : Le Mouvement de Vague (*Sine Wave*) et la Trajectoire
 
 1. **Mouvement du corps :** Exécution du mouvement ondulatoire (*Basse - Haute - Basse*).
 2. **Déploiement en crochet :** Le poignet avance dans un mouvement circulaire ou ascendant selon la variante, venant cueillir l'attaque adverse au lieu de la percuter de face.

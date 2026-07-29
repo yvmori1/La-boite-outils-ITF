@@ -22,7 +22,7 @@ Le **Golcho Sonbadak Makgi** est le parfait exemple du principe de déviation do
 
 ## 2. Décomposition étape par étape de l'exécution
 
-### Étape 1 : L'Armement et l'Onde de Choc
+### Étape 1 : L'Armement et le Mouvement de Vague
 
 1. **Hauteur d'amorce :** La main qui va bloquer s'arme près de l'épaule ou de la poitrine opposée, paume orientée vers soi ou vers le sol.
 2. **Main de réaction (*Bandae Son*) :** L'autre bras s'étend vers l'avant pour mesurer la distance et guider la trajectoire.

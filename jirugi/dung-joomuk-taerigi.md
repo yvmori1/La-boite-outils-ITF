@@ -42,7 +42,7 @@ Le revers du poing s'exécute selon l'angle d'attaque recherché :
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu ou croisé devant soi pour préparer son tirage sec à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors de la prise de pas.
 
-### Étape 2 : L'Onde de Choc et le Déploiement en Fouet (*Sine Wave*)
+### Étape 2 : Le Mouvement de Vague et le Déploiement en Fouet (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente sèche du corps (*Basse - Haute - Basse*).
 2. **Action de charnière du coude :** Le coude monte ou s'oriente vers la cible en restant fixe un court instant, agissant comme la charnière autour de laquelle l'avant-bras va pivoter et se détendre.

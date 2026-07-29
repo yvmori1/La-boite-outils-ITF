@@ -32,7 +32,7 @@ Le *Yop Makgi* se décline selon l'arme naturelle utilisée et la hauteur visée
 3. **Regard :** La tête se tourne fermement vers la cible **sur le côté** (pivot du cou vers le flanc).
 4. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement.
 
-### Étape 2 : Le Déploiement Latéral et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Latéral et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Déploiement vers le flanc :** Le bras bloqueur s'élance vers le côté en décrivant un arc de cercle fluide et direct vers la trajectoire ennemie.

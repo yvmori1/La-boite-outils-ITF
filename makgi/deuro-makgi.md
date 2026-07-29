@@ -38,7 +38,7 @@ Le *Deuro Makgi* s'adapte à l'outil employé pour passer sous la frappe adverse
 2. **Main de réaction (*Bandae Son*) :** L'autre bras s'arme au flanc ou en garde pour guider l'axe.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité pour se glisser sous la trajectoire d'attaque.
 
-### Étape 2 : L'Ascension Poussée et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : L'Ascension Poussée et le Mouvement de Vague (*Sine Wave*)
 
 1. **Poussée des jambes :** L'élévation du corps (*Basse - Haute - Basse*) fournit l'énergie nécessaire pour soulever une charge lourde (comme la jambe d'un adversaire).
 2. **Trajectoire en berceau :** Le bras décrit un mouvement ascendant arrondi partant du bas vers le niveau moyen/haut.
@@ -73,5 +73,5 @@ On retrouve le blocage en levant dans plusieurs formes du programme de ceinture 
 ## 5. Erreurs fréquentes à éviter
 
 * **Bloquer trop haut au-dessus de la tête :** Transformer la technique en *Chookyo Makgi*, ce qui laisse passer la frappe sous le bras au lieu de la cueillir.
-* **Soulever uniquement avec l'épaule :** Négliger la poussée des jambes et l'onde de choc, rendant impossible le soulèvement d'un membre puissant ou lourd.
+* **Soulever uniquement avec l'épaule :** Négliger la poussée des jambes et le mouvement de vague, rendant impossible le soulèvement d'un membre puissant ou lourd.
 * **Ne pas accompagner du poignet :** Oublier la rotation du poignet (*Snap*) en fin de course, risquant de laisser glisser le membre adverse.

@@ -30,7 +30,7 @@ Sa décomposition linguistique est la suivante :
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant pour mesurer la distance et fournir la force de réaction lors de son retrait rapide à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité pour emmagasiner l'énergie.
 
-### Étape 2 : La Trajectoire et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente brève du corps (*Basse - Haute - Basse*).
 2. **Déploiement circulaire :** Le bras s'élance de l'intérieur vers l'extérieur dans un mouvement d'arc de cercle fluide pour intercepter l'attaque.

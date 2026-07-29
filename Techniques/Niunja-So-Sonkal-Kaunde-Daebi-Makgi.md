@@ -51,7 +51,7 @@ Le blocage de garde (*Daebi Makgi*) s'exécute toujours à **deux mains** synchr
 1. **Position d'amorce :** Les deux mains s'arment en *Sonkal* au niveau de la hanche / épaule arrière. Les paumes sont orientées vers le corps ou vers le haut.
 2. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors de la transition de pas.
 
-### Étape 2 : Le Déploiement et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps au milieu du pas, puis redescente explosive lors de la fixation de la posture.
 2. **Trajectoire en arc :** Les deux bras s'élancent simultanément sur l'axe central, les coudes menant la trajectoire avant le déploiement des poignets.

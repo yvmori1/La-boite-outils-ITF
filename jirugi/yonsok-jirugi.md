@@ -18,7 +18,7 @@ En TaeKwon-Do ITF, le *Yonsok Jirugi* s'inscrit dans le cadre de la **Motion Con
 | Paramètre | Norme d'exécution ITF |
 | --- | --- |
 | **Gestion du souffle** | **Une respiration par frappe**, mais enchaînée sans pause intermédiaire (expulsions d'air brèves et consécutives : *sss-sss*). |
-| **Onde de choc (*Sine Wave*)** | Une onde de choc complète ou liée pour chaque coup de poing, exécutée de manière fluide sans temps d'arrêt au sommet ou au bas de l'onde. |
+| **Mouvement de vague (*Sine Wave*)** | Un mouvement de vague complet ou lié pour chaque coup de poing, exécuté de manière fluide sans temps d'arrêt au sommet ou au bas de la vague. |
 | **Continuité** | Le corps ne s'arrête jamais entre la première et la seconde frappe ; l'énergie cinétique du premier coup alimente le départ du suivant. |
 
 ---
@@ -44,13 +44,13 @@ Le *Yonsok Jirugi* se décline principalement selon le nombre de frappes et le n
 ### Étape 1 : Le Premier Coup de Poing
 
 1. **Attaque initiale :** Le premier poing s'élance depuis la hanche avec la rotation complète du poignet et la première expulsion d'air (*Kihap* / souffle court).
-2. **Ancrage :** Le corps génère sa première onde de choc (*Sine Wave*) au moment du contact.
+2. **Ancrage :** Le corps génère son premier mouvement de vague (*Sine Wave*) au moment du contact.
 
 ### Étape 2 : La Transition Instantanée
 
 1. **Liaison du souffle :** Sans reprendre une grande inspiration, une deuxième petite bouffée d'air est immédiatement expulsée tout en amorçant le deuxième poing.
 2. **Re-torsion des hanches :** La hanche opposée pivote violemment vers l'avant pour propulser le second bras.
-3. **Onde de choc enchaînée :** Le corps effectue une micro-remontée et redescente fluide pour ancrer le second coup de poing dans le sol.
+3. **Mouvement de vague enchaîné :** Le corps effectue une micro-remontée et redescente fluide pour ancrer le second coup de poing dans le sol.
 
 ### Étape 3 : L'Impact Final et le Verrouillage
 
@@ -84,5 +84,5 @@ On retrouve les enchaînements consécutifs de coups de poing dans de nombreuses
 
 * **Mouliner les bras ("Tambouriner") :** Frapper uniquement avec les bras sans engager la rotation des hanches pour le deuxième ou troisième coup de poing, ce qui prive la suite de l'enchaînement de toute puissance.
 * **Bloquer sa respiration :** Retenir son souffle pendant toute la série au lieu de délivrer une expiration brève et rythmée par frappe.
-* **Supprimer l'onde de choc sur le deuxième coup :** Rester rigide ou "plat" lors de la deuxième frappe au lieu de maintenir une micro-ondulation fluide du corps.
+* **Supprimer le mouvement de vague sur le deuxième coup :** Rester rigide ou "plat" lors de la deuxième frappe au lieu de maintenir une micro-ondulation fluide du corps.
 * **Négliger le bras de réaction :** Oublier de ramener le premier poing à la hanche lors du lancement du second, laissant le haut du corps découvert.

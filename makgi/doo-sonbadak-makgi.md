@@ -29,7 +29,7 @@ Là où les blocages avec les avant-bras (*Palmok*) ou les tranchants (*Sonkal*)
 
 ## 2. Décomposition étape par étape de l'exécution
 
-### Étape 1 : L'Armement Double et l'Onde de Choc
+### Étape 1 : L'Armement Double et le Mouvement de Vague
 
 1. **Armement croisé ou haut :** Les deux mains s'arment près de la poitrine ou des flancs (selon la hauteur ciblée), paumes orientées vers le corps.
 2. **Phase descendante (*Sine Wave*) :** Le centre de gravité s'abaisse légèrement pour stocker l'énergie potentielle.

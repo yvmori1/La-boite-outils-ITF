@@ -34,7 +34,7 @@ Le terme *Kaujunde Makgi* définit la **hauteur cible à protéger**. Il se comb
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant sur la ligne centrale pour mesurer la distance et préparer le tirage puissant à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité à l'amorce de la vague.
 
-### Étape 2 : L'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente fluide du corps (*Basse - Haute - Basse*).
 2. **Trajectoire vers l'axe :** Le bras se déploie en arc de cercle vers la ligne du buste.

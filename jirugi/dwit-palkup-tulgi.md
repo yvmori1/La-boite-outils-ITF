@@ -30,7 +30,7 @@ Le **Dwit Palkup Tulgi** est une attaque redoutable à très courte distance, co
 2. **Armement du bras :** Le bras qui frappe est fléchi au maximum devant la poitrine, coude pointé vers l'avant ou légèrement sur le côté.
 3. **Phase basse (*Sine Wave*) :** Fléchissement des genoux et abaissement du centre de gravité.
 
-### Étape 2 : La Propulsions Arrière et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Propulsions Arrière et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente sèche du corps (*Basse - Haute - Basse*).
 2. **Piston vertical-arrière :** Le coude est projeté violemment vers l'arrière en ligne droite, rasant le flanc.
@@ -67,4 +67,4 @@ On retrouve le coup de coude arrière dans plusieurs *Tul* de niveau intermédia
 * **Ne pas tourner la tête :** Lancer le coude vers l'arrière à l'aveugle sans avoir aligné le regard et le menton vers la cible.
 * **Se pencher vers l'avant :** Casser le buste vers l'avant pour compenser le mouvement du coude, ce qui déséquilibre la posture et réduit la force de pénétration.
 * **Écarter le coude du corps :** Faire un grand arc de cercle vers l'extérieur au lieu de maintenir une trajectoire rectiligne rasant les côtes.
-* **Oublier d'engager la hanche :** Utiliser uniquement les muscles du bras sans reculer ou pivoter la hanche pour accompagner l'onde de choc.
+* **Oublier d'engager la hanche :** Utiliser uniquement les muscles du bras sans reculer ou pivoter la hanche pour accompagner le mouvement de vague.

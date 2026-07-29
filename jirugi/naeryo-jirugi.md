@@ -31,7 +31,7 @@ Sa décomposition linguistique est la suivante :
 
 1. **Position d'amorce :** Le poing d'attaque s'arme à la hanche (*Heori*) ou légèrement plus haut au niveau des côtes, paume orientée vers le haut.
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu devant/vers le bas pour guider la ligne de frappe ou maintenir une cible au sol.
-3. **Phase haute de l'onde de choc (*Sine Wave*) :** Le corps s'élève légèrement pour préparer la chute de masse.
+3. **Phase haute du mouvement de vague (*Sine Wave*) :** Le corps s'élève légèrement pour préparer la chute de masse.
 
 ### Étape 2 : La Trajectoire Descendante et la Chute de Masse
 
@@ -69,4 +69,4 @@ On retrouve le coup de poing descendant dans plusieurs formes avancées du progr
 * **Casser la colonne vertébrale (se pencher en avant) :** Pencher le buste exagérément vers le sol au lieu de fléchir les genoux pour baisser le centre de gravité, ce qui rompt l'alignement et détruit la stabilité.
 * **Confondre avec un coup de poing direct moyen/bas (*Dung Jirugi / Kaunde Jirugi*) :** Lancer le poing horizontalement vers le bas au lieu d'avoir une vraie trajectoire descendante axiale.
 * **Négliger la rotation du poignet :** Arriver la paume sur le côté au lieu d'achever la rotation complète d'**Ap Joomuk**.
-* **Frapper "jambes tendues" :** Rester haut sur ses jambes, ce qui prive la frappe du transfert de masse apporté par l'onde de choc descendante.
+* **Frapper "jambes tendues" :** Rester haut sur ses jambes, ce qui prive la frappe du transfert de masse apporté par le mouvement de vague descendant.

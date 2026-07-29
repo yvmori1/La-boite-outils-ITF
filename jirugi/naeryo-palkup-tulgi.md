@@ -32,7 +32,7 @@ Sa décomposition linguistique est la suivante :
 
 1. **Élévation du coude :** Le coude d'attaque monte au-dessus du niveau de la poitrine / des épaules, pointant vers le haut, poing fermé.
 2. **Main de réaction / Saisie (*Bandae Son*) :** Le bras opposé est étendu vers le bas ou agrippe la tête/le buste de l'adversaire pour le maintenir en place sous la trajectoire.
-3. **Ascension de l'onde de choc (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes pour préparer la redescente.
+3. **Ascension du mouvement de vague (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes pour préparer la redescente.
 
 ### Étape 2 : La Chute de Masse et la Trajectoire
 

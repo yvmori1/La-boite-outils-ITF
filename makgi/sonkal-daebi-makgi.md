@@ -35,7 +35,7 @@ Les deux mains ouvertes travaillent de concert pour former un bouclier fluide et
     * Le bras arrière (de garde) passe **à l'extérieur**, paume orientée vers le sol.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité pour emmagasiner l'énergie potentielle.
 
-### Étape 2 : L'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Déploiement en arc :** Les deux mains décrivent une trajectoire circulaire et fluide vers leurs positions de verrouillage respectives.

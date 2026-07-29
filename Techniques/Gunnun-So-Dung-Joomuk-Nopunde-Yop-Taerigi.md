@@ -51,7 +51,7 @@ La frappe tire son ancrage et son transfert de masse de la posture de marche :
 3. **Main de réaction (*Bandae Son*) :** L'autre bras s'étend devant soi pour guider l'axe avant d'être tiré puissamment à la hanche.
 4. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux au départ du pas.
 
-### Étape 2 : Le Déploiement en Fouet et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement en Fouet et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps pendant la transition du pas, suivie d'une redescente explosive lors du verrouillage au sol.
 2. **Action de charnière du coude :** Le coude reste calé sur la ligne latérale tandis que l'avant-bras se détend de manière réactive vers l'extérieur.

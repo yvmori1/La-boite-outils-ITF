@@ -46,7 +46,7 @@ La force du blocage repose sur l'ancrage solide de la posture de marche :
 2. **Main de réaction (*Bandae Son*) :** L'autre bras est étendu vers le bas et l'avant pour viser l'axe de défense.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux au départ du pas.
 
-### Étape 2 : La Trajectoire Ascendante et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Ascendante et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps au milieu de la transition du pas, puis redescente explosive lors de la fixation de la posture au sol.
 2. **Piston ascendant :** Le bras bloqueur monte verticalement le long de la ligne centrale du corps, le poing rasant le torse puis le visage avant de passer au-dessus de la tête.

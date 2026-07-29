@@ -38,7 +38,7 @@ Toute la nuance réside dans le mot-clé **Taerigi** :
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu sur la ligne centrale pour calibrer la trajectoire et préparer le tirage de réaction.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux.
 
-### Étape 2 : La Trajectoire Cinglante et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Cinglante et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps pendant le déplacement, suivie d'une redescente lourde et explosive à l'impact.
 2. **Déploiement en fouet :** Le poing décrit un arc de cercle ou une trajectoire angulaire, l'avant-bras se détendant autour du coude comme une charnière réactive.

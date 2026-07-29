@@ -29,7 +29,7 @@ Le **Kiokja Jirugi** est une frappe circulaire courte et angulaire. Contrairemen
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu devant soi pour guider l'axe avant d'être retiré puissamment vers la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité avec fléchissement des genoux.
 
-### Étape 2 : Le Déploiement Angulaire et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement Angulaire et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Trajectoire en arc :** Le poing d'attaque quitte la hanche et remonte selon une trajectoire courbe vers le centre, le coude s'écartant pour maintenir la forme en "ㄱ".

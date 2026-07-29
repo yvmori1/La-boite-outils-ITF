@@ -29,7 +29,7 @@ Là où le *Bandalson Makgi* classique n'utilise qu'une seule main pour dévier 
 
 1. **Mise en forme :** Les deux mains prennent la structure *Bandalson* dès la phase de préparation.
 2. **Croisement d'amorce :** Les deux bras se croisent au niveau de la poitrine ou s'arment près des flancs opposés (selon que le blocage soit dirigé vers l'extérieur ou vers l'avant).
-3. **Pression du corps :** Abaissement du centre de gravité dans la première phase de l'onde de choc (*Sine Wave*).
+3. **Pression du corps :** Abaissement du centre de gravité dans la première phase du mouvement de vague (*Sine Wave*).
 
 ### Étape 2 : L'Extension Synchronisée (*Sine Wave*)
 

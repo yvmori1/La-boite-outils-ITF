@@ -37,7 +37,7 @@ Cette trajectoire vers l'extérieur s'associe à plusieurs armes naturelles selo
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est tendu vers l'avant pour viser l'axe et préparer son tirage puissant à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors de la préparation.
 
-### Étape 2 : La Trajectoire Sortante et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Sortante et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Déploiement centrifuge :** Le bras décrit un arc de cercle qui s'élance de la ligne centrale (*Center line*) vers le bord extérieur du corps.

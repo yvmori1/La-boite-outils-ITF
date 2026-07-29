@@ -33,7 +33,7 @@ Selon l'orientation de l'articulation et la direction du mouvement, le poignet o
 3. **Main de réaction (*Bandae Son*) :** Le bras opposé s'arme tendu sur la ligne centrale ou au flanc pour guider la réaction.
 4. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité à l'amorce du déplacement.
 
-### Étape 2 : Le Déploiement et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Trajectoire en crochet / déviation :** Le poignet s'élance vers la cible dans un mouvement fluide d'interception.

@@ -42,7 +42,7 @@ Il est important de distinguer ces deux frappes du revers :
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu sur la ligne centrale pour guider l'axe avant d'être tiré à la hanche.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité lors du déplacement.
 
-### Étape 2 : Le Déploiement en Fouet et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement en Fouet et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente sèche du corps (*Basse - Haute - Basse*).
 2. **Action de charnière du coude :** Le coude s'oriente vers la cible et sert de pivot autour duquel l'avant-bras et la main ouverte s'élancent de manière explosive.

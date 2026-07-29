@@ -42,7 +42,7 @@ En TaeKwon-Do ITF, le terme *Sasun* qualifie l'orientation de la trajectoire. Il
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé s'étend devant soi sur la ligne centrale pour calibrer la cible et servir de hauban lors du tirage de réaction.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors de la prise de pas.
 
-### Étape 2 : La Trajectoire Oblique et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire Oblique et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation (*Basse - Haute - Basse*) :** Élévation légère du corps pendant la transition, suivie d'une redescente lourde et explosive à l'impact.
 2. **Fouetté en diagonale :** Le bras s'élance en tranchant l'air de haut en bas selon un angle de 45°, traversant l'axe central du corps.
@@ -60,7 +60,7 @@ En TaeKwon-Do ITF, le terme *Sasun* qualifie l'orientation de la trajectoire. Il
 > **Contourner les gardes verticales et briser la structure :**
 > 1. **Pénétration au-dessus des bras :** Une garde classique protège bien contre les attaques purement horizontales ou directes. La trajectoire en diagonale (*Sasun*) passe par-dessus l'avant-bras adverse pour venir impacter directement le cou ou la clavicule.
 > 2. **Effet de cisaillement :** Frapper la clavicule de haut en bas en diagonale génère une contrainte mécanique maximale sur l'os, capable de neutraliser immédiatement le bras de l'agresseur.
-> 3. **Puissance combinée de la pesanteur :** En associant la redescente de l'onde de choc (*Sine Wave*) à la trajectoire descendante oblique, la force d'impact est démultipliée par la masse du corps.
+> 3. **Puissance combinée de la pesanteur :** En associant la redescente du mouvement de vague (*Sine Wave*) à la trajectoire descendante oblique, la force d'impact est démultipliée par la masse du corps.
 
 ---
 

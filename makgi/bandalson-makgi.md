@@ -28,7 +28,7 @@ Sa décomposition linguistique est la suivante :
 2. **Position de départ :** La main s'arme près de la hanche ou de la poitrine opposée, paume orientée vers l'intérieur.
 3. **Visée / Réaction :** Le bras opposé est tendu vers l'avant pour servir de repère et de force de réaction (*Bandae Son*).
 
-### Étape 2 : La Trajectoire et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : La Trajectoire et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Le corps effectue le mouvement *Basse - Haute - Basse* propre à l'ITF.
 2. **Déploiement en arc :** La main avance dans un mouvement fluide, légèrement circulaire ou ascendant/oblique, pour venir intercepter la trajectoire de l'attaque.
@@ -65,5 +65,5 @@ La main en arc (*Bandalson*) est introduite très tôt dans le cursus, mais son 
 ## 5. Erreurs fréquentes à éviter
 
 * **Pouce relâché ou trop ouvert :** Un pouce mou ou trop écarté risque de se retourner et de se casser lors du blocage d'un coup puissant.
-* **Main immobile / passive :** Tendre la main en attendant l'attaque au lieu d'impacter et de dévier le membre adverse avec l'onde de choc (*Sine Wave*).
+* **Main immobile / passive :** Tendre la main en attendant l'attaque au lieu d'impacter et de dévier le membre adverse avec le mouvement de vague (*Sine Wave*).
 * **Doigts écartés :** Écarter les quatre autres doigts, ce qui fragilise la structure globale de la main.

@@ -30,7 +30,7 @@ Le *San Makgi* s'exécute généralement en posture cavalier (**Annun Sogi**) ou
 2. **Posturale :** Préparation de la posture (ex: ancrage large en *Annun Sogi*).
 3. **Phase basse (*Sine Wave*) :** Fléchissement des genoux et abaissement du centre de gravité.
 
-### Étape 2 : L'Ascension Centrifuge et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : L'Ascension Centrifuge et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Déploiement en "W" :** Les deux coudes s'écartent et montent simultanément, projetant les deux poings/avant-bras vers le haut et l'extérieur dans une trajectoire en demi-cercle.

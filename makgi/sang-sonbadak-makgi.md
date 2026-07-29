@@ -32,7 +32,7 @@ Le *Doo Sonbadak Makgi* s'adapte à l'angle et à la hauteur d'interception (*No
 2. **Croisement d'amorce :** Les deux mains s'arment près du flanc ou de l'épaule opposée (selon la variante), paumes orientées vers le corps.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité pour emmagasiner l'énergie potentielle.
 
-### Étape 2 : Le Déploiement et l'Onde de Choc (*Sine Wave*)
+### Étape 2 : Le Déploiement et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
 2. **Trajectoire jumelle :** Les deux paumes se déploient en parfaite synchronisation vers la cible.
