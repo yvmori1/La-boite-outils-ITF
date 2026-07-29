@@ -165,11 +165,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids :** Réparti à 50% sur le pied gauche, 50% sur le pied droit.
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-   [ Pied G ]  <--------- 1 Largeur d'épaule (Gros orteils) --------->  [ Pied D ]
-     |    |                                                               |    |
-     |____|                                                               |____|
-  ```
+![narani-junbi-sogi](../images/narani-junbi-sogi.png)
 
 #### 3.7 POSITION D'ATTENTE PARALLÈLE (Narani Junbi Sogi)
 
@@ -181,13 +177,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
   * Distance entre les poings et l'abdomen : **7 cm**.
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-        (Poing) 5cm (Poing)
-           \     /
-       7cm  \___/   devant l'abdomen
-   [ Pied G ]             [ Pied D ]
-     |    |                 |    |
-  ```
+![narani-junbi-sogi](../images/narani-junbi-sogi.png)
 
 #### 3.8 POSITION ASSISE (Annun Sogi)
 
@@ -198,11 +188,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids et Posture :** Poids réparti à 50% sur chaque jambe, abdomen contracté et tendu pour assurer une stabilité maximale lors des mouvements latéraux.
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-   [ Pied G ]  <------------- 1.5 Largeur d'épaule (Centre à centre) ------------->  [ Pied D ]
-     |    |                    (Genoux poussés vers l'extérieur)                      |    |
-     |____|                                                                           |____|
-  ```
+![annun-sogi](../images/annun-sogi.png)
 
 #### 3.9 POSITION DE MARCHE (Gunnun Sogi)
 
@@ -219,18 +205,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Musculature :** Tendre les muscles des pieds en les sentant tirer l'un vers l'autre pour sceller l'ancrage au sol.
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-            [ Pied Avant (0°) ]
-                 |       |
-                 |_______|
-                     ^
-                     |  1.5 Largeur d'épaule (Longueur entre gros orteils)
-                     v
-          <-- 1 Largeur d'épaule (Largeur centre à centre) -->
-          [ Pied Arrière (25° ext.) ]
-            \       \
-             \_______\
-  ```
+![gunnun-sogi](../images/gunnun-sogi.png)
 
 #### 3.10 POSITION EN « L » (Niunja Sogi)
 
@@ -244,17 +219,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Usage :** Posture de garde principalement défensive permettant d'intercepter, bloquer ou contre-attaquer instantanément de la jambe avant sans transfert préalable du centre de gravité.
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-                     [ Pied Avant (15° int. / 30% Poids) ]
-                          /       /
-                         /_______/
-                            ^
-                            | 1.5 Largeur d'épaule (gros orteil av. au petit orteil arr.)
-                            v
-          [ Pied Arrière (15° int. / 70% Poids) ]  [ Talon avant décalé de 2,5 cm ]
-             ||    ||
-             ||____||
-  ```
+![niunja-sogi](../images/niunja-sogi.png)
 
 #### 3.11 POSITION FIXE (Gojung Sogi)
 
@@ -264,6 +229,8 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids :** Réparti équitablement à **50% sur chaque jambe**.
 * **Usage :** Position extrêmement forte et stable pour les attaques et défenses de côté en puissance.
 * **Schéma d'alignement (ASCII) :**
+
+![gojung-sogi](../images/gojung-sogi.png)
 
   ```text
                      [ Pied Avant (15° int. / 50% Poids) ]
@@ -317,14 +284,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids :** Presque 100% sur la jambe arrière fléchie (le pied avant restant libre pour frapper instantanément ou ajuster la distance).
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-                      o  [ Plante du pied avant (25° int. / talon levé) ]
-                     /                     /   1 Largeur d'épaule (Longueur)
-                   /
-          [ Pied Arrière (35° int. / à plat / Genou vers l'intérieur) ]
-            //      //
-           //______//
-  ```
+![dwitbal-sogi](../images/dwitbal-sogi.png)
 
 #### 3.16 POSITION BASSE (Nachuo Sogi)
 
@@ -348,17 +308,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids :** Réparti à **60% sur la jambe arrière** et **40% sur la jambe avant**.
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-                     [ Pied Avant (15° int. / 40% Poids) ]
-                          /       /
-                         /_______/
-                            ^
-                            | 1 Largeur d'épaule
-                            v
-          [ Pied Arrière (15° int. / 60% Poids) ]
-            /       /
-           /_______/
-  ```
+![soojik-sogi](../images/soojik-sogi.png)
 
 #### 3.19 POSITION EN DIAGONALE (Sasun Sogi)
 
@@ -368,15 +318,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Usage :** Très utile pour basculer instantanément vers la position de marche (*Gunnun Sogi*) sans avoir à déplacer les appuis au sol.
 * **Schéma d'alignement (ASCII) :**
 
-  ```text
-   [ Pied G (Avant) ]
-     |    |
-     |____|
-   ============== Ligne de décalage (Talon G aligné avec Orteils D) ============
-                                             [ Pied D (Arrière) ]
-                                               |    |
-                                               |____|
-  ```
+![sasun-sogi](../images/sasun-sogi.png)
 
 #### 3.20 POSITION ACCROUPIE (Oguryo Sogi)
 
@@ -392,6 +334,8 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Variantes :**
   * **Ouverte à l'intérieur (An Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'intérieur** l'un de l'autre.
   * **Ouverte à l'extérieur (Bakat Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'extérieur à un angle de 45 degrés**.
+
+![palja-sogi](../images/palja-sogi.png)
 
 ---
 
