@@ -142,7 +142,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Largeur :** Talons collés, bords internes ouverts.
 * **Orientation :** Les pieds forment un angle de **45 degrés**.
 * **Posture :** Les poings sont fermés et placés légèrement le long du corps de chaque côté au naturel, les épaules inclinées et le regard fixé vers l'avant.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
   ```text
      /   \
@@ -228,21 +228,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Longueur :** **Une largeur et demie d'épaule (70,5 cm)** mesurée du gros orteil du pied avant au gros orteil du pied arrière.
 * **Poids :** Réparti équitablement à **50% sur chaque jambe**.
 * **Usage :** Position extrêmement forte et stable pour les attaques et défenses de côté en puissance.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
-![gojung-sogi](../images/gojung-sogi.png)
-
-  ```text
-                     [ Pied Avant (15° int. / 50% Poids) ]
-                          /       /
-                         /_______/
-                            ^
-                            | 1.5 Largeur d'épaule (entre gros orteils)
-                            v
-          [ Pied Arrière (15° int. / 50% Poids) ]
-             ||    ||
-             ||____||
-  ```
+![gojung-sogi](../images/gojung-sogi.gif)
 
 #### 3.12 POSITION SUR UNE JAMBE (Waebal Sogi)
 
@@ -282,7 +270,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
   * Pied arrière : À plat au sol. Les orteils pointent vers l'intérieur à **35 degrés**, et le genou arrière doit impérativement **pointer légèrement vers l'intérieur**.
   * Pied avant : Talon décollé du sol, le pied ne fait que **frôler le sol avec la plante**. Les orteils pointent vers l'intérieur à **25 degrés**.
 * **Poids :** Presque 100% sur la jambe arrière fléchie (le pied avant restant libre pour frapper instantanément ou ajuster la distance).
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
 ![dwitbal-sogi](../images/dwitbal-sogi.png)
 
@@ -292,12 +280,18 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Structure :** Identique à la position de marche (*Gunnun Sogi*), à la seule différence qu'elle est **plus longue d'une longueur de pied standard (25 cm)**.
 * **Poids :** Réparti à 50% sur la jambe avant, 50% sur la jambe arrière.
 * **Usage :** Allonger la portée des armes corporelles d'attaque et renforcer la musculature des cuisses.
+* **Schéma d'alignement :**
+
+![nachuo-sogi](../images/nachuo-sogi.gif)
 
 #### 3.17 POSITION RAPPROCHÉE (Moa Sogi)
 
 * **Nomenclature coréenne :** *Moa Sogi / 모아소기*.
 * **Exécution :** Se tenir simplement debout, les **pieds entièrement collés** l'un contre l'autre (bords internes des talons et des gros orteils en contact).
 * **Poids :** Réparti équitablement (50/50).
+* **Schéma d'alignement :**
+
+![moa-sogi](../images/moa-sogi.png)
 
 #### 3.18 POSITION VERTICALE (Soojik Sogi)
 
@@ -306,7 +300,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Orientation :** Les deux pieds sont orientés à un angle précis de **15 degrés vers l'intérieur**.
 * **Jambes :** Les deux jambes sont maintenues **parfaitement droites et tendues** (sans aucune flexion des genoux).
 * **Poids :** Réparti à **60% sur la jambe arrière** et **40% sur la jambe avant**.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
 ![soojik-sogi](../images/soojik-sogi.png)
 
@@ -316,7 +310,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Structure :** Reprend les dimensions de la position assise (*Annun Sogi*), mais avec un décalage longitudinal.
 * **Décalage :** Le **talon du pied avant est placé sur la même ligne horizontale que les orteils du pied arrière**.
 * **Usage :** Très utile pour basculer instantanément vers la position de marche (*Gunnun Sogi*) sans avoir à déplacer les appuis au sol.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
 ![sasun-sogi](../images/sasun-sogi.png)
 
@@ -326,6 +320,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Structure :** Il s'agit d'une variante de la position en diagonale (*Sasun Sogi*).
 * **Flexion :** Les deux genoux sont fléchis et **forcés vers l'intérieur** l'un vers l'autre pour créer une tension dynamique active dans les cuisses.
 * **Dimensions :** L'écartement entre les pieds peut être ajusté librement selon les besoins tactiques.
+* **Schéma d'alignement :**
+
+![oguryo-sogi](../images/oguryo-sogi.gif)
 
 #### 3.21 POSITIONS OUVERTES (Palja Sogi)
 
