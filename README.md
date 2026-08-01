@@ -45,3 +45,21 @@ Un nom de technique ITF se lit dans l'ordre : **position → surface de frappe �
 > *Gunnun So Bakat Palmok Nopunde Yop Makgi* = en position de marche, avec l'avant-bras externe, au niveau haut, blocage latéral.
 
 Les fiches de [Techniques](Techniques/README.md) suivent cette construction complète ; celles de [chagi](chagi/README.md), [makgi](makgi/README.md) et [jirugi](jirugi/README.md) isolent un seul élément du vocabulaire. La règle est détaillée dans [Theorie/grammaire-itf.md](Theorie/grammaire-itf.md).
+
+---
+
+## Site web
+
+L'ensemble des fiches est publié sur **<https://yvmori1.github.io/La-boite-outils-ITF/>**, avec menu latéral et recherche plein texte. Le site est reconstruit automatiquement à chaque `push` sur `main`.
+
+Les fiches restent à la racine du dépôt : le dossier `docs/` ne contient que des liens symboliques vers les répertoires de contenu, plus la configuration du menu (`docs/.pages`). Ajouter une fiche dans un répertoire existant suffit — elle apparaît seule dans le menu.
+
+**Aperçu local :**
+
+```sh
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+mkdocs serve          # http://127.0.0.1:8000
+```
+
+`mkdocs build` produit le site dans `site/` (ignoré par git).

@@ -7,6 +7,12 @@
 # Site généré par import-local.sh
 public_html/
 
+# Site généré par MkDocs
+site/
+.cache/
+venv/
+.venv/
+
 # Éditeurs
 .vscode/
 .idea/

@@ -1,0 +1,81 @@
+site_name: La boîte à outils ITF
+site_description: >-
+  Documentation technique et théorique de Taekwon-Do ITF, en français :
+  fiches de techniques, formes (Tul), théorie et passages de grade.
+site_url: https://yvmori1.github.io/La-boite-outils-ITF/
+repo_url: https://github.com/yvmori1/La-boite-outils-ITF
+repo_name: La-boite-outils-ITF
+edit_uri: edit/main/
+copyright: La boîte à outils ITF
+
+# Les fiches restent à la racine du dépôt. Le dossier docs/ ne contient que
+# des liens symboliques vers ces dossiers, plus les fichiers propres au site.
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Passer au thème sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Passer au thème clair
+
+plugins:
+  - search:
+      lang: fr
+  # Lit docs/.pages pour l'ordre et les titres des sections du menu.
+  - awesome-pages
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: "¶"
+      permalink_title: Lien vers cette section
+  # Formules LaTeX ($...$ et $$...$$) présentes dans Theorie/.
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_javascript:
+  - assets/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+# Signale les liens internes cassés pendant la construction, sans la bloquer.
+validation:
+  links:
+    absolute_links: warn
+    unrecognized_links: warn

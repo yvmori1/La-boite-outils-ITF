@@ -17,7 +17,7 @@ Voir [../Theorie/positions.md](../Theorie/positions.md) pour les descriptions.
 | [narani-junbi-sogi.png](narani-junbi-sogi.png) | Position de préparation parallèle |
 | [gunnun-sogi.png](gunnun-sogi.png) | Position de marche |
 | [niunja-sogi.png](niunja-sogi.png) | Position en « L » |
-| [annun-sogi (anun_sogi.png)](anun_sogi.png) | Position assise / du cavalier |
+| [annun-sogi (annun-sogi.png)](annun-sogi.png) | Position assise / du cavalier |
 | [dwitbal-sogi.png](dwitbal-sogi.png) | Position sur la jambe arrière |
 | [moa-sogi.png](moa-sogi.png) | Position pieds joints |
 | [palja-sogi.png](palja-sogi.png) | Position en « 8 » ouverte |

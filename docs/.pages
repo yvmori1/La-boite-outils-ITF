@@ -1,0 +1,12 @@
+# Ordre et titres des sections du menu latéral.
+# Toute fiche ajoutée dans un dossier apparaît automatiquement dans sa section.
+nav:
+  - README.md
+  - Ceintures
+  - Formes (tul): tul
+  - Coups de pied (chagi): chagi
+  - Blocages (makgi): makgi
+  - Frappes de la main (jirugi): jirugi
+  - Techniques
+  - Théorie: Theorie
+  - Images: images
