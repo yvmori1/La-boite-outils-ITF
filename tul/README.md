@@ -4,8 +4,6 @@ Les **Tul** sont les formes codifiées du Taekwon-Do ITF : une séquence imposé
 
 Ce répertoire contient **une fiche par forme** : signification du nom, nombre de mouvements, diagramme au sol, lien vidéo, posture de départ et **liste détaillée de tous les mouvements** un par un.
 
-[← Retour à l'index général](../README.md)
-
 ## Manuel Technique (Du 10e Gup au 6e Dan)
 
 Ce recueil technique réunit l'ensemble des 24 formes (Tuls) officielles créées par le Général Choi Hong Hi, complétées par les exercices préparatoires fondamentaux. Chaque fiche respecte rigoureusement la nomenclature, l'historique moral, le diagramme au sol et la décomposition pas-à-pas des mouvements.

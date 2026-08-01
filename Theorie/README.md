@@ -4,8 +4,6 @@ Documents de fond : vocabulaire, règles de nomenclature, principes de puissance
 
 Ce répertoire contient les documents de référence transversaux, par opposition aux fiches de technique unitaires des autres répertoires.
 
-[← Retour à l'index général](../README.md)
-
 ---
 
 ## Vocabulaire et nomenclature

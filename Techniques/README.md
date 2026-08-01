@@ -8,8 +8,6 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 > *Gunnun So Bakat Palmok Nopunde Yop Makgi* = en position de marche, avec l'avant-bras externe, au niveau haut, blocage latéral.
 
-[← Retour à l'index général](../README.md)
-
 ---
 
 ## En position de marche (*Gunnun So*)

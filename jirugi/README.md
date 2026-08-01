@@ -8,8 +8,6 @@ Trois natures d'action se distinguent dans les noms :
 * **Taerigi (때리기)** — frappe cinglante ou fouettée, obtenue par la vitesse d'extrémité.
 * **Tulgi (툴기)** — pique pénétrante dans une ouverture étroite.
 
-[← Retour à l'index général](../README.md)
-
 ---
 
 ## 1. Coups de poing perçants (*Jirugi*)

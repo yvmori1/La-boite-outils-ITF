@@ -4,8 +4,6 @@ Fiches détaillées des coups de pied du Taekwon-Do ITF. Chaque fiche décompose
 
 Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 
-[← Retour à l'index général](../README.md)
-
 ---
 
 ## Fiches transversales

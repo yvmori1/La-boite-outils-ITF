@@ -4,8 +4,6 @@ Une fiche par grade, du **10e Gup** (ceinture blanche) au **6e Dan**. Chaque fic
 
 Les fiches sont cumulatives : un grade suppose la maîtrise de tous les précédents.
 
-[← Retour à l'index général](../README.md)
-
 ---
 
 ## Préambule

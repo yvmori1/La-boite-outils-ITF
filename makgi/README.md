@@ -4,8 +4,6 @@ Fiches détaillées des blocages du Taekwon-Do ITF. Chaque fiche décompose la t
 
 Un nom de blocage se construit en combinant quatre éléments : **surface** (*Palmok*, *Sonkal*, *Sonbadak*…) → **niveau** (*Najunde*, *Kaunde*, *Nopunde*) → **direction** (*An*, *Bakat*, *Yop*…) → **Makgi**. Les fiches ci-dessous isolent chacun de ces éléments ; les combinaisons complètes se trouvent dans [../Techniques/README.md](../Techniques/README.md).
 
-[← Retour à l'index général](../README.md)
-
 ---
 
 ## 1. Niveaux et zones
