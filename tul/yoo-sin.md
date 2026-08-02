@@ -142,9 +142,9 @@
    > *Exécuter en mouvement lent.*
 
 49. Déplacer le pied gauche vers E pour former une position fixe gauche vers E tout en exécutant un coup de poing en U vers E.
-   *(Gojung so digutja jirugi)*
+   *([Gojung so digutja jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md))*
 50. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers E, pour former une position fixe droite vers E tout en exécutant un coup de poing en U vers E.
-   *(Gojung so digutja jirugi)*
+   *([Gojung so digutja jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md))*
 51. Déplacer le pied droit sur ligne CD en un en écrasant mouvement pour former une position assise vers E tout en exécutant une frappe frontale vers E avec le revers du poing droit.
    *([Annun so orun dung joomuk ap taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md))*
 52. Exécuter un coup de pied retourné vers D avec le pied droit, puis un blocage extérieur haut vers AC avec l'avant-bras extérieur droit, en gardant le position de la mains comme s'ils étaient en 51 tout en formant une position assise vers E.

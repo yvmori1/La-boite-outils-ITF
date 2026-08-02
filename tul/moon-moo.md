@@ -16,7 +16,7 @@
 ### Posture de départ : position parallèle de préparation
 
 1. Tourner le visage vers B tout en formant un droit position de préparation pliée A vers B.
-   *(Guburyo junbi sogi A)*
+   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 
    > *Exécuter en mouvement lent.*
 
@@ -49,7 +49,7 @@
    > *Exécuter en mouvement lent.*
 
 10. Abaisser le pied gauche vers le pied droit puis tourner le visage vers A tout en formant un gauche position de préparation pliée A vers A.
-   *(Guburyo junbi sogi A)*
+   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 
    > *Exécuter en mouvement lent.*
 
@@ -71,7 +71,7 @@
    > *Exécuter en mouvement lent.*
 
 15. Abaisser le pied gauche vers A en mouvement sauté pour former une position en X gauche vers C tout en exécutant une frappe latérale moyenne vers A avec le tranchant de la main gauche.
-   *(Twigi, wen kyocha so sonkal kaunde yop taerigi)*
+   *(Twigi, [wen kyocha so sonkal kaunde yop taerigi](../Techniques/Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md))*
 16. Déplacer le pied droit vers B pour former une position de marche droite vers B tout en exécutant un blocage en pression vers B avec la paume gauche.
    *(Gunnun so sonbadak bandae noollo makgi)*
 17. Déplacer le pied gauche vers B pour former une position de marche gauche vers B en même temps en exécutant un blocage en pression avec la paume droite.
@@ -82,7 +82,7 @@
    > *Exécuter en mouvement lent.*
 
 19. Tourner le visage vers C tout en formant un gauche position de préparation pliée B vers D.
-   *(Guburyo junbi sogi B)*
+   *([Guburyo junbi sogi B](../Techniques/Guburyo-Junbi-Sogi-B.md))*
 20. Exécuter un coup de pied arrière perçant haut vers C avec le pied droit.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
 
@@ -91,7 +91,7 @@
 21. Abaisser le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 22. Tourner le visage vers C tout en formant un droit position de préparation pliée B vers D.
-   *(Guburyo junbi sogi B)*
+   *([Guburyo junbi sogi B](../Techniques/Guburyo-Junbi-Sogi-B.md))*
 23. Exécuter un coup de pied arrière perçant haut vers C avec le pied gauche.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
 
@@ -176,7 +176,7 @@
 56. Sauter vers C pour former une position en X droite vers AC tout en exécutant un coup de poing bas vers C avec le poing gauche et en amenant le poing droit sur la épaule gauche.
    *(Twigi, orun kyocha so najunde bandae jirugi)*
 57. Sauter vers D pour former une position en X gauche vers AD tout en exécutant un coup de poing bas vers D avec le poing droit et en amenant le poing gauche sur la épaule droite.
-   *(Twigi, wen kyocha so najunde bandae jirugi)*
+   *(Twigi, [wen kyocha so najunde bandae jirugi](../Techniques/Wen-Kyocha-So-Najunde-Bandae-Jirugi.md))*
 58. Sauter vers exécuter un coup de pied en vol vers D avec le pied droit tout en pivotant dans le sens horaire.
    *(Twio dolmyo chagi)*
 59. Atterrir vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.

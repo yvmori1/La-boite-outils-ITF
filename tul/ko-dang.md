@@ -21,10 +21,10 @@
 6. Exécuter un coup de poing moyen vers BD avec le poing gauche tout en maintenant la position assise ([Annun So Kaunde Bandae Jirugi](../Techniques/Annun-So-Kaunde-Bandae-Jirugi.md)).
 7. Déplacer le pied gauche sur la ligne CD pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras ([Niunja So Palmok Kaunde Daebi Makgi](../makgi/palmok-daebi-makgi.md)).
 8. Exécuter un blocage bas vers BD avec l'avant-bras extérieur gauche et un blocage de côté moyen vers D with l'avant-bras intérieur droit tout en maintenant la position en L gauche vers D ([Niunja So Bakat Palmok Najunde Makgi](../makgi/bakat-palmok-makgi.md), [An Palmok Kaunde Yop Makgi](../Techniques/An-Palmok-Kaunde-Yop-Makgi.md)).
-9. Tourner le visage vers C tout en formant une position de préparation avec flexion gauche B vers D (Guburyo Junbi So B).
+9. Tourner le visage vers C tout en formant une position de préparation avec flexion gauche B vers D ([Guburyo Junbi So B](../Techniques/Guburyo-Junbi-So-B.md)).
 10. Exécuter un coup de pied arrière percutant moyen vers C avec le pied droit ([Kaunde Dwitcha Jirugi](../chagi/dwit-cha-jirugi.md)).
 11. Poser le pied droit au sol vers C pour former une position en L droite vers D tout en exécutant un blocage moyen vers D avec le tranchant de la main gauche ([Niunja So Sonkal Kaunde Makgi](../makgi/kaunde-makgi.md)).
-12. Tourner le visage vers C tout en formant une position de préparation avec flexion droite B vers D (Guburyo Junbi So B).
+12. Tourner le visage vers C tout en formant une position de préparation avec flexion droite B vers D ([Guburyo Junbi So B](../Techniques/Guburyo-Junbi-So-B.md)).
 13. Exécuter un coup de pied arrière percutant moyen vers C avec le pied gauche ([Kaunde Dwitcha Jirugi](../chagi/dwit-cha-jirugi.md)).
 14. Poser le pied gauche au sol vers C pour former une position en L gauche vers D tout en exécutant un blocage moyen vers D avec le tranchant de la main droite ([Niunja So Sonkal Kaunde Makgi](../makgi/kaunde-makgi.md)).
 15. Déplacer le pied droit vers C pour former une position en L droite vers D tout en exécutant une poussée vers le bas vers D avec le coude gauche rectiligne (Niunja So Sun Palkup Naeryo Tulgi).

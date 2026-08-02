@@ -26,7 +26,7 @@
 5. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 6. Tourner le visage vers C pour former un gauche position de préparation pliée A vers C.
-   *(Guburyo junbi sogi A)*
+   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 7. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 8. Abaisser le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
@@ -52,7 +52,7 @@
 17. Exécuter un coup de pied circulaire moyen vers DE avec le pied gauche.
    *([kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
 18. Abaisser le pied gauche vers le pied droit puis déplacer le pied droit vers C pour former une position fixe droite vers C tout en exécutant un blocage en U vers C.
-   *(Gojung so digutja makgi)*
+   *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 19. Sauter et pivoter autour dans le sens anti-horaire, à la réception sur la même place pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec un tranchant de la main.
    *(Twigi, [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C en même temps en exécutant une pique basse vers C avec la pique de doigts renversée droit.

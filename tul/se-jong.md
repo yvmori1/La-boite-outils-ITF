@@ -26,7 +26,7 @@
 6. Ramener le pied droit vers le pied gauche, pour former un position de préparation fermée B vers D.
    *(Moa junbi sogi B)*
 7. Sauter vers D pour former une position en X gauche vers DG tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche, en amenant la pulpe des doigts droit vers le gauche côté poing.
-   *(Twigi, wen kyocha so dung joomuk nopunde baro yop taerigi)*
+   *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
 8. Déplacer le pied droit vers G, pour former une position de marche droite vers G tout en exécutant un coup de poing haut vers G avec le poing droit.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 9. Déplacer le pied droit sur ligne GH pour former une position fixe gauche vers H tout en exécutant un blocage de garde haut vers H avec l'avant-bras.
@@ -40,7 +40,7 @@
 13. Exécuter un coup de pied circulaire moyen vers C avec le pied gauche.
    *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
 14. Abaisser le pied gauche vers C en mouvement sauté, pour former une position en X gauche vers CF tout en exécutant un blocage haut vers C avec le gauche double avant-bras.
-   *(Twigi, wen kyocha so doo palmok nopunde makgi)*
+   *(Twigi, [wen kyocha so doo palmok nopunde makgi](../Techniques/Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md))*
 15. Déplacer le pied droit vers F pour former une position assise vers C tout en étendant le poing droit horizontalement vers C.
    *([Annun sogi](../Techniques/Annun-Sogi.md))*
 
@@ -62,7 +62,7 @@
 21. Tirer le cou-de-pied gauche vers le creux du droit jambe pour former une position sur une jambe droite vers C tout en en frappant la paume gauche avec le droit arrière avant-bras.
    *(Waebal so dungpalmok baro taerigi)*
 22. Abaisser le pied gauche vers C, en tournant dans le sens horaire pour former une position fixe droite vers D tout en en piquant vers C avec le gauche côté coude.
-   *(Gojung so yop palkup tulgi)*
+   *([Gojung so yop palkup tulgi](../Techniques/Gojung-So-Yop-Palkup-Tulgi.md))*
 23. Déplacer le pied droit vers A, pour former une position en L gauche vers A tout en exécutant un blocage de garde haut vers A avec un tranchant de la main.
    *([Niunja so sonkal nopunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 24. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un coup de poing moyen vers B avec le poing droit.

@@ -72,7 +72,7 @@
 25. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position assise vers A tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
    *([Annun so wen dung joomuk nopunde yop taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 26. Déplacer le pied droit vers F en tournant dans le sens anti-horaire pour former un droit position de marche de préparation vers F.
-   *(Gunnun junbi sogi)*
+   *([Gunnun junbi sogi](../Techniques/Gunnun-Junbi-Sogi.md))*
 27. Sauter vers exécuter un coup de pied haut sauté vers F avec le pied droit.
    *(Twimyo nopi chagi)*
 28. Atterrir vers F pour former une position fixe droite vers F tout en exécutant un blocage d'arrêt vers F avec un tranchant des mains croisées.

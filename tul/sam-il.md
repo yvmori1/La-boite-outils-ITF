@@ -44,7 +44,7 @@
 14. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde haut vers B avec un revers de la main.
    *(Niunja so sonkal dung nopunde daebi makgi)*
 15. Exécuter un blocage en U vers B tout en formant une position fixe gauche vers B, en glissant le pied gauche.
-   *(Gojung so digutja makgi)*
+   *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 16. Exécuter un coup de pied balayé vers B avec le tranchant de la plante du pied droit puis abaisser il vers B pour former une position fixe droite vers B tout en exécutant un blocage en U vers B.
    *([Yop bal badak suroh chagi](../chagi/suroh-chagi.md), orun gojung so digutja makgi)*
 17. Sauter et pivoter dans le sens anti-horaire, à la réception sur la même place pour former une position en L gauche vers B tout en exécutant un blocage de garde moyen vers B avec un tranchant de la main.

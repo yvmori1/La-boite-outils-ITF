@@ -91,9 +91,9 @@
    > *Exécuter en mouvement lent.*
 
 31. Déplacer le pied droit vers A pour former une position fixe droite vers A tout en exécutant un blocage en U vers A.
-   *(Gojung so digutja makgi)*
+   *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 32. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers B pour former une position fixe gauche vers B, en même temps en exécutant un blocage en U vers B.
-   *(Gojung so digutja makgi)*
+   *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
 

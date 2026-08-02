@@ -133,7 +133,7 @@
 46. Exécuter un coup de pied arrière perçant haut vers D avec le pied gauche, en tirant les deux mains dans la direction opposée.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
 47. Abaisser le pied gauche vers C en mouvement sauté, pour former une position en X gauche vers C tout en exécutant un blocage en pression avec un poings croisés.
-   *(Twigi, wen kyocha so kyocha joomuk noollo makgi)*
+   *(Twigi, [wen kyocha so kyocha joomuk noollo makgi](../Techniques/Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 48. Déplacer le pied droit vers D, pour former une position de marche gauche vers C tout en exécutant une frappe frontale avec le gauche sous poing.
    *(Gunnun so mit joomuk ap taerigi)*
 49. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant une frappe frontale avec le droit sous poing.

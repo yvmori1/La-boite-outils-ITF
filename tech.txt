@@ -1,15 +1,3 @@
-Gojung So Digutja Jirugi
-Gojung So Digutja Makgi
-Gojung So Kaunde Yop Jirugi
-Gojung So Kyocha Sonkal Momchau Makgi
-Gojung So Palmok Nopunde Daebi Makgi
-Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi
-Gojung So Yop Palkup Tulgi
-Gokaeng-I Chagi
-Guburyo Junbi So B
-Guburyo Junbi Sogi A
-Guburyo Junbi Sogi B
-Gunnun Junbi Sogi
 Gunnun So An Palmok Dollimyo Makgi
 Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi
 Gunnun So An Palmok Kaunde Yop Makgi
@@ -255,19 +243,3 @@ Waebal So Dungpalmok Bandae Taerigi
 Waebal So Dungpalmok Baro Taerigi
 Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi
 Waebal Sogi
-Wen Kaunde Dwitcha Jirugi
-Wen Kaunde Yopcha Tulgi
-Wen Kyocha So Doo Palmok Nopunde Makgi
-Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi
-Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
-Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
-Wen Kyocha So Kyocha Joomuk Noollo Makgi
-Wen Kyocha So Najunde Bandae Jirugi
-Wen Kyocha So Sonkal Kaunde Yop Taerigi
-Wen Niunja So Palmok Kaunde Daebi Makgi
-Wen Niunja So Sonkal Kaunde Daebi Makgi
-Wen Nopunde Bandae Dollyo Gorochagi
-Wen Nopunde Yopcha Jirugi
-Yop Bal Badak Suroh Chagi
-Yop Bituro Chagi
-Yopcha Momchugi
