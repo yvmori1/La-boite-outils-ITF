@@ -1,0 +1,1530 @@
+==============================================================================
+  MOUVEMENTS DES FORMES (TUL) — NOMENCLATURE CORÉENNE
+  La boîte à outils ITF
+==============================================================================
+
+Liste de tous les mouvements de chaque forme, dans l'ordre d'exécution,
+sous leur nom coréen romanisé. Généré à partir des fiches de tul/.
+
+Légende :
+  [déduit]        nom absent de la fiche, reconstitué d'après le texte français
+  [préparatoire]  mouvement préparatoire, nommé avec le mouvement suivant
+
+
+==============================================================================
+  EXERCICES FONDAMENTAUX
+==============================================================================
+
+SAJU JIRUGI  (7 mouvements)
+10e Gup — exécuté à droite et à gauche : 14 mouvements au total
+------------------------------------------------------------------------------
+   1. Gunnun So Kaunde Jirugi
+   2. Gunnun So Palmok Najunde Makgi
+   3. Gunnun So Kaunde Jirugi
+   4. Gunnun So Palmok Najunde Makgi
+   5. Gunnun So Kaunde Jirugi
+   6. Gunnun So Palmok Najunde Makgi
+   7. Gunnun So Kaunde Jirugi
+
+SAJU MAKGI  (8 mouvements)
+10e Gup — exécuté à droite et à gauche : 16 mouvements au total
+------------------------------------------------------------------------------
+   1. Gunnun So Sonkal Najunde Makgi
+   2. Gunnun So An Palmok Kaunde Yop Makgi
+   3. Gunnun So Sonkal Najunde Makgi
+   4. Gunnun So An Palmok Kaunde Yop Makgi
+   5. Gunnun So Sonkal Najunde Makgi
+   6. Gunnun So An Palmok Kaunde Yop Makgi
+   7. Gunnun So Sonkal Najunde Makgi
+   8. Gunnun So An Palmok Kaunde Yop Makgi
+
+SAJU TULGI  (4 mouvements)
+10e Gup — exécuté à droite et à gauche : 8 mouvements au total
+------------------------------------------------------------------------------
+   1. Niunja So Yop Palkup Tulgi  [déduit]
+   2. Niunja So Yop Palkup Tulgi  [déduit]
+   3. Niunja So Yop Palkup Tulgi  [déduit]
+   4. Niunja So Yop Palkup Tulgi  [déduit]
+
+==============================================================================
+  FORMES DES GRADES GUP
+==============================================================================
+
+CHON-JI  (19 mouvements)
+9e Gup
+------------------------------------------------------------------------------
+   1. Gunnun So Palmok Najunde Makgi
+   2. Gunnun So Kaunde Jirugi
+   3. Gunnun So Palmok Najunde Makgi
+   4. Gunnun So Kaunde Jirugi
+   5. Gunnun So Palmok Najunde Makgi
+   6. Gunnun So Kaunde Jirugi
+   7. Gunnun So Palmok Najunde Makgi
+   8. Gunnun So Kaunde Jirugi
+   9. Niunja So An Palmok Kaunde Yop Makgi
+  10. Gunnun So Kaunde Jirugi
+  11. Niunja So An Palmok Kaunde Yop Makgi
+  12. Gunnun So Kaunde Jirugi
+  13. Niunja So An Palmok Kaunde Yop Makgi
+  14. Gunnun So Kaunde Jirugi
+  15. Niunja So An Palmok Kaunde Yop Makgi
+  16. Gunnun So Kaunde Jirugi
+  17. Gunnun So Kaunde Jirugi
+  18. Gunnun So Kaunde Jirugi
+  19. Gunnun So Kaunde Jirugi
+
+DAN-GUN  (21 mouvements)
+8e Gup
+------------------------------------------------------------------------------
+   1. Niunja So Sonkal Kaunde Daebi Makgi
+   2. Gunnun So Nopunde Jirugi
+   3. Niunja So Sonkal Kaunde Daebi Makgi
+   4. Gunnun So Nopunde Jirugi
+   5. Gunnun So Palmok Najunde Makgi
+   6. Gunnun So Nopunde Jirugi
+   7. Gunnun So Nopunde Jirugi
+   8. Gunnun So Nopunde Jirugi
+   9. Niunja So Sang Palmok Makgi
+  10. Gunnun So Nopunde Jirugi
+  11. Niunja So Sang Palmok Makgi
+  12. Gunnun So Nopunde Jirugi
+  13. Gunnun So Palmok Najunde Makgi
+  14. Gunnun So Palmok Chookyo Makgi
+  15. Gunnun So Palmok Chookyo Makgi
+  16. Gunnun So Palmok Chookyo Makgi
+  17. Gunnun So Palmok Chookyo Makgi
+  18. Niunja So Sonkal Kaunde Bakuro Taerigi
+  19. Gunnun So Nopunde Jirugi
+  20. Niunja So Sonkal Kaunde Bakuro Taerigi
+  21. Gunnun So Nopunde Jirugi
+
+DO-SAN  (24 mouvements)
+7e Gup
+------------------------------------------------------------------------------
+   1. Gunnun So Bakat Palmok Nopunde Yop Makgi
+   2. Gunnun So Kaunde Bandae Jirugi
+   3. Gunnun So Bakat Palmok Nopunde Yop Makgi
+   4. Gunnun So Kaunde Bandae Jirugi
+   5. Niunja So Sonkal Kaunde Daebi Makgi
+   6. Gunnun So Sun Sonkut Kaunde Tulgi
+   7. Jappyosul Tae, Gunnun So Dung Joomuk Nopunde Yop Taerigi
+   8. Gunnun So Dung Joomuk Nopunde Yop Taerigi
+   9. Gunnun So Bakat Palmok Nopunde Yop Makgi
+  10. Gunnun So Kaunde Bandae Jirugi
+  11. Gunnun So Bakat Palmok Nopunde Yop Makgi
+  12. Gunnun So Kaunde Bandae Jirugi
+  13. Gunnun So Bakat Palmok Nopunde Hechyo Makgi
+  14. Kaunde Apcha Busigi
+  15. Gunnun So Kaunde Jirugi
+  16. Gunnun So Kaunde Bandae Jirugi
+  17. Gunnun So Bakat Palmok Nopunde Hechyo Makgi
+  18. Kaunde Apcha Busigi
+  19. Gunnun So Kaunde Jirugi
+  20. Gunnun So Kaunde Jirugi
+  21. Gunnun So Palmok Chookyo Makgi
+  22. Gunnun So Palmok Chookyo Makgi
+  23. Annun So Wen Sonkal Kaunde Yop Taerigi
+  24. Annun So Orun Sonkal Kaunde Yop Taerigi
+
+WON-HYO  (28 mouvements)
+6e Gup
+------------------------------------------------------------------------------
+   1. Niunja So Sang Palmok Makgi
+   2. Niunja So Sonkal Nopunde Anuro Taerigi
+   3. Gojung So Kaunde Yop Jirugi
+   4. Niunja So Sang Palmok Makgi
+   5. Niunja So Sonkal Nopunde Anuro Taerigi
+   6. Gojung So Kaunde Yop Jirugi
+   7. Guburyo Junbi Sogi A
+   8. Kaunde Yopcha Jirugi
+   9. Niunja So Sonkal Kaunde Daebi Makgi
+  10. Niunja So Sonkal Kaunde Daebi Makgi
+  11. Niunja So Sonkal Kaunde Daebi Makgi
+  12. Gunnun So Sun Sonkut Kaunde Tulgi
+  13. Niunja So Sang Palmok Makgi
+  14. Niunja So Sonkal Nopunde Anuro Taerigi
+  15. Gojung So Kaunde Yop Jirugi
+  16. Niunja So Sang Palmok Makgi
+  17. Niunja So Sonkal Nopunde Anuro Taerigi
+  18. Gojung So Kaunde Yop Jirugi
+  19. Gunnun So An Palmok Dollimyo Makgi
+  20. Najunde Apcha Busigi
+  21. Gunnun So Kaunde Bandae Jirugi
+  22. Gunnun So An Palmok Dollimyo Makgi
+  23. Najunde Apcha Busigi
+  24. Gunnun So Kaunde Bandae Jirugi
+  25. Guburyo Junbi Sogi A
+  26. Kaunde Yopcha Jirugi
+  27. Niunja So Palmok Kaunde Daebi Makgi
+  28. Niunja So Palmok Kaunde Daebi Makgi
+
+YUL-GOK  (38 mouvements)
+5e Gup
+------------------------------------------------------------------------------
+   1. Annun Sogi
+   2. Annun So Orun Joomuk Kaunde Ap Jirugi
+   3. Annun So Wen Joomuk Kaunde Ap Jirugi
+   4. Annun Sogi
+   5. Annun So Wen Joomuk Kaunde Ap Jirugi
+   6. Annun So Orun Joomuk Kaunde Ap Jirugi
+   7. Gunnun So An Palmok Kaunde Yop Makgi
+   8. Najunde Apcha Busigi
+   9. Gunnun So Kaunde Jirugi
+  10. Gunnun So Kaunde Bandae Jirugi
+  11. Gunnun So An Palmok Kaunde Yop Makgi
+  12. Najunde Apcha Busigi
+  13. Gunnun So Kaunde Jirugi
+  14. Gunnun So Kaunde Bandae Jirugi
+  15. Gunnun So Sonbadak Kaunde Golcho Makgi
+  16. Gunnun So Sonbadak Kaunde Bandae Golcho Makgi
+  17. Gunnun So Kaunde Jirugi
+  18. Gunnun So Sonbadak Kaunde Golcho Makgi
+  19. Gunnun So Sonbadak Kaunde Bandae Golcho Makgi
+  20. Gunnun So Kaunde Jirugi
+  21. Gunnun So Kaunde Jirugi
+  22. Guburyo Junbi Sogi A
+  23. Kaunde Yopcha Jirugi
+  24. Gunnun So Ap Palkup Bandae Taerigi
+  25. Guburyo Junbi Sogi A
+  26. Kaunde Yopcha Jirugi
+  27. Gunnun So Ap Palkup Bandae Taerigi
+  28. Niunja So Sang Sonkal Makgi
+  29. Gunnun So Sun Sonkut Kaunde Tulgi
+  30. Niunja So Sang Sonkal Makgi
+  31. Gunnun So Sun Sonkut Kaunde Tulgi
+  32. Gunnun So Bakat Palmok Nopunde Yop Makgi
+  33. Gunnun So Kaunde Bandae Jirugi
+  34. Gunnun So Bakat Palmok Nopunde Yop Makgi
+  35. Gunnun So Kaunde Bandae Jirugi
+  36. Twigi, Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
+  37. Gunnun So Doo Palmok Nopunde Makgi
+  38. Gunnun So Doo Palmok Nopunde Makgi
+
+JOONG-GUN  (32 mouvements)
+4e Gup
+------------------------------------------------------------------------------
+   1. Niunja So Sonkal Dung Kaunde Makgi
+   2. Najunde Yobap Cha Busigi
+   3. Dwitbal So Sonbadak Bandae Ollyo Makgi
+   4. Niunja So Sonkal Dung Kaunde Makgi
+   5. Najunde Yobap Cha Busigi
+   6. Dwitbal So Sonbadak Bandae Ollyo Makgi
+   7. Niunja So Sonkal Kaunde Daebi Makgi
+   8. Gunnun So Wi Palkup Bandae Taerigi
+   9. Niunja So Sonkal Kaunde Daebi Makgi
+  10. Gunnun So Wi Palkup Bandae Taerigi
+  11. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  12. Gunnun So Sang Joomuk Dwijibo Jirugi
+  13. Gunnun So Kyocha Joomuk Chookyo Makgi
+  14. Niunja So Dung Joomuk Nopunde Yop Taerigi
+  15. Gunnun So Jappyosul Tae
+  16. Gunnun So Nopunde Bandae Jirugi
+  17. Niunja So Dung Joomuk Nopunde Yop Taerigi
+  18. Gunnun So Jappyosul Tae
+  19. Gunnun So Nopunde Bandae Jirugi
+  20. Gunnun So Doo Palmok Nopunde Makgi
+  21. Niunja So Kaunde Yop Jirugi
+  22. Kaunde Yopcha Jirugi
+  23. Gunnun So Doo Palmok Nopunde Makgi
+  24. Niunja So Kaunde Yop Jirugi
+  25. Kaunde Yopcha Jirugi
+  26. Niunja So Palmok Kaunde Daebi Makgi
+  27. Nachuo So Sonbadak Bandae Noollo Makgi
+  28. Niunja So Palmok Kaunde Daebi Makgi
+  29. Nachuo So Sonbadak Bandae Noollo Makgi
+  30. Moa So Orun Giokja Jirugi
+  31. Gojung So Digutja Makgi
+  32. Gojung So Digutja Makgi
+
+TOI-GYE  (37 mouvements)
+3e Gup
+------------------------------------------------------------------------------
+   1. Niunja So An Palmok Kaunde Makgi
+   2. Gunnun So Dwijibun Sonkut Najunde Tulgi
+   3. Moa So Orun Dung Joomuk Yopdwi Taerigi
+   4. Niunja So An Palmok Kaunde Makgi
+   5. Gunnun So Dwijibun Sonkut Najunde Tulgi
+   6. Moa So Wen Dung Joomuk Yopdwi Taerigi
+   7. Gunnun So Kyocha Joomuk Noollo Makgi
+   8. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+   9. Kaunde Apcha Busigi
+  10. Gunnun So Kaunde Jirugi
+  11. Gunnun So Kaunde Bandae Jirugi
+  12. Moa So Sang Yop Palkup Tulgi
+  13. Annun So Bakat Palmok San Makgi
+  14. Annun So Bakat Palmok San Makgi
+  15. Annun So Bakat Palmok San Makgi
+  16. Annun So Bakat Palmok San Makgi
+  17. Annun So Bakat Palmok San Makgi
+  18. Annun So Bakat Palmok San Makgi
+  19. Niunja So Doo Palmok Najunde Miro Makgi
+  20. Gunnun Sogi
+  21. Moorup Ollyo Chagi
+  22. Niunja So Sonkal Kaunde Daebi Makgi
+  23. Najunde Yobap Cha Busigi
+  24. Gunnun So Opun Sonkut Nopunde Tulgi
+  25. Niunja So Sonkal Kaunde Daebi Makgi
+  26. Najunde Yobap Cha Busigi
+  27. Gunnun So Opun Sonkut Nopunde Tulgi
+  28. Niunja So Dung Joomuk Baro Yopdwi Taerigi Wa Palmok Najunde Bandae Makgi
+  29. Twigi, Orun Kyocha So Kyocha Joomuk Noollo Makgi
+  30. Gunnun So Doo Palmok Nopunde Makgi
+  31. Niunja So Sonkal Najunde Daebi Makgi
+  32. Gunnun So An Palmok Dollimyo Makgi
+  33. Niunja So Sonkal Najunde Daebi Makgi
+  34. Gunnun So An Palmok Dollimyo Makgi
+  35. Gunnun So An Palmok Dollimyo Makgi
+  36. Gunnun So An Palmok Dollimyo Makgi
+  37. Annun So Orun Joomuk Kaunde Jirugi
+
+HWA-RANG  (29 mouvements)
+2e Gup
+------------------------------------------------------------------------------
+   1. Annun So Wen Sonbadak Kaunde Yobap Miro Makgi
+   2. Annun So Orun Joomuk Kaunde Ap Jirugi
+   3. Annun So Wen Joomuk Kaunde Ap Jirugi
+   4. Niunja So Sang Palmok Makgi
+   5. Niunja So Baro Ollyo Jirugi
+   6. Gojung So Kaunde Yop Jirugi
+   7. Soojik So Sonkal Bandae Naeryo Taerigi
+   8. Gunnun So Kaunde Jirugi
+   9. Gunnun So Palmok Najunde Makgi
+  10. Gunnun So Kaunde Jirugi
+  11. (mouvement préparatoire)  [préparatoire]
+  12. Kaunde Yopcha Jirugi, Niunja So Sonkal Kaunde Bakuro Taerigi
+  13. Gunnun So Kaunde Jirugi
+  14. Gunnun So Kaunde Jirugi
+  15. Niunja So Sonkal Kaunde Daebi Makgi
+  16. Gunnun So Sun Sonkut Kaunde Tulgi
+  17. Niunja So Sonkal Kaunde Daebi Makgi
+  18. Nopunde Dollyo Chagi
+  19. Nopunde Dollyo Chagi, Niunja So Sonkal Kaunde Daebi Makgi
+  20. Gunnun So Palmok Najunde Makgi
+  21. Niunja So Kaunde Baro Jirugi
+  22. Niunja So Kaunde Baro Jirugi
+  23. Niunja So Kaunde Baro Jirugi
+  24. Gunnun So Kyocha Joomuk Noollo Makgi
+  25. Niunja So Yop Palkup Tulgi
+  26. Moa So Orun An Palmok Yobap Makgi
+  27. Moa So Wen An Palmok Yobap Makgi
+  28. Niunja So Sonkal Kaunde Daebi Makgi
+  29. Niunja So Sonkal Kaunde Daebi Makgi
+
+CHOONG-MOO  (30 mouvements)
+1er Gup
+------------------------------------------------------------------------------
+   1. Niunja So Sang Sonkal Makgi
+   2. Gunnun So Sonkal Nopunde Ap Taerigi
+   3. Niunja So Sonkal Kaunde Daebi Makgi
+   4. Gunnun So Opun Sonkut Nopunde Tulgi
+   5. Niunja So Sonkal Kaunde Daebi Makgi
+   6. Guburyo Junbi Sogi A
+   7. Kaunde Yopcha Jirugi
+   8. Niunja So Sonkal Kaunde Daebi Makgi
+   9. Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi
+  10. Niunja So Palmok Najunde Yop Makgi
+  11. (mouvement préparatoire)  [préparatoire]
+  12. Moorup Ollyo Chagi
+  13. Gunnun So Sonkal Dung Nopunde Bandae Ap Taerigi
+  14. Nopunde Dollyo Chagi
+  15. Kaunde Dwitcha Jirugi
+  16. Niunja So Palmok Kaunde Daebi Makgi
+  17. Kaunde Dollyo Chagi
+  18. Gojung So Digutja Makgi
+  19. Twigi, Wen Niunja So Sonkal Kaunde Daebi Makgi
+  20. Gunnun So Dwijibun Sonkut Najunde Tulgi
+  21. Niunja So Dung Joomuk Baro Yopdwi Taerigi Wa Palmok Najunde Bandae Makgi
+  22. Gunnun So Sun Sonkut Kaunde Tulgi
+  23. Gunnun So Doo Palmok Nopunde Makgi
+  24. Annun So Orun Palmok Kaunde Ap Makgi, Orun Dung Joomuk Nopunde Yop Taerigi
+  25. Kaunde Yopcha Jirugi
+  26. Kaunde Yopcha Jirugi
+  27. Niunja So Kyocha Sonkal Momchau Makgi
+  28. Gunnun So Sang Sonbadak Ollyo Makgi
+  29. Gunnun So Palmok Chookyo Makgi
+  30. Gunnun So Kaunde Bandae Jirugi
+
+==============================================================================
+  FORMES DES GRADES DAN
+==============================================================================
+
+KWANG-GAE  (39 mouvements)
+1er Dan
+------------------------------------------------------------------------------
+   1. Moa Junbi Sogi B
+   2. Gunnun So Bandae Dwijibo Jirugi
+   3. Gunnun So Bandae Dwijibo Jirugi
+   4. Gunnun So Sonbadak Nopunde Golcho Makgi
+   5. Niunja So Sonkal Najunde Daebi Makgi
+   6. Gunnun So Sonbadak Nopunde Golcho Makgi
+   7. Niunja So Sonkal Najunde Daebi Makgi
+   8. Dwitbal So Sonkal Nopunde Daebi Makgi
+   9. Dwitbal So Sonkal Nopunde Daebi Makgi
+  10. Gunnun So Sonbadak Bandae Ollyo Makgi
+  11. Gunnun So Sonbadak Bandae Ollyo Makgi
+  12. Moa So Orun Sonkal Najunde Ap Makgi
+  13. Bakuro Noollo Chagi
+  14. Kaunde Yopcha Jirugi
+  15. Niunja So Sonkal Nopunde Anuro Taerigi
+  16. Moa So Wen Yop Joomuk Naeryo Taerigi
+  17. Bakuro Noollo Chagi
+  18. Kaunde Yopcha Jirugi
+  19. Niunja So Sonkal Nopunde Anuro Taerigi
+  20. Moa So Orun Yop Joomuk Naeryo Taerigi
+  21. Nachuo So Sonbadak Bandae Noollo Makgi
+  22. Nachuo So Sonbadak Bandae Noollo Makgi
+  23. Annun So Orun Dung Joomuk Nopunde Yop Taerigi
+  24. Gunnun So Doo Palmok Kaunde Makgi
+  25. Gunnun So Palmok Najunde Bandae Makgi
+  26. Nachuo So Opun Sonkut Nopunde Tulgi
+  27. Annun So Wen Dung Joomuk Nopunde Yop Taerigi
+  28. Gunnun So Doo Palmok Kaunde Makgi
+  29. Gunnun So Palmok Najunde Bandae Makgi
+  30. Nachuo So Opun Sonkut Nopunde Tulgi
+  31. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  32. Gunnun So Sang Joomuk Dwijibo Jirugi
+  33. Kaunde Apcha Busigi
+  34. Niunja So Sonkal Kaunde Daebi Makgi
+  35. Gunnun So Nopunde Jirugi
+  36. Gunnun So Sang Joomuk Dwijibo Jirugi
+  37. Kaunde Apcha Busigi
+  38. Niunja So Sonkal Kaunde Daebi Makgi
+  39. Gunnun So Nopunde Jirugi
+
+PO-EUN  (36 mouvements)
+1er Dan
+------------------------------------------------------------------------------
+   1. Niunja So Palmok Kaunde Daebi Makgi
+   2. Waebal Sogi
+   3. Bakuro Noollo Chagi
+   4. Annun So Orun Sonkal Kaunde Yop Taerigi
+   5. Annun So Wen Joomuk Giokja Jirugi
+   6. Annun So Wen Ap Joomuk Noollo Makgi Wa Orun An Palmok Yobap Makgi
+   7. Annun So Orun Ap Joomuk Noollo Makgi Wa Wen An Palmok Yobap Makgi
+   8. Annun So An Palmok Kaunde Hechyo Makgi
+   9. Annun So Orun Dwit Palkup Tulgi
+  10. Annun So Orun Joomuk Kaunde Jirugi
+  11. Annun So Wen Dwit Palkup Tulgi
+  12. Annun So Orun Soopyong Jirugi
+  13. Kyocha So Bakat Palmok Najunde Baro Ap Makgi
+  14. Niunja So Digutja Japgi
+  15. Moa So Sang Palkup Soopyong Tulgi
+  16. Annun So Orun Dung Joomuk Yopdwi Taerigi
+  17. Kyocha So Bakat Palmok Najunde Baro Ap Makgi
+  18. Annun So Sonkal Najunde B-Bang Daebi Makgi
+  19. Niunja So Palmok Kaunde Daebi Makgi
+  20. Waebal Sogi
+  21. Bakuro Noollo Chagi
+  22. Annun So Wen Sonkal Kaunde Yop Taerigi
+  23. Annun So Orun Joomuk Giokja Jirugi
+  24. Annun So Orun Ap Joomuk Noollo Makgi Wa Wen An Palmok Yobap Makgi
+  25. Annun So Wen Ap Joomuk Noollo Makgi Wa Orun An Palmok Yobap Makgi
+  26. Annun So An Palmok Kaunde Hechyo Makgi
+  27. Annun So Wen Dwit Palkup Tulgi
+  28. Annun So Wen Joomuk Kaunde Jirugi
+  29. Annun So Orun Dwit Palkup Tulgi
+  30. Annun So Wen Soopyong Jirugi
+  31. Kyocha So Bakat Palmok Najunde Baro Ap Makgi
+  32. Niunja So Digutja Japgi
+  33. Moa So Sang Palkup Soopyong Tulgi
+  34. Annun So Wen Dung Joomuk Yopdwi Taerigi
+  35. Kyocha So Bakat Palmok Najunde Baro Ap Makgi
+  36. Annun So Sonkal Najunde A-Bang Daebi Makgi
+
+GE-BAEK  (44 mouvements)
+1er Dan
+------------------------------------------------------------------------------
+   1. Niunja So Kyocha Sonkal Momchau Makgi
+   2. Najunde Bituro Chagi
+   3. Gunnun So Kaunde Jirugi
+   4. Gunnun So Kaunde Bandae Jirugi
+   5. Gunnun So Palmok Chookyo Makgi
+   6. Gunnun So Palmok Najunde Makgi
+   7. Gunnun So Nopunde Doo Bandalson Makgi
+   8. Guburyo Junbi Sogi A
+   9. Annun So Wen Sonbadak Duro Makgi
+  10. Annun So Orun Joomuk Kaunde Jirugi
+  11. Annun So Wen Dung Joomuk Ap Taerigi
+  12. Niunja So Sonkal Kaunde Daebi Makgi
+  13. Najunde Yobap Cha Busigi
+  14. Nachuo So Opun Sonkut Nopunde Tulgi
+  15. Nachuo So Opun Sonkut Nopunde Bandae Tulgi
+  16. Kaunde Yopcha Jirugi
+  17. Niunja So Palmok Kaunde Daebi Makgi
+  18. Niunja So Palmok Kaunde Daebi Makgi
+  19. Niunja So Sonkal Kaunde Daebi Makgi
+  20. Annun So Orun Gutja Makgi
+  21. Gunnun So Sonkal Najunde Makgi
+  22. Kaunde Dollyo Chagi
+  23. Twimyo Yopcha Jirugi
+  24. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  25. Gunnun So Nopunde Doo Bandalson Makgi
+  26. Gunnun So Bandae Dwijibo Jirugi
+  27. Gunnun So Ap Palkup Bandae Taerigi
+  28. Twigi, Orun Kyocha So Doo Palmok Nopunde Makgi
+  29. Annun So Orun Sonbadak Duro Makgi
+  30. Annun So Wen Joomuk Kaunde Ap Jirugi
+  31. Annun So Orun Dung Joomuk Ap Taerigi
+  32. Gunnun So Sonkal Dung Nopunde Bandae Ap Taerigi
+  33. Kaunde Dollyo Chagi
+  34. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  35. Niunja So Joongji Joomuk Kaunde Baro Jirugi
+  36. Annun So Wen Gutja Makgi
+  37. Annun So Sonkal Dung Najunde C-Bang Daebi Makgi
+  38. Annun So Sonkal Najunde D-Bang Daebi Makgi
+  39. Annun So Wen Bakat Palmok San Makgi
+  40. Annun So Wen Bakat Palmok San Makgi
+  41. Gunnun So Palmok Chookyo Makgi
+  42. Gunnun So Kaunde Bandae Jirugi
+  43. Gunnun So Palmok Chookyo Makgi
+  44. Gunnun So Kaunde Bandae Jirugi
+
+EUI-AM  (45 mouvements)
+2e Dan
+------------------------------------------------------------------------------
+   1. Gunnun So Sonkal Najunde Bandae Anuro Makgi
+   2. Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi
+   3. Gunnun So Kaunde Jirugi
+   4. Najunde Bituro Chagi
+   5. Gunnun So Kyocha Joomuk Naeryo Makgi
+   6. Gunnun So Sonkal Bandae Chookyo Makgi
+   7. Twigi, Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi
+   8. Niunja So Kaunde Yop Jirugi
+   9. Kaunde Bandae Dollyo Chagi
+  10. Annun So Orun Sonkal Kaunde Yop Taerigi
+  11. Kaunde Yopcha Jirugi
+  12. Gunnun So Nopunde Bandae Bandal Jirugi
+  13. Narani So Wen Joomuk Kaunde Dollyo Jirugi
+  14. Gunnun So Sonkal Najunde Bandae Anuro Makgi
+  15. Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi
+  16. Gunnun So Kaunde Jirugi
+  17. Najunde Bituro Chagi
+  18. Gunnun So Kyocha Joomuk Naeryo Makgi
+  19. Gunnun So Sonkal Bandae Chookyo Makgi
+  20. Twigi, Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
+  21. Niunja So Kaunde Yop Jirugi
+  22. Kaunde Bandae Dollyo Chagi
+  23. Annun So Wen Sonkal Kaunde Yop Taerigi
+  24. Kaunde Yopcha Jirugi
+  25. Gunnun So Nopunde Bandae Bandal Jirugi
+  26. Narani So Orun Joomuk Kaunde Dollyo Jirugi
+  27. Gunnun So Sonkal Kaunde Hechyo Makgi
+  28. Gunnun So Sonkal Dung Dollimyo Makgi
+  29. Dwitbal So Euhkallin Sonbadak Naeryo Makgi
+  30. Niunja So Kaunde Baro Jirugi
+  31. Niunja So Sonkal Dung Najunde Bandae Anuro Makgi
+  32. Gunnun So Sonkal Kaunde Hechyo Makgi
+  33. Gunnun So Sonkal Dung Dollimyo Makgi
+  34. Dwitbal So Euhkallin Sonbadak Naeryo Makgi
+  35. Niunja So Kaunde Baro Jirugi
+  36. Niunja So Sonkal Dung Najunde Bandae Anuro Makgi
+  37. Nopunde Bandae Dollyo Chagi
+  38. Dwitbal So Palmok Kaunde Daebi Makgi
+  39. Nopunde Bandae Dollyo Chagi
+  40. Dwitbal So Palmok Kaunde Daebi Makgi
+  41. Niunja So Sonkal Najunde Bandae Makgi
+  42. Gunnun So Kaunde Bandae Jirugi
+  43. Niunja So Sonkal Najunde Bandae Makgi
+  44. Gunnun So Kaunde Bandae Jirugi
+  45. Gunnun So Nopunde Jirugi
+
+CHOONG-JANG  (52 mouvements)
+2e Dan
+------------------------------------------------------------------------------
+   1. Annun So Orun An Palmok Yobap Makgi
+   2. Annun So Wen An Palmok Yobap Makgi
+   3. Moa So Wen Joomuk Giokja Jirugi
+   4. Gunnun So Doo Songarak Nopunde Bandae Tulgi
+   5. Gunnun So Doo Songarak Nopunde Bandae Tulgi
+   6. Gunnun So Dung Joomuk Ap Taerigi
+   7. Gunnun So Palmok Chookyo Makgi
+   8. Gunnun So Kaunde Jirugi
+   9. Niunja So Palmok Kaunde Daebi Makgi
+  10. Najunde Apcha Busigi
+  11. Nachuo So Opun Sonkut Nopunde Tulgi
+  12. Nopunde Dollyo Chagi
+  13. Joomuk Nopunde Jirugi
+  14. Niunja So Yop Palkup Tulgi
+  15. Niunja So Palmok Kaunde Daebi Makgi
+  16. Niunja So Sonbadak Bandae Duro Makgi
+  17. Niunja So Sonkal Kaunde Bakuro Taerigi
+  18. Gunnun So Kyocha Joomuk Noollo Makgi
+  19. Moorup Najunde Apcha Busigi
+  20. Niunja So Sonkal Kaunde Daebi Makgi
+  21. Niunja So Yop Palkup Tulgi
+  22. Niunja So Sonkal Kaunde Daebi Makgi
+  23. Kaunde Yopcha Jirugi
+  24. Dwitbal So Sang Sonbadak Noollo Makgi
+  25. Gunnun So Bakat Palmok Nopunde Ap Makgi, Dung Joomuk Nopunde Yop Taerigi
+  26. Niunja So Opun Sonkut Nopunde Bandae Tulgi
+  27. Najunde Apcha Busigi
+  28. Gunnun So Dwit Palkup Bandae Tulgi
+  29. Niunja So Sondung Bandae Naeryo Taerigi
+  30. Niunja So Kaunde Baro Jirugi
+  31. Niunja So Sondung Bandae Naeryo Taerigi
+  32. Niunja So Kaunde Baro Jirugi
+  33. Niunja So Sonkal Kaunde Bakuro Taerigi
+  34. Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi
+  35. Niunja So Sonkal Kaunde Bakuro Taerigi
+  36. Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi
+  37. Niunja So Sonkal Dung Najunde Daebi Makgi
+  38. Gunnun So Bandae Gutja Makgi
+  39. Niunja So Sonkal Dung Najunde Daebi Makgi
+  40. Gunnun So Bandae Gutja Makgi
+  41. Gunnun So Sang Sonkal Soopyong Taerigi
+  42. Gunnun So Bandal Son Nopunde Bandae Taerigi
+  43. Kaunde Apcha Busigi
+  44. Gunnun So Bandal Son Nopunde Bandae Taerigi
+  45. Kaunde Apcha Busigi
+  46. Gunnun So Kaunde Bandae Jirugi
+  47. Gunnun So Kaunde Jirugi
+  48. Moa So Sang Inji Joomuk Nopunde Bandal Jirugi
+  49. Gunnun So Sonkal Najunde Makgi
+  50. Gunnun So Pyon Joomuk Nopunde Bandae Jirugi
+  51. Gunnun So Sonkal Najunde Makgi
+  52. Gunnun So Pyon Joomuk Nopunde Bandae Jirugi
+
+JUCHE  (45 mouvements)
+2e Dan
+------------------------------------------------------------------------------
+   1. Annun So An Palmok Narani Makgi
+   2. Sonbadak Kaunde Golcho Makgi
+   3. Annun So Wen Joomuk Kaunde Jirugi
+   4. Waebal So Bakat Palmok Narani Makgi
+   5. Kaunde Yopcha Jirugi, Orun Nopunde Bandae Dollyo Gorochagi
+   6. Twigi, Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi
+   7. Kaunde Golcho Chagi, Wen Nopunde Yopcha Jirugi
+   8. Annun So Wen Opun Sonkut Nopunde Bakuro Ghutgi
+   9. Gunnun So Nopun Palkup Bandae Taerigi
+  10. Kyocha So Sonkal Dung Najunde Bandae Ap Makgi
+  11. Niunja So Sonkal Kaunde Daebi Makgi
+  12. Sonkal Twio Dolymyo Taerigi
+  13. Annun So An Palmok Narani Makgi
+  14. Sonbadak Kaunde Golcho Makgi
+  15. Annun So Orun Joomuk Kaunde Jirugi
+  16. Waebal So Bakat Palmok Narani Makgi
+  17. Kaunde Yopcha Jirugi, Wen Nopunde Bandae Dollyo Gorochagi
+  18. Twigi, Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi
+  19. Kaunde Golcho Chagi, Orun Nopunde Yopcha Jirugi
+  20. Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi
+  21. Gunnun So Nopun Palkup Bandae Taerigi
+  22. Kyocha So Sonkal Dung Najunde Bandae Ap Makgi
+  23. Niunja So Sonkal Kaunde Daebi Makgi
+  24. Sonkal Twio Dolmyo Taerigi
+  25. Gokaeng-I Chagi, Orun Dwitbal So Palmok Kaunde Daebi Makgi
+  26. Moa So Hanulson
+  27. Dwitbal So Sun Palkup Bandae Naeryo Tulgi
+  28. Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi
+  29. Dwitbal So Sun Palkup Bandae Naeryo Tulgi
+  30. Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi
+  31. Gunnun So Sang Sonkal Nopunde Anuro Taerigi
+  32. Gunnun So Bandae Naeryo Jirugi
+  33. Niunja So Bakat Palmok Bandae Naeryo Makgi
+  34. Pihamyo Bandae Dollyo Chagi, Wen Niunja So Palmok Kaunde Daebi Makgi
+  35. Niunja So Bakat Palmok Bandae Naeryo Makgi
+  36. Pihamyo Bandae Dollyo Chagi, Orun Niunja So Palmok Kaunde Daebi Makgi
+  37. Twimyo Sangbang Chagi,Yop Bituro Chagi
+  38. Sasun So Sang Sonbadak Chookyo Makgi
+  39. Dwitbal So Yop Palkup Tulgi
+  40. Guburyo Junbi Sogi B, Wen Kaunde Dwitcha Jirugi
+  41. Niunja So Dung Joomuk Bandae Soopyong Taerigi
+  42. Narani So Orun Opun Sonkut Nopunde Anuro Ghutgi
+  43. Twimyo Orun Joomuk Ap Jirugi, Orun Joomuk Dwijibo Jirigi
+  44. Gunnun So Sonkal Bandae Ap Naeryo Taerigi
+  45. Gunnun So Kaunde Bandae Jirugi
+
+KO-DANG  (39 mouvements)
+2e Dan (alternative à Juche)
+------------------------------------------------------------------------------
+   1. Annun So Sonbadak Kaunde Miro Makgi
+   2. Annun So Kaunde Bandae Jirugi
+   3. Niunja So Palmok Kaunde Daebi Makgi
+   4. Niunja So Bakat Palmok Najunde Makgi, An Palmok Kaunde Yop Makgi
+   5. Annun So Sonbadak Kaunde Miro Makgi
+   6. Annun So Kaunde Bandae Jirugi
+   7. Niunja So Palmok Kaunde Daebi Makgi
+   8. Niunja So Bakat Palmok Najunde Makgi, An Palmok Kaunde Yop Makgi
+   9. Guburyo Junbi So B
+  10. Kaunde Dwitcha Jirugi
+  11. Niunja So Sonkal Kaunde Makgi
+  12. Guburyo Junbi So B
+  13. Kaunde Dwitcha Jirugi
+  14. Niunja So Sonkal Kaunde Makgi
+  15. Niunja So Sun Palkup Naeryo Tulgi
+  16. Niunja So Sun Palkup Naeryo Tulgi
+  17. Gunnun So Sonbadak Noollo Makgi
+  18. Gunnun So Sonbadak Noollo Makgi
+  19. Niunja So Bakat Palmok Naeryo Makgi
+  20. Niunja So Bakat Palmok Naeryo Makgi
+  21. Dwitbal So Sonbadak Ollyo Makgi
+  22. Dwitbal So Sonbadak Ollyo Makgi
+  23. Dwitbal Sogi, Kaunde Yobap Cha Busigi
+  24. Gunnun So Sang Sonkal Nopunde Anuro Taerigi
+  25. Gunnun So Sonkal Chookyo Makgi
+  26. Niunja So Sonkal Najunde Daebi Makgi
+  27. Gunnun So Naeryo Jirugi
+  28. Niunja So Sonkal Kaunde Daebi Makgi
+  29. Twigi, Niunja So Sonkal Kaunde Daebi Makgi
+  30. Twigi, Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi
+  31. Gunnun So Bakat Palmok Nopunde Yop Makgi
+  32. Gunnun So Bakat Palmok Nopunde Yop Makgi
+  33. Niunja So Dwijibo Jirugi
+  34. Kaunde Yopcha Goro Chagi
+  35. Niunja So Opun Sonkut Nopunde Ghutgi
+  36. Kaunde Yopcha Goro Chagi
+  37. Niunja So Opun Sonkut Nopunde Ghutgi
+  38. Niunja So Sonkal Nopunde Daebi Makgi
+  39. Niunja So Sonkal Nopunde Daebi Makgi
+
+SAM-IL  (33 mouvements)
+3e Dan
+------------------------------------------------------------------------------
+   1. Niunja So Palmok Kaunde Daebi Makgi
+   2. Gunnun So Doo Palmok Nopunde Makgi
+   3. Gunnun So Sonkal Nopunde Bandae Yop Makgi
+   4. Kaunde Bituro Chagi
+   5. Gunnun So Kaunde Jirugi
+   6. Annun So Sonkal Dung Kaunde Hechyo Makgi
+   7. Gunnun So Dwijibun Sonkut Bandae Najunde Tulgi
+   8. Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi
+   9. Annun So Sonkal Dung Kaunde Hechyo Makgi
+  10. Niunja So Doo Joomuk Najunde Jirugi
+  11. Gunnun So Nopunde Doo Bandalson Makgi
+  12. Gunnun So Kaunde Bandae Jirugi
+  13. Niunja So Doo Joomuk Najunde Jirugi
+  14. Niunja So Sonkal Dung Nopunde Daebi Makgi
+  15. Gojung So Digutja Makgi
+  16. Yop Bal Badak Suroh Chagi, Orun Gojung So Digutja Makgi
+  17. Twigi, Wen Niunja So Sonkal Kaunde Daebi Makgi
+  18. Kaunde Yopcha Jirugi
+  19. Gunnun So Ap Palkup Bandae Taerigi
+  20. Sasun So Dwit Palkup Tulgi
+  21. Gunnun So Kyocha Joomuk Noollo Makgi
+  22. Annun So Wen Bakat Palmok San Makgi
+  23. Kaunde Yopcha Jirugi
+  24. Niunja So Sonkal Najunde Daebi Makgi
+  25. Dwitbal So Sonbadak Bandae Ollyo Makgi
+  26. Dwitbal So Sang Sonbadak Noollo Makgi
+  27. Gunnun So Sang Joomuk Dwijibo Jirugi
+  28. Niunja So Palmok Najunde Bandae Makgi
+  29. Niunja So Kaunde Baro Jirugi
+  30. Gunnun So Palmok Kaunde Bandae Ap Makgi
+  31. Gunnun So Nopunde Jirugi
+  32. Najunde Ap Cha Busigi
+  33. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+
+YOO-SIN  (68 mouvements)
+3e Dan
+------------------------------------------------------------------------------
+   1. Annun Sogi
+   2. Annun So Wen Joomuk C-Bang Giokja Jirugi
+   3. Annun So Orun Joomuk C-Bang Giokja Jirugi
+   4. Sonbadak Kaunde Golcho Makgi
+   5. Annun So Wen Joomuk Kaunde Jirugi
+   6. Sonbadak Kaunde Golcho Makgi
+   7. Annun So Orun Joomuk Kaunde Jirugi
+   8. Gunnun So Bakat Palmok Nopunde Yop Makgi
+   9. Gunnun So An Palmok Dollimyo Makgi
+  10. Annun So Wen Sonbadak Duro Makgi
+  11. Annun So Orun Joomuk Kaunde Jirugi
+  12. Gunnun So Bakat Palmok Nopunde Yop Makgi
+  13. Gunnun So An Palmok Dollimyo Makgi
+  14. Annun So Orun Sonbadak Duro Makgi
+  15. Annun So Wen Joomuk Kaunde Jirugi
+  16. Gunnun So Sonbadak Nopunde Bandae Golcho Makgi
+  17. Annun So Wen Joomuk Kaunde Jirugi
+  18. Gunnun So Sonbadak Nopunde Bandae Golcho Makgi
+  19. Annun So Orun Joomuk Kaunde Jirugi
+  20. Gunnun So Kyocha Joomuk Noollo Makgi
+  21. Gunnun So Kyocha Sonkal Chookyo Makgi
+  22. Gunnun So Kaunde Bandae Jirugi
+  23. Najunde Apcha Busigi
+  24. Gunnun So Kaunde Bandae Jirugi
+  25. Gunnun So Kyocha Joomuk Noollo Makgi
+  26. Gunnun So Kyocha Sonkal Chookyo Makgi
+  27. Gunnun So Kaunde Bandae Jirugi
+  28. Najunde Apcha Busigi
+  29. Gunnun So Kaunde Bandae Jirugi
+  30. Niunja So Sonkal Kaunde Daebi Makgi
+  31. Niunja So Sonkal Kaunde Daebi Makgi
+  32. Niunja So Sonkal Kaunde Daebi Makgi
+  33. Niunja So Sonkal Kaunde Daebi Makgi
+  34. Gunnun So Doo Palmok Nopunde Makgi
+  35. Gunnun So Palmok Najunde Bandae Makgi
+  36. Gunnun So Doo Palmok Nopunde Makgi
+  37. Gunnun So Palmok Najunde Bandae Makgi
+  38. Gunnun So Kaunde Jirugi
+  39. Niunja So Sonkal Dung Nopunde Yop Makgi
+  40. Moa Junbi Sogi C
+  41. Gunnun So Sang Joomuk Dwijibo Jirugi
+  42. Gunnun So Sang Joomuk Dwijibo Jirugi
+  43. Niunja So An Palmok Kaunde Yop Makgi
+  44. Niunja So Kaunde Baro Jirugi
+  45. Moa So Orun Joomuk Giokja Jirugi
+  46. Niunja So An Palmok Kaunde Yop Makgi
+  47. Niunja So Kaunde Baro Jirugi
+  48. Moa So Wen Joomuk Giokja Jirugi
+  49. Gojung So Digutja Jirugi
+  50. Gojung So Digutja Jirugi
+  51. Annun So Orun Dung Joomuk Ap Taerigi
+  52. Doro Chagi, Annun So Orun Bakat Palmok Nopunde Bakuro Makgi
+  53. Doro Chagi, Annun So Orun Bakat Palmok Nopunde Ap Makgi
+  54. Annun So Orun Sondung Soopyong Taerigi
+  55. Kaunde Bandal Chagi
+  56. Kaunde Yopcha Jirugi
+  57. Annun So Wen Sondung Soopyong Taerigi
+  58. Kaunde Bandal Chagi
+  59. Kaunde Yopcha Jirugi
+  60. Annun So Orun Gutja Makgi
+  61. Annun Sogi
+  62. Annun So Orun Gutja Makgi
+  63. Annun Sogi
+  64. Soojik So Yop Joomuk Bandae Naeryo Taerigi
+  65. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  66. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  67. Niunja So Sonkal Kaunde Daebi Makgi
+  68. Niunja So Sonkal Kaunde Daebi Makgi
+
+CHOI-YONG  (46 mouvements)
+3e Dan
+------------------------------------------------------------------------------
+   1. Dwitbal So Palmok Kaunde Daebi Makgi
+   2. Dwitbal So Joongji Joomuk Nopunde Bandae Jirugi
+   3. Dwitbal So Palmok Kaunde Daebi Makgi
+   4. Dwitbal So Joongji Joomuk Nopunde Bandae Jirugi
+   5. Gunnun So Sonkal Chookyo Makgi
+   6. Gunnun So An Palmok Dollimyo Makgi
+   7. Gunnun So Kaunde Jirugi
+   8. Gunnun So Sonkal Chookyo Makgi
+   9. Gunnun So An Palmok Dollimyo Makgi
+  10. Gunnun So Kaunde Jirugi
+  11. Niunja So Sonkal Najunde Daebi Makgi
+  12. Kaunde Dollyo Chagi
+  13. Nopunde Bandae Dollyo Gorochagi
+  14. Kaunde Yopcha Jirugi
+  15. Gunnun So Ap Palkup Bandae Taerigi
+  16. Niunja So Sonkal Najunde Daebi Makgi
+  17. Kaunde Dollyo Chagi
+  18. Nopunde Bandae Dollyo Gorochagi
+  19. Kaunde Yopcha Jirugi
+  20. Gunnun So Ap Palkup Bandae Taerigi
+  21. Gunnun So Sonbadak Bandae Noollo Makgi
+  22. Gunnun So Sonbadak Bandae Noollo Makgi
+  23. Gunnun So Sonkal San Makgi
+  24. Kaunde Apcha Busigi
+  25. Niunja So Palmok Kaunde Daebi Makgi
+  26. Gunnun So Sonkal San Makgi
+  27. Kaunde Apcha Busigi
+  28. Niunja So Palmok Kaunde Daebi Makgi
+  29. Niunja So Palmok Kaunde Daebi Makgi
+  30. Gunnun So Opun Sonkut Nopunde Tulgi
+  31. Gunnun So Opun Sonkut Nopunde Tulgi
+  32. Narani So Orun Sonbadak Kaunde Golcho Makgi
+  33. Narani So Wen Joomuk Kaunde Jirugi
+  34. Guburyo Junbi Sogi A
+  35. Kaunde Yopcha Jirugi
+  36. Twigi, Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi
+  37. Nopunde Bandae Dollyo Gorochagi
+  38. Niunja So Sonkal Kaunde Bakuro Taerigi
+  39. Narani So Wen Sonbadak Kaunde Golcho Makgi
+  40. Narani So Orun Joomuk Kaunde Jirugi
+  41. Guburyo Junbi Sogi A
+  42. Kaunde Yopcha Jirugi
+  43. Twigi, Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
+  44. Nopunde Bandae Dollyo Gorochagi
+  45. Niunja So Sonkal Kaunde Bakuro Taerigi
+  46. Gojung So Kaunde Yop Jirugi
+
+YON-GAE  (49 mouvements)
+4e Dan
+------------------------------------------------------------------------------
+   1. Niunja So Sonkal Dung Najunde Daebi Makgi
+   2. Gunnun So Ghin Joomuk Nopunde Bandae Jirugi
+   3. Niunja So Palmok Kaunde Daebi Makgi
+   4. Twimyo Sonkal Bakuro Taerigi
+   5. Niunja So Kyocha Joomuk Momchau Makgi
+   6. Gunnun So Opun Sonkut Nopunde Bakuro Ghutgi
+   7. Dwitbal So Sun Palkup Bandae Naeryo Tulgi
+   8. Twigi, Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
+   9. Gunnun So Sonkal Najunde Bandae Bakuro Makgi
+  10. Narani So Wen Sonbadak Kaunde Golcho Makgi
+  11. Narani So Orun Joomuk Kaunde Jirugi
+  12. Niunja So Sonkal Dung Najunde Daebi Makgi
+  13. Gunnun So Ghin Joomuk Nopunde Bandae Jirugi
+  14. Niunja So Palmok Kaunde Daebi Makgi
+  15. Twimyo Sonkal Kaunde Bakuro Taerigi
+  16. Niunja So Kyocha Joomuk Momchau Makgi
+  17. Gunnun So Opun Sonkut Nopunde Bakuro Ghutgi
+  18. Dwitbal So Sun Palkup Bandae Naeryo Tulgi
+  19. Twigi, Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi
+  20. Gunnun So Sonkal Najunde Bandae Bakuro Makgi
+  21. Narani So Orun Sonbadak Kaunde Golcho Makgi
+  22. Narani So Wen Joomuk Kaunde Jirugi
+  23. Annun So Sonkal Dung San Makgi
+  24. Kyocha So Sang Palkup Soopyong Tulgi
+  25. Annun So Sang Sun Palmok Momchau Makgi
+  26. Kyocha So Baro Ollyo Jirugi
+  27. Nopunde Bandae Dollyo Gorochagi
+  28. Nopunde Yopcha Jirugi
+  29. Twigi, Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi
+  30. Annun So Sonkal Dung San Makgi
+  31. Kyocha So Sang Palkup Soopyong Tulgi
+  32. Annun So Sang Sun Palmok Momchau Makgi
+  33. Kyocha So Baro Ollyo Jirugi
+  34. Nopunde Bandae Dollyo Gorochagi
+  35. Nopunde Yopcha Jirugi
+  36. Twigi, Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi
+  37. Niunja So Palmok Kaunde Daebi Makgi
+  38. Dwitbal So An Palmok Bandae Hori Makgi
+  39. Niunja So Sonkal Nopunde Bakuro Taerigi
+  40. Niunja So Palmok Kaunde Daebi Makgi
+  41. Dwitbal So An Palmok Bandae Hori Makgi
+  42. Niunja So Sonkal Nopunde Bakuro Taerigi
+  43. Niunja So Palmok Kaunde Daebi Makgi
+  44. Twio Dolmyo Chagi, Wen Niunja So Sonkal Kaunde Daebi Makgi
+  45. Twio Dolmyo Chagi, Orun Niunja So Sonkal Kaunde Daebi Makgi
+  46. Gunnun So Sonkal Dung Najunde Bandae Anuro Makgi
+  47. Niunja So Yop Palkup Tulgi
+  48. Gunnun So Sonkal Dung Najunde Bandae Anuro Makgi
+  49. Niunja So Yop Palkup Tulgi
+
+UL-JI  (42 mouvements)
+4e Dan
+------------------------------------------------------------------------------
+   1. Gunnun So Sang Yop Joomuk Soopyong Taerigi
+   2. Gunnun So Kyocha Joomuk Noollo Makgi
+   3. Gunnun So Kyocha Sonkal Chookyo Makgi
+   4. Gunnun So Sonkal Nopunde Bandae Ap Taerigi
+   5. Annun So Wen Sondung Soopyong Taerigi
+   6. Kaunde Bandal Chagi
+   7. Annun So Orun Ap Palkup Taerigi
+   8. Annun So Wen Dwit Palkup Tulgi
+   9. Annun So Orun Dung Joomuk Yopdwi Taerigi
+  10. Moa So Sang Yop Palkup Tulgi
+  11. Kyocha Sogi
+  12. Kaunde Yopcha Jirugi
+  13. Kyocha So Sang Palkup Soopyong Tulgi
+  14. Annun So Orun Soopyong Jirugi
+  15. Sonkal Nopunde Ap Taerigi
+  16. Niunja So Sang Sonkal Makgi
+  17. Twio Dolmyo Chagi
+  18. Gunnun So Doo Palmok Kaunde Makgi
+  19. Moa Junbi Sogi B
+  20. Twigi, Orun Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
+  21. Gunnun So Palmok Bandae Chookyo Makgi
+  22. Kaunde Apcha Busigi
+  23. Gunnun So Nopunde Bandae Jirugi
+  24. Gunnun So Sun Sonkut Kaunde Tulgi
+  25. Annun So Wen Dung Joomuk Nopunde Yop Taerigi
+  26. Gunnun Junbi Sogi
+  27. Twimyo Nopi Chagi
+  28. Gojung So Kyocha Sonkal Momchau Makgi
+  29. Niunja So Kyocha Joomuk Noollo Makgi
+  30. Kaunde Yobap Cha Busigi Wa An Palmok Kaunde Hechyo Makgi
+  31. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  32. Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi
+  33. Niunja So Kaunde Yop Jirugi
+  34. Niunja Sogi, Twigi, Orun Niunja So Palmok Kaunde Daebi Makgi
+  35. Kaunde Dollyo Chagi
+  36. Kaunde Dwitcha Jirugi
+  37. Niunja So Palmok Kaunde Daebi Makgi
+  38. Niunja So Sonbadak Bandae Ollyo Makgi
+  39. Gunnun So An Palmok Dollimyo Makgi
+  40. Gunnun So An Palmok Dollimyo Makgi
+  41. Annun So Wen Joomuk Kaunde Jirugi
+  42. Annun So Orun Joomuk Kaunde Jirugi
+
+MOON-MOO  (61 mouvements)
+4e Dan
+------------------------------------------------------------------------------
+   1. Guburyo Junbi Sogi A
+   2. Nopunde Yopcha Jirugi
+   3. Nopunde Yopcha Jirugi
+   4. Annun So Orun Opun Sonkut Kaunde Tulgi
+   5. Nopunde Bandae Dollyo Gorochagi
+   6. Twigi, Orun Kyocha So Sonkal Kaunde Yop Taerigi
+   7. Gunnun So Sonbadak Bandae Noollo Makgi
+   8. Gunnun So Sonbadak Bandae Noollo Makgi
+   9. Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi
+  10. Guburyo Junbi Sogi A
+  11. Nopunde Yopcha Jirugi
+  12. Nopunde Yopcha Jirugi
+  13. Annun So Wen Opun Sonkut Kaunde Tulgi
+  14. Nopunde Bandae Dollyo Gorochagi
+  15. Twigi, Wen Kyocha So Sonkal Kaunde Yop Taerigi
+  16. Gunnun So Sonbadak Bandae Noollo Makgi
+  17. Gunnun So Sonbadak Bandae Noollo Makgi
+  18. Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi
+  19. Guburyo Junbi Sogi B
+  20. Nopunde Dwitcha Jirugi
+  21. Gunnun So Kaunde Bandae Jirugi
+  22. Guburyo Junbi Sogi B
+  23. Nopunde Dwitcha Jirugi
+  24. Gunnun So Kaunde Bandae Jirugi
+  25. Dwitbal So Sonbadak Bandae Naeryo Makgi
+  26. Kaunde Yobap Cha Busigi
+  27. Annun So Orun Yop Joomuk Kaunde Yop Taerigi
+  28. Annun So Wen Sonbadak Duro Makgi
+  29. Annun So Orun Joomuk Kaunde Jirugi
+  30. Annun So Wen Sonkal Najunde Yop Makgi
+  31. Kaunde Yopcha Milgi
+  32. Nopunde Bandae Dollyo Chagi
+  33. Gunnun So Sonkal Nopunde Yop Makgi
+  34. Dwitbal So Sonbadak Bandae Naeryo Makgi
+  35. Kaunde Yobap Cha Busigi
+  36. Annun So Wen Yop Joomuk Kaunde Yop Taerigi
+  37. Annun So Orun Sonbadak Duro Makgi
+  38. Annun So Wen Joomuk Kaunde Jirugi
+  39. Annun So Orun Sonkal Najunde Yop Makgi
+  40. Kaunde Yopcha Milgi
+  41. Nopunde Bandae Dollyo Chagi
+  42. Gunnun So Sonkal Nopunde Yop Makgi
+  43. Nopunde Bituro Chagi
+  44. Gunnun So Dung Joomuk Bandae Yopdwi Taerigi
+  45. Gunnun So Dung Joomuk Bandae Ap Taerigi
+  46. Nopunde Bituro Chagi
+  47. Gunnun So Dung Joomuk Bandae Yopdwi Taerigi
+  48. Gunnun So Dung Joomuk Bandae Ap Taerigi
+  49. Yop Bal Badak Suroh Chagi
+  50. Yopcha Momchugi, Wen Kaunde Yopcha Tulgi
+  51. Niunja So Sonkal Kaunde Bakuro Taerigi
+  52. Yop Bal Badak Suroh Chagi, Wen Niunja So Palmok Kaunde Daebi Makgi
+  53. Yopcha Momchugi, Orun Kaunde Yopcha Tulgi
+  54. Niunja So Sonkal Kaunde Bakuro Taerigi
+  55. Gunnun So Kaunde Bandae Jirugi
+  56. Twigi, Orun Kyocha So Najunde Bandae Jirugi
+  57. Twigi, Wen Kyocha So Najunde Bandae Jirugi
+  58. Twio Dolmyo Chagi
+  59. Niunja So Sonkal Kaunde Daebi Makgi
+  60. Gunnun So Bandal Son Bandae Chookyo Makgi
+  61. Gunnun So Nopunde Jirugi
+
+SO-SAN  (72 mouvements)
+5e Dan
+------------------------------------------------------------------------------
+   1. Dwitbal So Palmok Kaunde Daebi Makgi
+   2. Gunnun So Kaunde Bandae Sewo Jirugi
+   3. Dwitbal So Palmok Kaunde Daebi Makgi
+   4. Gunnun So Kaunde Bandae Sewo Jirugi
+   5. Gunnun So Sonkal Nopunde Bandae Yop Makgi
+   6. Annun So Wen Joomuk Kaunde Jirugi
+   7. Gunnun So Sonkal Nopunde Bandae Yop Makgi
+   8. Annun So Orun Joomuk Kaunde Jirugi
+   9. Narani So Sang Sonkal Soopyong Taerigi
+  10. Nopunde Yopcha Jirugi
+  11. Nopunde Dollyo Chagi
+  12. Twigi, Orun Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
+  13. Narani So Sang Sonkal Soopyong Taerigi
+  14. Nopunde Yopcha Jirugi
+  15. Nopunde Dollyo Chagi
+  16. Twigi, Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
+  17. Niunja So Doo Joomuk Najunde Jirugi
+  18. Gunnun So Jappyosul Tae
+  19. Gunnun So Nopunde Bandae Jirugi
+  20. Niunja So Doo Joomuk Najunde Jirugi
+  21. Gunnun So Jappyosul Tae
+  22. Gunnun So Nopunde Bandae Jirugi
+  23. Niunja So Joongji Joomuk Baro Dwijibo Jirugi
+  24. Gunnun So Dung Joomuk Bandae Ap Taerigi
+  25. Niunja So Joongji Joomuk Baro Dwijibo Jirugi
+  26. Gunnun So Dung Joomuk Bandae Ap Taerigi
+  27. Gunnun Junbi Sogi
+  28. Twimyo Apcha Busigi
+  29. Niunja So Sonkal Kaunde Daebi Makgi
+  30. Gunnun So Palmok Nopunde Bandae Ap Makgi
+  31. Gunnun So Kaunde Jirugi
+  32. Gunnun So Palmok Nopunde Bandae Ap Makgi
+  33. Gunnun So Kaunde Jirugi
+  34. Gunnun So Kaunde Doo Bandalson Makgi
+  35. Gunnun So Sonkal Nopunde Bandae Anuro Taerigi
+  36. Gunnun So An Palmok Dollimyo Makgi
+  37. Gunnun So Nopunde Jirugi
+  38. Najunde Apcha Busigi
+  39. Gunnun So Kaunde Jirugi
+  40. Gunnun So Kaunde Bandae Jirugi
+  41. Gunnun So Kyocha Sonkal Chookyo Makgi
+  42. Gunnun So Kaunde Doo Bandalson Makgi
+  43. Gunnun So Sonkal Nopunde Bandae Anuro Taerigi
+  44. Gunnun So An Palmok Dollimyo Makgi
+  45. Gunnun So Joomuk Nopunde Jirugi
+  46. Najunde Apcha Busigi
+  47. Gunnun So Kaunde Jirugi
+  48. Gunnun So Kaunde Bandae Jirugi
+  49. Gunnun So Kyocha Sonkal Chookyo Makgi
+  50. Niunja So Sonkal Najunde Daebi Makgi
+  51. Twigi, Orun Niunja So Palmok Kaunde Daebi Makgi
+  52. Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi
+  53. Gunnun So Nopunde Bandae Jirugi
+  54. Niunja So Kaunde Yop Jirugi
+  55. Niunja So Sonkal Najunde Daebi Makgi
+  56. Twigi, Wen Niunja So Palmok Kaunde Daebi Makgi
+  57. Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi
+  58. Gunnun So Nopunde Bandae Jirugi
+  59. Niunja So Kaunde Yop Jirugi
+  60. Niunja So Sonbadak Bandae Duro Makgi
+  61. Niunja So Kaunde Baro Jirugi
+  62. Guburyo Junbi Sogi A
+  63. Nopunde Yopcha Jirugi
+  64. Gunnun So Kaunde Bandae Jirugi
+  65. Niunja So Sonkal Kaunde Daebi Makgi
+  66. Niunja So Sonbadak Bandae Duro Makgi
+  67. Niunja So Kaunde Baro Jirugi
+  68. Guburyo Junbi Sogi A
+  69. Nopunde Yopcha Jirugi
+  70. Gunnun So Kaunde Bandae Jirugi
+  71. Niunja So Sonkal Kaunde Daebi Makgi
+  72. Gunnun So Nopunde Jirugi
+
+SE-JONG  (24 mouvements)
+5e Dan
+------------------------------------------------------------------------------
+   1. Gunnun So Palmok Najunde Makgi
+   2. Niunja So Sang Palmok Makgi
+   3. Kaunde Yopcha Jirugi
+   4. Gunnun So Palmok Chookyo Makgi
+   5. Annun So Orun Sonkal Kaunde Yop Taerigi
+   6. Moa Junbi Sogi B
+   7. Twigi, Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
+   8. Gunnun So Nopunde Jirugi
+   9. Gojung So Palmok Nopunde Daebi Makgi
+  10. Gunnun So Sun Sonkut Kaunde Tulgi
+  11. Gunnun So Dung Joomuk Nopunde Yop Taerigi
+  12. Annun So Wen Sonbadak Duro Makgi
+  13. Kaunde Dollyo Chagi
+  14. Twigi, Wen Kyocha So Doo Palmok Nopunde Makgi
+  15. Annun Sogi
+  16. Annun So Wen Dung Joomuk Ap Taerigi
+  17. Sasun So Sang Sonbadak Noollo Makgi
+  18. Gunnun So Kaunde Doo Bandalson Makgi
+  19. Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi
+  20. Gunnun So Sonbadak Baro Noollo Makgi
+  21. Waebal So Dungpalmok Baro Taerigi
+  22. Gojung So Yop Palkup Tulgi
+  23. Niunja So Sonkal Nopunde Daebi Makgi
+  24. Niunja So Kaunde Baro Jirugi
+
+TONG-IL  (56 mouvements)
+6e Dan
+------------------------------------------------------------------------------
+   1. Gunnun So Sang Joomuk Kaunde Jirugi
+   2. Gunnun So Sang Sonkal Soopyong Taerigi
+   3. Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi
+   4. Gunnun So Sonbadak Najunde Anuro Bandae Makgi
+   5. Niunja So Kaunde Yop Jirugi
+   6. Niunja So Kaunde Baro Jirugi
+   7. Niunja So Sondung Nopunde Bakuro Taerigi
+   8. Balkal Dung Anuro Sewo Chagi
+   9. Niunja So Sondung Nopunde Bakuro Taerigi
+  10. Balkal Dung Anuro Sewo Chagi
+  11. Niunja So Sang Sonbadak Soopyong Makgi
+  12. Gunnun So Sonkal Dung Nopunde Yop Makgi
+  13. Gunnun So Sonkal Dung Kaunde Bandae Yop Makgi
+  14. Gunnun So Kaunde Jirugi
+  15. Gunnun So Kaunde Bandae Jirugi
+  16. Naeryo Chagi
+  17. Niunja So Dung Joomuk Bandae Naeryo Taerigi
+  18. Bakuro Sewo Chagi
+  19. Niunja So Dung Joomuk Bandae Naeryo Taerigi
+  20. Gunnun So Nopunde Bandae Jirugi
+  21. Gunnun So Nopunde Jirugi
+  22. Dwitbal So Sonmok Dung Bandae Ollyo Makgi
+  23. Dwitbal So Sonmok Dung Bandae Ollyo Makgi
+  24. Gunnun So Sonbadak Baro Noollo Makgi
+  25. Gunnun So Sonbadak Baro Noollo Makgi
+  26. Moa Sogi
+  27. Gunnun So Sonkal Chookyo Makgi
+  28. Gunnun So Nopunde Bandae Jirugi
+  29. Niunja So Baro Dwijibo Jirugi
+  30. Gunnun So Homi Sonkut Nopunde Bandae Tulgi
+  31. Gunnun So Sonkal Chookyo Makgi
+  32. Gunnun So Nopunde Bandae Jirugi
+  33. Niunja So Baro Dwijibo Jirugi
+  34. Gunnun So Homi Sonkut Nopunde Bandae Tulgi
+  35. Niunja So Sonkal Dung Najunde Daebi Makgi
+  36. Niunja So Sonkal Dung Najunde Daebi Makgi
+  37. Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi
+  38. Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+  39. Waebal So Dungpalmok Bandae Taerigi
+  40. Kaunde Dwitcha Jirugi
+  41. Annun So Bakat Palmok San Makgi
+  42. Annun So Bakat Palmok San Makgi
+  43. Annun So Orun Bakat Palmok San Makgi
+  44. Annun So Bakat Palmok San Makgi
+  45. Waebal So Dungpalmok Bandae Taerigi
+  46. Nopunde Dwitcha Jirugi
+  47. Twigi, Wen Kyocha So Kyocha Joomuk Noollo Makgi
+  48. Gunnun So Mit Joomuk Ap Taerigi
+  49. Gunnun So Mit Joomuk Ap Taerigi
+  50. Gunnun So Sonbadak Kaunde Bandae Miro Makgi
+  51. Gunnun So Sonkal Dollimyo Makgi
+  52. Gunnun So Sonbadak Kaunde Bandae Miro Makgi
+  53. Gunnun So Sonkal Dollimyo Makgi
+  54. Nopunde Yopcha Jirugi
+  55. Annun So Wen Joomuk Kaunde Yop Jirugi
+  56. Gunnun So Kaunde Bandae Jirugi
+
+
+==============================================================================
+  INDEX ALPHABÉTIQUE DES TECHNIQUES
+==============================================================================
+
+352 techniques distinctes, avec leur nombre d'occurrences dans
+l'ensemble des formes.
+
+     2 ×  An Palmok Kaunde Yop Makgi
+     2 ×  Annun So An Palmok Kaunde Hechyo Makgi
+     2 ×  Annun So An Palmok Narani Makgi
+     9 ×  Annun So Bakat Palmok San Makgi
+     2 ×  Annun So Kaunde Bandae Jirugi
+     1 ×  Annun So Orun An Palmok Yobap Makgi
+     2 ×  Annun So Orun Ap Joomuk Noollo Makgi Wa Wen An Palmok Yobap Makgi
+     1 ×  Annun So Orun Ap Palkup Taerigi
+     1 ×  Annun So Orun Bakat Palmok Nopunde Ap Makgi
+     1 ×  Annun So Orun Bakat Palmok Nopunde Bakuro Makgi
+     1 ×  Annun So Orun Bakat Palmok San Makgi
+     2 ×  Annun So Orun Dung Joomuk Ap Taerigi
+     1 ×  Annun So Orun Dung Joomuk Nopunde Yop Taerigi
+     2 ×  Annun So Orun Dung Joomuk Yopdwi Taerigi
+     2 ×  Annun So Orun Dwit Palkup Tulgi
+     3 ×  Annun So Orun Gutja Makgi
+     1 ×  Annun So Orun Joomuk C-Bang Giokja Jirugi
+     1 ×  Annun So Orun Joomuk Giokja Jirugi
+     3 ×  Annun So Orun Joomuk Kaunde Ap Jirugi
+    10 ×  Annun So Orun Joomuk Kaunde Jirugi
+     1 ×  Annun So Orun Opun Sonkut Kaunde Tulgi
+     1 ×  Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi
+     1 ×  Annun So Orun Palmok Kaunde Ap Makgi
+     3 ×  Annun So Orun Sonbadak Duro Makgi
+     1 ×  Annun So Orun Sondung Soopyong Taerigi
+     4 ×  Annun So Orun Sonkal Kaunde Yop Taerigi
+     1 ×  Annun So Orun Sonkal Najunde Yop Makgi
+     2 ×  Annun So Orun Soopyong Jirugi
+     1 ×  Annun So Orun Yop Joomuk Kaunde Yop Taerigi
+     2 ×  Annun So Sang Sun Palmok Momchau Makgi
+     2 ×  Annun So Sonbadak Kaunde Miro Makgi
+     2 ×  Annun So Sonkal Dung Kaunde Hechyo Makgi
+     1 ×  Annun So Sonkal Dung Najunde C-Bang Daebi Makgi
+     2 ×  Annun So Sonkal Dung San Makgi
+     1 ×  Annun So Sonkal Najunde A-Bang Daebi Makgi
+     1 ×  Annun So Sonkal Najunde B-Bang Daebi Makgi
+     1 ×  Annun So Sonkal Najunde D-Bang Daebi Makgi
+     1 ×  Annun So Wen An Palmok Yobap Makgi
+     2 ×  Annun So Wen Ap Joomuk Noollo Makgi Wa Orun An Palmok Yobap Makgi
+     3 ×  Annun So Wen Bakat Palmok San Makgi
+     2 ×  Annun So Wen Dung Joomuk Ap Taerigi
+     2 ×  Annun So Wen Dung Joomuk Nopunde Yop Taerigi
+     1 ×  Annun So Wen Dung Joomuk Yopdwi Taerigi
+     3 ×  Annun So Wen Dwit Palkup Tulgi
+     1 ×  Annun So Wen Gutja Makgi
+     1 ×  Annun So Wen Joomuk C-Bang Giokja Jirugi
+     1 ×  Annun So Wen Joomuk Giokja Jirugi
+     4 ×  Annun So Wen Joomuk Kaunde Ap Jirugi
+     8 ×  Annun So Wen Joomuk Kaunde Jirugi
+     1 ×  Annun So Wen Joomuk Kaunde Yop Jirugi
+     1 ×  Annun So Wen Opun Sonkut Kaunde Tulgi
+     1 ×  Annun So Wen Opun Sonkut Nopunde Bakuro Ghutgi
+     4 ×  Annun So Wen Sonbadak Duro Makgi
+     1 ×  Annun So Wen Sonbadak Kaunde Yobap Miro Makgi
+     2 ×  Annun So Wen Sondung Soopyong Taerigi
+     3 ×  Annun So Wen Sonkal Kaunde Yop Taerigi
+     1 ×  Annun So Wen Sonkal Najunde Yop Makgi
+     1 ×  Annun So Wen Soopyong Jirugi
+     1 ×  Annun So Wen Yop Joomuk Kaunde Yop Taerigi
+     6 ×  Annun Sogi
+     4 ×  Bakuro Noollo Chagi
+     1 ×  Bakuro Sewo Chagi
+     2 ×  Balkal Dung Anuro Sewo Chagi
+     2 ×  Doro Chagi
+     1 ×  Dung Joomuk Nopunde Yop Taerigi
+     2 ×  Dwitbal So An Palmok Bandae Hori Makgi
+     1 ×  Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi
+     2 ×  Dwitbal So Euhkallin Sonbadak Naeryo Makgi
+     2 ×  Dwitbal So Joongji Joomuk Nopunde Bandae Jirugi
+     6 ×  Dwitbal So Palmok Kaunde Daebi Makgi
+     2 ×  Dwitbal So Sang Sonbadak Noollo Makgi
+     2 ×  Dwitbal So Sonbadak Bandae Naeryo Makgi
+     3 ×  Dwitbal So Sonbadak Bandae Ollyo Makgi
+     2 ×  Dwitbal So Sonbadak Ollyo Makgi
+     2 ×  Dwitbal So Sonkal Nopunde Daebi Makgi
+     2 ×  Dwitbal So Sonmok Dung Bandae Ollyo Makgi
+     4 ×  Dwitbal So Sun Palkup Bandae Naeryo Tulgi
+     1 ×  Dwitbal So Yop Palkup Tulgi
+     1 ×  Dwitbal Sogi
+     2 ×  Gojung So Digutja Jirugi
+     4 ×  Gojung So Digutja Makgi
+     6 ×  Gojung So Kaunde Yop Jirugi
+     1 ×  Gojung So Kyocha Sonkal Momchau Makgi
+     1 ×  Gojung So Palmok Nopunde Daebi Makgi
+     1 ×  Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi
+     1 ×  Gojung So Yop Palkup Tulgi
+     1 ×  Gokaeng-I Chagi
+     2 ×  Guburyo Junbi So B
+    12 ×  Guburyo Junbi Sogi A
+     3 ×  Guburyo Junbi Sogi B
+     2 ×  Gunnun Junbi Sogi
+    14 ×  Gunnun So An Palmok Dollimyo Makgi
+     2 ×  Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi
+     6 ×  Gunnun So An Palmok Kaunde Yop Makgi
+     6 ×  Gunnun So Ap Palkup Bandae Taerigi
+     1 ×  Gunnun So Bakat Palmok Nopunde Ap Makgi
+     2 ×  Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi
+     2 ×  Gunnun So Bakat Palmok Nopunde Hechyo Makgi
+    10 ×  Gunnun So Bakat Palmok Nopunde Yop Makgi
+     3 ×  Gunnun So Bandae Dwijibo Jirugi
+     2 ×  Gunnun So Bandae Gutja Makgi
+     1 ×  Gunnun So Bandae Naeryo Jirugi
+     1 ×  Gunnun So Bandal Son Bandae Chookyo Makgi
+     2 ×  Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi
+     2 ×  Gunnun So Bandal Son Nopunde Bandae Taerigi
+     3 ×  Gunnun So Doo Palmok Kaunde Makgi
+     9 ×  Gunnun So Doo Palmok Nopunde Makgi
+     2 ×  Gunnun So Doo Songarak Nopunde Bandae Tulgi
+     1 ×  Gunnun So Dung Joomuk Ap Taerigi
+     4 ×  Gunnun So Dung Joomuk Bandae Ap Taerigi
+     2 ×  Gunnun So Dung Joomuk Bandae Yopdwi Taerigi
+     2 ×  Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi
+     3 ×  Gunnun So Dung Joomuk Nopunde Yop Taerigi
+     1 ×  Gunnun So Dwijibun Sonkut Bandae Najunde Tulgi
+     3 ×  Gunnun So Dwijibun Sonkut Najunde Tulgi
+     1 ×  Gunnun So Dwit Palkup Bandae Tulgi
+     2 ×  Gunnun So Ghin Joomuk Nopunde Bandae Jirugi
+     2 ×  Gunnun So Homi Sonkut Nopunde Bandae Tulgi
+     4 ×  Gunnun So Jappyosul Tae
+     1 ×  Gunnun So Joomuk Nopunde Jirugi
+    34 ×  Gunnun So Kaunde Bandae Jirugi
+     2 ×  Gunnun So Kaunde Bandae Sewo Jirugi
+     3 ×  Gunnun So Kaunde Doo Bandalson Makgi
+    42 ×  Gunnun So Kaunde Jirugi
+     1 ×  Gunnun So Kyocha Joomuk Chookyo Makgi
+     2 ×  Gunnun So Kyocha Joomuk Naeryo Makgi
+     7 ×  Gunnun So Kyocha Joomuk Noollo Makgi
+     5 ×  Gunnun So Kyocha Sonkal Chookyo Makgi
+     2 ×  Gunnun So Mit Joomuk Ap Taerigi
+     1 ×  Gunnun So Naeryo Jirugi
+     2 ×  Gunnun So Nopun Palkup Bandae Taerigi
+     2 ×  Gunnun So Nopunde Bandae Bandal Jirugi
+    10 ×  Gunnun So Nopunde Bandae Jirugi
+     3 ×  Gunnun So Nopunde Doo Bandalson Makgi
+    18 ×  Gunnun So Nopunde Jirugi
+     2 ×  Gunnun So Opun Sonkut Nopunde Bakuro Ghutgi
+     5 ×  Gunnun So Opun Sonkut Nopunde Tulgi
+     1 ×  Gunnun So Palmok Bandae Chookyo Makgi
+    12 ×  Gunnun So Palmok Chookyo Makgi
+     1 ×  Gunnun So Palmok Kaunde Bandae Ap Makgi
+     4 ×  Gunnun So Palmok Najunde Bandae Makgi
+    13 ×  Gunnun So Palmok Najunde Makgi
+     2 ×  Gunnun So Palmok Nopunde Bandae Ap Makgi
+     2 ×  Gunnun So Pyon Joomuk Nopunde Bandae Jirugi
+     6 ×  Gunnun So Sang Joomuk Dwijibo Jirugi
+     1 ×  Gunnun So Sang Joomuk Kaunde Jirugi
+    10 ×  Gunnun So Sang Joomuk Nopunde Sewo Jirugi
+     1 ×  Gunnun So Sang Sonbadak Ollyo Makgi
+     2 ×  Gunnun So Sang Sonkal Nopunde Anuro Taerigi
+     2 ×  Gunnun So Sang Sonkal Soopyong Taerigi
+     1 ×  Gunnun So Sang Yop Joomuk Soopyong Taerigi
+     6 ×  Gunnun So Sonbadak Bandae Noollo Makgi
+     2 ×  Gunnun So Sonbadak Bandae Ollyo Makgi
+     3 ×  Gunnun So Sonbadak Baro Noollo Makgi
+     2 ×  Gunnun So Sonbadak Kaunde Bandae Golcho Makgi
+     2 ×  Gunnun So Sonbadak Kaunde Bandae Miro Makgi
+     2 ×  Gunnun So Sonbadak Kaunde Golcho Makgi
+     1 ×  Gunnun So Sonbadak Najunde Anuro Bandae Makgi
+     2 ×  Gunnun So Sonbadak Noollo Makgi
+     2 ×  Gunnun So Sonbadak Nopunde Bandae Golcho Makgi
+     2 ×  Gunnun So Sonbadak Nopunde Golcho Makgi
+     1 ×  Gunnun So Sonkal Bandae Ap Naeryo Taerigi
+     2 ×  Gunnun So Sonkal Bandae Chookyo Makgi
+     5 ×  Gunnun So Sonkal Chookyo Makgi
+     2 ×  Gunnun So Sonkal Dollimyo Makgi
+     2 ×  Gunnun So Sonkal Dung Dollimyo Makgi
+     1 ×  Gunnun So Sonkal Dung Kaunde Bandae Yop Makgi
+     2 ×  Gunnun So Sonkal Dung Najunde Bandae Anuro Makgi
+     2 ×  Gunnun So Sonkal Dung Nopunde Bandae Ap Taerigi
+     1 ×  Gunnun So Sonkal Dung Nopunde Yop Makgi
+     1 ×  Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi
+     2 ×  Gunnun So Sonkal Kaunde Hechyo Makgi
+     2 ×  Gunnun So Sonkal Najunde Bandae Anuro Makgi
+     2 ×  Gunnun So Sonkal Najunde Bandae Bakuro Makgi
+     7 ×  Gunnun So Sonkal Najunde Makgi
+     1 ×  Gunnun So Sonkal Nopunde Ap Taerigi
+     2 ×  Gunnun So Sonkal Nopunde Bandae Anuro Taerigi
+     1 ×  Gunnun So Sonkal Nopunde Bandae Ap Taerigi
+     3 ×  Gunnun So Sonkal Nopunde Bandae Yop Makgi
+     2 ×  Gunnun So Sonkal Nopunde Yop Makgi
+     2 ×  Gunnun So Sonkal San Makgi
+     8 ×  Gunnun So Sun Sonkut Kaunde Tulgi
+     2 ×  Gunnun So Wi Palkup Bandae Taerigi
+     1 ×  Gunnun Sogi
+     1 ×  Jappyosul Tae
+     1 ×  Joomuk Nopunde Jirugi
+    10 ×  Kaunde Apcha Busigi
+     2 ×  Kaunde Bandae Dollyo Chagi
+     3 ×  Kaunde Bandal Chagi
+     1 ×  Kaunde Bituro Chagi
+     7 ×  Kaunde Dollyo Chagi
+     5 ×  Kaunde Dwitcha Jirugi
+     2 ×  Kaunde Golcho Chagi
+     3 ×  Kaunde Yobap Cha Busigi
+     1 ×  Kaunde Yobap Cha Busigi Wa An Palmok Kaunde Hechyo Makgi
+     2 ×  Kaunde Yopcha Goro Chagi
+    28 ×  Kaunde Yopcha Jirugi
+     2 ×  Kaunde Yopcha Milgi
+     4 ×  Kyocha So Bakat Palmok Najunde Baro Ap Makgi
+     2 ×  Kyocha So Baro Ollyo Jirugi
+     3 ×  Kyocha So Sang Palkup Soopyong Tulgi
+     2 ×  Kyocha So Sonkal Dung Najunde Bandae Ap Makgi
+     1 ×  Kyocha Sogi
+     3 ×  Moa Junbi Sogi B
+     1 ×  Moa Junbi Sogi C
+     1 ×  Moa So Hanulson
+     1 ×  Moa So Orun An Palmok Yobap Makgi
+     1 ×  Moa So Orun Dung Joomuk Yopdwi Taerigi
+     1 ×  Moa So Orun Giokja Jirugi
+     1 ×  Moa So Orun Joomuk Giokja Jirugi
+     1 ×  Moa So Orun Sonkal Najunde Ap Makgi
+     1 ×  Moa So Orun Yop Joomuk Naeryo Taerigi
+     1 ×  Moa So Sang Inji Joomuk Nopunde Bandal Jirugi
+     2 ×  Moa So Sang Palkup Soopyong Tulgi
+     2 ×  Moa So Sang Yop Palkup Tulgi
+     1 ×  Moa So Wen An Palmok Yobap Makgi
+     1 ×  Moa So Wen Dung Joomuk Yopdwi Taerigi
+     2 ×  Moa So Wen Joomuk Giokja Jirugi
+     1 ×  Moa So Wen Yop Joomuk Naeryo Taerigi
+     1 ×  Moa Sogi
+     1 ×  Moorup Najunde Apcha Busigi
+     2 ×  Moorup Ollyo Chagi
+     1 ×  Nachuo So Opun Sonkut Nopunde Bandae Tulgi
+     4 ×  Nachuo So Opun Sonkut Nopunde Tulgi
+     4 ×  Nachuo So Sonbadak Bandae Noollo Makgi
+     1 ×  Naeryo Chagi
+     1 ×  Najunde Ap Cha Busigi
+    10 ×  Najunde Apcha Busigi
+     3 ×  Najunde Bituro Chagi
+     5 ×  Najunde Yobap Cha Busigi
+     1 ×  Narani So Orun Joomuk Kaunde Dollyo Jirugi
+     2 ×  Narani So Orun Joomuk Kaunde Jirugi
+     1 ×  Narani So Orun Opun Sonkut Nopunde Anuro Ghutgi
+     2 ×  Narani So Orun Sonbadak Kaunde Golcho Makgi
+     2 ×  Narani So Sang Sonkal Soopyong Taerigi
+     1 ×  Narani So Wen Joomuk Kaunde Dollyo Jirugi
+     2 ×  Narani So Wen Joomuk Kaunde Jirugi
+     2 ×  Narani So Wen Sonbadak Kaunde Golcho Makgi
+     2 ×  Niunja So An Palmok Kaunde Makgi
+     6 ×  Niunja So An Palmok Kaunde Yop Makgi
+     2 ×  Niunja So Bakat Palmok Bandae Naeryo Makgi
+     2 ×  Niunja So Bakat Palmok Naeryo Makgi
+     2 ×  Niunja So Bakat Palmok Najunde Makgi
+     1 ×  Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi
+     2 ×  Niunja So Baro Dwijibo Jirugi
+     1 ×  Niunja So Baro Ollyo Jirugi
+     2 ×  Niunja So Digutja Japgi
+     4 ×  Niunja So Doo Joomuk Najunde Jirugi
+     1 ×  Niunja So Doo Palmok Najunde Miro Makgi
+     2 ×  Niunja So Dung Joomuk Bandae Naeryo Taerigi
+     1 ×  Niunja So Dung Joomuk Bandae Soopyong Taerigi
+     2 ×  Niunja So Dung Joomuk Baro Yopdwi Taerigi Wa Palmok Najunde Bandae Makgi
+     2 ×  Niunja So Dung Joomuk Nopunde Yop Taerigi
+     1 ×  Niunja So Dwijibo Jirugi
+     2 ×  Niunja So Joongji Joomuk Baro Dwijibo Jirugi
+     1 ×  Niunja So Joongji Joomuk Kaunde Baro Jirugi
+    14 ×  Niunja So Kaunde Baro Jirugi
+     8 ×  Niunja So Kaunde Yop Jirugi
+     2 ×  Niunja So Kyocha Joomuk Momchau Makgi
+     1 ×  Niunja So Kyocha Joomuk Noollo Makgi
+     2 ×  Niunja So Kyocha Sonkal Momchau Makgi
+     1 ×  Niunja So Opun Sonkut Nopunde Bandae Tulgi
+     2 ×  Niunja So Opun Sonkut Nopunde Ghutgi
+    23 ×  Niunja So Palmok Kaunde Daebi Makgi
+     1 ×  Niunja So Palmok Najunde Bandae Makgi
+     1 ×  Niunja So Palmok Najunde Yop Makgi
+     8 ×  Niunja So Sang Palmok Makgi
+     1 ×  Niunja So Sang Sonbadak Soopyong Makgi
+     4 ×  Niunja So Sang Sonkal Makgi
+     3 ×  Niunja So Sonbadak Bandae Duro Makgi
+     1 ×  Niunja So Sonbadak Bandae Ollyo Makgi
+     2 ×  Niunja So Sondung Bandae Naeryo Taerigi
+     2 ×  Niunja So Sondung Nopunde Bakuro Taerigi
+     2 ×  Niunja So Sonkal Dung Kaunde Makgi
+     2 ×  Niunja So Sonkal Dung Najunde Bandae Anuro Makgi
+     6 ×  Niunja So Sonkal Dung Najunde Daebi Makgi
+     1 ×  Niunja So Sonkal Dung Nopunde Daebi Makgi
+     1 ×  Niunja So Sonkal Dung Nopunde Yop Makgi
+    10 ×  Niunja So Sonkal Kaunde Bakuro Taerigi
+    38 ×  Niunja So Sonkal Kaunde Daebi Makgi
+     2 ×  Niunja So Sonkal Kaunde Makgi
+     2 ×  Niunja So Sonkal Najunde Bandae Makgi
+    10 ×  Niunja So Sonkal Najunde Daebi Makgi
+     6 ×  Niunja So Sonkal Nopunde Anuro Taerigi
+     2 ×  Niunja So Sonkal Nopunde Bakuro Taerigi
+     3 ×  Niunja So Sonkal Nopunde Daebi Makgi
+     2 ×  Niunja So Sun Palkup Naeryo Tulgi
+     5 ×  Niunja So Yop Palkup Tulgi
+     1 ×  Niunja Sogi
+     4 ×  Nopunde Bandae Dollyo Chagi
+     8 ×  Nopunde Bandae Dollyo Gorochagi
+     2 ×  Nopunde Bituro Chagi
+     6 ×  Nopunde Dollyo Chagi
+     3 ×  Nopunde Dwitcha Jirugi
+    11 ×  Nopunde Yopcha Jirugi
+     1 ×  Orun Dung Joomuk Nopunde Yop Taerigi
+     1 ×  Orun Dwitbal So Palmok Kaunde Daebi Makgi
+     1 ×  Orun Gojung So Digutja Makgi
+     1 ×  Orun Joomuk Dwijibo Jirigi
+     1 ×  Orun Kaunde Yopcha Tulgi
+     1 ×  Orun Kyocha So Doo Palmok Nopunde Makgi
+     2 ×  Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi
+     2 ×  Orun Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
+     4 ×  Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi
+     1 ×  Orun Kyocha So Kyocha Joomuk Noollo Makgi
+     1 ×  Orun Kyocha So Najunde Bandae Jirugi
+     1 ×  Orun Kyocha So Sonkal Kaunde Yop Taerigi
+     3 ×  Orun Niunja So Palmok Kaunde Daebi Makgi
+     1 ×  Orun Niunja So Sonkal Kaunde Daebi Makgi
+     1 ×  Orun Nopunde Bandae Dollyo Gorochagi
+     1 ×  Orun Nopunde Yopcha Jirugi
+     2 ×  Pihamyo Bandae Dollyo Chagi
+     1 ×  Sasun So Dwit Palkup Tulgi
+     1 ×  Sasun So Sang Sonbadak Chookyo Makgi
+     1 ×  Sasun So Sang Sonbadak Noollo Makgi
+     4 ×  Sonbadak Kaunde Golcho Makgi
+     1 ×  Sonkal Nopunde Ap Taerigi
+     1 ×  Sonkal Twio Dolmyo Taerigi
+     1 ×  Sonkal Twio Dolymyo Taerigi
+     1 ×  Soojik So Sonkal Bandae Naeryo Taerigi
+     1 ×  Soojik So Yop Joomuk Bandae Naeryo Taerigi
+    30 ×  Twigi
+     1 ×  Twimyo Apcha Busigi
+     1 ×  Twimyo Nopi Chagi
+     1 ×  Twimyo Orun Joomuk Ap Jirugi
+     1 ×  Twimyo Sangbang Chagi
+     1 ×  Twimyo Sonkal Bakuro Taerigi
+     1 ×  Twimyo Sonkal Kaunde Bakuro Taerigi
+     2 ×  Twimyo Yopcha Jirugi
+     4 ×  Twio Dolmyo Chagi
+     2 ×  Waebal So Bakat Palmok Narani Makgi
+     1 ×  Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi
+     2 ×  Waebal So Dungpalmok Bandae Taerigi
+     1 ×  Waebal So Dungpalmok Baro Taerigi
+     2 ×  Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi
+     2 ×  Waebal Sogi
+     1 ×  Wen Kaunde Dwitcha Jirugi
+     1 ×  Wen Kaunde Yopcha Tulgi
+     1 ×  Wen Kyocha So Doo Palmok Nopunde Makgi
+     2 ×  Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi
+     2 ×  Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
+     4 ×  Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
+     1 ×  Wen Kyocha So Kyocha Joomuk Noollo Makgi
+     1 ×  Wen Kyocha So Najunde Bandae Jirugi
+     1 ×  Wen Kyocha So Sonkal Kaunde Yop Taerigi
+     3 ×  Wen Niunja So Palmok Kaunde Daebi Makgi
+     4 ×  Wen Niunja So Sonkal Kaunde Daebi Makgi
+     1 ×  Wen Nopunde Bandae Dollyo Gorochagi
+     1 ×  Wen Nopunde Yopcha Jirugi
+     3 ×  Yop Bal Badak Suroh Chagi
+     1 ×  Yop Bituro Chagi
+     2 ×  Yopcha Momchugi
+
+
+==============================================================================
+  TOTAL : 1028 mouvements sur 28 fiches
+==============================================================================

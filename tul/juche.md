@@ -16,7 +16,7 @@
 ### Posture de départ : position parallèle avec les deux coudes latéraux
 
 1. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur.
-   *(Annun so anpalmok narani makgi)*
+   *(Annun so an palmok narani makgi)*
 2. Exécuter un blocage crocheté moyen vers D avec la paume droite tout en se tenant vers le haut vers D.
    *(Sonbadak kaunde golcho makgi)*
 3. Exécuter un coup de poing moyen vers D avec le poing gauche tout en formant une position assise vers D.
@@ -43,7 +43,7 @@
 12. Exécuter une frappe en vol vers A avec un tranchant de la main gauche tout en pivotant dans le sens anti-horaire puis atterrir vers A pour former une position en L droite vers A avec le bras gauche étendu.
    *(Sonkal twio dolymyo taerigi)*
 13. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur.
-   *(Annun so anpalmok narani makgi)*
+   *(Annun so an palmok narani makgi)*
 14. Exécuter un blocage crocheté moyen vers D avec la paume gauche tout en se tenant vers le haut vers D.
    *(Sonbadak kaunde golcho makgi)*
 15. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position assise vers D.

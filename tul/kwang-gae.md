@@ -28,7 +28,7 @@
    > *Exécuter en mouvement lent.*
 
 4. Déplacer le pied gauche vers le côté avant du pied droit, puis déplacer le pied droit vers D, pour former une position de marche droite vers D, en même temps en exécutant un blocage crocheté haut vers D avec la paume droite.
-   *(Gunnun so sonbadak nopunde golcho makgi*
+   *(Gunnun so sonbadak nopunde golcho makgi)*
 
    > *Exécuter en un double en avançant mouvement.*
 

@@ -16,9 +16,9 @@
 ### Posture de départ : position de préparation fermée A
 
 1. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage latéral-avant avec l'avant-bras intérieur droit et en étendant l'avant-bras gauche côté-vers le bas.
-   *(Annun so orun anpalmok yobap makgi)*
+   *(Annun so orun an palmok yobap makgi)*
 2. Exécuter un blocage latéral-avant avec l'avant-bras intérieur gauche en étendant l'avant-bras droit côté vers le bas tout en maintenant une position assise vers D.
-   *(Annun so wen anpalmok yobap makgi)*
+   *(Annun so wen an palmok yobap makgi)*
 3. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant un coup de poing en angle avec le poing gauche.
    *(Moa so wen joomuk giokja jirugi)*
 

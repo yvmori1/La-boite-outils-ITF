@@ -52,13 +52,13 @@
 18. Exécuter un coup de poing moyen vers F avec le poing droit tout en formant une position fixe droite vers F, en glissant le pied droit vers F.
    *(Gojung so kaunde yop jirugi)*
 19. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage circulaire vers CF avec l'avant-bras intérieur droit.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 20. Exécuter un coup de pied avant fouetté bas vers C avec le pied droit, en gardant le position de la mains comme s'ils étaient en 19.
    *(Najunde apcha busigi)*
 21. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
    *(Gunnun so kaunde bandae jirugi)*
 22. Exécuter un blocage circulaire vers CE avec l'avant-bras intérieur gauche tout en maintenant une position de marche droite vers C.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 23. Exécuter un coup de pied avant fouetté bas vers C avec le pied gauche, en gardant le position de la mains comme s'ils étaient en 22.
    *(Najunde apcha busigi)*
 24. Abaisser le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.

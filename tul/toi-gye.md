@@ -16,7 +16,7 @@
 ### Posture de départ : position de préparation fermée B
 
 1. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage moyen vers B avec l'avant-bras intérieur gauche.
-   *(Niunja so anpalmok kaunde makgi)*
+   *(Niunja so an palmok kaunde makgi)*
 2. Exécuter une pique basse vers B avec le droit renversé bout des doigts tout en formant une position de marche gauche vers B, en glissant le pied gauche vers B.
    *(Gunnun so dwijibun sonkut najunde tulgi)*
 3. Ramener le pied gauche vers le pied droit pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing droit, en étendant le bras gauche vers le côté vers le bas.
@@ -25,7 +25,7 @@
    > *Exécuter en mouvement lent.*
 
 4. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage moyen vers A avec l'avant-bras intérieur droit.
-   *(Niunja so anpalmok kaunde makgi)*
+   *(Niunja so an palmok kaunde makgi)*
 5. Exécuter une pique basse vers A avec le gauche renversé bout des doigts tout en formant une position de marche droite vers A, en glissant le pied droit vers A.
    *(Gunnun so dwijibun sonkut najunde tulgi)*
 6. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing gauche, en étendant le bras droit vers le côté vers le bas.
@@ -90,15 +90,15 @@
 31. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde bas vers B avec un tranchant de la main.
    *(Niunja so sonkal najunde daebi makgi)*
 32. Exécuter un blocage circulaire vers BD avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers B, en glissant le pied gauche vers B.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 33. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A, en même temps en exécutant un blocage de garde bas vers A avec un tranchant de la main.
    *(Niunja so sonkal najunde daebi makgi)*
 34. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur gauche tout en formant une position de marche droite vers A, en glissant le pied droit vers A.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 35. Exécuter un blocage circulaire vers CE avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers CE.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 36. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur gauche tout en formant une position de marche droite vers A.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 37. Déplacer le pied droit sur ligne AB pour former une position assise vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *(Annun so orun joomuk kaunde jirugi)*
 

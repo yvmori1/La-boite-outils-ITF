@@ -34,8 +34,8 @@
    *(Annun so orun joomuk kaunde jirugi)*
 8. Déplacer le pied gauche vers BD pour former une position de marche gauche vers BD tout en exécutant un blocage latéral haut vers BD avec l'avant-bras extérieur gauche.
    *(Gunnun so bakat palmok nopunde yop makgi)*
-9. Exécuter un blocage circulaire vers D avec l'avant-bras intérieur droit tout en maintenant une position de marche gauche vers BD. Gunnun so anpalmok dollimyo makgi
-   *(*
+9. Exécuter un blocage circulaire vers D avec l'avant-bras intérieur droit tout en maintenant une position de marche gauche vers BD.
+   *(Gunnun so an palmok dollimyo makgi)*
 10. Exécuter un blocage en levant avec la paume gauche tout en formant une position assise vers AD.
    *(Annun so wen sonbadak duro makgi)*
 11. Exécuter un coup de poing moyen vers AD avec le poing droit tout en maintenant une position assise vers AD.
@@ -46,7 +46,7 @@
 12. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers AD pour former une position de marche droite vers AD tout en exécutant un blocage latéral haut vers AD avec l'avant-bras extérieur droit.
    *(Gunnun so bakat palmok nopunde yop makgi)*
 13. Exécuter un blocage circulaire vers D avec l'avant-bras intérieur gauche tout en maintenant une position de marche droite vers AD.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 14. Exécuter un blocage en levant avec la paume droite tout en formant une position assise vers BD.
    *(Annun so orun sonbadak duro makgi)*
 15. Exécuter un coup de poing moyen vers BD avec le poing gauche tout en maintenant une position de marche droite vers BD.
@@ -124,7 +124,7 @@
 42. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers CE en un en écrasant mouvement, pour former une position de marche gauche vers CE tout en exécutant un coup de poing renversé vers CE avec un poings jumelés.
    *(Gunnun so sang joomuk dwijibo jirugi)*
 43. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers F pour former une position en L gauche vers F tout en exécutant un blocage moyen vers F avec l'avant-bras intérieur droit.
-   *(Niunja so anpalmok kaunde yop makgi)*
+   *(Niunja so an palmok kaunde yop makgi)*
 44. Exécuter un coup de poing moyen vers F avec le poing gauche tout en maintenant une position en L gauche vers F.
    *(Niunja so kaunde baro jirugi)*
 45. Ramener le pied gauche vers le pied droit pour former une position fermée vers C tout en exécutant un coup de poing en angle avec le poing droit.
@@ -133,7 +133,7 @@
    > *Exécuter en mouvement lent.*
 
 46. Déplacer le pied gauche vers E pour former une position en L droite vers E tout en exécutant un blocage moyen vers E avec l'avant-bras intérieur gauche.
-   *(Niunja so anpalmok kaunde yop makgi)*
+   *(Niunja so an palmok kaunde yop makgi)*
 47. Exécuter un coup de poing moyen vers E avec le poing droit tout en maintenant une position en L droite vers E.
    *(Niunja so kaunde baro jirugi)*
 48. Ramener le pied droit vers le pied gauche pour former une position fermée vers C tout en exécutant un coup de poing en angle avec le poing gauche.

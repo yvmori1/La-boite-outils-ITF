@@ -102,13 +102,13 @@
 37. Déplacer le pied gauche vers C pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *(Niunja so palmok kaunde daebi makgi)*
 38. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position sur la jambe arrière gauche vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur droit.
-   *(Dwitbal so anpalmok bandae hori makgi)*
+   *(Dwitbal so an palmok bandae hori makgi)*
 39. Déplacer le pied droit vers C légèrement puis le pied gauche vers D en un en écrasant mouvement pour former une position en L droite vers D tout en exécutant une frappe extérieure haute vers D avec le tranchant de la main gauche.
    *(Niunja so sonkal nopunde bakuro taerigi)*
 40. Décaler vers C en maintenant une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *(Niunja so palmok kaunde daebi makgi)*
 41. Déplacer le pied droit vers D en tournant dans le sens horaire pour former une position sur la jambe arrière droite vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur gauche.
-   *(Dwitbal so anpalmok bandae hori makgi)*
+   *(Dwitbal so an palmok bandae hori makgi)*
 42. Déplacer le pied gauche vers C légèrement puis le pied droit vers D en un en écrasant mouvement pour former une position en L gauche vers D tout en exécutant une frappe extérieure haute vers D avec le tranchant de la main droite.
    *(Niunja so sonkal nopunde bakuro taerigi)*
 43. Déplacer le pied droit vers C en tournant dans le sens anti-horaire pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.

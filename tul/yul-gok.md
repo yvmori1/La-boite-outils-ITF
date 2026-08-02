@@ -34,7 +34,7 @@
    > *Exécuter 5 et 6 en mouvement rapide.*
 
 7. Déplacer le pied droit vers AD pour former une position de marche droite vers AD tout en exécutant un blocage latéral moyen vers AD avec l'avant-bras intérieur droit.
-   *(Gunnun so anpalmok kaunde yop makgi)*
+   *(Gunnun so an palmok kaunde yop makgi)*
 8. Exécuter un coup de pied avant fouetté bas vers AD avec le pied gauche en gardant le position de la mains comme s'ils étaient en 7.
    *(Najunde apcha busigi)*
 9. Abaisser le pied gauche vers AD pour former une position de marche gauche vers AD tout en exécutant un coup de poing moyen vers AD avec le poing gauche.
@@ -45,7 +45,7 @@
    > *Exécuter 9 et 10 en mouvement rapide.*
 
 11. Déplacer le pied gauche vers BD pour former une position de marche gauche vers BD en même temps en exécutant un blocage latéral moyen vers BD avec l'avant-bras intérieur gauche.
-   *(Gunnun so anpalmok kaunde yop makgi)*
+   *(Gunnun so an palmok kaunde yop makgi)*
 12. Exécuter un coup de pied avant fouetté bas vers BD avec le pied droit en gardant le position de la mains comme s'ils étaient en 11.
    *(Najunde apcha busigi)*
 13. Abaisser le pied droit vers BD pour former une position de marche droite vers BD tout en exécutant un coup de poing moyen vers BD avec le poing droit.

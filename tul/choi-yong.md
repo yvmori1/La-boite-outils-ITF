@@ -26,13 +26,13 @@
 5. Déplacer le pied droit sur ligne CD pour former une position de marche gauche vers D tout en exécutant un blocage montant avec le tranchant de la main gauche.
    *(Gunnun so sonkal chookyo makgi)*
 6. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur droit tout en maintenant une position de marche gauche vers D.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 7. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position de marche gauche vers D.
    *(Gunnun so kaunde jirugi)*
 8. Déplacer le pied gauche sur ligne CD pour former une position de marche droite vers C tout en exécutant un blocage montant avec le tranchant de la main droite.
    *(Gunnun so sonkal chookyo makgi)*
 9. Exécuter un blocage circulaire vers AC avec l'avant-bras intérieur gauche tout en maintenant une position de marche droite vers C.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 10. Exécuter un coup de poing moyen vers C avec le poing droit tout en maintenant une position de marche droite vers C.
    *(Gunnun so kaunde jirugi)*
 11. Déplacer le pied droit sur ligne CD pour former une position en L droite vers D tout en exécutant un blocage de garde bas vers D avec un tranchant de la main.

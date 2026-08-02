@@ -68,9 +68,9 @@
 25. Déplacer le pied droit vers C en un en glissant mouvement pour former une position en L droite vers D tout en en piquant vers C avec le droit côté coude.
    *(Niunja so yop palkup tulgi)*
 26. Ramener le pied gauche vers le pied droit, en tournant dans le sens anti-horaire pour former une position fermée vers B tout en exécutant un blocage latéral-avant avec l'avant-bras intérieur droit tout en étendant l'avant-bras gauche vers le côté vers le bas.
-   *(Moa so orun anpalmok yobap makgi)*
+   *(Moa so orun an palmok yobap makgi)*
 27. Exécuter un blocage latéral-avant avec l'avant-bras intérieur gauche, en étendant l'avant-bras droit vers le côté vers le bas tout en maintenant une position fermée vers B.
-   *(Moa so wen anpalmok yobap makgi)*
+   *(Moa so wen an palmok yobap makgi)*
 28. Déplacer le pied gauche vers B pour former une position en L droite vers B en même temps en exécutant un blocage de garde moyen vers B avec un tranchant de la main.
    *(Niunja so sonkal kaunde daebi makgi)*
 29. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec un tranchant de la main.

@@ -96,7 +96,7 @@
 35. Exécuter une frappe intérieure haute vers BC avec le tranchant de la main droite et en amenant le gauche côté poing en avant de la épaule droite tout en maintenant une position de marche gauche vers BC.
    *(Gunnun so sonkal nopunde bandae anuro taerigi)*
 36. Exécuter un blocage circulaire vers BD avec l'avant-bras intérieur gauche tout en formant une position de marche droite vers D.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 37. Exécuter un coup de poing haut vers D avec le poing droit tout en maintenant une position de marche droite vers D.
    *(Gunnun so nopunde jirugi)*
 38. Exécuter un coup de pied avant fouetté bas vers D avec le pied gauche en gardant le position de la mains comme s'ils étaient en 37.
@@ -115,7 +115,7 @@
 43. Exécuter une frappe intérieure haute vers AC avec le tranchant de la main gauche et en amenant le droit côté poing en avant de la épaule gauche tout en maintenant une position de marche droite vers AC.
    *(Gunnun so sonkal nopunde bandae anuro taerigi)*
 44. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers D.
-   *(Gunnun so anpalmok dollimyo makgi)*
+   *(Gunnun so an palmok dollimyo makgi)*
 45. Exécuter un coup de poing haut vers D avec le poing gauche tout en maintenant une position de marche gauche vers D.
    *(Gunnun So joomuk nopunde jirugi)*
 46. Exécuter un coup de pied avant fouetté bas vers D avec le pied droit en gardant le position de la mains comme s'ils étaient en 45.
@@ -134,7 +134,7 @@
 51. Sauter vers C, en pivotant dans le sens anti-horaire pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *(Twigi, orun niunja so palmok kaunde daebi makgi)*
 52. Exécuter un blocage bas vers D avec le tranchant de la main droite et un blocage extérieur moyen vers D avec l'avant-bras intérieur gauche tout en formant une position de marche gauche vers D, en glissant le pied gauche.
-   *(Gunnun so anpalmok kaunde baro bakuro makgi wa sonkal najunde bandae makgi)*
+   *(Gunnun so an palmok kaunde baro bakuro makgi wa sonkal najunde bandae makgi)*
 53. Exécuter un coup de poing haut vers D avec le poing droit tout en maintenant une position de marche gauche vers D.
    *(Gunnun so nopunde bandae jirugi)*
 
@@ -147,7 +147,7 @@
 56. Sauter vers C, en pivotant dans le sens horaire pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *(Twigi, wen niunja so palmok kaunde daebi makgi)*
 57. Exécuter un blocage bas vers D avec le tranchant de la main gauche et un blocage extérieur moyen vers D avec l'avant-bras intérieur droit tout en formant une position de marche droite vers D en glissant le pied droit.
-   *(gunnun so anpalmok kaunde baro bakuro makgi wa sonkal najunde bandae makgi)*
+   *(gunnun so an palmok kaunde baro bakuro makgi wa sonkal najunde bandae makgi)*
 58. Exécuter un coup de poing haut vers D avec le poing gauche tout en maintenant une position de marche droite vers D.
    *(Gunnun so nopunde bandae jirugi)*
 

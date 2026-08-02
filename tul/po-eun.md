@@ -26,11 +26,11 @@
 5. Exécuter un coup de poing en angle avec le poing gauche tout en maintenant une position assise vers D.
    *(Annun so wen joomuk giokja jirugi)*
 6. Exécuter un blocage en pression avec le devant du poing gauche tout en exécutant un blocage latéral-avant avec l'avant-bras intérieur droit, en maintenant une position assise vers D.
-   *(Annun so wen ap joomuk noollo makgi wa orun anpalmok yobap makgi)*
+   *(Annun so wen ap joomuk noollo makgi wa orun an palmok yobap makgi)*
 7. Exécuter un blocage en pression avec le devant du poing droit et un blocage latéral-avant avec l'avant-bras intérieur gauche tout en maintenant une position assise vers D.
-   *(Annun so orun ap joomuk noollo makgi wa wen anpalmok yobap makgi)*
+   *(Annun so orun ap joomuk noollo makgi wa wen an palmok yobap makgi)*
 8. Exécuter un blocage en écartement moyen avec l'avant-bras intérieur tout en maintenant une position assise vers D.
-   *(Annun so anpalmok kaunde hechyo makgi)*
+   *(Annun so an palmok kaunde hechyo makgi)*
 9. Piquer vers C avec le droit arrière coude d'appui le devant du poing droit avec la paume gauche en gardant le visage comme il était en 8 tout en maintenant une position assise vers D.
    *(Annun so orun dwit palkup tulgi)*
 10. Exécuter un coup de poing moyen vers D avec le poing droit en glissant la paume gauche vers le haut vers le coude droit articulation tout en maintenant une position assise vers D.
@@ -68,11 +68,11 @@
 23. Exécuter un coup de poing en angle avec le poing droit tout en maintenant une position assise vers D.
    *(Annun so orun joomuk giokja jirugi)*
 24. Exécuter un blocage en pression avec le devant du poing droit tout en exécutant un blocage latéral-avant avec l'avant-bras intérieur gauche, en maintenant une position assise vers D.
-   *(Annun so orun ap joomuk noollo makgi wa wen anpalmok yobap makgi)*
+   *(Annun so orun ap joomuk noollo makgi wa wen an palmok yobap makgi)*
 25. Exécuter un blocage en pression avec le devant du poing gauche et un blocage latéral-avant avec l'avant-bras intérieur droit tout en maintenant une position assise vers D.
-   *(Annun so wen ap joomuk noollo makgi wa orun anpalmok yobap makgi)*
+   *(Annun so wen ap joomuk noollo makgi wa orun an palmok yobap makgi)*
 26. Exécuter un blocage en écartement moyen avec l'avant-bras intérieur tout en maintenant une position assise vers D.
-   *(Annun so anpalmok kaunde hechyo makgi)*
+   *(Annun so an palmok kaunde hechyo makgi)*
 27. Piquer vers C avec le gauche arrière coude d'appui le devant du poing gauche avec la paume droite en gardant le visage comme il était en 26 tout en maintenant une position assise vers D.
    *(Annun so wen dwit palkup tulgi)*
 28. Exécuter un coup de poing moyen vers D avec le poing gauche en glissant la paume droite vers le haut vers le coude gauche articulation tout en maintenant une position assise vers D.
@@ -80,7 +80,7 @@
 29. Piquer vers C avec le droit arrière coude d'appui le devant du poing droit avec gauche paume, en gardant le visage comme il était en 28 tout en maintenant une position assise vers D.
    *(Annun so orun dwit palkup tulgi)*
 30. Exécuter un coup de poing horizontal gauche vers B tout en maintenant une position assise vers D.
-   *(Annun so left soopyong jirugi)*
+   *(Annun so wen soopyong jirugi)*
 
    > *Exécuter 24 à travers 30 en mouvement continu.*
 
