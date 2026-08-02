@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**72 fiches** au total.
+**91 fiches** au total.
 
 ---
 
@@ -123,18 +123,54 @@ La posture elle-même — dimensions, répartition du poids, orientation des pie
 
 ---
 
-## 4. Sans position imposée
+## 4. Position de pied arrière (*Dwitbal So*)
+
+La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md](Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md) | Blocage inverse au niveau de la taille avec l'intérieur de l'avant-bras |
+| [Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md](Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md) | Blocage inverse moyen vers l'intérieur avec l'extérieur de l'avant-bras |
+| [Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md](Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md) | Blocage descendant croisé avec la paume des mains |
+| [Dwitbal-So-Joongji-Joomuk-Nopunde-Bandae-Jirugi.md](Dwitbal-So-Joongji-Joomuk-Nopunde-Bandae-Jirugi.md) | Coup de poing inverse haut avec la jointure du majeur |
+| [Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md](Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au double avant-bras |
+| [Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.md](Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.md) | Blocage pressant double avec les paumes des mains |
+| [Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md](Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md) | Blocage descendant inverse avec la paume de la main |
+| [Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md](Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md) | Blocage montant inverse avec la paume de la main |
+| [Dwitbal-So-Sonbadak-Ollyo-Makgi.md](Dwitbal-So-Sonbadak-Ollyo-Makgi.md) | Blocage montant direct avec la paume de la main |
+| [Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.md](Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.md) | Blocage de garde haut au double tranchant de la main |
+| [Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.md](Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.md) | Blocage montant inverse avec le dessus/dos du poignet |
+| [Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md](Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md) | Pique descendante au coude vertical inverse |
+| [Dwitbal-So-Yop-Palkup-Tulgi.md](Dwitbal-So-Yop-Palkup-Tulgi.md) | Pique latérale du coude |
+
+---
+
+## 5. Coups de pied (*Chagi*)
+
+Techniques de jambe nommées sans position d'appui imposée.
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Bakuro-Noollo-Chagi.md](Bakuro-Noollo-Chagi.md) | Coup de pied pressant vers l'extérieur |
+| [Bakuro-Sewo-Chagi.md](Bakuro-Sewo-Chagi.md) | Coup de poing-pied / coup de pied vertical vers l'extérieur |
+| [Balkal-Dung-Anuro-Sewo-Chagi.md](Balkal-Dung-Anuro-Sewo-Chagi.md) | Coup de pied vertical vers l'intérieur avec le contre-tranchant du pied |
+| [Doro-Chagi.md](Doro-Chagi.md) | Coup de poing-pied de retour / coup de pied retournant |
+
+---
+
+## 6. Sans position imposée
 
 | Fiche | Technique |
 | :--- | :--- |
 | [An-Palmok-Kaunde-Yop-Makgi.md](An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen avec l'avant-bras intérieur |
+| [Dung-Joomuk-Nopunde-Yop-Taerigi.md](Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale haute cinglante avec le revers du poing |
 | [Sun-Sonkut-Kaunde-Tulgi.md](Sun-Sonkut-Kaunde-Tulgi.md) | Pique verticale de l'extrémité des doigts au niveau moyen |
 
 ---
 
 ## Voir aussi
 
-* [../Theorie/positions.md](../Theorie/positions.md) — description détaillée de toutes les positions (*Sogi*), dont *Gunnun Sogi*, *Niunja Sogi* et *Annun Sogi*.
+* [../Theorie/positions.md](../Theorie/positions.md) — description détaillée de toutes les positions (*Sogi*), dont *Gunnun Sogi*, *Niunja Sogi*, *Annun Sogi* et *Dwitbal Sogi*.
 * [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — règles complètes de nomenclature.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.
 * [../mvt.txt](../mvt.txt) — tous les mouvements des formes sous leur nom coréen.
