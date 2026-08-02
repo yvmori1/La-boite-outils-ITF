@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**91 fiches** au total.
+**119 fiches** au total.
 
 ---
 
@@ -33,15 +33,17 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | Fiche | Technique |
 | :--- | :--- |
 | [Niunja-So-An-Palmok-Kaunde-Makgi.md](Niunja-So-An-Palmok-Kaunde-Makgi.md) | Blocage moyen avec le tranchant interne de l'avant-bras |
+| [Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au double avant-bras gauche |
 | [Niunja-So-Sang-Palmok-Makgi.md](Niunja-So-Sang-Palmok-Makgi.md) | Blocage double des avant-bras |
 | [Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md) | Frappe moyenne vers l'extérieur avec le tranchant de la main |
 | [Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage moyen de garde au tranchant des mains |
+| [Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au tranchant des mains gauche |
 
 ---
 
 ## 3. Position assise (*Annun So*)
 
-La posture elle-même — dimensions, répartition du poids, orientation des pieds — est décrite dans [Annun-Sogi.md](Annun-Sogi.md).
+La posture elle-même est décrite dans [Annun-Sogi.md](Annun-Sogi.md).
 
 ### 3.1 Coups de poing (*Jirugi*)
 
@@ -145,7 +147,35 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 ---
 
-## 5. Coups de pied (*Chagi*)
+## 5. Position fixe (*Gojung So*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gojung-So-Digutja-Jirugi.md](Gojung-So-Digutja-Jirugi.md) | Coup de poing double en forme de « ㄷ » (U / C) |
+| [Gojung-So-Digutja-Makgi.md](Gojung-So-Digutja-Makgi.md) | Blocage en forme de « ㄷ » (en U) |
+| [Gojung-So-Kaunde-Yop-Jirugi.md](Gojung-So-Kaunde-Yop-Jirugi.md) | Coup de poing direct latéral moyen |
+| [Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md](Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md) | Blocage d'arrêt croisé avec le tranchant des mains |
+| [Gojung-So-Palmok-Nopunde-Daebi-Makgi.md](Gojung-So-Palmok-Nopunde-Daebi-Makgi.md) | Blocage de garde haut au double avant-bras |
+| [Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.md](Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.md) | Technique défensive combinée simultanée |
+| [Gojung-So-Yop-Palkup-Tulgi.md](Gojung-So-Yop-Palkup-Tulgi.md) | Pique latérale du coude |
+
+---
+
+## 6. Position en « X » (*Kyocha So*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md](Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras gauche |
+| [Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md](Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md) | Coup cinglant descendant au revers du poing direct gauche |
+| [Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md](Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md) | Coup cinglant latéral haut au revers du poing direct gauche |
+| [Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Coup cinglant latéral haut au revers du poing gauche |
+| [Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md](Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md) | Blocage pressant aux poings croisés gauche |
+| [Wen-Kyocha-So-Najunde-Bandae-Jirugi.md](Wen-Kyocha-So-Najunde-Bandae-Jirugi.md) | Coup de poing direct inversé bas gauche |
+| [Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md](Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md) | Coup tranchant latéral moyen au tranchant de la main gauche |
+
+---
+
+## 7. Coups de pied (*Chagi*)
 
 Techniques de jambe nommées sans position d'appui imposée.
 
@@ -155,10 +185,18 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Bakuro-Sewo-Chagi.md](Bakuro-Sewo-Chagi.md) | Coup de poing-pied / coup de pied vertical vers l'extérieur |
 | [Balkal-Dung-Anuro-Sewo-Chagi.md](Balkal-Dung-Anuro-Sewo-Chagi.md) | Coup de pied vertical vers l'intérieur avec le contre-tranchant du pied |
 | [Doro-Chagi.md](Doro-Chagi.md) | Coup de poing-pied de retour / coup de pied retournant |
+| [Gokaeng-I-Chagi.md](Gokaeng-I-Chagi.md) | Coup de pied en pioche |
+| [Wen-Kaunde-Dwitcha-Jirugi.md](Wen-Kaunde-Dwitcha-Jirugi.md) | Coup de pied arrière perçant moyen de la jambe gauche |
+| [Wen-Kaunde-Yopcha-Tulgi.md](Wen-Kaunde-Yopcha-Tulgi.md) | Coup de pied latéral enfonçant/poussant moyen de la jambe gauche |
+| [Wen-Nopunde-Bandae-Dollyo-Gorochagi.md](Wen-Nopunde-Bandae-Dollyo-Gorochagi.md) | Coup de pied crocheté tournant inversé haut de la jambe gauche |
+| [Wen-Nopunde-Yopcha-Jirugi.md](Wen-Nopunde-Yopcha-Jirugi.md) | Coup de pied latéral perçant haut de la jambe gauche |
+| [Yop-Bal-Badak-Suroh-Chagi.md](Yop-Bal-Badak-Suroh-Chagi.md) | Coup de pied balayé latéral avec la plante du pied |
+| [Yop-Bituro-Chagi.md](Yop-Bituro-Chagi.md) | Coup de pied latéral en torsion |
+| [Yopcha-Momchugi.md](Yopcha-Momchugi.md) | Coup de pied latéral d'arrêt / de contrôle |
 
 ---
 
-## 6. Sans position imposée
+## 8. Sans position imposée
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -168,9 +206,24 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
+## 9. Postures et positions de préparation
+
+Les positions d'appui et de préparation, décrites pour elles-mêmes.
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Annun-Sogi.md](Annun-Sogi.md) | Posture du cavalier |
+| [Dwitbal-Sogi.md](Dwitbal-Sogi.md) | Posture du pied arrière |
+| [Guburyo-Junbi-So-B.md](Guburyo-Junbi-So-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
+| [Guburyo-Junbi-Sogi-A.md](Guburyo-Junbi-Sogi-A.md) | Posture préparatoire fléchie sur une jambe — Variante A |
+| [Guburyo-Junbi-Sogi-B.md](Guburyo-Junbi-Sogi-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
+| [Gunnun-Junbi-Sogi.md](Gunnun-Junbi-Sogi.md) | Posture préparatoire en marche |
+
+---
+
 ## Voir aussi
 
-* [../Theorie/positions.md](../Theorie/positions.md) — description détaillée de toutes les positions (*Sogi*), dont *Gunnun Sogi*, *Niunja Sogi*, *Annun Sogi* et *Dwitbal Sogi*.
+* [../Theorie/positions.md](../Theorie/positions.md) — description détaillée de toutes les positions (*Sogi*).
 * [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — règles complètes de nomenclature.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.
 * [../mvt.txt](../mvt.txt) — tous les mouvements des formes sous leur nom coréen.
