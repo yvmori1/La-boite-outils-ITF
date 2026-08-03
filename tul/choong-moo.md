@@ -18,7 +18,7 @@
 1. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage double du tranchant de la main.
    *([Niunja so sang sonkal makgi](../makgi/sang-sonkal-makgi.md))*
 2. Déplacer le pied droit vers B pour former une position de marche droite vers B tout en exécutant une frappe frontale haute vers B avec le tranchant de la main droite et ramener le gauche arrière main en avant du avant.
-   *(Gunnun so sonkal nopunde ap taerigi)*
+   *([Gunnun so sonkal nopunde ap taerigi](../Techniques/Sonkal-Nopunde-Ap-Taerigi.md))*
 3. Déplacer le pied droit vers A en tournant dans le sens horaire pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec un tranchant de la main.
    *([niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 4. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant une pique haute vers A avec le gauche à plat bout des doigts.

@@ -56,18 +56,18 @@
    > *Exécuter 13 et 14 en mouvement rapide.*
 
 15. Exécuter un blocage crocheté moyen vers D avec la paume droite tout en formant une position de marche droite vers D, en pivotant avec le pied gauche.
-   *(Gunnun so sonbadak kaunde golcho makgi)*
+   *([Gunnun so sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 16. Exécuter un blocage crocheté moyen vers D avec la paume gauche tout en maintenant une position de marche droite vers D.
-   *(Gunnun so sonbadak kaunde bandae golcho makgi)*
+   *([Gunnun so sonbadak kaunde bandae golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 17. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position de marche droite vers D.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
 
    > *Exécuter 16 et 17 en mouvement lié.*
 
 18. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage crocheté moyen vers D avec la paume gauche.
-   *(Gunnun so sonbadak kaunde golcho makgi)*
+   *([Gunnun so sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 19. Exécuter un blocage crocheté moyen vers D avec la paume droite tout en maintenant une position de marche gauche vers D.
-   *(Gunnun so sonbadak kaunde bandae golcho makgi)*
+   *([Gunnun so sonbadak kaunde bandae golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 20. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position de marche gauche vers D.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
 

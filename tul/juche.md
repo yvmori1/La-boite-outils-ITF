@@ -18,7 +18,7 @@
 1. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur.
    *([Annun so an palmok narani makgi](../Techniques/Annun-So-An-Palmok-Narani-Makgi.md))*
 2. Exécuter un blocage crocheté moyen vers D avec la paume droite tout en se tenant vers le haut vers D.
-   *(Sonbadak kaunde golcho makgi)*
+   *([Sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 3. Exécuter un coup de poing moyen vers D avec le poing gauche tout en formant une position assise vers D.
    *([Annun so wen joomuk kaunde jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Jirugi.md))*
 4. Tirer le droit inversé tranchant du pied vers le genou gauche articulation pour former une position sur une jambe gauche vers D tout en exécutant un blocage parallèle avec l'avant-bras extérieur.
@@ -45,7 +45,7 @@
 13. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur.
    *([Annun so an palmok narani makgi](../Techniques/Annun-So-An-Palmok-Narani-Makgi.md))*
 14. Exécuter un blocage crocheté moyen vers D avec la paume gauche tout en se tenant vers le haut vers D.
-   *(Sonbadak kaunde golcho makgi)*
+   *([Sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 15. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position assise vers D.
    *([Annun so orun joomuk kaunde jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 16. Tirer le gauche inversé tranchant du pied vers le genou droit articulation pour former une position sur une jambe droite vers D tout en exécutant un blocage parallèle avec l'avant-bras extérieur.
@@ -68,7 +68,7 @@
 23. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec un tranchant de la main.
    *([niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 24. Exécuter une frappe en vol vers B avec un tranchant de la main droite tout en pivotant dans le sens horaire puis atterrir vers B pour former une position en L gauche vers B avec le bras droit étendu.
-   *(Sonkal twio dolmyo taerigi)*
+   *([Sonkal twio dolmyo taerigi](../Techniques/Sonkal-Twio-Dolmyo-Taerigi.md))*
 25. Exécuter un coup de pied en pioche vers B avec le pied gauche puis abaisser il vers B pour former une position sur la jambe arrière droite vers B tout en exécutant un blocage de garde moyen avec l'avant-bras.
    *(Gokaeng-i chagi, [orun dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 26. Ramener le pied droit vers le pied gauche pour former une position fermée avec un ciel main vers D.

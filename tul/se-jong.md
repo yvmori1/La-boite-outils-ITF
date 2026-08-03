@@ -49,7 +49,7 @@
 16. Exécuter une frappe frontale vers C avec le revers du poing gauche tout en maintenant une position assise vers C.
    *([Annun so wen dung joomuk ap taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.md))*
 17. Ramener le pied droit derrière le pied gauche, puis déplacer le pied gauche vers E, pour former une position diagonale gauche vers C tout en exécutant un blocage en pression avec une paumes jumelées.
-   *(Sasun so sang sonbadak noollo makgi)*
+   *([Sasun so sang sonbadak noollo makgi](../Techniques/Sasun-So-Sang-Sonbadak-Noollo-Makgi.md))*
 18. Exécuter un blocage moyen vers C avec un double arc de main tout en formant une position de marche gauche vers CE.
    *([Gunnun so kaunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
 19. Tirer le gauche inversé tranchant du pied vers le genou droit articulation pour former une position sur une jambe droite vers C en même temps en exécutant un blocage latéral haut vers F avec l'avant-bras extérieur droit et un blocage latéral bas vers E avec l'avant-bras gauche.

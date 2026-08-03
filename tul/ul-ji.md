@@ -25,7 +25,7 @@
    > *Exécuter 2 et 3 en mouvement continu.*
 
 4. Exécuter une frappe frontale haute vers D avec le tranchant de la main droite en amenant la paume gauche sur le coude droit articulation tout en maintenant une position de marche gauche vers D.
-   *(Gunnun so sonkal nopunde bandae ap taerigi)*
+   *([Gunnun so sonkal nopunde bandae ap taerigi](../Techniques/Sonkal-Nopunde-Ap-Taerigi.md))*
 5. Déplacer le pied gauche vers C pour former une position assise vers B tout en exécutant une frappe horizontale vers C avec le gauche arrière main.
    *([Annun so wen sondung soopyong taerigi](../Techniques/Annun-So-Wen-Sondung-Soopyong-Taerigi.md))*
 6. Exécuter un coup de pied semi-circulaire moyen vers la paume gauche avec le pied droit.
@@ -50,7 +50,7 @@
 14. Déplacer le pied droit vers A pour former la position assise vers D tout en exécutant un coup de poing horizontal droit vers A.
    *([Annun so orun soopyong jirugi](../Techniques/Annun-So-Orun-Soopyong-Jirugi.md))*
 15. Exécuter une frappe frontale haute vers D avec droit tranchant de la main, en amenant le gauche arrière main en avant du avant tout en se tenant vers le haut vers D.
-   *(Sonkal nopunde ap taerigi)*
+   *([Sonkal nopunde ap taerigi](../Techniques/Sonkal-Nopunde-Ap-Taerigi.md))*
 16. Exécuter un blocage double du tranchant de la main vers B tout en formant une position en L droite vers B, en pivotant avec le pied droit.
    *([Niunja so sang sonkal makgi](../makgi/sang-sonkal-makgi.md))*
 17. Sauter vers exécuter un coup de pied en vol vers B avec le pied droit tout en pivotant dans le sens horaire.

@@ -14,7 +14,6 @@ Gunnun So Bandal Son Nopunde Bandae Taerigi
 Gunnun So Doo Palmok Kaunde Makgi
 Gunnun So Doo Songarak Nopunde Bandae Tulgi
 Gunnun So Dung Joomuk Ap Taerigi
-Gunnun So Dung Joomuk Bandae Ap Taerigi
 Gunnun So Dung Joomuk Bandae Yopdwi Taerigi
 Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi
 Gunnun So Dung Joomuk Nopunde Yop Taerigi
@@ -122,7 +121,6 @@ Moa Sogi
 Moorup Najunde Apcha Busigi
 Moorup Ollyo Chagi
 Nachuo So Opun Sonkut Nopunde Bandae Tulgi
-Nachuo So Sonbadak Bandae Noollo Makgi
 Naeryo Chagi
 Najunde Ap Cha Busigi
 Najunde Apcha Busigi
@@ -144,7 +142,6 @@ Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi
 Niunja So Baro Dwijibo Jirugi
 Niunja So Baro Ollyo Jirugi
 Niunja So Digutja Japgi
-Niunja So Doo Joomuk Najunde Jirugi
 Niunja So Doo Palmok Najunde Miro Makgi
 Niunja So Dung Joomuk Bandae Naeryo Taerigi
 Niunja So Dung Joomuk Bandae Soopyong Taerigi
@@ -188,27 +185,3 @@ Nopunde Bituro Chagi
 Nopunde Dollyo Chagi
 Nopunde Dwitcha Jirugi
 Nopunde Yopcha Jirugi
-Orun Dung Joomuk Nopunde Yop Taerigi
-Orun Dwitbal So Palmok Kaunde Daebi Makgi
-Orun Gojung So Digutja Makgi
-Orun Joomuk Dwijibo Jirigi
-Orun Kaunde Yopcha Tulgi
-Orun Kyocha So Doo Palmok Nopunde Makgi
-Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi
-Orun Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
-Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi
-Orun Kyocha So Kyocha Joomuk Noollo Makgi
-Orun Kyocha So Najunde Bandae Jirugi
-Orun Kyocha So Sonkal Kaunde Yop Taerigi
-Orun Niunja So Palmok Kaunde Daebi Makgi
-Orun Niunja So Sonkal Kaunde Daebi Makgi
-Orun Nopunde Bandae Dollyo Gorochagi
-Orun Nopunde Yopcha Jirugi
-Pihamyo Bandae Dollyo Chagi
-Sasun So Dwit Palkup Tulgi
-Sasun So Sang Sonbadak Chookyo Makgi
-Sasun So Sang Sonbadak Noollo Makgi
-Sonbadak Kaunde Golcho Makgi
-Sonkal Nopunde Ap Taerigi
-Sonkal Twio Dolmyo Taerigi
-Sonkal Twio Dolymyo Taerigi

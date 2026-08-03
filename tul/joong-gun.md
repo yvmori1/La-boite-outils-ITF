@@ -74,14 +74,14 @@
 26. Abaisser le pied gauche vers C pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 27. Exécuter un blocage en pression avec la paume droite tout en formant une position basse gauche vers C, en glissant le pied gauche vers C.
-   *(Nachuo so sonbadak bandae noollo makgi)*
+   *([Nachuo so sonbadak bandae noollo makgi](../Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 
    > *Exécuter en mouvement lent.*
 
 28. Déplacer le pied droit vers C pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 29. Exécuter un blocage en pression avec la paume gauche tout en formant une position basse droite vers C, en glissant le pied droit vers C.
-   *(Nachuo so sonbadak bandae noollo makgi)*
+   *([Nachuo so sonbadak bandae noollo makgi](../Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 
    > *Exécuter en mouvement lent.*
 

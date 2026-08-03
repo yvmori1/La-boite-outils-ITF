@@ -25,11 +25,11 @@
    > *Exécuter 2 et 3 en mouvement rapide.*
 
 4. Exécuter un blocage crocheté moyen vers D avec la paume droite tout en se tenant vers le haut vers D.
-   *(Sonbadak kaunde golcho makgi)*
+   *([Sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 5. Exécuter un coup de poing moyen vers D avec le poing gauche tout en formant une position assise vers D.
    *([Annun so wen joomuk kaunde jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Jirugi.md))*
 6. Exécuter un blocage crocheté moyen vers D avec la paume gauche tout en se tenant vers le haut vers D.
-   *(Sonbadak kaunde golcho makgi)*
+   *([Sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 7. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position assise vers D.
    *([Annun so orun joomuk kaunde jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 8. Déplacer le pied gauche vers BD pour former une position de marche gauche vers BD tout en exécutant un blocage latéral haut vers BD avec l'avant-bras extérieur gauche.

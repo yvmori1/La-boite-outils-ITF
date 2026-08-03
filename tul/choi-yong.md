@@ -87,7 +87,7 @@
 31. Déplacer le pied gauche sur ligne CD pour former une position de marche droite vers C tout en exécutant une pique haute vers C avec la pique de doigts à plat droit.
    *([Gunnun so opun sonkut nopunde tulgi](../Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 32. Déplacer le pied droit vers D en tournant dans le sens horaire pour former une position parallèle vers B tout en exécutant un blocage crocheté moyen vers B avec la paume droite.
-   *(Narani so orun sonbadak kaunde golcho makgi)*
+   *([Narani so orun sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 33. Exécuter un coup de poing moyen vers B avec le poing gauche tout en maintenant une position parallèle vers B.
    *(Narani so wen joomuk kaunde jirugi)*
 34. Tourner le visage vers A tout en formant un gauche position de préparation pliée A vers A.
@@ -101,7 +101,7 @@
 38. Abaisser le pied droit vers B en un en écrasant mouvement pour former une position en L gauche vers B tout en exécutant une frappe extérieure moyenne vers B avec le tranchant de la main droite.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 39. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position parallèle vers A en même temps en exécutant un blocage crocheté moyen vers A avec la paume gauche.
-   *(Narani so wen sonbadak kaunde golcho makgi)*
+   *([Narani so wen sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 40. Exécuter un coup de poing moyen vers A avec le poing droit tout en maintenant une position parallèle vers A.
    *(Narani so orun joomuk kaunde jirugi)*
 41. Tourner le visage vers B tout en formant un droit position de préparation pliée A vers B.

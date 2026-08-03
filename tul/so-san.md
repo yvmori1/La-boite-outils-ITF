@@ -58,13 +58,13 @@
 16. Abaisser le pied gauche vers D en mouvement sauté pour former une position en X gauche vers AD tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche et en amenant la pulpe des doigts droit vers le gauche côté poing.
    *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
 17. Déplacer le pied gauche vers A pour former une position en L droite vers A en exécutant un coup de poing bas vers A avec un gauche double poing.
-   *(Niunja so doo joomuk najunde jirugi)*
+   *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
 18. Ramener la paume droite sur le devant du poing gauche puis vriller les dans le sens anti-horaire jusqu'à ce que le revers du poing gauche fait visage vers le bas tout en formant une position de marche gauche vers A, en glissant le pied gauche. exécuter en mouvement de relâchement.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 19. Exécuter un coup de poing haut vers A avec le poing droit tout en maintenant une position de marche gauche vers A.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 20. Déplacer le pied gauche sur ligne AB pour former une position en L gauche vers B tout en exécutant un coup de poing bas vers B avec un droit double poing.
-   *(Niunja so doo joomuk najunde jirugi)*
+   *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
 21. Ramener la paume gauche sur le devant du poing droit puis vriller les dans le sens horaire jusqu'à ce que le revers du poing droit fait visage vers le bas tout en formant une position de marche droite vers B, en glissant le pied droit. exécuter en mouvement de relâchement.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 22. Exécuter un coup de poing haut vers B avec le poing gauche tout en maintenant une position de marche droite vers B.
@@ -72,11 +72,11 @@
 23. Glisser vers B pour former une position en L droite vers B tout en exécutant un coup de poing renversé vers B avec le poing à phalange médiane droit et en amenant le gauche côté poing en avant de la épaule droite.
    *(Niunja so joongji joomuk baro dwijibo jirugi)*
 24. Exécuter une frappe frontale vers B avec le revers du poing droit tout en formant une position de marche gauche vers B, en glissant le pied droit.
-   *(Gunnun so dung joomuk bandae ap taerigi)*
+   *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
 25. Glisser vers A, en tournant dans le sens horaire pour former une position en L gauche vers A tout en exécutant un coup de poing renversé vers A avec le poing à phalange médiane gauche et en amenant le droit côté poing en avant de la épaule gauche.
    *(Niunja so joongji joomuk baro dwijibo jirugi)*
 26. Exécuter une frappe frontale vers A avec le revers du poing gauche tout en formant une position de marche droite vers A, en glissant le pied gauche.
-   *(Gunnun so dung joomuk bandae ap taerigi)*
+   *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
 27. Déplacer le pied gauche vers D pour former un droit position de marche de préparation vers C.
    *([Gunnun junbi sogi](../Techniques/Gunnun-Junbi-Sogi.md))*
 28. Sauter vers exécuter un coup de pied avant fouetté sauté vers C avec le pied droit.

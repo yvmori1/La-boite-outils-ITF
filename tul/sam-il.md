@@ -34,13 +34,13 @@
 9. Déplacer le pied droit vers C pour former une position assise vers A tout en exécutant un blocage en écartement moyen avec un revers de la main.
    *([Annun so sonkal dung kaunde hechyo makgi](../Techniques/Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.md))*
 10. Exécuter un coup de poing bas vers C avec le droit double poing tout en formant une position en L gauche vers C, en tirant le pied droit.
-   *(Niunja so doo joomuk najunde jirugi)*
+   *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
 11. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage haut vers BC avec un double arc de main et en regardant à travers il.
    *([Gunnun so nopunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
 12. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 13. Déplacer le pied droit sur ligne CD pour former une position en L droite vers D tout en exécutant un coup de poing bas vers D avec le gauche double poing.
-   *(Niunja so doo joomuk najunde jirugi)*
+   *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
 14. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde haut vers B avec un revers de la main.
    *(Niunja so sonkal dung nopunde daebi makgi)*
 15. Exécuter un blocage en U vers B tout en formant une position fixe gauche vers B, en glissant le pied gauche.

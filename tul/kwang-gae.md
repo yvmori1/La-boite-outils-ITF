@@ -80,12 +80,12 @@
 20. Exécuter une frappe descendante vers F avec le droit côté poing tout en formant une position fermée vers C, en tirant le pied droit vers le pied gauche.
    *([Moa so orun yop joomuk naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 21. Déplacer le pied gauche vers C, pour former une position basse gauche vers C tout en exécutant un blocage en pression avec la paume droite.
-   *(Nachuo so sonbadak bandae noollo makgi)*
+   *([Nachuo so sonbadak bandae noollo makgi](../Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 
    > *Exécuter en mouvement lent.*
 
 22. Déplacer le pied droit vers C, pour former une position basse droite vers C tout en exécutant un blocage en pression avec la paume gauche.
-   *(Nachuo so sonbadak bandae noollo makgi)*
+   *([Nachuo so sonbadak bandae noollo makgi](../Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 
    > *Exécuter en mouvement lent.*
 

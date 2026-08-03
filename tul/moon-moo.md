@@ -146,13 +146,13 @@
 44. Abaisser le pied droit vers C pour former une position de marche gauche vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing droit et en étendant le poing gauche vers D.
    *(Gunnun so dung joomuk bandae yopdwi taerigi)*
 45. Exécuter une frappe frontale vers D avec le revers du poing droit tout en décalant vers C en maintenant une position de marche gauche vers D.
-   *(Gunnun so dung joomuk bandae ap taerigi)*
+   *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
 46. Déplacer le pied droit vers D puis exécuter un coup de pied vrillé haut vers BD avec le pied gauche.
    *([Nopunde bituro chagi](../chagi/bituro-chagi.md))*
 47. Abaisser le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing gauche et en étendant le poing droit vers D.
    *(Gunnun so dung joomuk bandae yopdwi taerigi)*
 48. Exécuter une frappe frontale vers D avec le revers du poing gauche tout en décalant vers C en maintenant une position de marche droite vers D.
-   *(Gunnun so dung joomuk bandae ap taerigi)*
+   *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
 49. Exécuter un coup de pied balayé vers D avec le tranchant de la plante du pied gauche en gardant le position de la mains comme s'ils étaient en 48 puis abaisser il vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Yop bal badak suroh chagi](../chagi/suroh-chagi.md))*
 50. Exécuter un coup de pied d'arrêt latéral vers D puis de nouveau un coup de pied latéral pénétrant moyen vers D avec le pied gauche pour former un blocage de garde de l'avant-bras.

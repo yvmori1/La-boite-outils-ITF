@@ -40,7 +40,7 @@
 9. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un blocage extérieur bas vers D avec le tranchant de la main droite.
    *([Gunnun so sonkal najunde bandae bakuro makgi](../makgi/bakuro-makgi.md))*
 10. Déplacer le pied droit sur ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume gauche.
-   *(Narani so wen sonbadak kaunde golcho makgi)*
+   *([Narani so wen sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 11. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position parallèle vers D.
    *(Narani so orun joomuk kaunde jirugi)*
 12. Glisser vers C pour former une position en L gauche vers D tout en exécutant un blocage de garde bas vers D avec un revers de la main.
@@ -68,7 +68,7 @@
 20. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant un blocage extérieur bas vers D avec le tranchant de la main gauche.
    *([Gunnun so sonkal najunde bandae bakuro makgi](../makgi/bakuro-makgi.md))*
 21. Déplacer le pied gauche sur ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume droite.
-   *(Narani so orun sonbadak kaunde golcho makgi)*
+   *([Narani so orun sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 22. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position parallèle vers D.
    *(Narani so wen joomuk kaunde jirugi)*
 23. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage en W avec le revers de la main.
