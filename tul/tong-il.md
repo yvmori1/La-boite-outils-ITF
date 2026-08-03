@@ -117,7 +117,7 @@
 38. Déplacer le pied droit vers D en un en écrasant mouvement pour former une position de marche droite vers D en même temps en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
    *(Gunnun so sang joomuk nopunde sewo jirugi)*
 39. Tirer le droit inversé tranchant du pied vers le genou gauche articulation, pour former une position sur une jambe gauche vers D tout en en frappant la paume gauche avec le droit arrière avant-bras.
-   *(Waebal so dungpalmok bandae taerigi)*
+   *([Waebal so dungpalmok bandae taerigi](../Techniques/Waebal-So-Dungpalmok-Bandae-Taerigi.md))*
 40. Exécuter un coup de pied arrière perçant moyen vers C avec le pied droit, en tirant les deux mains dans la direction opposée.
    *([Kaunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
 41. Abaisser le pied droit vers C pour former une position assise vers A tout en exécutant un blocage en W avec l'avant-bras extérieur.
@@ -129,7 +129,7 @@
 44. Glisser vers C, en maintenant une position assise vers B tout en exécutant un blocage en W avec l'avant-bras extérieur.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
 45. Tirer le gauche inversé tranchant du pied vers le genou droit articulation, pour former une position sur une jambe droite vers C tout en en frappant la paume droite avec le gauche arrière avant-bras.
-   *(Waebal so dungpalmok bandae taerigi)*
+   *([Waebal so dungpalmok bandae taerigi](../Techniques/Waebal-So-Dungpalmok-Bandae-Taerigi.md))*
 46. Exécuter un coup de pied arrière perçant haut vers D avec le pied gauche, en tirant les deux mains dans la direction opposée.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
 47. Abaisser le pied gauche vers C en mouvement sauté, pour former une position en X gauche vers C tout en exécutant un blocage en pression avec un poings croisés.

@@ -38,7 +38,7 @@
    > *Exécuter en mouvement lent.*
 
 6. Abaisser le pied droit vers B en mouvement sauté pour former une position en X droite vers C tout en exécutant une frappe latérale moyenne vers B avec le tranchant de la main droite.
-   *(Twigi, orun kyocha so sonkal kaunde yop taerigi)*
+   *([Twigi](../Techniques/Twigi.md), orun kyocha so sonkal kaunde yop taerigi)*
 7. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant un blocage en pression vers A avec la paume droite.
    *(Gunnun so sonbadak bandae noollo makgi)*
 8. Déplacer le pied droit vers A pour former une position de marche droite vers A en même temps en exécutant un blocage en pression avec la paume gauche.
@@ -174,11 +174,11 @@
 55. Déplacer le pied droit vers C puis tourner dans le sens anti-horaire en pivotant avec le pied droit pour former une position de marche gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 56. Sauter vers C pour former une position en X droite vers AC tout en exécutant un coup de poing bas vers C avec le poing gauche et en amenant le poing droit sur la épaule gauche.
-   *(Twigi, orun kyocha so najunde bandae jirugi)*
+   *([Twigi](../Techniques/Twigi.md), orun kyocha so najunde bandae jirugi)*
 57. Sauter vers D pour former une position en X gauche vers AD tout en exécutant un coup de poing bas vers D avec le poing droit et en amenant le poing gauche sur la épaule droite.
    *(Twigi, [wen kyocha so najunde bandae jirugi](../Techniques/Wen-Kyocha-So-Najunde-Bandae-Jirugi.md))*
 58. Sauter vers exécuter un coup de pied en vol vers D avec le pied droit tout en pivotant dans le sens horaire.
-   *(Twio dolmyo chagi)*
+   *([Twio dolmyo chagi](../Techniques/Twio-Dolmyo-Chagi.md))*
 59. Atterrir vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 60. Déplacer le pied droit vers le côté arrière du pied gauche puis le pied gauche vers C pour former une position de marche droite vers D tout en exécutant un blocage montant avec l'arc de main gauche.

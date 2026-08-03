@@ -82,7 +82,7 @@
 27. Déplacer le pied droit sur ligne CD, pour former une position de marche gauche vers D tout en en frappant la paume gauche avec le droit avant coude.
    *(Gunnun so ap palkup bandae taerigi)*
 28. Sauter vers D, pour former une position en X droite vers BD tout en exécutant un blocage haut vers D avec le droit double avant-bras.
-   *(Twigi, orun kyocha so doo palmok nopunde makgi)*
+   *([Twigi](../Techniques/Twigi.md), orun kyocha so doo palmok nopunde makgi)*
 29. Déplacer le pied gauche vers BC pour former une position assise vers BD, en même temps en exécutant un blocage en levant vers BD avec la paume droite.
    *([Annun so orun sonbadak duro makgi](../Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.md))*
 30. Exécuter un coup de poing moyen vers BD avec le poing gauche tout en maintenant une position assise vers BD.

@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**119 fiches** au total.
+**134 fiches** au total.
 
 ---
 
@@ -175,7 +175,21 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 ---
 
-## 7. Coups de pied (*Chagi*)
+## 7. Position sur une jambe (*Waebal So*)
+
+La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Waebal-So-Bakat-Palmok-Narani-Makgi.md](Waebal-So-Bakat-Palmok-Narani-Makgi.md) | Blocage parallèle à l'extérieur des avant-bras en posture sur une seule jambe |
+| [Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.md](Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.md) | Double blocage latéral aux avant-bras — haut extérieur direct et bas inversé — en posture sur une seule jambe |
+| [Waebal-So-Dungpalmok-Bandae-Taerigi.md](Waebal-So-Dungpalmok-Bandae-Taerigi.md) | Coup cinglant inversé au revers de l'avant-bras en posture sur une seule jambe |
+| [Waebal-So-Dungpalmok-Baro-Taerigi.md](Waebal-So-Dungpalmok-Baro-Taerigi.md) | Coup cinglant direct au revers de l'avant-bras en posture sur une seule jambe |
+| [Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.md](Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.md) | Blocage latéral simultané au tranchant des mains — bas direct et haut inversé — en posture sur une seule jambe |
+
+---
+
+## 8. Coups de pied (*Chagi*)
 
 Techniques de jambe nommées sans position d'appui imposée.
 
@@ -190,23 +204,32 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Wen-Kaunde-Yopcha-Tulgi.md](Wen-Kaunde-Yopcha-Tulgi.md) | Coup de pied latéral enfonçant/poussant moyen de la jambe gauche |
 | [Wen-Nopunde-Bandae-Dollyo-Gorochagi.md](Wen-Nopunde-Bandae-Dollyo-Gorochagi.md) | Coup de pied crocheté tournant inversé haut de la jambe gauche |
 | [Wen-Nopunde-Yopcha-Jirugi.md](Wen-Nopunde-Yopcha-Jirugi.md) | Coup de pied latéral perçant haut de la jambe gauche |
+| [Twimyo-Apcha-Busigi.md](Twimyo-Apcha-Busigi.md) | Coup de pied direct fouetté sauté / volant |
+| [Twimyo-Nopi-Chagi.md](Twimyo-Nopi-Chagi.md) | Coup de pied sauté en hauteur / coup de pied volant haut |
+| [Twimyo-Sangbang-Chagi.md](Twimyo-Sangbang-Chagi.md) | Coup de pied double sauté dans deux directions / bidirectionnel |
+| [Twimyo-Yopcha-Jirugi.md](Twimyo-Yopcha-Jirugi.md) | Coup de pied latéral volant/sauté perçant |
+| [Twio-Dolmyo-Chagi.md](Twio-Dolmyo-Chagi.md) | Coup de pied sauté en rotation |
 | [Yop-Bal-Badak-Suroh-Chagi.md](Yop-Bal-Badak-Suroh-Chagi.md) | Coup de pied balayé latéral avec la plante du pied |
 | [Yop-Bituro-Chagi.md](Yop-Bituro-Chagi.md) | Coup de pied latéral en torsion |
 | [Yopcha-Momchugi.md](Yopcha-Momchugi.md) | Coup de pied latéral d'arrêt / de contrôle |
 
 ---
 
-## 8. Sans position imposée
+## 9. Sans position imposée
 
 | Fiche | Technique |
 | :--- | :--- |
 | [An-Palmok-Kaunde-Yop-Makgi.md](An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen avec l'avant-bras intérieur |
 | [Dung-Joomuk-Nopunde-Yop-Taerigi.md](Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale haute cinglante avec le revers du poing |
 | [Sun-Sonkut-Kaunde-Tulgi.md](Sun-Sonkut-Kaunde-Tulgi.md) | Pique verticale de l'extrémité des doigts au niveau moyen |
+| [Twigi.md](Twigi.md) | Twigi |
+| [Twimyo-Orun-Joomuk-Ap-Jirugi.md](Twimyo-Orun-Joomuk-Ap-Jirugi.md) | Coup de poing direct sauté/volant du poing droit vers l'avant |
+| [Twimyo-Sonkal-Bakuro-Taerigi.md](Twimyo-Sonkal-Bakuro-Taerigi.md) | Coup cinglant sauté au tranchant de la main vers l'extérieur |
+| [Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.md](Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.md) | Coup cinglant sauté moyen au tranchant de la main vers l'extérieur |
 
 ---
 
-## 9. Postures et positions de préparation
+## 10. Postures et positions de préparation
 
 Les positions d'appui et de préparation, décrites pour elles-mêmes.
 
@@ -218,6 +241,7 @@ Les positions d'appui et de préparation, décrites pour elles-mêmes.
 | [Guburyo-Junbi-Sogi-A.md](Guburyo-Junbi-Sogi-A.md) | Posture préparatoire fléchie sur une jambe — Variante A |
 | [Guburyo-Junbi-Sogi-B.md](Guburyo-Junbi-Sogi-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
 | [Gunnun-Junbi-Sogi.md](Gunnun-Junbi-Sogi.md) | Posture préparatoire en marche |
+| [Waebal-Sogi.md](Waebal-Sogi.md) | Posture sur une seule jambe |
 
 ---
 

@@ -84,7 +84,7 @@
 28. Déplacer le pied droit vers D pour former une position en L droite vers C tout en exécutant une frappe arrière latérale vers D avec le revers du poing droit et un blocage bas vers C avec l'avant-bras gauche.
    *(Niunja so dung joomuk baro yopdwi taerigi wa [palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
 29. Sauter vers C pour former une position en X droite vers A tout en exécutant un blocage en pression avec un poings croisés.
-   *(Twigi, orun kyocha so kyocha joomuk noollo makgi)*
+   *([Twigi](../Techniques/Twigi.md), orun kyocha so kyocha joomuk noollo makgi)*
 30. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage haut vers C avec le droit double avant-bras.
    *(Gunnun so doo palmok nopunde makgi)*
 31. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde bas vers B avec un tranchant de la main.

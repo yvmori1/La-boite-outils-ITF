@@ -18,7 +18,7 @@
 1. Déplacer le pied gauche vers B, pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 2. Tirer le pied droit vers le genou gauche articulation pour former une position sur une jambe gauche vers D, en même temps en soulevant les deux poings tout en tournant le visage vers A.
-   *(Waebal sogi)*
+   *([Waebal sogi](../Techniques/Waebal-Sogi.md))*
 3. Exécuter un coup de pied pressant vers A avec le pied droit en gardant le position de la mains comme s'ils étaient en 2.
    *([Bakuro noollo chagi](../Techniques/Bakuro-Noollo-Chagi.md))*
 4. Abaisser le pied droit vers A pour former une position assise vers D tout en exécutant une frappe latérale moyenne vers A avec le tranchant de la main droite.
@@ -60,7 +60,7 @@
 19. Exécuter un blocage de garde moyen de l'avant-bras vers A tout en formant une position en L gauche vers A en pivotant avec gauche pied.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 20. Tirer le pied gauche vers le genou droit articulation pour former une position sur une jambe droite vers D, en même temps en soulevant les deux poings tout en tournant le visage vers B.
-   *(Waebal sogi)*
+   *([Waebal sogi](../Techniques/Waebal-Sogi.md))*
 21. Exécuter un coup de pied pressant vers B avec le pied gauche en gardant le position de la mains comme s'ils étaient en 20.
    *([Bakuro noollo chagi](../Techniques/Bakuro-Noollo-Chagi.md))*
 22. Abaisser le pied gauche vers B pour former une position assise vers D tout en exécutant une frappe latérale moyenne vers B avec le tranchant de la main gauche.

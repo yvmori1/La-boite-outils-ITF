@@ -28,7 +28,7 @@
 3. Glisser vers C pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 4. Exécuter une frappe extérieure moyenne vers D avec le tranchant de la main droite tout en sauté vers D puis atterrir vers D pour former une position en L gauche vers D avec le tranchant de la main droite étendu vers D.
-   *(Twimyo sonkal bakuro taerigi)*
+   *([Twimyo sonkal bakuro taerigi](../Techniques/Twimyo-Sonkal-Bakuro-Taerigi.md))*
 5. Décaler vers C en maintenant une position en L gauche vers D tout en exécutant un blocage d'arrêt vers D avec un poings croisés.
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
 6. Exécuter une coupe croisée extérieure haute vers D avec le droit à plat bout des doigts tout en formant une position de marche droite vers D, en glissant le pied droit.
@@ -56,7 +56,7 @@
 14. Glisser vers C pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 15. Exécuter une frappe extérieure moyenne vers D avec le tranchant de la main gauche tout en sauté vers D puis atterrir vers D pour former une position en L droite vers D avec le tranchant de la main gauche étendu vers D.
-   *(Twimyo sonkal kaunde bakuro taerigi)*
+   *([Twimyo sonkal kaunde bakuro taerigi](../Techniques/Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 16. Décaler vers C en maintenant une position en L droite vers D tout en exécutant un blocage d'arrêt vers D avec un poings croisés.
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
 17. Exécuter une coupe croisée extérieure haute vers D avec le gauche à plat bout des doigts tout en formant une position de marche gauche vers D, en glissant le pied gauche.

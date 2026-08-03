@@ -112,7 +112,7 @@
 42. Exécuter une coupe croisée intérieure haute vers D avec le droit à plat bout des doigts tout en formant une position parallèle vers D, en tirant le pied droit.
    *(Narani so orun opun sonkut nopunde anuro ghutgi)*
 43. Exécuter un coup de poing frontal et un coup de poing renversé vers D consécutivement avec le poing droit tout en sauté vers D puis atterrir vers D pour former une position fermée vers D avec le poing droit étendu.
-   *(Twimyo orun joomuk ap jirugi, orun joomuk dwijibo jirigi)*
+   *([Twimyo orun joomuk ap jirugi](../Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.md), orun joomuk dwijibo jirigi)*
 44. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une frappe descendante frontale avec le tranchant de la main gauche.
    *([Gunnun so sonkal bandae ap naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 45. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.

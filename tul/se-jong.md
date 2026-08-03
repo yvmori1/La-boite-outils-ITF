@@ -60,7 +60,7 @@
    > *Exécuter en mouvement lent.*
 
 21. Tirer le cou-de-pied gauche vers le creux du droit jambe pour former une position sur une jambe droite vers C tout en en frappant la paume gauche avec le droit arrière avant-bras.
-   *(Waebal so dungpalmok baro taerigi)*
+   *([Waebal so dungpalmok baro taerigi](../Techniques/Waebal-So-Dungpalmok-Baro-Taerigi.md))*
 22. Abaisser le pied gauche vers C, en tournant dans le sens horaire pour former une position fixe droite vers D tout en en piquant vers C avec le gauche côté coude.
    *([Gojung so yop palkup tulgi](../Techniques/Gojung-So-Yop-Palkup-Tulgi.md))*
 23. Déplacer le pied droit vers A, pour former une position en L gauche vers A tout en exécutant un blocage de garde haut vers A avec un tranchant de la main.
