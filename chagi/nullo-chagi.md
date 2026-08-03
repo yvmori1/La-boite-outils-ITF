@@ -1,5 +1,7 @@
 # Coup de pied pressant (Nullo Chagi)
 
+> 🔊 **Prononciation :** [눌러 차기](../audio/chagi/nullo-chagi.m4a)
+
 Le **Nullo Chagi** (눌러 차기 — souvent retranscrit *Noolloo Chagi*) est le **coup de pied pressant / coup de pied avec pression** (*Pressing kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

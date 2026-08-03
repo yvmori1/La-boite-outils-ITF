@@ -1,5 +1,7 @@
 # Blocage de garde au niveau bas (Najunde Daebi Makgi)
 
+> 🔊 **Prononciation :** [낮인데 대비 막기](../audio/makgi/najunde-daebi-makgi.m4a)
+
 Le **Najunde Daebi Makgi** (낮인데 대비 막기) est le **blocage de garde au niveau bas** (*Low guarding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

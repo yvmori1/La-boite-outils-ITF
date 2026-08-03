@@ -1,5 +1,7 @@
 # Coup de pied latéral poussant (Yop Cha Milgi)
 
+> 🔊 **Prononciation :** [옆차밀기](../audio/chagi/yop-cha-milgi.m4a)
+
 Le **Yop Cha Milgi** (옆차밀기 — parfois retranscrit *Yopha milgi*) est le **coup de pied latéral poussant** (*Side pushing kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

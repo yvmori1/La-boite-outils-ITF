@@ -1,5 +1,7 @@
 # Dwitbal So Sonbadak Bandae Ollyo Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 손바닥 반대 올려 막기](../audio/Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.m4a)
+
 Le **Dwitbal So Sonbadak Bandae Ollyo Makgi** (뒷발 서 손바닥 반대 올려 막기) est le **blocage montant inverse avec la paume de la main en posture du pied arrière** (*Rear foot stance palm upward reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive ascendance utilise la surface charnue de la paume (*Sonbadak*) du bras opposé à la jambe avant (*Bandae*) pour intercepter, soulever ou dévier vers le haut (*Ollyo*) une attaque haute dirigée vers le menton ou le visage (coup de poing haut, coup de pied direct haut), tout en maintenant le buste en sécurité grâce au recul du poids sur la jambe arrière (*Dwitbal Sogi*).

@@ -1,5 +1,7 @@
 # Gunnun So Bakat Palmok Nopunde Yop Makgi
 
+> 🔊 **Prononciation :** [건눈 서 바깥 팔목 높은데 옆 막기](../audio/Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.m4a)
+
 Le **Gunnun So Bakat Palmok Nopunde Yop Makgi** (건눈 서 바깥 팔목 높은데 옆 막기 — couramment retranscrit **Gunnun Sogi Bakat Palmok Nopunde Yop Makgi**) est le **blocage haut latéral avec le tranchant extérieur de l'avant-bras en posture de marche** (*High side block with outer forearm in walking stance*) en TaeKwon-Do ITF.
 
 C'est une technique défensive essentielle pour intercepter et dévier les attaques puissantes dirigées vers la tête venant des côtés ou de la périphérie (comme un crochet en boxe ou un coup de pied circulaire).

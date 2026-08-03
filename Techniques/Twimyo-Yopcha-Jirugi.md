@@ -1,5 +1,7 @@
 # Twimyo Yopcha Jirugi
 
+> 🔊 **Prononciation :** [뛰며 옆차 지르기](../audio/Techniques/Twimyo-Yopcha-Jirugi.m4a)
+
 Le **Twimyo Yopcha Jirugi** (뛰며 옆차 지르기) est le **coup de pied latéral volant/sauté perçant** (*Flying side piercing kick*) en TaeKwon-Do ITF.
 
 Considéré comme la technique reine et l'une des images les plus emblématiques du TaeKwon-Do ITF (immortalisée sur les logos originaux et démonstrations historiques du Général Choi Hong Hi), cette frappe combine une prise d'élan explosive, une projection aérienne (*Twimyo*) et la puissance de pénétration directe en piston d'un coup de pied latéral (*Yopcha Jirugi*).

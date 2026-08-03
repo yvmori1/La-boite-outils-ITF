@@ -1,5 +1,7 @@
 # Wen Kyocha So Sonkal Kaunde Yop Taerigi
 
+> 🔊 **Prononciation :** [왼 교차 서 손칼 가운데 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.m4a)
+
 Le **Wen Kyocha So Sonkal Kaunde Yop Taerigi** (왼 교차 서 손칼 가운데 옆 때리기) est le **coup tranchant latéral moyen au tranchant de la main gauche en posture en X** (*Left X-stance knife-hand middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque dynamique et incisive combine l'agilité et la mobilité croisée de la posture en X (*Kyocha Sogi*) avec la puissance d'impact cinglante d'un coup au tranchant de la main (*Sonkal Taerigi*) dirigé vers le flanc.

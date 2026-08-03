@@ -1,5 +1,7 @@
 # Coup de pied sauté avec vrille (Twimyo Cha-Tulgi)
 
+> 🔊 **Prononciation :** [뛰며 차틀기](../audio/chagi/twimyo-cha-tulgi.m4a)
+
 Le **Twimyo Cha-Tulgi** (뛰며 차틀기 — parfois retranscrit *Twimyo Cha-Tulti*) est le **coup de pied sauté en pique / perçant en vrille** (ou *Flying thrusting kick*).
 
 Sa décomposition linguistique est la suivante :

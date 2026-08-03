@@ -1,5 +1,7 @@
 # Gojung So Palmok Nopunde Daebi Makgi
 
+> 🔊 **Prononciation :** [고정 서 팔목 높인데 대비 막기](../audio/Techniques/Gojung-So-Palmok-Nopunde-Daebi-Makgi.m4a)
+
 Le **Gojung So Palmok Nopunde Daebi Makgi** (고정 서 팔목 높인데 대비 막기) est le **blocage de garde haut au double avant-bras en posture fixe** (*Fixed stance forearm high guarding block*) en TaeKwon-Do ITF.
 
 Cette structure défensive puissante associe le bouclier protecteur à deux bras (*Daebi Makgi*) réglé à hauteur du visage (*Nopunde*) avec l'ancrage particulièrement stable et équilibré à 50/50 de la posture fixe (*Gojung Sogi*). Elle permet d'intercepter des attaques hautes lourdes (coups de poing hauts, crochets ou coups de pied circulaires à la tête) sans risquer d'être déséquilibré vers l'arrière.

@@ -1,5 +1,7 @@
 # Blocage alterné (Bakwo Makgi)
 
+> 🔊 **Prononciation :** [바꿔 막기](../audio/makgi/bakwo-makgi.m4a)
+
 Le **Bakwo Makgi** (바꿔 막기 — fréquemment retranscrit *Baggwo Makgi* ou *Bakuio Makgi*) est le **blocage en échange / blocage alterné** (*Exchange block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

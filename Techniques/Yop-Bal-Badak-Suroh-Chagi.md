@@ -1,5 +1,7 @@
 # Yop Bal Badak Suroh Chagi
 
+> 🔊 **Prononciation :** [옆 발바닥 쓸어 차기](../audio/Techniques/Yop-Bal-Badak-Suroh-Chagi.m4a)
+
 Le **Yop Bal Badak Suroh Chagi** (옆 발바닥 쓸어 차기) est le **coup de pied balayé latéral avec la plante du pied** (*Side sole sweeping kick*) en TaeKwon-Do ITF.
 
 Cette technique de fauchage bas utilise la surface plane de la plante du pied (*Bal Badak*) pour exécuter un balayage circulaire et rasant (*Suroh*) au niveau des chevilles ou du bas du tibia. Son objectif principal est de rompre les appuis de l'adversaire, d'intercepter la jambe d'appui lors d'une attaque ou de provoquer une chute (*Takedown*).

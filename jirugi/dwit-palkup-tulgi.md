@@ -1,5 +1,7 @@
 # Pique de coude arrière (Dwit Palkup Tulgi)
 
+> 🔊 **Prononciation :** [뒷 팔굽 찌르기](../audio/jirugi/dwit-palkup-tulgi.m4a)
+
 Le **Dwit Palkup Tulgi** (뒷 팔굽 찌르기 — couramment retranscrit sous la forme phonétique **Dwit Balkup Tulgi**) est le **coup de coude perçant vers l'arrière / poussée de coude arrière** (*Rear elbow thrust*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

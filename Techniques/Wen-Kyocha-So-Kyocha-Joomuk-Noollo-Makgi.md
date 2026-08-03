@@ -1,5 +1,7 @@
 # Wen Kyocha So Kyocha Joomuk Noollo Makgi
 
+> 🔊 **Prononciation :** [왼 교차 서 교차 주먹 눌러 막기](../audio/Techniques/Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.m4a)
+
 Le **Wen Kyocha So Kyocha Joomuk Noollo Makgi** (왼 교차 서 교차 주먹 눌러 막기) est le **blocage pressant aux poings croisés en posture en X gauche** (*Left X-stance X-fist pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive spécialisée combine la mobilité compacte de la posture en X (*Kyocha Sogi*) avec la structure renforcée d'un blocage par pression vers le bas exécuté avec les poings croisés (*Kyocha Joomuk Noollo Makgi*). Elle sert à intercepter, écraser ou dévier vers le bas une attaque directe ou un coup de pied bas tout en sortant légèrement de l'axe de frappe.

@@ -1,5 +1,7 @@
 # Dwitbal So Sang Sonbadak Noollo Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 쌍 손바닥 눌러 막기](../audio/Techniques/Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.m4a)
+
 Le **Dwitbal So Sang Sonbadak Noollo Makgi** (뒷발 서 쌍 손바닥 눌러 막기) est le **blocage pressant double avec les paumes des mains en posture du pied arrière** (*Rear foot stance twin palm pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive lourde utilise la paume des deux mains (*Sang Sonbadak*) dans une poussée/pression descendante continue (*Noollo*) pour intercepter, écraser ou stopper une attaque basse/moyenne puissante (comme un coup de pied direct ou un coup de genou), tout en maintenant le corps en sécurité grâce au recul du poids sur la jambe arrière (*Dwitbal Sogi*).

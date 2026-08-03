@@ -1,5 +1,7 @@
 # Gunnun So Dung Joomuk Nopunde Yop Taerigi
 
+> 🔊 **Prononciation :** [건눈 서 등주먹 높은데 옆 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+
 Le **Gunnun So Dung Joomuk Nopunde Yop Taerigi** (건눈 서 등주먹 높은데 옆 때리기 — couramment retranscrit **Gunnun Sogi Dung Joomuk Nopunde Yop Taerigi**) est la **frappe latérale du revers du poing au niveau haut en posture de marche** (*High side backfist strike in walking stance*) en TaeKwon-Do ITF.
 
 Cette technique associe la stabilité et la poussée de la posture de marche (*Gunnun Sogi*) à la rapidité fulgurante d'un fouetté du coude dirigé vers la ligne latérale (*Yop*).

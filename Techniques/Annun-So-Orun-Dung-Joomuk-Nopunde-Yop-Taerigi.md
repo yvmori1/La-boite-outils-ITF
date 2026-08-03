@@ -1,5 +1,7 @@
 # Annun So Orun Dung Joomuk Nopunde Yop Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 오른 등주먹 높운데 옆 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+
 Le **Annun So Orun Dung Joomuk Nopunde Yop Taerigi** (앉은 서 오른 등주먹 높운데 옆 때리기) est la **frappe latérale haute avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist high side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque cinglante utilise la détente rapide du coude pour projeter le revers du poing droit (*Dung Joomuk*) sur le côté droit (*Yop*) au niveau du visage/tempe d'un adversaire situé latéralement.

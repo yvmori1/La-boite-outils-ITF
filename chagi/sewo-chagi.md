@@ -1,5 +1,7 @@
 # Coup de pied vertical / dressé (Sewo Chagi)
 
+> 🔊 **Prononciation :** [세워 차기](../audio/chagi/sewo-chagi.m4a)
+
 Le **Sewo Chagi** (세워 차기) est le **coup de pied vertical / dressé** (*Vertical kick* ou *Upright kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

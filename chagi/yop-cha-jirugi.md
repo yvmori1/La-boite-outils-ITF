@@ -1,5 +1,7 @@
 # Coup de pied latéral perçant (Yop Cha Jirugi)
 
+> 🔊 **Prononciation :** [옆차지르기](../audio/chagi/yop-cha-jirugi.m4a)
+
 Le **Yop Cha Jirugi** (옆차지르기) est le **coup de pied latéral perçant** (*Side piercing kick*) en TaeKwon-Do ITF.
 
 C'est probablement la technique la plus emblématique, la plus travaillée et la plus dévastatrice du TaeKwon-Do.

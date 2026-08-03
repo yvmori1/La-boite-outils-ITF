@@ -1,5 +1,7 @@
 # Annun So Orun Bakat Palmok Kaunde Ap Makgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 팔목 가운데 앞 막기](../audio/Techniques/Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.m4a)
+
 Le **Annun So Orun Palmok Kaunde Ap Makgi** (앉은 서 오른 팔목 가운데 앞 막기) est le **blocage frontal moyen droit avec l'avant-bras en posture du cavalier** (*Sitting stance right forearm middle front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fondamentale est conçue pour intercepter, dévier ou stopper une attaque directe arrivant au niveau du thorax ou du plexus solaire (*Kaunde*), directement sur l'axe central avant (*Ap*).

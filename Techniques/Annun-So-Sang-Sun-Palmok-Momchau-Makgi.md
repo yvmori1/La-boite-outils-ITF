@@ -1,5 +1,7 @@
 # Annun So Sang Sun Palmok Momchau Makgi
 
+> 🔊 **Prononciation :** [앉은 서 쌍 선팔목 멈춤막기](../audio/Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.m4a)
+
 Le **Annun So Sang Sun Palmok Momchau Makgi** (앉은 서 쌍 선팔목 멈춤막기) est le **double blocage d'arrêt avec les avant-bras verticaux en posture du cavalier** (*Sitting stance twin vertical forearm checking / stopping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale consiste à intercepter et stopper net (*Momchau*) une attaque directe et puissante de face (comme un coup de pied frontal ou un coup de poing pénétrant) en opposant une structure rigide formée par les deux avant-bras maintenus à la verticale (*Sang Sun Palmok*).

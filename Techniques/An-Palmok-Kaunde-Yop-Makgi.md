@@ -1,5 +1,7 @@
 # An Palmok Kaunde Yop Makgi
 
+> 🔊 **Prononciation :** [안팔목 가운데 옆막기](../audio/Techniques/An-Palmok-Kaunde-Yop-Makgi.m4a)
+
 Le **An Palmok Kaunde Yop Makgi** (안팔목 가운데 옆막기) est le **blocage latéral moyen avec l'avant-bras intérieur** (*Inner forearm middle side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fondamentale utilise la partie intérieure de l'avant-bras pour dévier ou intercepter une attaque venant de face ou de côté dirigée vers le buste (niveau moyen).

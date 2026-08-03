@@ -1,5 +1,7 @@
 # Dwitbal So Palmok Kaunde Daebi Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 팔목 가운데 대비 막기](../audio/Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.m4a)
+
 Le **Dwitbal So Palmok Kaunde Daebi Makgi** (뒷발 서 팔목 가운데 대비 막기) est le **blocage de garde moyen au double avant-bras en posture du pied arrière** (*Rear foot stance forearm middle guarding block*) en TaeKwon-Do ITF.
 
 Cette posture défensive emblématique combine le bouclier protecteur à deux bras (*Daebi Makgi*) avec le retrait massif du centre de gravité offert par la posture *Dwitbal Sogi* (95% du poids du corps sur la jambe arrière). Elle sécurise l'ensemble du buste et du plexus (*Kaunde*) tout en maintenant une capacité de contre-attaque instantanée avec la jambe avant.

@@ -1,5 +1,7 @@
 # Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)
 
+> 🔊 **Prononciation :** [손칼 대비 막기](../audio/makgi/sonkal-daebi-makgi.m4a)
+
 Le **Sonkal Daebi Makgi** (손칼 대비 막기) est le **blocage de garde du tranchant de la main** (*Knife-hand guarding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

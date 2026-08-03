@@ -1,5 +1,7 @@
 # Annun So Orun An Palmok Yobap Makgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 안팔목 옆앞막기](../audio/Techniques/Annun-So-Orun-An-Palmok-Yobap-Makgi.m4a)
+
 Le **Annun So Orun An Palmok Yobap Makgi** (앉은 서 오른 안팔목 옆앞막기 — souvent orthographié *Yopap Makgi*) est le **blocage latéral-avant droit avec l'avant-bras intérieur en posture du cavalier** (*Sitting stance right inner forearm side-front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive hybride permet de dévier une attaque venant d'une **trajectoire oblique ou diagonale (environ 45°)**, couvrant à la fois le devant de la poitrine et le flanc.

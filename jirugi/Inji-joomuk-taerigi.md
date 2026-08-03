@@ -1,5 +1,7 @@
 # Coup de phalange de l'index (Inji Joomuk Taerigi)
 
+> 🔊 **Prononciation :** [인지주먹 때리기](../audio/jirugi/Inji-joomuk-taerigi.m4a)
+
 Le **Inji Joomuk Taerigi** (인지주먹 때리기) est la **frappe cinglante avec la jointure de l'index** (*Index-finger knuckle strike*).
 
 Cette technique de précision utilise une arme naturelle spécifique pour concentrer toute la force de percussion sur une surface minuscule, permettant de cibler des points vitaux et nerveux très localisés avec une trajectoire en fouet.

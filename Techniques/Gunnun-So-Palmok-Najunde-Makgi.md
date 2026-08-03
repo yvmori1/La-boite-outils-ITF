@@ -1,5 +1,7 @@
 # Gunnun So Palmok Najunde Makgi
 
+> 🔊 **Prononciation :** [건눈 서 팔목 낮은데 막기](../audio/Techniques/Gunnun-So-Palmok-Najunde-Makgi.m4a)
+
 Le **Gunnun So Palmok Najunde Makgi** (건눈 서 팔목 낮은데 막기 — souvent retranscrit **Gunnun Sogi Bakat Palmok Najunde Makgi**) est le **blocage bas avec l'avant-bras en posture de marche** en TaeKwon-Do ITF.
 
 C'est **le premier blocage absolu** enseigné dans le programme ITF (dès la ceinture blanche / 10ᵉ Keup). Il constitue la défense fondamentale contre toute attaque dirigée vers la partie inférieure du corps.

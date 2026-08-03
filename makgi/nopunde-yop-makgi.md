@@ -1,5 +1,7 @@
 # Blocage latéral haut (Nopunde Yop Makgi)
 
+> 🔊 **Prononciation :** [높인데 옆 막기](../audio/makgi/nopunde-yop-makgi.m4a)
+
 Le **Nopunde Yop Makgi** (높인데 옆 막기 — fréquemment retranscrit ou prononcé *Nopunda Yop Makgi*) est le **blocage latéral au niveau haut** (*High side block*) en TaeKwon-Do ITF.
 
 *(Note : « Nopunda » est une variante phonétique très courante en Occident, mais la terminologie officielle répertoriée dans l'encyclopédie ITF s'écrit **Nopunde**).*

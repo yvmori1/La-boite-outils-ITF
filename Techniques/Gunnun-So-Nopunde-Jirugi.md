@@ -1,5 +1,7 @@
 # Gunnun So Nopunde Jirugi
 
+> 🔊 **Prononciation :** [건눈 서 높은데 지르기](../audio/Techniques/Gunnun-So-Nopunde-Jirugi.m4a)
+
 Le **Gunnun So Nopunde Jirugi** (건눈 서 높은데 지르기 — couramment retranscrit **Gunnun Sogi Nopunde Jirugi**) est le **coup de poing direct au niveau haut en posture de marche** (*High punch in walking stance*) en TaeKwon-Do ITF.
 
 Complémentaire du *Kaunde Jirugi* (niveau moyen), cette technique d'attaque fondamentale est conçue pour percuter avec précision et puissance les zones vitales situées au visage et à la tête.

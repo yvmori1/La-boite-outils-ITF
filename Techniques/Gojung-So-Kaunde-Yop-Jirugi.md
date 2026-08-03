@@ -1,5 +1,7 @@
 # Gojung So Kaunde Yop Jirugi
 
+> 🔊 **Prononciation :** [고정 서 가운데 옆 지르기](../audio/Techniques/Gojung-So-Kaunde-Yop-Jirugi.m4a)
+
 Le **Gojung So Kaunde Yop Jirugi** (고정 서 가운데 옆 지르기) est le **coup de poing direct latéral moyen en posture fixe** (*Fixed stance middle side punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rectiligne et puissante permet d'expédier un coup de poing direct (*Jirugi*) vers le côté à 90° (*Yop*) au niveau moyen (*Kaunde* : plexus solaire ou côtes), tout en bénéficiant de la stabilité latérale supérieure et de l'ancrage équilibré (50/50) offert par la posture fixe (*Gojung Sogi*).

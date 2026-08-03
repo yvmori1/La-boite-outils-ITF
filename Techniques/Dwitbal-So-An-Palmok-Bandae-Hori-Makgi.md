@@ -1,5 +1,7 @@
 # Dwitbal So An Palmok Bandae Hori Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 안팔목 반대 허리 막기](../audio/Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.m4a)
+
 Le **Dwitbal So An Palmok Bandae Hori Makgi** (뒷발 서 안팔목 반대 허리 막기) est le **blocage inverse au niveau de la taille avec l'intérieur de l'avant-bras en posture du pied arrière** (*Rear foot stance inner forearm reverse waist block*) en TaeKwon-Do ITF.
 
 Cette technique défensive réactive combine l'esquive et l'ancrage arrière de la posture *Dwitbal Sogi* avec une déflexion circulaire au niveau de la ceinture/taille (*Hori*). Elle utilise le côté interne de l'avant-bras (*An Palmok*) du bras opposé à la jambe avant (*Bandae*) pour balayer une attaque moyenne/basse dirigée vers le flanc ou l'abdomen.

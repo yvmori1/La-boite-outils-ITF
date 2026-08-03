@@ -1,5 +1,7 @@
 # Blocage avec le dos du poignet (Sonmok Dung Makgi)
 
+> 🔊 **Prononciation :** [손목등 막기](../audio/makgi/sonmok-dung-makgi.m4a)
+
 Le **Sonmok Dung Makgi** (손목등 막기 — fréquemment retranscrit ou prononcé *Sonmok Dong Makgi*) est le **blocage avec le dos du poignet** (*Back wrist block*) en TaeKwon-Do ITF.
 
 *(Note : « Dong » ou « Deung » est la transcription phonétique courante du mot coréen **Dung / 등** qui signifie « dos » ou « revers »).*

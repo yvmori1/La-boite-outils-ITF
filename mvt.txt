@@ -38,13 +38,17 @@ SAJU MAKGI  (8 mouvements)
    7. Gunnun So Sonkal Najunde Makgi
    8. Gunnun So An Palmok Kaunde Yop Makgi
 
-SAJU TULGI  (4 mouvements)
-10e Gup — exécuté à droite et à gauche : 8 mouvements au total
+SAJU TULGI  (8 mouvements)
+10e Gup
 ------------------------------------------------------------------------------
-   1. Niunja So Yop Palkup Tulgi  [déduit]
-   2. Niunja So Yop Palkup Tulgi  [déduit]
-   3. Niunja So Yop Palkup Tulgi  [déduit]
-   4. Niunja So Yop Palkup Tulgi  [déduit]
+   1. Orun Niunja So Orun Yop Palkup Tulgi
+   2. Orun Niunja So Orun Yop Palkup Tulgi
+   3. Orun Niunja So Orun Yop Palkup Tulgi
+   4. Orun Niunja So Orun Yop Palkup Tulgi
+   5. Wen Niunja So Wen Yop Palkup Tulgi
+   6. Wen Niunja So Wen Yop Palkup Tulgi
+   7. Wen Niunja So Wen Yop Palkup Tulgi
+   8. Wen Niunja So Wen Yop Palkup Tulgi
 
 ==============================================================================
   FORMES DES GRADES GUP
@@ -1168,7 +1172,7 @@ TONG-IL  (56 mouvements)
   INDEX ALPHABÉTIQUE DES TECHNIQUES
 ==============================================================================
 
-352 techniques distinctes, avec leur nombre d'occurrences dans
+354 techniques distinctes, avec leur nombre d'occurrences dans
 l'ensemble des formes.
 
      2 ×  An Palmok Kaunde Yop Makgi
@@ -1478,6 +1482,7 @@ l'ensemble des formes.
      1 ×  Orun Kyocha So Kyocha Joomuk Noollo Makgi
      1 ×  Orun Kyocha So Najunde Bandae Jirugi
      1 ×  Orun Kyocha So Sonkal Kaunde Yop Taerigi
+     4 ×  Orun Niunja So Orun Yop Palkup Tulgi
      3 ×  Orun Niunja So Palmok Kaunde Daebi Makgi
      1 ×  Orun Niunja So Sonkal Kaunde Daebi Makgi
      1 ×  Orun Nopunde Bandae Dollyo Gorochagi
@@ -1518,6 +1523,7 @@ l'ensemble des formes.
      1 ×  Wen Kyocha So Sonkal Kaunde Yop Taerigi
      3 ×  Wen Niunja So Palmok Kaunde Daebi Makgi
      4 ×  Wen Niunja So Sonkal Kaunde Daebi Makgi
+     4 ×  Wen Niunja So Wen Yop Palkup Tulgi
      1 ×  Wen Nopunde Bandae Dollyo Gorochagi
      1 ×  Wen Nopunde Yopcha Jirugi
      3 ×  Yop Bal Badak Suroh Chagi
@@ -1526,5 +1532,5 @@ l'ensemble des formes.
 
 
 ==============================================================================
-  TOTAL : 1028 mouvements sur 28 fiches
+  TOTAL : 1032 mouvements sur 28 fiches
 ==============================================================================

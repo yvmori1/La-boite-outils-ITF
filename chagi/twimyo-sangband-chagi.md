@@ -1,5 +1,7 @@
 # Coup de pied sauté simultané (Twimyo Sangband Chagi)
 
+> 🔊 **Prononciation :** [뛰며 쌍방차기](../audio/chagi/twimyo-sangband-chagi.m4a)
+
 Le **Twimyo Sangband Chagi** (뛰며 쌍방차기) — souvent retranscrit *Twimyo Sangbang Chagi* ou apparenté au *Twimyo Sangbal Chagi* dans les textes ITF — est le **coup de pied sauté simultané des deux pieds dans deux directions différentes** (ou *Flying twin direction kick* / *Flying two-way kick*).
 
 Sa décomposition linguistique est la suivante :

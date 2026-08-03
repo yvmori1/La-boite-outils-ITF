@@ -1,5 +1,7 @@
 # Coup de coude vers lebas (Naeryo Palkup Tulgi)
 
+> 🔊 **Prononciation :** [내려 팔굽 찌르기](../audio/jirugi/naeryo-palkup-tulgi.m4a)
+
 Le **Naeryo Palkup Tulgi** (내려 팔굽 찌르기) est la **pique descendante du coude** (*Downward elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à très courte distance utilise la gravité et l'abaissement lourd du centre de gravité pour enfoncer verticalement la pointe du coude sur une cible située plus bas que les épaules.

@@ -1,5 +1,7 @@
 # Double coup de poing direct frontal sauté (Twimyo Ijung Ap Jirugi)
 
+> 🔊 **Prononciation :** [뛰며 이중 앞 지르기](../audio/jirugi/twimyo-ijung-ap-jirugi.m4a)
+
 Le **Twimyo Ijung Ap Jirugi** (뛰며 이중 앞 지르기 — retranscrit **Twimyo I-Joong Ap Jirugi**) est le **double coup de poing direct frontal sauté** (*Flying double front punch*) en TaeKwon-Do ITF.
 
 Cette technique acrobatique consiste à s'élever dans les airs pour délivrer deux coups de poing directs consécutifs vers l'avant (généralement bras gauche puis bras droit, ou inversement) avant de retomber au sol.

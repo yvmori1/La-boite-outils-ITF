@@ -1,5 +1,7 @@
 # Wen Niunja So Sonkal Kaunde Daebi Makgi
 
+> 🔊 **Prononciation :** [왼 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)
+
 Le **Wen Niunja So Sonkal Kaunde Daebi Makgi** (왼 ㄴ자 서 손칼 가운데 대비 막기) est le **blocage de garde moyen au tranchant des mains en posture en L gauche** (*Left L-stance knife-hand middle guarding block*) en TaeKwon-Do ITF.
 
 Cette technique est l'une des gardes défensives les plus fondamentales, élégantes et efficaces du TaeKwon-Do. Elle combine la protection offerte par les deux tranchants de mains (*Sonkal Daebi Makgi*) avec la mobilité et l'esquive de distance de la posture en L (*Niunja Sogi*).

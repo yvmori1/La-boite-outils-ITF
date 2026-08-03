@@ -1,5 +1,7 @@
 # Blocage en U (Mongdung-i Makgi)
 
+> 🔊 **Prononciation :** [몽둥이 막기](../audio/makgi/mongdung-i-makgi.m4a)
+
 Le **Mongdung-i Makgi** (몽둥이 막기 — retranscrit **Mongdug-I Makgi** ou *Mongdugi Makgi*) est le **blocage / défense contre une attaque au bâton** (*Defense against a stick/club*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

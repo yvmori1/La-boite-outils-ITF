@@ -1,5 +1,7 @@
 # Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi
 
+> 🔊 **Prononciation :** [오른 교차 서 등 주먹 바로 내려 때리기](../audio/Techniques/Orun-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.m4a)
+
 Le **Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi** (오른 교차 서 등 주먹 바로 내려 때리기) est une technique d'attaque descendante, leste et lourde du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe descendante directe du revers du poing en position croisée droite**.

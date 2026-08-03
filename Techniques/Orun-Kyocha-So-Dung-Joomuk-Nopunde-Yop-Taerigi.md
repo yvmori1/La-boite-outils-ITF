@@ -1,5 +1,7 @@
 # Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi
 
+> 🔊 **Prononciation :** [오른 교차 서 등 주먹 높은데 옆 때리기](../audio/Techniques/Orun-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+
 Le **Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi** (오른 교차 서 등 주먹 높은데 옆 때리기) est une technique d'attaque latérale rapide, explosive et fustigeante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe latérale du revers du poing au niveau haut en position croisée droite**.

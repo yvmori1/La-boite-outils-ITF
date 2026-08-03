@@ -1,5 +1,7 @@
 # GE-BAEK
 
+> 🔊 **Prononciation :** [계백](../audio/tul/ge-baek.m4a)
+
 > **Grade :** 1er Dan
 
 * **Nombre de mouvements :**  44
@@ -78,7 +80,7 @@
 25. Exécuter un blocage haut vers AC avec un double arc de main tout en regardant à travers il en maintenant une position de marche droite vers C.
    *([Gunnun so nopunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
 26. Exécuter un coup de poing renversé vers C avec le poing gauche tout en maintenant une position de marche droite vers C.
-   *(Gunnun so bandae dwijibo jirugi)*
+   *([Gunnun so bandae dwijibo jirugi](../Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.md))*
 27. Déplacer le pied droit sur ligne CD, pour former une position de marche gauche vers D tout en en frappant la paume gauche avec le droit avant coude.
    *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 28. Sauter vers D, pour former une position en X droite vers BD tout en exécutant un blocage haut vers D avec le droit double avant-bras.

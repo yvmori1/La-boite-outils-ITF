@@ -1,5 +1,7 @@
 # Niunja So Yop Palkup Tulgi
 
+> 🔊 **Prononciation :** [ㄴ자 서 옆 팔굽 찌르기](../audio/Techniques/Niunja-So-Yop-Palkup-Tulgi.m4a)
+
 Le **Niunja So Yop Palkup Tulgi** (ㄴ자 서 옆 팔굽 찌르기) est le **coup de coude perçant latéral en posture en L** (*L-stance side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique de frappe dévastatrice à très courte distance utilise la pointe osseuse du coude (**Palkup**) dans un mouvement de poussée perçante vers le côté (**Yop**). Elle combine la stabilité et le profil réduit de la posture en L (*Niunja Sogi*) avec la puissance compacte d'une frappe en piston renforcée par la hanche et le bras de soutien.

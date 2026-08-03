@@ -1,5 +1,7 @@
 # Double Blocage de la Paume des Mains (Doo Sonbadak Makgi)
 
+> 🔊 **Prononciation :** [두 손바닥 막기](../audio/makgi/sang-sonbadak-makgi.m4a)
+
 Le **Doo Sonbadak Makgi** (두 손바닥 막기 — souvent retranscrit phonétiquement *Doo Sonbadat Makgi*) est le **double blocage de la paume des mains** (*Double palm-hand block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

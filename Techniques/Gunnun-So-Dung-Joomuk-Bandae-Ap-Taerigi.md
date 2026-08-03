@@ -1,5 +1,7 @@
 # Gunnun So Dung Joomuk Bandae Ap Taerigi
 
+> 🔊 **Prononciation :** [걷는 서 등 주먹 반대 앞 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.m4a)
+
 Le **Gunnun So Dung Joomuk Bandae Ap Taerigi** (걷는 서 등 주먹 반대 앞 때리기) est une technique d'attaque frontale, rapide et fustigeante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe frontale inversée du revers du poing en position en marche**.

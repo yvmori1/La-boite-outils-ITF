@@ -1,5 +1,7 @@
 # Dwitbal So Joongji Joomuk Nopunde Bandae Jirugi
 
+> 🔊 **Prononciation :** [뒷발 서 중지 주먹 높인데 반대 지르기](../audio/Techniques/Dwitbal-So-Joongji-Joomuk-Nopunde-Bandae-Jirugi.m4a)
+
 Le **Dwitbal So Joongji Joomuk Nopunde Bandae Jirugi** (뒷발 서 중지 주먹 높인데 반대 지르기) est le **coup de poing inverse haut avec la jointure du majeur en posture du pied arrière** (*Rear foot stance middle knuckle fist high reverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque ultra-précise et chirurgicale utilise la saillie osseuse de la jointure du majeur (*Joongji Joomuk*) pour porter une frappe pénétrante au niveau haut (*Nopunde* : visage, philtrum, points vitaux), tout en maintenant le corps en retrait sécurisé grâce à la posture du pied arrière (*Dwitbal Sogi*).

@@ -1,5 +1,7 @@
 # Niunja So Sonkal Nopunde Anuro Taerigi
 
+> 🔊 **Prononciation :** [ㄴ자 서 손칼 높인데 안으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.m4a)
+
 Le **Niunja So Sonkal Nopunde Anuro Taerigi** (ㄴ자 서 손칼 높인데 안으로 때리기) est le **coup cinglant haut au tranchant de la main vers l'intérieur en posture en L** (*L-stance knife-hand high inward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque circulaire et tranchante utilise le bord extérieur de la main ouverte (**Sonkal**) pour frapper d'un mouvement balayé de l'extérieur vers l'intérieur (**Anuro**). Elle cible des zones névralgiques du visage ou du cou (tempe, mâchoire, veine carotide) au niveau haut (**Nopunde**), tout en conservant la stabilité et le profil réduit offerts par la posture en L (*Niunja Sogi*).

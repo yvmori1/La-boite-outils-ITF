@@ -1,5 +1,7 @@
 # Gunnun So Doo Palmok Nopunde Makgi
 
+> 🔊 **Prononciation :** [걷는 서 두 팔목 높인데 막기](../audio/Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.m4a)
+
 Le **Gunnun So Doo Palmok Nopunde Makgi** (걷는 서 두 팔목 높인데 막기) est le **blocage haut au double avant-bras en posture de marche** (*Walking stance double forearm high block*) en TaeKwon-Do ITF.
 
 Cette technique défensive puissante utilise le bras secondaire comme structure d'étai pour consolider le bras de blocage principal. Elle est conçue pour intercepter et stopper des attaques directes ou circulaires très lourdes (coups de poing puissants, coups de pied circulaires au visage) arrivant au niveau haut (*Nopunde*).

@@ -1,5 +1,7 @@
 # Balkal Dung Anuro Sewo Chagi
 
+> 🔊 **Prononciation :** [발칼등 안으로 세워 차기](../audio/Techniques/Balkal-Dung-Anuro-Sewo-Chagi.m4a)
+
 Le **Balkal Dung Anuro Sewo Chagi** (발칼등 안으로 세워 차기) est le **coup de pied vertical vers l'intérieur avec le contre-tranchant du pied** (*Inward vertical kick with the reverse footsword*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque circulaire et tranchante projette la jambe vers l'extérieur avant de la faire balayer puissamment vers l'intérieur (*Anuro*) le long d'un arc vertical. Le pied est maintenu dressé à la verticale (*Sewo*) pour impacter la cible avec la bordure interne du pied (*Balkal Dung*).

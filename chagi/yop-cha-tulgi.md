@@ -1,5 +1,7 @@
 # Coup de pied latéral pénétrant (Yop Cha Tulgi)
 
+> 🔊 **Prononciation :** [옆차틀기](../audio/chagi/yop-cha-tulgi.m4a)
+
 Le **Yop Cha Tulgi** (옆차틀기 / 옆차찌르기) est le **coup de pied latéral pénétrant / pique** (*Side thrusting kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

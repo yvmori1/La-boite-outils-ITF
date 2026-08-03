@@ -1,5 +1,7 @@
 # Annun So Sonkal Dung San Makgi
 
+> 🔊 **Prononciation :** [앉은 서 손칼등 산 막기](../audio/Techniques/Annun-So-Sonkal-Dung-San-Makgi.m4a)
+
 Le **Annun So Sonkal Dung San Makgi** (앉은 서 손칼등 산 막기) est le **blocage en montagne (ou en "W") avec le tranchant interne des mains en posture du cavalier** (*Sitting stance reverse knife-hand mountain / W-shape block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale impressionnante tire son nom du mot **San (산)**, qui signifie **"montagne"** en coréen. Les deux bras s'élèvent simultanément de chaque côté du corps pour former la silhouette du caractère coréen/chinois **山** (ou de la lettre **W**), protégeant la tête et le haut du buste contre des attaques venant des flancs ou de face.

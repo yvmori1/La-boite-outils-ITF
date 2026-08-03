@@ -1,5 +1,7 @@
 # Orun Gojung So Digutja Makgi
 
+> 🔊 **Prononciation :** [오른 고정 서 ㄷ자 막기](../audio/Techniques/Orun-Gojung-So-Digutja-Makgi.m4a)
+
 Le **Orun Gojung So Digutja Makgi** (오른 고정 서 ㄷ자 막기) est une technique défensive spécialisée et très puissante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage en U (en forme de « ㄷ ») en position fixe droite**.

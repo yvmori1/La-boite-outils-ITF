@@ -1,5 +1,7 @@
 # Annun So Sonkal Dung Kaunde Hechyo Makgi
 
+> 🔊 **Prononciation :** [앉은 서 손칼등 가운데 헤쳐 막기](../audio/Techniques/Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.m4a)
+
 Le **Annun So Sonkal Dung Kaunde Hechyo Makgi** (앉은 서 손칼등 가운데 헤쳐 막기) est le **double blocage en écartant moyen avec le tranchant interne de la main en posture du cavalier** (*Sitting stance reverse knife-hand middle wedging block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise simultanément les deux tranchants internes des mains (*Sonkal Dung*) pour écarter de l'intérieur vers l'extérieur (*Hechyo*) deux attaques arrivant de face au niveau moyen (*Kaunde*), ou pour briser une saisie à deux mains.

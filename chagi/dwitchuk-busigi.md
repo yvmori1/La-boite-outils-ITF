@@ -1,5 +1,7 @@
 # Coup de pied arrière fouetté
 
+> 🔊 **Prononciation :** [뒤축 부시기](../audio/chagi/dwitchuk-busigi.m4a)
+
 Le **Dwitchuk Busigi** (뒤축 부시기) est le **coup de pied arrière fouetté** en TaeKwon-Do ITF.
 
 Pour bien le maîtriser, il faut comprendre la différence fondamentale entre les deux catégories de frappes en ITF :

@@ -1,5 +1,7 @@
 # Annun So Orun Bakat Palmok Nopunde Ap Makgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 바깥팔목 높운데 앞막기](../audio/Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Ap-Makgi.m4a)
+
 Le **Annun So Orun Bakat Palmok Nopunde Ap Makgi** (앉은 서 오른 바깥팔목 높운데 앞막기) est le **blocage frontal haut droit avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance right outer forearm high front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive vise à intercepter ou dévier frontalement une attaque haute (visage/tête) en utilisant la partie osseuse extérieure de l'avant-bras droit (*Bakat Palmok*).

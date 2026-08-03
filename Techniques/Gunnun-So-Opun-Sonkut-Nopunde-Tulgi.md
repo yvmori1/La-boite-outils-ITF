@@ -1,5 +1,7 @@
 # Gunnun So Opun Sonkut Nopunde Tulgi
 
+> 🔊 **Prononciation :** [걷는 서 엎운 손끝 높인데 찌르기](../audio/Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.m4a)
+
 Le **Gunnun So Opun Sonkut Nopunde Tulgi** (걷는 서 엎운 손끝 높인데 찌르기) est la **pique du bout des doigts à plat au niveau haut en posture de marche** (*Walking stance flat fingertip high thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque transperçante et d'une extrême précision utilise l'extrémité des doigts tendus (**Sonkut**) avec la paume orientée vers le bas (**Opun**). Elle est conçue pour cibler des zones molles et très vulnérables du visage ou du cou (la gorge, la pomme d'Adam, les yeux) au niveau haut (**Nopunde**).

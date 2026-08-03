@@ -1,5 +1,7 @@
 # Coup de pied vers l'intérieur (Anuro Chagi)
 
+> 🔊 **Prononciation :** [안으로 차기](../audio/chagi/anuro-chagi.m4a)
+
 Le **Anuro Chagi** (안으로 차기) est le **coup de pied vers l'intérieur** (*Inward kick* ou *Inward crescent kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

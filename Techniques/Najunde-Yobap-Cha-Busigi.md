@@ -1,5 +1,7 @@
 # Najunde Yobap Cha Busigi
 
+> 🔊 **Prononciation :** [낮인데 옆앞 차 부수기](../audio/Techniques/Najunde-Yobap-Cha-Busigi.m4a)
+
 Le **Najunde Yobap Cha Busigi** (낮인데 옆앞 차 부수기) est le **coup de pied fouetté bas de biais (côté-avant)** (*Low side-front snap kick*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et vicieuse combine la vitesse de détente d'un coup de pied fouetté (*Busigi*) avec un angle d'attaque diagonal à 45° (*Yobap*). Portée au niveau bas (*Najunde*), elle vise à briser la structure d'appui d'un agresseur ou à neutraliser ses centres nerveux bas (genoux, tibias, aine) avant même qu'il ne puisse engager sa garde.

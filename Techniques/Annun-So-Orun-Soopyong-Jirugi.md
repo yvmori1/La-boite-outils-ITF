@@ -1,5 +1,7 @@
 # Annun So Orun Soopyong Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 오른 수평 지르기](../audio/Techniques/Annun-So-Orun-Soopyong-Jirugi.m4a)
+
 Le **Annun So Orun Soopyong Jirugi** (앉은 서 오른 수평 지르기) est le **coup de poing horizontal droit en posture du cavalier** (*Sitting stance right horizontal punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque directe propulse le poing droit (*Orun Joomuk*) sur un plan strictement horizontal par rapport au sol (*Soopyong*), visant le buste, les côtes ou le visage de l'adversaire tout en s'appuyant sur l'ancrage puissant de la posture du cavalier (*Annun Sogi*).

@@ -1,5 +1,7 @@
 # Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)
 
+> 🔊 **Prononciation :** [등주먹 옆때리기](../audio/jirugi/dung-joomuk-yop-taerigi.m4a)
+
 Le **Dung Joomuk Yop Taerigi** (등주먹 옆때리기) est la **frappe latérale du revers du poing** (*Side backfist strike*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

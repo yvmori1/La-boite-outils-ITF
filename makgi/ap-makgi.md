@@ -1,5 +1,7 @@
 # Blocage frontal (Ap Makgi)
 
+> 🔊 **Prononciation :** [앞 막기](../audio/makgi/ap-makgi.m4a)
+
 Le **Ap Makgi** (앞 막기) est le **blocage frontal** (*Front block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

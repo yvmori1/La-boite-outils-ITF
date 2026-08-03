@@ -1,5 +1,7 @@
 # Twigi
 
+> 🔊 **Prononciation :** [뛰기](../audio/Techniques/Twigi.m4a)
+
 Le terme **Twigi** (뛰기) désigne le **saut**, le **bond** ou l'**action de sauter/bondir** (*Jumping / Leaping*) en TaeKwon-Do ITF.
 
 Alors que les termes *Twimyo* (뛰며) et *Twio* (뛰어) sont des formes verbales associées à l'exécution d'un coup en suspension (ex: *Twimyo Yopcha Jirugi* = coup de pied latéral *en sautant*), **Twigi** est le nom générique qui englobe tous les déplacements sautés, la mécanique des impulsions aériennes, et le travail d'esquive ou de franchissement par le saut.

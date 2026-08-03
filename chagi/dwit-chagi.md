@@ -1,5 +1,7 @@
 # Coup de pied arrière
 
+> 🔊 **Prononciation :** [뒤축](../audio/chagi/dwit-chagi.m4a)
+
 Le coup de pied arrière est couramment appelé **Dwit Chagi** (ou **Dwit Cha Jirugi**, le coup de pied arrière perforant) en TaeKwon-Do ITF. Le terme **Dwitchuk** (뒤축) désigne en réalité l'arme naturelle employée : **le dessous du talon**.
 
 C'est l'un des coups de pied les plus puissants du répertoire martial, fonctionnant comme un véritable piston. La règle d'or à retenir : **le Dwit Chagi n'est pas un coup de pied circulaire/tournant, mais une poussée rectiligne explosive lancée après une rotation du corps.**

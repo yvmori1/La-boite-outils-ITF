@@ -1,5 +1,7 @@
 # Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 엎은손끝 높운데 바깥으로 긋기](../audio/Techniques/Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.m4a)
+
 Le **Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi** (앉은 서 오른 엎은손끝 높운데 바깥으로 긋기) est la **frappe en balayage/griffure haute vers l'extérieur au bout des doigts à plat droit en posture du cavalier** (*Sitting stance right flat fingertip high outward slashing strike*) en TaeKwon-Do ITF.
 
 Contrairement à une pique direct en piston (*Tulgi*), la technique **Ghutgi** (긋기) est une **action incisive de découpe ou de balayage transversal** (*Slashing / Cutting*). Elle utilise la pointe des doigts pour cingler ou griffer une zone très sensible du visage (comme les yeux) dans un mouvement fluide d'intérieur vers l'extérieur.

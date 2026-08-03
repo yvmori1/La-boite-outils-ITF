@@ -1,5 +1,7 @@
 # Sasun So Sang Sonbadak Chookyo Makgi
 
+> 🔊 **Prononciation :** [사선 서 쌍 손바닥 추교 막기](../audio/Techniques/Sasun-So-Sang-Sonbadak-Chookyo-Makgi.m4a)
+
 Le **Sasun So Sang Sonbadak Chookyo Makgi** (사선 서 쌍 손바닥 추교 막기) est une technique défensive haute du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage montant double avec les paumes de mains en position diagonale**.

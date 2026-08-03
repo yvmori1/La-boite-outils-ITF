@@ -1,5 +1,7 @@
 # Double coup de coude horizontal perçant (Sang Soopyeong Palkup Tulgi)
 
+> 🔊 **Prononciation :** [쌍 수평 팔굽 찌르기](../audio/jirugi/sang-scopyong-palkup-tulgi.m4a)
+
 Le **Sang Soopyeong Palkup Tulgi** (쌍 수평 팔굽 찌르기 — souvent orthographié ou retranscrit **Sang Sopyong Palkup Tulgi**) est le **double coup de coude horizontal perçant** (*Twin horizontal elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapprochée simultanée utilise la rigidité des deux coudes projetés sur un plan strictement horizontal pour perforer la garde adverse ou frapper deux cibles de profil/face à très courte distance.

@@ -1,5 +1,7 @@
 # Coup de genou fouetté avant (Moorup Apcha Busigi)
 
+> 🔊 **Prononciation :** [무릎 앞차부시기](../audio/chagi/moorup-apcha-busigi.m4a)
+
 Le **Moorup Apcha Busigi** (무릎 앞차부시기) est le **coup de genou fouetté avant** (ou *Knee low front snap kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

@@ -1,5 +1,7 @@
 # Frappe diagonale (Sasun Taerigi)
 
+> 🔊 **Prononciation :** [사선 때리기](../audio/jirugi/sasun-taerigi.m4a)
+
 Le **Sasun Taerigi** (사선 때리기 — couramment retranscrit **Saseon Taerigi**) est la **frappe en diagonale / oblique** (*Slanted or Diagonal strike*) en TaeKwon-Do ITF.
 
 Contrairement aux frappes strictement horizontales (*Yop* / *Bakuro* / *Anuro*) ou verticales (*Neryo*), la frappe *Sasun* suit un plan d'attaque incliné (généralement à environ 45°), combinant un mouvement descendant ou ascendant avec une ouverture/fermeture latérale.

@@ -1,5 +1,7 @@
 # Blocage avec l'avant-bras intérieur (An Palmok Makgi)
 
+> 🔊 **Prononciation :** [안팔목 막기](../audio/makgi/an-palmok-makgi.m4a)
+
 Le **An Palmok Makgi** (안팔목 막기) est le **blocage avec l'avant-bras intérieur** (*Inner forearm block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

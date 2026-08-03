@@ -1,5 +1,7 @@
 # Coup de pied vers l'extérieur (Bakuro Chagi)
 
+> 🔊 **Prononciation :** [밖으로 차기](../audio/chagi/bakuro-chagi.m4a)
+
 Le **Bakuro Chagi** (밖으로 차기) est le **coup de pied vers l'extérieur** (*Outward kick* ou *Outward crescent kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

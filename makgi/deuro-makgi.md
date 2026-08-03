@@ -1,5 +1,7 @@
 # Blocage "pelleté" (Rising Block)
 
+> 🔊 **Prononciation :** [들어 막기](../audio/makgi/deuro-makgi.m4a)
+
 Le **Deuro Makgi** (들어 막기 — retranscrit **Duro Makgi** ou *Deul-eo Makgi*) est le **blocage en levant / blocage ascendant d'interception** (*Lifting block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

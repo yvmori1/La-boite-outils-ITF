@@ -1,5 +1,7 @@
 # Coup de pied latéral sauté par-dessus obstacle (Twio Nomo Chagi)
 
+> 🔊 **Prononciation :** [뛰어 넘어 차기](../audio/chagi/twio-nomo-chagi.m4a)
+
 Le **Twio Nomo Chagi** (뛰어 넘어 차기 — parfois retranscrit *Twio normo chagi* ou *Twimyo nomo chagi*) est le **coup de pied sauté par-dessus un obstacle** (ou *Flying kick over an obstacle* / *Overhead kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

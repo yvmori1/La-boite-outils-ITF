@@ -1,5 +1,7 @@
 # Dwitbal So Sonbadak Ollyo Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 손바닥 올려 막기](../audio/Techniques/Dwitbal-So-Sonbadak-Ollyo-Makgi.m4a)
+
 Le **Dwitbal So Sonbadak Ollyo Makgi** (뒷발 서 손바닥 올려 막기) est le **blocage montant direct avec la paume de la main en posture du pied arrière** (*Rear foot stance palm upward obverse block*) en TaeKwon-Do ITF.
 
 Contrairement à la version *Bandae* (inverse), l'absence de spécification indique que ce blocage s'exécute en version **Baro** : la main qui effectue le blocage est du **même côté que la jambe située à l'avant**.

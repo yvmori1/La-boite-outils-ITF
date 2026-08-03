@@ -1,5 +1,7 @@
 # SAM-IL
 
+> 🔊 **Prononciation :** [삼일](../audio/tul/sam-il.m4a)
+
 > **Grade :** 3e Dan
 
 * **Nombre de mouvements :**  33
@@ -28,7 +30,7 @@
 6. Déplacer le pied droit sur ligne CD pour former une position assise vers B tout en exécutant un blocage en écartement moyen avec un revers de la main.
    *([Annun so sonkal dung kaunde hechyo makgi](../Techniques/Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.md))*
 7. Exécuter une pique basse vers C avec un droit renversé bout des doigts tout en formant une position de marche gauche vers C, en pivotant avec le pied droit.
-   *(Gunnun so dwijibun sonkut bandae najunde tulgi)*
+   *([Gunnun so dwijibun sonkut bandae najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
 8. Exécuter un blocage extérieur haut vers D avec l'avant-bras extérieur droit et un blocage bas vers C avec l'avant-bras gauche tout en formant une position en L droite vers C en tirant le pied gauche.
    *([Niunja so bakat palmok nopunde baro bakuro makgi](../makgi/bakuro-makgi.md) wa [palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
 9. Déplacer le pied droit vers C pour former une position assise vers A tout en exécutant un blocage en écartement moyen avec un revers de la main.

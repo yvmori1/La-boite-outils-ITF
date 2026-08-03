@@ -1,5 +1,7 @@
 # DO-SAN
 
+> 🔊 **Prononciation :** [도산](../audio/tul/do-san.m4a)
+
 > **Grade :** 7e Gup — Ceinture jaune barre verte
 
 * **Nombre de mouvements :**  24

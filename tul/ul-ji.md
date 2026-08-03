@@ -1,5 +1,7 @@
 # UL-JI
 
+> 🔊 **Prononciation :** [을지](../audio/tul/ul-ji.m4a)
+
 > **Grade :** 4e Dan
 
 * **Nombre de mouvements :**  42
@@ -46,7 +48,7 @@
 12. Exécuter un coup de pied latéral perçant moyen vers A avec le pied droit en gardant le position de la mains comme s'ils étaient en 11.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 13. Abaisser le pied droit vers A, puis croiser le pied gauche par-dessus le pied droit, pour former une position en X droite vers D tout en exécutant une pique horizontale avec un jumelé coude.
-   *(Kyocha so sang palkup soopyong tulgi)*
+   *([Kyocha so sang palkup soopyong tulgi](../Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md))*
 14. Déplacer le pied droit vers A pour former la position assise vers D tout en exécutant un coup de poing horizontal droit vers A.
    *([Annun so orun soopyong jirugi](../Techniques/Annun-So-Orun-Soopyong-Jirugi.md))*
 15. Exécuter une frappe frontale haute vers D avec droit tranchant de la main, en amenant le gauche arrière main en avant du avant tout en se tenant vers le haut vers D.
@@ -58,7 +60,7 @@
 18. Atterrir vers B pour former une position de marche droite vers B tout en exécutant un blocage moyen vers B avec le droit double avant-bras.
    *([Gunnun so doo palmok kaunde makgi](../makgi/kaunde-makgi.md))*
 19. Ramener le pied gauche vers le pied droit pour former un position de préparation fermée B vers D.
-   *(Moa junbi sogi B)*
+   *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
 20. Sauter vers D pour former une position en X droite vers BD tout en exécutant une frappe latérale haute vers B avec le revers du poing droit en amenant la pulpe des doigts gauche vers le droit côté poing.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so dung joomuk nopunde baro yop taerigi)*
 21. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant un blocage montant avec l'avant-bras gauche.

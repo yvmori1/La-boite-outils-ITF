@@ -1,5 +1,7 @@
 # Blocage montant de la paume (Sonbadak Makgi)
 
+> 🔊 **Prononciation :** [올려 손바닥 막기](../audio/makgi/sonbadak-makgi.m4a)
+
 Le **Ollyo Sonbadak Makgi** (올려 손바닥 막기 — avec la correction de la coquille *sonbakak* en **Sonbadak**) est le **blocage montant de la paume de la main** (*Upward palm block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

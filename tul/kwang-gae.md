@@ -1,5 +1,7 @@
 # KWANG-GAE
 
+> 🔊 **Prononciation :** [광개](../audio/tul/kwang-gae.m4a)
+
 > **Grade :** 1er Dan
 
 * **Nombre de mouvements :**  39
@@ -16,14 +18,14 @@
 ### Posture de départ : position parallèle avec les mains vers le ciel
 
 1. Ramener le pied gauche vers le pied droit, pour former un position de préparation fermée B vers D, en amenant les deux mains en un circulaire mouvement.
-   *(Moa junbi sogi B)*
+   *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
 2. Déplacer le pied gauche vers D, pour former une position de marche gauche vers D tout en exécutant un coup de poing renversé vers D avec le poing droit.
-   *(Gunnun so bandae dwijibo jirugi)*
+   *([Gunnun so bandae dwijibo jirugi](../Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.md))*
 
    > *Exécuter en mouvement lent.*
 
 3. Déplacer le pied droit vers D, pour former une position de marche droite vers D tout en exécutant un coup de poing renversé vers D avec le poing gauche.
-   *(Gunnun so bandae dwijibo jirugi)*
+   *([Gunnun so bandae dwijibo jirugi](../Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.md))*
 
    > *Exécuter en mouvement lent.*
 

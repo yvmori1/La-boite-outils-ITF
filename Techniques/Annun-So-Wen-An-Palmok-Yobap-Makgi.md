@@ -1,5 +1,7 @@
 # Annun So Wen An Palmok Yobap Makgi
 
+> 🔊 **Prononciation :** [앉은 서 왼 안팔목 옆앞 막기](../audio/Techniques/Annun-So-Wen-An-Palmok-Yobap-Makgi.m4a)
+
 Le **Annun So Wen An Palmok Yobap Makgi** (앉은 서 왼 안팔목 옆앞 막기) est le **blocage latéral-frontal gauche avec le tranchant interne de l'avant-bras en posture du cavalier** (*Sitting stance left inner forearm side front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive intercepte ou dévie une attaque arrivant sous un angle oblique (à 45°, entre la face et le côté) en opposant le tranchant interne de l'avant-bras gauche (*Wen An Palmok*).

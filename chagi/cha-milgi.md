@@ -1,5 +1,7 @@
 # Coup de pied poussant (Cha Milgi)
 
+> 🔊 **Prononciation :** [차 밀기](../audio/chagi/cha-milgi.m4a)
+
 Le **Cha Milgi** (차 밀기) est le **coup de pied poussant** (*Pushing kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

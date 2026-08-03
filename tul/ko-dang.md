@@ -1,5 +1,7 @@
 # KO-DANG
 
+> 🔊 **Prononciation :** [고당](../audio/tul/ko-dang.m4a)
+
 > **Grade :** 2e Dan — forme alternative à Juche
 
 * **Nombre de mouvements :**  39

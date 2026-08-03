@@ -1,5 +1,7 @@
 # Coup de pied montant (Apcha Olligi)
 
+> 🔊 **Prononciation :** [앞차 올리기](../audio/chagi/apcha-olligi.m4a)
+
 Le **Apcha Olligi** (앞차 올리기) est le **coup de pied montant frontal** (ou *Front rising kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

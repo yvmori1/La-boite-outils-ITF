@@ -1,5 +1,7 @@
 # Frappe du dos de la main ouverte (Sondung Taerigi)
 
+> 🔊 **Prononciation :** [손등 때리기](../audio/jirugi/sondung-taerigi.m4a)
+
 Le **Sondung Taerigi** (손등 때리기) est la **frappe du dos de la main (ouverte)** (*Back hand strike*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

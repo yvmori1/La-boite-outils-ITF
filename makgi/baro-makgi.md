@@ -1,5 +1,7 @@
 # Blocage direct (Baro Makgi)
 
+> 🔊 **Prononciation :** [바로 막기](../audio/makgi/baro-makgi.m4a)
+
 Le **Baro Makgi** (바로 막기) est le **blocage direct** ou **blocage obverse** (*Obverse block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

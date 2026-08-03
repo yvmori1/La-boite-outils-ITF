@@ -1,5 +1,7 @@
 # Guburyo Junbi Sogi B
 
+> 🔊 **Prononciation :** [구부려 준비 서기](../audio/Techniques/Guburyo-Junbi-Sogi-B.m4a)
+
 Le **Guburyo Junbi Sogi B** (구부려 준비 서기 B) est la **posture préparatoire fléchie sur une jambe — Variante B** (*Bending ready stance B*) en TaeKwon-Do ITF.
 
 Cette posture d'attente unilatérale place 100% de la masse corporelle sur une seule jambe fortement fléchie, tandis que le pied libre est armé plus bas que dans la variante A, précisément au niveau de la **cheville / du bas du tibia** de la jambe de terre. Elle sert de rampe de lancement basse et bascule d'attaque pour déclencher des coups de pied puissants (notamment des coups de pied latéraux perçants *Yop Cha Jirugi* ou des coups de pied retournés) tout en conservant une garde hermétique.

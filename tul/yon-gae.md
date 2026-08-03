@@ -1,5 +1,7 @@
 # YONG-GAE
 
+> 🔊 **Prononciation :** [연개](../audio/tul/yon-gae.m4a)
+
 > **Grade :** 4e Dan
 
 * **Nombre de mouvements :**  49
@@ -74,7 +76,7 @@
 23. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage en W avec le revers de la main.
    *([Annun so sonkal dung san makgi](../Techniques/Annun-So-Sonkal-Dung-San-Makgi.md))*
 24. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant une pique horizontale avec un jumelé coude.
-   *(Kyocha so sang palkup soopyong tulgi)*
+   *([Kyocha so sang palkup soopyong tulgi](../Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md))*
 25. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec un jumelé droit avant-bras.
    *([Annun so sang sun palmok momchau makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md))*
 26. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant un coup de poing montant avec le poing droit, en tirant le gauche côté poing en avant de la épaule droite.
@@ -88,7 +90,7 @@
 30. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage en W avec le revers de la main.
    *([Annun so sonkal dung san makgi](../Techniques/Annun-So-Sonkal-Dung-San-Makgi.md))*
 31. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers D tout en exécutant une pique horizontale avec un jumelé coude.
-   *(Kyocha so sang palkup soopyong tulgi)*
+   *([Kyocha so sang palkup soopyong tulgi](../Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md))*
 32. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec un jumelé droit avant-bras.
    *([Annun so sang sun palmok momchau makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md))*
 33. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers D tout en exécutant un coup de poing montant avec le poing gauche, en tirant le droit côté poing en avant de la épaule gauche.

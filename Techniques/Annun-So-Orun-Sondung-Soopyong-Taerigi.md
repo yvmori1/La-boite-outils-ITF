@@ -1,5 +1,7 @@
 # Annun So Orun Sondung Soopyong Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 오른 손등 수평 때리기](../audio/Techniques/Annun-So-Orun-Sondung-Soopyong-Taerigi.m4a)
+
 Le **Annun So Orun Sondung Soopyong Taerigi** (앉은 서 오른 손등 수평 때리기) est la **frappe horizontale cinglante avec le dos de la main droite en posture du cavalier** (*Sitting stance right back hand horizontal strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et fouettée utilise le dos de la main ouverte (*Sondung*) pour délivrer un coup percutant selon une trajectoire strictement parallèle au sol (*Soopyong*), visant généralement le cou, la tempe ou le visage de l'adversaire.

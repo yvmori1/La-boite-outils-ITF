@@ -1,5 +1,7 @@
 # HWA-RANG
 
+> 🔊 **Prononciation :** [화랑](../audio/tul/hwa-rang.m4a)
+
 > **Grade :** 2e Gup — Ceinture rouge
 
 * **Nombre de mouvements :**  29

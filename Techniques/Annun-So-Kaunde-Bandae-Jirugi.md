@@ -1,5 +1,7 @@
 # Annun So Kaunde Bandae Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 가운데 반대 지르기](../audio/Techniques/Annun-So-Kaunde-Bandae-Jirugi.m4a)
+
 Le **Annun So Kaunde Bandae Jirugi** (앉은 서 가운데 반대 지르기) est le **coup de poing direct moyen inversé en posture du cavalier** (*Sitting stance middle reverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fondamentale combine la stabilité latérale puissante de la posture du cavalier (*Annun Sogi*) à la force de rotation du buste d'un coup de poing inversé (*Bandae Jirugi*), visant le plexus solaire ou le buste de l'adversaire.

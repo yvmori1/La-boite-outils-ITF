@@ -1,5 +1,7 @@
 # Blocage bas (Najunde Makgi)
 
+> 🔊 **Prononciation :** [낮인데 막기](../audio/makgi/najunde-makgi.m4a)
+
 Le **Najunde Makgi** (낮인데 막기) est le **blocage au niveau bas** (*Low section block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

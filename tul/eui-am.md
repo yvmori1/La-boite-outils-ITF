@@ -1,5 +1,7 @@
 # EUI-AM
 
+> 🔊 **Prononciation :** [의암](../audio/tul/eui-am.m4a)
+
 > **Grade :** 2e Dan
 
 * **Nombre de mouvements :**  45

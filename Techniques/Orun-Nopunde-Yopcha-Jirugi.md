@@ -1,5 +1,7 @@
 # Orun Nopunde Yopcha Jirugi
 
+> 🔊 **Prononciation :** [오른 높은데 옆차 지르기](../audio/Techniques/Orun-Nopunde-Yopcha-Jirugi.m4a)
+
 Le **Orun Nopunde Yopcha Jirugi** (오른 높은데 옆차 지르기) est l'une des techniques d'attaque des membres inférieurs les plus emblématiques et puissantes du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied latéral perçant du pied droit au niveau haut**.

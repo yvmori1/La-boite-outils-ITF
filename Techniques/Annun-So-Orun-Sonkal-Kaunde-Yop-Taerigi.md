@@ -1,5 +1,7 @@
 # Annun So Orun Sonkal Kaunde Yop Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 오른 손칼 가운데 옆 때리기](../audio/Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.m4a)
+
 Le **Annun So Orun Sonkal Kaunde Yop Taerigi** (앉은 서 오른 손칼 가운데 옆 때리기) est la **frappe latérale moyenne au tranchant de la main droite en posture du cavalier** (*Sitting stance right knife-hand middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque tranchante et dévastatrice projette le bord extérieur de la main ouverte (*Sonkal*) vers le flanc droit (*Yop*) au niveau moyen (*Kaunde*), en combinant l'effet de fouet du coude et la puissance d'ancrage de la posture du cavalier (*Annun Sogi*).

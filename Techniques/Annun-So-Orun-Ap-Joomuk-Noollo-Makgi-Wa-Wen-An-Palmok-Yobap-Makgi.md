@@ -1,5 +1,7 @@
 # Annun So Orun Ap Joomuk Noollo Makgi Wa Wen An Palmok Yobap Makgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 앞주먹 눌러막기 와 왼 안팔목 옆앞막기](../audio/Techniques/Annun-So-Orun-Ap-Joomuk-Noollo-Makgi-Wa-Wen-An-Palmok-Yobap-Makgi.m4a)
+
 Le **Annun So Orun Ap Joomuk Noollo Makgi Wa Wen An Palmok Yobap Makgi** (앉은 서 오른 앞주먹 눌러막기 와 왼 안팔목 옆앞막기) est un **double blocage combiné simultané en posture du cavalier** (*Sitting stance right forefist pressing block with left inner forearm side-front block*).
 
 Cette technique complexe consiste à exécuter en même temps deux actions défensives à des niveaux et sous des angles différents : un **blocage en pression vers le bas du poing droit** tout en réalisant un **blocage latéral-avant avec l'avant-bras intérieur gauche**.

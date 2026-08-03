@@ -1,5 +1,7 @@
 # Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi
 
+> 🔊 **Prononciation :** [외발 서 바깥 팔목 높인데 바로 옆 막기 와 팔목 낮은데 반대 옆 막기](../audio/Techniques/Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.m4a)
+
 Le **Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi** (외발 서 바깥 팔목 높인데 바로 옆 막기 와 팔목 낮은데 반대 옆 막기) est le **double blocage latéral aux avant-bras — haut extérieur direct et bas inversé — en posture sur une seule jambe** (*One-leg stance outer forearm high obverse side block and forearm low reverse side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive combinée hautement spécialisée dresse une double barrière protectrice sur le flanc. Elle permet de contrer simultanément une attaque haute (au visage) et une attaque basse (au bas-ventre ou aux jambes) arrivant de côté à 90°, tout en retirant la jambe avant du sol pour esquiver un balayage.

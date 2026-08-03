@@ -1,5 +1,7 @@
 # Frappe vers la bas (Naeryo Taerigi)
 
+> 🔊 **Prononciation :** [내려 때리기](../audio/jirugi/naeryo-taerigi.m4a)
+
 Le **Naeryo Taerigi** (내려 때리기) est la **frappe descendante en fouet / percussion** (*Downward strike*) en TaeKwon-Do ITF.
 
 Contrairement au *Naeryo Jirugi* (coup de poing piston descendant) ou au *Naeryo Palkup Tulgi* (pique du coude), le terme **Taerigi** indique que la frappe utilise une **trajectoire en arc ou un effet de fouet**, s'appuyant sur l'articulation du coude et/ou du poignet combinée à la gravité.

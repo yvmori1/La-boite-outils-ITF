@@ -8,6 +8,8 @@ jirugi/ et chagi/.
   python3 scripts/lier-mouvements.py              # essai à blanc, n'écrit rien
   python3 scripts/lier-mouvements.py --write      # applique les modifications
   python3 scripts/lier-mouvements.py --manquants  # liste les noms sans fiche
+  python3 scripts/lier-mouvements.py --couverture # état par forme, en pourcentage
+  python3 scripts/lier-mouvements.py --couverture --detail   # + le détail par forme
 
 Le script est idempotent : une ligne déjà liée est laissée intacte. Après
 l'ajout de nouvelles fiches techniques, le relancer avec --write ne touche
@@ -17,6 +19,8 @@ Deux formats de fiches sont reconnus :
   1. Déplacer le pied gauche...
      *(Gunnun so palmok najunde makgi)*        <- nom sur sa propre ligne
   1. Déplacer le pied gauche... (Gunnun So Palmok Najunde Makgi).  <- en fin de ligne
+  1. Reculer le pied droit...
+     **→ (Orun Niunja So Orun Yop Palkup Tulgi)**            <- après une flèche
 
 Résolution d'une cible, du plus fidèle au plus approximatif :
   1. nom complet tel quel ;
@@ -59,6 +63,9 @@ LIGNE_ITALIQUE = re.compile(r"^(\s*)\*\((.+?)\)\*\s*$")
 # d'imbrication est toléré pour reconnaître les lignes déjà liées
 LIGNE_INLINE = re.compile(
     r"^(\d+\.\s+.*?)\(((?:[^()]|\([^()]*\))*)\)(\s*\.?\s*)$")
+# nom coréen sur sa propre ligne, précédé d'une flèche : **→ (Nom)**
+LIGNE_FLECHE = re.compile(
+    r"^(\s*\*\*\s*→\s*)\(((?:[^()]|\([^()]*\))*)\)(\s*\*\*\s*)$")
 
 
 def normaliser(s):
@@ -149,20 +156,26 @@ def traiter(ecrire):
     lieur = Lieur(indexer_cibles())
     stats = collections.Counter()
     fiches_modifiees = []
+    couverture = {}
 
     for fiche in sorted(TUL.glob("*.md")):
         if fiche.name == "README.md":
             continue
         lignes = fiche.read_text(encoding="utf-8").splitlines(keepends=True)
         sortie, modifiee = [], False
+        compte = collections.Counter()
+        absents = collections.Counter()
 
         for ligne in lignes:
             nu = ligne.rstrip("\n")
-            m = LIGNE_ITALIQUE.match(nu) or LIGNE_INLINE.match(nu)
+            m = (LIGNE_ITALIQUE.match(nu) or LIGNE_INLINE.match(nu)
+                 or LIGNE_FLECHE.match(nu))
             if m:
                 stats["mouvements"] += 1
+                compte["total"] += 1
                 if "](" in nu:                      # déjà lié : on n'y touche pas
                     stats["deja_lies"] += 1
+                    compte["lies"] += 1
                 else:
                     groupes = m.groups()
                     coreen = groupes[1]
@@ -175,16 +188,69 @@ def traiter(ecrire):
                         modifiee = True
                         stats["nouveaux_liens"] += poses
                         stats["lignes_liees"] += 1
+                        compte["lies"] += 1
                     else:
                         stats["non_resolus"] += 1
+                        absents[normaliser(m.groups()[1])] += 1
             sortie.append(ligne)
+
+        if compte["total"]:
+            couverture[fiche.stem] = (compte["lies"], compte["total"], absents)
 
         if modifiee:
             fiches_modifiees.append(fiche.name)
             if ecrire:
                 fiche.write_text("".join(sortie), encoding="utf-8")
 
-    return stats, fiches_modifiees, lieur
+    return stats, fiches_modifiees, lieur, couverture
+
+
+def rapport_couverture(couverture, detail):
+    """Tul complets d'un côté, tul aux fiches manquantes de l'autre."""
+    complets = {n: v for n, v in couverture.items() if v[0] == v[1]}
+    partiels = {n: v for n, v in couverture.items() if v[0] != v[1]}
+    total_mvt = sum(v[1] for v in couverture.values())
+    total_lies = sum(v[0] for v in couverture.values())
+
+    print(f"\n{'':-<62}")
+    print("COUVERTURE PAR FORME")
+    print(f"{'':-<62}")
+    print(f"{'forme':<16}{'liés':>6}{'total':>7}{'manque':>8}{'couverture':>12}")
+
+    if partiels:
+        print("\nfiches techniques manquantes :")
+        for nom, (lies, tot, _) in sorted(partiels.items(),
+                                          key=lambda x: x[1][0] / x[1][1]):
+            pct = 100 * lies / tot
+            barre = "#" * round(12 * lies / tot)
+            print(f"  {nom:<14}{lies:>6}{tot:>7}{tot - lies:>8}"
+                  f"{pct:>9.0f} % {barre}")
+
+    if complets:
+        print("\ncomplets :")
+        for nom, (lies, tot, _) in sorted(complets.items()):
+            print(f"  {nom:<14}{lies:>6}{tot:>7}{0:>8}{100:>9.0f} % "
+                  + "#" * 12)
+
+    # formes dont aucune ligne de mouvement ne porte de nom coréen
+    muettes = sorted(f.stem for f in TUL.glob("*.md")
+                     if f.name != "README.md" and f.stem not in couverture)
+    if muettes:
+        print("\nsans nom coréen dans la fiche (rien à lier) :")
+        for nom in muettes:
+            print(f"  {nom}")
+
+    total_formes = len(couverture) + len(muettes)
+    pct_global = 100 * total_lies / total_mvt if total_mvt else 0
+    print(f"\n{len(complets)} forme(s) complète(s) sur {total_formes}"
+          f" — {total_lies}/{total_mvt} mouvements liés ({pct_global:.0f} %)")
+
+    if detail and partiels:
+        print("\ntechniques manquantes, forme par forme :")
+        for nom, (_l, _t, absents) in sorted(partiels.items()):
+            print(f"\n  {nom}")
+            for technique, n in sorted(absents.items(), key=lambda x: -x[1]):
+                print(f"    {n:>2} × {technique}")
 
 
 def main():
@@ -193,12 +259,16 @@ def main():
                          help="applique les modifications (sinon essai à blanc)")
     parseur.add_argument("--manquants", action="store_true",
                          help="liste les noms coréens sans fiche correspondante")
+    parseur.add_argument("--couverture", action="store_true",
+                         help="rapport par forme : complètes, incomplètes, pourcentage")
+    parseur.add_argument("--detail", action="store_true",
+                         help="avec --couverture : techniques manquantes par forme")
     args = parseur.parse_args()
 
     if not TUL.is_dir():
         sys.exit(f"répertoire introuvable : {TUL}")
 
-    stats, fiches, lieur = traiter(args.write)
+    stats, fiches, lieur, couverture = traiter(args.write)
 
     print(f"mouvements détectés     : {stats['mouvements']}")
     print(f"  déjà liés             : {stats['deja_lies']}")
@@ -210,6 +280,9 @@ def main():
         print("  " + ", ".join(fiches[:8]) + (" …" if len(fiches) > 8 else ""))
     print("écriture                : " + ("OUI" if args.write
                                           else "non — relancer avec --write"))
+
+    if args.couverture or args.detail:
+        rapport_couverture(couverture, args.detail)
 
     if args.manquants:
         print(f"\nnoms distincts sans fiche : {len(lieur.manquants)}")

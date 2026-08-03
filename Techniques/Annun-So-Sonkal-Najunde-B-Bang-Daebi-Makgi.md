@@ -1,5 +1,7 @@
 # Annun So Sonkal Najunde B-Bang Daebi Makgi
 
+> 🔊 **Prononciation :** [앉은 서 손칼 낮운데](../audio/Techniques/Annun-So-Sonkal-Najunde-B-Bang-Daebi-Makgi.m4a)
+
 Le **Annun So Sonkal Najunde B-Bang Daebi Makgi** (앉은 서 손칼 낮운데 B방/ㅂ자 대비 막기) est le **blocage de garde bas en forme de "B" au tranchant de la main en posture du cavalier** (*Sitting stance knife-hand low B-shape guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le tranchant extérieur des deux mains ouvertes (*Sonkal*) pour constituer une structure de garde encadrée en forme de **"B"** (associée à la silhouette de la lettre coréenne **ㅂ**), assurant une protection renforcée du bas-ventre et du flanc contre des attaques descendantes ou obliques.

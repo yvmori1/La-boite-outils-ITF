@@ -1,5 +1,7 @@
 # Niunja So Kaunde Yop Jirugi
 
+> 🔊 **Prononciation :** [ㄴ자 서 가운데 옆 지르기](../audio/Techniques/Niunja-So-Kaunde-Yop-Jirugi.m4a)
+
 Le **Niunja So Kaunde Yop Jirugi** (ㄴ자 서 가운데 옆 지르기) est le **coup de poing perçant moyen latéral en posture en L** (*L-stance middle side piercing punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque ou de contre-attaque permet de décocher un coup de poing direct vers le flanc ou le côté (*Yop*) tout en conservant la stabilité et la garde protectrice offertes par la posture en L (*Niunja Sogi*). Le coup est dirigé vers le niveau moyen (*Kaunde* — plexus solaire, côtes ou abdomen d'un adversaire situé sur le côté).

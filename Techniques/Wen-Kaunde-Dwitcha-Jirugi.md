@@ -1,5 +1,7 @@
 # Wen Kaunde Dwitcha Jirugi
 
+> 🔊 **Prononciation :** [왼 가운데 뒷차 지르기](../audio/Techniques/Wen-Kaunde-Dwitcha-Jirugi.m4a)
+
 Le **Wen Kaunde Dwitcha Jirugi** (왼 가운데 뒷차 지르기) est le **coup de pied arrière perçant moyen de la jambe gauche** (*Left middle back piercing kick*) en TaeKwon-Do ITF.
 
 Souvent considéré comme la technique de contre-attaque ultime en arts martiaux, le *Dwit Chagi* fonctionne comme une ruade de cheval : la jambe part en piston rectiligne vers l'arrière avec un engagement massif des fessiers et de la hanche. Exécuté avec la **jambe gauche** (*Wen*) au **niveau moyen** (*Kaunde* — plexus solaire, abdomen, côtes), ce coup est capable de stopper net n'importe quelle charge adverse.

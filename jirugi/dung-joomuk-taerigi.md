@@ -1,5 +1,7 @@
 # Frappe du revers du poing (Dung Joomuk Taerigi)
 
+> 🔊 **Prononciation :** [등주먹 때리기](../audio/jirugi/dung-joomuk-taerigi.m4a)
+
 Le **Dung Joomuk Taerigi** (등주먹 때리기 — retranscrit **Dung Joomuk Taerigi**) est la **frappe du revers du poing** (*Backfist strike*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

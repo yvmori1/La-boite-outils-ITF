@@ -1,5 +1,7 @@
 # Annun So Wen Joomuk Giokja Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 왼 주먹 ㄱ자 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Giokja-Jirugi.m4a)
+
 Le **Annun So Wen Joomuk Giokja Jirugi** (앉은 서 왼 주먹 ㄱ자 지르기) est le **coup de poing gauche en angle droit en posture du cavalier** (*Sitting stance left fist angle punch* ou *L-shape punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque directe et compacte projette le poing gauche (*Wen Joomuk*) sur l'axe central tout en fléchissant le coude à un angle strict de 90° (rappelant la forme de la lettre coréenne *Giyeok* **ㄱ**). Contrairement à la version *C-Bang*, le bras droit effectue un tirage classique de réaction à la hanche (*Heori*).

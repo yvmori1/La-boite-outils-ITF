@@ -1,5 +1,7 @@
 # Yop Bituro Chagi
 
+> 🔊 **Prononciation :** [옆 비틀어 차기](../audio/Techniques/Yop-Bituro-Chagi.m4a)
+
 Le **Yop Bituro Chagi** (옆 비틀어 차기) est le **coup de pied latéral en torsion** (*Side twisting kick*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque hybride et particulièrement déroutante associe une trajectoire orientée vers le flanc (*Yop*) avec une mécanique de fouetté en vrille de l'intérieur vers l'extérieur (*Bituro*). Elle permet d'attraper la garde de l'adversaire à défaut, en faisant passer la frappe dans un angle mort très difficile à bloquer.

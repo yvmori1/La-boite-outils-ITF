@@ -1,5 +1,7 @@
 # Blocage crocheté de la paume de la main (Golcho Sonbadak Makgi)
 
+> 🔊 **Prononciation :** [걸쳐 손바닥 막기](../audio/makgi/golcho-sonbadak-makgi.m4a)
+
 Le **Golcho Sonbadak Makgi** (걸쳐 손바닥 막기) est le **blocage crocheté de la paume de la main** (*Palm hooking block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

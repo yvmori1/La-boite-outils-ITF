@@ -1,5 +1,7 @@
 # Annun So Wen Ap Joomuk Noollo Makgi Wa Orun An Palmok Yobap Makgi
 
+> 🔊 **Prononciation :** [앉은 서 왼 앞주먹 눌러막기 와 오른 안팔목 옆앞막기](../audio/Techniques/Annun-So-Wen-Ap-Joomuk-Noollo-Makgi-Wa-Orun-An-Palmok-Yobap-Makgi.m4a)
+
 Le **Annun So Wen Ap Joomuk Noollo Makgi Wa Orun An Palmok Yobap Makgi** (앉은 서 왼 앞주먹 눌러막기 와 오른 안팔목 옆앞막기) est une **technique défensive double et simultanée** en TaeKwon-Do ITF.
 
 Cette forme combinée exécute en même temps deux blocages complémentaires depuis la posture du cavalier (*Annun Sogi*) :

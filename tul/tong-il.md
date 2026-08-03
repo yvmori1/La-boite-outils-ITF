@@ -1,5 +1,7 @@
 # TONG-IL
 
+> 🔊 **Prononciation :** [통일](../audio/tul/tong-il.m4a)
+
 > **Grade :** 6e Dan
 
 * **Nombre de mouvements :**  56
@@ -84,9 +86,9 @@
 23. Déplacer le pied droit vers D pour former une position sur la jambe arrière gauche vers D tout en exécutant un blocage montant avec le dos du poignet droit.
    *([Dwitbal so sonmok dung bandae ollyo makgi](../Techniques/Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.md))*
 24. Déplacer le pied gauche vers C, pour former une position de marche gauche vers C tout en exécutant un blocage en pression avec la paume gauche.
-   *(Gunnun so sonbadak baro noollo makgi)*
+   *([Gunnun so sonbadak baro noollo makgi](../Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md))*
 25. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage en pression avec la paume droite.
-   *(Gunnun so sonbadak baro noollo makgi)*
+   *([Gunnun so sonbadak baro noollo makgi](../Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md))*
 
    > *Exécuter 24 et 25 en mouvement lent.*
 

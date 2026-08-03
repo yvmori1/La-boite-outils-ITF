@@ -30,8 +30,7 @@ FORMES = [
          "10e Gup — exécuté à droite et à gauche : 14 mouvements au total"),
         ("saju-makgi", "SAJU MAKGI",
          "10e Gup — exécuté à droite et à gauche : 16 mouvements au total"),
-        ("saju-tulgi", "SAJU TULGI",
-         "10e Gup — exécuté à droite et à gauche : 8 mouvements au total"),
+        ("saju-tulgi", "SAJU TULGI", "10e Gup"),
     ]),
     ("FORMES DES GRADES GUP", [
         ("chon-ji", "CHON-JI", "9e Gup"),
@@ -65,12 +64,13 @@ FORMES = [
 ]
 
 # mouvements dont la fiche ne donne pas de nom coréen
-DEDUITS = {("saju-tulgi", n): "Niunja So Yop Palkup Tulgi" for n in (1, 2, 3, 4)}
+DEDUITS = {}
 PREPARATOIRES = {("hwa-rang", 11), ("choong-moo", 11)}
 
 NUMERO = re.compile(r"^(\d+)\.\s+(.*)$")
 ITALIQUE = re.compile(r"^\s*\*\((.+?)\)\*\s*$")
 INLINE = re.compile(r"\(((?:[^()]|\([^()]*\))*)\)\s*\.?\s*$")
+FLECHE = re.compile(r"^\s*\*\*\s*→\s*\(((?:[^()]|\([^()]*\))*)\)\s*\*\*\s*$")
 LIEN = re.compile(r"\[([^\]]+)\]\([^)]*\)")
 
 
@@ -96,7 +96,7 @@ def mouvements(slug):
             coreen = None
             j = i + 1
             while j < len(lignes) and not NUMERO.match(lignes[j]):
-                mi = ITALIQUE.match(lignes[j])
+                mi = ITALIQUE.match(lignes[j]) or FLECHE.match(lignes[j])
                 if mi:
                     coreen = mi.group(1)
                     break

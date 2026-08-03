@@ -1,5 +1,7 @@
 # Gunnun So Kaunde Jirugi
 
+> 🔊 **Prononciation :** [건눈 서 가운데 지르기](../audio/Techniques/Gunnun-So-Kaunde-Jirugi.m4a)
+
 Le **Gunnun So Kaunde Jirugi** (건눈 서 가운데 지르기 — plus communément orthographié **Gunnun Sogi Kaujunde Jirugi**) est le **coup de poing direct au niveau moyen en posture de marche** en TaeKwon-Do ITF.
 
 C'est la **technique d'attaque fondamentale par excellence**, enseignée dès la ceinture blanche (10ᵉ Keup) et formant la colonne vertébrale des premières formes (*Tul*).

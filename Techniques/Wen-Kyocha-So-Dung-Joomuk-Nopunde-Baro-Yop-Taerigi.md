@@ -1,5 +1,7 @@
 # Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi
 
+> 🔊 **Prononciation :** [왼 교차 서 등주먹 높인데 바로 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.m4a)
+
 Le **Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi** (왼 교차 서 등주먹 높인데 바로 옆 때리기) est le **coup cinglant latéral haut au revers du poing direct en posture en X gauche** (*Left X-stance backfist high obverse side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à haute vitesse combine la mobilité de la posture en X (*Kyocha Sogi*) avec la précision d'un fouetté du revers du poing (*Dung Joomuk*) au niveau haut (*Nopunde*). La mention **Baro** (direct) précise que la frappe est portée par le bras du **même côté que la jambe croisée à l'avant** (donc le bras gauche avec la jambe gauche devant).

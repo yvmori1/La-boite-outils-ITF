@@ -1,5 +1,7 @@
 # SAJU MAKGI (EXERCICE FONDAMENTAL — QUATRE DIRECTIONS BLOCAGE)
 
+> 🔊 **Prononciation :** [사주 막기](../audio/tul/saju-makgi.m4a)
+
 > **Grade :** 10e Gup — Ceinture blanche
 
 * **Nombre de mouvements :**  16 (Pratiqué à droite et à gauche, soit 8 mouvements par côté)

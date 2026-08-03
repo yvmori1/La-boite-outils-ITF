@@ -1,5 +1,7 @@
 # Blocage d'arrêt (Momchau Makgi)
 
+> 🔊 **Prononciation :** [멈춰 막기](../audio/makgi/momchau-makgi.m4a)
+
 Le **Momchau Makgi** (멈춰 막기) est le **blocage d'arrêt / blocage d'interception** (*Checking block* ou *Stopping block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

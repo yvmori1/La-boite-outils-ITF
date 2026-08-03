@@ -1,5 +1,7 @@
 # Twio Dolmyo Chagi
 
+> 🔊 **Prononciation :** [뛰어 돌며 차기](../audio/Techniques/Twio-Dolmyo-Chagi.m4a)
+
 Le **Twio Dolmyo Chagi** (뛰어 돌며 차기) est le **coup de pied sauté en rotation** (*Jumping spinning kick*) en TaeKwon-Do ITF.
 
 Cette technique dynamique et spectaculaire combine la suspension aérienne du saut (*Twio*) avec l'énergie centrifuge d'une rotation complète du corps dans les airs (*Dolmyo*). Elle permet d'asséner une frappe d'une puissance considérable en exploitant la gravité, l'inertie de rotation et l'effet de surprise.

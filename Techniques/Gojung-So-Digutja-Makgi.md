@@ -1,5 +1,7 @@
 # Gojung So Digutja Makgi
 
+> 🔊 **Prononciation :** [고정 서 ㄷ자 막기](../audio/Techniques/Gojung-So-Digutja-Makgi.m4a)
+
 Le **Gojung So Digutja Makgi** (고정 서 ㄷ자 막기) est le **blocage en forme de « ㄷ » (en U) en posture fixe** (*Fixed stance U-shape / 'ㄷ'-shape block*) en TaeKwon-Do ITF.
 
 Cette technique défensive spécialisée et très caractéristique est principalement conçue pour intercepter, bloquer ou neutraliser une attaque menée avec une arme longue (comme un bâton / *Bong*) dirigée vers la tête ou le buste. Elle s'exécute depuis la posture fixe (*Gojung Sogi*), qui offre un ancrage équilibré à 50/50 et une stabilité latérale exceptionnelle pour encaisser la force cinétique d'un impact armé.

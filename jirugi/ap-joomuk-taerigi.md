@@ -1,5 +1,7 @@
 # Coup de poing direct (Ap Joomuk Taerigi)
 
+> 🔊 **Prononciation :** [앞주먹 때리기](../audio/jirugi/ap-joomuk-taerigi.m4a)
+
 Le **Ap Joomuk Taerigi** (앞주먹 때리기) est la **frappe cinglante avec le devant du poing** (*Forefist strike*).
 
 Sa décomposition linguistique est la suivante :

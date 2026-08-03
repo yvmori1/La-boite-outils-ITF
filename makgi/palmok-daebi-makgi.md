@@ -1,5 +1,7 @@
 # Blocage de garde des avant-bras (Palmok Daebi Makgi)
 
+> 🔊 **Prononciation :** [팔목 대비 막기](../audio/makgi/palmok-daebi-makgi.m4a)
+
 Le **Palmok Daebi Makgi** (팔목 대비 막기) est le **blocage de garde des avant-bras** (*Forearm guarding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

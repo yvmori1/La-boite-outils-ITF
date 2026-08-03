@@ -1,5 +1,7 @@
 # Coup de pied haut (Nopunde Chagi)
 
+> 🔊 **Prononciation :** [높은데 차기](../audio/chagi/nopunde-chagi.m4a)
+
 Le **Nopunde Chagi** (높은데 차기 — parfois retranscrit *Napunde Chagi*) désigne **tout coup de pied porté au niveau haut / section haute** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

@@ -1,5 +1,7 @@
 # Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 바깥팔목 가운데 안으로 반대 막기](../audio/Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.m4a)
+
 Le **Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi** (뒷발 서 바깥팔목 가운데 안으로 반대 막기) est le **blocage inverse moyen vers l'intérieur avec l'extérieur de l'avant-bras en posture du pied arrière** (*Rear foot stance outer forearm middle inward reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive sophistiquée combine le recul de protection de la posture *Dwitbal Sogi* avec un balayage circulaire mené de l'extérieur vers la ligne centrale (*Anuro*). Elle utilise le côté extérieur de l'avant-bras (*Bakat Palmok*) du bras opposé à la jambe avant (*Bandae*) pour dévier une attaque moyenne (coup de poing ou coup de pied direct) visant la poitrine ou le plexus.

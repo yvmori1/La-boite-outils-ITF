@@ -1,5 +1,7 @@
 # Guburyo Junbi So B
 
+> 🔊 **Prononciation :** [구부려 준비 서기](../audio/Techniques/Guburyo-Junbi-So-B.m4a)
+
 Le **Gojung So / Guburyo Junbi So B** (구부려 준비 서기 B) est la **posture préparatoire fléchie sur une jambe — Variante B** (*Bending ready stance B*) en TaeKwon-Do ITF.
 
 Cette posture d'attente et d'armement hautement stratégique place 100% du poids du corps sur une seule jambe fortement fléchie, tandis que la jambe libre est rétractée et armée. Elle sert de tremplin explosif pour déclencher des coups de pied puissants (notamment le coup de pied latéral perçant *Yop Cha Jirugi* ou le coup de pied essuie-glace/crocheté) tout en maintenant une garde hermétique.

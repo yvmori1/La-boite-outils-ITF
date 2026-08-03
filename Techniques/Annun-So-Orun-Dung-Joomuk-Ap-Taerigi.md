@@ -1,5 +1,7 @@
 # Annun So Orun Dung Joomuk Ap Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 오른 등주먹 앞 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.m4a)
+
 Le **Annun So Orun Dung Joomuk Ap Taerigi** (앉은 서 오른 등주먹 앞 때리기) est la **frappe frontale avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist front strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et cinglante utilise l'effet de ressort de l'articulation du coude pour envoyer le revers du poing droit (*Dung Joomuk*) fouetter directement le visage de l'adversaire situé en face de soi.

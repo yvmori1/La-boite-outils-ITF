@@ -1,5 +1,7 @@
 # Coup de pied circulaire (Dollyo Chagi)
 
+> 🔊 **Prononciation :** [돌려차기](../audio/chagi/dollyo-chagi.m4a)
+
 Le coup de pied circulaire, appelé **Dollyo Chagi** (돌려차기) en TaeKwon-Do ITF, est l'une des techniques d'attaque les plus puissantes et les plus couramment utilisées, tant dans les formes (*Tul*) qu'en combat libre (*Matsogi*).
 
 Contrairement à la version du taekwondo WT (plutôt axée sur le piquage rapide avec l'instep pour le plastron), le *Dollyo Chagi* de style ITF met un fort accent sur la puissance de perforation, la rotation complète des hanches et la précision de la surface de frappe.

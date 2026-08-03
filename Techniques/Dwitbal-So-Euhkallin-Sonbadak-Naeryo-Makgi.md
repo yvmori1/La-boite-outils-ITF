@@ -1,5 +1,7 @@
 # Dwitbal So Euhkallin Sonbadak Naeryo Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 엇갈린 손바닥 내려 막기](../audio/Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.m4a)
+
 Le **Dwitbal So Euhkallin Sonbadak Naeryo Makgi** (뒷발 서 엇갈린 손바닥 내려 막기) est le **blocage descendant croisé avec la paume des mains en posture du pied arrière** (*Rear foot stance X-palm downward block*) en TaeKwon-Do ITF.
 
 Cette technique défensive double combine le recul de protection de la posture *Dwitbal Sogi* avec une poussée/interception descendante des deux paumes croisées en X (*Euhkallin Sonbadak*). Elle est conçue pour stopper ou dévier une attaque basse puissante (coup de pied direct bas, coup de genou ou frappe vers le bas-ventre/l'aine).

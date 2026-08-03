@@ -1,5 +1,7 @@
 # Coup de pied semi-circulaire (Bandal Chagi)
 
+> 🔊 **Prononciation :** [반달차기](../audio/chagi/bandal-chagi.m4a)
+
 Le **Bandal Chagi** (반달차기) est le **coup de pied en demi-lune** ou **semi-circulaire** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

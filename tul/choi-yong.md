@@ -1,5 +1,7 @@
 # CHOI-YONG
 
+> 🔊 **Prononciation :** [최영](../audio/tul/choi-yong.m4a)
+
 > **Grade :** 3e Dan
 
 * **Nombre de mouvements :**  46

@@ -1,5 +1,7 @@
 # SAJU JIRUGI (EXERCICE FONDAMENTAL — QUATRE DIRECTIONS ATTAQUE)
 
+> 🔊 **Prononciation :** [사주 지르기](../audio/tul/saju-jirugi.m4a)
+
 > **Grade :** 10e Gup — Ceinture blanche
 
 * **Nombre de mouvements :**  14 (Pratiqué à droite et à gauche, soit 7 mouvements par côté)

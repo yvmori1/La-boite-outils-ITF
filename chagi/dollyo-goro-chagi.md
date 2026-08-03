@@ -1,5 +1,7 @@
 # Coup de pied crocheté (Dollyo Goro Chagi)
 
+> 🔊 **Prononciation :** [돌려 걸어 차기](../audio/chagi/dollyo-goro-chagi.m4a)
+
 Le **Dollyo Goro Chagi** (돌려 걸어 차기) est le **coup de pied crocheté** (ou *Turning hooking kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

@@ -5,7 +5,6 @@ Gunnun So Bakat Palmok Nopunde Ap Makgi
 Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi
 Gunnun So Bakat Palmok Nopunde Hechyo Makgi
 Gunnun So Bakat Palmok Nopunde Yop Makgi
-Gunnun So Bandae Dwijibo Jirugi
 Gunnun So Bandae Gutja Makgi
 Gunnun So Bandae Naeryo Jirugi
 Gunnun So Bandal Son Bandae Chookyo Makgi
@@ -18,7 +17,6 @@ Gunnun So Dung Joomuk Bandae Yopdwi Taerigi
 Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi
 Gunnun So Dung Joomuk Nopunde Yop Taerigi
 Gunnun So Dwijibun Sonkut Bandae Najunde Tulgi
-Gunnun So Dwijibun Sonkut Najunde Tulgi
 Gunnun So Dwit Palkup Bandae Tulgi
 Gunnun So Ghin Joomuk Nopunde Bandae Jirugi
 Gunnun So Homi Sonkut Nopunde Bandae Tulgi
@@ -51,7 +49,6 @@ Gunnun So Sang Sonkal Nopunde Anuro Taerigi
 Gunnun So Sang Sonkal Soopyong Taerigi
 Gunnun So Sang Yop Joomuk Soopyong Taerigi
 Gunnun So Sonbadak Bandae Ollyo Makgi
-Gunnun So Sonbadak Baro Noollo Makgi
 Gunnun So Sonbadak Kaunde Bandae Golcho Makgi
 Gunnun So Sonbadak Kaunde Bandae Miro Makgi
 Gunnun So Sonbadak Kaunde Golcho Makgi
@@ -98,11 +95,8 @@ Kaunde Yopcha Jirugi
 Kaunde Yopcha Milgi
 Kyocha So Bakat Palmok Najunde Baro Ap Makgi
 Kyocha So Baro Ollyo Jirugi
-Kyocha So Sang Palkup Soopyong Tulgi
 Kyocha So Sonkal Dung Najunde Bandae Ap Makgi
 Kyocha Sogi
-Moa Junbi Sogi B
-Moa Junbi Sogi C
 Moa So Hanulson
 Moa So Orun An Palmok Yobap Makgi
 Moa So Orun Dung Joomuk Yopdwi Taerigi
@@ -161,7 +155,6 @@ Niunja So Palmok Najunde Yop Makgi
 Niunja So Sang Palmok Makgi
 Niunja So Sang Sonbadak Soopyong Makgi
 Niunja So Sang Sonkal Makgi
-Niunja So Sonbadak Bandae Duro Makgi
 Niunja So Sonbadak Bandae Ollyo Makgi
 Niunja So Sondung Bandae Naeryo Taerigi
 Niunja So Sondung Nopunde Bakuro Taerigi
@@ -176,12 +169,3 @@ Niunja So Sonkal Kaunde Makgi
 Niunja So Sonkal Najunde Bandae Makgi
 Niunja So Sonkal Najunde Daebi Makgi
 Niunja So Sonkal Nopunde Bakuro Taerigi
-Niunja So Sonkal Nopunde Daebi Makgi
-Niunja So Sun Palkup Naeryo Tulgi
-Niunja Sogi
-Nopunde Bandae Dollyo Chagi
-Nopunde Bandae Dollyo Gorochagi
-Nopunde Bituro Chagi
-Nopunde Dollyo Chagi
-Nopunde Dwitcha Jirugi
-Nopunde Yopcha Jirugi

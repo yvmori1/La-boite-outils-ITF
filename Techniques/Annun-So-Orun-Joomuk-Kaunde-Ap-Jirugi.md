@@ -1,5 +1,7 @@
 # Annun So Orun Joomuk Kaunde Ap Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 오른 주먹 가운데 앞 지르기](../audio/Techniques/Annun-So-Orun-Joomuk-Kaunde-Ap-Jirugi.m4a)
+
 Le **Annun So Orun Joomuk Kaunde Ap Jirugi** (앉은 서 오른 주먹 가운데 앞 지르기) est le **coup de poing direct frontal moyen droit en posture du cavalier** (*Sitting stance right forefist middle front punch*) en TaeKwon-Do ITF.
 
 C'est l'une des attaques fondamentales en ligne droite du TaeKwon-Do. Elle combine la stabilité ancrée de la posture du cavalier (*Annun Sogi*) à la puissance d'une frappe en piston droit dirigée au centre du buste (*Kaunde*) sur l'axe frontal (*Ap*).

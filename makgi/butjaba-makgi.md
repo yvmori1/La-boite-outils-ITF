@@ -1,5 +1,7 @@
 # Blocage-Saisie (Butjaba Makgi)
 
+> 🔊 **Prononciation :** [붙잡아 막기](../audio/makgi/butjaba-makgi.m4a)
+
 Le **Butjaba Makgi** (붙잡아 막기) est le **blocage-saisie / blocage en agrippant** (*Grasping block* ou *Holding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

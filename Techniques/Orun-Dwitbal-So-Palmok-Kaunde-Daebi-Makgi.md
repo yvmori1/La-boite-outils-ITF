@@ -1,5 +1,7 @@
 # Orun Dwitbal So Palmok Kaunde Daebi Makgi
 
+> 🔊 **Prononciation :** [오른 뒷발 서 팔목 가운데 대비 막기](../audio/Techniques/Orun-Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.m4a)
+
 Le **Orun Dwitbal So Palmok Kaunde Daebi Makgi** (오른 뒷발 서 팔목 가운데 대비 막기) est une technique défensive classique du Taekwon-Do (ITF) qui privilégie la mobilité et la protection rapprochée.
 
 Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position pied arrière droite**.

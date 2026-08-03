@@ -1,5 +1,7 @@
 # TOI-GYE
 
+> 🔊 **Prononciation :** [퇴계](../audio/tul/toi-gye.m4a)
+
 > **Grade :** 3e Gup — Ceinture bleue barre rouge
 
 * **Nombre de mouvements :**  37
@@ -18,7 +20,7 @@
 1. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage moyen vers B avec l'avant-bras intérieur gauche.
    *([Niunja so an palmok kaunde makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md))*
 2. Exécuter une pique basse vers B avec le droit renversé bout des doigts tout en formant une position de marche gauche vers B, en glissant le pied gauche vers B.
-   *(Gunnun so dwijibun sonkut najunde tulgi)*
+   *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
 3. Ramener le pied gauche vers le pied droit pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing droit, en étendant le bras gauche vers le côté vers le bas.
    *(Moa so orun dung joomuk yopdwi taerigi)*
 
@@ -27,7 +29,7 @@
 4. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage moyen vers A avec l'avant-bras intérieur droit.
    *([Niunja so an palmok kaunde makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md))*
 5. Exécuter une pique basse vers A avec le gauche renversé bout des doigts tout en formant une position de marche droite vers A, en glissant le pied droit vers A.
-   *(Gunnun so dwijibun sonkut najunde tulgi)*
+   *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
 6. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing gauche, en étendant le bras droit vers le côté vers le bas.
    *(Moa so wen dung joomuk yopdwi taerigi)*
 

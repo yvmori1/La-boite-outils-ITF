@@ -1,5 +1,7 @@
 # Annun So Orun Bakat Palmok San Makgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 바깥팔목 산막기](../audio/Techniques/Annun-So-Orun-Bakat-Palmok-San-Makgi.m4a)
+
 Le **Annun So Orun Bakat Palmok San Makgi** (앉은 서 오른 바깥팔목 산막기) est le **blocage en montagne (en "W") droit avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance right outer forearm mountain / W-shape block*) en TaeKwon-Do ITF.
 
 Cette technique consiste à élever les bras pour former la silhouette du caractère signifiant "montagne" (**山 — *San***), en mettant l'accent sur la structure défensive du bras droit (*Orun*) pour intercepter ou dégager une attaque haute.

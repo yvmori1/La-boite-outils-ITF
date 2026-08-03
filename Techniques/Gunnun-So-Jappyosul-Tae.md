@@ -1,5 +1,7 @@
 # Gunnun So Jappyosul Tae
 
+> 🔊 **Prononciation :** [걷는 서 잡혔을 때](../audio/Techniques/Gunnun-So-Jappyosul-Tae.m4a)
+
 Le **Gunnun So Jappyosul Tae** (걷는 서 잡혔을 때) désigne le **mouvement de dégagement / libération de saisie en posture de marche** (*Release motion when grabbed in walking stance*) en TaeKwon-Do ITF.
 
 Contrairement aux techniques d'attaque directes ou de blocage classique, **Jappyosul Tae** n'est pas un coup, mais un **mouvement de self-défense tactique (*Hosinsul*)** intégré dans plusieurs patrons (*Tul*). Il intervient lorsqu'un adversaire saisit le poignet ou le bras du pratiquant, qui utilise alors le levier articulatoire, la rotation du poignet et l'ancrage en posture de marche (*Gunnun Sogi*) pour se libérer instantanément.

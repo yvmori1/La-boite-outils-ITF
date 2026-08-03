@@ -1,5 +1,7 @@
 # Coup de pied circulaire inversé (Bandae Dollyo Chagi)
 
+> 🔊 **Prononciation :** [반대 돌려 차기](../audio/chagi/bandae-dollyo-chagi.m4a)
+
 Le **Bandae Dollyo Chagi** (반대 돌려 차기) est le **coup de pied circulaire inversé** (ou *Reverse turning kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

@@ -1,67 +1,61 @@
 # Coup de pied arrière tranchant
 
-Dans la terminologie officielle du TaeKwon-Do ITF, le terme **Dwitchuk Jirugi** (souvent formalisé par **Dwit Cha Jirugi**) désigne le **coup de pied arrière pénétrant/perçant**.
+> 🔊 **Prononciation :** [뒤차 지르기](../audio/chagi/dwit-dha-jirugi.m4a)
 
-Pour bien comprendre cette technique, il faut décomposer le nom :
+Le **Dwit Cha Jirugi** (뒤차 지르기) est une technique d'attaque arrière rectiligne, ultra-puissante et transperçante du Taekwon-Do (ITF).
 
-* **Dwitchuk (뒤축) :** L'arme naturelle utilisée, c'est-à-dire le **dessous/la base du talon**.
-* **Jirugi (지르기) :** La nature de l'action, signifiant **percer, transpercer ou pousser de manière rectiligne** (par opposition à *Busigi* qui désigne une action fouettée).
+Elle se traduit par : **Coup de pied arrière perçant** (*Back Piercing Kick*).
 
-Il s'agit donc d'une frappe axiale en piston où le dessous du talon est projeté en ligne droite pour traverser la cible.
-
----
-
-## 1. L'Arme naturelle : Le *Dwitchuk* (뒤축)
-
-* **Zone de contact :** La partie inférieure du talon. C'est l'une des zones les plus dures et les plus denses du corps humain.
-* **Position de la cheville :** La cheville doit être fortement verrouillée en flexion à 90°, avec les **orteils orientés vers le sol**.
-* **Danger à éviter :** Si les orteils ou le plat du pied touchent la cible en premier, la transmission de force est amortie et la cheville risque de se tordre.
+Souvent considérée comme l'un des coups de contre-attaque les plus dévastateurs des arts martiaux, cette technique agit comme un véritable **piston mécanique** propulsé vers l'arrière.
 
 ---
 
-## 2. Décomposition étape par étape de l'exécution
+## 1. Décomposition de la terminologie coréenne
 
-### Étape 1 : Le Pivot et l'Orientation du Regard
-
-1. **Départ :** En posture de combat (*Matsogi Sogi*).
-2. **Rotation des pieds :** Pivotez vivement sur les avant-pieds pour tourner le dos à la cible.
-3. **Alignement visuel :** Tournez la tête par-dessus l'épaule du côté de la jambe qui frappe pour verrouiller visuellement la cible. Le buste s'aligne pour permettre une poussée axiale directe.
-
-### Étape 2 : L'Armement Compact (*"Chambering"*)
-
-1. **Elévation du genou :** Le genou de la jambe de frappe monte sous le buste.
-2. **Axe resserré :** Le genou frappeur doit **passer au plus près du genou d'appui**.
-3. **Concentration de la masse :** Le talon (*Dwitchuk*) est ramené près des fessiers, armé comme un ressort prêt à être détendu.
-
-### Étape 3 : La Poussée Pénétrante (*Jirugi*) et Impact
-
-1. **Trajectoire rectiligne :** Dépliez la jambe en ligne droite directe (effet vérin ou piston) vers l'obstacle (plexus, abdomen ou visage).
-2. **Engagement du bassin :** Contractez puissamment les fessiers et poussant la hanche du côté de la frappe vers l'arrière pour allonger la portée et maximiser la pénétration.
-3. **Inclinaison du buste :** Le haut du corps s'incline légèrement vers l'avant pour servir de contrepoids, en conservant le gainage abdominal.
-4. **Impact :** Enfoncez le *Dwitchuk* dans la cible en expulsant l'air (*Kihap*). La force doit traverser l'adversaire, pas seulement toucher la surface.
-
-### Étape 4 : Le Retrait (*Recall*)
-
-1. **Retour dans l'axe :** Une fois la perforation effectuée, ramenez le pied le long du **même trajet rectiligne** vers le centre du corps.
-2. **Reprise de garde :** Reposez la jambe de manière contrôlée pour revenir immédiatement en position de garde stable (*Sogi*).
+| Terme | Hangeul | Traduction | Rôle dans la technique |
+| --- | --- | --- | --- |
+| **Dwit** | 뒤 | Arrière / Dos | Indique la direction de l'attaque portée vers l'arrière du corps. |
+| **Cha** | 차 | Coup de pied | Action d'attaque avec le membre inférieur (forme combinée de *Chagi*). |
+| **Jirugi** | 지르기 | Perçant / Poussée directe | Trajectoire rectiligne d'enfoncement (effet de piston). |
 
 ---
 
-## 3. Ce qui différencie le *Jirugi* d'un simple coup de pied
+## 2. Exécution et principes biomécaniques
 
-| Caractéristique | Coup de pied Pénétrant (*Jirugi*) | Coup de pied Fouetté (*Busigi*) |
-| --- | --- | --- |
-| **Trajectoire** | Ligne droite absolue (effet piston) | Arc de cercle / Snap à partir du genou |
-| **Transfert de masse** | Tout le poids du corps s'engage derrière l'impact | Vitesse d'extrémité et fouet de la jambe |
-| **Objectif tactique** | Traverser, briser une garde, stopper net une charge | Toucher rapidement, créer de la vitesse |
-| **Arme privilégiée** | Talon (*Dwitchuk*) ou Chants du pied (*Balkal*) | Bol du pied (*Apkumchi*) ou Coup de pied (*Baldung*) |
+Le *Dwit Cha Jirugi* tire sa force exceptionnelle du verrouillage des fessiers, de la poussée directe de la hanche et d'un trajet en ligne droite :
+
+1. **La rotation de tête et le regard :**
+   * Sans tourner prématurément les épaules, la tête pivote rapidement par-dessus l'épaule du côté de la jambe de frappe pour fixer précisément la cible.
+2. **L'armement (Principe des genoux serrés) :**
+   * Le genou de la jambe d'attaque monte vers la poitrine en restant **strictement collé contre la jambe d'appui**.
+   * Le pied se fléchit pour préparer le talon à percuter.
+3. **La poussée rectiligne en piston (*Jirugi*) :**
+   * La jambe se détend en ligne droite vers l'arrière, propulsée par la contraction explosive des fessiers et des extenseurs de la hanche.
+   * Le buste s'incline naturellement vers l'avant pour équilibrer la poussée et allonger la portée.
+4. **L'impact et la surface de frappe :**
+   * L'impact s'effectue avec le **dessous du talon** (**Dwit Chook** - 뒤축 / **Balkal-Dupchi**).
+   * Les orteils pointent vers le sol (ou très légèrement inclinés de côté), la cheville étant fermement verrouillée.
+5. **Le réarmement et le retour :**
+   * Après le choc, la jambe est ramenée vivement vers le genou d'appui (réarmée) avant de reposer au sol, évitant tout risque de balayage ou de saisie par l'adversaire.
 
 ---
 
-## 4. Conseils clés pour une puissance maximale
+## 3. Applications et cibles
 
-> **L'effet de piston :**
-> Pensez à l'action de pousser une porte lourde coincée avec le talon. La force ne vient pas de la jambe seule, mais du bloc composé par la hanche, les fessiers et le talon parfaitement alignés.
+* **Cibles anatomiques :**
+  * **Kaunde** (Niveau moyen) : Plexus solaire, côtes flottantes, foie ou abdomen.
+  * **Nopunde** (Niveau haut) : Mâchoire, menton ou poitrine haute.
+* **Tactique de combat (*Matsogi*) :** C'est la **technique de contre-attaque d'arrêt par excellence**. Elle permet de stopper net un adversaire qui charge de face, en utilisant son propre élan contre lui.
+* **Formes (*Tuls*) :** On la retrouve dans plusieurs tuls de niveau intermédiaire et avancé pour travailler le contrôle de l'axe central et la précision du regard par-dessus l'épaule.
 
-* **Ne pas tourner le genou vers l'extérieur :** Si votre genou s'écarte pendant la montée, la poussée perd sa ligne droite et devient un coup circulaire incomplet.
-* **Bloquer le pied au sol :** Le pied d'appui doit être fermement ancré au sol pendant la phase d'extension pour offrir une surface de réaction maximale.
+---
+
+## 4. Erreurs fréquentes à éviter
+
+* **Écarter le genou sur le côté :** Ouvrir la hanche de côté pendant l'armement, ce qui transforme l'attaque en coup de pied latéral (*Yop Chagi*) et perd toute l'énergie du piston arrière.
+* **Frapper à l'aveugle :** Déclencher la frappe sans avoir préalablement tourné la tête pour repérer la cible par-dessus l'épaule.
+* **Frapper avec la plante du pied :** Poser le plat du pied (*Balsadok*) ou les orteils sur la cible au lieu d'enfoncer la structure rigide du talon (*Dwit Chook*).
+* **Pivot excessif du buste :** Offrir tout le torse à l'adversaire avant le coup, ce qui gâche l'effet de surprise et dévie la trajectoire rectiligne.
+* **Oubli du réarmement :** Laisser tomber la jambe lourde et tendue après l'impact.
+
+> **Point clé :** La puissance du **Dwit Cha Jirugi** repose sur l'effet de **piston rectiligne** : le genou d'attaque reste frôler le genou d'appui avant de catapulter le dessous du talon (*Dwit Chook*) directement dans la cible.

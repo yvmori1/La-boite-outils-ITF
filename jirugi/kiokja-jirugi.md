@@ -1,5 +1,7 @@
 # Pique de poing en angle droit (Kiokja Jirugi)
 
+> 🔊 **Prononciation :** [ㄱ자 지르기](../audio/jirugi/kiokja-jirugi.m4a)
+
 Le **Kiokja Jirugi** (ㄱ자 지르기) est le **coup de poing en angle** (*Angle punch*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

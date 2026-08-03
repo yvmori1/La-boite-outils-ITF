@@ -1,5 +1,7 @@
 # Annun So Orun Ap Palkup Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 오른 앞팔굽 때리기](../audio/Techniques/Annun-So-Orun-Ap-Palkup-Taerigi.m4a)
+
 Le **Annun So Orun Ap Palkup Taerigi** (앉은 서 오른 앞팔굽 때리기) est le **coup de coude frontal droit en percussion en posture du cavalier** (*Sitting stance right front elbow strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque dévastatrice à très courte distance utilise la pointe osseuse du coude droit selon une trajectoire en arc circulaire, propulsée par la rotation du haut du corps et ancrée dans la stabilité de la posture du cavalier (*Annun Sogi*).

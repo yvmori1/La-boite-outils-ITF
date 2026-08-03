@@ -1,5 +1,7 @@
 # Coup de pied latéral perçant sauté (Twimyo Yopcha Jirugi)
 
+> 🔊 **Prononciation :** [뛰며 옆차 지르기](../audio/chagi/twimyo-yopcha-jirugi.m4a)
+
 Le **Twimyo Yopcha Jirugi** (뛰며 옆차 지르기) est le **coup de pied latéral perçant sauté** (ou *Flying side piercing kick*).
 
 C'est la **technique la plus emblématique et symbolique du TaeKwon-Do ITF**, rendue célèbre à travers le monde par le Général Choi Hong Hi et représentée sur de nombreux logos officiels de la discipline.

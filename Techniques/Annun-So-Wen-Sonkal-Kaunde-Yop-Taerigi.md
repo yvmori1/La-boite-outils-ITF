@@ -1,5 +1,7 @@
 # Annun So Wen Sonkal Kaunde Yop Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 왼 손칼 가운데 옆 때리기](../audio/Techniques/Annun-So-Wen-Sonkal-Kaunde-Yop-Taerigi.m4a)
+
 Le **Annun So Wen Sonkal Kaunde Yop Taerigi** (앉은 서 왼 손칼 가운데 옆 때리기) est la **frappe latérale moyenne cinglante au tranchant de la main gauche en posture du cavalier** (*Sitting stance left knife-hand middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque tranchante et percutante utilise le tranchant extérieur de la main ouverte (*Sonkal*) pour délivrer un coup cinglant à l'horizontale sur le flanc gauche (*Yop*) au niveau moyen (*Kaunde* : côtes flottantes, foie, plexus latéral ou bras adverse).

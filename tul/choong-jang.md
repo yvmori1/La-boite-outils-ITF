@@ -1,5 +1,7 @@
 # CHOONG-JANG
 
+> 🔊 **Prononciation :** [충장](../audio/tul/choong-jang.m4a)
+
 > **Grade :** 2e Dan
 
 * **Nombre de mouvements :**  52
@@ -49,7 +51,7 @@
 15. Déplacer le pied gauche vers C en tournant dans le sens horaire pour former une position en L gauche vers D en même temps en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 16. Déplacer le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage en levant avec la paume gauche.
-   *(Niunja so sonbadak bandae duro makgi)*
+   *([Niunja so sonbadak bandae duro makgi](../Techniques/Niunja-So-Sonbadak-Bandae-Duro-Makgi.md))*
 17. Déplacer le pied gauche vers C pour former une position en L gauche vers D tout en exécutant une frappe extérieure moyenne vers D avec le tranchant de la main droite.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 18. Exécuter un blocage en pression avec un poings croisés tout en formant une position de marche gauche vers C en pivotant avec le pied droit.

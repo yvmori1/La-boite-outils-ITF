@@ -1,5 +1,7 @@
 # Gojung So Digutja Jirugi
 
+> 🔊 **Prononciation :** [고정 서 ㄷ자 지르기](../audio/Techniques/Gojung-So-Digutja-Jirugi.m4a)
+
 Le **Gojung So Digutja Jirugi** (고정 서 ㄷ자 지르기) est le **coup de poing double en forme de « ㄷ » (U / C) en posture fixe** (*Fixed stance U-shape / 'ㄷ'-shape punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque simultanée dévastatrice projette deux coups de poing parallèles et superposés vers l'adversaire. La disposition des bras et du buste reproduit la forme de la lettre coréenne **« ㄷ »** (*Digyeut*). Elle s'exécute depuis la posture fixe (*Gojung Sogi*), qui offre une grande stabilité latérale et un ancrage puissant à 50/50.

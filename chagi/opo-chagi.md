@@ -1,5 +1,7 @@
 # Coup de pied horizontal (Opo Chagi)
 
+> 🔊 **Prononciation :** [어포차기](../audio/chagi/opo-chagi.m4a)
+
 Le **Opo Chagi** (어포차기) est le **coup de pied horizontal** ou **coup de pied à plat** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

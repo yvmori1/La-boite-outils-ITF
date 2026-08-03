@@ -1,5 +1,7 @@
 # Blocage latéral-avant (Yopap Makgi)
 
+> 🔊 **Prononciation :** [옆앞 막기](../audio/makgi/yopap-makgi.m4a)
+
 Le **Yobap Makgi** (옆앞 막기 — retranscrit **Yopap Makgi**) est le **blocage latéral-avant / oblique** (*Side front block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

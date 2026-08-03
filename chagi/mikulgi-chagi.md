@@ -1,5 +1,7 @@
 # Coup de pied glissé (Mikulgi Chagi)
 
+> 🔊 **Prononciation :** [미끌기 차기](../audio/chagi/mikulgi-chagi.m4a)
+
 Le **Mikulgi Chagi** (미끌기 차기) est le **coup de pied glissé** (*Sliding kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

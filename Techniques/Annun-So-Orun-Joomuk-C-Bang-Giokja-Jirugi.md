@@ -1,5 +1,7 @@
 # Annun So Orun Joomuk C-Bang Giokja Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 오른 주먹 ㄷ자](../audio/Techniques/Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.m4a)
+
 Le **Annun So Orun Joomuk C-Bang Giokja Jirugi** (앉은 서 오른 주먹 ㄷ자 / C방 ㄱ자 지르기) est le **coup de poing droit en angle encadré en forme de "C" (ou ㄷ) en posture du cavalier** (*Sitting stance right fist C-shape angle punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à moyenne/courte distance consiste à projeter le poing droit (*Orun Joomuk*) selon une trajectoire en d'équerre (angle à 90°, forme de la lettre coréenne *Giyeok* **ㄱ** ou *Digeut* **ㄷ** / C-shape) devant la poitrine, encadrant le buste pour frapper la ligne centrale ou le flanc de l'adversaire.

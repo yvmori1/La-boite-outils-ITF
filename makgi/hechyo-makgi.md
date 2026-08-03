@@ -1,5 +1,7 @@
 # Blocage d'arret (Hechyo Makgi)
 
+> 🔊 **Prononciation :** [헤쳐 막기](../audio/makgi/hechyo-makgi.m4a)
+
 Le **Hechyo Makgi** (헤쳐 막기 — couramment retranscrit **Heutcho Makgi** ou *Hech'yo Makgi*) est le **blocage écarté / blocage en coin** (*Wedging block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

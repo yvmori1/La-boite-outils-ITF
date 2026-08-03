@@ -1,5 +1,7 @@
 # Annun So Wen Dung Joomuk Yopdwi Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 왼 등주먹 옆뒤 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.m4a)
+
 Le **Annun So Wen Dung Joomuk Yopdwi Taerigi** (앉은 서 왼 등주먹 옆뒤 때리기) est la **frappe latérale-arrière cinglante avec le revers du poing gauche en posture du cavalier** (*Sitting stance left backfist side-rear strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque réflexe permet de neutraliser un agresseur situé dans l'angle mort diagonal arrière-gauche (*Yopdwi*), en projetant le revers du poing (*Dung Joomuk*) grâce à un coup de fouet rapide du coude, tout en conservant l'ancrage solide de la posture du cavalier.

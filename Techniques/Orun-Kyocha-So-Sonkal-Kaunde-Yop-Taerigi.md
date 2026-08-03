@@ -1,5 +1,7 @@
 # Orun Kyocha So Sonkal Kaunde Yop Taerigi
 
+> 🔊 **Prononciation :** [오른 교차 서 손칼 가운데 옆 때리기](../audio/Techniques/Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.m4a)
+
 Le **Orun Kyocha So Sonkal Kaunde Yop Taerigi** (오른 교차 서 손칼 가운데 옆 때리기) est une technique d'attaque latérale dynamique et compacte du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe latérale du tranchant de la main au niveau moyen en position croisée droite**.

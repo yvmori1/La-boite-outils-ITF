@@ -1,5 +1,7 @@
 # Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi
 
+> 🔊 **Prononciation :** [왼 교차 서 등주먹 바로 내려 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.m4a)
+
 Le **Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi** (왼 교차 서 등주먹 바로 내려 때리기) est le **coup cinglant descendant au revers du poing direct en posture en X gauche** (*Left X-stance backfist obverse downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque verticale combine la compacité d'un déplacement croisé en posture en X (*Kyocha Sogi*) avec l'énergie percutante d'une frappe descendante du revers du poing (*Dung Joomuk Naeryo Taerigi*). L'indication **Baro** (direct) précise que la frappe est portée par le bras du **même côté que la jambe croisée à l'avant** (donc la main gauche avec la jambe gauche devant).

@@ -1,5 +1,7 @@
 # Blocage descendant (Naeryo Makgi)
 
+> 🔊 **Prononciation :** [내려 막기](../audio/makgi/naeryo-makgi.m4a)
+
 Le **Naeryo Makgi** (내려 막기) est le **blocage descendant** (*Downward block* ou *Descending block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

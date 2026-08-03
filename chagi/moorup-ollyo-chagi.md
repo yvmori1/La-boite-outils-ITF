@@ -1,5 +1,7 @@
 # Coup de genou remontant (Moorup Ollyo Chagi)
 
+> 🔊 **Prononciation :** [무릎 올려차기](../audio/chagi/moorup-ollyo-chagi.m4a)
+
 Le **Moorup Ollyo Chagi** (무릎 올려차기) est le **coup de genou remontant** (ou *Knee upward kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

@@ -1,5 +1,7 @@
 # Coup de pied vrillé (Bituro Chagi)
 
+> 🔊 **Prononciation :** [비틀어 차기](../audio/chagi/bituro-chagi.m4a)
+
 Le **Bituro Chagi** (비틀어 차기) est le **coup de pied vrillé** (*Twisting kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

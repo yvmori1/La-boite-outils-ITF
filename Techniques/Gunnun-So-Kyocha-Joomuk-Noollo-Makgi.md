@@ -1,5 +1,7 @@
 # Gunnun So Kyocha Joomuk Noollo Makgi
 
+> 🔊 **Prononciation :** [걷는 서 교차 주먹 눌러 막기](../audio/Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.m4a)
+
 Le **Gunnun So Kyocha Joomuk Noollo Makgi** (걷는 서 교차 주먹 눌러 막기) est le **blocage descendant en pression avec poings croisés (en X) en posture de marche** (*Walking stance crossed fist pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le croisement des deux poignets (**Kyocha Joomuk**) pour exercer une pression puissante du haut vers le bas (**Noollo**). Elle sert à intercepter, écraser ou dévier une attaque basse (coup de pied direct bas, coup de poing bas ou tentative de saisie) arrivant au niveau du bas-ventre ou des cuisses.

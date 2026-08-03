@@ -1,5 +1,7 @@
 # Annun So Orun Joomuk Giokja Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Annun-So-Orun-Joomuk-Giokja-Jirugi.m4a)
+
 Le **Annun So Orun Joomuk Giokja Jirugi** (앉은 서 오른 주먹 ㄱ자 지르기) est le **coup de poing droit en angle (à 90°) en posture du cavalier** (*Sitting stance right forefist angle punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à courte et moyenne distance consiste à projeter le poing droit (*Orun Joomuk*) selon une trajectoire en d'équerre à 90°, formant la silhouette du caractère coréen *Giyeok* (**ㄱ**), pour venir frapper l'axe central ou le flanc de l'adversaire en contournant sa garde frontale.

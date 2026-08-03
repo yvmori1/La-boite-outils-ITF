@@ -1,5 +1,7 @@
 # WON-HYO
 
+> 🔊 **Prononciation :** [원효](../audio/tul/won-hyo.m4a)
+
 > **Grade :** 6e Gup — Ceinture verte
 
 * **Nombre de mouvements :**  28

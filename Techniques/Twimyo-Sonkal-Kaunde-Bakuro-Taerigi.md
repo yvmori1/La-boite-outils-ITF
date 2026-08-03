@@ -1,5 +1,7 @@
 # Twimyo Sonkal Kaunde Bakuro Taerigi
 
+> 🔊 **Prononciation :** [뛰며 손칼 가운데 바깥으로 때리기](../audio/Techniques/Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.m4a)
+
 Le **Twimyo Sonkal Kaunde Bakuro Taerigi** (뛰며 손칼 가운데 바깥으로 때리기) est le **coup cinglant sauté moyen au tranchant de la main vers l'extérieur** (*Flying middle outward knife-hand strike*) en TaeKwon-Do ITF.
 
 Cette technique aérienne spectaculaire combine l'impulsion et la vitesse d'un saut (*Twimyo*) avec la précision tranchante d'une frappe fouettée exécutée du dedans vers l'extérieur (*Bakuro Taerigi*) au niveau moyen (*Kaunde*). Elle permet de franchir la garde adverse pour cibler les zones vulnérables du haut du buste ou du cou.

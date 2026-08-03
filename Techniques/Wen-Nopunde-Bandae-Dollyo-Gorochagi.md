@@ -1,5 +1,7 @@
 # Wen Nopunde Bandae Dollyo Gorochagi
 
+> 🔊 **Prononciation :** [왼 높인데 반대 돌려 걸어차기](../audio/Techniques/Wen-Nopunde-Bandae-Dollyo-Gorochagi.m4a)
+
 Le **Wen Nopunde Bandae Dollyo Gorochagi** (왼 높인데 반대 돌려 걸어차기) est le **coup de pied crocheté tournant inversé haut de la jambe gauche** (*Left high reverse turning hook kick*) en TaeKwon-Do ITF.
 
 Souvent considéré comme l'un des coups de pied les plus spectaculaires et destructeurs des arts martiaux, il combine l'énergie cinétique d'une rotation complète du corps (*Bandae Dollyo*) avec l'action d'un fouetté crocheté du talon (*Gorochagi*). Exécuté avec la **jambe gauche** (*Wen*) au **niveau haut** (*Nopunde* — visage / tête), il exploite l'angle mort de l'adversaire pour passer par-dessus sa garde.

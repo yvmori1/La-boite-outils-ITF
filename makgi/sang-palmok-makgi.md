@@ -1,5 +1,7 @@
 # Blocage double des avant-bras (Sang Palmok Makgi)
 
+> 🔊 **Prononciation :** [쌍팔목 막기](../audio/makgi/sang-palmok-makgi.m4a)
+
 Le **Sang Palmok Makgi** (쌍팔목 막기) est le **blocage double des avant-bras** (*Twin forearm block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

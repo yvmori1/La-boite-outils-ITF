@@ -1,5 +1,7 @@
 # Wen Nopunde Yopcha Jirugi
 
+> 🔊 **Prononciation :** [왼 높인데 옆차 지르기](../audio/Techniques/Wen-Nopunde-Yopcha-Jirugi.m4a)
+
 Le **Wen Nopunde Yopcha Jirugi** (왼 높인데 옆차 지르기) est le **coup de pied latéral perçant haut de la jambe gauche** (*Left high side piercing kick*) en TaeKwon-Do ITF.
 
 Considéré comme l'une des techniques emblématiques du TaeKwon-Do, le *Yop Cha Jirugi* est un coup de pied en piston qui engage tout le poids du corps derrière le tranchant du pied ou le talon. L'exécution avec la **jambe gauche** (*Wen*) au **niveau haut** (*Nopunde* — tête, tempe, mâchoire) exige une excellente ouverture de hanche, un pivot parfait du pied d'appui et un alignement corporel rigoureux.

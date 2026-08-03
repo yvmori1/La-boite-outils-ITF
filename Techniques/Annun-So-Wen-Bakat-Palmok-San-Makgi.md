@@ -1,5 +1,7 @@
 # Annun So Wen Bakat Palmok San Makgi
 
+> 🔊 **Prononciation :** [앉은 서 왼 바깥팔목 산 막기](../audio/Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.m4a)
+
 Le **Annun So Wen Bakat Palmok San Makgi** (앉은 서 왼 바깥팔목 산 막기) est le **blocage en montagne (ou en "W") gauche avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance left outer forearm W-shape / mountain block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale puissante utilise simultanément les deux avant-bras fermés en poings (*Bakat Palmok*) pour former la silhouette de la montagne (**W-shape** / caractère **山**). Le terme **Wen** (gauche) indique que l'attention visuelle et la direction prioritaire d'interception (*Siseon*) sont orientées vers la gauche.

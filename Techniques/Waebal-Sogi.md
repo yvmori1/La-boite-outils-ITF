@@ -1,5 +1,7 @@
 # Waebal Sogi
 
+> 🔊 **Prononciation :** [외발 서기](../audio/Techniques/Waebal-Sogi.m4a)
+
 Le **Waebal Sogi** (외발 서기) est la **posture sur une seule jambe** (*One-leg stance*) en TaeKwon-Do ITF.
 
 Cette posture unilatérale place 100% de la masse corporelle sur une seule jambe. Contrairement à la posture *Guburyo Sogi* (dans laquelle la jambe d'appui est fortement fléchie en ressort), le **Waebal Sogi** s'exécute avec la **jambe d'appui tendue** (ou très légèrement déverrouillée). Elle exige une excellente stabilité unilatérale, un gainage du bassin parfait et un alignement vertical rigoureux.

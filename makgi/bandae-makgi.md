@@ -1,5 +1,7 @@
 # Blocage inversé (Bandae Makgi)
 
+> 🔊 **Prononciation :** [반대 막기](../audio/makgi/bandae-makgi.m4a)
+
 Le **Bandae Makgi** (반대 막기) est le **blocage inversé** ou **blocage opposé** (*Reverse block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

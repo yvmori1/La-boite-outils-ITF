@@ -1,5 +1,7 @@
 # Annun So Sonkal Dung Najunde C-Bang Daebi Makgi
 
+> 🔊 **Prononciation :** [앉은 서 손칼등 낮운데 ㄷ자 대비 막기](../audio/Techniques/Annun-So-Sonkal-Dung-Najunde-C-Bang-Daebi-Makgi.m4a)
+
 Le **Annun So Sonkal Dung Najunde C-Bang Daebi Makgi** (앉은 서 손칼등 낮운데 ㄷ자 대비 막기) est le **blocage de garde bas en forme de "C" avec le tranchant interne des mains en posture du cavalier** (*Sitting stance reverse knife-hand low C-shape guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive sophistiquée combine la protection d'un blocage de garde (*Daebi Makgi*) et la structure géométrique d'un cadre en "C" (ou de la lettre coréenne *Digeut* **ㄷ**), en utilisant la surface dure du tranchant interne des deux mains (*Sonkal Dung*) pour intercepter et dévier les attaques basses.

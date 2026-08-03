@@ -1,5 +1,7 @@
 # SE-JONG
 
+> 🔊 **Prononciation :** [세종](../audio/tul/se-jong.m4a)
+
 > **Grade :** 5e Dan
 
 * **Nombre de mouvements :**  24
@@ -24,7 +26,7 @@
 5. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers E pour former une position assise vers D tout en exécutant une frappe moyenne vers E avec le tranchant de la main droite.
    *([Annun so orun sonkal kaunde yop taerigi](../Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md))*
 6. Ramener le pied droit vers le pied gauche, pour former un position de préparation fermée B vers D.
-   *(Moa junbi sogi B)*
+   *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
 7. Sauter vers D pour former une position en X gauche vers DG tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche, en amenant la pulpe des doigts droit vers le gauche côté poing.
    *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
 8. Déplacer le pied droit vers G, pour former une position de marche droite vers G tout en exécutant un coup de poing haut vers G avec le poing droit.
@@ -55,7 +57,7 @@
 19. Tirer le gauche inversé tranchant du pied vers le genou droit articulation pour former une position sur une jambe droite vers C en même temps en exécutant un blocage latéral haut vers F avec l'avant-bras extérieur droit et un blocage latéral bas vers E avec l'avant-bras gauche.
    *([Waebal so bakat palmok nopunde baro yop makgi](../makgi/yop-makgi.md) wa [palmok najunde bandae yop makgi](../makgi/yop-makgi.md))*
 20. Abaisser le pied gauche vers D pour former une position de marche droite vers C tout en exécutant un blocage en pression avec la paume droite.
-   *(Gunnun so sonbadak baro noollo makgi)*
+   *([Gunnun so sonbadak baro noollo makgi](../Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md))*
 
    > *Exécuter en mouvement lent.*
 

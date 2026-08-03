@@ -1,5 +1,7 @@
 # Coup de pied consécutif (Yonsok Chagi)
 
+> 🔊 **Prononciation :** [연속차기](../audio/chagi/yonsok-chagi.m4a)
+
 Le **Yonsok Chagi** (연속차기) désigne l'exécution de **coups de pied consécutifs** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est simple :

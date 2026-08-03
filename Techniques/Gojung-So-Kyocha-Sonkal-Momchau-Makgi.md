@@ -1,5 +1,7 @@
 # Gojung So Kyocha Sonkal Momchau Makgi
 
+> 🔊 **Prononciation :** [고정 서 교차 손칼 멈추 막기](../audio/Techniques/Gojung-So-Kyocha-Sonkal-Momchau-Makgi.m4a)
+
 Le **Gojung So Kyocha Sonkal Momchau Makgi** (고정 서 교차 손칼 멈추 막기) est le **blocage d'arrêt croisé avec le tranchant des mains en posture fixe** (*Fixed stance X-knife-hand checking / stopping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à deux mains combine la stabilité lourde de la posture fixe (*Gojung Sogi*) avec la structure renforcée du croisement en X des tranchants de mains (*Kyocha Sonkal*). Son rôle spécifique de blocage d'arrêt (*Momchau Makgi*) consiste à couper net, stopper ou coincer la trajectoire d'une attaque directe puissante (comme un coup de pied direct *Ap Chagi* ou une frappe descendante) au moment précis de son déclenchement.

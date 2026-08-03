@@ -1,5 +1,7 @@
 # Orun Niunja So Palmok Kaunde Daebi Makgi
 
+> 🔊 **Prononciation :** [오른 ㄴ자 서 팔목 가운데 대비 막기](../audio/Techniques/Orun-Niunja-So-Palmok-Kaunde-Daebi-Makgi.m4a)
+
 Le **Orun Niunja So Palmok Kaunde Daebi Makgi** (오른 ㄴ자 서 팔목 가운데 대비 막기) est l'un des blocages de garde les plus essentiels et utilisés du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position L droite**.

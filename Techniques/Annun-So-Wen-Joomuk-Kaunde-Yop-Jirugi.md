@@ -1,5 +1,7 @@
 # Annun So Wen Joomuk Kaunde Yop Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 왼 주먹 가운데 옆 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Kaunde-Yop-Jirugi.m4a)
+
 Le **Annun So Wen Joomuk Kaunde Yop Jirugi** (앉은 서 왼 주먹 가운데 옆 지르기) est le **coup de poing latéral moyen gauche avec le devant du poing en posture du cavalier** (*Sitting stance left forefist middle side punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque directe propulse le poing gauche (*Wen Joomuk*) perpendiculairement vers le flanc gauche (*Yop*) au niveau moyen (*Kaunde* : côtes, foie, plexus latéral), tout en conservant le buste et la posture du cavalier (*Annun Sogi*) orientés vers l'avant.

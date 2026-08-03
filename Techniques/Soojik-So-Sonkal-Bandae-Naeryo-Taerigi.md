@@ -1,5 +1,7 @@
 # Soojik So Sonkal Bandae Naeryo Taerigi
 
+> 🔊 **Prononciation :** [수직 서 손칼 반대 내려 때리기](../audio/Techniques/Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.m4a)
+
 Le **Soojik So Sonkal Bandae Naeryo Taerigi** (수직 서 손칼 반대 내려 때리기) est le **coup percutant descendant inversé au tranchant de la main en posture verticale** (*Vertical stance reverse knife-hand downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque tranchante et puissante s'abat du haut vers le bas à la manière d'une hache en exploitant l'énergie de pesanteur. Exécutée avec le tranchant de la main ouverte (**Sonkal**) en posture verticale (**Soojik Sogi**), elle cible des zones fragiles ou des structures osseuses hautes à moyennes (clavicule, arête du nez, épaule ou bras de l'adversaire).

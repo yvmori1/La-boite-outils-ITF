@@ -1,5 +1,7 @@
 # Wen Kyocha So Doo Palmok Nopunde Makgi
 
+> 🔊 **Prononciation :** [왼 교차 서 두 팔목 높인데 막기](../audio/Techniques/Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.m4a)
+
 Le **Wen Kyocha So Doo Palmok Nopunde Makgi** (왼 교차 서 두 팔목 높인데 막기) est le **blocage haut au double avant-bras en posture en X gauche** (*Left X-stance double forearm high block*) en TaeKwon-Do ITF.
 
 Cette technique défensive particulièrement puissante associe la structure renforcée du blocage au double avant-bras (*Doo Palmok*) avec la mobilité et la compacité de la posture en X (*Kyocha Sogi*). Elle permet d'intercepter et d'absorber des attaques lourdes dirigées vers la tête (coups de pied descendants, coups de poing plongeants ou attaques armées) tout en sortant légèrement de l'axe direct de l'agresseur.

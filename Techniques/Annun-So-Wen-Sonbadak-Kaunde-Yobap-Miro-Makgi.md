@@ -1,5 +1,7 @@
 # Annun So Wen Sonbadak Kaunde Yobap Miro Makgi
 
+> 🔊 **Prononciation :** [앉은 서 왼 손바닥 가운데 옆앞 밀어 막기](../audio/Techniques/Annun-So-Wen-Sonbadak-Kaunde-Yobap-Miro-Makgi.m4a)
+
 Le **Annun So Wen Sonbadak Kaunde Yobap Miro Makgi** (앉은 서 왼 손바닥 가운데 옆앞 밀어 막기) est le **blocage poussoir moyen latéral-frontal gauche avec la paume de la main en posture du cavalier** (*Sitting stance left palm middle side-front pushing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive contrôlée utilise la paume de la main gauche (*Sonbadak*) dans un mouvement de pression ou de poussée fluide et continue (*Miro*) vers la diagonale à 45° (*Yobap*). Elle permet d'intercepter, d'absorber et de repousser une attaque moyenne (coup de poing, coup de pied direct ou oblique) sans choc osseux brutal.

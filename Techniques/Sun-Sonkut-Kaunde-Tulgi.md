@@ -1,5 +1,7 @@
 # Sun Sonkut Kaunde Tulgi
 
+> 🔊 **Prononciation :** [선 손끝 가운데 찌르기](../audio/Techniques/Sun-Sonkut-Kaunde-Tulgi.m4a)
+
 Le **Sun Sonkut Kaunde Tulgi** (선 손끝 가운데 찌르기 — couramment retranscrit **Sun Sonkut Kaujunde Tulgi**) est la **pique verticale de l'extrémité des doigts au niveau moyen** (*Straight fingertip middle thrust*) en TaeKwon-Do ITF.
 
 C'est l'attaque classique à main ouverte la plus enseignée, conçue pour transpercer les défenses étroites et atteindre avec précision le plexus solaire.

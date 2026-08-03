@@ -1,5 +1,7 @@
 # Dwitbal So Sonmok Dung Bandae Ollyo Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 손목등 반대 올려 막기](../audio/Techniques/Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.m4a)
+
 Le **Dwitbal So Sonmok Dung Bandae Ollyo Makgi** (뒷발 서 손목등 반대 올려 막기) est le **blocage montant inverse avec le dessus/dos du poignet en posture du pied arrière** (*Rear foot stance reverse wrist upward reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive spécialisée utilise l'arête arrondie formée par la flexion de l'articulation du poignet (*Sonmok Dung*) du bras opposé à la jambe avant (*Bandae*) pour soulever ou dévier vers le haut (*Ollyo*) une attaque haute (coup de poing au visage, coup de pied direct au menton), tout en reculant le corps en sécurité grâce à la posture du pied arrière (*Dwitbal Sogi*).

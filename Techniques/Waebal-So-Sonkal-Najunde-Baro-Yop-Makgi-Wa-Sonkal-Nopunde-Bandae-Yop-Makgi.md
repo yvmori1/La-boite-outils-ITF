@@ -1,5 +1,7 @@
 # Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi
 
+> 🔊 **Prononciation :** [외발 서 손칼 낮은데 바로 옆 막기 와 손칼 높인데 반대 옆 막기](../audio/Techniques/Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.m4a)
+
 Le **Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi** (외발 서 손칼 낮은데 바로 옆 막기 와 손칼 높인데 반대 옆 막기) est le **blocage latéral simultané au tranchant des mains — bas direct et haut inversé — en posture sur une seule jambe** (*One-leg stance low obverse knife-hand side block and high reverse knife-hand side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive double et hautement complexe permet de neutraliser simultanément deux attaques (ou une attaque combinée haut/bas) arrivant de côté, tout en retirant une jambe du sol pour esquiver un balayage.

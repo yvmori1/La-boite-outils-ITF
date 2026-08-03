@@ -1,5 +1,7 @@
 # Coup de pied bas (Hache Chagi)
 
+> 🔊 **Prononciation :** [하체 차기](../audio/chagi/hache-chagi.m4a)
+
 Le **Hache Chagi** (하체 차기) — souvent associé ou utilisé de manière interchangeable avec **Najunde Chagi** (나중데 차기) — est le **coup de pied bas / coup de pied aux membres inférieurs** (*Low kick*).
 
 Sa décomposition linguistique est la suivante :

@@ -1,5 +1,7 @@
 # Annun So Orun Dung Joomuk Yopdwi Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 오른 등주먹 옆뒤 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.m4a)
+
 Le **Annun So Orun Dung Joomuk Yopdwi Taerigi** (앉은 서 오른 등주먹 옆뒤 때리기) est la **frappe latérale-arrière avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist side-rear strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque cinglante utilise l'effet de ressort du coude pour projeter le revers du poing droit (*Dung Joomuk*) vers un adversaire situé dans un angle mort : la **diagonale arrière-droite** (environ 135° par rapport à l'axe frontal).

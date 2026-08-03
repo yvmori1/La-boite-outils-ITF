@@ -1,5 +1,7 @@
 # Blocage circulaire (Dollimyo Makgi)
 
+> 🔊 **Prononciation :** [돌리며 막기](../audio/makgi/dollimyo-makgi.m4a)
+
 Le **Dollimyo Makgi** (돌리며 막기) est le **blocage circulaire / blocage en cuillère** (*Scooping block* ou *Circular block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

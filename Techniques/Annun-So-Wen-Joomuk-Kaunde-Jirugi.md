@@ -1,5 +1,7 @@
 # Annun So Wen Joomuk Kaunde Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 왼 주먹 가운데 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Kaunde-Jirugi.m4a)
+
 Le **Annun So Wen Joomuk Kaunde Jirugi** (앉은 서 왼 주먹 가운데 지르기) est le **coup de poing moyen gauche en posture du cavalier** (*Sitting stance left middle punch*) en TaeKwon-Do ITF.
 
 En terminologie ITF, lorsque le verbe **Jirugi** est employé sans précision directionnelle (*Yop* pour latéral ou *Dwit* pour arrière), il s'agit par défaut d'une frappe directe vers l'avant (*Ap*). Il s'agit donc de la nomenclature usuelle et complète de la frappe fondamentale au plexus exécutée en posture du cavalier.

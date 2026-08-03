@@ -1,5 +1,7 @@
 # Annun So Orun Sonbadak Duro Makgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 손바닥 들러막기](../audio/Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.m4a)
+
 Le **Annun So Orun Sonbadak Duro Makgi** (앉은 서 오른 손바닥 들러막기 / 두로막기 — parfois translittéré *Dulleo Makgi*) est le **blocage en cuillère droit avec la paume de la main en posture du cavalier** (*Sitting stance right palm scooping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive subtile ne cherche pas à percuter violemment l'attaque adverse, mais à la **cueillir par le dessous en mouvement circulaire** pour élever le membre attaquant (généralement un coup de pied) et briser l'équilibre de l'agresseur.

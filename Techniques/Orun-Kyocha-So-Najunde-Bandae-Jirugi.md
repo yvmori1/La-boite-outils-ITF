@@ -1,5 +1,7 @@
 # Orun Kyocha So Najunde Bandae Jirugi
 
+> 🔊 **Prononciation :** [오른 교차 서 낮은데 반대 지르기](../audio/Techniques/Orun-Kyocha-So-Najunde-Bandae-Jirugi.m4a)
+
 Le **Orun Kyocha So Najunde Bandae Jirugi** (오른 교차 서 낮은데 반대 지르기) est une technique d'attaque directe, compacte et surprenante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de poing direct inversé au niveau bas en position croisée droite**.

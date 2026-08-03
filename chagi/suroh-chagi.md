@@ -1,5 +1,7 @@
 # Coup de pied balayé (Suroh Chagi)
 
+> 🔊 **Prononciation :** [쓸어 차기](../audio/chagi/suroh-chagi.m4a)
+
 Le **Suroh Chagi** (쓸어 차기 — parfois retranscrit *Seuro Chagi*) est le **coup de pied balayé / balayage** (*Sweeping kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

@@ -1,5 +1,7 @@
 # Orun Niunja So Sonkal Kaunde Daebi Makgi
 
+> 🔊 **Prononciation :** [오른 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Orun-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)
+
 Le **Orun Niunja So Sonkal Kaunde Daebi Makgi** (오른 ㄴ자 서 손칼 가운데 대비 막기) est la posture défensive par excellence et l'une des techniques les plus fondamentales du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage de garde moyen au tranchant de la main en position L droite**.

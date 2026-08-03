@@ -1,5 +1,7 @@
 # Coup de pied descendant (Naeryo Chagi)
 
+> 🔊 **Prononciation :** [내려차기](../audio/chagi/naeryo-chagi.m4a)
+
 Le **Naeryo Chagi** (내려차기) est le **coup de pied descendant** (communément appelé *Axe Kick* ou *Coup de pied en hache*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

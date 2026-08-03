@@ -1,5 +1,7 @@
 # Annun So Wen Opun Sonkut Kaunde Tulgi
 
+> 🔊 **Prononciation :** [앉은 서 왼 엎은 손끝 가운데 찌르기](../audio/Techniques/Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.m4a)
+
 Le **Annun So Wen Opun Sonkut Kaunde Tulgi** (앉은 서 왼 엎은 손끝 가운데 찌르기) est la **pique moyenne du bout des doigts à plat du bras gauche en posture du cavalier** (*Sitting stance left flat fingertip middle thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque perçante et précise utilise le bout des doigts de la main gauche (*Opun Sonkut*) orientés la paume vers le sol pour s'infiltrer et percuter une cible souple ou vitale au niveau moyen (*Kaunde*), comme le plexus solaire ou l'épigastre.

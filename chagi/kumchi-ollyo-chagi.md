@@ -1,5 +1,7 @@
 # Coup de pied montant percutant au talon (Kumchi Ollyo Chagi)
 
+> 🔊 **Prononciation :** [꿈치 올려차기](../audio/chagi/kumchi-ollyo-chagi.m4a)
+
 Le **Kumchi Ollyo Chagi** (꿈치 올려차기) est le **coup de pied montant percutant au talon / au bol du pied** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

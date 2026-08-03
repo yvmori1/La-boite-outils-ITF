@@ -1,5 +1,7 @@
 # Sonbadak Kaunde Golcho Makgi
 
+> 🔊 **Prononciation :** [손바닥 가운데 걸쳐 막기](../audio/Techniques/Sonbadak-Kaunde-Golcho-Makgi.m4a)
+
 Le **Sonbadak Kaunde Golcho Makgi** (손바닥 가운데 걸쳐 막기) est une technique défensive fluide et fondamentale du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage crocheté au niveau moyen avec la paume de la main**.

@@ -1,5 +1,7 @@
 # Orun Dung Joomuk Nopunde Yop Taerigi
 
+> 🔊 **Prononciation :** [오른 등 주먹 높은데 옆 때리기](../audio/Techniques/Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+
 Le **Orun Dung Joomuk Nopunde Yop Taerigi** (오른 등 주먹 높은데 옆 때리기) est une technique d'attaque latérale explosive, rapide et fustigeante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe latérale du revers du poing droit au niveau haut**.

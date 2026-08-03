@@ -1,5 +1,7 @@
 # JUCHE
 
+> 🔊 **Prononciation :** [주체](../audio/tul/juche.m4a)
+
 > **Grade :** 2e Dan
 
 * **Nombre de mouvements :**  45

@@ -1,5 +1,7 @@
 # Coup de pied crocheté inversé (Bandae Dollyo Goro Chagi)
 
+> 🔊 **Prononciation :** [반대 돌려 걸어 차기](../audio/chagi/bandae-dollyo-goro-chagi.m4a)
+
 Le **Bandae Dollyo Goro Chagi** (반대 돌려 걸어 차기) est le **coup de pied crocheté inversé** (ou *Reverse turning hooking kick* / *Reverse hooking kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

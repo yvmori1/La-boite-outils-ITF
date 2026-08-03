@@ -1,5 +1,7 @@
 # Guburyo Junbi Sogi A
 
+> 🔊 **Prononciation :** [구부려 준비 서기](../audio/Techniques/Guburyo-Junbi-Sogi-A.m4a)
+
 Le **Guburyo Junbi Sogi A** (구부려 준비 서기 A) est la **posture préparatoire fléchie sur une jambe — Variante A** (*Bending ready stance A*) en TaeKwon-Do ITF.
 
 Cette posture unilatérale d'attente et de armement est l'une des plus célèbres du TaeKwon-Do (utilisée notamment comme position de départ dans les patrons *Won-Hyo* ou *Po-Eun*). Elle concentre 100% de la masse corporelle sur une seule jambe fortement fléchie, tout en armant la jambe libre à hauteur du genou. Elle sert de rampe de lancement explosive pour décocher un coup de pied latéral perçant (*Yop Cha Jirugi*) ou un coup de pied retourné avec une puissance de pénétration maximale.

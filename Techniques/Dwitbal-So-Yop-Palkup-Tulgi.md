@@ -1,5 +1,7 @@
 # Dwitbal So Yop Palkup Tulgi
 
+> 🔊 **Prononciation :** [뒷발 서 옆 팔굽 찌르기](../audio/Techniques/Dwitbal-So-Yop-Palkup-Tulgi.m4a)
+
 Le **Dwitbal So Yop Palkup Tulgi** (뒷발 서 옆 팔굽 찌르기) est la **pique latérale du coude en posture du pied arrière** (*Rear foot stance side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque dévastatrice à très courte distance utilise la pointe osseuse du coude (*Palkup*) pour exécuter une poussée rectiligne en piston (*Tulgi*) vers le côté à 90° (*Yop*). Elle permet d'impacter violemment les côtes, le plexus ou la mâchoire d'un adversaire situé sur votre flanc, tout en conservant une protection maximale grâce au recul du corps sur la jambe arrière (*Dwitbal Sogi*).

@@ -1,5 +1,7 @@
 # Blocage au niveau de la taille (Hori Makgi)
 
+> 🔊 **Prononciation :** [허리 막기](../audio/makgi/hori-makgi.m4a)
+
 Le **Hori Makgi** (허리 막기) est le **blocage au niveau de la taille / de la ceinture** (*Waist block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

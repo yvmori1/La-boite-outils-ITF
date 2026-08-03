@@ -1,5 +1,7 @@
 # Frappe du revers du poing (*Ikwon Taerigi*)
 
+> 🔊 **Prononciation :** [이권 때리기](../audio/jirugi/ikwon-taerigi.m4a)
+
 Le **Ikwon Taerigi** (이권 때리기 — ou *Ri-kwon Taerigi*) est la **frappe du revers du poing** (*Backfist strike*).
 
 Sa décomposition linguistique est la suivante :

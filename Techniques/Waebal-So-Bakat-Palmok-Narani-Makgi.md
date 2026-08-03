@@ -1,5 +1,7 @@
 # Waebal So Bakat Palmok Narani Makgi
 
+> 🔊 **Prononciation :** [외발 서 바깥 팔목 나란히 막기](../audio/Techniques/Waebal-So-Bakat-Palmok-Narani-Makgi.m4a)
+
 Le **Waebal So Bakat Palmok Narani Makgi** (외발 서 바깥 팔목 나란히 막기) est le **blocage parallèle à l'extérieur des avant-bras en posture sur une seule jambe** (*One-leg stance outer forearm parallel block*) en TaeKwon-Do ITF.
 
 Cette technique défensive spécialisée dresse un double rail protecteur constitué par les deux avant-bras évoluant de manière strictement parallèle (*Narani*). Elle permet d'intercepter des attaques puissantes (coups de poing ou coups de pied) tout en retirant la jambe avant du sol pour esquiver un balayage ou un fauchage bas.

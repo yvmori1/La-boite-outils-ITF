@@ -1,5 +1,7 @@
 # Annun So Wen Soopyong Jirugi
 
+> 🔊 **Prononciation :** [앉은 서 왼 수평 지르기](../audio/Techniques/Annun-So-Wen-Soopyong-Jirugi.m4a)
+
 Le **Annun So Wen Soopyong Jirugi** (앉은 서 왼 수평 지르기) est le **coup de poing horizontal gauche en posture du cavalier** (*Sitting stance left horizontal punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque directe utilise le devant du poing gauche (*Ap Joomuk*) pour impacter une cible en maintenant le bras et le poing sur un plan strictement horizontal (*Soopyong*), offrant une grande stabilité axiale combinée à la puissance d'ancrage de la posture du cavalier (*Annun Sogi*).

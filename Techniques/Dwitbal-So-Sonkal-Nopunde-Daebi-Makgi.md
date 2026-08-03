@@ -1,5 +1,7 @@
 # Dwitbal So Sonkal Nopunde Daebi Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 손칼 높인데 대비 막기](../audio/Techniques/Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.m4a)
+
 Le **Dwitbal So Sonkal Nopunde Daebi Makgi** (뒷발 서 손칼 높인데 대비 막기) est le **blocage de garde haut au double tranchant de la main en posture du pied arrière** (*Rear foot stance knife-hand high guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à deux mains combine la polyvalence protectrice du tranchant des mains ouvertes (*Sonkal*) avec l'esquive en retrait de la posture *Dwitbal Sogi* (95% du poids sur la jambe arrière). Elle protège la tête et le visage (*Nopunde*) contre les attaques hautes tout en offrant une réactivité maximale pour riposter.

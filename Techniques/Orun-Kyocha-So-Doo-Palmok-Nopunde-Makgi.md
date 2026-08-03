@@ -1,5 +1,7 @@
 # Orun Kyocha So Doo Palmok Nopunde Makgi
 
+> 🔊 **Prononciation :** [오른 교차 서 두 팔목 높은데 막기](../audio/Techniques/Orun-Kyocha-So-Doo-Palmok-Nopunde-Makgi.m4a)
+
 Le **Orun Kyocha So Doo Palmok Nopunde Makgi** (오른 교차 서 두 팔목 높은데 막기) est une technique défensive renforcée, particulièrement robuste et stable du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage au niveau haut au double avant-bras en position croisée droite**.

@@ -1,5 +1,7 @@
 # Coup de poing vers le bas (Naeryo Jirugi)
 
+> 🔊 **Prononciation :** [내려 지르기](../audio/jirugi/naeryo-jirugi.m4a)
+
 Le **Naeryo Jirugi** (내려 지르기) est le **coup de poing descendant** (*Downward punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rectiligne consiste à projeter le poing de haut en bas le long d'un axe vertical ou oblique descendant, en combinant la force du bras à l'abaissement lourd du centre de gravité.

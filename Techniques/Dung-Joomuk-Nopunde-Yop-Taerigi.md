@@ -1,5 +1,7 @@
 # Dung Joomuk Nopunde Yop Taerigi
 
+> 🔊 **Prononciation :** [등주먹 높인데 옆 때리기](../audio/Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+
 Le **Dung Joomuk Nopunde Yop Taerigi** (등주먹 높인데 옆 때리기) est la **frappe latérale haute cinglante avec le revers du poing** (*High side backfist strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et fouettée exploite le revers du poing (*Dung Joomuk*) pour délivrer un coup percutant en arc de cercle vers le flanc (*Yop*) au niveau haut (*Nopunde* : tempe, mâchoire, nez ou philtrum).

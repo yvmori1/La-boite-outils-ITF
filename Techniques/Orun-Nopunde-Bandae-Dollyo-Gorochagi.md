@@ -1,5 +1,7 @@
 # Orun Nopunde Bandae Dollyo Gorochagi
 
+> 🔊 **Prononciation :** [오른 높은데 반대 돌려 걸어차기](../audio/Techniques/Orun-Nopunde-Bandae-Dollyo-Gorochagi.m4a)
+
 Le **Orun Nopunde Bandae Dollyo Gorochagi** (오른 높은데 반대 돌려 걸어차기) est une technique d'attaque spectaculaire, rapide et extrêmement dévastatrice du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied crocheté retourné circulaire du pied droit au niveau haut**.

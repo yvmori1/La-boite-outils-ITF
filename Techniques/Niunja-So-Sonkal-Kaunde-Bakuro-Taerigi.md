@@ -1,5 +1,7 @@
 # Niunja So Sonkal Kaunde Bakuro Taerigi
 
+> 🔊 **Prononciation :** [ㄴ자 서 손칼 가운데 바깥으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.m4a)
+
 Le **Niunja So Sonkal Kaunde Bakuro Taerigi** (ㄴ자 서 손칼 가운데 바깥으로 때리기 — couramment retranscrit **Niunja Sogi Sonkal Kaujunde Bakuro Taerigi**) est la **frappe moyenne vers l'extérieur avec le tranchant de la main en posture en L** (*Middle outward knife-hand strike in L-stance*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à main ouverte exploite le fouetté du coude et la rotation des hanches pour délivrer un coup tranchant extrêmement rapide et pénétrant.

@@ -1,5 +1,7 @@
 # PO-EUN
 
+> 🔊 **Prononciation :** [포은](../audio/tul/po-eun.m4a)
+
 > **Grade :** 1er Dan
 
 * **Nombre de mouvements :**  36

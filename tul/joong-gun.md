@@ -1,5 +1,7 @@
 # JOONG-GUN
 
+> 🔊 **Prononciation :** [중근](../audio/tul/joong-gun.m4a)
+
 > **Grade :** 4e Gup — Ceinture bleue
 
 * **Nombre de mouvements :**  32

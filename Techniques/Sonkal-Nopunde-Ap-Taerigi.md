@@ -1,5 +1,7 @@
 # Sonkal Nopunde Ap Taerigi
 
+> 🔊 **Prononciation :** [손칼 높은데 앞 때리기](../audio/Techniques/Sonkal-Nopunde-Ap-Taerigi.m4a)
+
 Le **Sonkal Nopunde Ap Taerigi** (손칼 높은데 앞 때리기) est une technique fondamentale du Taekwon-Do (principalement issue de l'ITF).
 
 Elle se traduit par : **Frappe du tranchant de la main vers l'avant au niveau haut**.

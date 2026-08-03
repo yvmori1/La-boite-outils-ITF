@@ -1,5 +1,7 @@
 # Gunnun So Palmok Chookyo Makgi
 
+> 🔊 **Prononciation :** [건눈 서 팔목 추교 막기](../audio/Techniques/Gunnun-So-Palmok-Chookyo-Makgi.m4a)
+
 Le **Gunnun So Palmok Chookyo Makgi** (건눈 서 팔목 추교 막기 — couramment retranscrit **Gunnun Sogi Palmok Chookyo Makgi**) est le **blocage haut remontant de l'avant-bras en posture de marche** (*Rising block in walking stance*) en TaeKwon-Do ITF.
 
 C'est le blocage haut fondamental par excellence du programme ITF, conçu pour intercepter, dévier et stopper les attaques descendantes ou directes visant la tête et le visage.

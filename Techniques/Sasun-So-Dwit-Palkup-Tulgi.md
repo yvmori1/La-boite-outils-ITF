@@ -1,5 +1,7 @@
 # Sasun So Dwit Palkup Tulgi
 
+> 🔊 **Prononciation :** [사선 서 뒷 팔굽 찌르기](../audio/Techniques/Sasun-So-Dwit-Palkup-Tulgi.m4a)
+
 Le **Sasun So Dwit Palkup Tulgi** (사선 서 뒷 팔굽 찌르기) est une technique d'attaque directe et pénétrante vers l'arrière du Taekwon-Do (ITF).
 
 Elle se traduit par : **Pique / Poussée rectiligne du coude vers l'arrière en position diagonale**.

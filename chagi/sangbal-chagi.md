@@ -1,5 +1,7 @@
 # Coup de pied simultané (Sangbal Chagi)
 
+> 🔊 **Prononciation :** [쌍발 차기](../audio/chagi/sangbal-chagi.m4a)
+
 Le **Sangbal Chagi** (쌍발 차기) est le **coup de pied simultané des deux pieds** (*Twin foot kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

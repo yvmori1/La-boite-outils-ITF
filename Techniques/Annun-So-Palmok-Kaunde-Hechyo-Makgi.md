@@ -1,5 +1,7 @@
 # Annun So An Palmok Kaunde Hechyo Makgi
 
+> 🔊 **Prononciation :** [앉은 서 안팔목 가운데 헤쳐막기](../audio/Techniques/Annun-So-Palmok-Kaunde-Hechyo-Makgi.m4a)
+
 Le **Annun So An Palmok Kaunde Hechyo Makgi** (앉은 서 안팔목 가운데 헤쳐막기) est le **double blocage écarté moyen avec l'avant-bras intérieur en posture du cavalier** (*Sitting stance inner forearm middle wedging block*) en TaeKwon-Do ITF.
 
 C'est une technique défensive symétrique et puissante conçue pour **se dégager d'une double saisie** ou **écarter deux attaques simultanées** au niveau du buste.

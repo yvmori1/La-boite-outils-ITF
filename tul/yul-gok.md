@@ -1,5 +1,7 @@
 # YUL-GOK
 
+> 🔊 **Prononciation :** [율곡](../audio/tul/yul-gok.m4a)
+
 > **Grade :** 5e Gup — Ceinture verte barre bleue
 
 * **Nombre de mouvements :**  38

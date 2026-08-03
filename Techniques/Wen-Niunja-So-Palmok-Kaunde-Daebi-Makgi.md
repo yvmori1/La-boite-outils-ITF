@@ -1,5 +1,7 @@
 # Wen Niunja So Palmok Kaunde Daebi Makgi
 
+> 🔊 **Prononciation :** [왼 ㄴ자 서 팔목 가운데 대비 막기](../audio/Techniques/Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.m4a)
+
 Le **Wen Niunja So Palmok Kaunde Daebi Makgi** (왼 ㄴ자 서 팔목 가운데 대비 막기) est le **blocage de garde moyen au double avant-bras en posture en L gauche** (*Left L-stance forearm middle guarding block*) en TaeKwon-Do ITF.
 
 Considéré comme l'une des gardes défensives fondamentales du TaeKwon-Do (souvent la toute première garde enseignée avec les poings fermés), cette technique combine la protection offerte par l'extérieur des avant-bras (*Bakat Palmok*) avec la sécurité de distance de la posture en L (*Niunja Sogi*).

@@ -1,5 +1,7 @@
 # Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi
 
+> 🔊 **Prononciation :** [고정 서 손칼 가운데 바깥으로 바로 막기 와 손바닥 가운데 반대 밀어 막기](../audio/Techniques/Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.m4a)
+
 Le **Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi** (고정 서 손칼 가운데 바깥으로 바로 막기 와 손바닥 가운데 반대 밀어 막기) est une **technique défensive combinée simultanée en posture fixe** (*Fixed stance obverse knife-hand middle outward block and reverse palm middle pushing block*).
 
 Cette combinaison complexe et dynamique associe deux actions défensives complémentaires exécutées au niveau moyen (*Kaunde*) :

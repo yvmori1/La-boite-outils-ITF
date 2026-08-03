@@ -1,5 +1,7 @@
 # Annun So Wen Sonbadak Duro Makgi
 
+> 🔊 **Prononciation :** [앉은 서 왼 손바닥 들어 막기](../audio/Techniques/Annun-So-Wen-Sonbadak-Duro-Makgi.m4a)
+
 Le **Annun So Wen Sonbadak Duro Makgi** (앉은 서 왼 손바닥 들어 막기) est le **blocage ascendant en cuillère avec la paume de la main gauche en posture du cavalier** (*Sitting stance left palm scooping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fluide et hautement efficace utilise la paume de la main gauche (*Sonbadak*) dans une trajectoire en arc ascendant (*Duro*) pour passer sous l'attaque de l'adversaire (généralement un coup de pied direct bas ou moyen), la cueillir et la soulever afin de rompre son équilibre.

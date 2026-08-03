@@ -1,5 +1,7 @@
 # Sasun So Sang Sonbadak Noollo Makgi
 
+> 🔊 **Prononciation :** [사선 서 쌍 손바닥 눌러 막기](../audio/Techniques/Sasun-So-Sang-Sonbadak-Noollo-Makgi.m4a)
+
 Le **Sasun So Sang Sonbadak Noollo Makgi** (사선 서 쌍 손바닥 눌러 막기) est une technique défensive avancée et très stable du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage pressant double avec les paumes de mains en position diagonale**.

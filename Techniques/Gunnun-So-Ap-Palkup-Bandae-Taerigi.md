@@ -1,5 +1,7 @@
 # Gunnun So Ap Palkup Bandae Taerigi
 
+> 🔊 **Prononciation :** [걷는 서 앞 팔굽 반대 때리기](../audio/Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.m4a)
+
 Le **Gunnun So Ap Palkup Bandae Taerigi** (걷는 서 앞 팔굽 반대 때리기) est le **coup de coude frontal inversé en posture de marche** (*Walking stance reverse front elbow strike*) en TaeKwon-Do ITF.
 
 Cette technique de frappe percutante à très courte distance utilise la masse osseuse d'un des leviers les plus puissants du corps humain : le coude (**Palkup**). L'indication **Bandae** (inversé) signifie que le coup de coude est délivré par le bras **opposé à la jambe avant** (ex: jambe gauche devant, coup de coude du bras droit).

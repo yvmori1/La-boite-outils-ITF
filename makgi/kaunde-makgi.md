@@ -1,5 +1,7 @@
 # Blocage au niveau moyen (Kaujunde Makgi)
 
+> 🔊 **Prononciation :** [가운데 막기](../audio/makgi/kaunde-makgi.m4a)
+
 Le **Kaunde Makgi** (가운데 막기 — retranscrit **Kaujunde Makgi** dans la nomenclature officielle de l'ITF) est le **blocage au niveau moyen** (*Middle section block*) en TaeKwon-Do ITF.
 
 *(Note : « Kaunde » est la prononciation et retranscription phonétique courante, mais la terminologie officielle répertoriée dans l'Encyclopédie de l'ITF s'écrit **Kaujunde**).*

@@ -1,5 +1,7 @@
 # Blocage Croisé en "X" (Kyocha Joomuk Makgi)
 
+> 🔊 **Prononciation :** [교차 주먹 막기](../audio/makgi/kyocha-joomuk-makgi.m4a)
+
 Le **Kyocha Joomuk Makgi** (교차 주먹 막기) est le **blocage croisé en "X" avec les poings fermés** (*Crossed fist block* ou *X-fist block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

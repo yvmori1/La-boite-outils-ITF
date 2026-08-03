@@ -1,5 +1,7 @@
 # DAN-GUN
 
+> 🔊 **Prononciation :** [단군](../audio/tul/dan-gun.m4a)
+
 > **Grade :** 8e Gup — Ceinture jaune
 
 * **Nombre de mouvements :**  21

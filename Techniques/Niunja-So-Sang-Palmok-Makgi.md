@@ -1,5 +1,7 @@
 # Niunja So Sang Palmok Makgi
 
+> 🔊 **Prononciation :** [ㄴ자 서 쌍 팔목 막기](../audio/Techniques/Niunja-So-Sang-Palmok-Makgi.m4a)
+
 Le **Niunja So Sang Palmok Makgi** (ㄴ자 서 쌍 팔목 막기 — couramment retranscrit **Niunja Sogi Sang Palmok Makgi**) est le **blocage double des avant-bras en posture en L** (*Twin forearm block in L-stance*) en TaeKwon-Do ITF.
 
 C'est une technique défensive classique et très visuelle qui permet de protéger **simultanément deux niveaux du corps** (haut et moyen) contre une attaque combinée ou particulièrement lourde.

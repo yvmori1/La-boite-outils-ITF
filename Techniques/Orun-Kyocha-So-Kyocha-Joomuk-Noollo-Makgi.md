@@ -1,5 +1,7 @@
 # Orun Kyocha So Kyocha Joomuk Noollo Makgi
 
+> 🔊 **Prononciation :** [오른 교차 서 교차 주먹 눌러 막기](../audio/Techniques/Orun-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.m4a)
+
 Le **Orun Kyocha So Kyocha Joomuk Noollo Makgi** (오른 교차 서 교차 주먹 눌러 막기) est une technique défensive basse, lourde et extrêmement compacte du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage pressant avec les poings croisés en position croisée droite**.

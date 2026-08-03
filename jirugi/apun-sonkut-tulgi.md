@@ -1,81 +1,57 @@
 # Pique de doigts a plat (Apun Sonkut Tulgi)
 
-Le **Opun Sonkut Tulgi** (souvent retranscrit ou orthographié **Apun Sonkut Tulgi** ou *Eopeun Sonkut Tulgi* — 엎은 손끝 찌르기) est la **pique de doigts à plat** (*Flat fingertip thrust*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [엎은 손끝 찌르기](../audio/jirugi/apun-sonkut-tulgi.m4a)
 
-Cette technique consiste à transpercer une zone molle de l'adversaire avec le bout des doigts, la main étant positionnée horizontalement, **paume orientée vers le sol**.
+Le **Opun Sonkut Tulgi** (엎은 손끝 찌르기) — parfois orthographié *Opeun Sonkut Tulgi* — est une technique d'attaque perforante, précise et chirurgicale du Taekwon-Do (ITF).
 
-Sa décomposition linguistique est la suivante :
-
-* **Apun / Opun / Eopeun (엎은) :** À plat / Incliné vers le bas (paume tournée vers le sol).
-* **Sonkut (손끝) :** Extrémité des doigts (*Fingertips*).
-* **Tulgi (찌르기) :** Pique / Poussée perforante (*Thrust*).
+Elle se traduit par : **Pique du bout des doigts à plat (paume vers le sol)** (*Flat Fingertip Thrust*).
 
 ---
 
-## 1. Distinction clé : Les 3 orientations du *Sonkut Tulgi*
+## 1. Décomposition de la terminologie coréenne
 
-En TaeKwon-Do ITF, la pique du bout des doigts change de nom selon l'orientation de la paume à l'impact :
-
-| Technique | Orientation de la paume | Utilisation emblématique |
-| --- | --- | --- |
-| **Sun Sonkut Tulgi** | **Verticale** (profil, paume vers l'intérieur) | **Do-San Tul** (Mouvements 6 et 8) |
-| **Apun / Opun Sonkut Tulgi** | **Horizontale** (à plat, **paume vers le sol**) | **Yul-Gok Tul** (Mouvements 27 et 29) |
-| **Homut Sonkut Tulgi** | **Renversée** (à plat, **paume vers le haut**) | **Joong-Gun Tul** (Mouvement 15) |
+| Terme | Hangeul | Traduction | Rôle dans la technique |
+| --- | --- | --- | --- |
+| **Opun / Opeun** | 엎은 | À plat / Paume vers le sol | Orientation de la main (paume tournée vers le bas). |
+| **Sonkut** | 손끝 | Bout des doigts | Surface d'impact (l'extrémité des quatre doigts tendus et serrés). |
+| **Tulgi** | 찌르기 | Pique / Poussée | Trajectoire d'enfoncement rectiligne (effet baïonnette). |
 
 ---
 
-## 2. La mise en forme de la main (*Jook Bang*)
+## 2. Exécution et principes biomécaniques
 
-Pour impacter avec les doigts sans se blesser les articulations :
+Cette technique canalise toute la force de poussée du corps à travers une surface de frappe extrêmement réduite pour pénétrer les zones molles de l'adversaire :
 
-* **Alignement des 3 doigts principaux :** L'index, le majeur et l'annulaire sont tendus et collés fermement les uns contre les autres. Le majeur étant naturellement plus long, il est **légèrement fléchi au niveau de la dernière phalange** pour former une ligne d'impact parfaitement égale avec l'index et l'annulaire.
-* **Le pouce et l'auriculaire :** L'auriculaire est collé à l'annulaire. Le pouce est fléchi et verrouillé sous la paume pour rigidifier la structure interne de la main.
-* **Alignement du poignet :** Le poignet est maintenu strictement droit dans l'axe de l'avant-bras.
-
----
-
-## 3. Décomposition étape par étape de l'exécution
-
-### Étape 1 : L'Armement à la Hanche
-
-1. **Amorce :** La main d'attaque s'arme à la hanche (*Heori*), paume orientée vers le haut.
-2. **Main de réaction :** Selon la combinaison, le bras opposé est étendu devant ou vient se placer en protection/appui.
-3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité par fléchissement des genoux lors de la prise de posture (souvent en *Gunnun Sogi* — posture de marche).
-
-### Étape 2 : La Trajectoire Rectiligne et le Mouvement de Vague (*Sine Wave*)
-
-1. **Piston direct :** La main s'élance en ligne droite vers la cible.
-2. **Ondulation (*Basse - Haute - Basse*) :** Élévation du corps pendant le déplacement, suivie d'une redescente explosive lors du verrouillage au sol.
-
-### Étape 3 : L'Impact et la Rotation (180°)
-
-1. **Rotation finale (*Snap*) :** Au dernier millième de seconde, le poignet pivote pour que la **paume se retrouve tournée vers le sol** (*Apun / Opun*) au moment précis de l'impact.
-2. **Expiration (*Kihap*) :** Expulsion d'air sèche et brève synchrone avec la fixation de la posture.
+1. **La formation de la main (*Sonkut*) :**
+   * Les quatre doigts (index, majeur, annulaire, auriculaire) sont **fermement collés et tendus**.
+   * Le **majeur est légèrement fléchi** pour aligner son extrémité sur la même ligne horizontale que l'index et l'annulaire.
+   * Le pouce est replié et plaqué avec force contre le côté de la paume pour solidifier la structure et éviter les luxations.
+2. **L'armement (Préparation) :**
+   * La main d'attaque se prépare à la hanche ou au flanc, la paume généralement orientée vers le haut ou le côté.
+   * Le bras de réaction s'étend vers l'avant sur la ligne d'attaque pour mesurer la distance.
+   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
+3. **La trajectoire et la pique à plat (*Opun Sonkut Tulgi*) :**
+   * La main s'élance en ligne droite vers la cible dans un mouvement d'extension rectiligne.
+   * Durant le trajet, le poignet pivote pour verrouiller la **paume strictement orientée vers le sol** (**Opun**).
+   * L'alignement entre le poignet et l'avant-bras doit être parfait : le poignet ne doit ni se casser vers le haut, ni s'affaisser vers le bas.
+   * Le bras de réaction est tiré vivement à la hanche (poing fermé, paume vers le haut) pour engager la rotation des hanches et décupler la vitesse de pénétration.
 
 ---
 
-## 4. Cibles et Intérêt tactique (*Matsogi* & *Hosinsul*)
+## 3. Applications et cibles
 
-> **Transpercer la garde et cibler les cavités molles :**
-> 1. **Infiltration dans des espaces réduits :** Contrairement au poing fermé (*Ap Joomuk*), la main à plat (*Apun Sonkut*) peut se faufiler à travers les bras de l'adversaire ou sous son menton.
-> 2. **Cibles prioritaires :**
-> * Le **plexus solaire** (*Gyo-cha*) : Pour couper la respiration.
-> * La **gorge / le creux sternal** (*Cheong-dol*) : Pour neutraliser immédiatement l'agresseur.
-> * L'**abdomen / le foie**.
+* **Cibles anatomiques :** Les yeux, la gorge/pomme d'Adam, le plexus solaire ou la région épigastrique.
+* **Tactique de combat :** L'orientation à plat de la main (**Opun**) permet d'infiltrer une garde étroite ou de passer horizontalement entre deux bras adverses pour frapper des points vitaux mous sans risque de butter sur une structure osseuse large.
+* **Formes (*Tuls*) :** Cette technique apparaît dans plusieurs formes de l'ITF (notamment dans la forme **Choong-Moo**).
 
 ---
 
-## 5. Présence dans les Formes (*Tul*)
+## 4. Erreurs fréquentes à éviter
 
-L'utilisation la plus célèbre du *Apun / Opun Sonkut Tulgi* se trouve dans :
+* **Mauvaise orientation de la paume :** Tourner la main sur le côté (*Sun Sonkut*, paume verticale) ou vers le haut (*Dwijibun Sonkut*), au lieu de maintenir la paume rigoureusement parallèle au sol (**Opun**).
+* **Majeur trop avancé :** Ne pas fléchir très légèrement le majeur, ce qui l'expose à recevoir tout le choc et à se fracturer lors de l'impact.
+* **Doigts écartés ou mous :** Laisser des espaces entre les doigts ou relâcher la tension des mains, ce qui détruit la rigidité nécessaire à la perforation.
+* **Poignet cassé à l'impact :** Fléchir le poignet vers le haut ou le bas au moment du choc, risquant une entorse grave.
+* **Pouce décollé :** Laisser le pouce libre sur le côté de la main au lieu de le plaquer fermement contre la paume.
 
-* **Yul-Gok Tul (Mouvements 27 et 29) :** Le pratiquant avance en posture de marche (*Gunnun Sogi*) et délivre un **Gunnun So Kaunde Opun Sonkut Tulgi**, tout en plaçant la paume de la main opposée sous le coude d'attaque (*Sonbadak Ollyo Makgi*) pour soutenir et guider la frappe.
-
----
-
-## 6. Erreurs fréquentes à éviter
-
-* **Ne pas fléchir le majeur :** Laisser le majeur dépasser, ce qui entraîne son retournement ou sa fracture lors du contact avec une zone résistante.
-* **Doigts écartés ou mous :** Ne pas maintenir la tension isométrique dans toute la main, transformant la pique en une frappe molle.
-* **Confondre l'orientation de la paume :** Arriver paume sur le côté (*Sun*) ou paume vers le haut (*Homut*) au lieu de sceller la paume vers le sol (*Apun / Opun*).
-* **Casser le poignet :** Plier le poignet vers le haut ou le bas au moment de l'impact, ce qui dissipe l'énergie dans l'articulation et risque la blessure.
+> **Point clé :** La précision du **Opun Sonkut Tulgi** repose sur la tenue rigide des doigts (majeur ajusté) et l'orientation **paume vers le sol**, permettant à la pique de glisser horizontalement à travers la garde adverse.

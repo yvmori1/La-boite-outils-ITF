@@ -1,5 +1,7 @@
 # Coup de poing consécutif (Yonsok Jirugi)
 
+> 🔊 **Prononciation :** [연속 지르기](../audio/jirugi/yonsok-jirugi.m4a)
+
 Le **Yonsok Jirugi** (연속 지르기 — couramment retranscrit **Yeonsok Jirugi**) est le **coup de poing consécutif** ou la **série de coups de poing enchaînés** en TaeKwon-Do ITF.
 
 Plutôt que de désigner une seule frappe isolée, le terme *Yonsok* qualifie le mode d'exécution : la répétition de plusieurs coups de poing (deux, trois ou plus) dans une dynamique continue, fluide et ultra-rapide.

@@ -1,5 +1,7 @@
 # Blocage latéral (Yop Makgi)
 
+> 🔊 **Prononciation :** [옆 막기](../audio/makgi/yop-makgi.m4a)
+
 Le **Yop Makgi** (옆 막기) est le **blocage latéral / blocage sur le côté** (*Side block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

@@ -1,5 +1,7 @@
 # Sonkal Twio Dolymyo Taerigi
 
+> 🔊 **Prononciation :** [손칼 뛰어 돌며 때리기](../audio/Techniques/Sonkal-Twio-Dolymyo-Taerigi.m4a)
+
 Le **Sonkal Twio Dolymyo Taerigi** (손칼 뛰어 돌며 때리기) — également orthographié *Dolmyo* — est une technique acrobatique et spectaculaire du Taekwon-Do (principalement issue de la nomenclature ITF).
 
 Elle se traduit par : **Frappe du tranchant de la main en sautant et en tournant**.

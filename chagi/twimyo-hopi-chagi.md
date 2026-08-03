@@ -1,5 +1,7 @@
 # Coup de pied sauté avec bond (Twimyo Hopi Chagi)
 
+> 🔊 **Prononciation :** [뛰며 호피차기](../audio/chagi/twimyo-hopi-chagi.m4a)
+
 Le **Twimyo Hopi Chagi** (뛰며 호피차기) est le **coup de pied sauté bondissant** (ou *Bounding flying kick*).
 
 Sa décomposition linguistique est la suivante :

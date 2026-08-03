@@ -1,5 +1,7 @@
 # Blocage en pression (Nullo Makgi)
 
+> 🔊 **Prononciation :** [눌러 막기](../audio/makgi/nullo-makgi.m4a)
+
 Le **Nullo Makgi** (눌러 막기 — retranscrit **Noolloo Makgi** ou *Noolo Makgi* selon la phonétique courante) est le **blocage en pression / blocage pressant** (*Pressing block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

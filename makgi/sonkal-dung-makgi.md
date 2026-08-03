@@ -1,5 +1,7 @@
 # Blocage du revers de la main (Sonkal Dung Makgi)
 
+> 🔊 **Prononciation :** [손칼등 막기](../audio/makgi/sonkal-dung-makgi.m4a)
+
 Le **Sonkal Dung Makgi** (손칼등 막기) est le **blocage du revers du tranchant de la main** (*Reverse knife-hand block* ou *Ridge-hand block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

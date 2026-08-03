@@ -1,5 +1,7 @@
 # YOO-SIN
 
+> 🔊 **Prononciation :** [유신](../audio/tul/yoo-sin.m4a)
+
 > **Grade :** 3e Dan
 
 * **Nombre de mouvements :**  68
@@ -118,7 +120,7 @@
 39. Déplacer le pied gauche sur ligne CD, puis tourner dans le sens anti-horaire, en pivotant avec le pied gauche pour former une position en L droite vers C tout en exécutant un blocage haut vers C avec le revers de la main gauche.
    *([Niunja so sonkal dung nopunde yop makgi](../makgi/nopunde-yop-makgi.md))*
 40. Ramener le pied droit vers le pied gauche pour former un position de préparation fermée C vers C.
-   *(Moa junbi sogi C)*
+   *([Moa junbi sogi C](../Techniques/Moa-Junbi-Sogi-C.md))*
 41. Déplacer le pied droit vers CF en un en écrasant mouvement pour former une position de marche droite vers CG en même temps en exécutant un coup de poing renversé vers CF avec un poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 42. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers CE en un en écrasant mouvement, pour former une position de marche gauche vers CE tout en exécutant un coup de poing renversé vers CE avec un poings jumelés.

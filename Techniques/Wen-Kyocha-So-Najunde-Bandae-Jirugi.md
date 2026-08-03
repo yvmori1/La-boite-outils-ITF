@@ -1,5 +1,7 @@
 # Wen Kyocha So Najunde Bandae Jirugi
 
+> 🔊 **Prononciation :** [왼 교차 서 낮은데 반대 지르기](../audio/Techniques/Wen-Kyocha-So-Najunde-Bandae-Jirugi.m4a)
+
 Le **Wen Kyocha So Najunde Bandae Jirugi** (왼 교차 서 낮은데 반대 지르기) est le **coup de poing direct inversé bas en posture en X gauche** (*Left X-stance low reverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque basse et incisive combine la mobilité de franchissement et le changement d'axe offerts par la posture en X (*Kyocha Sogi*) avec la puissance d'un coup de poing en piston (*Jirugi*) dirigé vers le bas-ventre de l'adversaire, délivré par la main opposée à la jambe avant (*Bandae*).

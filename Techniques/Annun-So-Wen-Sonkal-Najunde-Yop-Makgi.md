@@ -1,5 +1,7 @@
 # Annun So Wen Sonkal Najunde Yop Makgi
 
+> 🔊 **Prononciation :** [앉은 서 왼 손칼 낮인데 옆 막기](../audio/Techniques/Annun-So-Wen-Sonkal-Najunde-Yop-Makgi.m4a)
+
 Le **Annun So Wen Sonkal Najunde Yop Makgi** (앉은 서 왼 손칼 낮인데 옆 막기) est le **blocage latéral bas gauche au tranchant de la main en posture du cavalier** (*Sitting stance left knife-hand low side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive tranchante et puissante protège la partie inférieure du corps (cuisses, bas-ventre, genoux) contre des attaques venant du flanc gauche (*Yop*), en utilisant la surface osseuse du tranchant de la main (*Sonkal*).

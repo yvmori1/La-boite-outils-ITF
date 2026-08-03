@@ -1,5 +1,7 @@
 # Niunja So Sonkal Kaunde Daebi Makgi
 
+> 🔊 **Prononciation :** [ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)
+
 Le **Niunja So Sonkal Kaunde Daebi Makgi** (ㄴ자 서 손칼 가운데 대비 막기 — couramment retranscrit **Niunja Sogi Sonkal Kaujunde Daebi Makgi**) est le **blocage moyen de garde au tranchant des mains en posture en L** (*Middle knife-hand guarding block in L-stance*) en TaeKwon-Do ITF.
 
 C'est l'une des techniques défensives et des postures de garde les plus emblématiques et les plus fréquentes de tout le système ITF. Elle combine la protection à deux mains ouvertes (*Sonkal*) avec la grande mobilité d'esquive de la posture en L (*Niunja Sogi*).

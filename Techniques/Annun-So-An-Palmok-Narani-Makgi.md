@@ -1,5 +1,7 @@
 # Annun So An Palmok Narani Makgi
 
+> 🔊 **Prononciation :** [앉은 서 안팔목 나란히 막기](../audio/Techniques/Annun-So-An-Palmok-Narani-Makgi.m4a)
+
 Le **Annun So An Palmok Narani Makgi** (앉은 서 안팔목 나란히 막기) est le **blocage parallèle avec l'avant-bras intérieur en posture du cavalier** (*Sitting stance inner forearm parallel block*) en TaeKwon-Do ITF.
 
 Cette technique défensive consiste à projeter simultanément les deux bras dans la même direction en maintenant les deux avant-bras **strictement parallèles**, formant ainsi un double mur de protection avec la partie intérieure de l'avant-bras (*An Palmok*).

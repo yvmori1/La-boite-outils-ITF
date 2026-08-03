@@ -1,5 +1,7 @@
 # Nachuo So Opun Sonkut Nopunde Tulgi
 
+> 🔊 **Prononciation :** [낮춰 서 엎운 손끝 높인데 찌르기](../audio/Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.m4a)
+
 Le **Nachuo So Opun Sonkut Nopunde Tulgi** (낮춰 서 엎운 손끝 높인데 찌르기) est la **pique du bout des doigts à plat au niveau haut en posture basse** (*Low stance flat fingertip high thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque transperçante combine la précision effrayante d'une pique aux doigts (**Sonkut**) vers une cible vitale haute (la gorge ou les yeux) avec l'allonge et la stabilité maximale offertes par la posture basse (**Nachuo Sogi**). L'utilisation de la posture basse permet d'allonger la portée de frappe tout en abaissant le centre de gravité sous une contre-attaque adverse.

@@ -1,5 +1,7 @@
 # Soojik So Yop Joomuk Bandae Naeryo Taerigi
 
+> 🔊 **Prononciation :** [수직 서 옆 주먹 반대 내려 때리기](../audio/Techniques/Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.m4a)
+
 Le **Soojik So Yop Joomuk Bandae Naeryo Taerigi** (수직 서 옆 주먹 반대 내려 때리기) est le **coup percutant descendant inversé du côté du poing en posture verticale** (*Vertical stance side fist reverse downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque percutante du haut vers le bas exploite l'effet de pesanteur et la masse osseuse du côté du poing (**Yop Joomuk**). Exécutée en posture verticale (**Soojik Sogi**), elle permet de délivrer une frappe de marteau puissante sur des cibles hautes ou moyennes (clavicule, arête du nez, épaule ou membre supérieur de l'adversaire).

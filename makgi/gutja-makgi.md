@@ -1,5 +1,7 @@
 # Blocage en forme de "9" (Gut-Ja Makgi)
 
+> 🔊 **Prononciation :** [ㄱ자 막기](../audio/makgi/gutja-makgi.m4a)
+
 Le **Gutja Makgi** (ㄱ자 막기 — parfois retranscrit *Gut-ja Makgi* ou *Giyeok-ja Makgi*) est le **blocage en forme de "9"** (*9-shape block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

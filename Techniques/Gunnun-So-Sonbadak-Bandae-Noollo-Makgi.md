@@ -1,5 +1,7 @@
 # Gunnun So Sonbadak Bandae Noollo Makgi
 
+> 🔊 **Prononciation :** [걷는 서 손바닥 반대 눌러 막기](../audio/Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.m4a)
+
 Le **Gunnun So Sonbadak Bandae Noollo Makgi** (걷는 서 손바닥 반대 눌러 막기) est le **blocage descendant en pression avec la paume de la main (inversé) en posture de marche** (*Walking stance palm reverse pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fluide et technique utilise la surface souple mais ferme du talon de la paume (**Sonbadak**) pour appuyer, écraser ou dévier une attaque basse venant de l'adversaire (comme un coup de pied direct *Ap Chagi*). L'indication **Bandae** (inversé) signifie que le blocage est exécuté par la main **opposée à la jambe avant** (ex: jambe gauche en avant, paume droite qui bloque).

@@ -1,5 +1,7 @@
 # Wen Kaunde Yopcha Tulgi
 
+> 🔊 **Prononciation :** [왼 가운데 옆차 찌르기](../audio/Techniques/Wen-Kaunde-Yopcha-Tulgi.m4a)
+
 Le **Wen Kaunde Yopcha Tulgi** (왼 가운데 옆차 찌르기) est le **coup de pied latéral enfonçant/poussant moyen de la jambe gauche** (*Left middle side thrusting kick*) en TaeKwon-Do ITF.
 
 Cette technique fondamentale de frappe rectiligne projette le tranchant du pied ou le talon gauche au niveau du buste de l'adversaire (*Kaunde*). La nuance du terme **Tulgi** (찌르기 — poussée / enfoncement en piston) met l'accent sur une pénétration profonde et continue de la masse corporelle, conçue pour transpercer la garde ou repousser violemment l'agresseur, par opposition à un simple impact sec.

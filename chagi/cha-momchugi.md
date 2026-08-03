@@ -1,5 +1,7 @@
 # Coup de pied d'arrêt (Cha Momchugi)
 
+> 🔊 **Prononciation :** [차 멈추기](../audio/chagi/cha-momchugi.m4a)
+
 Le **Cha Momchugi** (차 멈추기) — souvent orthographié *Cho Momchugi* dans certaines retranscriptions phonétiques — est le **coup de pied d'arrêt** (*Stop Kick* ou *Check Kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

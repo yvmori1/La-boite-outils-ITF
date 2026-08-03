@@ -1,5 +1,7 @@
 # Coup de pied montant d'assouplissement (Cha Olligi)
 
+> 🔊 **Prononciation :** [차 올리기](../audio/chagi/cha-olligi.m4a)
+
 Le **Cha Olligi** (차 올리기) est le **coup de pied montant d'assouplissement** (*Rising kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

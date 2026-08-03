@@ -1,5 +1,7 @@
 # Niunja So An Palmok Kaunde Makgi
 
+> 🔊 **Prononciation :** [ㄴ자 서 안 팔목 가운데 막기](../audio/Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.m4a)
+
 Le **Niunja So An Palmok Kaunde Makgi** (ㄴ자 서 안 팔목 가운데 막기 — couramment retranscrit **Niunja Sogi An Palmok Kaujunde Makgi**) est le **blocage moyen avec le tranchant interne de l'avant-bras en posture en L** en TaeKwon-Do ITF.
 
 C'est une technique défensive majeure, combinant la grande mobilité d'esquive de la posture en L (*Niunja Sogi*) avec la capacité de déviation fluide de l'intérieur de l'avant-bras (*An Palmok*).

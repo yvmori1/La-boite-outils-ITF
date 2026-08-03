@@ -1,5 +1,7 @@
 # Twimyo Nopi Chagi
 
+> 🔊 **Prononciation :** [뛰며 높이 차기](../audio/Techniques/Twimyo-Nopi-Chagi.m4a)
+
 Le **Twimyo Nopi Chagi** (뛰며 높이 차기) est le **coup de pied sauté en hauteur / coup de pied volant haut** (*Flying high kick*) en TaeKwon-Do ITF.
 
 Cette technique spectaculaire est conçue pour atteindre une cible située à une hauteur exceptionnelle (souvent bien au-dessus de la taille du pratiquant). Elle nécessite une impulsion verticale explosive, une grande souplesse dynamique et un contrôle parfait de la phase de suspension en plein ciel. C'est l'une des épreuves reines des compétitions de techniques spéciales (*Tukgi* — cassage de planche en hauteur).

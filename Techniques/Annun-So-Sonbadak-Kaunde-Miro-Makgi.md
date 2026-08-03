@@ -1,5 +1,7 @@
 # Annun So Sonbadak Kaunde Miro Makgi
 
+> 🔊 **Prononciation :** [앉은 서 손바닥 가운데 미로 막기](../audio/Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.m4a)
+
 Le **Annun So Sonbadak Kaunde Miro Makgi** (앉은 서 손바닥 가운데 미로 막기) est le **blocage poussant moyen avec la paume de la main en posture du cavalier** (*Sitting stance palm middle pushing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive contrôlée ne cherche pas à percuter ni à casser brutalement l'attaque adverse, mais à l'**intercepter et la pousser en douceur mais avec fermeté** (*Miro*) au niveau moyen (*Kaunde*) pour altérer la trajectoire de l'agresseur et rompre son alignement.

@@ -1,5 +1,7 @@
 # Nachuo So Sonbadak Bandae Noollo Makgi
 
+> 🔊 **Prononciation :** [낮추 서 손바닥 반대 눌러 막기](../audio/Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.m4a)
+
 Le **Nachuo So Sonbadak Bandae Noollo Makgi** (낮추 서 손바닥 반대 눌러 막기) est une technique défensive lourde, stable et très ancrée du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage pressant inversé avec la paume de la main en position basse**.

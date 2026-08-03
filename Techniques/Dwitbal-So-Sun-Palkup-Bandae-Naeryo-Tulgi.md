@@ -1,5 +1,7 @@
 # Dwitbal So Sun Palkup Bandae Naeryo Tulgi
 
+> 🔊 **Prononciation :** [뒷발 서 선 팔굽 반대 내려 찌르기](../audio/Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.m4a)
+
 Le **Dwitbal So Sun Palkup Bandae Naeryo Tulgi** (뒷발 서 선 팔굽 반대 내려 찌르기) est la **pique descendante au coude vertical inverse en posture du pied arrière** (*Rear foot stance vertical elbow downward reverse thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à courte distance et hautement pénétrante utilise la pointe d'un coude orienté verticalement (*Sun Palkup*) pour exécuter une poussée/pique descendante (*Naeryo Tulgi*) avec le bras opposé à la jambe avant (*Bandae*), tout en maintenant une structure défensive en retrait sur la jambe arrière (*Dwitbal Sogi*).

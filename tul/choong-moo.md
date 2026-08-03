@@ -1,5 +1,7 @@
 # CHOONG-MOO
 
+> 🔊 **Prononciation :** [충무](../audio/tul/choong-moo.m4a)
+
 > **Grade :** 1er Gup — Ceinture rouge barre noire
 
 * **Nombre de mouvements :**  30
@@ -56,7 +58,7 @@
 19. Sauter et pivoter autour dans le sens anti-horaire, à la réception sur la même place pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec un tranchant de la main.
    *(Twigi, [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C en même temps en exécutant une pique basse vers C avec la pique de doigts renversée droit.
-   *(Gunnun so dwijibun sonkut najunde tulgi)*
+   *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
 21. Exécuter une frappe arrière latérale vers D avec le revers du poing droit et un blocage bas vers C avec l'avant-bras gauche tout en formant une position en L droite vers C, en tirant le pied gauche.
    *(Niunja so dung joomuk baro yopdwi taerigi wa [palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
 22. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant une pique moyenne vers C avec le droit droit bout des doigts.

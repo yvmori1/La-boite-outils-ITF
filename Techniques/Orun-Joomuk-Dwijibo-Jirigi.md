@@ -1,5 +1,7 @@
 # Orun Joomuk Dwijibo Jirigi
 
+> 🔊 **Prononciation :** [오른 주먹 뒤집어 지르기](../audio/Techniques/Orun-Joomuk-Dwijibo-Jirigi.m4a)
+
 Le **Orun Joomuk Dwijibo Jirigi** (오른 주먹 뒤집어 지르기) — parfois orthographié *Dwijibon Jirugi* — est une technique d'attaque directe et courte du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de poing direct retourné (paume vers le haut) du poing droit**.

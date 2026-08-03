@@ -1,5 +1,7 @@
 # Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)
 
+> 🔊 **Prononciation :** [바깥 막기](../audio/makgi/bakuro-makgi.m4a)
+
 Le **Bakat Makgi** (바깥 막기) — couramment désigné sous sa forme directionnelle exacte **Bakuro Makgi** (바깥으로 막기) — est le **blocage de l'intérieur vers l'extérieur** (*Outward block*) en TaeKwon-Do ITF.
 
 Tout comme la distinction observée pour le *Anuro Makgi*, il existe une nuance théorique essentielle en ITF entre la surface utilisée et la direction du mouvement.

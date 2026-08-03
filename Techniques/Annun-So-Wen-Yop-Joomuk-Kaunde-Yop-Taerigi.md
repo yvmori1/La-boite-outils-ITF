@@ -1,5 +1,7 @@
 # Annun So Wen Yop Joomuk Kaunde Yop Taerigi
 
+> 🔊 **Prononciation :** [앉은 서 왼 옆주먹 가운데 옆 때리기](../audio/Techniques/Annun-So-Wen-Yop-Joomuk-Kaunde-Yop-Taerigi.m4a)
+
 Le **Annun So Wen Yop Joomuk Kaunde Yop Taerigi** (앉은 서 왼 옆주먹 가운데 옆 때리기) est la **frappe latérale moyenne cinglante avec le côté du poing gauche en posture du cavalier** (*Sitting stance left side fist middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fouettée et compacte utilise la surface latérale du poing fermé (*Yop Joomuk*) pour délivrer un coup percutant à l'horizontale vers le flanc gauche (*Yop*) au niveau moyen (*Kaunde* : côtes flottantes, plexus latéral ou foie).

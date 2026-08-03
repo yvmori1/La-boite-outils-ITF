@@ -1,5 +1,7 @@
 # Gunnun So Sang Joomuk Nopunde Sewo Jirugi
 
+> 🔊 **Prononciation :** [걷는 서 쌍 주먹 높인데 세워 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.m4a)
+
 Le **Gunnun So Sang Joomuk Nopunde Sewo Jirugi** (걷는 서 쌍 주먹 높인데 세워 지르기) est le **double coup de poing vertical haut en posture de marche** (*Walking stance twin fist high vertical punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque bilatérale et simultanée projette les deux poings à la vertical au niveau de la tête de l'adversaire (*Nopunde*). L'utilisation de la tenue verticale des poings (*Sewo Jirugi*) permet d'insérer les frappes à travers la garde ou de cibler simultanément les deux côtés du visage (tempes, mâchoires, oreilles).

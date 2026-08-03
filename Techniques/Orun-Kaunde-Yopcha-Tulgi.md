@@ -1,5 +1,7 @@
 # Orun Kaunde Yopcha Tulgi
 
+> 🔊 **Prononciation :** [오른 가운데 옆차 찌르기](../audio/Techniques/Orun-Kaunde-Yopcha-Tulgi.m4a)
+
 Le **Orun Kaunde Yopcha Tulgi** (오른 가운데 옆차 찌르기) est une technique d'attaque directe, pénétrante et puissante des membres inférieurs du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied latéral perforant / poussé du pied droit au niveau moyen**.

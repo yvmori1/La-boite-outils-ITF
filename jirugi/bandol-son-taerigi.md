@@ -1,5 +1,7 @@
 # Pique de main en demi-rotation (Bandol Son Taerigi)
 
+> 🔊 **Prononciation :** [반돌 손 때리기](../audio/jirugi/bandol-son-taerigi.m4a)
+
 Le **Bandol Son Taerigi** (반돌 손 때리기) est la **frappe de la main en demi-rotation / en arc de cercle** (*Half-turning hand strike*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

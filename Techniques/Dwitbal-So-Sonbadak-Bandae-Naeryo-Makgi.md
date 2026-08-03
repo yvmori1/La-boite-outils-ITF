@@ -1,5 +1,7 @@
 # Dwitbal So Sonbadak Bandae Naeryo Makgi
 
+> 🔊 **Prononciation :** [뒷발 서 손바닥 반대 내려 막기](../audio/Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.m4a)
+
 Le **Dwitbal So Sonbadak Bandae Naeryo Makgi** (뒷발 서 손바닥 반대 내려 막기) est le **blocage descendant inverse avec la paume de la main en posture du pied arrière** (*Rear foot stance palm downward reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à une main utilise la surface charnue de la paume (*Sonbadak*) du bras opposé à la jambe avant (*Bandae*) pour pousser ou dévier vers le bas (*Naeryo*) une attaque basse (coup de pied direct bas ou attaque au bas-ventre), tout en maintenant le buste en sécurité grâce au recul du poids du corps sur la jambe arrière (*Dwitbal Sogi*).

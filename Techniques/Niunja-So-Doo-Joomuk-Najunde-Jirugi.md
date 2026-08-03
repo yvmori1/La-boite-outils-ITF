@@ -1,5 +1,7 @@
 # Niunja So Doo Joomuk Najunde Jirugi
 
+> 🔊 **Prononciation :** [ㄴ자 서 두 주먹 낮은데 지르기](../audio/Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.m4a)
+
 Le **Niunja So Doo Joomuk Najunde Jirugi** (ㄴ자 서 두 주먹 낮은데 지르기) est une technique d'attaque directe double, dévastatrice et très stable du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de poing direct double au niveau bas en position en L**.

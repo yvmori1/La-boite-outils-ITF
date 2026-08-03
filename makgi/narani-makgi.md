@@ -1,5 +1,7 @@
 # Blocage parallèle (Narani Makgi)
 
+> 🔊 **Prononciation :** [나란히 막기](../audio/makgi/narani-makgi.m4a)
+
 Le **Narani Makgi** (나란히 막기) est le **blocage parallèle** (*Parallel block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

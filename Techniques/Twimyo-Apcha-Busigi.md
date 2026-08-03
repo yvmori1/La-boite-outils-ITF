@@ -1,5 +1,7 @@
 # Twimyo Apcha Busigi
 
+> 🔊 **Prononciation :** [뛰며 앞차 부수기](../audio/Techniques/Twimyo-Apcha-Busigi.m4a)
+
 Le **Twimyo Apcha Busigi** (뛰며 앞차 부수기) est le **coup de pied direct fouetté sauté / volant** (*Flying front snap kick*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rectiligne et rapide associe la projection aérienne du saut (*Twimyo*) avec la vitesse explosive d'un coup de pied direct frontal exécuté en fouetté (*Apcha Busigi*). Elle permet de surprendre un adversaire, de franchir sa garde ou de combler rapidement la distance pour atteindre des cibles vitales au visage ou au thorax.

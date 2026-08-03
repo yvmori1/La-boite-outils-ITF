@@ -1,5 +1,7 @@
 # Waebal So Dungpalmok Bandae Taerigi
 
+> 🔊 **Prononciation :** [외발 서 등팔목 반대 때리기](../audio/Techniques/Waebal-So-Dungpalmok-Bandae-Taerigi.m4a)
+
 Le **Waebal So Dungpalmok Bandae Taerigi** (외발 서 등팔목 반대 때리기) est le **coup cinglant inversé au revers de l'avant-bras en posture sur une seule jambe** (*One-leg stance reverse back forearm strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque et de contre-attaque associe le retrait d'appui et l'esquive offered par la posture unilatérale (*Waebal Sogi*) avec la vitesse de fouetté d'une frappe du revers de l'avant-bras (*Dungpalmok*). L'indication **Bandae** (inversé) signifie que la frappe est portée par le bras **opposé à la jambe d'appui**.

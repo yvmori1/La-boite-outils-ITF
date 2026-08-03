@@ -1,5 +1,7 @@
 # Twimyo Orun Joomuk Ap Jirugi
 
+> 🔊 **Prononciation :** [뛰며 오른 주먹 앞 지르기](../audio/Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.m4a)
+
 Le **Twimyo Orun Joomuk Ap Jirugi** (뛰며 오른 주먹 앞 지르기) est le **coup de poing direct sauté/volant du poing droit vers l'avant** (*Flying right fist front punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rectiligne et dynamique associe la projection du corps dans les airs (*Twimyo*) à la puissance de pénétration en piston d'un coup de poing direct (*Ap Jirugi*) délivré par le poing droit (**Orun Joomuk**). Elle permet d'attaquer avec une grande vitesse de franchissement tout en engageant la totalité de la masse corporelle en apesanteur.

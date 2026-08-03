@@ -1,5 +1,7 @@
 # Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
 
+> 🔊 **Prononciation :** [왼 교차 서 등주먹 높인데 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+
 Le **Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi** (왼 교차 서 등주먹 높인데 옆 때리기) est le **coup cinglant latéral haut au revers du poing gauche en posture en X** (*Left X-stance backfist high side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et très incisive associe le déplacement croisé agile de la posture en X (*Kyocha Sogi*) avec la vitesse de fouetté d'une frappe du revers du poing (*Dung Joomuk*) dirigée vers le visage de l'adversaire situé sur le flanc.

@@ -1,5 +1,7 @@
 # Annun So Orun Dwit Palkup Tulgi
 
+> 🔊 **Prononciation :** [앉은 서 오른 뒤 팔굽 찌르기](../audio/Techniques/Annun-So-Orun-Dwit-Palkup-Tulgi.m4a)
+
 Le **Annun So Orun Dwit Palkup Tulgi** (앉은 서 오른 뒤 팔굽 찌르기) est la **pique / poussée du coude arrière droit en posture du cavalier** (*Sitting stance right rear elbow thrust*) en TaeKwon-Do ITF.
 
 Contrairement aux percussions en arc de cercle (*Taerigi*), une technique de type **Tulgi** (pique / poussée) s'exécute en **ligne droite axiale comme un piston**, enfonçant la pointe du coude droit (*Dwit Palkup*) directement vers un adversaire situé immédiatement derrière soi.

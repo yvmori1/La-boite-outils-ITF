@@ -1,5 +1,7 @@
 # Doro Chagi
 
+> 🔊 **Prononciation :** [도로 차기](../audio/Techniques/Doro-Chagi.m4a)
+
 Le **Doro Chagi** (도로 차기) est le **coup de poing-pied de retour / coup de pied retournant** (*Returning kick*) en TaeKwon-Do ITF.
 
 Cette technique dynamique repose sur une action d'extension suivie d'une **rétraction immédiate et explosive** de la jambe (*Kopurigi*) le long de sa trajectoire d'origine. Contrairement aux coups de pied standard où le pied retombe naturellement vers le sol après l'impact, le *Doro Chagi* met l'accent sur le rappel ultra-rapide du membre pour enchaîner, feinter ou éviter une saisie.

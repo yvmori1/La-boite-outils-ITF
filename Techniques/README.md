@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**177 fiches** au total.
+**190 fiches** au total.
 
 ---
 
@@ -20,9 +20,11 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | :--- | :--- |
 | [Gunnun-So-Ap-Palkup-Bandae-Taerigi.md](Gunnun-So-Ap-Palkup-Bandae-Taerigi.md) | Coup de coude frontal inversé |
 | [Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md) | Blocage haut latéral avec le tranchant extérieur de l'avant-bras |
+| [Gunnun-So-Bandae-Dwijibo-Jirugi.md](Gunnun-So-Bandae-Dwijibo-Jirugi.md) | Gunnun So Bandae Dwijibo Jirugi |
 | [Gunnun-So-Doo-Palmok-Nopunde-Makgi.md](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras |
 | [Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md](Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md) | Gunnun So Dung Joomuk Bandae Ap Taerigi |
 | [Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale du revers du poing au niveau haut |
+| [Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md](Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md) | Gunnun So Dwijibun Sonkut Najunde Tulgi |
 | [Gunnun-So-Jappyosul-Tae.md](Gunnun-So-Jappyosul-Tae.md) | Gunnun So Jappyosul Tae |
 | [Gunnun-So-Kaunde-Bandae-Jirugi.md](Gunnun-So-Kaunde-Bandae-Jirugi.md) | Coup de poing direct inverse au niveau moyen |
 | [Gunnun-So-Kaunde-Jirugi.md](Gunnun-So-Kaunde-Jirugi.md) | Coup de poing direct au niveau moyen |
@@ -34,6 +36,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | [Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md](Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md) | Double coup de poing retourné (paumes vers le haut) |
 | [Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md](Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md) | Double coup de poing vertical haut |
 | [Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md](Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md) | Blocage descendant en pression avec la paume de la main (inversé) |
+| [Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md](Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md) | Gunnun So Sonbadak Baro Noollo Makgi |
 
 ---
 
@@ -48,6 +51,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | [Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au double avant-bras gauche |
 | [Orun-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md](Orun-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) | Orun Niunja So Palmok Kaunde Daebi Makgi |
 | [Niunja-So-Sang-Palmok-Makgi.md](Niunja-So-Sang-Palmok-Makgi.md) | Blocage double des avant-bras |
+| [Niunja-So-Sonbadak-Bandae-Duro-Makgi.md](Niunja-So-Sonbadak-Bandae-Duro-Makgi.md) | Niunja So Sonbadak Bandae Duro Makgi |
 | [Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md) | Frappe moyenne vers l'extérieur avec le tranchant de la main |
 | [Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage moyen de garde au tranchant des mains |
 | [Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au tranchant des mains gauche |
@@ -195,6 +199,7 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 | [Orun-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md](Orun-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md) | Orun Kyocha So Kyocha Joomuk Noollo Makgi |
 | [Wen-Kyocha-So-Najunde-Bandae-Jirugi.md](Wen-Kyocha-So-Najunde-Bandae-Jirugi.md) | Coup de poing direct inversé bas gauche |
 | [Orun-Kyocha-So-Najunde-Bandae-Jirugi.md](Orun-Kyocha-So-Najunde-Bandae-Jirugi.md) | Orun Kyocha So Najunde Bandae Jirugi |
+| [Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md](Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md) | Kyocha So Sang Palkup Soopyong Tulgi |
 | [Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md](Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md) | Coup tranchant latéral moyen au tranchant de la main gauche |
 | [Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md](Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md) | Orun Kyocha So Sonkal Kaunde Yop Taerigi |
 
@@ -242,7 +247,15 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
 
 ---
 
-## 11. Coups de pied (*Chagi*)
+## 11. Position *Junbi So*
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Moa-Junbi-Sogi-C.md](Moa-Junbi-Sogi-C.md) | Moa Junbi Sogi C |
+
+---
+
+## 12. Coups de pied (*Chagi*)
 
 Techniques de jambe nommées sans position d'appui imposée.
 
@@ -257,8 +270,14 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Wen-Kaunde-Yopcha-Tulgi.md](Wen-Kaunde-Yopcha-Tulgi.md) | Coup de pied latéral enfonçant/poussant moyen de la jambe gauche |
 | [Orun-Kaunde-Yopcha-Tulgi.md](Orun-Kaunde-Yopcha-Tulgi.md) | Orun Kaunde Yopcha Tulgi |
 | [Najunde-Yobap-Cha-Busigi.md](Najunde-Yobap-Cha-Busigi.md) | Coup de pied fouetté bas de biais (côté-avant) |
+| [Nopunde-Bandae-Dollyo-Chagi.md](Nopunde-Bandae-Dollyo-Chagi.md) | Nopunde Bandae Dollyo Chagi |
+| [Nopunde-Bandae-Dollyo-Gorochagi.md](Nopunde-Bandae-Dollyo-Gorochagi.md) | Nopunde Bandae Dollyo Gorochagi |
 | [Wen-Nopunde-Bandae-Dollyo-Gorochagi.md](Wen-Nopunde-Bandae-Dollyo-Gorochagi.md) | Coup de pied crocheté tournant inversé haut de la jambe gauche |
 | [Orun-Nopunde-Bandae-Dollyo-Gorochagi.md](Orun-Nopunde-Bandae-Dollyo-Gorochagi.md) | Orun Nopunde Bandae Dollyo Gorochagi |
+| [Nopunde-Bituro-Chagi.md](Nopunde-Bituro-Chagi.md) | Nopunde Bituro Chagi |
+| [Nopunde-Dollyo-Chagi.md](Nopunde-Dollyo-Chagi.md) | Nopunde Dollyo Chagi |
+| [Nopunde-Dwitcha-Jirugi.md](Nopunde-Dwitcha-Jirugi.md) | Nopunde Dwitcha Jirugi |
+| [Nopunde-Yopcha-Jirugi.md](Nopunde-Yopcha-Jirugi.md) | Nopunde Yopcha Jirugi |
 | [Wen-Nopunde-Yopcha-Jirugi.md](Wen-Nopunde-Yopcha-Jirugi.md) | Coup de pied latéral perçant haut de la jambe gauche |
 | [Orun-Nopunde-Yopcha-Jirugi.md](Orun-Nopunde-Yopcha-Jirugi.md) | Orun Nopunde Yopcha Jirugi |
 | [Pihamyo-Bandae-Dollyo-Chagi.md](Pihamyo-Bandae-Dollyo-Chagi.md) | Pihamyo Bandae Dollyo Chagi |
@@ -273,7 +292,7 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 12. Sans position imposée
+## 13. Sans position imposée
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -293,7 +312,7 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 13. Postures et positions de préparation
+## 14. Postures et positions de préparation
 
 Les positions d'appui et de préparation, décrites pour elles-mêmes.
 
@@ -305,6 +324,7 @@ Les positions d'appui et de préparation, décrites pour elles-mêmes.
 | [Guburyo-Junbi-Sogi-A.md](Guburyo-Junbi-Sogi-A.md) | Posture préparatoire fléchie sur une jambe — Variante A |
 | [Guburyo-Junbi-Sogi-B.md](Guburyo-Junbi-Sogi-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
 | [Gunnun-Junbi-Sogi.md](Gunnun-Junbi-Sogi.md) | Posture préparatoire en marche |
+| [Moa-Junbi-Sogi-B.md](Moa-Junbi-Sogi-B.md) | Moa Junbi Sogi B |
 | [Waebal-Sogi.md](Waebal-Sogi.md) | Posture sur une seule jambe |
 
 ---

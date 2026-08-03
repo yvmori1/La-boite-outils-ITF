@@ -1,5 +1,7 @@
 # CHON-JI
 
+> 🔊 **Prononciation :** [천지](../audio/tul/chon-ji.m4a)
+
 > **Grade :** 9e Gup — Ceinture blanche barre jaune
 
 * **Nombre de mouvements :**  19

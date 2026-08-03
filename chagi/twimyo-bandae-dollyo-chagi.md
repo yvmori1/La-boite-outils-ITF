@@ -1,5 +1,7 @@
 # Coup de pied circulaire inversé sauté (Twimyo Bandae Dollyo Chagi)
 
+> 🔊 **Prononciation :** [뛰며 반대 돌려차기](../audio/chagi/twimyo-bandae-dollyo-chagi.m4a)
+
 Le **Twimyo Bandae Dollyo Chagi** (뛰며 반대 돌려차기) est le **coup de pied circulaire inversé sauté** (ou *Flying reverse turning kick*).
 
 Sa décomposition linguistique est la suivante :

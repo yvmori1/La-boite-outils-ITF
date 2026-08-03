@@ -1,5 +1,7 @@
 # Coup de pied avec saisie (Japgo Chagi)
 
+> 🔊 **Prononciation :** [잡고차기](../audio/chagi/japgo-chagi.m4a)
+
 Le **Japgo Chagi** (잡고차기) est le **coup de pied avec saisie** (*Grasping kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :

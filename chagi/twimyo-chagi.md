@@ -1,5 +1,7 @@
 # Coup de pied sauté (Twimyo Chagi)
 
+> 🔊 **Prononciation :** [뛰며차기](../audio/chagi/twimyo-chagi.m4a)
+
 Le **Twimyo Chagi** (뛰며차기) désigne l'ensemble des **coups de pied sautés ou en suspension** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
