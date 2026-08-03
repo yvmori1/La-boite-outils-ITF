@@ -47,7 +47,7 @@
    > *Exécuter 13 et 14 en un coup de pied consécutif.*
 
 15. Abaisser le pied gauche vers D pour former une position de marche gauche vers D tout en en frappant la paume gauche avec le droit avant coude.
-   *(Gunnun so ap palkup bandae taerigi)*
+   *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 16. Déplacer le pied gauche sur ligne CD pour former une position en L gauche vers C tout en exécutant un blocage de garde bas vers C avec un tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 17. Exécuter un coup de pied circulaire moyen vers AC avec le pied gauche puis abaisser il vers le côté avant du pied droit.
@@ -60,11 +60,11 @@
    > *Exécuter 18 et 19 en un coup de pied consécutif.*
 
 20. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en en frappant la paume droite avec le gauche avant coude.
-   *(Gunnun so ap palkup bandae taerigi)*
+   *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 21. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage en pression avec la paume droite.
-   *(Gunnun so sonbadak bandae noollo makgi)*
+   *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 22. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage en pression avec la paume gauche.
-   *(Gunnun so sonbadak bandae noollo makgi)*
+   *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 
    > *Exécuter 21 et 22 en mouvement rapide.*
 
@@ -83,9 +83,9 @@
 29. Déplacer le pied gauche vers C et le pied droit vers C puis glisser vers C en tournant dans le sens horaire pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 30. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant une pique haute vers D avec la pique de doigts à plat gauche.
-   *(Gunnun so opun sonkut nopunde tulgi)*
+   *([Gunnun so opun sonkut nopunde tulgi](../Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 31. Déplacer le pied gauche sur ligne CD pour former une position de marche droite vers C tout en exécutant une pique haute vers C avec la pique de doigts à plat droit.
-   *(Gunnun so opun sonkut nopunde tulgi)*
+   *([Gunnun so opun sonkut nopunde tulgi](../Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 32. Déplacer le pied droit vers D en tournant dans le sens horaire pour former une position parallèle vers B tout en exécutant un blocage crocheté moyen vers B avec la paume droite.
    *(Narani so orun sonbadak kaunde golcho makgi)*
 33. Exécuter un coup de poing moyen vers B avec le poing gauche tout en maintenant une position parallèle vers B.

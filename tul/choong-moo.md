@@ -22,7 +22,7 @@
 3. Déplacer le pied droit vers A en tournant dans le sens horaire pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec un tranchant de la main.
    *([niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 4. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant une pique haute vers A avec le gauche à plat bout des doigts.
-   *(Gunnun so opun sonkut nopunde tulgi)*
+   *([Gunnun so opun sonkut nopunde tulgi](../Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 5. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 6. Tourner le visage vers C pour former un gauche position de préparation pliée A vers C.

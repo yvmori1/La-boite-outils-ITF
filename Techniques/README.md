@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**138 fiches** au total.
+**151 fiches** au total.
 
 ---
 
@@ -18,15 +18,21 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 
 | Fiche | Technique |
 | :--- | :--- |
+| [Gunnun-So-Ap-Palkup-Bandae-Taerigi.md](Gunnun-So-Ap-Palkup-Bandae-Taerigi.md) | Coup de coude frontal inversé |
 | [Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md) | Blocage haut latéral avec le tranchant extérieur de l'avant-bras |
 | [Gunnun-So-Doo-Palmok-Nopunde-Makgi.md](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras |
 | [Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale du revers du poing au niveau haut |
+| [Gunnun-So-Jappyosul-Tae.md](Gunnun-So-Jappyosul-Tae.md) | Gunnun So Jappyosul Tae |
 | [Gunnun-So-Kaunde-Bandae-Jirugi.md](Gunnun-So-Kaunde-Bandae-Jirugi.md) | Coup de poing direct inverse au niveau moyen |
 | [Gunnun-So-Kaunde-Jirugi.md](Gunnun-So-Kaunde-Jirugi.md) | Coup de poing direct au niveau moyen |
+| [Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md](Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md) | Blocage descendant en pression avec poings croisés (en X) |
 | [Gunnun-So-Nopunde-Jirugi.md](Gunnun-So-Nopunde-Jirugi.md) | Coup de poing direct au niveau haut |
+| [Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md](Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md) | Pique du bout des doigts à plat au niveau haut |
 | [Gunnun-So-Palmok-Chookyo-Makgi.md](Gunnun-So-Palmok-Chookyo-Makgi.md) | Blocage haut remontant de l'avant-bras |
 | [Gunnun-So-Palmok-Najunde-Makgi.md](Gunnun-So-Palmok-Najunde-Makgi.md) | Blocage bas avec l'avant-bras |
+| [Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md](Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md) | Double coup de poing retourné (paumes vers le haut) |
 | [Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md](Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md) | Double coup de poing vertical haut |
+| [Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md](Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md) | Blocage descendant en pression avec la paume de la main (inversé) |
 
 ---
 
@@ -42,6 +48,8 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | [Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md) | Frappe moyenne vers l'extérieur avec le tranchant de la main |
 | [Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage moyen de garde au tranchant des mains |
 | [Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au tranchant des mains gauche |
+| [Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md](Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md) | Coup cinglant haut au tranchant de la main vers l'intérieur |
+| [Niunja-So-Yop-Palkup-Tulgi.md](Niunja-So-Yop-Palkup-Tulgi.md) | Coup de coude perçant latéral |
 
 ---
 
@@ -179,7 +187,15 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 ---
 
-## 7. Position sur une jambe (*Waebal So*)
+## 7. Position basse (*Nachuo So*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md](Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md) | Pique du bout des doigts à plat au niveau haut en posture basse |
+
+---
+
+## 8. Position sur une jambe (*Waebal So*)
 
 La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
 
@@ -193,7 +209,16 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
 
 ---
 
-## 8. Coups de pied (*Chagi*)
+## 9. Position verticale (*Soojik So*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md](Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md) | Coup percutant descendant inversé au tranchant de la main en posture verticale |
+| [Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.md](Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.md) | Coup percutant descendant inversé du côté du poing en posture verticale |
+
+---
+
+## 10. Coups de pied (*Chagi*)
 
 Techniques de jambe nommées sans position d'appui imposée.
 
@@ -206,6 +231,7 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Gokaeng-I-Chagi.md](Gokaeng-I-Chagi.md) | Coup de pied en pioche |
 | [Wen-Kaunde-Dwitcha-Jirugi.md](Wen-Kaunde-Dwitcha-Jirugi.md) | Coup de pied arrière perçant moyen de la jambe gauche |
 | [Wen-Kaunde-Yopcha-Tulgi.md](Wen-Kaunde-Yopcha-Tulgi.md) | Coup de pied latéral enfonçant/poussant moyen de la jambe gauche |
+| [Najunde-Yobap-Cha-Busigi.md](Najunde-Yobap-Cha-Busigi.md) | Coup de pied fouetté bas de biais (côté-avant) |
 | [Wen-Nopunde-Bandae-Dollyo-Gorochagi.md](Wen-Nopunde-Bandae-Dollyo-Gorochagi.md) | Coup de pied crocheté tournant inversé haut de la jambe gauche |
 | [Wen-Nopunde-Yopcha-Jirugi.md](Wen-Nopunde-Yopcha-Jirugi.md) | Coup de pied latéral perçant haut de la jambe gauche |
 | [Twimyo-Apcha-Busigi.md](Twimyo-Apcha-Busigi.md) | Coup de pied direct fouetté sauté / volant |
@@ -219,12 +245,13 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 9. Sans position imposée
+## 11. Sans position imposée
 
 | Fiche | Technique |
 | :--- | :--- |
 | [An-Palmok-Kaunde-Yop-Makgi.md](An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen avec l'avant-bras intérieur |
 | [Dung-Joomuk-Nopunde-Yop-Taerigi.md](Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale haute cinglante avec le revers du poing |
+| [Sonkal-Twio-Dolymyo-Taerigi.md](Sonkal-Twio-Dolymyo-Taerigi.md) | Sonkal Twio Dolymyo Taerigi |
 | [Sun-Sonkut-Kaunde-Tulgi.md](Sun-Sonkut-Kaunde-Tulgi.md) | Pique verticale de l'extrémité des doigts au niveau moyen |
 | [Twigi.md](Twigi.md) | Twigi |
 | [Twimyo-Orun-Joomuk-Ap-Jirugi.md](Twimyo-Orun-Joomuk-Ap-Jirugi.md) | Coup de poing direct sauté/volant du poing droit vers l'avant |
@@ -233,7 +260,7 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 10. Postures et positions de préparation
+## 12. Postures et positions de préparation
 
 Les positions d'appui et de préparation, décrites pour elles-mêmes.
 

@@ -49,11 +49,11 @@
 12. Déplacer le pied droit sur ligne AB puis déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec un tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 13. Exécuter un coup de pied avant fouetté latéral bas vers C avec le pied gauche en gardant le position de la mains comme s'ils étaient en 12.
-   *(Najunde yobap cha busigi)*
+   *([Najunde yobap cha busigi](../Techniques/Najunde-Yobap-Cha-Busigi.md))*
 14. Abaisser le pied gauche vers C pour former une position basse gauche vers C tout en exécutant une pique haute vers C avec le gauche à plat bout des doigts.
-   *(Nachuo so opun sonkut nopunde tulgi)*
+   *([Nachuo so opun sonkut nopunde tulgi](../Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 15. Exécuter une pique haute vers C avec le droit à plat bout des doigts tout en maintenant une position basse gauche vers C.
-   *(Nachuo so opun sonkut nopunde bandae tulgi)*
+   *([Nachuo so opun sonkut nopunde bandae tulgi](../Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 16. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit tout en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 17. Abaisser le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
@@ -80,7 +80,7 @@
 26. Exécuter un coup de poing renversé vers C avec le poing gauche tout en maintenant une position de marche droite vers C.
    *(Gunnun so bandae dwijibo jirugi)*
 27. Déplacer le pied droit sur ligne CD, pour former une position de marche gauche vers D tout en en frappant la paume gauche avec le droit avant coude.
-   *(Gunnun so ap palkup bandae taerigi)*
+   *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 28. Sauter vers D, pour former une position en X droite vers BD tout en exécutant un blocage haut vers D avec le droit double avant-bras.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so doo palmok nopunde makgi)*
 29. Déplacer le pied gauche vers BC pour former une position assise vers BD, en même temps en exécutant un blocage en levant vers BD avec la paume droite.

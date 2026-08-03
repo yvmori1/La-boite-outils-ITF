@@ -18,13 +18,13 @@
 1. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage moyen vers B avec le revers de la main gauche.
    *([Niunja so sonkal dung kaunde makgi](../makgi/sonkal-dung-makgi.md))*
 2. Exécuter un coup de pied avant fouetté latéral bas vers B avec le pied gauche, en gardant le position de la mains comme s'ils étaient en 1.
-   *(Najunde yobap cha busigi)*
+   *([Najunde yobap cha busigi](../Techniques/Najunde-Yobap-Cha-Busigi.md))*
 3. Abaisser le pied gauche vers B puis déplacer le pied droit vers B pour former une position sur la jambe arrière gauche vers B tout en exécutant un blocage montant avec une paume droite.
    *([Dwitbal so sonbadak bandae ollyo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
 4. Déplacer le pied droit vers A pour former une position en L gauche vers A, en même temps en exécutant un blocage moyen vers A avec un revers de la main droite.
    *([Niunja so sonkal dung kaunde makgi](../makgi/sonkal-dung-makgi.md))*
 5. Exécuter un coup de pied avant fouetté latéral bas vers A avec le pied droit, en gardant le position de la mains comme s'ils étaient en 4.
-   *(Najunde yobap cha busigi)*
+   *([Najunde yobap cha busigi](../Techniques/Najunde-Yobap-Cha-Busigi.md))*
 6. Abaisser le pied droit vers A puis déplacer le pied gauche vers A pour former une position sur la jambe arrière droite vers A tout en exécutant un blocage montant avec une paume gauche.
    *([Dwitbal so sonbadak bandae ollyo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
 7. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
@@ -38,13 +38,13 @@
 11. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 12. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing renversé vers D avec un poings jumelés.
-   *(Gunnun so sang joomuk dwijibo jirugi)*
+   *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 13. Déplacer le pied droit sur ligne CD puis tourner dans le sens anti-horaire pour former une position de marche gauche vers C tout en exécutant un blocage montant avec un poings croisés.
    *([Gunnun so kyocha joomuk chookyo makgi](../makgi/chookyo-makgi.md))*
 14. Déplacer le pied gauche vers E pour former une position en L droite vers E tout en exécutant une frappe latérale haute vers E avec le revers du poing gauche.
    *([Niunja so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 15. Vriller le poing gauche dans le sens anti-horaire jusqu'à ce que le revers du poing fait visage vers le bas, en même temps pour former une position de marche gauche vers E, en glissant le pied gauche vers E.
-   *(Gunnun so jappyosul tae)*
+   *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 16. Exécuter un coup de poing haut vers E avec le poing droit tout en maintenant une position de marche gauche vers E.
    *([gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 
@@ -53,7 +53,7 @@
 17. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers F, pour former une position en L gauche vers F tout en exécutant une frappe latérale haute vers F avec un revers du poing droit.
    *([Niunja so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 18. Vriller le poing droit dans le sens horaire jusqu'à ce que le revers du poing fait visage vers le bas, en même temps pour former une position de marche droite vers F, en glissant le pied droit vers F.
-   *(Gunnun so jappyosul tae)*
+   *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 19. Exécuter un coup de poing haut vers F avec le poing gauche tout en maintenant une position de marche droite vers F.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 

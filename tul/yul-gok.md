@@ -80,13 +80,13 @@
 23. Exécuter un coup de pied latéral perçant moyen vers D avec le pied gauche.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 24. Abaisser le pied gauche vers D pour former une position de marche gauche vers D tout en en frappant la paume gauche avec le droit avant coude.
-   *(Gunnun so ap palkup bandae taerigi)*
+   *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 25. Tourner le visage vers C pour former un gauche position de préparation pliée A vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 26. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 27. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en en frappant la paume droite avec le gauche avant coude.
-   *(Gunnun so ap palkup bandae taerigi)*
+   *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 28. Déplacer le pied gauche vers E pour former une position en L droite vers E tout en exécutant un blocage double du tranchant de la main.
    *([Niunja so sang sonkal makgi](../makgi/sang-sonkal-makgi.md))*
 29. Déplacer le pied droit vers E pour former une position de marche droite vers E tout en exécutant une pique moyenne vers E avec le droit droit bout des doigts.

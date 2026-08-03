@@ -18,13 +18,13 @@
 1. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage double des avant-bras.
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 2. Exécuter une frappe intérieure haute vers B avec le tranchant de la main droite tout en amenant le gauche côté poing en avant de la épaule droite, en maintenant une position en L droite vers B.
-   *(Niunja so sonkal nopunde anuro taerigi)*
+   *([Niunja so sonkal nopunde anuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
 3. Exécuter un coup de poing moyen vers B avec le poing gauche tout en formant une position fixe gauche vers B, en glissant le pied gauche vers B.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 4. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A, pour former une position en L gauche vers A tout en exécutant un blocage double des avant-bras.
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 5. Exécuter une frappe intérieure haute vers A avec le tranchant de la main gauche tout en amenant le droit côté poing en avant de la épaule gauche, en maintenant une position en L gauche vers A.
-   *(Niunja so sonkal nopunde anuro taerigi)*
+   *([Niunja so sonkal nopunde anuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
 6. Exécuter un coup de poing moyen vers A avec le poing droit tout en formant une position fixe droite vers A, en glissant le pied droit vers A.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 7. Ramener le pied droit vers le pied gauche puis tourner le visage vers D tout en formant un droit position de préparation pliée A vers D.
@@ -42,13 +42,13 @@
 13. Déplacer le pied gauche vers E en tournant dans le sens anti-horaire pour former une position en L droite vers E, en même temps en exécutant un blocage double des avant-bras.
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 14. Exécuter une frappe intérieure haute vers E avec le tranchant de la main droite tout en amenant le gauche côté poing en avant de la épaule droite, en maintenant une position en L droite vers E.
-   *(Niunja so sonkal nopunde anuro taerigi)*
+   *([Niunja so sonkal nopunde anuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
 15. Exécuter un coup de poing moyen vers E avec le poing gauche tout en formant une position fixe gauche vers E, en glissant le pied gauche vers E.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 16. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers F, pour former une position en L gauche vers F tout en exécutant un blocage double des avant-bras.
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 17. Exécuter une frappe intérieure haute vers F avec le tranchant de la main gauche tout en amenant le droit côté poing en avant de la épaule gauche, en maintenant une position en L gauche vers F.
-   *(Niunja so sonkal nopunde anuro taerigi)*
+   *([Niunja so sonkal nopunde anuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
 18. Exécuter un coup de poing moyen vers F avec le poing droit tout en formant une position fixe droite vers F, en glissant le pied droit vers F.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 19. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage circulaire vers CF avec l'avant-bras intérieur droit.

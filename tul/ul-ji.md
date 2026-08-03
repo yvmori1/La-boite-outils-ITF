@@ -18,7 +18,7 @@
 1. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe horizontale avec jumelé côté poings.
    *(Gunnun so sang yop joomuk soopyong taerigi)*
 2. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un blocage en pression avec un poings croisés.
-   *(Gunnun so kyocha joomuk noollo makgi)*
+   *([Gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 3. Exécuter un blocage montant avec un tranchant des mains croisées tout en maintenant une position de marche gauche vers D.
    *([Gunnun so kyocha sonkal chookyo makgi](../makgi/chookyo-makgi.md))*
 

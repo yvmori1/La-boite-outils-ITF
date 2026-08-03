@@ -1,7 +1,6 @@
 Gunnun So An Palmok Dollimyo Makgi
 Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi
 Gunnun So An Palmok Kaunde Yop Makgi
-Gunnun So Ap Palkup Bandae Taerigi
 Gunnun So Bakat Palmok Nopunde Ap Makgi
 Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi
 Gunnun So Bakat Palmok Nopunde Hechyo Makgi
@@ -24,7 +23,6 @@ Gunnun So Dwijibun Sonkut Najunde Tulgi
 Gunnun So Dwit Palkup Bandae Tulgi
 Gunnun So Ghin Joomuk Nopunde Bandae Jirugi
 Gunnun So Homi Sonkut Nopunde Bandae Tulgi
-Gunnun So Jappyosul Tae
 Gunnun So Joomuk Nopunde Jirugi
 Gunnun So Kaunde Bandae Jirugi
 Gunnun So Kaunde Bandae Sewo Jirugi
@@ -32,7 +30,6 @@ Gunnun So Kaunde Doo Bandalson Makgi
 Gunnun So Kaunde Jirugi
 Gunnun So Kyocha Joomuk Chookyo Makgi
 Gunnun So Kyocha Joomuk Naeryo Makgi
-Gunnun So Kyocha Joomuk Noollo Makgi
 Gunnun So Kyocha Sonkal Chookyo Makgi
 Gunnun So Mit Joomuk Ap Taerigi
 Gunnun So Naeryo Jirugi
@@ -42,7 +39,6 @@ Gunnun So Nopunde Bandae Jirugi
 Gunnun So Nopunde Doo Bandalson Makgi
 Gunnun So Nopunde Jirugi
 Gunnun So Opun Sonkut Nopunde Bakuro Ghutgi
-Gunnun So Opun Sonkut Nopunde Tulgi
 Gunnun So Palmok Bandae Chookyo Makgi
 Gunnun So Palmok Chookyo Makgi
 Gunnun So Palmok Kaunde Bandae Ap Makgi
@@ -50,13 +46,11 @@ Gunnun So Palmok Najunde Bandae Makgi
 Gunnun So Palmok Najunde Makgi
 Gunnun So Palmok Nopunde Bandae Ap Makgi
 Gunnun So Pyon Joomuk Nopunde Bandae Jirugi
-Gunnun So Sang Joomuk Dwijibo Jirugi
 Gunnun So Sang Joomuk Kaunde Jirugi
 Gunnun So Sang Sonbadak Ollyo Makgi
 Gunnun So Sang Sonkal Nopunde Anuro Taerigi
 Gunnun So Sang Sonkal Soopyong Taerigi
 Gunnun So Sang Yop Joomuk Soopyong Taerigi
-Gunnun So Sonbadak Bandae Noollo Makgi
 Gunnun So Sonbadak Bandae Ollyo Makgi
 Gunnun So Sonbadak Baro Noollo Makgi
 Gunnun So Sonbadak Kaunde Bandae Golcho Makgi
@@ -128,13 +122,11 @@ Moa Sogi
 Moorup Najunde Apcha Busigi
 Moorup Ollyo Chagi
 Nachuo So Opun Sonkut Nopunde Bandae Tulgi
-Nachuo So Opun Sonkut Nopunde Tulgi
 Nachuo So Sonbadak Bandae Noollo Makgi
 Naeryo Chagi
 Najunde Ap Cha Busigi
 Najunde Apcha Busigi
 Najunde Bituro Chagi
-Najunde Yobap Cha Busigi
 Narani So Orun Joomuk Kaunde Dollyo Jirugi
 Narani So Orun Joomuk Kaunde Jirugi
 Narani So Orun Opun Sonkut Nopunde Anuro Ghutgi
@@ -186,11 +178,9 @@ Niunja So Sonkal Kaunde Daebi Makgi
 Niunja So Sonkal Kaunde Makgi
 Niunja So Sonkal Najunde Bandae Makgi
 Niunja So Sonkal Najunde Daebi Makgi
-Niunja So Sonkal Nopunde Anuro Taerigi
 Niunja So Sonkal Nopunde Bakuro Taerigi
 Niunja So Sonkal Nopunde Daebi Makgi
 Niunja So Sun Palkup Naeryo Tulgi
-Niunja So Yop Palkup Tulgi
 Niunja Sogi
 Nopunde Bandae Dollyo Chagi
 Nopunde Bandae Dollyo Gorochagi
@@ -222,5 +212,3 @@ Sonbadak Kaunde Golcho Makgi
 Sonkal Nopunde Ap Taerigi
 Sonkal Twio Dolmyo Taerigi
 Sonkal Twio Dolymyo Taerigi
-Soojik So Sonkal Bandae Naeryo Taerigi
-Soojik So Yop Joomuk Bandae Naeryo Taerigi

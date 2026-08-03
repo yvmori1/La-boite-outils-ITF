@@ -120,11 +120,11 @@
 46. Exécuter un blocage intérieur bas vers D avec le revers de la main droite en tirant le gauche côté poing en avant de la épaule droite tout en formant une position de marche gauche vers D, en glissant le pied droit vers C.
    *([Gunnun so sonkal dung najunde bandae anuro makgi](../makgi/anuro-makgi.md))*
 47. Glisser vers C pour former une position en L gauche vers D tout en en piquant vers C avec le gauche côté coude.
-   *(Niunja so yop palkup tulgi)*
+   *([Niunja so yop palkup tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))*
 48. Exécuter un blocage intérieur bas vers D avec le revers de la main gauche en tirant le droit côté poing en avant de la épaule gauche tout en formant une position de marche droite vers D, en glissant le pied gauche vers C.
    *([Gunnun so sonkal dung najunde bandae anuro makgi](../makgi/anuro-makgi.md))*
 49. Glisser vers C pour former une position en L droite vers D tout en en piquant vers C avec le droit côté coude.
-   *(Niunja so yop palkup tulgi)*
+   *([Niunja so yop palkup tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
 

@@ -66,7 +66,7 @@
    > *Exécuter 16, 17, 18 et 19 en mouvement continu.*
 
 20. Déplacer le pied droit vers C, pour former une position de marche gauche vers D en même temps en exécutant un blocage en pression avec un poings croisés.
-   *(Gunnun so kyocha joomuk noollo makgi)*
+   *([Gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 21. Exécuter un blocage montant avec un tranchant des mains croisées tout en maintenant une position de marche gauche vers D.
    *([Gunnun so kyocha sonkal chookyo makgi](../makgi/chookyo-makgi.md))*
 
@@ -79,7 +79,7 @@
 24. Abaisser le pied droit vers D, pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 25. Exécuter un blocage en pression avec un poings croisés tout en maintenant une position de marche droite vers D.
-   *(gunnun so kyocha joomuk noollo makgi)*
+   *([gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 26. Exécuter un blocage montant avec un tranchant des mains croisées tout en maintenant une position de marche droite vers D.
    *([Gunnun so kyocha sonkal chookyo makgi](../makgi/chookyo-makgi.md))*
 
@@ -120,9 +120,9 @@
 40. Ramener le pied droit vers le pied gauche pour former un position de préparation fermée C vers C.
    *(Moa junbi sogi C)*
 41. Déplacer le pied droit vers CF en un en écrasant mouvement pour former une position de marche droite vers CG en même temps en exécutant un coup de poing renversé vers CF avec un poings jumelés.
-   *(Gunnun so sang joomuk dwijibo jirugi)*
+   *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 42. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers CE en un en écrasant mouvement, pour former une position de marche gauche vers CE tout en exécutant un coup de poing renversé vers CE avec un poings jumelés.
-   *(Gunnun so sang joomuk dwijibo jirugi)*
+   *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 43. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers F pour former une position en L gauche vers F tout en exécutant un blocage moyen vers F avec l'avant-bras intérieur droit.
    *([Niunja so an palmok kaunde yop makgi](../Techniques/An-Palmok-Kaunde-Yop-Makgi.md))*
 44. Exécuter un coup de poing moyen vers F avec le poing gauche tout en maintenant une position en L gauche vers F.

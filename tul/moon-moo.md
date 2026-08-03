@@ -40,9 +40,9 @@
 6. Abaisser le pied droit vers B en mouvement sauté pour former une position en X droite vers C tout en exécutant une frappe latérale moyenne vers B avec le tranchant de la main droite.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so sonkal kaunde yop taerigi)*
 7. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant un blocage en pression vers A avec la paume droite.
-   *(Gunnun so sonbadak bandae noollo makgi)*
+   *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 8. Déplacer le pied droit vers A pour former une position de marche droite vers A en même temps en exécutant un blocage en pression avec la paume gauche.
-   *(Gunnun so sonbadak bandae noollo makgi)*
+   *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 9. Exécuter un blocage latéral haut vers B avec le tranchant de la main gauche et un blocage latéral bas vers A avec le tranchant de la main droite tout en formant une position sur une jambe droite vers D, en tirant le gauche inversé tranchant du pied vers le genou droit articulation.
    *([Waebal so sonkal najunde baro yop makgi](../makgi/yop-makgi.md) wa [sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
 
@@ -73,9 +73,9 @@
 15. Abaisser le pied gauche vers A en mouvement sauté pour former une position en X gauche vers C tout en exécutant une frappe latérale moyenne vers A avec le tranchant de la main gauche.
    *(Twigi, [wen kyocha so sonkal kaunde yop taerigi](../Techniques/Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md))*
 16. Déplacer le pied droit vers B pour former une position de marche droite vers B tout en exécutant un blocage en pression vers B avec la paume gauche.
-   *(Gunnun so sonbadak bandae noollo makgi)*
+   *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 17. Déplacer le pied gauche vers B pour former une position de marche gauche vers B en même temps en exécutant un blocage en pression avec la paume droite.
-   *(Gunnun so sonbadak bandae noollo makgi)*
+   *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 18. Exécuter un blocage latéral haut vers A avec le tranchant de la main droite et un blocage latéral bas vers B avec le tranchant de la main gauche tout en formant une position sur une jambe gauche vers D, en tirant le droit inversé tranchant du pied vers le genou gauche articulation.
    *([Waebal so sonkal najunde baro yop makgi](../makgi/yop-makgi.md) wa [sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
 

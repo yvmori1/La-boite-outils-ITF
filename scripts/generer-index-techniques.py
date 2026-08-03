@@ -68,15 +68,19 @@ def mots(nom):
 
 
 def description(fiche):
+    """Libellé français de la fiche, et faux si la fiche est incomplète."""
     t = fiche.read_text(encoding="utf-8")
     m = (re.search(r"est (?:le|la|l'|un|une)\s+\*\*(.+?)\*\*", t)
          or re.search(r"appelé[e]? (?:le|la|l')\s*\*\*(.+?)\*\*", t)
          or re.search(r"^#\s+(.+)$", t, re.M))
+    if not m:
+        # fiche vide ou sans titre : on retombe sur le nom de fichier
+        return fiche.stem.replace("-", " ") + " — *fiche à rédiger*", False
     d = m.group(1).strip()
     for s in SUFFIXES_POSTURE:
         d = d.replace(s, "")
     d = d.strip()
-    return d[0].upper() + d[1:] if d else fiche.stem
+    return (d[0].upper() + d[1:] if d else fiche.stem), True
 
 
 def posture(nom):
@@ -123,7 +127,9 @@ def table(noms, desc):
 
 def construire():
     fiches = [p for p in sorted(DOSSIER.glob("*.md")) if p.name != "README.md"]
-    desc = {p.name: description(p) for p in fiches}
+    brut = {p.name: description(p) for p in fiches}
+    desc = {n: v[0] for n, v in brut.items()}
+    incompletes = [n for n, v in brut.items() if not v[1]]
 
     postures, kicks, autres = [], [], []
     par_position = collections.defaultdict(list)
@@ -208,6 +214,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
     stats = {
         "total": len(fiches), "postures": len(postures),
         "chagi": len(kicks), "autres": len(autres),
+        "a_rediger": len(incompletes),
         **{s: len(par_position[s]) for s in slugs},
     }
     return entete + "\n".join(corps) + "\n" + pied, stats
