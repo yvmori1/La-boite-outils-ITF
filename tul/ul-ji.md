@@ -82,11 +82,11 @@
 30. Exécuter un coup de pied avant fouetté latéral moyen vers F avec le pied gauche tout en exécutant un blocage en écartement moyen avec l'avant-bras intérieur.
    *(Kaunde yobap cha busigi wa [an palmok kaunde hechyo makgi](../makgi/hechyo-makgi.md))*
 31. Abaisser le pied gauche vers F pour former une position de marche gauche vers F tout en exécutant un coup de poing vertical haut vers F avec un poings jumelés.
-   *(Gunnun so sang joomuk nopunde sewo jirugi)*
+   *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 32. Déplacer le pied droit vers F pour former une position fixe droite vers F tout en exécutant un blocage extérieur moyen avec le tranchant de la main droite et un blocage poussée moyen avec la paume gauche.
    *([Gojung so sonkal kaunde bakuro baro makgi](../makgi/baro-makgi.md) wa [sonbadak kaunde bandae miro makgi](../makgi/miro-makgi.md))*
 33. Glisser vers F pour former une position en L droite vers F tout en exécutant un coup de poing moyen vers F avec le poing gauche.
-   *(Niunja so kaunde yop jirugi)*
+   *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 34. Déplacer le pied gauche vers le côté arrière du pied droit et le pied droit vers E pour former une position en L droite vers F puis sauter vers E en maintenant une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec l'avant-bras.
    *(Niunja sogi, [twigi](../Techniques/Twigi.md), orun niunja so palmok kaunde daebi makgi)*
 35. Exécuter un coup de pied circulaire moyen vers DF avec le pied droit.

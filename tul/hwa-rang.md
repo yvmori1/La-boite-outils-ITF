@@ -58,11 +58,11 @@
 20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage bas vers C avec l'avant-bras gauche.
    *([Gunnun so palmok najunde makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md))*
 21. Exécuter un coup de poing moyen vers C avec le poing droit tout en formant une position en L droite vers C, en tirant le pied gauche.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 22. Déplacer le pied droit vers C pour former une position en L gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 23. Déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 24. Exécuter un blocage en pression avec un poings croisés tout en formant une position de marche gauche vers C, en glissant le pied gauche vers C.
    *(Gunnun so kyocha joomuk noollo makgi)*
 25. Déplacer le pied droit vers C en un en glissant mouvement pour former une position en L droite vers D tout en en piquant vers C avec le droit côté coude.

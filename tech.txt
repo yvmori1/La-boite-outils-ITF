@@ -13,7 +13,6 @@ Gunnun So Bandal Son Bandae Chookyo Makgi
 Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi
 Gunnun So Bandal Son Nopunde Bandae Taerigi
 Gunnun So Doo Palmok Kaunde Makgi
-Gunnun So Doo Palmok Nopunde Makgi
 Gunnun So Doo Songarak Nopunde Bandae Tulgi
 Gunnun So Dung Joomuk Ap Taerigi
 Gunnun So Dung Joomuk Bandae Ap Taerigi
@@ -53,7 +52,6 @@ Gunnun So Palmok Nopunde Bandae Ap Makgi
 Gunnun So Pyon Joomuk Nopunde Bandae Jirugi
 Gunnun So Sang Joomuk Dwijibo Jirugi
 Gunnun So Sang Joomuk Kaunde Jirugi
-Gunnun So Sang Joomuk Nopunde Sewo Jirugi
 Gunnun So Sang Sonbadak Ollyo Makgi
 Gunnun So Sang Sonkal Nopunde Anuro Taerigi
 Gunnun So Sang Sonkal Soopyong Taerigi
@@ -163,8 +161,6 @@ Niunja So Dung Joomuk Nopunde Yop Taerigi
 Niunja So Dwijibo Jirugi
 Niunja So Joongji Joomuk Baro Dwijibo Jirugi
 Niunja So Joongji Joomuk Kaunde Baro Jirugi
-Niunja So Kaunde Baro Jirugi
-Niunja So Kaunde Yop Jirugi
 Niunja So Kyocha Joomuk Momchau Makgi
 Niunja So Kyocha Joomuk Noollo Makgi
 Niunja So Kyocha Sonkal Momchau Makgi

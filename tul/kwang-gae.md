@@ -112,7 +112,7 @@
    > *Exécuter en mouvement lent.*
 
 31. Déplacer le pied droit vers C en un en écrasant mouvement, pour former une position de marche droite vers C tout en exécutant un coup de poing vertical haut vers C avec un poings jumelés.
-   *(Gunnun so sang joomuk nopunde sewo jirugi)*
+   *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 32. Déplacer le pied gauche vers A en un en écrasant mouvement, pour former une position de marche gauche vers A tout en exécutant un coup de poing renversé vers A avec un poings jumelés.
    *(Gunnun so sang joomuk dwijibo jirugi)*
 33. Exécuter un coup de pied avant fouetté moyen vers A avec le pied droit, en gardant le position de la mains comme s'ils étaient en 32.

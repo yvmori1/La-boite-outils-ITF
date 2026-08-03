@@ -106,9 +106,9 @@
 36. Sauter vers C pour former une position en X gauche vers B tout en exécutant une frappe latérale haute vers C avec le revers du poing gauche.
    *(Twigi, [wen kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 37. Déplacer le pied droit vers A pour former une position de marche droite vers A en même temps en exécutant un blocage haut vers A avec le droit double avant-bras.
-   *(Gunnun so doo palmok nopunde makgi)*
+   *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 38. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers B pour former une position de marche gauche vers B tout en exécutant un blocage haut vers B avec le gauche double avant-bras.
-   *(Gunnun so doo palmok nopunde makgi)*
+   *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
 

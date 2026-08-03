@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**134 fiches** au total.
+**138 fiches** au total.
 
 ---
 
@@ -19,12 +19,14 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | Fiche | Technique |
 | :--- | :--- |
 | [Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md) | Blocage haut latéral avec le tranchant extérieur de l'avant-bras |
+| [Gunnun-So-Doo-Palmok-Nopunde-Makgi.md](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras |
 | [Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale du revers du poing au niveau haut |
 | [Gunnun-So-Kaunde-Bandae-Jirugi.md](Gunnun-So-Kaunde-Bandae-Jirugi.md) | Coup de poing direct inverse au niveau moyen |
 | [Gunnun-So-Kaunde-Jirugi.md](Gunnun-So-Kaunde-Jirugi.md) | Coup de poing direct au niveau moyen |
 | [Gunnun-So-Nopunde-Jirugi.md](Gunnun-So-Nopunde-Jirugi.md) | Coup de poing direct au niveau haut |
 | [Gunnun-So-Palmok-Chookyo-Makgi.md](Gunnun-So-Palmok-Chookyo-Makgi.md) | Blocage haut remontant de l'avant-bras |
 | [Gunnun-So-Palmok-Najunde-Makgi.md](Gunnun-So-Palmok-Najunde-Makgi.md) | Blocage bas avec l'avant-bras |
+| [Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md](Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md) | Double coup de poing vertical haut |
 
 ---
 
@@ -33,6 +35,8 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | Fiche | Technique |
 | :--- | :--- |
 | [Niunja-So-An-Palmok-Kaunde-Makgi.md](Niunja-So-An-Palmok-Kaunde-Makgi.md) | Blocage moyen avec le tranchant interne de l'avant-bras |
+| [Niunja-So-Kaunde-Baro-Jirugi.md](Niunja-So-Kaunde-Baro-Jirugi.md) | Coup de poing direct moyen du même côté |
+| [Niunja-So-Kaunde-Yop-Jirugi.md](Niunja-So-Kaunde-Yop-Jirugi.md) | Coup de poing perçant moyen latéral |
 | [Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au double avant-bras gauche |
 | [Niunja-So-Sang-Palmok-Makgi.md](Niunja-So-Sang-Palmok-Makgi.md) | Blocage double des avant-bras |
 | [Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md) | Frappe moyenne vers l'extérieur avec le tranchant de la main |

@@ -28,9 +28,9 @@
 4. Exécuter un blocage intérieur bas vers D avec la paume droite tout en formant une position de marche gauche vers D, en glissant le pied droit, et en amenant le gauche côté poing en avant de la épaule droite.
    *([Gunnun so sonbadak najunde anuro bandae makgi](../makgi/bandae-makgi.md))*
 5. Déplacer le pied droit vers D, pour former une position en L gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
-   *(Niunja so kaunde yop jirugi)*
+   *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 6. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position en L gauche vers D.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 
    > *Exécuter 5 et 6 en mouvement rapide.*
 
@@ -115,7 +115,7 @@
 37. Exécuter un blocage bas vers D avec l'avant-bras droit et un blocage extérieur moyen vers D avec le tranchant de la main gauche tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *([Gunnun so sonkal kaunde baro bakuro makgi](../makgi/bakuro-makgi.md) wa [palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
 38. Déplacer le pied droit vers D en un en écrasant mouvement pour former une position de marche droite vers D en même temps en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
-   *(Gunnun so sang joomuk nopunde sewo jirugi)*
+   *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 39. Tirer le droit inversé tranchant du pied vers le genou gauche articulation, pour former une position sur une jambe gauche vers D tout en en frappant la paume gauche avec le droit arrière avant-bras.
    *([Waebal so dungpalmok bandae taerigi](../Techniques/Waebal-So-Dungpalmok-Bandae-Taerigi.md))*
 40. Exécuter un coup de pied arrière perçant moyen vers C avec le pied droit, en tirant les deux mains dans la direction opposée.

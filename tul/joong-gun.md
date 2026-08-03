@@ -36,7 +36,7 @@
 10. Exécuter une frappe montante du coude gauche tout en formant une position de marche droite vers D, en glissant le pied droit vers D.
    *(Gunnun so wi palkup bandae taerigi)*
 11. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
-   *(Gunnun so sang joomuk nopunde sewo jirugi)*
+   *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 12. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing renversé vers D avec un poings jumelés.
    *(Gunnun so sang joomuk dwijibo jirugi)*
 13. Déplacer le pied droit sur ligne CD puis tourner dans le sens anti-horaire pour former une position de marche gauche vers C tout en exécutant un blocage montant avec un poings croisés.
@@ -60,15 +60,15 @@
    > *Exécuter 18 et 19 en mouvement rapide.*
 
 20. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage haut vers C avec un gauche double avant-bras.
-   *(Gunnun so doo palmok nopunde makgi)*
+   *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 21. Exécuter un coup de poing moyen vers C avec le poing gauche tout en formant une position en L droite vers C, en tirant le pied gauche.
-   *(Niunja so kaunde yop jirugi)*
+   *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 22. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 23. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage haut vers C avec le droit double avant-bras.
-   *(Gunnun so doo palmok nopunde makgi)*
+   *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 24. Exécuter un coup de poing moyen vers C avec le poing droit tout en formant une position en L gauche vers C, en tirant le pied droit.
-   *(Niunja so kaunde yop jirugi)*
+   *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 25. Exécuter un coup de pied latéral perçant moyen vers C avec le pied gauche.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 26. Abaisser le pied gauche vers C pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.

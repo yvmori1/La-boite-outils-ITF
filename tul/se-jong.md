@@ -66,7 +66,7 @@
 23. Déplacer le pied droit vers A, pour former une position en L gauche vers A tout en exécutant un blocage de garde haut vers A avec un tranchant de la main.
    *([Niunja so sonkal nopunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 24. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un coup de poing moyen vers B avec le poing droit.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
 

@@ -62,7 +62,7 @@
 22. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant une pique moyenne vers C avec le droit droit bout des doigts.
    *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Sun-Sonkut-Kaunde-Tulgi.md))*
 23. Déplacer le pied gauche vers B en tournant dans le sens anti-horaire pour former une position de marche gauche vers B tout en exécutant un blocage haut vers B avec le gauche double avant-bras.
-   *(Gunnun so doo palmok nopunde makgi)*
+   *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 24. Déplacer le pied droit vers B pour former une position assise vers C tout en exécutant un blocage frontal moyen vers C avec l'avant-bras droit puis une frappe latérale haute vers B avec le revers du poing droit.
    *([Annun so orun palmok kaunde ap makgi](../Techniques/Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.md), [orun dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 25. Exécuter un coup de pied latéral perçant moyen vers A avec le pied droit en tournant dans le sens anti-horaire puis abaisser il vers A.

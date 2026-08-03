@@ -141,7 +141,7 @@
    > *Exécuter 52 et 53 en mouvement continu.*
 
 54. Exécuter un coup de poing moyen vers D avec le poing gauche tout en formant une position en L droite vers D, en tirant le pied gauche.
-   *(Niunja so kaunde yop jirugi)*
+   *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 55. Déplacer le pied droit vers D, puis glisser vers D, en tournant dans le sens horaire pour former une position en L gauche vers C tout en exécutant un blocage de garde bas vers C avec un tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 56. Sauter vers C, en pivotant dans le sens horaire pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
@@ -154,11 +154,11 @@
    > *Exécuter 57 et 58 en mouvement continu.*
 
 59. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position en L gauche vers D, en tirant le pied droit.
-   *(Niunja so kaunde yop jirugi)*
+   *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 60. Déplacer le pied droit vers le côté arrière du pied gauche, puis glisser vers C, pour former une position en L gauche vers D en même temps en exécutant un blocage en levant avec la paume droite.
    *(Niunja so sonbadak bandae duro makgi)*
 61. Décaler vers D, en maintenant une position en L gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 62. Tourner dans le sens horaire tout en formant un gauche position de préparation pliée A vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 63. Exécuter un coup de pied latéral perçant haut vers C avec le pied droit, en gardant le position de la mains comme s'ils étaient en 62.
@@ -170,7 +170,7 @@
 66. Déplacer le pied gauche vers le côté arrière du pied droit, puis glisser vers D, pour former une position en L droite vers C tout en exécutant un blocage en levant avec la paume gauche.
    *(Niunja so sonbadak bandae duro makgi)*
 67. Décaler vers C, en maintenant une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 68. Tourner dans le sens anti-horaire tout en formant un droit position de préparation pliée A vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 69. Exécuter un coup de pied latéral perçant haut vers D avec le pied gauche, en gardant le position de la mains comme s'ils étaient en 68.

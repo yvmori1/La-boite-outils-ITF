@@ -18,7 +18,7 @@
 1. Glisser vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 2. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un blocage haut vers D avec le droit double avant-bras.
-   *(Gunnun so doo palmok nopunde makgi)*
+   *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 3. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage latéral haut vers D avec le tranchant de la main droite et en amenant la paume gauche sur le droit arrière avant-bras.
    *([Gunnun so sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
 4. Exécuter un coup de pied vrillé moyen vers A avec le pied droit en gardant le position de la mains comme s'ils étaient en 3.
@@ -72,7 +72,7 @@
 28. Déplacer le pied droit vers C pour former une position en L gauche vers C tout en exécutant un blocage bas vers C avec l'avant-bras droit, en tirant le poing gauche sous la aisselle gauche.
    *([Niunja so palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
 29. Exécuter un coup de poing moyen vers C avec le poing gauche tout en maintenant une position en L gauche vers C en amenant le poing droit par-dessus la épaule gauche.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 30. Exécuter un blocage frontal moyen avec l'avant-bras droit tout en formant une position de marche gauche vers D, en pivotant avec le pied droit.
    *([Gunnun so palmok kaunde bandae ap makgi](../makgi/ap-makgi.md))*
 31. Exécuter un coup de poing haut vers D avec le poing gauche tout en maintenant une position de marche gauche vers D.
@@ -83,7 +83,7 @@
 32. Exécuter un coup de pied avant fouetté bas vers D avec le pied gauche en gardant le position de la mains comme s'ils étaient en 31.
    *([Najunde ap cha busigi](../chagi/apcha-busigi.md))*
 33. Abaisser le pied gauche vers D puis déplacer le pied droit vers D en un en écrasant mouvement pour former une position de marche droite vers D tout en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
-   *(Gunnun so sang joomuk nopunde sewo jirugi)*
+   *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
 

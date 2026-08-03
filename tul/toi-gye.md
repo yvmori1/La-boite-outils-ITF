@@ -36,7 +36,7 @@
 7. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage en pression avec un poings croisés.
    *(Gunnun so kyocha joomuk noollo makgi)*
 8. Exécuter un coup de poing vertical haut vers D avec un poings jumelés tout en maintenant une position de marche gauche vers D.
-   *(Gunnun so sang joomuk nopunde sewo jirugi)*
+   *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 
    > *Exécuter 7 et 8 en mouvement continu.*
 
@@ -86,7 +86,7 @@
 29. Sauter vers C pour former une position en X droite vers A tout en exécutant un blocage en pression avec un poings croisés.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so kyocha joomuk noollo makgi)*
 30. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage haut vers C avec le droit double avant-bras.
-   *(Gunnun so doo palmok nopunde makgi)*
+   *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 31. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde bas vers B avec un tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 32. Exécuter un blocage circulaire vers BD avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers B, en glissant le pied gauche vers B.

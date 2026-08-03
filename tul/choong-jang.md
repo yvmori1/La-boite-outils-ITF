@@ -83,11 +83,11 @@
    > *Exécuter en un en écrasant mouvement.*
 
 30. Frapper du poing la paume gauche avec le poing droit tout en maintenant une position en L droite vers C.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 31. Déplacer le pied droit vers C en un en écrasant mouvement pour former une position en L gauche vers C tout en exécutant une frappe descendante avec le droit arrière main.
    *([Niunja so sondung bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 32. Frapper du poing la paume droite avec le poing gauche tout en maintenant une position en L gauche vers C.
-   *(Niunja so kaunde baro jirugi)*
+   *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 33. Exécuter une frappe extérieure moyenne vers D avec le tranchant de la main gauche tout en formant une position en L droite vers D, en pivotant avec le pied droit.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 
