@@ -49,9 +49,9 @@
 32. Déplacer le pied gauche sur la ligne CD pour former une position de marche droite vers D tout en exécutant un blocage de côté haut vers D avec l'avant-bras extérieur droit ([Gunnun So Bakat Palmok Nopunde Yop Makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md)).
 33. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un coup de poing remontant vers D avec le poing droit et en amenant le poing gauche devant l'épaule droite (Niunja So Dwijibo Jirugi).
 34. Exécuter un coup de pied de côté crocheté moyen vers A avec le pied droit (Kaunde Yopcha Goro Chagi).
-35. Poser le pied droit au sol vers A pour former une position en L gauche vers A tout en exécutant une frappe croisée haute vers A avec le bout des doigts à plat droite (Niunja So Opun Sonkut Nopunde Ghutgi).
+35. Poser le pied droit au sol vers A pour former une position en L gauche vers A tout en exécutant un tranchant horizontal du bout des doigts droit au niveau haut vers A (Niunja So Opun Sonkut Nopunde Ghutgi).
 36. Ramener le pied droit vers le pied gauche, puis exécuter un coup de pied de côté crocheté moyen vers B avec le pied gauche (Kaunde Yopcha Goro Chagi).
-37. Poser le pied gauche au sol vers B pour former une position en L droite vers B tout en exécutant une frappe croisée haute vers B avec le bout des doigts à plat gauche (Niunja So Opun Sonkut Nopunde Ghutgi).
+37. Poser le pied gauche au sol vers B pour former une position en L droite vers B tout en exécutant un tranchant horizontal du bout des doigts gauche au niveau haut vers B (Niunja So Opun Sonkut Nopunde Ghutgi).
 38. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde haut vers A with le tranchant de la main ([Niunja So Sonkal Nopunde Daebi Makgi](../makgi/sonkal-daebi-makgi.md)).
 39. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde haut vers B with le tranchant de la main ([Niunja So Sonkal Nopunde Daebi Makgi](../makgi/sonkal-daebi-makgi.md)).
 

@@ -41,7 +41,7 @@
 
 7. Exécuter un coup de pied crocheté moyen puis un coup de pied latéral perçant haut vers F consécutivement avec le pied gauche tout en tirant les deux poings devant la poitrine.
    *(Kaunde golcho chagi, [wen nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
-8. Abaisser le pied gauche vers F en un mouvement étampé pour former une position assise vers B tout en exécutant une coupe croisée extérieure haute vers F avec le bout des doigts gauche à plat.
+8. Abaisser le pied gauche vers F en un mouvement étampé pour former une position assise vers B tout en exécutant un tranchant horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, vers F.
    *([Annun so wen opun sonkut nopunde bakuro ghutgi](../Techniques/Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md))*
 9. Exécuter une frappe haute du coude droit vers BF pressant le côté du poing droit avec la paume gauche tout en formant une position de marche gauche vers BF.
    *(Gunnun so nopun palkup bandae taerigi)*
@@ -74,7 +74,7 @@
 
 19. Exécuter un coup de pied crocheté moyen puis un coup de pied latéral perçant haut vers E consécutivement avec le pied droit tout en tirant les deux poings devant la poitrine.
    *(Kaunde golcho chagi, [orun nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
-20. Abaisser le pied droit vers E en un mouvement étampé pour former une position assise vers A tout en exécutant une coupe croisée extérieure haute vers E avec le bout des doigts droit à plat.
+20. Abaisser le pied droit vers E en un mouvement étampé pour former une position assise vers A tout en exécutant un tranchant horizontal du bout des doigts droit vers l'extérieur, au niveau haut, vers E.
    *([Annun so orun opun sonkut nopunde bakuro ghutgi](../Techniques/Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md))*
 21. Exécuter une frappe haute du coude gauche vers AE pressant le côté du poing gauche avec la paume droite tout en formant une position de marche droite vers AE.
    *(Gunnun so nopun palkup bandae taerigi)*
@@ -136,7 +136,7 @@
 
 41. Abaisser le pied gauche vers D en un mouvement étampé pour former une position en L droite vers D tout en exécutant une frappe horizontale vers D avec le revers du poing gauche.
    *(Niunja so dung joomuk bandae soopyong taerigi)*
-42. Exécuter une coupe croisée intérieure haute vers D avec le bout des doigts droit à plat tout en formant une position parallèle vers D, en tirant le pied droit.
+42. Exécuter un tranchant horizontal du bout des doigts droit vers l'intérieur, au niveau haut, vers D tout en formant une position parallèle vers D, en tirant le pied droit.
    *(Narani so orun opun sonkut nopunde anuro ghutgi)*
 43. Exécuter un coup de poing frontal et un coup de poing renversé vers D consécutivement avec le poing droit tout en sautant vers D puis atterrir vers D pour former une position fermée vers D avec le poing droit étendu.
    *([Twimyo orun joomuk ap jirugi](../Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.md), orun joomuk dwijibo jirigi)*

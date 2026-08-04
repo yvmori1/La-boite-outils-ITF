@@ -145,8 +145,8 @@ La posture elle-même est décrite dans [Annun-Sogi.md](Annun-Sogi.md).
 | [Annun-So-Orun-Dwit-Palkup-Tulgi.md](Annun-So-Orun-Dwit-Palkup-Tulgi.md) | Pique / poussée du coude arrière droit |
 | [Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.md](Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.md) | Pique moyenne du bout des doigts à plat du bras gauche |
 | [Annun-So-Orun-Opun-Sonkut-Kaunde-Tulgi.md](Annun-So-Orun-Opun-Sonkut-Kaunde-Tulgi.md) | Pique de doigts à plat moyenne droite |
-| [Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md](Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md) | Frappe en coupure haute vers l'extérieur avec le bout des doigts à plat du bras gauche |
-| [Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md](Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md) | Frappe en balayage/griffure haute vers l'extérieur au bout des doigts à plat droit |
+| [Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md](Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md) | Tranchant horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, en position assise |
+| [Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md](Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md) | Tranchant horizontal du bout des doigts droit vers l'extérieur, au niveau haut, en position assise |
 
 ---
 

@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 엎은 손끝 높인데 밖으로 긋기](../audio/Techniques/Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.m4a)
 
-Le **Annun So Wen Opun Sonkut Nopunde Bakuro Ghutgi** (앉은 서 왼 엎은 손끝 높인데 밖으로 긋기) est la **frappe en coupure haute vers l'extérieur avec le bout des doigts à plat du bras gauche en posture du cavalier** (*Sitting stance left flat fingertip high outward cutting/scraping strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Opun Sonkut Nopunde Bakuro Ghutgi** (앉은 서 왼 엎은 손끝 높인데 밖으로 긋기) est la **tranchant horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, en position assise** (*Sitting stance left flat fingertip high outward cutting/scraping strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque chirurgicale et vicieuse utilise le bout des doigts de la main gauche (*Opun Sonkut*) dans un mouvement cinglant mené du centre vers l'extérieur (*Bakuro Ghutgi*). Elle vise à cisailler ou griffonner des cibles particulièrement fragiles du visage (les yeux, la gorge ou la carotide) au niveau haut (*Nopunde*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi (앉은 서) :** Position assise, dite du cavalier (*Sitting stance*).
 * **Wen (왼) :** Gauche / Côté gauche (*Left*).
 * **Opun Sonkut (엎은 손끝) :** Bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
 * **Nopunde (높인데) :** Niveau haut (hauteur des yeux / du visage).
 * **Bakuro (밖으로) :** Vers l'extérieur (mouvement mené de l'intérieur vers l'extérieur).
-* **Ghutgi / Gutgi (긋기) :** Coupure / Cisaillage / Grattage (*Cutting / Slashing / Scraping* — action d'entailler ou fendre avec le bout des doigts).
+* **Ghutgi / Gutgi (긋기) :** Tranchant / coupure / cisaillage (*Cutting / Slashing / Scraping* — action d'entailler ou fendre avec le bout des doigts).
 
 ---
 
