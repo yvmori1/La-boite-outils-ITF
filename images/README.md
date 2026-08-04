@@ -12,6 +12,12 @@ Ces fichiers sont utilisés par [../Theorie/grammaire-itf.md](../Theorie/grammai
 
 Voir [../Theorie/positions.md](../Theorie/positions.md) pour les descriptions.
 
+Les schémas cotés des 21 positions, générés par
+[../scripts/generer-sogi.py](../scripts/generer-sogi.py), sont dans
+[sogi/](sogi/README.md) : ce sont eux que référence désormais
+[../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md). Les images ci-dessous
+sont les schémas d'origine, conservés pour mémoire.
+
 | Image | Position |
 | :--- | :--- |
 | [narani-junbi-sogi.png](narani-junbi-sogi.png) | Position de préparation parallèle |

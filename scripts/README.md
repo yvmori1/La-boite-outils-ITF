@@ -4,8 +4,9 @@ Outils de maintenance du dépôt. Tous sont **en essai à blanc par défaut** :
 il faut `--write` pour qu'ils modifient quoi que ce soit, et tous sont
 **idempotents** — les relancer sans changement ne produit rien.
 
-Aucune dépendance à installer : Python 3 seul. La synthèse vocale utilise
-`say` et `afconvert`, donc macOS.
+Aucune dépendance à installer : Python 3 seul — sauf
+[generer-sogi.py](generer-sogi.py), qui dessine et demande `matplotlib`. La
+synthèse vocale utilise `say` et `afconvert`, donc macOS.
 
 ## Au quotidien
 
@@ -35,6 +36,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-mvt.py](generer-mvt.py) | Reconstruit `mvt.txt` |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
+| [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
 
 ### maintenir.py
 
@@ -88,3 +90,34 @@ toujours le même enregistrement.
 `--reparer` reproduit l'audio de tout lien dont le fichier a disparu : c'est ce
 qui permet de corriger une graphie sans effort — corriger le texte, supprimer
 l'audio devenu faux, relancer.
+
+### generer-sogi.py
+
+```sh
+python3 scripts/generer-sogi.py                        # liste les 22 schémas
+python3 scripts/generer-sogi.py --write                # écrit images/sogi/*.png
+python3 scripts/generer-sogi.py --write --only niunja-sogi
+```
+
+Dessine, vue de dessus, la position des pieds des 21 positions de
+[../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — *Palja Sogi* donnant
+deux schémas, intérieur et extérieur. Voir [../images/sogi/](../images/sogi/README.md).
+
+Chaque pied est posé par un repère nommé — talon, talon interne, gros orteil,
+petit orteil, centre, bord interne — et jamais à l'œil : les distances du schéma
+sont donc bien celles de la position, et « talons collés » ou « bords internes
+en contact » se dessinent sans chevauchement. La géométrie est calculée sur les
+dimensions standard (épaule 47 cm, pied 25 × 9 cm), mais les cotes se libellent
+toujours en largeurs d'épaule, jamais en centimètres. Le contour de pied vient
+des tracés de [../images/gojung-sogi.svg](../images/gojung-sogi.svg).
+
+Chaque schéma est une vignette carrée de 350 × 350 pixels : le cadrage s'ajuste
+au dessin, et les textes, de taille fixe sur la vignette, sont pris en compte
+par quelques itérations avant le rendu.
+
+Ajouter une position tient en une fonction décorée par `@position(slug, titre)` :
+elle pose ses pieds, puis ses cotes (`cote_v`, `cote_h`, `angle`, `note`,
+`poids`). Le cadrage et la taille du fichier s'en déduisent.
+
+Ce script n'est pas enchaîné par `maintenir.py` : les images ne changent que
+lorsqu'une mesure change.

@@ -123,7 +123,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Usage :** Posture neutre de concentration permettant de se recentrer avant d'entamer les exercices fondamentaux et les formes.
 * **Schéma d'alignement :**
 
-![narani-junbi-sogi](../images/narani-junbi-sogi.png)
+![junbi-sogi](../images/sogi/junbi-sogi.png)
 
 #### 3.2 POSITION D'ATTENTE RAPPROCHÉE (Moa Junbi Sogi)
 
@@ -136,7 +136,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
   * **Type C :** Les mains ouvertes sont placées bas devant l'abdomen. La distance entre les mains et l'abdomen est d'environ **10 cm**.
 * **Schéma d'alignement :**
 
-![moa-sogi](../images/moa-sogi.png)
+![moa-junbi-sogi](../images/sogi/moa-junbi-sogi.png)
 
 #### 3.3 POSITION D'ATTENTE FLÉCHIE (Guburyo Junbi Sogi)
 
@@ -146,6 +146,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Variantes de Garde (Mains) :**
   * **Type A :** Posture préparatoire au coup de pied de côté (*Yop Chagi*). Les bras effectuent un double blocage des avant-bras (*Twin Forearm Block*).
   * **Type B :** Posture préparatoire au coup de pied arrière (*Dwit Chagi*). Distance d'environ **25 cm** entre les poings et les hanches, les coudes pliés à **30 degrés**.
+* **Schéma d'alignement :**
+
+![guburyo-junbi-sogi](../images/sogi/guburyo-junbi-sogi.png)
 
 #### 3.4 POSITION À L'ATTENTION (Charyo Sogi)
 
@@ -155,18 +158,16 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Posture :** Les poings sont fermés et placés légèrement le long du corps de chaque côté au naturel, les épaules inclinées et le regard fixé vers l'avant.
 * **Schéma d'alignement :**
 
-  ```text
-     /   \
-    /     \   <- Pieds ouverts à 45°
-   [ Talons  ]
-   [ Collés  ]
-  ```
+![charyo-sogi](../images/sogi/charyo-sogi.png)
 
 #### 3.5 POSITION DE SALUT (Kyong Ye Jase)
 
 * **Nomenclature coréenne :** *Kyong Ye Jase / [경례 자세](../audio/grammaire/Kyong-Ye-Jase.m4a)*.
 * **Exécution :** À partir de la position à l'attention (*Charyo Sogi*), on incline le corps de **15 degrés** vers l'avant.
 * **Regard :** Maintenir impérativement le regard fixé dans les yeux de l'adversaire ou du senior.
+* **Schéma d'alignement :**
+
+![kyong-ye-jase](../images/sogi/kyong-ye-jase.png)
 
 #### 3.6 POSITION PARALLÈLE (Narani Sogi)
 
@@ -174,9 +175,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Largeur :** Les pieds sont écartés d'**une largeur d'épaule (47 cm)** entre les gros orteils.
 * **Orientation :** Les pieds sont strictement parallèles, les orteils pointant droit devant (0°).
 * **Poids :** Réparti à 50% sur le pied gauche, 50% sur le pied droit.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
-![narani-junbi-sogi](../images/narani-junbi-sogi.png)
+![narani-sogi](../images/sogi/narani-sogi.png)
 
 #### 3.7 POSITION D'ATTENTE PARALLÈLE (Narani Junbi Sogi)
 
@@ -186,9 +187,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Distances de contrôle :**
   * Écart entre les deux poings : **5 cm**.
   * Distance entre les poings et l'abdomen : **7 cm**.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
-![narani-junbi-sogi](../images/narani-junbi-sogi.png)
+![narani-junbi-sogi](../images/sogi/narani-junbi-sogi.png)
 
 #### 3.8 POSITION ASSISE (Annun Sogi)
 
@@ -197,9 +198,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Orientation :** Les pieds sont strictement parallèles, les orteils pointant vers l'avant (0°).
 * **Genoux :** Forcer puissamment les genoux vers l'extérieur.
 * **Poids et Posture :** Poids réparti à 50% sur chaque jambe, abdomen contracté et tendu pour assurer une stabilité maximale lors des mouvements latéraux.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
-![annun-sogi](../images/annun-sogi.png)
+![annun-sogi](../images/sogi/annun-sogi.png)
 
 #### 3.9 POSITION DE MARCHE (Gunnun Sogi)
 
@@ -214,9 +215,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
   * Jambe arrière : Maintenue complètement droite et tendue.
 * **Poids :** Réparti équitablement (50/50).
 * **Musculature :** Tendre les muscles des pieds en les sentant tirer l'un vers l'autre pour sceller l'ancrage au sol.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
-![gunnun-sogi](../images/gunnun-sogi.png)
+![gunnun-sogi](../images/sogi/gunnun-sogi.png)
 
 #### 3.10 POSITION EN « L » (Niunja Sogi)
 
@@ -228,9 +229,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
   * Jambe arrière : Fléchie jusqu'à ce que la rotule forme une ligne verticale droite avec les orteils. Conserver la hanche parfaitement alignée avec la jointure interne du genou arrière.
   * Jambe avant : Fléchie en conséquence.
 * **Usage :** Posture de garde principalement défensive permettant d'intercepter, bloquer ou contre-attaquer instantanément de la jambe avant sans transfert préalable du centre de gravité.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
-![niunja-sogi](../images/niunja-sogi.png)
+![niunja-sogi](../images/sogi/niunja-sogi.png)
 
 #### 3.11 POSITION FIXE (Gojung Sogi)
 
@@ -241,19 +242,25 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Usage :** Position extrêmement forte et stable pour les attaques et défenses de côté en puissance.
 * **Schéma d'alignement :**
 
-![gojung-sogi](../images/gojung-sogi.gif)
+![gojung-sogi](../images/sogi/gojung-sogi.png)
 
 #### 3.12 POSITION SUR UNE JAMBE (Waebal Sogi)
 
 * **Nomenclature coréenne :** *Waebal Sogi / [외발 서기](../audio/grammaire/Waebal-Sogi.m4a)*.
 * **Exécution :** Étirer complètement la jambe d'appui immobile au sol. Placer le tranchant externe du pied de la jambe relevée directement **sur la rotule** (ou dans le creux poplité) du genou de support.
 * **Poids :** 100% sur la jambe d'appui, 0% sur la jambe pliée.
+* **Schéma d'alignement :**
+
+![waebal-sogi](../images/sogi/waebal-sogi.png)
 
 #### 3.13 POSITION FLÉCHIE (Guburyo Sogi)
 
 * **Nomenclature coréenne :** *Guburyo Sogi / [구부려 서기](../audio/grammaire/Guburyo-Sogi.m4a)*.
 * **Structure :** Identique à la position sur une jambe (*Waebal Sogi*), à la seule différence que la jambe d'appui au sol est **fléchie** pour amortir et stocker l'énergie cinétique.
 * **Usage :** Posture de préparation dynamique avant de délivrer un coup de pied de côté (*Yop Chagi*) ou vers l'arrière (*Dwit Chagi*).
+* **Schéma d'alignement :**
+
+![guburyo-sogi](../images/sogi/guburyo-sogi.png)
 
 #### 3.14 POSITION EN « X » (Kyocha Sogi)
 
@@ -261,16 +268,9 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Exécution :** Croiser un pied devant ou derrière l'autre.
 * **Appuis :** Le pied de soutien (immobile) est posé à plat au sol et supporte **l'intégralité du poids du corps (100%)**. Le pied croisé touche le sol très légèrement uniquement avec **la plante du pied (les orteils)** pour servir de stabilisateur directionnel.
 * **Usage :** Position de transition très fluide et propice aux attaques de face ou de côté en déplacement.
-* **Schéma d'alignement (ASCII) :**
+* **Schéma d'alignement :**
 
-  ```text
-          [ Pied d'appui à plat (100% Poids) ]
-                      |    |
-                      |____|
-                        \
-                         \  <- Croisement serré
-                          o   [ Plante du pied croisé (0% Poids) ]
-  ```
+![kyocha-sogi](../images/sogi/kyocha-sogi.png)
 
 #### 3.15 POSITION ARRIÈRE RAPPROCHÉE (Dwitbal Sogi)
 
@@ -283,7 +283,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids :** Presque 100% sur la jambe arrière fléchie (le pied avant restant libre pour frapper instantanément ou ajuster la distance).
 * **Schéma d'alignement :**
 
-![dwitbal-sogi](../images/dwitbal-sogi.png)
+![dwitbal-sogi](../images/sogi/dwitbal-sogi.png)
 
 #### 3.16 POSITION BASSE (Nachuo Sogi)
 
@@ -293,7 +293,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Usage :** Allonger la portée des armes corporelles d'attaque et renforcer la musculature des cuisses.
 * **Schéma d'alignement :**
 
-![nachuo-sogi](../images/nachuo-sogi.gif)
+![nachuo-sogi](../images/sogi/nachuo-sogi.png)
 
 #### 3.17 POSITION RAPPROCHÉE (Moa Sogi)
 
@@ -302,7 +302,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids :** Réparti équitablement (50/50).
 * **Schéma d'alignement :**
 
-![moa-sogi](../images/moa-sogi.png)
+![moa-sogi](../images/sogi/moa-sogi.png)
 
 #### 3.18 POSITION VERTICALE (Soojik Sogi)
 
@@ -313,7 +313,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Poids :** Réparti à **60% sur la jambe arrière** et **40% sur la jambe avant**.
 * **Schéma d'alignement :**
 
-![soojik-sogi](../images/soojik-sogi.png)
+![soojik-sogi](../images/sogi/soojik-sogi.png)
 
 #### 3.19 POSITION EN DIAGONALE (Sasun Sogi)
 
@@ -323,7 +323,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Usage :** Très utile pour basculer instantanément vers la position de marche (*Gunnun Sogi*) sans avoir à déplacer les appuis au sol.
 * **Schéma d'alignement :**
 
-![sasun-sogi](../images/sasun-sogi.png)
+![sasun-sogi](../images/sogi/sasun-sogi.png)
 
 #### 3.20 POSITION ACCROUPIE (Oguryo Sogi)
 
@@ -333,7 +333,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Dimensions :** L'écartement entre les pieds peut être ajusté librement selon les besoins tactiques.
 * **Schéma d'alignement :**
 
-![oguryo-sogi](../images/oguryo-sogi.gif)
+![oguryo-sogi](../images/sogi/oguryo-sogi.png)
 
 #### 3.21 POSITIONS OUVERTES (Palja Sogi)
 
@@ -342,8 +342,11 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 * **Variantes :**
   * **Ouverte à l'intérieur (An Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'intérieur** l'un de l'autre.
   * **Ouverte à l'extérieur (Bakat Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'extérieur à un angle de 45 degrés**.
+* **Schémas d'alignement :**
 
-![palja-sogi](../images/palja-sogi.png)
+![an-palja-sogi](../images/sogi/an-palja-sogi.png)
+
+![bakat-palja-sogi](../images/sogi/bakat-palja-sogi.png)
 
 ---
 

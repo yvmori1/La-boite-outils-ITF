@@ -67,12 +67,7 @@ Les sources retracent le développement des techniques de combat à mains nues �
 | Titre | Description |
 | --- | --- |
 | **Le Moine Bodhidharma (Daruma)** | En 520 apr. J.-C., ce moine bouddhiste de l'Inde du Sud arrive en Chine au Temple de Shaolin. Constatant l'épuisement physique des moines soumis à une méditation rigoureuse, il introduit des exercices de conditionnement physique et spirituel issus des traités *L-Jin Kyong* (développement musculaire) et *Si Shim Kyong* (purification de l'esprit), jetant ainsi les bases de la boxe Shaolin (*Ch’yan Fa*).
-| **La Péninsule Coréenne et le Hwa-Rang-Do** | Durant l'époque des Trois Royaumes (Silla, Koguryo, Baek Je), le petit royaume de Silla forme un corps d'élite de jeunes guerriers aristocrates, les **Hwa-Rang**. Pour défendre leur patrie, ils endurcissent leur corps et leur esprit en escaladant des montagnes et en nageant dans des fleuves glacés. Ils adoptent un **Code de conduite en 5 points** rédigé par le moine Won Kang :
-    1. *Soyez loyal envers votre Roi (ou patrie).*
-    2. *Soyez obéissant envers vos parents.*
-    3. *Soyez d'honneur (fidèle) envers vos amis.*
-    4. *Ne retraitez jamais en combat.*
-    5. *Faites des morts justes (tuer avec discernement).*|
+| **La Péninsule Coréenne et le Hwa-Rang-Do** | Durant l'époque des Trois Royaumes (Silla, Koguryo, Baek Je), le petit royaume de Silla forme un corps d'élite de jeunes guerriers aristocrates, les **Hwa-Rang**. Pour défendre leur patrie, ils endurcissent leur corps et leur esprit en escaladant des montagnes et en nageant dans des fleuves glacés. Ils adoptent un **Code de conduite en 5 points** rédigé par le moine Won Kang :<br>1. *Soyez loyal envers votre Roi (ou patrie).*<br>2. *Soyez obéissant envers vos parents.*<br>3. *Soyez d'honneur (fidèle) envers vos amis.*<br>4. *Ne retraitez jamais en combat.*<br>5. *Faites des morts justes (tuer avec discernement).* |
 
 ---
 
