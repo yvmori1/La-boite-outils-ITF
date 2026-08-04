@@ -19,7 +19,7 @@ C'est l'une des techniques les plus déconcertantes du TaeKwon-Do. Elle repose s
 * **Baldong (coup-de-pied / dessus du pied - 발등) :** Utilisé parfois pour cingler les zones molles du visage ou de la tête.
 * **Les cibles privilégiées :**
 * **Section haute (*Nopunde*) :** La tempe, la joue, la mâchoire (contourne la garde de face).
-* **Section moyenne (*Kaujunde*) :** Le plexus solaire ou les côtes flottantes.
+* **Section moyenne (*Kaunde*) :** Le plexus solaire ou les côtes flottantes.
 
 ---
 

@@ -46,7 +46,7 @@ Cette trajectoire vers l'extérieur s'associe à plusieurs armes naturelles selo
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
-1. **Alignement :** Le blocage se verrouille juste à l'extérieur de la ligne de l'épaule (au niveau moyen *Kaujunde* ou haut *Nopunde*).
+1. **Alignement :** Le blocage se verrouille juste à l'extérieur de la ligne de l'épaule (au niveau moyen *Kaunde* ou haut *Nopunde*).
 2. **Rotation du poignet (*Snap*) :** Au dernier millième de seconde, le poignet pivot sur son axe pour percuter le membre adverse et fermer la structure.
 3. **Expiration (*Kihap*) :** Contractez la sangle abdominale avec une brève expulsion d'air synchrone.
 

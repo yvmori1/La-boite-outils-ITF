@@ -20,10 +20,10 @@ Les deux mains ouvertes travaillent de concert pour former un bouclier fluide et
 
 1. **La main avant (Main de blocage principal) :**
     * **Surface d'impact :** **Sonkal** (tranchant externe de la main, de la base du petit doigt au poignet).
-    * **Position :** Déployée vers l'avant au niveau moyen (*Kaujunde*) ou haut (*Nopunde*). Le coude est fléchi à environ 120° pour garder une structure absorbante et solide.
+    * **Position :** Déployée vers l'avant au niveau moyen (*Kaunde*) ou haut (*Nopunde*). Le coude est fléchi à environ 120° pour garder une structure absorbante et solide.
 2. **La main arrière (Main de garde / Protection) :**
     * **Surface d'impact :** **Sonkal** (tranchant externe de la main).
-    * **Position :** Placé à quelques centimètres devant le plexus solaire (*Kaujunde*), le tranchant orienté vers l'avant et légèrement incliné vers le sol pour protéger les organes vitaux et le flanc.
+    * **Position :** Placé à quelques centimètres devant le plexus solaire (*Kaunde*), le tranchant orienté vers l'avant et légèrement incliné vers le sol pour protéger les organes vitaux et le flanc.
 
 ---
 

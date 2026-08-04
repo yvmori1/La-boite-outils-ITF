@@ -63,7 +63,7 @@ Pour transformer la main en une pointe rigide et perforante sans se blesser les 
 
 C'est une technique majeure du programme intermédiaire :
 
-* **Do-San Tul (Mouvements 13 et 15) :** C'est l'exécution la plus célèbre ! Le pratiquant avance en posture de marche (*Gunnun Sogi*), presse la garde adverse vers le bas avec la paume avant (*Sonbadak Nullo Makgi*) tout en délivrant un *Sun Sonkut Kaujunde Tulgi* au plexus.
+* **Do-San Tul (Mouvements 13 et 15) :** C'est l'exécution la plus célèbre ! Le pratiquant avance en posture de marche (*Gunnun Sogi*), presse la garde adverse vers le bas avec la paume avant (*Sonbadak Nullo Makgi*) tout en délivrant un *Sun Sonkut Kaunde Tulgi* au plexus.
 * **Yul-Gok Tul** et **Joong-Gun Tul :** Utilisé dans des enchaînements de neutralisation de gardes rapprochées.
 
 ---

@@ -35,7 +35,7 @@ Cette technique effectue une trajectoire circulaire en arc de cercle en montant 
 
 ### Étape 3 : L'Impact et la Pénétration
 
-1. **Impact :** Le bord interne du pied (*Balkal Anchae*) percute la cible au niveau haut (*Nopunde* : tempe, joue, menton) ou au niveau moyen (*Kaujunde* : bras/garde adverse).
+1. **Impact :** Le bord interne du pied (*Balkal Anchae*) percute la cible au niveau haut (*Nopunde* : tempe, joue, menton) ou au niveau moyen (*Kaunde* : bras/garde adverse).
 2. **Explosion d'air :** Accompagné d'un *Kihap* et d'un verrouillage de la sangle abdominale à la fraction de seconde du contact.
 
 ### Étape 4 : La Redescente et le Retour en Garde

@@ -15,7 +15,7 @@ Contrairement aux blocages exécutés vers l'avant (*Ap Makgi*), le **Yop Makgi*
 
 ## 1. Les surfaces de contact et les variantes (*Jook Bang*)
 
-Le *Yop Makgi* se décline selon l'arme naturelle utilisée et la hauteur visée (*Nopunde*, *Kaujunde*, *Najunde*) :
+Le *Yop Makgi* se décline selon l'arme naturelle utilisée et la hauteur visée (*Nopunde*, *Kaunde*, *Najunde*) :
 
 | Variante complète | Surface d'impact | Action & Application |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Le *Yop Makgi* se décline selon l'arme naturelle utilisée et la hauteur visée
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
-1. **Position d'arrêt :** L'avant-bras ou le tranchant de la main se verrouille sur la ligne latérale du corps (au niveau moyen *Kaujunde* ou haut *Nopunde*), le coude fléchi à environ 120° pour garder une structure amortissante.
+1. **Position d'arrêt :** L'avant-bras ou le tranchant de la main se verrouille sur la ligne latérale du corps (au niveau moyen *Kaunde* ou haut *Nopunde*), le coude fléchi à environ 120° pour garder une structure amortissante.
 2. **Rotation du poignet (*Snap*) :** Au dernier millième de seconde, le poignet pivote pour engager l'arme naturelle avec une impulsion maximale.
 3. **Expiration (*Kihap*) :** Contractez les abdominaux avec une expulsion d'air brève et synchrone.
 

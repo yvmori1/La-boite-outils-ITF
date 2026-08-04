@@ -54,7 +54,7 @@ Prenons l'exemple le plus représentatif : le **Ijun Dollyo Chagi** (double coup
 ## 3. Les deux formes d'exécution : Au sol vs Sauté
 
 1. **Ijun Chagi au sol (Changement de niveau) :**
-Exécuté en gardant la jambe d'appui ancrée au sol. On joue sur le changement de hauteur (*Najunde/Kaujunde* $\rightarrow$ *Nopunde*) pour déstabiliser la défense.
+Exécuté en gardant la jambe d'appui ancrée au sol. On joue sur le changement de hauteur (*Najunde/Kaunde* $\rightarrow$ *Nopunde*) pour déstabiliser la défense.
 2. **Twimyo Ijun Chagi (Sauté / En suspension) :**
 Exécuté entièrement en l'air. Le pratiquant prend de l'impulsion et décoche les deux coups de pied successifs pendant la phase de vol avant de réatterrir (par exemple, un *Twimyo Ijun Ap Chagi* déclenchant deux coups de pied avant en l'air).
 

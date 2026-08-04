@@ -16,13 +16,13 @@ Cette technique engage **les deux paumes simultanément** pour créer un bouclie
 
 ## 1. Les variantes et surfaces de contact (*Jook Bang*)
 
-Le *Doo Sonbadak Makgi* s'adapte à l'angle et à la hauteur d'interception (*Nopunde*, *Kaujunde*, *Najunde*) :
+Le *Doo Sonbadak Makgi* s'adapte à l'angle et à la hauteur d'interception (*Nopunde*, *Kaunde*, *Najunde*) :
 
 | Variante complète | Trajectoire | Application principale |
 | --- | --- | --- |
 | **Doo Sonbadak Nullo Makgi** | Descendante (*Pressing*) | Double pression des paumes vers le bas pour neutraliser un coup de pied montant (*Ap Chagi*) ou un coup de genou (*Murup Chagi*). |
 | **Doo Sonbadak Miro Makgi** | Poussée vers l'avant (*Pushing*) | Double poussée des paumes pour repousser le buste ou la garde de l'adversaire. |
-| **Doo Sonbadak Kaujunde Makgi** | Frontale / Moyenne | Interception circulaire double au niveau du thorax pour dévier un coup de poing ou une attaque directe. |
+| **Doo Sonbadak Kaunde Makgi** | Frontale / Moyenne | Interception circulaire double au niveau du thorax pour dévier un coup de poing ou une attaque directe. |
 
 ---
 

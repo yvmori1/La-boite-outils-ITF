@@ -33,7 +33,7 @@ La posture en L offre une protection naturelle du buste en le présentant de tro
 
 * **Arme naturelle (*Jook Bang*) :** **An Palmok** (la zone osseuse et charnue située sur la face interne de l'avant-bras, du côté du pouce).
 * **Position d'arrêt finale :**
-  1. Le poing d'attaque se fixe à la **hauteur de l'épaule / du thorax** (*Kaujunde*).
+  1. Le poing d'attaque se fixe à la **hauteur de l'épaule / du thorax** (*Kaunde*).
   2. Le coude conserve un angle fléchi d'environ **110° à 120°**.
   3. L'avant-bras est incliné vers l'axe central du corps pour intercepter et chasser la frappe adverse vers l'extérieur.
   4. Le bras de réaction (*Bandae Son*) vient se placer plié devant le plexus/poitrine en garde de couverture, ou est ramené à la hanche selon la variante.
@@ -75,7 +75,7 @@ La posture en L offre une protection naturelle du buste en le présentant de tro
 
 C'est l'un des blocages en posture en L les plus fréquemment étudiés :
 
-* **Won-Hyo Tul (Mouvements 1 et 4) :** Premier mouvement fondamental de cette forme. Le pratiquant débute la forme en exécutant un *Niunja So An Palmok Kaujunde Makgi* à gauche puis à droite.
+* **Won-Hyo Tul (Mouvements 1 et 4) :** Premier mouvement fondamental de cette forme. Le pratiquant débute la forme en exécutant un *Niunja So An Palmok Kaunde Makgi* à gauche puis à droite.
 * **Yul-Gok Tul** et **Joong-Gun Tul :** Utilisé régulièrement dans des enchaînements d'esquives latérales et de réalignement de garde.
 
 ---

@@ -40,7 +40,7 @@ Sa décomposition linguistique est la suivante :
 ### Étape 3 : L'Impact, le *Snap* et le Verrouillage
 
 1. **Rotation finale (*Snap*) :** Au millième de seconde de l'impact, le poignet pivot de façon à ce que le tranchant intérieur (*An Palmok*) vienne percuter ou dévier le coup.
-2. **Alignement :** Le poing s'arrête à la hauteur des yeux (*Nopunde*) ou du plexus (*Kaujunde*), le coude fléchi à environ 90°-120°.
+2. **Alignement :** Le poing s'arrête à la hauteur des yeux (*Nopunde*) ou du plexus (*Kaunde*), le coude fléchi à environ 90°-120°.
 3. **Expiration (*Kihap*) :** Expulsion d'air brève et contraction de la sangle abdominale synchronisée avec l'arrêt du mouvement.
 
 ---
@@ -58,7 +58,7 @@ Sa décomposition linguistique est la suivante :
 
 C'est une technique fondamentale intégrée très tôt dans le cursus de l'ITF :
 
-* **Chon-Ji Tul (Mouvements 9 à 14) :** Deuxième partie de la première forme, où le pratiquant réalise un *Kaujunde An Palmok Ap Makgi* (blocage frontal moyen avec l'avant-bras intérieur) en posture de marche (*Gunnun Sogi*).
+* **Chon-Ji Tul (Mouvements 9 à 14) :** Deuxième partie de la première forme, où le pratiquant réalise un *Kaunde An Palmok Ap Makgi* (blocage frontal moyen avec l'avant-bras intérieur) en posture de marche (*Gunnun Sogi*).
 * **Do-San Tul (Mouvements 1 et 2) :** Exécution du *An Palmok Nopunde Yop Makgi* (blocage latéral haut de l'avant-bras intérieur).
 * **Won-Hyo Tul**, **Yul-Gok Tul**, **Joong-Gun Tul :** Utilisé fréquemment pour intercepter les attaques directes au corps.
 

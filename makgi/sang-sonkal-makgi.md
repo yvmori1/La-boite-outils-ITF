@@ -20,10 +20,10 @@ Bien que les deux mains soient ouvertes en position *Sonkal*, elles remplissent 
 
 1. **La main principale (Main de blocage) :**
    * **Surface d'impact :** **Sonkal** (tranchant externe de la main, de la base du petit doigt au poignet).
-   * **Position :** Déployée vers l'avant à niveau moyen (*Kaujunde*) ou haut (*Nopunde*), le coude fléchi à environ 120° pour former un bouclier rigide.
+   * **Position :** Déployée vers l'avant à niveau moyen (*Kaunde*) ou haut (*Nopunde*), le coude fléchi à environ 120° pour former un bouclier rigide.
 2. **La main secondaire (Main de protection / Garde) :**
    * **Surface d'impact :** **Sonkal** (tranchant de la main).
-   * **Position :** Placé devant le plexus solaire (*Kaujunde*), le tranchant de la main orienté vers l'avant et légèrement incliné vers le sol, protégeant le centre du buste et les organes vitaux.
+   * **Position :** Placé devant le plexus solaire (*Kaunde*), le tranchant de la main orienté vers l'avant et légèrement incliné vers le sol, protégeant le centre du buste et les organes vitaux.
 
 ---
 

@@ -9,7 +9,7 @@ Sa décomposition linguistique est la suivante :
 * **Hori (허리) :** Taille / Hanche / Ligne de la ceinture (*Waist*).
 * **Makgi (막기) :** Blocage / Défense.
 
-Là où le *Najunde Makgi* cible le niveau bas (bas-ventre/cuisses) et le *Kaujunde Makgi* le niveau moyen (plexus/poitrine), le **Hori Makgi** concentre sa protection spécifiquement sur **la ligne médiane de la taille, la ceinture et les flancs** (zone des côtes flottantes et des reins).
+Là où le *Najunde Makgi* cible le niveau bas (bas-ventre/cuisses) et le *Kaunde Makgi* le niveau moyen (plexus/poitrine), le **Hori Makgi** concentre sa protection spécifiquement sur **la ligne médiane de la taille, la ceinture et les flancs** (zone des côtes flottantes et des reins).
 
 ---
 
@@ -67,6 +67,6 @@ On retrouve des blocages et balayages au niveau de la taille dans de nombreuses 
 
 ## 5. Erreurs fréquentes à éviter
 
-* **Mauvaise hauteur :** Monter le bras au niveau de la poitrine (ce qui en fait un *Kaujunde Makgi*) ou le descendre au niveau des cuisses (ce qui en fait un *Najunde Makgi*).
+* **Mauvaise hauteur :** Monter le bras au niveau de la poitrine (ce qui en fait un *Kaunde Makgi*) ou le descendre au niveau des cuisses (ce qui en fait un *Najunde Makgi*).
 * **Écarter le coude du buste :** Laisser un espace trop grand entre le coude et le flanc, ce qui affaiblit la structure et laisse passer la frappe.
 * **Ne pas engager les hanches :** Réaliser le blocage uniquement avec la force du bras sans utiliser la rotation des hanches et le mouvement de vague (*Sine Wave*).

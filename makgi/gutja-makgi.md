@@ -18,7 +18,7 @@ C'est une technique défensive double complexe et avancée où les deux bras s'a
 Le *Gutja Makgi* combine deux mouvements d'avant-bras pour fermer deux trajectoires d'attaque :
 
 1. **Le bras supérieur (Partie haute du "9") :**
-   * **Position :** L'avant-bras se place à l'horizontale (ou légèrement incliné) au niveau haut ou moyen (*Nopunde* / *Kaujunde*), le poing verrouillé devant le visage ou le thorax.
+   * **Position :** L'avant-bras se place à l'horizontale (ou légèrement incliné) au niveau haut ou moyen (*Nopunde* / *Kaunde*), le poing verrouillé devant le visage ou le thorax.
    * **Rôle :** Bloquer ou dévier une attaque haute (coup de poing au visage, coup de pied circulaire).
 2. **Le bras inférieur (Tige descendante du "9") :**
    * **Position :** L'autre bras s'étend vers le bas ou le côté le long du buste/de la cuisse pour former la ligne verticale du chiffre 9.

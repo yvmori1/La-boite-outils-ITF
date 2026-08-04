@@ -79,6 +79,13 @@ LEXIQUE_HANGUL = {
     "palja sogi": "팔자 서기",
     # commandements et vocabulaire de salle
     "charyot": "차렷", "swiyo": "쉬어", "dojang": "도장", "tul": "틀",
+    "wen": "왼", "orun": "오른",
+    # briques grammaticales, hangul repris de Theorie/grammaire-itf.md
+    "nopunde": "높은데", "kaunde": "가운데", "kaujunde": "가운데",
+    "najunde": "낮은데", "baro": "바로", "bandae": "반대",
+    "ap": "앞", "yop": "옆", "anuro": "안으로", "bakuro": "밖으로",
+    "dollyo": "돌려", "ollyo": "올려", "naeryo": "내려",
+    "twimyo": "뛰며", "dora": "돌아", "sangbal": "쌍발", "yonsok": "연속",
     "kyong ye jase": "경례 자세",
     # composés dont chaque élément est attesté dans les fiches du dépôt
     "ap jirugi": "앞 지르기", "yop jirugi": "옆 지르기",
@@ -95,7 +102,7 @@ LEXIQUE_HANGUL = {
     "bakat makgi": "바깥 막기", "duro makgi": "들어 막기",
     "yobap makgi": "옆앞 막기",
     # déplacements (Dolgi) — composés à partir de 옮겨 디디며 / 돌기 / 나가기
-    "mikulgi": "미끄기", "gujari dolgi": "그 자리 돌기",
+    "mikulgi": "미끌기", "gujari dolgi": "그 자리 돌기",
     "didimyo nagagi": "디디며 나가기",
     "didimyo duruogi": "디디며 들어가기",
     "opuro omgyo didimyo": "앞으로 옮겨 디디며",
@@ -230,6 +237,9 @@ def traiter_lexique(args):
     contenu = LEXIQUE.read_text(encoding="utf-8")
     lignes = contenu.splitlines()
     index = index_des_fiches()
+    # même règle que pour les documents : un hangul déjà enregistré ailleurs
+    # ne doit pas être produit une seconde fois
+    par_hangul = index_par_hangul()
     compte = collections.Counter()
     introuvables, ecarts = [], []
 
@@ -267,7 +277,9 @@ def traiter_lexique(args):
         elif k in {cle(x): x for x in LEXIQUE_HANGUL}:
             vrai = {cle(x): x for x in LEXIQUE_HANGUL}[k]
             hangul = LEXIQUE_HANGUL[vrai]
-            audio = f"lexique/{re.sub(r'[^A-Za-z0-9]+', '-', terme).strip('-')}.m4a"
+            audio = par_hangul.get(
+                hangul,
+                f"lexique/{re.sub(r'[^A-Za-z0-9]+', '-', terme).strip('-')}.m4a")
             compte["table"] += 1
         else:
             lignes[i] = poser(lignes[i], "", len(colonnes))

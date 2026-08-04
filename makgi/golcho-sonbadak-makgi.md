@@ -56,7 +56,7 @@ Le **Golcho Sonbadak Makgi** est le parfait exemple du principe de déviation do
 
 Cette technique est une pièce maîtresse des enchaînements de ceinture bleue et supérieure :
 
-* **Yul-Gok Tul (Mouvements 2, 3, 5, 6) :** L'une des séquences les plus célèbres de l'ITF. Le pratiquant réalise un *Golcho Sonbadak Makgi* immédiatement suivi d'un coup de poing direct (*Kaujunde Ap Jirugi*) en posture de marche (*Gunnun Sogi*).
+* **Yul-Gok Tul (Mouvements 2, 3, 5, 6) :** L'une des séquences les plus célèbres de l'ITF. Le pratiquant réalise un *Golcho Sonbadak Makgi* immédiatement suivi d'un coup de poing direct (*Kaunde Ap Jirugi*) en posture de marche (*Gunnun Sogi*).
 * **Joong-Gun Tul :** Utilisé pour dévier les attaques directes au corps avant de porter des frappes perçantes.
 * **Ge-Baek Tul :** Intégré dans des enchaînements fluides d'interception et de contre-attaque rapide.
 

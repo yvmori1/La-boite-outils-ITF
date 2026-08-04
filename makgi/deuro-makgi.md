@@ -47,7 +47,7 @@ Le *Deuro Makgi* s'adapte à l'outil employé pour passer sous la frappe adverse
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
-1. **Levée et verrouillage :** Le bras vient percuter/soulever le dessous du membre d'attaque et stoppe net au niveau moyen (*Kaujunde*) ou haut (*Nopunde*).
+1. **Levée et verrouillage :** Le bras vient percuter/soulever le dessous du membre d'attaque et stoppe net au niveau moyen (*Kaunde*) ou haut (*Nopunde*).
 2. **Rotation du poignet (*Snap*) :** Pivotement final du poignet pour fermer la structure osseuse et bloquer le membre adverse en position haute.
 3. **Expiration (*Kihap*) :** Contraction de la sangle abdominale synchronisée avec la poussée.
 

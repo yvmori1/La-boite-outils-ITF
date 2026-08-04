@@ -39,7 +39,7 @@ Le **Kiokja Jirugi** est une frappe circulaire courte et angulaire. Contrairemen
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
 1. **Rotation du poignet (*Snap*) :** Au dernier millième de seconde, le poignet pivote pour orienter la paume vers le sol (ou légèrement vers soi selon la variante), verrouillant les jointures d'impact (*Ap Joomuk*).
-2. **Alignement :** L'avant-bras se fixe parallèlement au sol au niveau moyen (*Kaujunde*) ou haut (*Nopunde*).
+2. **Alignement :** L'avant-bras se fixe parallèlement au sol au niveau moyen (*Kaunde*) ou haut (*Nopunde*).
 3. **Expiration (*Kihap*) :** Contractez la sangle abdominale avec une expulsion d'air brève et sèche.
 
 ---

@@ -1,4 +1,4 @@
-# Blocage au niveau moyen (Kaujunde Makgi)
+# Blocage au niveau moyen (Kaunde Makgi)
 
 > 🔊 **Prononciation :** [가운데 막기](../audio/makgi/kaunde-makgi.m4a)
 
@@ -17,14 +17,14 @@ Ce blocage est la clé de voûte de la défense du buste. Il est conçu pour int
 
 ## 1. Les surfaces de contact et les variantes (*Jook Bang*)
 
-Le terme *Kaujunde Makgi* définit la **hauteur cible à protéger**. Il se combine avec différentes armes naturelles selon le type d'attaque à neutraliser :
+Le terme *Kaunde Makgi* définit la **hauteur cible à protéger**. Il se combine avec différentes armes naturelles selon le type d'attaque à neutraliser :
 
 | Variante complète | Surface d'impact | Application principale |
 | --- | --- | --- |
-| **Kaujunde Bakat Palmok Makgi** | **Bakat Palmok** (Tranchant externe de l'avant-bras) | Blocage dur classique pour stopper les frappes directes ou circulaires au buste. |
-| **Kaujunde An Palmok Makgi** | **An Palmok** (Tranchant interne de l'avant-bras) | Idéal pour chasser un coup de poing direct (*Ap Jirugi*) vers l'extérieur et ouvrir la garde adverse. |
-| **Kaujunde Sonkal Makgi** | **Sonkal** (Tranchant de la main) | Déviation fluide à main ouverte permettant d'enchaîner une saisie ou une contre-attaque perçante. |
-| **Kaujunde Sonbadak Makgi** | **Sonbadak** (Paume de la main) | Pression ou déviation en douceur contre un coup de poing au plexus. |
+| **Kaunde Bakat Palmok Makgi** | **Bakat Palmok** (Tranchant externe de l'avant-bras) | Blocage dur classique pour stopper les frappes directes ou circulaires au buste. |
+| **Kaunde An Palmok Makgi** | **An Palmok** (Tranchant interne de l'avant-bras) | Idéal pour chasser un coup de poing direct (*Ap Jirugi*) vers l'extérieur et ouvrir la garde adverse. |
+| **Kaunde Sonkal Makgi** | **Sonkal** (Tranchant de la main) | Déviation fluide à main ouverte permettant d'enchaîner une saisie ou une contre-attaque perçante. |
+| **Kaunde Sonbadak Makgi** | **Sonbadak** (Paume de la main) | Pression ou déviation en douceur contre un coup de poing au plexus. |
 
 ---
 
@@ -54,7 +54,7 @@ Le terme *Kaujunde Makgi* définit la **hauteur cible à protéger**. Il se comb
 
 > **La protection de la zone de frappe n°1 :**
 > En combat libre comme en rue, la majorité des attaques (coups de poing directs, coups de pied frontaux *Ap Chagi*, coups de pied circulaires *Dollyo Chagi* ou de côté *Yop Chagi*) visent la section moyenne.
-> Le *Kaujunde Makgi* est la réponse défensive la plus versatile : il offre une distance de sécurité idéale pour protéger le plexus tout en maintenant les bras dans une position parfaite pour déclencher une contre-attaque fulgurante.
+> Le *Kaunde Makgi* est la réponse défensive la plus versatile : il offre une distance de sécurité idéale pour protéger le plexus tout en maintenant les bras dans une position parfaite pour déclencher une contre-attaque fulgurante.
 
 ---
 
@@ -62,9 +62,9 @@ Le terme *Kaujunde Makgi* définit la **hauteur cible à protéger**. Il se comb
 
 C'est probablement la hauteur de blocage la plus représentée dans l'ensemble du programme ITF :
 
-* **Chon-Ji Tul (Mouvements 9 à 14) :** Exécution du *Kaujunde An Palmok Makgi* en posture de marche (*Gunnun Sogi*).
+* **Chon-Ji Tul (Mouvements 9 à 14) :** Exécution du *Kaunde An Palmok Makgi* en posture de marche (*Gunnun Sogi*).
 * **Dan-Gun Tul**, **Do-San Tul**, **Won-Hyo Tul :** Présent dans presque tous les enchaînements sous forme de blocages simples ou de gardes doubles (*Daebi Makgi*).
-* **Yul-Gok Tul (Mouvements 2, 3, 5, 6) :** Associé au blocage crocheté (*Golcho Makgi*) suivi du coup de poing moyen direct (*Kaujunde Ap Jirugi*).
+* **Yul-Gok Tul (Mouvements 2, 3, 5, 6) :** Associé au blocage crocheté (*Golcho Makgi*) suivi du coup de poing moyen direct (*Kaunde Ap Jirugi*).
 
 ---
 

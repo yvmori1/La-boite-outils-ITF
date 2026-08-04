@@ -24,7 +24,7 @@ C'est l'un des blocages les plus fondamentaux, rigides et fréquemment enseigné
 | Variante | Hauteur / Direction | Application |
 | --- | --- | --- |
 | **Najunde Bakat Palmok Makgi** | Niveau bas (*Najunde*) | Protège le bas-ventre et les cuisses contre un coup de pied frontal (*Ap Chagi*). |
-| **Kaujunde Bakat Palmok Makgi** | Niveau moyen (*Kaujunde*) | Protège le plexus et le buste contre les coups direct au torse. |
+| **Kaunde Bakat Palmok Makgi** | Niveau moyen (*Kaunde*) | Protège le plexus et le buste contre les coups direct au torse. |
 | **Nopunde Bakat Palmok Makgi** | Niveau haut (*Nopunde*) | Protège la tête et le visage contre les frappes circulaires ou hautes. |
 | **Yop Bakat Palmok Makgi** | Direction latérale (*Yop*) | Intercepte les frappes arrivant sur les flancs. |
 

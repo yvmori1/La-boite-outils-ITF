@@ -118,6 +118,31 @@
 | Position d'attente avant        | walking ready stance            | Gunnun so junbi sogi | [걷는 서 준비 서기](../audio/lexique/Gunnun-so-junbi-sogi.m4a) |
 | Position croisée                | X-stance                        | Kyocha sogi          | [교차 서기](../audio/lexique/Kyocha-sogi.m4a) |
 
+## Modificateurs de nomenclature
+
+Éléments qui précisent une technique sans en constituer une par eux-mêmes.
+
+| Terme français                  | Terme anglais                   | Terme coréen         | Hangul |
+| ------------------------------- | ------------------------------- | -------------------- | :--- |
+| Côté gauche                     | left                            | Wen                  | [왼](../audio/grammaire/Wen.m4a) |
+| Côté droit                      | right                           | Orun                 | [오른](../audio/grammaire/Orun.m4a) |
+| Niveau haut                     | high section                    | Nopunde              | [높은데](../audio/grammaire/Nopunde.m4a) |
+| Niveau moyen                    | middle section                  | Kaunde               | [가운데](../audio/grammaire/Kaunde.m4a) |
+| Niveau bas                      | low section                     | Najunde              | [낮은데](../audio/grammaire/Najunde.m4a) |
+| En poursuite (même côté)        | forefist / same side            | Baro                 | [바로](../audio/grammaire/Baro.m4a) |
+| Inversé (côté opposé)           | reverse / opposite side         | Bandae               | [반대](../audio/grammaire/Bandae.m4a) |
+| De face                         | front                           | Ap                   | [앞](../audio/grammaire/Ap.m4a) |
+| Latéral                         | side                            | Yop                  | [옆](../audio/grammaire/Yop.m4a) |
+| Vers l'intérieur                | inward                          | Anuro                | [안으로](../audio/grammaire/Anuro.m4a) |
+| Vers l'extérieur                | outward                         | Bakuro               | [밖으로](../audio/grammaire/Bakuro.m4a) |
+| Circulaire                      | turning / round                 | Dollyo               | [돌려](../audio/grammaire/Dollyo.m4a) |
+| Ascendant                       | rising / upward                 | Ollyo                | [올려](../audio/grammaire/Ollyo.m4a) |
+| Descendant                      | downward                        | Naeryo               | [내려](../audio/grammaire/Naeryo.m4a) |
+| Sauté                           | jumping / flying                | Twimyo               | [뛰며](../audio/grammaire/Twimyo.m4a) |
+| Retourné                        | spinning                        | Dora                 | [돌아](../audio/grammaire/Dora.m4a) |
+| À double pied simultané         | twin foot                       | Sangbal              | [쌍발](../audio/grammaire/Sangbal.m4a) |
+| Consécutif; enchaîné            | consecutive                     | Yonsok               | [연속](../audio/grammaire/Yonsok.m4a) |
+
 ## Déplacements (Dolgi)
 
 | Terme français           | Terme anglais            | Terme coréen                | Hangul |
@@ -128,7 +153,7 @@
 | Pivot sur deux pas       | double step turning      | Ibo omgyo didimyo dolgi     | [이보 옮겨 디디며 돌기](../audio/lexique/Ibo-omgyo-didimyo-dolgi.m4a) |
 | Transfert (de pied)      | foot shifting            | Durogamyo jajunbal          | [들어가며 자진발](../audio/lexique/Durogamyo-jajunbal.m4a) |
 | Pivot sur un pas avant   | forward step-turning     | Opuro omgyo didimyo         | [앞으로 옮겨 디디며](../audio/lexique/Opuro-omgyo-didimyo.m4a) |
-| Pas chassé               | sliding                  | Mikulgi                     | [미끄기](../audio/lexique/Mikulgi.m4a) |
+| Pas chassé               | sliding                  | Mikulgi                     | [미끌기](../audio/lexique/Mikulgi.m4a) |
 | Pivot sur pas chassé     | step-slide               | Omgyo didigo mikulmyo dolgi | [옮겨 디디고 미끄며 돌기](../audio/lexique/Omgyo-didigo-mikulmyo-dolgi.m4a) |
 | Pas arrière              | stepping backward        | Didimyo duruogi             | [디디며 들어가기](../audio/lexique/Didimyo-duruogi.m4a) |
 | Pas avant                | stepping forward         | Didimyo nagagi              | [디디며 나가기](../audio/lexique/Didimyo-nagagi.m4a) |

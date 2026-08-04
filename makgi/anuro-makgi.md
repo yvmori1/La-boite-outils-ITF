@@ -40,7 +40,7 @@ Cette trajectoire directionnelle s'associe à différentes armes naturelles selo
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
-1. **Arrêt sur l'axe central :** Le blocage se stoppe pile au centre du corps (en face du sternum *Kaujunde* ou du nez *Nopunde*).
+1. **Arrêt sur l'axe central :** Le blocage se stoppe pile au centre du corps (en face du sternum *Kaunde* ou du nez *Nopunde*).
 2. **Rotation du poignet (*Snap*) :** Au dernier millième de seconde, le poignet pivot sur son axe pour libérer l'impulsion maximale.
 3. **Expiration (*Kihap*) :** Contraction de la sangle abdominale synchronisée avec une brève expulsion d'air.
 

@@ -18,7 +18,7 @@ Contrairement aux coups de pied fouettés (*Busigi*) qui recherchent l'impact se
 * **Balbadak (plante du pied - 발바닥) :** C'est la surface de frappe de prédilection. Sa grande superficie permet de transmettre la poussée sans glisser sur le torse adverse.
 * **Dwitchuk (talon - 뒤축) :** Utilisé pour une poussée plus lourde, directement ancrée dans le centre de gravité ennemi.
 * **Les cibles privilégiées :**
-* **Section moyenne (*Kaujunde*) :** Le plexus solaire, l'abdomen ou la poitrine de l'adversaire (zones de masse idéale pour encaisser et transmettre une poussée).
+* **Section moyenne (*Kaunde*) :** Le plexus solaire, l'abdomen ou la poitrine de l'adversaire (zones de masse idéale pour encaisser et transmettre une poussée).
 
 ---
 

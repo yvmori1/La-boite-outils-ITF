@@ -23,7 +23,7 @@ Le terme *Baro* ne décrit pas la surface de frappe ou la hauteur, mais la **rel
 | Variante complète | Description de l'action |
 | --- | --- |
 | **Najunde Bakat Palmok Baro Makgi** | Blocage bas direct avec le tranchant externe de l'avant-bras du même côté que la jambe avant. |
-| **Kaujunde An Palmok Baro Makgi** | Blocage moyen direct avec l'avant-bras intérieur du même côté que la jambe avant. |
+| **Kaunde An Palmok Baro Makgi** | Blocage moyen direct avec l'avant-bras intérieur du même côté que la jambe avant. |
 | **Nopunde Sonkal Baro Makgi** | Blocage haut direct du tranchant de la main du même côté que la jambe avant. |
 
 ---
@@ -63,7 +63,7 @@ Le terme *Baro* ne décrit pas la surface de frappe ou la hauteur, mais la **rel
 
 Les blocages *Baro* sont omniprésents dès le début de l'apprentissage :
 
-* **Chon-Ji Tul (Mouvements 9 à 14) :** L'enchaînement en posture de marche (*Gunnun Sogi*) où l'élève avance en exécutant un *Kaujunde An Palmok Baro Makgi* (blocage moyen direct de l'avant-bras intérieur).
+* **Chon-Ji Tul (Mouvements 9 à 14) :** L'enchaînement en posture de marche (*Gunnun Sogi*) où l'élève avance en exécutant un *Kaunde An Palmok Baro Makgi* (blocage moyen direct de l'avant-bras intérieur).
 * **Dan-Gun Tul**, **Do-San Tul**, **Won-Hyo Tul :** Présent dans la plupart des lignes droites d'avancée et de transition d'attaque/défense.
 
 ---

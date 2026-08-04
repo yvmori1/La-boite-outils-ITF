@@ -24,7 +24,7 @@ Là où les blocages avec les avant-bras (*Palmok*) ou les tranchants (*Sonkal*)
 | Variante | Nom coréen | Action & Application |
 | --- | --- | --- |
 | **Blocage pressant bas** | *Najunde Doo Sonbadak Nullo Makgi* | Les deux paumes pressent vers le bas pour stopper un coup de pied bas/moyen (*Ap Chagi*) ou une attaque au genou. |
-| **Blocage poussant direct** | *Doo Sonbadak Pushing Block* | Les deux paumes poussent vers l'avant au niveau moyen (*Kaujunde*) pour intercepter et repousser la poitrine ou les épaules d'un adversaire. |
+| **Blocage poussant direct** | *Doo Sonbadak Pushing Block* | Les deux paumes poussent vers l'avant au niveau moyen (*Kaunde*) pour intercepter et repousser la poitrine ou les épaules d'un adversaire. |
 | **Blocage ascendant** | *Doo Sonbadak Ollyo Makgi* | Les deux paumes montent pour dévier une frappe lourde descendant vers le visage ou le buste. |
 
 ---

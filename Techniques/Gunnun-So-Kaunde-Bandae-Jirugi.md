@@ -79,7 +79,7 @@ La force de la frappe s'appuie sur la rigidité et l'ancrage de la posture de ma
 
 On retrouve le coup de poing inverse dans de nombreuses formes du programme ITF :
 
-* **Yul-Gok Tul (Mouvement 1) :** La forme débute directement par un *Gunnun So Kaujunde Bandae Jirugi*, marquant d'entrée l'importance de la rotation des hanches.
+* **Yul-Gok Tul (Mouvement 1) :** La forme débute directement par un *Gunnun So Kaunde Bandae Jirugi*, marquant d'entrée l'importance de la rotation des hanches.
 * **Won-Hyo Tul**, **Joong-Gun Tul**, **To-San Tul :** Abondamment utilisé lors des séquences de ripostes après un blocage bas ou moyen.
 
 ---

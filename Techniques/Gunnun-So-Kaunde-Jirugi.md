@@ -74,7 +74,7 @@ En fonction du bras d'attaque par rapport à la jambe avancée, la frappe prend 
 
 C'est la technique d'attaque reine du programme des gradations :
 
-* **Chon-Ji Tul (Mouvements 2, 4, 6, 8, 10, 12, 14, 16, etc.) :** Présent dans toute la forme. Après chaque blocage bas (*Najunde Makgi*), le pratiquant avance en *Gunnun Sogi Kaujunde Jirugi*.
+* **Chon-Ji Tul (Mouvements 2, 4, 6, 8, 10, 12, 14, 16, etc.) :** Présent dans toute la forme. Après chaque blocage bas (*Najunde Makgi*), le pratiquant avance en *Gunnun Sogi Kaunde Jirugi*.
 * **Dan-Gun Tul, Do-San Tul, Won-Hyo Tul :** Utilisé continuellement pour travailler la stabilité du buste et le transfert de masse corporelle.
 
 ---

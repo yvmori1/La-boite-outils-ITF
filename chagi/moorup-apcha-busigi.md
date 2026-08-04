@@ -20,7 +20,7 @@ Cette technique de percussion dévastatrice est conçue pour le combat rapproch�
 * **Moorup / Rotule (무릎) :** L'impact se fait directement avec le sommet rigide du genou (la rotule et le haut du tibia).
 * **Les cibles privilégiées :**
 * **Section basse (*Najunde*) :** L'entrejambe ou le bas-ventre.
-* **Section moyenne (*Kaujunde*) :** Le plexus solaire ou les côtes flottantes.
+* **Section moyenne (*Kaunde*) :** Le plexus solaire ou les côtes flottantes.
 * **Section haute (*Nopunde*) :** Le visage ou le menton (lorsque la tête de l'adversaire est tirée vers le bas par une saisie).
 
 

@@ -52,7 +52,7 @@ $$\text{Technique} = [\text{Modalité de déplacement}] + [\text{Hauteur}] + [\t
 #### 1. Hauteur (Nopai / [높이](../audio/grammaire/Nopai.m4a))
 
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) — Niveau Haut :** Cible située au niveau du visage et du cou (au-dessus des épaules).
-* **Kaujunde ([가운데](../audio/grammaire/Kaujunde.m4a)) — Niveau Moyen :** Cible située au niveau du tronc, du plexus solaire et des côtes flottantes.
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) — Niveau Moyen :** Cible située au niveau du tronc, du plexus solaire et des côtes flottantes.
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) — Niveau Bas :** Cible située sous la ceinture, au niveau de l'abdomen et du bas-ventre.
 
 #### 2. Alignement (Baro / Bandae)
@@ -72,11 +72,22 @@ $$\text{Technique} = [\text{Modalité de déplacement}] + [\text{Hauteur}] + [\t
 
 #### 4. Modificateurs de Déplacement et d'Exécution
 
-* **Twimyo / Twio ([뛰묘](../audio/grammaire/Twio.m4a) / [뛰어](../audio/grammaire/Twimyo.m4a)) :** Technique sautée ou exécutée en suspension complète dans les airs.
+* **Twimyo / Twio ([뛰며](../audio/grammaire/Twimyo.m4a) / [뛰어](../audio/grammaire/Twio.m4a)) :** Technique sautée ou exécutée en suspension complète dans les airs.
 * **Mikulgi ([미끌기](../audio/grammaire/Mikulgi.m4a)) :** Technique glissée (déplacement rasant pour fermer instantanément la distance).
 * **Dora ([돌아](../audio/grammaire/Dora.m4a)) :** Technique retournée (pivotement à 180° ou 360° par le dos).
 * **Sangbal ([쌍발](../audio/grammaire/Sangbal.m4a)) :** Technique à double pied simultané (les deux jambes attaquent en même temps en l'air).
 * **Yonsok ([연속](../audio/grammaire/Yonsok.m4a)) :** Technique consécutive ou enchaînée (plusieurs frappes de la même jambe sans la poser au sol).
+
+#### 5. Latéralité (Wen / Orun)
+
+Précise le côté du corps qui exécute la technique. S'emploie lorsque le nom seul
+ne suffit pas à lever l'ambiguïté, notamment en position assise (*Annun So*) où
+les deux côtés travaillent alternativement sans changement de posture.
+
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) — Gauche :** Le membre gauche exécute l'action.
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) — Droit :** Le membre droit exécute l'action.
+
+> *Annun So **Orun** Joomuk Kaunde Jirugi* = en position assise, coup de poing moyen du **poing droit**.
 
 ---
 
@@ -485,11 +496,11 @@ Les déplacements décrivent la manière dont le pratiquant ajuste sa distance e
 
 #### 3. Les Techniques Sautées et Spéciales (Special & Flying)
 
-* **Twimyo Ap Cha Busigi ([뛰묘앞차부시기](../audio/grammaire/Twimyo-Ap-Cha-Busigi.m4a)) :** Coup de pied avant fouetté sauté en suspension.
-* **Twimyo Yop Cha Jirugi ([뛰묘옆차지르기](../audio/grammaire/Twimyo-Yop-Cha-Jirugi.m4a)) :** Coup de pied latéral perçant sauté.
-* **Twimyo Dollyo Chagi ([뛰묘돌려차기](../audio/grammaire/Twimyo-Dollyo-Chagi.m4a)) :** Coup de pied circulaire sauté en suspension.
-* **Twimyo Bandae Dollyo Chagi ([뛰묘반대돌려차기](../audio/grammaire/Twimyo-Bandae-Dollyo-Chagi.m4a)) :** Coup de pied circulaire retourné sauté.
-* **Twimyo Nopi Chagi ([뛰묘높이차기](../audio/grammaire/Twimyo-Nopi-Chagi.m4a)) :** Coup de pied sauté en hauteur maximale.
+* **Twimyo Ap Cha Busigi ([뛰며앞차부시기](../audio/grammaire/Twimyo-Ap-Cha-Busigi.m4a)) :** Coup de pied avant fouetté sauté en suspension.
+* **Twimyo Yop Cha Jirugi ([뛰며옆차지르기](../audio/grammaire/Twimyo-Yop-Cha-Jirugi.m4a)) :** Coup de pied latéral perçant sauté.
+* **Twimyo Dollyo Chagi ([뛰며돌려차기](../audio/grammaire/Twimyo-Dollyo-Chagi.m4a)) :** Coup de pied circulaire sauté en suspension.
+* **Twimyo Bandae Dollyo Chagi ([뛰며반대돌려차기](../audio/grammaire/Twimyo-Bandae-Dollyo-Chagi.m4a)) :** Coup de pied circulaire retourné sauté.
+* **Twimyo Nopi Chagi ([뛰며높이차기](../audio/grammaire/Twimyo-Nopi-Chagi.m4a)) :** Coup de pied sauté en hauteur maximale.
 * **Sangbal Apcha Busigi ([쌍발앞차부시기](../audio/grammaire/Sangbal-Apcha-Busigi.m4a)) :** Double coup de pied avant sauté simultané.
 * **Sangbal Yopcha Jirugi ([쌍발옆차지르기](../audio/grammaire/Sangbal-Yopcha-Jirugi.m4a)) :** Double coup de pied latéral sauté simultané (gauche et droite).
 * **Mikulgi Yop Cha Jirugi ([미끌기옆차지르기](../audio/grammaire/Mikulgi-Yop-Cha-Jirugi.m4a)) :** Coup de pied latéral glissé pour fermer la distance.

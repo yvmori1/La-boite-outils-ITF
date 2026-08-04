@@ -20,7 +20,7 @@ Pour bien situer le *Nopunde Chagi*, l'ITF divise le corps humain en trois zones
 | Terme coréen | Section | Zone anatomique visée |
 | --- | --- | --- |
 | **Najunde** (나중데) | Section basse | Du nombril jusqu'aux pieds (cuisses, genoux, bas-ventre). |
-| **Kaujunde** (가운데) | Section moyenne | Du cou jusqu'au nombril (plexus, côtes, abdomen). |
+| **Kaunde** (가운데) | Section moyenne | Du cou jusqu'au nombril (plexus, côtes, abdomen). |
 | **Nopunde** (높은데) | **Section haute** | **Du cou jusqu'au sommet de la tête (visage, mâchoire, tempes, gorge).** |
 
 ---
@@ -52,7 +52,7 @@ Exécuter un coup de pied efficace en section haute nécessite d'allier hauteur 
 
 * **En compétition :** Les frappes contrôlées au niveau de la tête (*Nopunde*) rapportent le maximum de points en combat léger (*Touch contact*).
 * **En défense personnelle / combat :** Un impact solide au menton ou à la tempe ébranle immédiatement le système vestibulaire de l'adversaire, provoquant un K.O. instantané.
-* **Fixation de la garde :** Feinter un *Nopunde Chagi* force l'adversaire à lever haut ses bras, dégageant ainsi le buste (*Kaujunde*) pour une seconde attaque.
+* **Fixation de la garde :** Feinter un *Nopunde Chagi* force l'adversaire à lever haut ses bras, dégageant ainsi le buste (*Kaunde*) pour une seconde attaque.
 
 ---
 

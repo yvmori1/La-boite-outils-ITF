@@ -68,7 +68,7 @@ Le prefixe *Twimyo* s'applique à presque toutes les techniques de base :
 ## 4. Intérêt tactique et casse de démonstration (*Kyokpa*)
 
 > **Puissance cinétique vs Hauteur :**
-> En ITF, le *Twimyo Chagi* n'a pas pour seul but de sauter haut. Un coup sauté de niveau moyen (*Kaujunde*) lancé vers l'avant projette toute la masse du corps volant contre l'adversaire, développant une force d'impact qu'aucun blocage de bras ne peut arrêter.
+> En ITF, le *Twimyo Chagi* n'a pas pour seul but de sauter haut. Un coup sauté de niveau moyen (*Kaunde*) lancé vers l'avant projette toute la masse du corps volant contre l'adversaire, développant une force d'impact qu'aucun blocage de bras ne peut arrêter.
 
 * **Casse de puissance (*Kyokpa*) :** Le *Twimyo Yopcha Jirugi* (coup de pied latéral sauté) est l'épreuve reine des démonstrations de casse ITF pour briser plusieurs planches épaisses à une hauteur impressionnante.
 

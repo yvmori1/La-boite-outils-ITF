@@ -22,7 +22,7 @@ Le terme *Bandae* exprime une **relation d'opposition croisée entre le haut et 
 
 | Variante complète | Description de l'action |
 | --- | --- |
-| **Kaujunde An Palmok Bandae Makgi** | Blocage moyen de l'avant-bras intérieur exécuté avec le bras opposé à la jambe avancée. |
+| **Kaunde An Palmok Bandae Makgi** | Blocage moyen de l'avant-bras intérieur exécuté avec le bras opposé à la jambe avancée. |
 | **Najunde Bakat Palmok Bandae Makgi** | Blocage bas du tranchant externe de l'avant-bras avec le bras opposé à la jambe avant. |
 | **Nopunde Sonkal Bandae Makgi** | Blocage haut du tranchant de la main du bras opposé à la jambe avant. |
 
@@ -62,7 +62,7 @@ Le terme *Bandae* exprime une **relation d'opposition croisée entre le haut et 
 
 Les mouvements en *Bandae* sont introduits dès les toutes premières formes :
 
-* **Chon-Ji Tul (Mouvements 9 à 14) :** Dans la deuxième partie de la forme, le pratiquant effectue un tournant en posture de marche jambe gauche devant (*Gunnun Sogi*) tout en bloquant avec le bras droit : c'est un parfait *Kaujunde An Palmok Bandae Makgi*.
+* **Chon-Ji Tul (Mouvements 9 à 14) :** Dans la deuxième partie de la forme, le pratiquant effectue un tournant en posture de marche jambe gauche devant (*Gunnun Sogi*) tout en bloquant avec le bras droit : c'est un parfait *Kaunde An Palmok Bandae Makgi*.
 * **Dan-Gun Tul** et **Do-San Tul :** Utilisé dans les transitions où les défenses s'exécutent en posture de marche ou en posture en L (*Niunja Sogi*).
 * **Won-Hyo Tul** et **Yul-Gok Tul :** Séquences d'interception croisée pour préparer des contre-attaques directes (*Baro Jirugi*).
 

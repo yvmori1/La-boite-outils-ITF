@@ -36,7 +36,7 @@ Le terme *Sang* (double) indique que les deux bras travaillent ensemble dans une
 1. **Le bras haut (niveau *Nopunde*) :**
    * Placé au-dessus de la tête et sur le côté (au niveau de la tempe/oreille).
    * L'avant-bras externe (**Bakat Palmok**) est incliné pour faire glisser les attaques descendantes ou circulaires visant le visage et la tête.
-2. **Le bras moyen (niveau *Kaujunde*) :**
+2. **Le bras moyen (niveau *Kaunde*) :**
    * Placé en travers du thorax/plexus solaire.
    * L'avant-bras est fléchi horizontalement (à environ 90° à 110°) pour protéger les côtes flottantes, l'estomac et le thorax.
 

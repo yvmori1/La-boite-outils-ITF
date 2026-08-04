@@ -48,7 +48,7 @@ Un blocage vers l'intérieur (*Anuro Makgi*) peut être exécuté avec différen
 
 ### Étape 3 : L'Impact et le Verrouillage
 
-1. **Arrêt sur l'axe central :** Le blocage s'arrête exactement au centre du buste ou du visage (en face du plexus ou du nez selon le niveau *Kaujunde* ou *Nopunde*).
+1. **Arrêt sur l'axe central :** Le blocage s'arrête exactement au centre du buste ou du visage (en face du plexus ou du nez selon le niveau *Kaunde* ou *Nopunde*).
 2. **Rotation du poignet (*Snap*) :** Au dernier millième de seconde, le poignet pivot pour engager la surface d'impact avec une force d'impulsion maximale.
 3. **Expiration (*Kihap*) :** Contractez les abdominaux avec une expulsion d'air synchrone.
 

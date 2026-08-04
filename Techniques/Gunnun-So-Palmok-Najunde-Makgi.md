@@ -76,7 +76,7 @@ Le blocage bas tire sa puissance de l'ancrage de la posture de marche :
 C'est la première technique défensive enseignée dans l'école ITF :
 
 * **Saju Makgi / Saju Jirugi (Exercices fondamentaux) :** Premier mouvement de blocage appris par le débutant pour intégrer le mouvement de vague et le déplacement aux 4 points cardinaux.
-* **Chon-Ji Tul (Mouvements 1, 3, 5, 7) :** La première moitié de cette première forme est entièrement construite sur l'enchaînement *Gunnun So Bakat Palmok Najunde Makgi* suivi de *Gunnun So Kaujunde Jirugi*.
+* **Chon-Ji Tul (Mouvements 1, 3, 5, 7) :** La première moitié de cette première forme est entièrement construite sur l'enchaînement *Gunnun So Bakat Palmok Najunde Makgi* suivi de *Gunnun So Kaunde Jirugi*.
 * **Dan-Gun Tul, Do-San Tul, Won-Hyo Tul :** Utilisé régulièrement pour amorcer des transitions de lignes ou bloquer des attaques basses.
 
 ---

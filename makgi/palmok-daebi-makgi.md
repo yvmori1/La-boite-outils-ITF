@@ -20,10 +20,10 @@ Les deux bras travaillent en parfaite synergie pour créer une double ligne de d
 
 1. **Le bras avant (Bras de blocage principal) :**
    * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
-   * **Position :** Déployé vers l'avant, coude fléchi à environ 120°. Le poing est aligné avec la ligne de l'épaule (au niveau moyen *Kaujunde*) ou des yeux (au niveau haut *Nopunde*).
+   * **Position :** Déployé vers l'avant, coude fléchi à environ 120°. Le poing est aligné avec la ligne de l'épaule (au niveau moyen *Kaunde*) ou des yeux (au niveau haut *Nopunde*).
 2. **Le bras arrière (Bras de protection / Garde) :**
    * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
-   * **Position :** Le poing se place à quelques centimètres devant le plexus solaire (*Kaujunde*), le coude protégeant le flanc et les côtes flottantes.
+   * **Position :** Le poing se place à quelques centimètres devant le plexus solaire (*Kaunde*), le coude protégeant le flanc et les côtes flottantes.
 
 ---
 

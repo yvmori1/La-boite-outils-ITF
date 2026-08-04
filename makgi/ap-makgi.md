@@ -19,7 +19,7 @@ Selon la surface d'impact choisie et la hauteur ciblée, le *Ap Makgi* prend dif
 
 | Variante | Surface d'impact | Hauteur / Cible principale |
 | --- | --- | --- |
-| **Ap Palmok Makgi** | **Bakat Palmok** (extérieur) ou **An Palmok** (intérieur) | Protège l'axe central (Visage *Nopunde*, Plexus *Kaujunde*, Bas-ventre *Najunde*). |
+| **Ap Palmok Makgi** | **Bakat Palmok** (extérieur) ou **An Palmok** (intérieur) | Protège l'axe central (Visage *Nopunde*, Plexus *Kaunde*, Bas-ventre *Najunde*). |
 | **Ap Sonkal Makgi** | **Sonkal** (tranchant externe de la main) | Dévie les frappes directes avec une trajectoire tranchante. |
 | **Ap Sonbadak Makgi** | **Sonbadak** (paume de la main) | Presse ou repousse une frappe directe de face tout en gardant la main libre. |
 
@@ -58,7 +58,7 @@ Selon la surface d'impact choisie et la hauteur ciblée, le *Ap Makgi* prend dif
 
 Le blocage frontal sous ses diverses formes est le premier blocage enseigné aux pratiquants :
 
-* **Chon-Ji Tul (Mouvements 1 à 8) :** L'exécutant réalise un *Najunde Bakat Palmok Ap Makgi* (blocage frontal bas de l'avant-bras) puis un *Kaujunde An Palmok Ap Makgi* (blocage frontal moyen de l'avant-bras intérieur).
+* **Chon-Ji Tul (Mouvements 1 à 8) :** L'exécutant réalise un *Najunde Bakat Palmok Ap Makgi* (blocage frontal bas de l'avant-bras) puis un *Kaunde An Palmok Ap Makgi* (blocage frontal moyen de l'avant-bras intérieur).
 * **Dan-Gun Tul**, **Do-San Tul**, **Won-Hyo Tul :** Utilisé dans presque chaque forme pour structurer les attaques et défenses directes.
 
 ---

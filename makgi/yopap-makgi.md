@@ -16,7 +16,7 @@ Là où le *Ap Makgi* cible l'axe frontal pur (0°) et le *Yop Makgi* l'axe lat�
 
 ## 1. Les surfaces de contact et les variantes (*Jook Bang*)
 
-Le *Yobap Makgi* s'adapte à différentes armes naturelles et hauteurs (*Nopunde*, *Kaujunde*, *Najunde*) :
+Le *Yobap Makgi* s'adapte à différentes armes naturelles et hauteurs (*Nopunde*, *Kaunde*, *Najunde*) :
 
 | Variante complète | Surface d'impact | Action & Application |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Le *Yobap Makgi* s'adapte à différentes armes naturelles et hauteurs (*Nopunde
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
-1. **Position d'arrêt :** Le bras se verrouille à la hauteur souhaitée (visage *Nopunde* ou buste *Kaujunde*), le coude fléchi à environ 120°.
+1. **Position d'arrêt :** Le bras se verrouille à la hauteur souhaitée (visage *Nopunde* ou buste *Kaunde*), le coude fléchi à environ 120°.
 2. **Rotation du poignet (*Snap*) :** Pivotement final du poignet pour engager l'arme naturelle avec une impulsion maximale à l'impact.
 3. **Expiration (*Kihap*) :** Contractez la sangle abdominale avec une brève expulsion d'air synchrone.
 4. **Posture associée :** S'exécute le plus souvent en posture en L (**Niunja Sogi**) ou en posture de marche (**Gunnun Sogi**) orientée de trois-quarts.

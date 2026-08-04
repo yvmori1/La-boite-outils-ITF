@@ -19,7 +19,7 @@ Contrairement au *Yop Cha Jirugi* qui recherche une pénétration explosive et p
 * **Balbadak (plante du pied - 발바닥) :** C'est la surface de poussée privilégiée pour maximiser la zone de contact et transmettre l'inertie du corps.
 * **Balkal (chant externe du pied - 발칼) :** Utilisé également lorsque la poussée cible une articulation ou le flanc de l'adversaire.
 * **Les cibles privilégiées :**
-* **Section moyenne (*Kaujunde*) :** Le flanc, les côtes, le plexus ou la hanche adverse.
+* **Section moyenne (*Kaunde*) :** Le flanc, les côtes, le plexus ou la hanche adverse.
 * **Section basse (*Najunde*) :** La cuisse ou le genou (pour repousser la jambe de soutien et faire chuter l'adversaire).
 
 

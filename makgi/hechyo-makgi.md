@@ -15,7 +15,7 @@ Le **Hechyo Makgi** est une technique défensive double fondamentale dans laquel
 
 ## 1. Les surfaces de contact et les variantes (*Jook Bang*)
 
-Le *Hechyo Makgi* s'exécute le plus souvent au niveau moyen (*Kaujunde*) ou bas (*Najunde*) avec différentes armes naturelles :
+Le *Hechyo Makgi* s'exécute le plus souvent au niveau moyen (*Kaunde*) ou bas (*Najunde*) avec différentes armes naturelles :
 
 | Variante complète | Surface d'impact | Application principale |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ Le *Hechyo Makgi* s'exécute le plus souvent au niveau moyen (*Kaujunde*) ou bas
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
-1. **Position finale :** Les deux bras s'arrêtent net de chaque côté du corps (au niveau moyen *Kaujunde* ou bas *Najunde*), les coudes fléchis à environ 120°.
+1. **Position finale :** Les deux bras s'arrêtent net de chaque côté du corps (au niveau moyen *Kaunde* ou bas *Najunde*), les coudes fléchis à environ 120°.
 2. **Rotation des poignets (*Snap*) :** Pivotement simultané des deux poignets au millième de seconde de l'impact pour sceller la structure du blocage.
 3. **Expiration (*Kihap*) :** Expulsion d'air brève et sèche avec contraction de la sangle abdominale.
 
@@ -60,7 +60,7 @@ Le *Hechyo Makgi* s'exécute le plus souvent au niveau moyen (*Kaujunde*) ou bas
 
 C'est un blocage incontournable dès les premières ceintures du programme ITF :
 
-* **Do-San Tul (Mouvements 1, 4, 13, 14, etc.) :** Premier apprentissage marquant du *An Palmok Kaujunde Hechyo Makgi* exécuté en posture de marche (*Gunnun Sogi*).
+* **Do-San Tul (Mouvements 1, 4, 13, 14, etc.) :** Premier apprentissage marquant du *An Palmok Kaunde Hechyo Makgi* exécuté en posture de marche (*Gunnun Sogi*).
 * **Won-Hyo Tul** et **Yul-Gok Tul :** Utilisé dans des enchaînements d'ouverture de garde et de préparation de contre-attaques directes.
 * **Joong-Gun Tul :** Intégré dans des variantes de posture et de hauteur (*Gunnun Sogi*, *Niunja Sogi*).
 
