@@ -58,9 +58,7 @@
    *([Nopunde dollyo chagi](../chagi/dollyo-chagi.md))*
 19. Exécuter un coup de pied circulaire haut vers CF avec le pied gauche puis l'abaisser vers F pour former une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec le tranchant de la main.
    *([Nopunde dollyo chagi](../chagi/dollyo-chagi.md), [niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
-
-   > *Exécuter 18 et 19 en mouvement rapide.*
-
+      > *Exécuter 18 et 19 en mouvement rapide.*
 20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage bas vers C avec l'avant-bras gauche.
    *([Gunnun so palmok najunde makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md))*
 21. Exécuter un coup de poing moyen vers C avec le poing droit tout en formant une position en L droite vers C, en tirant le pied gauche.
@@ -82,4 +80,4 @@
 29. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 
-### FIN : ramener le pied droit à la posture de départ.
+### FIN : ramener le pied droit à la posture de départ

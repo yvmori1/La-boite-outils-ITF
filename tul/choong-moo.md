@@ -54,9 +54,7 @@
    *([Nopunde dollyo chagi](../chagi/dollyo-chagi.md))*
 15. Exécuter un coup de pied arrière perçant moyen vers F avec le pied gauche.
    *([Kaunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
-
-   > *Exécuter 14 et 15 en mouvement rapide.*
-
+      > *Exécuter 14 et 15 en mouvement rapide.*
 16. Abaisser le pied gauche vers F pour former une position en L gauche vers E tout en exécutant un blocage de garde moyen vers E avec l'avant-bras.
    *([niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 17. Exécuter un coup de pied circulaire moyen vers DE avec le pied gauche.
@@ -65,9 +63,7 @@
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 19. Sauter et pivoter dans le sens anti-horaire, à la réception sur la même place pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec le tranchant de la main.
    *(Twigi, [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
-
-   > *Distance de saut : sur place.*
-
+      > *Distance de saut : sur place.*
 20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant une pique basse vers C avec la pique de doigts renversée droit.
    *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
 21. Exécuter une frappe arrière latérale vers D avec le revers du poing droit et un blocage bas vers C avec l'avant-bras gauche tout en formant une position en L droite vers C, en tirant le pied gauche.
@@ -91,4 +87,4 @@
 30. Exécuter un coup de poing moyen vers A avec le poing gauche tout en maintenant une position de marche droite vers A.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 
-### FIN : ramener le pied gauche à la posture de départ.
+### FIN : ramener le pied gauche à la posture de départ

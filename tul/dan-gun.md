@@ -49,9 +49,7 @@
    *([Gunnun so palmok najunde makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md))*
 14. Exécuter un blocage montant avec l'avant-bras gauche, en maintenant la position de marche gauche vers C.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
-
-   > *Exécuter 13 et 14 en mouvement continu.*
-
+      > *Exécuter 13 et 14 en mouvement continu.*
 15. Déplacer le pied droit vers C pour former une position de marche droite vers C, tout en exécutant un blocage montant avec l'avant-bras droit.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
 16. Déplacer le pied gauche vers C pour former une position de marche gauche vers C, tout en exécutant un blocage montant avec l'avant-bras gauche.

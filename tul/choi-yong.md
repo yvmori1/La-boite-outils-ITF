@@ -49,9 +49,7 @@
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
 14. Exécuter un coup de pied latéral perçant moyen vers D avec le pied gauche, en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
-
-   > *Exécuter 13 et 14 en un coup de pied consécutif.*
-
+      > *Exécuter 13 et 14 en un coup de pied consécutif.*
 15. Abaisser le pied gauche vers D pour former une position de marche gauche vers D tout en frappant la paume gauche avec le coude droit.
    *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 16. Déplacer le pied gauche sur ligne CD pour former une position en L gauche vers C tout en exécutant un blocage de garde bas vers C avec le tranchant de la main.
@@ -62,18 +60,14 @@
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
 19. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit, en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
-
-   > *Exécuter 18 et 19 en un coup de pied consécutif.*
-
+      > *Exécuter 18 et 19 en un coup de pied consécutif.*
 20. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en frappant la paume droite avec le coude gauche.
    *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 21. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage en pression avec la paume droite.
    *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 22. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage en pression avec la paume gauche.
    *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
-
-   > *Exécuter 21 et 22 en mouvement rapide.*
-
+      > *Exécuter 21 et 22 en mouvement rapide.*
 23. Déplacer le pied droit vers D puis le pied gauche vers D, en tournant dans le sens anti-horaire pour former une position de marche gauche vers D tout en exécutant un blocage en W avec le tranchant de la main.
    *([Gunnun so sonkal san makgi](../makgi/san-makgi.md))*
 24. Exécuter un coup de pied avant fouetté moyen vers D avec le pied droit en gardant les mains dans la position du mouvement 23.
@@ -102,9 +96,7 @@
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 36. Abaisser le pied droit vers A en mouvement sauté pour former une position en X droite vers AD tout en exécutant une frappe latérale haute vers A avec le revers du poing droit et en amenant la pulpe des doigts de la main gauche vers le côté du poing droit.
    *(Twigi, [orun kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
-
-   > *Distance de saut : 1 position de marche.*
-
+      > *Distance de saut : 1 position de marche.*
 37. Exécuter un coup de pied crocheté inversé haut vers B avec le pied droit.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
 38. Abaisser le pied droit vers B en un mouvement étampé pour former une position en L gauche vers B tout en exécutant une frappe extérieure moyenne vers B avec le tranchant de la main droite.
@@ -119,9 +111,7 @@
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 43. Abaisser le pied gauche vers B en mouvement sauté pour former une position en X gauche vers BD tout en exécutant une frappe latérale haute vers B avec le revers du poing gauche et en amenant la pulpe des doigts de la main droite vers le côté du poing gauche.
    *(Twigi, [wen kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
-
-   > *Distance de saut : 1 position de marche.*
-
+      > *Distance de saut : 1 position de marche.*
 44. Exécuter un coup de pied crocheté inversé haut vers A avec le pied gauche.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
 45. Abaisser le pied gauche vers A en un mouvement étampé pour former une position en L droite vers A tout en exécutant une frappe extérieure moyenne vers A avec le tranchant de la main gauche.
@@ -129,4 +119,4 @@
 46. Glisser vers A pour former une position fixe droite vers A tout en exécutant un coup de poing moyen vers A avec le poing droit.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 
-### FIN : ramener le pied droit à la posture de départ.
+### FIN : ramener le pied droit à la posture de départ
