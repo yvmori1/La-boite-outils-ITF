@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 엎은손끝 높운데 바깥으로 긋기](../audio/Techniques/Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.m4a)
 
-Le **Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi** (앉은 서 오른 엎은손끝 높운데 바깥으로 긋기) est la **tranchant horizontal du bout des doigts droit vers l'extérieur, au niveau haut, en position assise** (*Sitting stance right flat fingertip high outward slashing strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi** (앉은 서 오른 엎은손끝 높운데 바깥으로 긋기) est le **cisaillage horizontal du bout des doigts droit vers l'extérieur, au niveau haut, en position assise** (*Sitting stance right flat fingertip high outward slashing strike*) en TaeKwon-Do ITF.
 
 Contrairement à une pique direct en piston (*Tulgi*), la technique **Ghutgi** (긋기) est une **action incisive de découpe ou de balayage transversal** (*Slashing / Cutting*). Elle utilise la pointe des doigts pour cingler ou griffer une zone très sensible du visage (comme les yeux) dans un mouvement fluide d'intérieur vers l'extérieur.
 
@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Opun Sonkut (엎은손끝) :** Bout des doigts à plat / paume vers le bas (*Flat fingertip*).
 * **Nopunde (높운데) :** Niveau haut (hauteur des yeux / du visage).
 * **Bakuro (바깥으로) :** Vers l'extérieur (*Outward* — de l'axe central vers la droite).
-* **Ghutgi (긋기) :** Action de trancher / entailler / griffer (*Slashing / Cutting*).
+* **Ghutgi (긋기) :** Action de cisailler / entailler / griffer (*Slashing / Cutting*).
 
 ---
 

@@ -40,7 +40,7 @@
 
 5. Décaler vers C en maintenant une position en L gauche vers D tout en exécutant un blocage d'arrêt vers D avec les poings croisés.
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
-6. Exécuter un tranchant horizontal du bout des doigts droit vers l'extérieur, au niveau haut, vers D tout en formant une position de marche droite vers D, en glissant le pied droit.
+6. Exécuter un cisaillage horizontal du bout des doigts droit vers l'extérieur, au niveau haut, vers D tout en formant une position de marche droite vers D, en glissant le pied droit.
    *(Gunnun so opun sonkut nopunde bakuro ghutgi)*
 7. Exécuter une pique descendante avec le coude droit tout en formant une position arrière rapprochée sur la jambe gauche vers D, en tirant le pied droit.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
@@ -74,7 +74,7 @@
 
 16. Décaler vers C en maintenant une position en L droite vers D tout en exécutant un blocage d'arrêt vers D avec les poings croisés.
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
-17. Exécuter un tranchant horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, vers D tout en formant une position de marche gauche vers D, en glissant le pied gauche.
+17. Exécuter un cisaillage horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, vers D tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *(Gunnun so opun sonkut nopunde bakuro ghutgi)*
 18. Exécuter une pique descendante avec le coude gauche tout en formant une position arrière rapprochée sur la jambe droite vers D, en tirant le pied gauche.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
