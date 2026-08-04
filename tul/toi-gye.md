@@ -13,6 +13,10 @@
 
 [TOI-GYE](https://vimeo.com/96867780)
 
+## Origine et contexte historique
+
+* **Contexte philosophique et éthique :** Yi Hwang a consacré sa vie à l'étude des classiques confucéens, établissant l'éthique de la culture morale et de l'auto-discipline comme piliers du service public. Il a fondé l'académie privée de *Dosan Seowon* pour enseigner l'humilité et la recherche de la vérité, fuyant le luxe et l'arrogance de la cour politique de Séoul pour préserver l'intégrité de sa pensée.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée B
@@ -53,17 +57,17 @@
 
    > *Exécuter en mouvement lent.*
 
-13. Déplacer le pied droit vers F en un en écrasant mouvement pour former une position assise vers C tout en exécutant un blocage en W vers C avec l'avant-bras extérieur droit.
+13. Déplacer le pied droit vers F en un mouvement étampé pour former une position assise vers C tout en exécutant un blocage en W vers C avec l'avant-bras extérieur droit.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
-14. Déplacer le pied gauche vers F en un en écrasant mouvement en tournant dans le sens horaire pour former une position assise vers D tout en exécutant un blocage en W vers D avec l'avant-bras extérieur gauche.
+14. Déplacer le pied gauche vers F en un mouvement étampé en tournant dans le sens horaire pour former une position assise vers D tout en exécutant un blocage en W vers D avec l'avant-bras extérieur gauche.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
-15. Déplacer le pied gauche vers E en un en écrasant mouvement en tournant dans le sens horaire pour former une position assise vers C tout en exécutant un blocage en W vers C avec l'avant-bras extérieur gauche.
+15. Déplacer le pied gauche vers E en un mouvement étampé en tournant dans le sens horaire pour former une position assise vers C tout en exécutant un blocage en W vers C avec l'avant-bras extérieur gauche.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
-16. Déplacer le pied droit vers E en un en écrasant mouvement en tournant dans le sens anti-horaire pour former une position assise vers D tout en exécutant un blocage en W vers D avec l'avant-bras extérieur droit.
+16. Déplacer le pied droit vers E en un mouvement étampé en tournant dans le sens anti-horaire pour former une position assise vers D tout en exécutant un blocage en W vers D avec l'avant-bras extérieur droit.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
-17. Déplacer le pied gauche vers E en un en écrasant mouvement en tournant dans le sens horaire pour former une position assise vers C tout en exécutant un blocage en W vers C avec l'avant-bras extérieur gauche.
+17. Déplacer le pied gauche vers E en un mouvement étampé en tournant dans le sens horaire pour former une position assise vers C tout en exécutant un blocage en W vers C avec l'avant-bras extérieur gauche.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
-18. Déplacer le pied gauche vers F en un en écrasant mouvement en tournant dans le sens horaire pour former une position assise vers D tout en exécutant un blocage en W vers D avec l'avant-bras extérieur gauche.
+18. Déplacer le pied gauche vers F en un mouvement étampé en tournant dans le sens horaire pour former une position assise vers D tout en exécutant un blocage en W vers D avec l'avant-bras extérieur gauche.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
 19. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage poussée bas vers D avec le gauche double avant-bras.
    *([Niunja so doo palmok najunde miro makgi](../makgi/miro-makgi.md))*
@@ -87,6 +91,9 @@
    *(Niunja so dung joomuk baro yopdwi taerigi wa [palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
 29. Sauter vers C pour former une position en X droite vers A tout en exécutant un blocage en pression avec un poings croisés.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so kyocha joomuk noollo makgi)*
+
+   > *Distance de saut : 1 position de marche.*
+
 30. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage haut vers C avec le droit double avant-bras.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 31. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde bas vers B avec un tranchant de la main.
@@ -105,7 +112,3 @@
    *([Annun so orun joomuk kaunde jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

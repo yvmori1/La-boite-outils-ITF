@@ -11,6 +11,10 @@
 | --------- | ----------- |
 | ![**+**](../images/saju-tulgi.png) | Bien qu'il ne s'agisse pas d'un Tul officiel, Saju Tulgi est un exercice fondamental d'attaque de base pour les débutants, permettant d'apprendre la position en "L" (Niunja Sogi) et le coup de coude latéral. |
 
+## Origine et contexte
+
+* **Contexte socio-technique :** Transition vers la garde de défense serrée, typique des situations d'autodéfense rapprochée en milieu urbain confiné.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : **Moa Junbi Sogi C** Position fermé "C" (Close Ready Stance C / Moa Sogi C / 모아 준비 서기 C) face à D.

@@ -13,6 +13,10 @@
 
 [DO-SAN](https://vimeo.com/109846979)
 
+## Origine et contexte historique
+
+* **Contexte socio-politique :** Ahn Chang-Ho a lutté activement contre l'occupation coloniale japonaise (1910-1945) par la fondation d'écoles indépendantes (*Shinminhoe*). Son combat n'était pas seulement militaire, mais profondément social et économique, considérant que l'indépendance de la Corée passait par l'éducation de la jeunesse et le réarmement moral de la population.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle de préparation
@@ -73,7 +77,3 @@
    *([Annun so orun sonkal kaunde yop taerigi](../Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

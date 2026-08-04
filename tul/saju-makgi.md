@@ -13,6 +13,10 @@
 
 [Blocage 4 directions](https://vimeo.com/113658014?fl=pl&fe=cm)
 
+## Origine et contexte
+
+* **Contexte socio-technique :** Établit la notion de protection et de préservation de soi, pilier moral du Taekwon-Do où la défense précède toujours l'attaque.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : Position parallèle de préparation (Parallel Ready Stance / Narani Junbi Sogi).
@@ -27,7 +31,3 @@
 8. Avancer le pied droit vers A pour former une position de marche droite vers A tout en exécutant un blocage latéral moyen avec l'avant-bras intérieur vers A avec l'avant-bras intérieur droit ([Gunnun So An Palmok Kaunde Yop Makgi](../Techniques/An-Palmok-Kaunde-Yop-Makgi.md)).
 
 ### FIN : Ramener le pied droit vers la posture de départ (Ready Posture).
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

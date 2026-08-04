@@ -13,6 +13,10 @@
 
 [EUI-AM](https://vimeo.com/133457472)
 
+## Origine et contexte historique
+
+* **Contexte d'éveil social et d'insurrection :** Son Byong-Hi fut l'un des 33 signataires de la déclaration d'indépendance de 1919. Il utilisa la force pacifique et l'organisation spirituelle de la religion *Chondo Kyo* pour mobiliser des millions de paysans coréens contre la spoliation foncière et l'oppression policière brutale de l'impérialisme japonais, prônant le réarmement moral face aux fusils.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée D
@@ -34,11 +38,14 @@
 
 7. Sauter vers D, pour former une position en X droite vers BD tout en exécutant une frappe latérale haute vers D avec le revers du poing droit en amenant la pulpe des doigts gauche vers le droit côté poing.
    *(Twigi, [orun kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 8. Déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
    *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 9. Exécuter un coup de pied circulaire inversé moyen vers AC avec le pied droit.
    *([Kaunde bandae dollyo chagi](../chagi/bandae-dollyo-chagi.md))*
-10. Abaisser le pied droit vers C en un en écrasant mouvement pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers C avec le tranchant de la main droite.
+10. Abaisser le pied droit vers C en un mouvement étampé pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers C avec le tranchant de la main droite.
    *([Annun so orun sonkal kaunde yop taerigi](../Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md))*
 11. Exécuter un coup de pied latéral perçant moyen vers C avec le pied gauche tout en tournant dans le sens horaire en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -66,11 +73,14 @@
 
 20. Sauter vers C pour former une position en X gauche vers BC tout en exécutant une frappe latérale haute vers C avec le revers du poing gauche et en amenant la pulpe des doigts droit vers le gauche côté poing.
    *(Twigi, [wen kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 21. Déplacer le pied droit vers D, pour former une position en L gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 22. Exécuter un coup de pied circulaire inversé moyen vers AD avec le pied gauche.
    *([kaunde bandae dollyo chagi](../chagi/bandae-dollyo-chagi.md))*
-23. Abaisser le pied gauche vers D en un en écrasant mouvement pour former une position assise vers A en même temps en exécutant une frappe latérale moyenne vers D avec un tranchant de la main gauche.
+23. Abaisser le pied gauche vers D en un mouvement étampé pour former une position assise vers A en même temps en exécutant une frappe latérale moyenne vers D avec un tranchant de la main gauche.
    *([Annun so wen sonkal kaunde yop taerigi](../Techniques/Annun-So-Wen-Sonkal-Kaunde-Yop-Taerigi.md))*
 24. Exécuter un coup de pied latéral perçant moyen vers D avec le pied droit tout en tournant dans le sens anti-horaire en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -121,7 +131,3 @@
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

@@ -13,6 +13,10 @@
 
 [YUL-GOK](https://vimeo.com/106753098)
 
+## Origine et contexte historique
+
+* **Contexte socio-politique :** Yi I vécut sous la dynastie Joseon (Yi). Esprit visionnaire, il tenta de réformer l'économie nationale et proposa d'entraîner une armée de 100 000 soldats pour défendre le pays contre l'invasion imminente des samouraïs japonais de Toyotomi Hideyoshi. Ses propositions furent rejetées par une cour rongée par les querelles de factions politiques égoïstes, menant la Corée à la catastrophe lors de la guerre d'Imjin (1592).
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle de préparation
@@ -107,13 +111,12 @@
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 36. Sauter vers C pour former une position en X gauche vers B tout en exécutant une frappe latérale haute vers C avec le revers du poing gauche.
    *(Twigi, [wen kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position basse.*
+
 37. Déplacer le pied droit vers A pour former une position de marche droite vers A en même temps en exécutant un blocage haut vers A avec le droit double avant-bras.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 38. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers B pour former une position de marche gauche vers B tout en exécutant un blocage haut vers B avec le gauche double avant-bras.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

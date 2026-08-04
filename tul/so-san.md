@@ -11,6 +11,10 @@
 | ------ | ------ |
 | ![**士**](../images/so-san.png) | SO-SAN est le pseudonyme du moine célèbre Choi Hyong Ung (1520-1604) de la dynastie Yi. Les 72 mouvements font référence à son âge lorsqu'il organisa un corps d'élite de moines-soldats, avec l'aide de son élève Sa Myunh Dang, afin de repousser les pirates japonais qui s'étaient emparés de la quasi-totalité de la péninsule coréenne en 1592. |
 
+## Origine et contexte historique
+
+* **Contexte socio-religieux :** Alors que les moines étaient socialement marginalisés par les élites confucéennes Joseon, So-San et son disciple Sa-Myung Dang prirent les armes par compassion humaine pour sauver la population de la famine et de l'extermination, illustrant l'intégration totale de la force au service de la préservation de la vie.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée A
@@ -48,6 +52,9 @@
 
 12. Abaisser le pied droit vers D en mouvement sauté pour former une position en X droite vers BD tout en exécutant une frappe latérale haute vers D avec le revers du poing droit et en amenant la pulpe des doigts gauche vers le droit côté poing.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so dung joomuk nopunde baro yop taerigi)*
+
+   > *Distance de saut : 1 position de marche.*
+
 13. Déplacer le pied gauche vers C pour former une position parallèle vers B tout en exécutant une frappe horizontale avec un double tranchant de la main.
    *(Narani so sang sonkal soopyong taerigi)*
 14. Exécuter un coup de pied latéral perçant haut vers C avec le pied gauche en gardant le position de la mains comme s'ils étaient en 13.
@@ -59,6 +66,9 @@
 
 16. Abaisser le pied gauche vers D en mouvement sauté pour former une position en X gauche vers AD tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche et en amenant la pulpe des doigts droit vers le gauche côté poing.
    *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 17. Déplacer le pied gauche vers A pour former une position en L droite vers A en exécutant un coup de poing bas vers A avec un gauche double poing.
    *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
 18. Ramener la paume droite sur le devant du poing gauche puis vriller les dans le sens anti-horaire jusqu'à ce que le revers du poing gauche fait visage vers le bas tout en formant une position de marche gauche vers A, en glissant le pied gauche. exécuter en mouvement de relâchement.
@@ -83,6 +93,9 @@
    *([Gunnun junbi sogi](../Techniques/Gunnun-Junbi-Sogi.md))*
 28. Sauter vers exécuter un coup de pied avant fouetté sauté vers C avec le pied droit.
    *([Twimyo apcha busigi](../chagi/apcha-busigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 29. Atterrir vers C pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec un tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 30. Déplacer le pied droit vers D pour former une position de marche gauche vers C tout en exécutant un blocage frontal haut avec l'avant-bras droit.
@@ -135,6 +148,9 @@
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 51. Sauter vers C, en pivotant dans le sens anti-horaire pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Twigi](../Techniques/Twigi.md), orun niunja so palmok kaunde daebi makgi)*
+
+   > *Distance de saut : 1 position en L.*
+
 52. Exécuter un blocage bas vers D avec le tranchant de la main droite et un blocage extérieur moyen vers D avec l'avant-bras intérieur gauche tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *([Gunnun so an palmok kaunde baro bakuro makgi](../makgi/bakuro-makgi.md) wa [sonkal najunde bandae makgi](../makgi/bandae-makgi.md))*
 53. Exécuter un coup de poing haut vers D avec le poing droit tout en maintenant une position de marche gauche vers D.
@@ -148,6 +164,9 @@
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 56. Sauter vers C, en pivotant dans le sens horaire pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *(Twigi, [wen niunja so palmok kaunde daebi makgi](../Techniques/Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md))*
+
+   > *Distance de saut : 1 position en L.*
+
 57. Exécuter un blocage bas vers D avec le tranchant de la main gauche et un blocage extérieur moyen vers D avec l'avant-bras intérieur droit tout en formant une position de marche droite vers D en glissant le pied droit.
    *([gunnun so an palmok kaunde baro bakuro makgi](../makgi/bakuro-makgi.md) wa [sonkal najunde bandae makgi](../makgi/bandae-makgi.md))*
 58. Exécuter un coup de poing haut vers D avec le poing gauche tout en maintenant une position de marche droite vers D.
@@ -187,7 +206,3 @@
    > *Exécuter 71 et 72 en mouvement continu.*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

@@ -6,15 +6,12 @@ Ce répertoire contient les documents de référence transversaux, par oppositio
 
 ---
 
-## Vocabulaire et nomenclature
+## Le manuel complet
 
-* [Lexique.md](Lexique.md) — lexique trilingue français – anglais – coréen de tout le vocabulaire du Taekwon-Do.
-* [grammaire-itf.md](grammaire-itf.md) — encyclopédie de la grammaire ITF : comment se construit et se lit un nom de technique (position → surface → niveau → direction → action).
+* [manuel-taekwon-do.md](manuel-taekwon-do.md) — l'art et sa voie, les principes physiques, la grammaire, les positions, le répertoire technique, les formes, l'autodéfense, et le lexique en annexe.
 
 ## Principes fondamentaux
 
-* [Genes.md](Genes.md) — théorie du Taekwon-Do : théorie de la puissance, principes du mouvement, fondements de l'exécution.
-* [mouvement_de_vagues.md](mouvement_de_vagues.md) — le mouvement de vague sinusoïdale, moteur de la génération de puissance en ITF.
 * [positions.md](positions.md) — définitions et descriptions détaillées de toutes les positions (*Sogi*) : dimensions, répartition du poids, usages.
 
 ## Formes (Tul)

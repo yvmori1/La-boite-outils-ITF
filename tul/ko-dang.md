@@ -56,7 +56,3 @@
 39. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde haut vers B with le tranchant de la main ([Niunja So Sonkal Nopunde Daebi Makgi](../makgi/sonkal-daebi-makgi.md)).
 
 ### FIN : Déplacer le pied gauche pour revenir en position parallèle de préparation C, faisant face à D.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

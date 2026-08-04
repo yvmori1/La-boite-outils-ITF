@@ -13,6 +13,10 @@
 
 [CHOONG-JANG]()
 
+## Origine et contexte historique
+
+* **Contexte politique d'injustice :** Leader d'une armée de volontaires patriotiques contre les invasions japonaises, il fut victime de fausses accusations de trahison politique montées de toutes pièces par des rivaux jaloux au sein de la cour Joseon. Son martyre symbolise la tragédie d'un esprit juste brisé par la paranoïa et la corruption des élites au pouvoir.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée A
@@ -82,25 +86,25 @@
 29. Exécuter une frappe descendante avec le gauche arrière main tout en formant une position en L droite vers C, en pivotant avec le pied droit.
    *([Niunja so sondung bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 
-   > *Exécuter en un en écrasant mouvement.*
+   > *Exécuter en un mouvement étampé.*
 
 30. Frapper du poing la paume gauche avec le poing droit tout en maintenant une position en L droite vers C.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
-31. Déplacer le pied droit vers C en un en écrasant mouvement pour former une position en L gauche vers C tout en exécutant une frappe descendante avec le droit arrière main.
+31. Déplacer le pied droit vers C en un mouvement étampé pour former une position en L gauche vers C tout en exécutant une frappe descendante avec le droit arrière main.
    *([Niunja so sondung bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 32. Frapper du poing la paume droite avec le poing gauche tout en maintenant une position en L gauche vers C.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 33. Exécuter une frappe extérieure moyenne vers D avec le tranchant de la main gauche tout en formant une position en L droite vers D, en pivotant avec le pied droit.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 
-   > *Exécuter en un en écrasant mouvement.*
+   > *Exécuter en un mouvement étampé.*
 
 34. Exécuter une frappe latérale-avant haute vers D avec le revers du poing droit en frappant la paume gauche avec le coude droit tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *(Gunnun so dung joomuk nopunde bandae yobap taerigi)*
 35. Déplacer le pied droit vers D pour former une position en L gauche vers D tout en exécutant une frappe extérieure moyenne vers D avec le tranchant de la main droite.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 
-   > *Exécuter en un en écrasant mouvement.*
+   > *Exécuter en un mouvement étampé.*
 
 36. Exécuter une frappe latérale-avant haute vers D avec le revers du poing gauche en frappant la paume droite avec le coude gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
    *(Gunnun so dung joomuk nopunde bandae yobap taerigi)*
@@ -141,7 +145,3 @@
    *(Gunnun so pyon joomuk nopunde bandae jirugi)*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

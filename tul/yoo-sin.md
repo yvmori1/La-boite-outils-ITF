@@ -121,9 +121,9 @@
    *([Niunja so sonkal dung nopunde yop makgi](../makgi/nopunde-yop-makgi.md))*
 40. Ramener le pied droit vers le pied gauche pour former un position de préparation fermée C vers C.
    *([Moa junbi sogi C](../Techniques/Moa-Junbi-Sogi-C.md))*
-41. Déplacer le pied droit vers CF en un en écrasant mouvement pour former une position de marche droite vers CG en même temps en exécutant un coup de poing renversé vers CF avec un poings jumelés.
+41. Déplacer le pied droit vers CF en un mouvement étampé pour former une position de marche droite vers CG en même temps en exécutant un coup de poing renversé vers CF avec un poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
-42. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers CE en un en écrasant mouvement, pour former une position de marche gauche vers CE tout en exécutant un coup de poing renversé vers CE avec un poings jumelés.
+42. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers CE en un mouvement étampé, pour former une position de marche gauche vers CE tout en exécutant un coup de poing renversé vers CE avec un poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 43. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers F pour former une position en L gauche vers F tout en exécutant un blocage moyen vers F avec l'avant-bras intérieur droit.
    *([Niunja so an palmok kaunde yop makgi](../Techniques/An-Palmok-Kaunde-Yop-Makgi.md))*
@@ -147,7 +147,7 @@
    *([Gojung so digutja jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md))*
 50. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers E, pour former une position fixe droite vers E tout en exécutant un coup de poing en U vers E.
    *([Gojung so digutja jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md))*
-51. Déplacer le pied droit sur ligne CD en un en écrasant mouvement pour former une position assise vers E tout en exécutant une frappe frontale vers E avec le revers du poing droit.
+51. Déplacer le pied droit sur ligne CD en un mouvement étampé pour former une position assise vers E tout en exécutant une frappe frontale vers E avec le revers du poing droit.
    *([Annun so orun dung joomuk ap taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md))*
 52. Exécuter un coup de pied retourné vers D avec le pied droit, puis un blocage extérieur haut vers AC avec l'avant-bras extérieur droit, en gardant le position de la mains comme s'ils étaient en 51 tout en formant une position assise vers E.
    *([Doro chagi](../Techniques/Doro-Chagi.md), [annun so orun bakat palmok nopunde bakuro makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.md))*
@@ -191,7 +191,3 @@
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

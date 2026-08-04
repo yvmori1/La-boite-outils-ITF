@@ -13,6 +13,10 @@
 
 [KWANG-GAE](https://vimeo.com/133453588)
 
+## Origine et contexte historique
+
+* **Contexte géopolitique de souveraineté :** Sous son règne, le royaume de Koguryo connut son apogée économique et militaire, s'affirmant comme une superpuissance asiatique capable de rivaliser avec l'empire chinois. Le tracé de la forme symbolise la reconquête territoriale et la fierté d'une nation forte face aux agressions extérieures.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle avec les mains vers le ciel
@@ -91,7 +95,7 @@
 
    > *Exécuter en mouvement lent.*
 
-23. Déplacer le pied droit vers D en un en écrasant mouvement pour former une position assise vers F tout en exécutant une frappe latérale haute vers D avec le revers du poing droit.
+23. Déplacer le pied droit vers D en un mouvement étampé pour former une position assise vers F tout en exécutant une frappe latérale haute vers D avec le revers du poing droit.
    *([Annun so orun dung joomuk nopunde yop taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 24. Exécuter un blocage moyen vers D avec le droit double avant-bras tout en formant une position de marche droite vers D, en pivotant avec le pied gauche.
    *([Gunnun so doo palmok kaunde makgi](../makgi/kaunde-makgi.md))*
@@ -102,7 +106,7 @@
 
    > *Exécuter en mouvement lent.*
 
-27. Déplacer le pied gauche sur ligne CD en un en écrasant mouvement pour former une position assise vers F tout en exécutant une frappe latérale haute vers C avec le revers du poing gauche.
+27. Déplacer le pied gauche sur ligne CD en un mouvement étampé pour former une position assise vers F tout en exécutant une frappe latérale haute vers C avec le revers du poing gauche.
    *([Annun so wen dung joomuk nopunde yop taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 28. Exécuter un blocage moyen vers C avec le gauche double avant-bras tout en formant une position de marche gauche vers C, en pivotant avec le pied gauche.
    *([Gunnun so doo palmok kaunde makgi](../makgi/kaunde-makgi.md))*
@@ -113,9 +117,9 @@
 
    > *Exécuter en mouvement lent.*
 
-31. Déplacer le pied droit vers C en un en écrasant mouvement, pour former une position de marche droite vers C tout en exécutant un coup de poing vertical haut vers C avec un poings jumelés.
+31. Déplacer le pied droit vers C en un mouvement étampé, pour former une position de marche droite vers C tout en exécutant un coup de poing vertical haut vers C avec un poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
-32. Déplacer le pied gauche vers A en un en écrasant mouvement, pour former une position de marche gauche vers A tout en exécutant un coup de poing renversé vers A avec un poings jumelés.
+32. Déplacer le pied gauche vers A en un mouvement étampé, pour former une position de marche gauche vers A tout en exécutant un coup de poing renversé vers A avec un poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 33. Exécuter un coup de pied avant fouetté moyen vers A avec le pied droit, en gardant le position de la mains comme s'ils étaient en 32.
    *([Kaunde apcha busigi](../chagi/apcha-busigi.md))*
@@ -123,7 +127,7 @@
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 35. Déplacer le pied gauche vers B, pour former une position de marche gauche vers B tout en exécutant un coup de poing haut vers B avec le poing gauche.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
-36. Déplacer le pied droit vers B en en écrasant mouvement, pour former une position de marche droite vers B tout en exécutant un coup de poing renversé vers B avec un poings jumelés.
+36. Déplacer le pied droit vers B en un mouvement étampé, pour former une position de marche droite vers B tout en exécutant un coup de poing renversé vers B avec un poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 37. Exécuter un coup de pied avant fouetté moyen vers B avec le pied gauche, en gardant le position de la mains comme s'ils étaient en 36.
    *([Kaunde apcha busigi](../chagi/apcha-busigi.md))*
@@ -133,7 +137,3 @@
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

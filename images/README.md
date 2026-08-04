@@ -2,15 +2,9 @@
 
 Diagrammes et schémas référencés par les fiches du dépôt : **diagrammes des formes** (le tracé au sol de chaque Tul, avec son symbole) et **schémas des positions** (dimensions et répartition du poids).
 
-Ces fichiers sont utilisés par [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md).
-
-[← Retour à l'index général](../README.md)
-
 ---
 
 ## Positions (*Sogi*)
-
-Voir [../Theorie/positions.md](../Theorie/positions.md) pour les descriptions.
 
 Les schémas cotés des 21 positions, générés par
 [../scripts/generer-sogi.py](../scripts/generer-sogi.py), sont dans

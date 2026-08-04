@@ -13,6 +13,10 @@
 
 [JOONG-GUN](https://vimeo.com/95926168)
 
+## Origine et contexte historique
+
+* **Contexte politique d'oppression :** Le 26 octobre 1909, Ahn Joong-Gun assassina **Hirobumi Ito**, le premier gouverneur général japonais de la Corée et principal artisan du traité de protectorat forcé de 1905, qui dépouilla économiquement et politiquement la Corée de sa souveraineté. M. Ahn accomplit cet acte non par vengeance, mais au nom de la justice internationale et de la paix en Asie de l'Est.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée B
@@ -98,7 +102,3 @@
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

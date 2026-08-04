@@ -37,6 +37,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [generer-mvt.py](generer-mvt.py) | Reconstruit `mvt.txt` |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
+| [generer-manuel.py](generer-manuel.py) | Assemble `Theorie/manuel-taekwon-do.md` à partir des quatre fiches de fond |
 
 ### maintenir.py
 
@@ -121,3 +122,27 @@ elle pose ses pieds, puis ses cotes (`cote_v`, `cote_h`, `angle`, `note`,
 
 Ce script n'est pas enchaîné par `maintenir.py` : les images ne changent que
 lorsqu'une mesure change.
+
+### generer-manuel.py
+
+```sh
+python3 scripts/generer-manuel.py           # résumé, n'écrit rien
+python3 scripts/generer-manuel.py --write   # écrit Theorie/manuel-taekwon-do.md
+```
+
+Réunit [../Theorie/Genes.md](../Theorie/Genes.md),
+[../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md),
+[../Theorie/mouvement_de_vagues.md](../Theorie/mouvement_de_vagues.md) et
+[../Theorie/Lexique.md](../Theorie/Lexique.md) en un seul manuel ordonné pour
+l'apprentissage. Le texte n'est pas recopié : il est **extrait des sources à
+chaque exécution**, donc corriger une fiche suffit — le manuel suit.
+
+Seuls les passages qui existaient en double sont réécrits, dans le dictionnaire
+`FUSIONS` en tête du fichier, chacun avec la raison de la fusion : le crédo, les
+principes de position, les modificateurs de nomenclature et les verbes d'action.
+Les autres doublons sont résolus en ne retenant que la version la plus riche —
+l'en-tête du script en tient la liste.
+
+Ajouter un chapitre tient en une ligne dans `manuel()` : un titre, puis
+`extrait(source, "titre de la section")`. Le script s'arrête net si une section
+citée n'existe plus, ce qui signale tout de suite un titre renommé à la source.

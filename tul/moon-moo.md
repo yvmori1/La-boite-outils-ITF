@@ -13,6 +13,10 @@
 
 [MOON-MOO](https://youtu.be/kJGzK_pHiU0?si=EjTYeeye13y92tbJ)
 
+## Origine et contexte historique
+
+* **Contexte socio-politique et sacrifice spirituel :** Suivant sa volonté, son corps fut immergé en mer près du rocher de *DaeWang Am* afin que son âme se réincarne en dragon de mer pour protéger la Corée contre les invasions maritimes japonaises de pirates de l'Est. Sa mémoire incarne le sacrifice suprême de la royauté au service de la paix nationale.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle de préparation
@@ -41,6 +45,9 @@
 
 6. Abaisser le pied droit vers B en mouvement sauté pour former une position en X droite vers C tout en exécutant une frappe latérale moyenne vers B avec le tranchant de la main droite.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so sonkal kaunde yop taerigi)*
+
+   > *Distance de saut : 1 position de marche.*
+
 7. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant un blocage en pression vers A avec la paume droite.
    *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 8. Déplacer le pied droit vers A pour former une position de marche droite vers A en même temps en exécutant un blocage en pression avec la paume gauche.
@@ -74,6 +81,9 @@
 
 15. Abaisser le pied gauche vers A en mouvement sauté pour former une position en X gauche vers C tout en exécutant une frappe latérale moyenne vers A avec le tranchant de la main gauche.
    *(Twigi, [wen kyocha so sonkal kaunde yop taerigi](../Techniques/Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 16. Déplacer le pied droit vers B pour former une position de marche droite vers B tout en exécutant un blocage en pression vers B avec la paume gauche.
    *([Gunnun so sonbadak bandae noollo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md))*
 17. Déplacer le pied gauche vers B pour former une position de marche gauche vers B en même temps en exécutant un blocage en pression avec la paume droite.
@@ -105,7 +115,7 @@
    *([Dwitbal so sonbadak bandae naeryo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md))*
 26. Exécuter un coup de pied avant fouetté latéral moyen vers D avec le pied gauche en gardant le position de la mains comme s'ils étaient en 25.
    *(Kaunde yobap cha busigi)*
-27. Abaisser le pied gauche vers D puis déplacer le pied droit vers C en un en écrasant mouvement pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers C avec le droit côté poing.
+27. Abaisser le pied gauche vers D puis déplacer le pied droit vers C en un mouvement étampé pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers C avec le droit côté poing.
    *([Annun so orun yop joomuk kaunde yop taerigi](../Techniques/Annun-So-Orun-Yop-Joomuk-Kaunde-Yop-Taerigi.md))*
 28. Glisser vers C en maintenant une position assise vers A tout en exécutant un blocage en levant avec la paume gauche.
    *([Annun so wen sonbadak duro makgi](../Techniques/Annun-So-Wen-Sonbadak-Duro-Makgi.md))*
@@ -126,7 +136,7 @@
    *([Dwitbal so sonbadak bandae naeryo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md))*
 35. Exécuter un coup de pied avant fouetté latéral moyen vers C avec le pied droit en gardant le position de la mains comme s'ils étaient en 34.
    *(Kaunde yobap cha busigi)*
-36. Abaisser le pied droit vers C puis déplacer le pied gauche vers D en un en écrasant mouvement pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers D avec le gauche côté poing.
+36. Abaisser le pied droit vers C puis déplacer le pied gauche vers D en un mouvement étampé pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers D avec le gauche côté poing.
    *([Annun so wen yop joomuk kaunde yop taerigi](../Techniques/Annun-So-Wen-Yop-Joomuk-Kaunde-Yop-Taerigi.md))*
 37. Glisser vers D en maintenant une position assise vers A tout en exécutant un blocage en levant avec la paume droite.
    *([Annun so orun sonbadak duro makgi](../Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.md))*
@@ -177,10 +187,19 @@
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 56. Sauter vers C pour former une position en X droite vers AC tout en exécutant un coup de poing bas vers C avec le poing gauche et en amenant le poing droit sur la épaule gauche.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so najunde bandae jirugi)*
+
+   > *Distance de saut : 1 position de marche.*
+
 57. Sauter vers D pour former une position en X gauche vers AD tout en exécutant un coup de poing bas vers D avec le poing droit et en amenant le poing gauche sur la épaule droite.
    *(Twigi, [wen kyocha so najunde bandae jirugi](../Techniques/Wen-Kyocha-So-Najunde-Bandae-Jirugi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 58. Sauter vers exécuter un coup de pied en vol vers D avec le pied droit tout en pivotant dans le sens horaire.
    *([Twio dolmyo chagi](../Techniques/Twio-Dolmyo-Chagi.md))*
+
+   > *Distance de saut : 1 largeur d'épaule depuis le pied avant.*
+
 59. Atterrir vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 60. Déplacer le pied droit vers le côté arrière du pied gauche puis le pied gauche vers C pour former une position de marche droite vers D tout en exécutant un blocage montant avec l'arc de main gauche.
@@ -189,7 +208,3 @@
    *([gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

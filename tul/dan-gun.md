@@ -13,6 +13,10 @@
 
 [DAN-GUN](https://vimeo.com/108059486)
 
+## Origine et contexte historique
+
+* **Contexte historique et politique :** Dan-Gun unit les tribus nomades de la péninsule pour fonder le royaume antique de **Gojoseon** (Chosun). Le Général Choi utilise cette figure historique pour enraciner le Taekwon-Do dans l'identité nationale coréenne, affirmant l'autonomie et l'antiquité culturelle de la Corée face aux tentatives historiques d'assimilation chinoise et japonaise.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle de préparation
@@ -64,7 +68,3 @@
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

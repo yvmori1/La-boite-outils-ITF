@@ -13,6 +13,10 @@
 
 [Coup de poing 4 directions](https://vimeo.com/132844679?fl=pl&fe=cm)
 
+## Origine et contexte
+
+* **Contexte socio-technique :** Conçu pour donner une confiance immédiate au débutant en isolant l'attaque de base d'un environnement de combat complexe.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : Position parallèle de préparation (Parallel Ready Stance / Narani Junbi Sogi).
@@ -26,7 +30,3 @@
 7. Avancer le pied droit vers A pour former une position de marche droite vers A tout en exécutant un coup de poing moyen vers A avec le poing droit ([Gunnun So Kaunde Jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md)).
 
 ### FIN : Ramener le pied droit vers l'arrière en posture de départ (Ready Posture).
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

@@ -13,6 +13,10 @@
 
 [PO-EUN](https://vimeo.com/132836099)
 
+## Origine et contexte historique
+
+* **Contexte de transition politique :** Chong Mong-Chu resta loyal à la dynastie de Koryo en déclin, s'opposant au général Yi Sung-Gae qui allait usurper le trône pour fonder la dynastie Joseon. Il fut assassiné sur le pont Seonjuk par les partisans de la nouvelle faction politique. Son tracé sur une seule ligne droite symbolise sa fidélité inflexible.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle avec les mains vers le ciel
@@ -103,7 +107,3 @@
    *([Annun so sonkal najunde A-bang daebi makgi](../Techniques/Annun-So-Sonkal-Najunde-A-Bang-Daebi-Makgi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

@@ -13,6 +13,10 @@
 
 [CHOI-YONG](https://youtu.be/utktT20XLW0?si=MEq_GSCyrUjBIiFG)
 
+## Origine et contexte historique
+
+* **Contexte de coup d'État politique :** Hautement respecté pour sa loyauté absolue et sa profonde humilité, il fut exécuté par son subordonné direct, le général Yi Sung-Gae, qui usurpa le trône pour fonder la dynastie Joseon en 1392. Sa mort marqua la fin d'une ère d'intégrité et la chute de la dynastie de Koryo.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée C
@@ -98,9 +102,12 @@
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 36. Abaisser le pied droit vers A en mouvement sauté pour former une position en X droite vers AD tout en exécutant une frappe latérale haute vers A avec le revers du poing droit et en amenant la pulpe des doigts gauche vers le droit côté poing.
    *(Twigi, [orun kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 37. Exécuter un coup de pied crocheté inversé haut vers B avec le pied droit.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
-38. Abaisser le pied droit vers B en un en écrasant mouvement pour former une position en L gauche vers B tout en exécutant une frappe extérieure moyenne vers B avec le tranchant de la main droite.
+38. Abaisser le pied droit vers B en un mouvement étampé pour former une position en L gauche vers B tout en exécutant une frappe extérieure moyenne vers B avec le tranchant de la main droite.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 39. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position parallèle vers A en même temps en exécutant un blocage crocheté moyen vers A avec la paume gauche.
    *([Narani so wen sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
@@ -112,15 +119,14 @@
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 43. Abaisser le pied gauche vers B en mouvement sauté pour former une position en X gauche vers BD tout en exécutant une frappe latérale haute vers B avec le revers du poing gauche et en amenant la pulpe des doigts droit vers le gauche côté poing.
    *(Twigi, [wen kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 44. Exécuter un coup de pied crocheté inversé haut vers A avec le pied gauche.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
-45. Abaisser le pied gauche vers A en un en écrasant mouvement pour former une position en L droite vers A tout en exécutant une frappe extérieure moyenne vers A avec le tranchant de la main gauche.
+45. Abaisser le pied gauche vers A en un mouvement étampé pour former une position en L droite vers A tout en exécutant une frappe extérieure moyenne vers A avec le tranchant de la main gauche.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 46. Glisser vers A pour former une position fixe droite vers A tout en exécutant un coup de poing moyen vers A avec le poing droit.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

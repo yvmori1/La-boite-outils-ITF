@@ -13,6 +13,11 @@
 
 [CHOONG-MOO](https://vimeo.com/106885318)
 
+## Origine et contexte historique
+
+* **Asymétrie symbolique :** La forme se termine par une attaque de la main gauche pour symboliser la mort tragique et prématurée de l'amiral lors de la bataille de Noryang (1598), sans qu'il ait pu démontrer son plein potentiel en raison de la jalousie politique de son roi qui l'avait injustement emprisonné.
+* **Contexte socio-militaire :** Face à l'invasion navale japonaise dévastatrice, l'amiral Yi Sun-Sin sauva la dynastie Joseon d'une annihilation complète par son génie tactique et sa loyauté indéfectible, luttant avec un budget économique inexistant et des ressources navales infimes contre une flotte ennemie écrasante.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle de préparation
@@ -35,6 +40,9 @@
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 9. Exécuter un coup de pied latéral perçant sauté vers D avec le pied droit aussitôt après en déplaçant il vers D puis atterrir vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
    *([Twimyo yopcha jirugi](../chagi/twimyo-yopcha-jirugi.md), [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 10. Déplacer le pied gauche vers E en tournant dans le sens anti-horaire pour former une position en L droite vers E en même temps en exécutant un blocage bas vers E avec l'avant-bras gauche.
    *([Niunja so palmok najunde yop makgi](../makgi/yop-makgi.md))*
 11. Étendre les deux mains vers le haut comme si vers saisir l'adversaire’s tête tout en formant une position de marche gauche vers E, en glissant le pied gauche.
@@ -57,6 +65,9 @@
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 19. Sauter et pivoter autour dans le sens anti-horaire, à la réception sur la même place pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec un tranchant de la main.
    *(Twigi, [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
+
+   > *Distance de saut : sur place.*
+
 20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C en même temps en exécutant une pique basse vers C avec la pique de doigts renversée droit.
    *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
 21. Exécuter une frappe arrière latérale vers D avec le revers du poing droit et un blocage bas vers C avec l'avant-bras gauche tout en formant une position en L droite vers C, en tirant le pied gauche.
@@ -81,7 +92,3 @@
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

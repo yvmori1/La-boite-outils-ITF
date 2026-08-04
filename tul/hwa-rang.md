@@ -13,6 +13,10 @@
 
 [HWA-RANG](https://vimeo.com/100918421)
 
+## Origine et contexte historique
+
+* **Contexte de chevalerie militaire :** Les Hwa-Rangs s'entraînaient à escalader les montagnes et nager dans les eaux glacées tout en respectant un code de conduite en 5 points dicté par le moine Won Kang (loyauté envers le roi, obéissance aux parents, honneur envers les amis, bravoure au combat, et justice dans l'usage de la force). Ce code spirituel et moral a transformé des techniques de combat primitives en un art martial noble et structuré.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée C
@@ -79,7 +83,3 @@
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

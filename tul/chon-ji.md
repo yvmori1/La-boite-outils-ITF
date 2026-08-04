@@ -13,6 +13,10 @@
 
 [CHON-JI](https://vimeo.com/113653580)
 
+## Origine et contexte historique
+
+* **Contexte socio-politique :** Représente l'état originel de paix et de pureté d'esprit recherché par l'adepte, imperméable aux corruptions de la société matérialiste moderne.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle de préparation
@@ -57,7 +61,3 @@
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

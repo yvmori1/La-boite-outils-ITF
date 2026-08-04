@@ -11,6 +11,10 @@
 | ------ | ------ |
 | ![**|**](../images/tong-il.png) | TONG-IL exprime la résolution et la volonté inébranlable d'unifier la Corée, divisée de force depuis l'année 1945. Le diagramme (\|) symbolise le peuple coréen homogène, uni et indivisible. |
 
+## Origine et contexte historique
+
+* **Contexte géopolitique moderne :** Tong-Il est le Tul le plus haut de l'école Chang-Hun. Il incarne l'aspiration suprême de paix, d'unité fraternelle et le deuil spirituel d'une nation scindée en deux par les tensions idéologiques de la Guerre Froide. Il appelle chaque pratiquant à œuvrer activement pour la justice internationale et l'unification pacifique des peuples.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle avec les dos des mains superposés
@@ -36,11 +40,11 @@
 
    > *Exécuter 5 et 6 en mouvement rapide.*
 
-7. Déplacer le pied gauche vers D en un en écrasant mouvement pour former une position en L droite vers D tout en exécutant une frappe extérieure haute vers D avec le gauche arrière main.
+7. Déplacer le pied gauche vers D en un mouvement étampé pour former une position en L droite vers D tout en exécutant une frappe extérieure haute vers D avec le gauche arrière main.
    *(Niunja so sondung nopunde bakuro taerigi)*
 8. Exécuter un coup de pied vertical vers l'intérieur vers la paume gauche avec le droit inversé tranchant du pied.
    *([Balkal dung anuro sewo chagi](../Techniques/Balkal-Dung-Anuro-Sewo-Chagi.md))*
-9. Abaisser le pied droit vers D en un en écrasant mouvement, pour former une position en L gauche vers D tout en exécutant une frappe extérieure haute vers D avec le droit arrière main.
+9. Abaisser le pied droit vers D en un mouvement étampé, pour former une position en L gauche vers D tout en exécutant une frappe extérieure haute vers D avec le droit arrière main.
    *(Niunja so sondung nopunde bakuro taerigi)*
 10. Exécuter un coup de pied vertical vers l'intérieur vers la paume droite avec le gauche inversé tranchant du pied.
    *([Balkal dung anuro sewo chagi](../Techniques/Balkal-Dung-Anuro-Sewo-Chagi.md))*
@@ -68,11 +72,11 @@
 
 16. Exécuter un coup de pied descendant vers AC avec le pied droit, en gardant le position de la mains comme s'ils étaient en 15.
    *([Naeryo chagi](../chagi/naeryo-chagi.md))*
-17. Abaisser le pied droit vers C en un en écrasant mouvement, pour former une position en L gauche vers C tout en exécutant une frappe descendante vers C avec le revers du poing droit.
+17. Abaisser le pied droit vers C en un mouvement étampé, pour former une position en L gauche vers C tout en exécutant une frappe descendante vers C avec le revers du poing droit.
    *([Niunja so dung joomuk bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 18. Exécuter un coup de pied vertical vers l'extérieur vers BC avec le pied gauche, en gardant le position de la mains comme s'ils étaient en 17.
    *([Bakuro sewo chagi](../Techniques/Bakuro-Sewo-Chagi.md))*
-19. Abaisser le pied gauche vers C en un en écrasant mouvement pour former une position en L droite vers C tout en exécutant une frappe descendante vers C avec le revers du poing gauche.
+19. Abaisser le pied gauche vers C en un mouvement étampé pour former une position en L droite vers C tout en exécutant une frappe descendante vers C avec le revers du poing gauche.
    *([Niunja so dung joomuk bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 20. Exécuter un coup de poing haut vers D avec le poing gauche tout en formant une position de marche droite vers D, en pivotant avec le pied gauche.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
@@ -116,7 +120,7 @@
    *([Niunja so sonkal dung najunde daebi makgi](../makgi/najunde-daebi-makgi.md))*
 37. Exécuter un blocage bas vers D avec l'avant-bras droit et un blocage extérieur moyen vers D avec le tranchant de la main gauche tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *([Gunnun so sonkal kaunde baro bakuro makgi](../makgi/bakuro-makgi.md) wa [palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
-38. Déplacer le pied droit vers D en un en écrasant mouvement pour former une position de marche droite vers D en même temps en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
+38. Déplacer le pied droit vers D en un mouvement étampé pour former une position de marche droite vers D en même temps en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 39. Tirer le droit inversé tranchant du pied vers le genou gauche articulation, pour former une position sur une jambe gauche vers D tout en en frappant la paume gauche avec le droit arrière avant-bras.
    *([Waebal so dungpalmok bandae taerigi](../Techniques/Waebal-So-Dungpalmok-Bandae-Taerigi.md))*
@@ -126,7 +130,7 @@
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
 42. Glisser vers C en maintenant une position assise vers A tout en exécutant un blocage en W avec l'avant-bras extérieur.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
-43. Déplacer le pied droit vers D en un en écrasant mouvement, en tournant dans le sens anti-horaire pour former une position assise vers B tout en exécutant un blocage en W avec l'avant-bras extérieur.
+43. Déplacer le pied droit vers D en un mouvement étampé, en tournant dans le sens anti-horaire pour former une position assise vers B tout en exécutant un blocage en W avec l'avant-bras extérieur.
    *([Annun so orun bakat palmok san makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-San-Makgi.md))*
 44. Glisser vers C, en maintenant une position assise vers B tout en exécutant un blocage en W avec l'avant-bras extérieur.
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
@@ -136,6 +140,9 @@
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
 47. Abaisser le pied gauche vers C en mouvement sauté, pour former une position en X gauche vers C tout en exécutant un blocage en pression avec un poings croisés.
    *(Twigi, [wen kyocha so kyocha joomuk noollo makgi](../Techniques/Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 48. Déplacer le pied droit vers D, pour former une position de marche gauche vers C tout en exécutant une frappe frontale avec le gauche sous poing.
    *(Gunnun so mit joomuk ap taerigi)*
 49. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant une frappe frontale avec le droit sous poing.
@@ -156,7 +163,3 @@
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

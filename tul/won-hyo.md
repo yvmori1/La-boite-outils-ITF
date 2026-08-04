@@ -13,6 +13,10 @@
 
 [WON-HYO](https://vimeo.com/107541045)
 
+## Origine et contexte historique
+
+* **Contexte religieux et philosophique :** Won-Hyo vécut sous le règne de Silla, à une époque d'intenses guerres intestines entre les trois royaumes (Silla, Koguryo, Baekje). Contrairement aux moines de l'époque qui s'isolaient dans les monastères de l'aristocratie, Won-Hyo parcourut les campagnes pour enseigner le bouddhisme au peuple démuni, unifiant spirituellement la nation brisée par la misère économique et la guerre.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée A
@@ -75,7 +79,3 @@
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

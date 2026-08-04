@@ -11,6 +11,10 @@
 | ------ | ------ |
 | ![**王**](../images/se-jong.png) | SE-JONG est nommé d'après le plus grand roi de l'histoire coréenne, Se-Jong le Grand, qui inventa l'alphabet coréen (Hangul) en 1443, et qui était également un météorologue réputé. Le diagramme (王) représente le Roi, tandis que les 24 mouvements correspondent aux 24 lettres de cet alphabet national. |
 
+## Origine et contexte historique
+
+* **Contexte de révolution socio-culturelle et économique :** Avant Se-Jong, la population coréenne était analphabète en raison de l'utilisation complexe des caractères chinois, ce qui permettait à l'aristocratie féodale d'abuser du peuple. En créant un alphabet simple de 24 lettres, le roi Se-Jong a démocratisé l'accès au savoir, à l'éducation, et a stimulé le développement agricole et météorologique national.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée B
@@ -29,6 +33,9 @@
    *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
 7. Sauter vers D pour former une position en X gauche vers DG tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche, en amenant la pulpe des doigts droit vers le gauche côté poing.
    *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 8. Déplacer le pied droit vers G, pour former une position de marche droite vers G tout en exécutant un coup de poing haut vers G avec le poing droit.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 9. Déplacer le pied droit sur ligne GH pour former une position fixe gauche vers H tout en exécutant un blocage de garde haut vers H avec l'avant-bras.
@@ -43,6 +50,9 @@
    *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
 14. Abaisser le pied gauche vers C en mouvement sauté, pour former une position en X gauche vers CF tout en exécutant un blocage haut vers C avec le gauche double avant-bras.
    *(Twigi, [wen kyocha so doo palmok nopunde makgi](../Techniques/Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md))*
+
+   > *Distance de saut : 1 position de marche.*
+
 15. Déplacer le pied droit vers F pour former une position assise vers C tout en étendant le poing droit horizontalement vers C.
    *([Annun sogi](../Techniques/Annun-Sogi.md))*
 
@@ -71,7 +81,3 @@
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

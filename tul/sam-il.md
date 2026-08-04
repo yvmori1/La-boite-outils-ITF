@@ -13,6 +13,10 @@
 
 [SAM-IL](https://youtu.be/BqMGIy6aO1k?si=btpwTEl-PGoAw7sN)
 
+## Origine et contexte historique
+
+* **Contexte d'insurrection populaire :** Le mouvement du 1er mars fut une protestation de masse pacifique contre la domination impériale japonaise. Près de 2 millions de Coréens participèrent aux manifestations. La répression japonaise fut sanglante (des milliers de morts, des villages entiers brûlés). Cette date fondatrice de la Corée moderne incarne l'esprit indomptable d'un peuple uni pour sa liberté.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position de préparation fermée C
@@ -51,6 +55,9 @@
    *([Yop bal badak suroh chagi](../chagi/suroh-chagi.md), orun gojung so digutja makgi)*
 17. Sauter et pivoter dans le sens anti-horaire, à la réception sur la même place pour former une position en L gauche vers B tout en exécutant un blocage de garde moyen vers B avec un tranchant de la main.
    *(Twigi, [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
+
+   > *Distance de saut : sur place.*
+
 18. Exécuter un coup de pied latéral perçant moyen vers B avec le pied droit tout en formant un blocage de garde du tranchant de la main.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 19. Abaisser le pied droit vers le pied gauche puis déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en en frappant la paume gauche avec le droit avant coude.
@@ -59,7 +66,7 @@
    *([Sasun so dwit palkup tulgi](../jirugi/dwit-palkup-tulgi.md))*
 21. Exécuter un blocage en pression avec un poings croisés tout en formant une position de marche droite vers AD.
    *([Gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
-22. Déplacer le pied gauche vers A en un en écrasant mouvement pour former une position assise vers C tout en exécutant un blocage en W avec l'avant-bras extérieur.
+22. Déplacer le pied gauche vers A en un mouvement étampé pour former une position assise vers C tout en exécutant un blocage en W avec l'avant-bras extérieur.
    *([Annun so wen bakat palmok san makgi](../Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.md))*
 23. Exécuter un coup de pied latéral perçant moyen vers A avec le pied gauche tout en formant un blocage de garde de l'avant-bras.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -69,7 +76,7 @@
    *([Dwitbal so sonbadak bandae ollyo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
 26. Déplacer le pied droit vers B pour former une position sur la jambe arrière gauche vers B tout en exécutant un blocage en pression avec une paumes jumelées.
    *([Dwitbal so sang sonbadak noollo makgi](../Techniques/Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.md))*
-27. Déplacer le pied gauche vers C en un en écrasant mouvement pour former une position de marche gauche vers C tout en exécutant un coup de poing renversé vers C avec un poings jumelés.
+27. Déplacer le pied gauche vers C en un mouvement étampé pour former une position de marche gauche vers C tout en exécutant un coup de poing renversé vers C avec un poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 28. Déplacer le pied droit vers C pour former une position en L gauche vers C tout en exécutant un blocage bas vers C avec l'avant-bras droit, en tirant le poing gauche sous la aisselle gauche.
    *([Niunja so palmok najunde bandae makgi](../makgi/bandae-makgi.md))*
@@ -84,11 +91,7 @@
 
 32. Exécuter un coup de pied avant fouetté bas vers D avec le pied gauche en gardant le position de la mains comme s'ils étaient en 31.
    *([Najunde ap cha busigi](../chagi/apcha-busigi.md))*
-33. Abaisser le pied gauche vers D puis déplacer le pied droit vers D en un en écrasant mouvement pour former une position de marche droite vers D tout en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
+33. Abaisser le pied gauche vers D puis déplacer le pied droit vers D en un mouvement étampé pour former une position de marche droite vers D tout en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 
 ### FIN : ramener le pied gauche à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)

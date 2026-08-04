@@ -13,6 +13,10 @@
 
 [GE-BAEK](https://vimeo.com/132834004)
 
+## Origine et contexte historique
+
+* **Contexte tragique et militaire :** En 660, le royaume de Baekje fut envahi par une coalition écrasante de 50 000 soldats de Silla alliés à 130 000 troupes de la dynastie chinoise des Tang. Conscient de l'issue fatale de la bataille, le général Ge-Baek préféra tuer sa propre famille pour lui éviter l'esclavage et le viol par les vainqueurs avant de charger héroïquement à la tête de ses 5 000 guerriers lors de la bataille de Hwangsanbeol, illustrant la rigueur d'un code moral militaire poussé jusqu'au sacrifice suprême.
+
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle de préparation
@@ -75,6 +79,8 @@
 
    > *Exécuter 22 et 23 en mouvement rapide.*
 
+   > *Distance de saut : 1 position de marche depuis le pied arrière de la position précédente, et 1 largeur d'épaules depuis le pied avant.*
+
 24. Atterrir vers C pour former une position de marche droite vers C tout en exécutant un coup de poing vertical haut vers C avec un poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 25. Exécuter un blocage haut vers AC avec un double arc de main tout en regardant à travers il en maintenant une position de marche droite vers C.
@@ -85,6 +91,9 @@
    *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 28. Sauter vers D, pour former une position en X droite vers BD tout en exécutant un blocage haut vers D avec le droit double avant-bras.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so doo palmok nopunde makgi)*
+
+   > *Distance de saut : 1 position de marche.*
+
 29. Déplacer le pied gauche vers BC pour former une position assise vers BD, en même temps en exécutant un blocage en levant vers BD avec la paume droite.
    *([Annun so orun sonbadak duro makgi](../Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.md))*
 30. Exécuter un coup de poing moyen vers BD avec le poing gauche tout en maintenant une position assise vers BD.
@@ -98,6 +107,9 @@
    *(Gunnun so sonkal dung nopunde bandae ap taerigi)*
 33. Déplacer le pied gauche vers A environ moitié une épaule largeur tout en exécutant un coup de pied circulaire moyen vers C avec le pied droit.
    *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
+
+   > *Distance de saut : 1/2 largeur d'épaules.*
+
 34. Abaisser le pied droit vers C, puis tourner dans le sens anti-horaire pour former une position de marche gauche vers D, en pivotant avec le pied droit tout en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 35. Exécuter un coup de poing moyen vers D avec le poing à phalange médiane droit, en amenant le gauche côté en premier en avant de la épaule droite tout en formant une position en L droite vers D en tirant le pied gauche.
@@ -111,9 +123,9 @@
 
    > *Exécuter 37 et 38 en mouvement continu.*
 
-39. Déplacer le pied gauche vers D en un en écrasant mouvement pour former une position assise vers A tout en exécutant un blocage en W avec l'avant-bras extérieur.
+39. Déplacer le pied gauche vers D en un mouvement étampé pour former une position assise vers A tout en exécutant un blocage en W avec l'avant-bras extérieur.
    *([Annun so wen bakat palmok san makgi](../Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.md))*
-40. Déplacer le pied gauche vers C en un en écrasant mouvement pour former une position assise vers B tout en exécutant un blocage en W avec l'avant-bras extérieur.
+40. Déplacer le pied gauche vers C en un mouvement étampé pour former une position assise vers B tout en exécutant un blocage en W avec l'avant-bras extérieur.
    *([Annun so wen bakat palmok san makgi](../Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.md))*
 41. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage montant avec l'avant-bras droit.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
@@ -125,7 +137,3 @@
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 
 ### FIN : ramener le pied droit à la posture de départ.
-
----
-
-[← Index des formes](README.md) · [Histoire du Tul](../Theorie/encyclopedie-historique-tuls.md)
