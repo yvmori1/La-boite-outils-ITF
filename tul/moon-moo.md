@@ -111,7 +111,7 @@
 
 24. Abaisser le pied gauche vers C pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-25. Glisser vers C pour former une position sur la jambe arrière droite vers D tout en exécutant un blocage descendant avec la paume gauche.
+25. Glisser vers C pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage descendant avec la paume gauche.
    *([Dwitbal so sonbadak bandae naeryo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md))*
 26. Exécuter un coup de pied avant fouetté latéral moyen vers D avec le pied gauche en gardant les mains dans la position du mouvement 25.
    *(Kaunde yobap cha busigi)*
@@ -132,7 +132,7 @@
    *([Nopunde bandae dollyo chagi](../chagi/bandae-dollyo-chagi.md))*
 33. Abaisser le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage latéral haut vers C avec le tranchant de la main gauche.
    *([Gunnun so sonkal nopunde yop makgi](../makgi/nopunde-yop-makgi.md))*
-34. Glisser vers D pour former une position sur la jambe arrière gauche vers C tout en exécutant un blocage descendant avec la paume droite.
+34. Glisser vers D pour former une position arrière rapprochée sur la jambe gauche vers C tout en exécutant un blocage descendant avec la paume droite.
    *([Dwitbal so sonbadak bandae naeryo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md))*
 35. Exécuter un coup de pied avant fouetté latéral moyen vers C avec le pied droit en gardant les mains dans la position du mouvement 34.
    *(Kaunde yobap cha busigi)*

@@ -87,18 +87,18 @@
 
    > *Distance de saut : 1 position en L.*
 
-25. Exécuter un coup de pied en pioche vers B avec le pied gauche puis l'abaisser vers B pour former une position sur la jambe arrière droite vers B tout en exécutant un blocage de garde moyen avec l'avant-bras.
+25. Exécuter un coup de pied en pioche vers B avec le pied gauche puis l'abaisser vers B pour former une position arrière rapprochée sur la jambe droite vers B tout en exécutant un blocage de garde moyen avec l'avant-bras.
    *(Gokaeng-i chagi, [orun dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 26. Ramener le pied droit vers le pied gauche pour former une position fermée avec un ciel main vers D.
    *(Moa so hanulson)*
 
    > *Exécuter en mouvement lent.*
 
-27. Glisser vers C pour former une position sur la jambe arrière gauche vers D tout en exécutant une pique descendante avec le coude droit.
+27. Glisser vers C pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant une pique descendante avec le coude droit.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 28. Exécuter une frappe semi-circulaire haute avec la main arquée gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
    *(Gunnun so bandal son nopunde bandae bandal taerigi)*
-29. Glisser vers C pour former une position sur la jambe arrière droite vers D tout en exécutant une pique descendante avec le coude gauche.
+29. Glisser vers C pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant une pique descendante avec le coude gauche.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 30. Exécuter une frappe semi-circulaire haute avec la main arquée droite tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *(Gunnun so bandal son nopunde bandae bandal taerigi)*
@@ -127,7 +127,7 @@
 
 38. Atterrir vers D pour former une position diagonale gauche vers D tout en exécutant un blocage montant avec une paumes jumelées.
    *([Sasun so sang sonbadak chookyo makgi](../makgi/chookyo-makgi.md))*
-39. Glisser vers D pour former une position sur la jambe arrière droite vers C tout en exécutant une pique latérale vers D avec le coude droit.
+39. Glisser vers D pour former une position arrière rapprochée sur la jambe droite vers C tout en exécutant une pique latérale vers D avec le coude droit.
    *([Dwitbal so yop palkup tulgi](../Techniques/Dwitbal-So-Yop-Palkup-Tulgi.md))*
 40. Tourner le visage vers D tout en formant un droit position de préparation pliée B vers C puis exécuter un coup de pied arrière perçant moyen vers D avec le pied gauche.
    *(Guburyo junbi sogi B, [wen kaunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*

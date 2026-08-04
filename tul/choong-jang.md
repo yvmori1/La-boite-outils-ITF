@@ -70,7 +70,7 @@
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 23. Exécuter un coup de pied latéral perçant moyen vers D avec le pied droit tout en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
-24. Abaisser le pied droit vers D puis exécuter un blocage en pression avec une paumes jumelées tout en formant une position sur la jambe arrière droite vers C, en pivotant avec le pied droit.
+24. Abaisser le pied droit vers D puis exécuter un blocage en pression avec une paumes jumelées tout en formant une position arrière rapprochée sur la jambe droite vers C, en pivotant avec le pied droit.
    *([Dwitbal so sang sonbadak noollo makgi](../Techniques/Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.md))*
 25. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage frontal haut vers C avec l'avant-bras extérieur droit puis une frappe latérale haute vers C avec le revers du poing droit, en maintenant une position de marche droite vers C.
    *([Gunnun so bakat palmok nopunde ap makgi](../makgi/ap-makgi.md), [dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*

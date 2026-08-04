@@ -72,9 +72,9 @@
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 24. Abaisser le pied gauche sur ligne A puis exécuter un blocage de garde bas vers B avec le tranchant de la main tout en formant une position en L gauche vers B, en pivotant le pied gauche.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
-25. Déplacer le pied gauche vers B pour former une position sur la jambe arrière droite vers B tout en exécutant un blocage montant avec une paume gauche.
+25. Déplacer le pied gauche vers B pour former une position arrière rapprochée sur la jambe droite vers B tout en exécutant un blocage montant avec une paume gauche.
    *([Dwitbal so sonbadak bandae ollyo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
-26. Déplacer le pied droit vers B pour former une position sur la jambe arrière gauche vers B tout en exécutant un blocage en pression avec une paumes jumelées.
+26. Déplacer le pied droit vers B pour former une position arrière rapprochée sur la jambe gauche vers B tout en exécutant un blocage en pression avec une paumes jumelées.
    *([Dwitbal so sang sonbadak noollo makgi](../Techniques/Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.md))*
 27. Déplacer le pied gauche vers C en un mouvement étampé pour former une position de marche gauche vers C tout en exécutant un coup de poing renversé vers C avec les poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*

@@ -42,7 +42,7 @@
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
 6. Exécuter une coupe croisée extérieure haute vers D avec le bout des doigts droit à plat tout en formant une position de marche droite vers D, en glissant le pied droit.
    *(Gunnun so opun sonkut nopunde bakuro ghutgi)*
-7. Exécuter une pique descendante avec le coude droit tout en formant une position sur la jambe arrière gauche vers D, en tirant le pied droit.
+7. Exécuter une pique descendante avec le coude droit tout en formant une position arrière rapprochée sur la jambe gauche vers D, en tirant le pied droit.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 8. Sauter vers D pour former une position en X gauche vers AD tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
    *(Twigi, [wen kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
@@ -76,7 +76,7 @@
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
 17. Exécuter une coupe croisée extérieure haute vers D avec le bout des doigts gauche à plat tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *(Gunnun so opun sonkut nopunde bakuro ghutgi)*
-18. Exécuter une pique descendante avec le coude gauche tout en formant une position sur la jambe arrière droite vers D, en tirant le pied gauche.
+18. Exécuter une pique descendante avec le coude gauche tout en formant une position arrière rapprochée sur la jambe droite vers D, en tirant le pied gauche.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 19. Sauter vers D pour former une position en X droite vers BD tout en exécutant une frappe latérale haute vers D avec le revers du poing droit.
    *(Twigi, [orun kyocha so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
@@ -125,13 +125,13 @@
 
 37. Déplacer le pied gauche vers C pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
-38. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position sur la jambe arrière gauche vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur droit.
+38. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position arrière rapprochée sur la jambe gauche vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur droit.
    *([Dwitbal so an palmok bandae hori makgi](../Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md))*
 39. Déplacer le pied droit vers C légèrement puis le pied gauche vers D en un mouvement étampé pour former une position en L droite vers D tout en exécutant une frappe extérieure haute vers D avec le tranchant de la main gauche.
    *([Niunja so sonkal nopunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md))*
 40. Décaler vers C en maintenant une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
-41. Déplacer le pied droit vers D en tournant dans le sens horaire pour former une position sur la jambe arrière droite vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur gauche.
+41. Déplacer le pied droit vers D en tournant dans le sens horaire pour former une position arrière rapprochée sur la jambe droite vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur gauche.
    *([Dwitbal so an palmok bandae hori makgi](../Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md))*
 42. Déplacer le pied gauche vers C légèrement puis le pied droit vers D en un mouvement étampé pour former une position en L gauche vers D tout en exécutant une frappe extérieure haute vers D avec le tranchant de la main droite.
    *([Niunja so sonkal nopunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md))*

@@ -47,9 +47,9 @@
 
 7. Déplacer le pied gauche vers C en un en glissant mouvement pour former une position en L gauche vers D tout en exécutant un blocage de garde bas vers D avec le tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
-8. Déplacer le pied gauche vers D, pour former une position sur la jambe arrière droite vers D tout en exécutant un blocage de garde haut vers D avec le tranchant de la main.
+8. Déplacer le pied gauche vers D, pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage de garde haut vers D avec le tranchant de la main.
    *([Dwitbal so sonkal nopunde daebi makgi](../Techniques/Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.md))*
-9. Déplacer le pied droit vers D, pour former une position sur la jambe arrière gauche vers D tout en exécutant un blocage de garde haut vers D avec le tranchant de la main.
+9. Déplacer le pied droit vers D, pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant un blocage de garde haut vers D avec le tranchant de la main.
    *([Dwitbal so sonkal nopunde daebi makgi](../Techniques/Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.md))*
 10. Déplacer le pied gauche vers le côté avant du pied droit puis tourner dans le sens anti-horaire, en pivotant avec le pied gauche, pour former une position de marche gauche vers C tout en exécutant un blocage montant vers C avec la paume droite.
    *(Gunnun so sonbadak bandae ollyo makgi)*

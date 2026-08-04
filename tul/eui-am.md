@@ -95,7 +95,7 @@
    *([Gunnun so sonkal kaunde hechyo makgi](../makgi/hechyo-makgi.md))*
 28. Exécuter un blocage circulaire vers BD avec le revers de la main gauche tout en maintenant une position de marche droite vers D.
    *([Gunnun so sonkal dung dollimyo makgi](../makgi/dollimyo-makgi.md))*
-29. Exécuter un blocage descendant avec un alterné paume tout en formant une position sur la jambe arrière gauche vers D en tirant le pied droit.
+29. Exécuter un blocage descendant avec un alterné paume tout en formant une position arrière rapprochée sur la jambe gauche vers D en tirant le pied droit.
    *([Dwitbal so euhkallin sonbadak naeryo makgi](../Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md))*
 30. Exécuter un coup de poing moyen vers D avec le poing gauche tout en formant une position en L gauche vers D en glissant le pied droit.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
@@ -105,7 +105,7 @@
    *([Gunnun so sonkal kaunde hechyo makgi](../makgi/hechyo-makgi.md))*
 33. Exécuter un blocage circulaire vers AD avec le revers de la main droite tout en maintenant une position de marche gauche vers D.
    *([Gunnun so sonkal dung dollimyo makgi](../makgi/dollimyo-makgi.md))*
-34. Exécuter un blocage descendant avec un alterné paume tout en formant une position sur la jambe arrière droite vers D en tirant gauche pied.
+34. Exécuter un blocage descendant avec un alterné paume tout en formant une position arrière rapprochée sur la jambe droite vers D en tirant gauche pied.
    *([Dwitbal so euhkallin sonbadak naeryo makgi](../Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md))*
 35. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position en L droite vers D en glissant le pied gauche.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
@@ -113,11 +113,11 @@
    *([Niunja so sonkal dung najunde bandae anuro makgi](../makgi/anuro-makgi.md))*
 37. Exécuter un coup de pied circulaire inversé haut vers BD avec le pied droit.
    *([nopunde bandae dollyo chagi](../chagi/bandae-dollyo-chagi.md))*
-38. Abaisser le pied droit vers D pour former une position sur la jambe arrière gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
+38. Abaisser le pied droit vers D pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 39. Exécuter un coup de pied circulaire inversé haut vers AD avec le pied gauche.
    *([Nopunde bandae dollyo chagi](../chagi/bandae-dollyo-chagi.md))*
-40. Abaisser le pied gauche vers D pour former une position sur la jambe arrière droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
+40. Abaisser le pied gauche vers D pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 41. Déplacer le pied gauche derrière le pied droit puis le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage extérieur bas vers D avec le tranchant de la main gauche.
    *([Niunja so sonkal najunde bandae makgi](../makgi/bandae-makgi.md))*

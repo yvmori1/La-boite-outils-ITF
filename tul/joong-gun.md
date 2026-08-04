@@ -25,13 +25,13 @@
    *([Niunja so sonkal dung kaunde makgi](../makgi/sonkal-dung-makgi.md))*
 2. Exécuter un coup de pied avant fouetté latéral bas vers B avec le pied gauche, en gardant les mains dans la position du mouvement 1.
    *([Najunde yobap cha busigi](../Techniques/Najunde-Yobap-Cha-Busigi.md))*
-3. Abaisser le pied gauche vers B puis déplacer le pied droit vers B pour former une position sur la jambe arrière gauche vers B tout en exécutant un blocage montant avec une paume droite.
+3. Abaisser le pied gauche vers B puis déplacer le pied droit vers B pour former une position arrière rapprochée sur la jambe gauche vers B tout en exécutant un blocage montant avec une paume droite.
    *([Dwitbal so sonbadak bandae ollyo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
 4. Déplacer le pied droit vers A pour former une position en L gauche vers A, tout en exécutant un blocage moyen vers A avec un revers de la main droite.
    *([Niunja so sonkal dung kaunde makgi](../makgi/sonkal-dung-makgi.md))*
 5. Exécuter un coup de pied avant fouetté latéral bas vers A avec le pied droit, en gardant les mains dans la position du mouvement 4.
    *([Najunde yobap cha busigi](../Techniques/Najunde-Yobap-Cha-Busigi.md))*
-6. Abaisser le pied droit vers A puis déplacer le pied gauche vers A pour former une position sur la jambe arrière droite vers A tout en exécutant un blocage montant avec une paume gauche.
+6. Abaisser le pied droit vers A puis déplacer le pied gauche vers A pour former une position arrière rapprochée sur la jambe droite vers A tout en exécutant un blocage montant avec une paume gauche.
    *([Dwitbal so sonbadak bandae ollyo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
 7. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*

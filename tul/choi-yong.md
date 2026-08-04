@@ -21,13 +21,13 @@
 
 ### Posture de départ : position de préparation fermée C
 
-1. Déplacer le pied gauche vers D pour former une position sur la jambe arrière droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
+1. Déplacer le pied gauche vers D pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
-2. Exécuter un coup de poing haut vers D avec le poing à phalange médiane gauche tout en maintenant une position sur la jambe arrière droite vers D
+2. Exécuter un coup de poing haut vers D avec le poing à phalange médiane gauche tout en maintenant une position arrière rapprochée sur la jambe droite vers D
    *([Dwitbal so joongji joomuk nopunde bandae jirugi](../Techniques/Dwitbal-So-Joongji-Joomuk-Nopunde-Bandae-Jirugi.md))*
-3. Déplacer le pied gauche sur ligne CD pour former une position sur la jambe arrière gauche vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
+3. Déplacer le pied gauche sur ligne CD pour former une position arrière rapprochée sur la jambe gauche vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
-4. Exécuter un coup de poing haut vers C avec le poing à phalange médiane droit tout en maintenant une position sur la jambe arrière gauche vers C
+4. Exécuter un coup de poing haut vers C avec le poing à phalange médiane droit tout en maintenant une position arrière rapprochée sur la jambe gauche vers C
    *([Dwitbal so joongji joomuk nopunde bandae jirugi](../Techniques/Dwitbal-So-Joongji-Joomuk-Nopunde-Bandae-Jirugi.md))*
 5. Déplacer le pied droit sur ligne CD pour former une position de marche gauche vers D tout en exécutant un blocage montant avec le tranchant de la main gauche.
    *([Gunnun so sonkal chookyo makgi](../makgi/chookyo-makgi.md))*

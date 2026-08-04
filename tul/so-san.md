@@ -19,11 +19,11 @@
 
 ### Posture de départ : position de préparation fermée A
 
-1. Glisser vers C pour former une position sur la jambe arrière droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
+1. Glisser vers C pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 2. Exécuter un coup de poing vertical moyen vers D avec le poing droit tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *(Gunnun so kaunde bandae sewo jirugi)*
-3. Glisser vers C pour former une position sur la jambe arrière gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
+3. Glisser vers C pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 4. Exécuter un coup de poing vertical moyen vers D avec le poing gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
    *(Gunnun so kaunde bandae sewo jirugi)*

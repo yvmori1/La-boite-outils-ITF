@@ -29,7 +29,7 @@
 
    > *Exécuter en mouvement lent.*
 
-3. Déplacer le pied gauche vers D, pour former une position sur la jambe arrière droite vers D tout en exécutant un blocage intérieur moyen vers D avec l'avant-bras extérieur gauche.
+3. Déplacer le pied gauche vers D, pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage intérieur moyen vers D avec l'avant-bras extérieur gauche.
    *([Dwitbal so bakat palmok kaunde anuro bandae makgi](../Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md))*
 4. Exécuter un blocage intérieur bas vers D avec la paume droite tout en formant une position de marche gauche vers D, en glissant le pied droit, et en amenant le côté du poing gauche devant l'épaule droite.
    *([Gunnun so sonbadak najunde anuro bandae makgi](../makgi/bandae-makgi.md))*
@@ -85,9 +85,9 @@
 
    > *Exécuter 20 et 21 en mouvement rapide.*
 
-22. Déplacer le pied gauche vers D, pour former une position sur la jambe arrière droite vers D tout en exécutant un blocage montant avec le dos du poignet gauche.
+22. Déplacer le pied gauche vers D, pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage montant avec le dos du poignet gauche.
    *([Dwitbal so sonmok dung bandae ollyo makgi](../Techniques/Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.md))*
-23. Déplacer le pied droit vers D pour former une position sur la jambe arrière gauche vers D tout en exécutant un blocage montant avec le dos du poignet droit.
+23. Déplacer le pied droit vers D pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant un blocage montant avec le dos du poignet droit.
    *([Dwitbal so sonmok dung bandae ollyo makgi](../Techniques/Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.md))*
 24. Déplacer le pied gauche vers C, pour former une position de marche gauche vers C tout en exécutant un blocage en pression avec la paume gauche.
    *([Gunnun so sonbadak baro noollo makgi](../Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md))*
