@@ -1,6 +1,6 @@
 # Coup de pied arrière tranchant
 
-> 🔊 **Prononciation :** [뒤차 지르기](../audio/chagi/dwit-dha-jirugi.m4a)
+> 🔊 **Prononciation :** [뒤차 지르기](../audio/chagi/dwit-cha-jirugi.m4a)
 
 Le **Dwit Cha Jirugi** (뒤차 지르기) est une technique d'attaque arrière rectiligne, ultra-puissante et transperçante du Taekwon-Do (ITF).
 
