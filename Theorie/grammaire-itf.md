@@ -117,7 +117,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.1 POSITION D'ATTENTE (Junbi Sogi)
 
 * **Nomenclature coréenne :** *Junbi Sogi / [준비 서기](../audio/grammaire/Junbi-Sogi.m4a)*.
-* **Largeur :** **Une largeur d'épaule (47 cm)** mesurée de l'extérieur des deux pieds.
+* **Largeur :** **Une largeur d'épaule** mesurée de l'extérieur des deux pieds.
 * **Orientation :** Les pieds sont strictement parallèles, les orteils pointant vers l'avant (0°).
 * **Poids :** Réparti à 50% sur le pied gauche, 50% sur le pied droit.
 * **Usage :** Posture neutre de concentration permettant de se recentrer avant d'entamer les exercices fondamentaux et les formes.
@@ -172,7 +172,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.6 POSITION PARALLÈLE (Narani Sogi)
 
 * **Nomenclature coréenne :** *Narani Sogi / [나란히 서기](../audio/grammaire/Narani-Sogi.m4a)*.
-* **Largeur :** Les pieds sont écartés d'**une largeur d'épaule (47 cm)** entre les gros orteils.
+* **Largeur :** Les pieds sont écartés d'**une largeur d'épaule** entre les gros orteils.
 * **Orientation :** Les pieds sont strictement parallèles, les orteils pointant droit devant (0°).
 * **Poids :** Réparti à 50% sur le pied gauche, 50% sur le pied droit.
 * **Schéma d'alignement :**
@@ -194,7 +194,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.8 POSITION ASSISE (Annun Sogi)
 
 * **Nomenclature coréenne :** *Annun Sogi / [앉은 서기](../audio/grammaire/Annun-Sogi.m4a)*.
-* **Largeur :** **Une largeur et demie d'épaule (70,5 cm)** mesurée de centre à centre de chaque pied.
+* **Largeur :** **Une largeur et demie d'épaule** mesurée de centre à centre de chaque pied.
 * **Orientation :** Les pieds sont strictement parallèles, les orteils pointant vers l'avant (0°).
 * **Genoux :** Forcer puissamment les genoux vers l'extérieur.
 * **Poids et Posture :** Poids réparti à 50% sur chaque jambe, abdomen contracté et tendu pour assurer une stabilité maximale lors des mouvements latéraux.
@@ -205,8 +205,8 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.9 POSITION DE MARCHE (Gunnun Sogi)
 
 * **Nomenclature coréenne :** *Gunnun Sogi / [걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)*.
-* **Longueur :** **Une largeur et demie d'épaule (70,5 cm)** mesurée entre les gros orteils du pied avant et du pied arrière.
-* **Largeur :** **Une largeur d'épaule (47 cm)** mesurée de centre à centre de chaque pied.
+* **Longueur :** **Une largeur et demie d'épaule** mesurée entre les gros orteils du pied avant et du pied arrière.
+* **Largeur :** **Une largeur d'épaule** mesurée de centre à centre de chaque pied.
 * **Orientation :**
   * Pied avant : Pointe strictement vers l'avant (0°).
   * Pied arrière : Ouvert à un angle précis de **25 degrés vers l'extérieur**. *Un angle supérieur à 25° affaiblit l'articulation du genou face à une attaque par l'arrière.*
@@ -222,7 +222,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.10 POSITION EN « L » (Niunja Sogi)
 
 * **Nomenclature coréenne :** *Niunja Sogi / [ㄴ자 서기](../audio/grammaire/Niunja-Sogi.m4a)*.
-* **Longueur :** **Une largeur et demie d'épaule (70,5 cm)** mesurée entre le gros orteil du pied avant et le petit orteil du pied arrière.
+* **Longueur :** **Une largeur et demie d'épaule** mesurée entre le gros orteil du pied avant et le petit orteil du pied arrière.
 * **Alignement et décalage :** Les pieds forment presque un angle droit (90°). Les orteils de chaque pied pointent à environ **15 degrés vers l'intérieur**. Le talon du pied avant est décalé et placé à environ **2,5 cm en avant** de la ligne du talon du pied arrière pour assurer la stabilité latérale.
 * **Poids :** Réparti à **70% sur la jambe arrière** et **30% sur la jambe avant**.
 * **Flexion :**
@@ -237,7 +237,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 
 * **Nomenclature coréenne :** *Gojung Sogi / [고정 서기](../audio/grammaire/Gojung-Sogi.m4a)*.
 * **Structure :** Identique à la position en L (*Niunja Sogi*), à l'exception de la répartition du poids et de la longueur.
-* **Longueur :** **Une largeur et demie d'épaule (70,5 cm)** mesurée du gros orteil du pied avant au gros orteil du pied arrière.
+* **Longueur :** **Une largeur et demie d'épaule** mesurée du gros orteil du pied avant au gros orteil du pied arrière.
 * **Poids :** Réparti équitablement à **50% sur chaque jambe**.
 * **Usage :** Position extrêmement forte et stable pour les attaques et défenses de côté en puissance.
 * **Schéma d'alignement :**
@@ -275,7 +275,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.15 POSITION ARRIÈRE RAPPROCHÉE (Dwitbal Sogi)
 
 * **Nomenclature coréenne :** *Dwitbal Sogi / [뒷발 서기](../audio/grammaire/Dwitbal-Sogi.m4a)*.
-* **Longueur :** Écartement très court d'**une largeur d'épaule (47 cm)** mesurée entre les deux petits orteils.
+* **Longueur :** Écartement très court d'**une largeur d'épaule** mesurée entre les deux petits orteils.
 * **Alignement :** Les genoux sont fléchis. Le talon du pied arrière est positionné en ligne droite verticale directement derrière le talon du pied avant.
 * **Orientation :**
   * Pied arrière : À plat au sol. Les orteils pointent vers l'intérieur à **35 degrés**, et le genou arrière doit impérativement **pointer légèrement vers l'intérieur**.
@@ -288,7 +288,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.16 POSITION BASSE (Nachuo Sogi)
 
 * **Nomenclature coréenne :** *Nachuo Sogi / [낮추어 서기](../audio/grammaire/Nachuo-Sogi.m4a)*.
-* **Structure :** Identique à la position de marche (*Gunnun Sogi*), à la seule différence qu'elle est **plus longue d'une longueur de pied standard (25 cm)**.
+* **Structure :** Identique à la position de marche (*Gunnun Sogi*), à la seule différence qu'elle est **plus longue d'une longueur de pied**.
 * **Poids :** Réparti à 50% sur la jambe avant, 50% sur la jambe arrière.
 * **Usage :** Allonger la portée des armes corporelles d'attaque et renforcer la musculature des cuisses.
 * **Schéma d'alignement :**
@@ -307,7 +307,7 @@ Pour assurer une parfaite répétabilité géométrique, les mesures s'appuient 
 #### 3.18 POSITION VERTICALE (Soojik Sogi)
 
 * **Nomenclature coréenne :** *Soojik Sogi / [수직 서기](../audio/grammaire/Soojik-Sogi.m4a)*.
-* **Longueur :** Écartement d'**une largeur d'épaule (47 cm)** mesurée entre les deux gros orteils.
+* **Longueur :** Écartement d'**une largeur d'épaule** mesurée entre les deux gros orteils.
 * **Orientation :** Les deux pieds sont orientés à un angle précis de **15 degrés vers l'intérieur**.
 * **Jambes :** Les deux jambes sont maintenues **parfaitement droites et tendues** (sans aucune flexion des genoux).
 * **Poids :** Réparti à **60% sur la jambe arrière** et **40% sur la jambe avant**.
