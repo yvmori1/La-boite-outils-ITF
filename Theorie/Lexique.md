@@ -95,8 +95,8 @@
 | Terme français                  | Terme anglais                   | Terme coréen         | Hangul |
 | ------------------------------- | ------------------------------- | -------------------- | :--- |
 | Position "à l'attention"        | attention stance                | Charyot              | [차렷](../audio/lexique/Charyot.m4a) |
-| Position fléchie                | bending stance                  | Goobooryo sogi       | [구부려 서기](../audio/lexique/Goobooryo-sogi.m4a) |
-| Position d'attente fléchie      | bending ready stance            | Goobooryo junbi sogi | [구부려 준비 서기](../audio/lexique/Goobooryo-junbi-sogi.m4a) |
+| Position fléchie                | bending stance                  | Guburyo sogi       | [구부려 서기](../audio/lexique/Guburyo-sogi.m4a) |
+| Position d'attente fléchie      | bending ready stance            | Guburyo junbi sogi | [구부려 준비 서기](../audio/lexique/Guburyo-junbi-sogi.m4a) |
 | Position de salut               | bow posture                     | Kyong ye jase        | [경례 자세](../audio/lexique/Kyong-ye-jase.m4a) |
 | Position pieds joints           | close stance                    | Moa sogi             | [모아 서기](../audio/lexique/Moa-sogi.m4a) |
 | Position d'attente-pieds joints | close ready stance              | Moa junbi sogi       | [모아 준비 서기](../audio/lexique/Moa-junbi-sogi.m4a) |

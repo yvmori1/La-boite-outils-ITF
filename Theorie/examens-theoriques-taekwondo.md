@@ -272,7 +272,7 @@ Pour chaque niveau, un barème de correction ainsi qu'un corrigé détaillé (pl
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :**
-  * a) Position fléchie = **Goobooryo Sogi**
+  * a) Position fléchie = **Guburyo Sogi**
   * b) Coup de pied avant sauté = **Twimyo Ap Chagi**
   * c) Blocage en coin haut = **Hechyo Makgi** (High Wedging Block)
   * d) Pique de main directe = **Sun Sonkut Tulgi** (Straight fingertip thrust)

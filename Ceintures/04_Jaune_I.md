@@ -38,7 +38,7 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 
 ## Lexique Technique Spécifique
 
-* Position fléchie (Bending stance / Goobooryo sogi)
+* Position fléchie (Bending stance / Guburyo sogi)
 * Coup de pied crocheté arrière (Reverse hooking kick / Bandae dollyo goro chagi)
 * Coup de pied avant sauté (Flying front kick / Twimyo ap chagi)
 * Blocage en coin haut (High wedging block / Hechyo makgi)
@@ -93,7 +93,7 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :**
-  * a) Position fléchie = **Goobooryo Sogi**
+  * a) Position fléchie = **Guburyo Sogi**
   * b) Coup de pied avant sauté = **Twimyo Ap Chagi**
   * c) Blocage en coin haut = **Hechyo Makgi** (High Wedging Block)
   * d) Pique de main directe = **Sun Sonkut Tulgi** (Straight fingertip thrust)

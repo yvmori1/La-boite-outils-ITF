@@ -73,9 +73,9 @@ LEXIQUE_HANGUL = {
     "annun sogi": "앉은 서기", "kyocha sogi": "교차 서기",
     "sasun sogi": "사선 서기", "gojung sogi": "고정 서기",
     "nachuo sogi": "낮추어 서기", "soo jik sogi": "수직 서기",
-    "waebal sogi": "왜발 서기", "dwitbal sogi": "뒷발 서기",
-    "goobooryo sogi": "구부려 서기",
-    "goobooryo junbi sogi": "구부려 준비 서기",
+    "waebal sogi": "외발 서기", "dwitbal sogi": "뒷발 서기",
+    "guburyo sogi": "구부려 서기",
+    "guburyo junbi sogi": "구부려 준비 서기",
     "palja sogi": "팔자 서기",
     # commandements et vocabulaire de salle
     "charyot": "차렷", "swiyo": "쉬어", "dojang": "도장", "tul": "틀",
@@ -298,6 +298,120 @@ def traiter_lexique(args):
     return compte, introuvables, ecarts
 
 
+# ------------------------------------------------------- documents libres
+
+# toute suite de hangul du document (les lignes déjà liées sont ignorées)
+SUITE_HANGUL = re.compile(r"[가-힣][가-힣\s]*")
+
+
+def romanisation_precedente(ligne, position):
+    """Dernier terme romanisé en gras ou italique avant la position donnée."""
+    avant = ligne[:position]
+    # d'abord la romanisation qui précède immédiatement le hangul, car elle
+    # le désigne ; le terme en gras peut être la traduction française
+    m = re.search(r"([A-Za-z][A-Za-z'’ \-]{2,40}?)\s*[/(]\s*$", avant)
+    if m:
+        return m.group(1).strip()
+    dernier = None
+    for dernier in re.finditer(r"\*{1,2}([A-Za-z][A-Za-z'’ \-]{1,40}?)\s*[\*(/]",
+                               avant):
+        pass
+    return dernier.group(1).strip() if dernier else None
+
+
+def index_par_hangul():
+    """{hangul: chemin audio} d'après tous les liens déjà posés dans le dépôt.
+
+    Le critère de réemploi est le hangul lui-même : deux textes identiques
+    doivent renvoyer au même enregistrement, quelle que soit leur origine.
+    """
+    index = {}
+    for md in RACINE.rglob("*.md"):
+        if ".git" in str(md):
+            continue
+        for han, audio in re.findall(
+                r"\[([가-힣ㄱ-ㅎ][가-힣ㄱ-ㅎ\s]*)\]\(\.\./audio/([^)]+)\)",
+                md.read_text(encoding="utf-8", errors="ignore")):
+            index.setdefault(han.strip(), audio)
+    for dossier in DOSSIERS:
+        for fiche in sorted((RACINE / dossier).glob("*.md")):
+            if fiche.name in HORS_TRAITEMENT:
+                continue
+            texte = texte_coreen(fiche)
+            if texte:
+                index.setdefault(texte, f"{dossier}/{fiche.stem}.m4a")
+    return index
+
+
+def lier_document(chemin, sous_dossier, args):
+    """Transforme chaque hangul du document en lien vers sa prononciation."""
+    contenu = chemin.read_text(encoding="utf-8")
+    index = index_par_hangul()
+    compte = collections.Counter()
+    sortie = []
+
+    for ligne in contenu.splitlines():
+        if "](" in ligne and "audio/" in ligne:      # ligne déjà traitée
+            compte["deja"] += 1
+            sortie.append(ligne)
+            continue
+
+        def remplacer(m):
+            texte = m.group(0).strip()
+            if not texte:
+                return m.group(0)
+            terme = romanisation_precedente(ligne, m.start()) or ""
+            if texte in index:
+                audio = index[texte]                 # même hangul : réemploi
+                compte["reemploi"] += 1
+            else:
+                base = re.sub(r"[^A-Za-z0-9]+", "-", terme).strip("-") \
+                    if terme else hangul.strip()
+                audio = f"{sous_dossier}/{base}.m4a"
+                compte["propre"] += 1
+            cible = AUDIO / audio
+            if not cible.exists():
+                if args.write:
+                    cible.parent.mkdir(parents=True, exist_ok=True)
+                    produire_audio(texte, cible, args.voix, args.debit)
+                compte["audio"] += 1
+            # l'espace final éventuel est rendu au texte, pas au lien
+            espace = m.group(0)[len(m.group(0).rstrip()):]
+            return f"[{texte}](../audio/{audio}){espace}"
+
+        ligne = SUITE_HANGUL.sub(remplacer, ligne)
+        sortie.append(ligne)
+
+    if args.write:
+        chemin.write_text("\n".join(sortie) + "\n", encoding="utf-8")
+    return compte
+
+
+def reparer(args):
+    """Reproduit l'audio de tout lien dont le fichier a disparu.
+
+    Sert après correction d'un libellé : on supprime l'audio devenu faux,
+    puis cette passe le régénère à partir du texte corrigé.
+    """
+    compte = collections.Counter()
+    for md in sorted(RACINE.rglob("*.md")):
+        if ".git" in str(md):
+            continue
+        for label, rel in re.findall(
+                r"\[([가-힣ㄱ-ㅎ][^\]]*)\]\(\.\./audio/([^)]+)\)",
+                md.read_text(encoding="utf-8", errors="ignore")):
+            cible = AUDIO / rel
+            compte["liens"] += 1
+            if cible.exists():
+                continue
+            compte["manquants"] += 1
+            if args.write:
+                cible.parent.mkdir(parents=True, exist_ok=True)
+                produire_audio(label.strip(), cible, args.voix, args.debit)
+                compte["produits"] += 1
+    return compte
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     p.add_argument("--write", action="store_true",
@@ -311,6 +425,10 @@ def main():
                    help=f"mots par minute (défaut : {DEBIT})")
     p.add_argument("--lexique", action="store_true",
                    help="traite aussi Theorie/Lexique.md")
+    p.add_argument("--grammaire", action="store_true",
+                   help="lie les hangul de Theorie/grammaire-itf.md")
+    p.add_argument("--reparer", action="store_true",
+                   help="reproduit l'audio des liens dont le fichier manque")
     args = p.parse_args()
 
     if args.write:
@@ -369,6 +487,23 @@ def main():
         print(f"\nfiches sans hangul ({len(sans_hangul)}) :")
         for nom in sans_hangul:
             print(f"  {nom}")
+
+    if args.reparer:
+        c = reparer(args)
+        print(f"liens audio vérifiés  : {c['liens']}")
+        print(f"  fichiers manquants  : {c['manquants']}")
+        print(f"  reproduits          : {c['produits']}")
+        return
+
+    if args.grammaire:
+        c = lier_document(RACINE / "Theorie" / "grammaire-itf.md",
+                          "grammaire", args)
+        print("\ngrammaire-itf.md")
+        print(f"  hangul liés               : {c['reemploi'] + c['propre']}")
+        print(f"    réemploi d'un audio     : {c['reemploi']}")
+        print(f"    audio propre            : {c['propre']}")
+        print(f"  audio à produire          : {c['audio']}")
+        print(f"  lignes déjà traitées      : {c['deja']}")
 
     if args.lexique:
         compte, introuvables, ecarts = traiter_lexique(args)
