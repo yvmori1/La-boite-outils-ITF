@@ -32,7 +32,7 @@ Sa décomposition linguistique est la suivante :
 
 1. **Croisement des bras :** Le bras qui va bloquer passe **sous** le bras de réaction (ou croise à l'intérieur devant le thorax), le poing fermé, paume tournée vers le corps ou vers le bas.
 2. **Main de réaction (*Bandae Son*) :** Le bras opposé est étendu devant soi sur la ligne centrale pour guider l'armement.
-3. **Phase haute de l'onde de choc (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes pendant la prise d'élan.
+3. **Phase haute de le mouvement de vague (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes pendant la prise d'élan.
 
 ### Étape 2 : Le Déploiement et la *Sine Wave*
 

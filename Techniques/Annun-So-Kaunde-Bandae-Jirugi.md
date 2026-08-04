@@ -41,7 +41,7 @@ Dans une posture symétrique comme la posture du cavalier (*Annun Sogi*), où le
 
 1. **Position d'amorce :** Le poing d'attaque (opposé au pied qui s'est déplacé) s'arme à la hanche (*Heori*), paume tournée vers le haut.
 2. **Main de réaction (*Bandae Son*) :** Le bras du pied de déplacement est étendu vers l'avant sur la ligne centrale.
-3. **Phase haute de l'onde de choc (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes pendant la prise de posture.
+3. **Phase haute de le mouvement de vague (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes pendant la prise de posture.
 
 ### Étape 2 : La Poussée Axiale et la *Sine Wave*
 

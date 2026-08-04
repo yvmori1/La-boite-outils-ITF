@@ -106,13 +106,13 @@
 38. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position sur la jambe arrière gauche vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur droit.
    *([Dwitbal so an palmok bandae hori makgi](../Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md))*
 39. Déplacer le pied droit vers C légèrement puis le pied gauche vers D en un en écrasant mouvement pour former une position en L droite vers D tout en exécutant une frappe extérieure haute vers D avec le tranchant de la main gauche.
-   *(Niunja so sonkal nopunde bakuro taerigi)*
+   *([Niunja so sonkal nopunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md))*
 40. Décaler vers C en maintenant une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 41. Déplacer le pied droit vers D en tournant dans le sens horaire pour former une position sur la jambe arrière droite vers C tout en exécutant un blocage à la taille vers C avec l'avant-bras intérieur gauche.
    *([Dwitbal so an palmok bandae hori makgi](../Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md))*
 42. Déplacer le pied gauche vers C légèrement puis le pied droit vers D en un en écrasant mouvement pour former une position en L gauche vers D tout en exécutant une frappe extérieure haute vers D avec le tranchant de la main droite.
-   *(Niunja so sonkal nopunde bakuro taerigi)*
+   *([Niunja so sonkal nopunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md))*
 43. Déplacer le pied droit vers C en tournant dans le sens anti-horaire pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 44. Sauter vers exécuter un coup de pied en vol vers D avec le pied droit tout en pivotant dans le sens horaire puis atterrir vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.

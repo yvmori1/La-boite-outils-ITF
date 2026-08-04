@@ -31,7 +31,7 @@ Sa décomposition linguistique est la suivante :
 1. **Regroupement d'élan :**
    * Le bras droit (pressant) s'arme au-dessus du niveau du sternum, poing fermé paume vers le bas/corps.
    * Le bras gauche (blocage latéral-avant) vient croiser sous le bras droit près du flanc droit.
-2. **Phase haute de l'onde de choc (*Sine Wave*) :** Élever légèrement le centre de gravité sur les jambes.
+2. **Phase haute de le mouvement de vague (*Sine Wave*) :** Élever légèrement le centre de gravité sur les jambes.
 
 ### Étape 2 : Le Déploiement Simultané et la *Sine Wave*
 

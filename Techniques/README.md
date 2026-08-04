@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**190 fiches** au total.
+**194 fiches** au total.
 
 ---
 
@@ -42,6 +42,8 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 
 ## 2. Position en « L » (*Niunja So*)
 
+La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
+
 | Fiche | Technique |
 | :--- | :--- |
 | [Niunja-So-An-Palmok-Kaunde-Makgi.md](Niunja-So-An-Palmok-Kaunde-Makgi.md) | Blocage moyen avec le tranchant interne de l'avant-bras |
@@ -57,6 +59,9 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | [Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au tranchant des mains gauche |
 | [Orun-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Orun-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Orun Niunja So Sonkal Kaunde Daebi Makgi |
 | [Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md](Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md) | Coup cinglant haut au tranchant de la main vers l'intérieur |
+| [Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md) | Niunja So Sonkal Nopunde Bakuro Taerigi |
+| [Niunja-So-Sonkal-Nopunde-Daebi-Makgi.md](Niunja-So-Sonkal-Nopunde-Daebi-Makgi.md) | Niunja So Sonkal Nopunde Daebi Makgi |
+| [Niunja-So-Sun-Palkup-Naeryo-Tulgi.md](Niunja-So-Sun-Palkup-Naeryo-Tulgi.md) | Niunja So Sun Palkup Naeryo Tulgi |
 | [Niunja-So-Yop-Palkup-Tulgi.md](Niunja-So-Yop-Palkup-Tulgi.md) | Coup de coude perçant latéral |
 
 ---
@@ -325,6 +330,7 @@ Les positions d'appui et de préparation, décrites pour elles-mêmes.
 | [Guburyo-Junbi-Sogi-B.md](Guburyo-Junbi-Sogi-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
 | [Gunnun-Junbi-Sogi.md](Gunnun-Junbi-Sogi.md) | Posture préparatoire en marche |
 | [Moa-Junbi-Sogi-B.md](Moa-Junbi-Sogi-B.md) | Moa Junbi Sogi B |
+| [Niunja-Sogi.md](Niunja-Sogi.md) | Niunja Sogi |
 | [Waebal-Sogi.md](Waebal-Sogi.md) | Posture sur une seule jambe |
 
 ---

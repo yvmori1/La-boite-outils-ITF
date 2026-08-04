@@ -29,8 +29,8 @@
 12. Tourner le visage vers C tout en formant une position de préparation avec flexion droite B vers D ([Guburyo Junbi So B](../Techniques/Guburyo-Junbi-So-B.md)).
 13. Exécuter un coup de pied arrière percutant moyen vers C avec le pied gauche ([Kaunde Dwitcha Jirugi](../chagi/dwit-cha-jirugi.md)).
 14. Poser le pied gauche au sol vers C pour former une position en L gauche vers D tout en exécutant un blocage moyen vers D avec le tranchant de la main droite ([Niunja So Sonkal Kaunde Makgi](../makgi/kaunde-makgi.md)).
-15. Déplacer le pied droit vers C pour former une position en L droite vers D tout en exécutant une poussée vers le bas vers D avec le coude gauche rectiligne (Niunja So Sun Palkup Naeryo Tulgi).
-16. Déplacer le pied gauche vers C pour former une position en L gauche vers D tout en exécutant une poussée vers le bas vers D avec le coude droit rectiligne (Niunja So Sun Palkup Naeryo Tulgi).
+15. Déplacer le pied droit vers C pour former une position en L droite vers D tout en exécutant une poussée vers le bas vers D avec le coude gauche rectiligne ([Niunja So Sun Palkup Naeryo Tulgi](../Techniques/Niunja-So-Sun-Palkup-Naeryo-Tulgi.md)).
+16. Déplacer le pied gauche vers C pour former une position en L gauche vers D tout en exécutant une poussée vers le bas vers D avec le coude droit rectiligne ([Niunja So Sun Palkup Naeryo Tulgi](../Techniques/Niunja-So-Sun-Palkup-Naeryo-Tulgi.md)).
 17. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage pressant vers D avec la paume droite (Gunnun So Sonbadak Noollo Makgi).
 18. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un blocage pressant vers D avec la paume gauche (Gunnun So Sonbadak Noollo Makgi).
 19. Déplacer le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage vers le bas vers D with l'avant-bras extérieur gauche ([Niunja So Bakat Palmok Naeryo Makgi](../makgi/naeryo-makgi.md)).

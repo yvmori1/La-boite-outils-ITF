@@ -33,7 +33,7 @@ Sa décomposition linguistique est la suivante :
 
 1. **Position d'amorce du coude droit :** Le bras droit s'ouvre légèrement vers la droite, le coude fléchi et le poing droit ramené près de la poitrine (paume tournée vers le sol).
 2. **Placement de la paume gauche :** La main gauche s'ouvre (*Sonbadak*) et vient se placer devant le sternum pour servir de cale de soutien et de cible de frappe.
-3. **Phase haute de l'onde de choc (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes.
+3. **Phase haute de le mouvement de vague (*Sine Wave*) :** Le corps s'élève légèrement sur les jambes.
 
 ### Étape 2 : La Trajectoire Circulaire et la *Sine Wave*
 
