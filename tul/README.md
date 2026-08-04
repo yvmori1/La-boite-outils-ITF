@@ -2,7 +2,7 @@
 
 Les **Tul** sont les formes codifiées du Taekwon-Do ITF : une séquence imposée de mouvements contre des adversaires imaginaires, exécutée selon un diagramme au sol précis. Vingt-quatre Tul officiels composent le système du général Choi Hong Hi — un par heure de la journée, symbolisant une vie entière —, auxquels s'ajoutent les exercices fondamentaux *Saju* et la forme *Ko-Dang*.
 
-Ce répertoire contient **une fiche par forme** : signification du nom, nombre de mouvements, diagramme au sol, lien vidéo, posture de départ et **liste détaillée de tous les mouvements** un par un.
+Ce répertoire contient **une fiche par forme** : signification du nom, nombre de mouvements, diagramme au sol, lien vidéo, origine et contexte historique, posture de départ et **liste détaillée de tous les mouvements** un par un. Les mouvements sautés portent en note la **distance à parcourir**, et les techniques renvoient à leur fiche.
 
 ## Manuel Technique (Du 10e Gup au 6e Dan)
 
@@ -98,9 +98,9 @@ Non officiels, mais préalables à Chon-Ji. Diagramme en croix, quatre direction
 
 ## Voir aussi
 
-* [../Theorie/encyclopedie-historique-tuls.md](../Theorie/encyclopedie-historique-tuls.md) — histoire et contexte socio-politique détaillés de chaque forme.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#partie-vi--les-formes-tul) — partie VI du manuel : genèse des formes, directives d'exécution et notice de chacune.
 * [../Theorie/Analyse_Statistique.md](../Theorie/Analyse_Statistique.md) — analyse statistique du contenu technique des formes.
-* [../Theorie/Distance des sauts dans les formes.md](../Theorie/Distance%20des%20sauts%20dans%20les%20formes.md) — sauts réglementaires.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#annexe-b--distances-de-saut-dans-les-formes) — annexe B du manuel : toutes les distances de saut réunies en un tableau.
 * [../chagi/Dans-les-formes.md](../chagi/Dans-les-formes.md) — répartition des coups de pied par forme.
 * [../images/README.md](../images/README.md) — diagrammes au sol de chaque forme.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque forme est exigée.

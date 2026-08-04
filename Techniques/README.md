@@ -337,7 +337,7 @@ Les positions d'appui et de préparation, décrites pour elles-mêmes.
 
 ## Voir aussi
 
-* [../Theorie/positions.md](../Theorie/positions.md) — description détaillée de toutes les positions (*Sogi*).
-* [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — règles complètes de nomenclature.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#partie-iv--les-positions-sogi) — partie IV du manuel : les 21 positions (*Sogi*), cotées et schématisées.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) — partie III du manuel : les règles complètes de nomenclature.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.
 * [../mvt.txt](../mvt.txt) — tous les mouvements des formes sous leur nom coréen.

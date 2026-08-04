@@ -103,6 +103,6 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 
 ## Voir aussi
 
-* [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — règles de construction des noms de techniques.
-* [../Theorie/Distance des sauts dans les formes.md](../Theorie/Distance%20des%20sauts%20dans%20les%20formes.md) — pour les techniques sautées.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) — partie III du manuel : les règles de construction des noms de techniques.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#annexe-b--distances-de-saut-dans-les-formes) — annexe B du manuel : les distances de saut, reprises aussi dans chaque fiche de forme.
 * [../tul/README.md](../tul/README.md) — les coups de pied en contexte, dans les formes.

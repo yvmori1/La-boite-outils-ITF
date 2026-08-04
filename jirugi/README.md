@@ -60,6 +60,6 @@ Trois natures d'action se distinguent dans les noms :
 
 ## Voir aussi
 
-* [../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — construction des noms et distinction *Jirugi* / *Taerigi* / *Tulgi*.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) — partie III du manuel : construction des noms et distinction *Jirugi* / *Taerigi* / *Tulgi*.
 * [../Techniques/README.md](../Techniques/README.md) — frappes combinées à une position.
-* [../Theorie/Lexique.md](../Theorie/Lexique.md) — vocabulaire coréen.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) — annexe A du manuel : le vocabulaire coréen.

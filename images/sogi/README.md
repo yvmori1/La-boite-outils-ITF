@@ -1,7 +1,7 @@
 # Schémas des positions (*Sogi*)
 
-Position des pieds au sol, vue de dessus, pour les 21 positions décrites dans
-[../../Theorie/grammaire-itf.md](../../Theorie/grammaire-itf.md).
+Position des pieds au sol, vue de dessus, pour les 21 positions décrites à la
+partie IV du [manuel](../../Theorie/manuel-taekwon-do.md#partie-iv--les-positions-sogi).
 
 Ces images sont **générées**, jamais retouchées à la main :
 

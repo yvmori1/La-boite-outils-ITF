@@ -100,8 +100,8 @@ python3 scripts/generer-sogi.py --write                # écrit images/sogi/*.pn
 python3 scripts/generer-sogi.py --write --only niunja-sogi
 ```
 
-Dessine, vue de dessus, la position des pieds des 21 positions de
-[../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md) — *Palja Sogi* donnant
+Dessine, vue de dessus, la position des pieds des 21 positions de la
+[partie IV du manuel](../Theorie/manuel-taekwon-do.md#partie-iv--les-positions-sogi) — *Palja Sogi* donnant
 deux schémas, intérieur et extérieur. Voir [../images/sogi/](../images/sogi/README.md).
 
 Chaque pied est posé par un repère nommé — talon, talon interne, gros orteil,
@@ -123,26 +123,13 @@ elle pose ses pieds, puis ses cotes (`cote_v`, `cote_h`, `angle`, `note`,
 Ce script n'est pas enchaîné par `maintenir.py` : les images ne changent que
 lorsqu'une mesure change.
 
-### generer-manuel.py
+### generer-manuel.py — hors service
 
-```sh
-python3 scripts/generer-manuel.py           # résumé, n'écrit rien
-python3 scripts/generer-manuel.py --write   # écrit Theorie/manuel-taekwon-do.md
-```
+Ce script assemblait [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md) à partir de quatre fiches de théorie —
+`Genes.md`, `grammaire-itf.md`, `mouvement_de_vagues.md` et `Lexique.md`. Ces
+quatre fiches ayant été fusionnées dans le manuel puis supprimées, **il ne peut
+plus s'exécuter** : le manuel est désormais entretenu directement.
 
-Réunit [../Theorie/Genes.md](../Theorie/Genes.md),
-[../Theorie/grammaire-itf.md](../Theorie/grammaire-itf.md),
-[../Theorie/mouvement_de_vagues.md](../Theorie/mouvement_de_vagues.md) et
-[../Theorie/Lexique.md](../Theorie/Lexique.md) en un seul manuel ordonné pour
-l'apprentissage. Le texte n'est pas recopié : il est **extrait des sources à
-chaque exécution**, donc corriger une fiche suffit — le manuel suit.
-
-Seuls les passages qui existaient en double sont réécrits, dans le dictionnaire
-`FUSIONS` en tête du fichier, chacun avec la raison de la fusion : le crédo, les
-principes de position, les modificateurs de nomenclature et les verbes d'action.
-Les autres doublons sont résolus en ne retenant que la version la plus riche —
-l'en-tête du script en tient la liste.
-
-Ajouter un chapitre tient en une ligne dans `manuel()` : un titre, puis
-`extrait(source, "titre de la section")`. Le script s'arrête net si une section
-citée n'existe plus, ce qui signale tout de suite un titre renommé à la source.
+Le fichier est conservé pour mémoire de la façon dont le manuel a été composé —
+l'ordre des parties, et le dictionnaire `FUSIONS` qui note, passage par passage,
+pourquoi deux versions d'un même contenu ont été refondues en une.
