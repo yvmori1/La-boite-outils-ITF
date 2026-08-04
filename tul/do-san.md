@@ -29,7 +29,7 @@
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 4. Exécuter un coup de poing moyen vers A avec le poing gauche tout en maintenant une position de marche droite vers A.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-5. Déplacer le pied gauche vers D, pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
+5. Déplacer le pied gauche vers D, pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 6. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec la pique de doigts droite droit.
    *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Sun-Sonkut-Kaunde-Tulgi.md))*
@@ -45,9 +45,9 @@
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 12. Exécuter un coup de poing moyen vers F avec le poing gauche tout en maintenant une position de marche droite vers F.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-13. Déplacer le pied gauche vers CE pour former une position de marche gauche vers CE, en même temps en exécutant un blocage en écartement haut vers CE avec l'avant-bras extérieur.
+13. Déplacer le pied gauche vers CE pour former une position de marche gauche vers CE, tout en exécutant un blocage en écartement haut vers CE avec l'avant-bras extérieur.
    *([Gunnun so bakat palmok nopunde hechyo makgi](../makgi/hechyo-makgi.md))*
-14. Exécuter un coup de pied avant fouetté moyen vers CE avec le pied droit, en gardant le position de la mains comme s'ils étaient en 13.
+14. Exécuter un coup de pied avant fouetté moyen vers CE avec le pied droit, en gardant les mains dans la position du mouvement 13.
    *([Kaunde apcha busigi](../chagi/apcha-busigi.md))*
 15. Abaisser le pied droit vers CE pour former une position de marche droite vers CE tout en exécutant un coup de poing moyen vers CE avec le poing droit.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
@@ -58,7 +58,7 @@
 
 17. Déplacer le pied droit vers CF pour former une position de marche droite vers CF tout en exécutant un blocage en écartement haut vers CF avec l'avant-bras extérieur.
    *([Gunnun so bakat palmok nopunde hechyo makgi](../makgi/hechyo-makgi.md))*
-18. Exécuter un coup de pied avant fouetté moyen vers CF avec le pied gauche, en gardant le position de la mains comme s'ils étaient en 17.
+18. Exécuter un coup de pied avant fouetté moyen vers CF avec le pied gauche, en gardant les mains dans la position du mouvement 17.
    *([Kaunde apcha busigi](../chagi/apcha-busigi.md))*
 19. Abaisser le pied gauche vers CF pour former une position de marche gauche vers CF tout en exécutant un coup de poing moyen vers CF avec le poing gauche.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
@@ -67,7 +67,7 @@
 
    > *Exécuter 19 et 20 en mouvement rapide.*
 
-21. Déplacer le pied gauche vers C pour former une position de marche gauche vers C, en même temps en exécutant un blocage montant avec l'avant-bras gauche.
+21. Déplacer le pied gauche vers C pour former une position de marche gauche vers C, tout en exécutant un blocage montant avec l'avant-bras gauche.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
 22. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage montant avec l'avant-bras droit.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*

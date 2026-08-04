@@ -21,11 +21,11 @@
 
 ### Posture de départ : position parallèle de préparation
 
-1. Déplacer le pied gauche vers B pour former une position en L droite vers B, en même temps en exécutant un blocage de garde moyen vers B avec un tranchant de la main.
+1. Déplacer le pied gauche vers B pour former une position en L droite vers B, tout en exécutant un blocage de garde moyen vers B avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 2. Déplacer le pied droit vers B pour former une position de marche droite vers B tout en exécutant un coup de poing haut vers B avec le poing droit.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
-3. Déplacer le pied droit vers A en tournant dans le sens horaire pour former une position en L gauche vers A, en même temps en exécutant un blocage de garde moyen vers A avec un tranchant de la main.
+3. Déplacer le pied droit vers A en tournant dans le sens horaire pour former une position en L gauche vers A, tout en exécutant un blocage de garde moyen vers A avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 4. Déplacer le pied gauche vers A pour former une position de marche gauche vers A tout en exécutant un coup de poing haut vers A avec le poing gauche.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
@@ -52,11 +52,11 @@
 
    > *Exécuter 13 et 14 en mouvement continu.*
 
-15. Déplacer le pied droit vers C pour former une position de marche droite vers C, en même temps en exécutant un blocage montant avec l'avant-bras droit.
+15. Déplacer le pied droit vers C pour former une position de marche droite vers C, tout en exécutant un blocage montant avec l'avant-bras droit.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
-16. Déplacer le pied gauche vers C pour former une position de marche gauche vers C, en même temps en exécutant un blocage montant avec l'avant-bras gauche.
+16. Déplacer le pied gauche vers C pour former une position de marche gauche vers C, tout en exécutant un blocage montant avec l'avant-bras gauche.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
-17. Déplacer le pied droit vers C pour former une position de marche droite vers C, en même temps en exécutant un blocage montant avec l'avant-bras droit.
+17. Déplacer le pied droit vers C pour former une position de marche droite vers C, tout en exécutant un blocage montant avec l'avant-bras droit.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
 18. Déplacer le pied gauche vers B en tournant dans le sens anti-horaire pour former une position en L droite vers B tout en exécutant une frappe extérieure moyenne vers B avec le tranchant de la main gauche.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*

@@ -21,9 +21,9 @@
 
 ### Posture de départ : position parallèle de préparation
 
-1. Déplacer le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage d'arrêt vers D avec un tranchant des mains croisées.
+1. Déplacer le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage d'arrêt vers D avec les tranchants des mains croisées.
    *([Niunja so kyocha sonkal momchau makgi](../makgi/momchau-makgi.md))*
-2. Exécuter un coup de pied vrillé bas vers D avec le pied droit en gardant le position de la mains comme s'ils étaient en 1.
+2. Exécuter un coup de pied vrillé bas vers D avec le pied droit en gardant les mains dans la position du mouvement 1.
    *([Najunde bituro chagi](../chagi/bituro-chagi.md))*
 3. Abaisser le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
@@ -39,7 +39,7 @@
 
    > *Exécuter 5 et 6 en mouvement continu.*
 
-7. Exécuter un blocage haut vers AD avec un double arc main tout en regardant à travers il en maintenant une position de marche gauche vers D.
+7. Exécuter un double blocage haut des mains arquées vers AD tout en regardant à travers, en maintenant une position de marche gauche vers D.
    *([Gunnun so nopunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
 8. Tourner le visage vers D tout en formant un droit position de préparation pliée A vers D.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
@@ -52,13 +52,13 @@
 
 11. Exécuter une frappe frontale vers AC avec le revers du poing gauche tout en maintenant une position assise vers AC.
    *([Annun so wen dung joomuk ap taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.md))*
-12. Déplacer le pied droit sur ligne AB puis déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec un tranchant de la main.
+12. Déplacer le pied droit sur ligne AB puis déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
-13. Exécuter un coup de pied avant fouetté latéral bas vers C avec le pied gauche en gardant le position de la mains comme s'ils étaient en 12.
+13. Exécuter un coup de pied avant fouetté latéral bas vers C avec le pied gauche en gardant les mains dans la position du mouvement 12.
    *([Najunde yobap cha busigi](../Techniques/Najunde-Yobap-Cha-Busigi.md))*
-14. Abaisser le pied gauche vers C pour former une position basse gauche vers C tout en exécutant une pique haute vers C avec le gauche à plat bout des doigts.
+14. Abaisser le pied gauche vers C pour former une position basse gauche vers C tout en exécutant une pique haute vers C avec le bout des doigts gauche à plat.
    *([Nachuo so opun sonkut nopunde tulgi](../Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md))*
-15. Exécuter une pique haute vers C avec le droit à plat bout des doigts tout en maintenant une position basse gauche vers C.
+15. Exécuter une pique haute vers C avec le bout des doigts droit à plat tout en maintenant une position basse gauche vers C.
    *([Nachuo so opun sonkut nopunde bandae tulgi](../Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 16. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit tout en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -66,13 +66,13 @@
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 18. Déplacer le pied droit vers D en tournant dans le sens anti-horaire pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
-19. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec un tranchant de la main.
+19. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 20. Déplacer le pied gauche sur ligne CD pour former une position assise vers A tout en exécutant un blocage en forme de 9 droit.
    *([Annun so orun gutja makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md))*
 21. Déplacer le pied droit vers D, en tournant dans le sens anti-horaire pour former une position de marche gauche vers C tout en exécutant un blocage bas vers C avec le tranchant de la main gauche.
    *([Gunnun so sonkal najunde makgi](../makgi/najunde-makgi.md))*
-22. Exécuter un coup de pied circulaire moyen vers BC avec le pied droit puis abaisser il vers C.
+22. Exécuter un coup de pied circulaire moyen vers BC avec le pied droit puis l'abaisser vers C.
    *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
 23. Exécuter un coup de pied latéral perçant sauté vers C avec le pied droit.
    *([Twimyo yopcha jirugi](../chagi/twimyo-yopcha-jirugi.md))*
@@ -81,20 +81,20 @@
 
    > *Distance de saut : 1 position de marche depuis le pied arrière de la position précédente, et 1 largeur d'épaules depuis le pied avant.*
 
-24. Atterrir vers C pour former une position de marche droite vers C tout en exécutant un coup de poing vertical haut vers C avec un poings jumelés.
+24. Atterrir vers C pour former une position de marche droite vers C tout en exécutant un coup de poing vertical haut vers C avec les poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
-25. Exécuter un blocage haut vers AC avec un double arc de main tout en regardant à travers il en maintenant une position de marche droite vers C.
+25. Exécuter un double blocage haut des mains arquées vers AC tout en regardant à travers, en maintenant une position de marche droite vers C.
    *([Gunnun so nopunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
 26. Exécuter un coup de poing renversé vers C avec le poing gauche tout en maintenant une position de marche droite vers C.
    *([Gunnun so bandae dwijibo jirugi](../Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.md))*
-27. Déplacer le pied droit sur ligne CD, pour former une position de marche gauche vers D tout en en frappant la paume gauche avec le droit avant coude.
+27. Déplacer le pied droit sur ligne CD, pour former une position de marche gauche vers D tout en frappant la paume gauche avec le coude droit.
    *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
-28. Sauter vers D, pour former une position en X droite vers BD tout en exécutant un blocage haut vers D avec le droit double avant-bras.
+28. Sauter vers D, pour former une position en X droite vers BD tout en exécutant un blocage haut vers D avec le double avant-bras droit.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so doo palmok nopunde makgi)*
 
    > *Distance de saut : 1 position de marche.*
 
-29. Déplacer le pied gauche vers BC pour former une position assise vers BD, en même temps en exécutant un blocage en levant vers BD avec la paume droite.
+29. Déplacer le pied gauche vers BC pour former une position assise vers BD, tout en exécutant un blocage en levant vers BD avec la paume droite.
    *([Annun so orun sonbadak duro makgi](../Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.md))*
 30. Exécuter un coup de poing moyen vers BD avec le poing gauche tout en maintenant une position assise vers BD.
    *([Annun so wen joomuk kaunde ap jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md))*
@@ -103,22 +103,22 @@
 
 31. Exécuter une frappe frontale vers BD avec le revers du poing droit tout en maintenant une position assise vers BD.
    *([Annun so orun dung joomuk ap taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md))*
-32. Déplacer le pied gauche vers C, pour former une position de marche gauche vers C, en même temps en exécutant une frappe frontale haute vers C avec le revers de la main droite.
+32. Déplacer le pied gauche vers C, pour former une position de marche gauche vers C, tout en exécutant une frappe frontale haute vers C avec le revers de la main droite.
    *(Gunnun so sonkal dung nopunde bandae ap taerigi)*
-33. Déplacer le pied gauche vers A environ moitié une épaule largeur tout en exécutant un coup de pied circulaire moyen vers C avec le pied droit.
+33. Déplacer le pied gauche vers A d'environ une demi-largeur d'épaule tout en exécutant un coup de pied circulaire moyen vers C avec le pied droit.
    *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
 
    > *Distance de saut : 1/2 largeur d'épaules.*
 
-34. Abaisser le pied droit vers C, puis tourner dans le sens anti-horaire pour former une position de marche gauche vers D, en pivotant avec le pied droit tout en exécutant un coup de poing vertical haut vers D avec un poings jumelés.
+34. Abaisser le pied droit vers C, puis tourner dans le sens anti-horaire pour former une position de marche gauche vers D, en pivotant avec le pied droit tout en exécutant un coup de poing vertical haut vers D avec les poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
-35. Exécuter un coup de poing moyen vers D avec le poing à phalange médiane droit, en amenant le gauche côté en premier en avant de la épaule droite tout en formant une position en L droite vers D en tirant le pied gauche.
+35. Exécuter un coup de poing moyen vers D avec le poing à phalange médiane droit, en amenant le côté du poing gauche devant l'épaule droite tout en formant une position en L droite vers D en tirant le pied gauche.
    *(Niunja so joongji joomuk kaunde baro jirugi)*
-36. Déplacer le pied droit vers D pour former une position assise vers B, en même temps en exécutant gauche blocage en forme de 9.
+36. Déplacer le pied droit vers D pour former une position assise vers B, tout en exécutant gauche blocage en forme de 9.
    *([Annun so wen gutja makgi](../Techniques/Annun-So-Wen-Gutja-Makgi.md))*
 37. Exécuter un blocage de garde bas vers C avec un revers de la main tout en maintenant une position assise vers B.
    *([Annun so sonkal dung najunde C-bang daebi makgi](../Techniques/Annun-So-Sonkal-Dung-Najunde-C-Bang-Daebi-Makgi.md))*
-38. Exécuter un blocage de garde bas vers D avec un tranchant de la main tout en maintenant une position assise vers B.
+38. Exécuter un blocage de garde bas vers D avec le tranchant de la main tout en maintenant une position assise vers B.
    *([Annun so sonkal najunde D-bang daebi makgi](../Techniques/Annun-So-Sonkal-Najunde-D-Bang-Daebi-Makgi.md))*
 
    > *Exécuter 37 et 38 en mouvement continu.*
