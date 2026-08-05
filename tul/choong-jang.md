@@ -33,7 +33,7 @@
 5. Déplacer le pied droit vers D pour former une position de marche droite vers tout en exécutant une pique haute vers D avec la pique à deux doigts gauche.
    *([Gunnun so doo songarak nopunde bandae tulgi](../jirugi/doo-songarak-tulgi.md))*
 6. Exécuter une frappe frontale vers D avec le revers du poing droit tout en maintenant une position de marche droite vers D.
-   *(Gunnun so dung joomuk ap taerigi)*
+   *([Gunnun so dung joomuk ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Ap-Taerigi.md))*
 7. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage montant avec l'avant-bras gauche.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
 8. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
