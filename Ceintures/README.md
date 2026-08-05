@@ -45,6 +45,6 @@ Les fiches sont cumulatives : un grade suppose la maîtrise de tous les précéd
 ## Voir aussi
 
 * [../tul/README.md](../tul/README.md) — exécution détaillée, mouvement par mouvement, de toutes les formes citées ci-dessus.
-* [../Theorie/Temps Requis au Passage de Niveau.md](../Theorie/Temps%20Requis%20au%20Passage%20de%20Niveau.md) — délais et heures de pratique entre deux grades.
+* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#conditions-et-temps-requis-au-passage-de-grade) — conditions, délais et heures de pratique entre deux grades.
 * [../Theorie/examens-theoriques-taekwondo.md](../Theorie/examens-theoriques-taekwondo.md) — questionnaires théoriques par grade.
 * [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) — annexe A du manuel : le vocabulaire coréen à connaître, avec sa prononciation.

@@ -21,7 +21,7 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 | [makgi](makgi/README.md) | Les blocages — 막기 | 44 |
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — 지르기 | 21 |
 | [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 204 |
-| [Theorie](Theorie/README.md) | Le manuel complet, le guide du combat, les examens théoriques, les analyses et le programme de session | 6 |
+| [Theorie](Theorie/README.md) | Le manuel complet, le guide du combat, les examens théoriques, les analyses et le programme de session | 5 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 41 |
 
 ---

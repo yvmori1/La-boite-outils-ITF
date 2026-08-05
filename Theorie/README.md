@@ -16,7 +16,7 @@ aux fiches de technique unitaires des autres répertoires.
 
 | Partie | Contenu |
 | :--- | :--- |
-| I — L'art et sa voie | Définition, histoire, crédo, serment, étiquette, dobok et ceintures |
+| I — L'art et sa voie | Définition, histoire, crédo, serment, étiquette, dobok, ceintures et progression des grades |
 | II — Les principes physiques | Théorie de la puissance, mouvement de vague, respiration et méditation |
 | III — La grammaire des techniques | Formules de construction, briques, verbes d'action, armes naturelles |
 | IV — Les positions (*Sogi*) | Les 21 positions, cotées et schématisées |
@@ -28,9 +28,10 @@ aux fiches de technique unitaires des autres répertoires.
 
 ## Fiches versées au manuel
 
-Trois documents ont été fondus dans le manuel puis supprimés ; voici où leur
+Quatre documents ont été fondus dans le manuel puis supprimés ; voici où leur
 contenu se trouve désormais.
 
+* Conditions et temps requis au passage de grade → [chapitre 5](manuel-taekwon-do.md#conditions-et-temps-requis-au-passage-de-grade).
 * Descriptions des positions (*Sogi*) → [partie IV](manuel-taekwon-do.md#partie-iv--les-positions-sogi), avec un schéma coté par position.
 * Encyclopédie historique et socio-politique des formes → [partie VI](manuel-taekwon-do.md#partie-vi--les-formes-tul), et reprise dans chaque fiche de [../tul/](../tul/README.md).
 * Distances de saut → [annexe B](manuel-taekwon-do.md#annexe-b--distances-de-saut-dans-les-formes), et reportées sur chaque mouvement concerné dans [../tul/](../tul/README.md).
@@ -41,8 +42,10 @@ contenu se trouve désormais.
 
 ## Progression et examens
 
-* [Temps Requis au Passage de Niveau.md](Temps%20Requis%20au%20Passage%20de%20Niveau.md) — délais, heures de pratique et prérequis entre deux grades.
 * [examens-theoriques-taekwondo.md](examens-theoriques-taekwondo.md) — recueil de questionnaires théoriques officiels, par grade.
+
+Les conditions, délais et heures de pratique exigés entre deux grades sont dans
+le manuel, au [chapitre 5](manuel-taekwon-do.md#conditions-et-temps-requis-au-passage-de-grade).
 
 ## Analyse et enseignement
 

@@ -1,8 +1,8 @@
-# Programme de Session Officiel et Plan de Cours H25 — Club de Taekwon-Do de Blainville
+# Programme de Session Officiel et Plan de Cours
 
 ## Manuel de Formation Unifié — Groupe Mixte (Enfants & Adultes)
 
-Ce document officiel constitue la somme unifiée du programme d'entraînement et des exigences de passage de grade du **Club de Taekwon-Do de Blainville (Version 2025.01.04)**, intégrant de manière rigoureuse les exigences officielles d'examens pour les **adultes**, les **enfants**, et le barème technique de la **distance des sauts** dans les formes.
+Ce document officiel constitue la somme unifiée du programme d'entraînement et des exigences de passage de grade du **Club de Taekwon-Do de Blainville**, intégrant de manière rigoureuse les exigences officielles d'examens pour les **adultes**, les **enfants**.
 
 ---
 
@@ -308,38 +308,3 @@ Le programme pour enfants présente des paliers intermédiaires ("Ceinture blanc
 * **2e Gup - Ceinture rouge :** Formes Chon-Ji à Hwa-Rang; Combat sur 1 pas, combat libre et autodéfense; Cassage (Coup de coude, coup de pied de côté sauté); Théorie (Hwa-Rang, ceinture rouge, cycle d'entraînement).
 * **1er Gup - Ceinture rouge I :** Formes Chon-Ji à Hwa-Rang; Combat sur 1 pas et combat libre; Cassage (Coup de pied circulaire); Théorie (Serment, Crédo).
 * **1er Gup - Ceinture rouge, barre noire :** Formes Chon-Ji à Choong-Moo; Combat sur 1 pas, combat libre, autodéfense; Cassage (Coup de pied circulaire, coup de pied circulaire inversé renversé); Théorie (Serment, Crédo, Choong-Moo, statut de la ceinture noire).
-
----
-
-## SECTION 3 : TABLEAU DE RÉFÉRENCE DES SAUTS DANS LES FORMES
-
-Les sauts représentent un élément technique avancé de l'école Chang-Hun. Selon le programme officiel, la distance horizontale ou verticale d'un saut est normée par rapport à la morphologie du pratiquant :
-
-| Forme (Tul) | Distance Obligatoire du Saut |
-| :--- | :--- |
-| **Chon-Ji** | Pas de saut |
-| **Dan-Gun** | Pas de saut |
-| **Do-San** | Pas de saut |
-| **Won-Hyo** | **1.5 fois la largeur des épaules** |
-| **Yul-Gok** | **1.5 fois la largeur des épaules** |
-| **Joong-Gun** | **1.5 fois la largeur des épaules** |
-| **Toi-Gye** | **1.5 fois la largeur des épaules** |
-| **Hwa-Rang** | **1.5 fois la largeur des épaules** |
-| **Choong-Moo** | **1.5 fois la largeur des épaules** |
-| **Kwang-Gae** | Pas de saut |
-| **Po-Eun** | Pas de saut |
-| **Ge-Baek** | **1.5 fois la largeur des épaules** |
-| **Eui-Am** | Pas de saut |
-| **Choong-Jang** | Pas de saut |
-| **Juche** | **1.5 fois la largeur des épaules** |
-| **Sam-Il** | Pas de saut |
-| **Yoo-Sin** | Pas de saut |
-| **Choi-Yong** | **1.5 fois la largeur des épaules** |
-| **Yon-Gae** | Pas de saut |
-| **Ul-Ji** | Pas de saut |
-| **Moon-Moo** | **1.5 fois la largeur des épaules** |
-| **So-San** | Pas de saut |
-| **Se-Jong** | Pas de saut |
-| **Tong-Il** | Pas de saut |
-
-*Note technique : Pour toutes les formes comportant un saut, la distance standard est de 1.5 fois la largeur des épaules du pratiquant au moment de l'envol.*

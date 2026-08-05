@@ -44,6 +44,7 @@ lequel.
       - [La réforme du 28 mars 1968](#la-réforme-du-28-mars-1968)
       - [Spécifications de l'uniforme](#spécifications-de-luniforme)
       - [Symbolisme des couleurs de ceinture](#symbolisme-des-couleurs-de-ceinture)
+      - [Conditions et temps requis au passage de grade](#conditions-et-temps-requis-au-passage-de-grade)
   - [Partie II — Les principes physiques](#partie-ii--les-principes-physiques)
     - [6. La théorie de la puissance (Him Ui Wolli)](#6-la-théorie-de-la-puissance-him-ui-wolli)
     - [7. Le mouvement de vague](#7-le-mouvement-de-vague)
@@ -368,6 +369,44 @@ Inspirées des rangs de la dynastie Silla, les couleurs reflètent le parcours d
 | **BLEU (Le ciel)** | Symbolise l'immensité vers laquelle l'adepte s'élève, mesurant le chemin parcouru et l'immensité de ce qu'il lui reste à découvrir. |
 | **ROUGE (Le feu et le sang)** | Symbolise la découverte de la puissance (le soleil levant), mais représente également le danger d'une force encore incontrôlée. Un avertissement à l'adversaire de se tenir à distance, et à l'adepte d'exercer une maîtrise absolue de ses gestes. |
 | **NOIR (L'univers, l'obscurité et la nuit)** | L'opposé du blanc. Symbolise la maturité technique, la connaissance globale de l'art et l'imperméabilité de l'adepte à la peur et aux ténèbres sous toutes leurs formes. |
+
+#### Conditions et temps requis au passage de grade
+
+Se présenter à un passage de grade suppose quatre conditions, toutes exigées :
+
+1. Être recommandé par son instructeur.
+2. Avoir réussi la pré-évaluation, technique et physique.
+3. Avoir accumulé le nombre d'heures de pratique exigé par le grade visé.
+4. Démontrer son adhésion aux valeurs du Taekwon-Do ITF.
+
+Les grades de couleur se comptent en heures de pratique ; les grades noirs, en
+années. À partir du 1er Dan, le délai minimal avant le degré suivant est égal au
+degré atteint — un an et demi pour viser le 2e Dan, deux ans pour le 3e, trois
+ans pour le 4e, et ainsi de suite.
+
+| Grade actuel | Grade visé | Délai minimal | Heures de pratique |
+| :--- | :--- | :--- | :--- |
+| Blanche (10e Gup) | Blanche I (9e Gup) | — | 20 h |
+| Blanche I (9e Gup) | Jaune (8e Gup) | — | 45 h |
+| Jaune (8e Gup) | Jaune I (7e Gup) | — | 90 h |
+| Jaune I (7e Gup) | Verte (6e Gup) | — | 45 h |
+| Verte (6e Gup) | Verte I (5e Gup) | — | 90 h |
+| Verte I (5e Gup) | Bleue (4e Gup) | — | 45 h |
+| Bleue (4e Gup) | Bleue I (3e Gup) | — | 90 h |
+| Bleue I (3e Gup) | Rouge (2e Gup) | — | 45 h |
+| Rouge (2e Gup) | Rouge I (1er Gup) | — | 90 h |
+| Rouge I (1er Gup) | Noire I (1er Dan) | — | 135 h |
+| Noire I (1er Dan) | Noire II (2e Dan) | 18 mois (1 an et demi) | — |
+| Noire II (2e Dan) | Noire III (3e Dan) | 24 mois (2 ans) | — |
+| Noire III (3e Dan) | Noire IV (4e Dan) | 36 mois (3 ans) | — |
+| Noire IV (4e Dan) | Noire V (5e Dan) | 48 mois (4 ans) | — |
+| Noire V (5e Dan) | Noire VI (6e Dan) | 60 mois (5 ans) | — |
+| Noire VI (6e Dan) | Noire VII (7e Dan) | 72 mois (6 ans) | — |
+| Noire VII (7e Dan) | Noire VIII (8e Dan) | 84 mois (7 ans) | — |
+| Noire VIII (8e Dan) | Noire IX (9e Dan) | 96 mois (8 ans) | — |
+
+> Le programme technique de chaque grade — formes, théorie, exigences physiques —
+> est détaillé dans [../Ceintures/](../Ceintures/README.md), une fiche par grade.
 
 ---
 
