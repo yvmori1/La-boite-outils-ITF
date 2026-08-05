@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**202 fiches** au total.
+**203 fiches** au total.
 
 ---
 
@@ -24,6 +24,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | [Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.md](Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.md) | Coup cinglant haut inversé avec la main en arc de cercle (croissant de lune) |
 | [Gunnun-So-Doo-Palmok-Nopunde-Makgi.md](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras |
 | [Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md](Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md) | Gunnun So Dung Joomuk Bandae Ap Taerigi |
+| [Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md) | Coup cinglant inversé de biais (côté-avant) au niveau haut avec le revers du poing |
 | [Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale du revers du poing au niveau haut |
 | [Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md](Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md) | Gunnun So Dwijibun Sonkut Najunde Tulgi |
 | [Gunnun-So-Jappyosul-Tae.md](Gunnun-So-Jappyosul-Tae.md) | Gunnun So Jappyosul Tae |

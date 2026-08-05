@@ -92,12 +92,12 @@
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
    > *Exécuter en un mouvement étampé.*
 34. Exécuter une frappe latérale-avant haute vers D avec le revers du poing droit en frappant la paume gauche avec le coude droit tout en formant une position de marche gauche vers D, en glissant le pied gauche.
-   *(Gunnun so dung joomuk nopunde bandae yobap taerigi)*
+   *([Gunnun so dung joomuk nopunde bandae yobap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md))*
 35. Déplacer le pied droit vers D pour former une position en L gauche vers D tout en exécutant une frappe extérieure moyenne vers D avec le tranchant de la main droite.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
    > *Exécuter en un mouvement étampé.*
 36. Exécuter une frappe latérale-avant haute vers D avec le revers du poing gauche en frappant la paume droite avec le coude gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
-   *(Gunnun so dung joomuk nopunde bandae yobap taerigi)*
+   *([Gunnun so dung joomuk nopunde bandae yobap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md))*
 37. Exécuter un blocage de garde bas vers C avec un revers de la main tout en formant une position en L droite vers C en pivotant avec le pied droit.
    *([Niunja so sonkal dung najunde daebi makgi](../makgi/najunde-daebi-makgi.md))*
 38. Exécuter un blocage en forme de 9 droit tout en formant une position de marche gauche vers C en glissant le pied gauche.
