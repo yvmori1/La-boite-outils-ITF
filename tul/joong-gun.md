@@ -53,14 +53,14 @@
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 16. Exécuter un coup de poing haut vers E avec le poing droit tout en maintenant une position de marche gauche vers E.
    *([gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
-      > *Exécuter 15 et 16 en mouvement rapide.*
+   > *Exécuter 15 et 16 en mouvement rapide.*
 17. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers F, pour former une position en L gauche vers F tout en exécutant une frappe latérale haute vers F avec un revers du poing droit.
    *([Niunja so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 18. Vriller le poing droit dans le sens horaire jusqu'à ce que le revers du poing fait visage vers le bas, en même temps pour former une position de marche droite vers F, en glissant le pied droit vers F.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 19. Exécuter un coup de poing haut vers F avec le poing gauche tout en maintenant une position de marche droite vers F.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
-      > *Exécuter 18 et 19 en mouvement rapide.*
+   > *Exécuter 18 et 19 en mouvement rapide.*
 20. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage haut vers C avec un gauche double avant-bras.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 21. Exécuter un coup de poing moyen vers C avec le poing gauche tout en formant une position en L droite vers C, en tirant le pied gauche.
@@ -77,15 +77,15 @@
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 27. Exécuter un blocage en pression avec la paume droite tout en formant une position basse gauche vers C, en glissant le pied gauche vers C.
    *([Nachuo so sonbadak bandae noollo makgi](../Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md))*
-      > *Exécuter en mouvement lent.*
+   > *Exécuter en mouvement lent.*
 28. Déplacer le pied droit vers C pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 29. Exécuter un blocage en pression avec la paume gauche tout en formant une position basse droite vers C, en glissant le pied droit vers C.
    *([Nachuo so sonbadak bandae noollo makgi](../Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md))*
-      > *Exécuter en mouvement lent.*
+   > *Exécuter en mouvement lent.*
 30. Ramener le pied gauche vers le pied droit pour former une position fermée vers A tout en exécutant un coup de poing en angle avec le poing droit.
    *(Moa so orun giokja jirugi)*
-      > *Exécuter en mouvement lent.*
+   > *Exécuter en mouvement lent.*
 31. Déplacer le pied droit vers A pour former une position fixe droite vers A tout en exécutant un blocage en U vers A.
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 32. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers B pour former une position fixe gauche vers B, tout en exécutant un blocage en U vers B.

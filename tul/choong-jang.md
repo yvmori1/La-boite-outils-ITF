@@ -27,7 +27,7 @@
    *([Annun so wen an palmok yobap makgi](../Techniques/Annun-So-Wen-An-Palmok-Yobap-Makgi.md))*
 3. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant un coup de poing en angle avec le poing gauche.
    *(Moa so wen joomuk giokja jirugi)*
-      > *Exécuter en mouvement lent.*
+   > *Exécuter en mouvement lent.*
 4. Déplacer le pied gauche vers D pour former une position de marche gauche vers tout en exécutant une pique haute vers D avec la pique à deux doigts droit.
    *([Gunnun so doo songarak nopunde bandae tulgi](../jirugi/doo-songarak-tulgi.md))*
 5. Déplacer le pied droit vers D pour former une position de marche droite vers tout en exécutant une pique haute vers D avec la pique à deux doigts gauche.
@@ -78,10 +78,10 @@
    *([Najunde apcha busigi](../chagi/apcha-busigi.md))*
 28. Abaisser le pied droit vers D pour former une position de marche gauche vers C en pivotant avec le pied gauche tout en piquant vers D avec l'arrière du coude droit, en plaçant le côté du poing gauche sur le poing droit.
    *([Gunnun so dwit palkup bandae tulgi](../jirugi/dwit-palkup-tulgi.md))*
-      > *Exécuter en mouvement lent.*
+   > *Exécuter en mouvement lent.*
 29. Exécuter une frappe descendante avec le revers de la main gauche tout en formant une position en L droite vers C, en pivotant avec le pied droit.
    *([Niunja so sondung bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
-      > *Exécuter en un mouvement étampé.*
+   > *Exécuter en un mouvement étampé.*
 30. Frapper du poing la paume gauche avec le poing droit tout en maintenant une position en L droite vers C.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 31. Déplacer le pied droit vers C en un mouvement étampé pour former une position en L gauche vers C tout en exécutant une frappe descendante avec le revers de la main droite.
@@ -90,12 +90,12 @@
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 33. Exécuter une frappe extérieure moyenne vers D avec le tranchant de la main gauche tout en formant une position en L droite vers D, en pivotant avec le pied droit.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
-      > *Exécuter en un mouvement étampé.*
+   > *Exécuter en un mouvement étampé.*
 34. Exécuter une frappe latérale-avant haute vers D avec le revers du poing droit en frappant la paume gauche avec le coude droit tout en formant une position de marche gauche vers D, en glissant le pied gauche.
    *(Gunnun so dung joomuk nopunde bandae yobap taerigi)*
 35. Déplacer le pied droit vers D pour former une position en L gauche vers D tout en exécutant une frappe extérieure moyenne vers D avec le tranchant de la main droite.
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
-      > *Exécuter en un mouvement étampé.*
+   > *Exécuter en un mouvement étampé.*
 36. Exécuter une frappe latérale-avant haute vers D avec le revers du poing gauche en frappant la paume droite avec le coude gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
    *(Gunnun so dung joomuk nopunde bandae yobap taerigi)*
 37. Exécuter un blocage de garde bas vers C avec un revers de la main tout en formant une position en L droite vers C en pivotant avec le pied droit.
@@ -120,7 +120,7 @@
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 47. Exécuter un coup de poing moyen vers C avec le poing gauche tout en maintenant une position de marche gauche vers C.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
-      > *Exécuter 46 et 47 en mouvement rapide.*
+   > *Exécuter 46 et 47 en mouvement rapide.*
 48. Ramener le pied droit vers le pied gauche pour former une position fermée vers C tout en exécutant un coup de poing semi-circulaire haut avec les poings jumelés à phalanges saillantes.
    *(Moa so sang inji joomuk nopunde bandal jirugi)*
 49. Déplacer le pied gauche vers B en tournant dans le sens anti-horaire pour former une position de marche gauche vers B tout en exécutant un blocage bas vers B avec le tranchant de la main gauche.

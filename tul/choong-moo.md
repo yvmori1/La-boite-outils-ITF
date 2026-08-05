@@ -40,9 +40,7 @@
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 9. Exécuter un coup de pied latéral perçant sauté vers D avec le pied droit aussitôt après en le déplaçant vers D puis atterrir vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Twimyo yopcha jirugi](../chagi/twimyo-yopcha-jirugi.md), [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
-
    > *Distance de saut : 1 position de marche.*
-
 10. Déplacer le pied gauche vers E en tournant dans le sens anti-horaire pour former une position en L droite vers E tout en exécutant un blocage bas vers E avec l'avant-bras gauche.
    *([Niunja so palmok najunde yop makgi](../makgi/yop-makgi.md))*
 11. Étendre les deux mains vers le haut comme si vers saisir l'adversaire’s tête tout en formant une position de marche gauche vers E, en glissant le pied gauche.
@@ -54,7 +52,7 @@
    *([Nopunde dollyo chagi](../chagi/dollyo-chagi.md))*
 15. Exécuter un coup de pied arrière perçant moyen vers F avec le pied gauche.
    *([Kaunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
-      > *Exécuter 14 et 15 en mouvement rapide.*
+   > *Exécuter 14 et 15 en mouvement rapide.*
 16. Abaisser le pied gauche vers F pour former une position en L gauche vers E tout en exécutant un blocage de garde moyen vers E avec l'avant-bras.
    *([niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 17. Exécuter un coup de pied circulaire moyen vers DE avec le pied gauche.
@@ -63,7 +61,7 @@
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 19. Sauter et pivoter dans le sens anti-horaire, à la réception sur la même place pour former une position en L gauche vers C tout en exécutant un blocage de garde moyen vers C avec le tranchant de la main.
    *(Twigi, [wen niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
-      > *Distance de saut : sur place.*
+   > *Distance de saut : sur place.*
 20. Déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant une pique basse vers C avec la pique de doigts renversée droit.
    *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
 21. Exécuter une frappe arrière latérale vers D avec le revers du poing droit et un blocage bas vers C avec l'avant-bras gauche tout en formant une position en L droite vers C, en tirant le pied gauche.

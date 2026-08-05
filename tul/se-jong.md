@@ -33,7 +33,7 @@
    *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
 7. Sauter vers D pour former une position en X gauche vers DG tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche, en amenant la pulpe des doigts de la main droite vers le côté du poing gauche.
    *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
-      > *Distance de saut : 1 position de marche.*
+   > *Distance de saut : 1 position de marche.*
 8. Déplacer le pied droit vers G, pour former une position de marche droite vers G tout en exécutant un coup de poing haut vers G avec le poing droit.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 9. Déplacer le pied droit sur ligne GH pour former une position fixe gauche vers H tout en exécutant un blocage de garde haut vers H avec l'avant-bras.
@@ -48,10 +48,10 @@
    *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
 14. Abaisser le pied gauche vers C en mouvement sauté, pour former une position en X gauche vers CF tout en exécutant un blocage haut vers C avec le double avant-bras gauche.
    *(Twigi, [wen kyocha so doo palmok nopunde makgi](../Techniques/Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md))*
-      > *Distance de saut : 1 position de marche.*
+   > *Distance de saut : 1 position de marche.*
 15. Déplacer le pied droit vers F pour former une position assise vers C tout en étendant le poing droit horizontalement vers C.
    *([Annun sogi](../Techniques/Annun-Sogi.md))*
-      > *Exécuter en mouvement lent.*
+   > *Exécuter en mouvement lent.*
 16. Exécuter une frappe frontale vers C avec le revers du poing gauche tout en maintenant une position assise vers C.
    *([Annun so wen dung joomuk ap taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.md))*
 17. Ramener le pied droit derrière le pied gauche, puis déplacer le pied gauche vers E, pour former une position diagonale gauche vers C tout en exécutant un blocage en pression avec une paumes jumelées.
@@ -62,7 +62,7 @@
    *([Waebal so bakat palmok nopunde baro yop makgi](../makgi/yop-makgi.md) wa [palmok najunde bandae yop makgi](../makgi/yop-makgi.md))*
 20. Abaisser le pied gauche vers D pour former une position de marche droite vers C tout en exécutant un blocage en pression avec la paume droite.
    *([Gunnun so sonbadak baro noollo makgi](../Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md))*
-      > *Exécuter en mouvement lent.*
+   > *Exécuter en mouvement lent.*
 21. Tirer le cou-de-pied gauche vers le creux de la jambe droite pour former une position sur une jambe droite vers C tout en frappant la paume gauche avec l'arrière de l'avant-bras droit.
    *([Waebal so dungpalmok baro taerigi](../Techniques/Waebal-So-Dungpalmok-Baro-Taerigi.md))*
 22. Abaisser le pied gauche vers C, en tournant dans le sens horaire pour former une position fixe droite vers D tout en piquant vers C avec le coude gauche.
