@@ -9,10 +9,8 @@ Gunnun So Bandae Gutja Makgi
 Gunnun So Bandae Naeryo Jirugi
 Gunnun So Bandal Son Bandae Chookyo Makgi
 Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi
-Gunnun So Bandal Son Nopunde Bandae Taerigi
 Gunnun So Doo Palmok Kaunde Makgi
 Gunnun So Doo Songarak Nopunde Bandae Tulgi
-Gunnun So Dung Joomuk Ap Taerigi
 Gunnun So Dung Joomuk Bandae Yopdwi Taerigi
 Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi
 Gunnun So Dung Joomuk Nopunde Yop Taerigi
@@ -42,11 +40,9 @@ Gunnun So Palmok Kaunde Bandae Ap Makgi
 Gunnun So Palmok Najunde Bandae Makgi
 Gunnun So Palmok Najunde Makgi
 Gunnun So Palmok Nopunde Bandae Ap Makgi
-Gunnun So Pyon Joomuk Nopunde Bandae Jirugi
 Gunnun So Sang Joomuk Kaunde Jirugi
 Gunnun So Sang Sonbadak Ollyo Makgi
 Gunnun So Sang Sonkal Nopunde Anuro Taerigi
-Gunnun So Sang Sonkal Soopyong Taerigi
 Gunnun So Sang Yop Joomuk Soopyong Taerigi
 Gunnun So Sonbadak Bandae Ollyo Makgi
 Gunnun So Sonbadak Kaunde Bandae Golcho Makgi
@@ -80,7 +76,6 @@ Gunnun So Sun Sonkut Kaunde Tulgi
 Gunnun So Wi Palkup Bandae Taerigi
 Gunnun Sogi
 Jappyosul Tae
-Joomuk Nopunde Jirugi
 Kaunde Apcha Busigi
 Kaunde Bandae Dollyo Chagi
 Kaunde Bandal Chagi
@@ -104,12 +99,10 @@ Moa So Orun Giokja Jirugi
 Moa So Orun Joomuk Giokja Jirugi
 Moa So Orun Sonkal Najunde Ap Makgi
 Moa So Orun Yop Joomuk Naeryo Taerigi
-Moa So Sang Inji Joomuk Nopunde Bandal Jirugi
 Moa So Sang Palkup Soopyong Tulgi
 Moa So Sang Yop Palkup Tulgi
 Moa So Wen An Palmok Yobap Makgi
 Moa So Wen Dung Joomuk Yopdwi Taerigi
-Moa So Wen Joomuk Giokja Jirugi
 Moa So Wen Yop Joomuk Naeryo Taerigi
 Moa Sogi
 Moorup Najunde Apcha Busigi
@@ -147,7 +140,6 @@ Niunja So Joongji Joomuk Kaunde Baro Jirugi
 Niunja So Kyocha Joomuk Momchau Makgi
 Niunja So Kyocha Joomuk Noollo Makgi
 Niunja So Kyocha Sonkal Momchau Makgi
-Niunja So Opun Sonkut Nopunde Bandae Tulgi
 Niunja So Opun Sonkut Nopunde Ghutgi
 Niunja So Palmok Kaunde Daebi Makgi
 Niunja So Palmok Najunde Bandae Makgi

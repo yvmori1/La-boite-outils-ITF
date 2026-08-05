@@ -77,14 +77,17 @@ exacte n'existe pas, il pointe vers l'explication la plus proche.
 ### generer-audio.py
 
 ```sh
-python3 scripts/generer-audio.py --write              # fiches
-python3 scripts/generer-audio.py --lexique --write    # Theorie/Lexique.md
-python3 scripts/generer-audio.py --grammaire --write  # Theorie/grammaire-itf.md
-python3 scripts/generer-audio.py --reparer --write    # audio manquants
+python3 scripts/generer-audio.py --write            # fiches
+python3 scripts/generer-audio.py --manuel --write   # Theorie/manuel-taekwon-do.md
+python3 scripts/generer-audio.py --reparer --write  # audio manquants
 ```
 
-Le hangul est lu dans les fiches ; ce qui en est absent vient des tables
-`NOMS_TUL` et `LEXIQUE_HANGUL`, en tête du fichier — **elles ne proviennent pas
+`--manuel` remplace les anciens `--lexique` et `--grammaire`, dont les deux
+fiches sont désormais fusionnées dans le manuel ; les deux noms restent acceptés
+et font la même chose.
+
+Le hangul est lu dans les fiches ; ce qui en est absent vient de la table
+`NOMS_TUL`, en tête du fichier — **elles ne proviennent pas
 du dépôt et méritent vérification**. Deux textes coréens identiques partagent
 toujours le même enregistrement.
 

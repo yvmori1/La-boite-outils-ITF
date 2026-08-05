@@ -650,7 +650,7 @@ Nom français, nom anglais des manuels ITF, nom coréen et prononciation. Le dé
 | Position parallèle              | parallel stance                 | Narani sogi          | [나란히 서기](../audio/lexique/Narani-sogi.m4a)                |
 | Position d'attente parallèle    | parallel ready stance           | Narani junbi sogi    | [나란히 준비 서기](../audio/lexique/Narani-junbi-sogi.m4a)     |
 | Position d'attente              | ready stance                    | Junbi sogi           | [준비 서기](../audio/lexique/Junbi-sogi.m4a)                   |
-| Position d'attente mains levées | ready stance with a heaven hand | Hanulson Junbi Sogi  | 하늘손 준비서기                                         |
+| Position d'attente mains levées | ready stance with a heaven hand | Hanulson Junbi Sogi  | [하늘손 준비서기](../audio/grammaire/하늘손 준비서기.m4a)                                         |
 | Position arrière rapprochée     | rear foot stance                | Dwitbal sogi         | [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)              |
 | Position du cavalier            | sitting stance                  | Annun sogi           | [앉은 서기](../audio/Techniques/Annun-Sogi.m4a)                |
 | Position verticale              | vertical stance                 | Soo jik sogi         | [수직 서기](../audio/lexique/Soo-jik-sogi.m4a)                 |
@@ -1503,7 +1503,7 @@ Français, anglais et coréen, avec la prononciation. Les positions figurent au 
 | Blocage parfait                           | perfect block                       | -                   | -                                                       |
 | Persévérance                              | perseverance                        | In Nae              | [인내](../audio/lexique/In-Nae.m4a)                     |
 | Épreuve de puissance                      | power test                          | -                   | -                                                       |
-| Combat organisé                           | pre-arranged sparring               | Yaksok Matsogi      | 약속 맞서기                                            |
+| Combat organisé                           | pre-arranged sparring               | Yaksok Matsogi      | [약속 맞서기](../audio/grammaire/약속 맞서기.m4a)                                            |
 | Flexion des bras (au sol)                 | push up                             | -                   | -                                                       |
 | Prêt!                                     | ready!                              | -                   | -                                                       |
 | Marqueur des points                       | recorder                            | -                   | -                                                       |

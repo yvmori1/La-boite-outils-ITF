@@ -5,7 +5,7 @@
   python3 scripts/generer-audio.py --write         # génère l'audio et les liens
   python3 scripts/generer-audio.py --write --force # régénère même l'audio existant
   python3 scripts/generer-audio.py --limite 5      # s'arrête après 5 fiches
-  python3 scripts/generer-audio.py --lexique       # traite aussi Theorie/Lexique.md
+  python3 scripts/generer-audio.py --manuel        # lie les hangul du manuel
 
 Pour chaque fiche de Techniques/, chagi/, jirugi/, makgi/ et tul/ :
 
@@ -19,12 +19,15 @@ Le script est idempotent : une fiche qui porte déjà son lien n'est pas retouch
 et son audio n'est pas régénéré, sauf avec --force. Une fiche sans hangul est
 laissée intacte et signalée dans le rapport final.
 
-Avec --lexique, Theorie/Lexique.md reçoit une colonne « Hangul » dont chaque
-entrée est un lien vers sa prononciation. Le hangul est cherché d'abord dans
-les fiches du dépôt, puis dans la table LEXIQUE_HANGUL ci-dessous. Un terme
-déjà couvert par une fiche renvoie vers l'audio de cette fiche plutôt que d'en
-produire un doublon. Un terme dont le hangul reste introuvable est laissé vide
-et signalé : aucun hangul n'est deviné.
+Avec --manuel, chaque hangul de Theorie/manuel-taekwon-do.md devient un lien
+vers sa prononciation : la grammaire, les positions et le lexique en annexe y
+sont traités d'un seul tenant. Un hangul déjà couvert par une fiche renvoie vers
+l'audio de cette fiche plutôt que d'en produire un doublon ; une ligne déjà liée
+n'est pas retouchée.
+
+Ce sont les deux fiches Lexique.md et grammaire-itf.md, aujourd'hui fusionnées
+dans le manuel, que --manuel remplace. Leurs anciens indicateurs --lexique et
+--grammaire restent acceptés et font la même chose.
 
 Dépend de macOS : `say` et `afconvert`.
 """
@@ -378,7 +381,7 @@ def lier_document(chemin, sous_dossier, args):
                 compte["reemploi"] += 1
             else:
                 base = re.sub(r"[^A-Za-z0-9]+", "-", terme).strip("-") \
-                    if terme else hangul.strip()
+                    if terme else texte
                 audio = f"{sous_dossier}/{base}.m4a"
                 compte["propre"] += 1
             cible = AUDIO / audio
@@ -435,10 +438,11 @@ def main():
     p.add_argument("--voix", default=VOIX, help=f"voix `say` (défaut : {VOIX})")
     p.add_argument("--debit", type=int, default=DEBIT,
                    help=f"mots par minute (défaut : {DEBIT})")
-    p.add_argument("--lexique", action="store_true",
-                   help="traite aussi Theorie/Lexique.md")
-    p.add_argument("--grammaire", action="store_true",
-                   help="lie les hangul de Theorie/grammaire-itf.md")
+    p.add_argument("--manuel", action="store_true",
+                   help="lie les hangul de Theorie/manuel-taekwon-do.md")
+    p.add_argument("--lexique", "--grammaire", dest="manuel",
+                   action="store_true",
+                   help="ancien nom de --manuel (fiches fusionnées au manuel)")
     p.add_argument("--reparer", action="store_true",
                    help="reproduit l'audio des liens dont le fichier manque")
     args = p.parse_args()
@@ -507,35 +511,15 @@ def main():
         print(f"  reproduits          : {c['produits']}")
         return
 
-    if args.grammaire:
-        c = lier_document(RACINE / "Theorie" / "grammaire-itf.md",
+    if args.manuel:
+        c = lier_document(RACINE / "Theorie" / "manuel-taekwon-do.md",
                           "grammaire", args)
-        print("\ngrammaire-itf.md")
+        print("\nmanuel-taekwon-do.md")
         print(f"  hangul liés               : {c['reemploi'] + c['propre']}")
         print(f"    réemploi d'un audio     : {c['reemploi']}")
         print(f"    audio propre            : {c['propre']}")
         print(f"  audio à produire          : {c['audio']}")
         print(f"  lignes déjà traitées      : {c['deja']}")
-
-    if args.lexique:
-        compte, introuvables, ecarts = traiter_lexique(args)
-        print("\nLexique.md")
-        print(f"  hangul repris d'une fiche : {compte['fiche']}")
-        print(f"  hangul saisi à la main    : {compte['saisi'] + compte['saisi_fiche']}"
-              f" (dont {compte['saisi_fiche']} réutilisant l'audio d'une fiche)")
-        print(f"  hangul de la table interne: {compte['table']}")
-        print(f"  audio à produire          : {compte['audio']}")
-        print(f"  sans terme coréen         : {compte['sans_terme']}")
-        print(f"  déjà traité               : {compte['deja']}")
-        print(f"  hangul introuvable        : {compte['introuvable']}")
-        if ecarts:
-            print("\n  hangul saisi différent de celui de la fiche :")
-            for terme, a, b in ecarts:
-                print(f"    {terme} : lexique « {a} »  /  fiche « {b} »")
-        if introuvables:
-            print("\n  termes sans hangul (laissés vides) :")
-            for terme in introuvables:
-                print(f"    {terme}")
 
 
 if __name__ == "__main__":

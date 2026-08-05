@@ -23,7 +23,7 @@
    *(Gunnun so sang joomuk kaunde jirugi)*
    > *Exécuter en mouvement lent.*
 2. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe horizontale avec un double tranchant de la main.
-   *(Gunnun so sang sonkal soopyong taerigi)*
+   *([Gunnun so sang sonkal soopyong taerigi](../Techniques/Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md))*
    > *Exécuter en mouvement lent.*
 3. Déplacer le pied gauche vers D, pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage intérieur moyen vers D avec l'avant-bras extérieur gauche.
    *([Dwitbal so bakat palmok kaunde anuro bandae makgi](../Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md))*

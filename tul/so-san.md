@@ -116,7 +116,7 @@
 44. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers D.
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
 45. Exécuter un coup de poing haut vers D avec le poing gauche tout en maintenant une position de marche gauche vers D.
-   *(Gunnun So joomuk nopunde jirugi)*
+   *([Gunnun So joomuk nopunde jirugi](../Techniques/Joomuk-Nopunde-Jirugi.md))*
 46. Exécuter un coup de pied avant fouetté bas vers D avec le pied droit en gardant les mains dans la position du mouvement 45.
    *([Najunde apcha busigi](../chagi/apcha-busigi.md))*
 47. Abaisser le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
