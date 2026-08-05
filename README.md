@@ -21,7 +21,7 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 | [makgi](makgi/README.md) | Les blocages — 막기 | 44 |
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — 지르기 | 21 |
 | [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 204 |
-| [Theorie](Theorie/README.md) | Le manuel complet, les examens théoriques, les analyses et le programme de session | 8 |
+| [Theorie](Theorie/README.md) | Le manuel complet, le guide du combat, les examens théoriques, les analyses et le programme de session | 6 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 41 |
 
 ---
@@ -37,6 +37,8 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 **Si vous cherchez un terme coréen** → l'[annexe A du manuel](Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) (français – anglais – coréen, avec la prononciation) et sa [partie III](Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) pour les règles de construction des noms de techniques.
 
 **Si vous travaillez une forme** → [tul/README.md](tul/README.md) mène à la fiche de chaque forme (mouvement par mouvement) ; la [partie VI du manuel](Theorie/manuel-taekwon-do.md#partie-vi--les-formes-tul) en donne le sens et l'histoire.
+
+**Si vous préparez un combat ou un arbitrage** → [Theorie/Combats.md](Theorie/Combats.md) : types d'assauts, prise de mesure, commandements de l'arbitre, barème des points et des pénalités.
 
 ---
 

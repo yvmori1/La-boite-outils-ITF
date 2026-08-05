@@ -650,7 +650,7 @@ Nom français, nom anglais des manuels ITF, nom coréen et prononciation. Le dé
 | Position parallèle              | parallel stance                 | Narani sogi          | [나란히 서기](../audio/lexique/Narani-sogi.m4a)                |
 | Position d'attente parallèle    | parallel ready stance           | Narani junbi sogi    | [나란히 준비 서기](../audio/lexique/Narani-junbi-sogi.m4a)     |
 | Position d'attente              | ready stance                    | Junbi sogi           | [준비 서기](../audio/lexique/Junbi-sogi.m4a)                   |
-| Position d'attente mains levées | ready stance with a heaven hand | Hanulson Junbi Sogi  | [하늘손 준비서기](../audio/grammaire/하늘손 준비서기.m4a)                                         |
+| Position d'attente mains levées | ready stance with a heaven hand | Hanulson Junbi Sogi  | [하늘손 준비서기](../audio/grammaire/하늘손-준비서기.m4a)                                         |
 | Position arrière rapprochée     | rear foot stance                | Dwitbal sogi         | [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)              |
 | Position du cavalier            | sitting stance                  | Annun sogi           | [앉은 서기](../audio/Techniques/Annun-Sogi.m4a)                |
 | Position verticale              | vertical stance                 | Soo jik sogi         | [수직 서기](../audio/lexique/Soo-jik-sogi.m4a)                 |
@@ -704,6 +704,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Largeur :** Talons collés, bords internes ouverts.
 * **Orientation :** Les pieds forment un angle de **45 degrés**.
 * **Posture :** Les poings sont fermés et placés légèrement le long du corps de chaque côté au naturel, les épaules inclinées et le regard fixé vers l'avant.
+* **Usage :** Position prise avant et après le cours.
 * **Schéma d'alignement :**
 
 ![charyo-sogi](../images/sogi/charyo-sogi.png)
@@ -763,6 +764,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
   * Jambe arrière : Maintenue complètement droite et tendue.
 * **Poids :** Réparti équitablement (50/50).
 * **Musculature :** Tendre les muscles des pieds en les sentant tirer l'un vers l'autre pour sceller l'ancrage au sol.
+* **Usage :** Position forte vers l'avant comme vers l'arrière.
 * **Erreur courante :** Une position plus longue que prévu rend le déplacement lent et fragilise la posture contre une attaque de côté comme contre une attaque de face ou de dos.
 * **Schéma d'alignement :**
 
@@ -807,7 +809,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 
 * **Nomenclature coréenne :** *Guburyo Sogi / [구부려 서기](../audio/grammaire/Guburyo-Sogi.m4a)*.
 * **Structure :** Identique à la position sur une jambe (*Waebal Sogi*), à la seule différence que la jambe d'appui au sol est **fléchie** pour amortir et stocker l'énergie cinétique.
-* **Usage :** Posture de préparation dynamique avant de délivrer un coup de pied de côté (*Yop Chagi*) ou vers l'arrière (*Dwit Chagi*).
+* **Usage :** Posture de préparation dynamique avant de délivrer un coup de pied de côté (*Yop Chagi*) ou vers l'arrière (*Dwit Chagi*), et parfois posture de défense.
 * **Schéma d'alignement :**
 
 ![guburyo-sogi](../images/sogi/guburyo-sogi.png)
@@ -1503,7 +1505,7 @@ Français, anglais et coréen, avec la prononciation. Les positions figurent au 
 | Blocage parfait                           | perfect block                       | -                   | -                                                       |
 | Persévérance                              | perseverance                        | In Nae              | [인내](../audio/lexique/In-Nae.m4a)                     |
 | Épreuve de puissance                      | power test                          | -                   | -                                                       |
-| Combat organisé                           | pre-arranged sparring               | Yaksok Matsogi      | [약속 맞서기](../audio/grammaire/약속 맞서기.m4a)                                            |
+| Combat organisé                           | pre-arranged sparring               | Yaksok Matsogi      | [약속 맞서기](../audio/grammaire/약속-맞서기.m4a)                                            |
 | Flexion des bras (au sol)                 | push up                             | -                   | -                                                       |
 | Prêt!                                     | ready!                              | -                   | -                                                       |
 | Marqueur des points                       | recorder                            | -                   | -                                                       |

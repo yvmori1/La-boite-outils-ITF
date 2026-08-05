@@ -1,8 +1,9 @@
 # Théorie
 
 Documents de fond : le manuel qui réunit toute la théorie, puis les documents
-qui l'entourent — exigences de progression, questionnaires d'examen, analyses
-statistiques du répertoire technique et plan de cours.
+qui l'entourent — guide du combat et de l'arbitrage, exigences de progression,
+questionnaires d'examen, analyses statistiques du répertoire technique et plan
+de cours.
 
 Ce répertoire contient les documents de référence transversaux, par opposition
 aux fiches de technique unitaires des autres répertoires.
@@ -25,14 +26,18 @@ aux fiches de technique unitaires des autres répertoires.
 | Annexe A | Lexique trilingue français – anglais – coréen |
 | Annexe B | Distances de saut dans les formes |
 
-## Sources reversées dans le manuel
+## Fiches versées au manuel
 
-Leur contenu se trouve désormais dans le manuel ; elles sont conservées comme
-documents d'origine.
+Trois documents ont été fondus dans le manuel puis supprimés ; voici où leur
+contenu se trouve désormais.
 
-* [positions.md](positions.md) — descriptions des positions (*Sogi*) → partie IV.
-* [encyclopedie-historique-tuls.md](encyclopedie-historique-tuls.md) — histoire et contexte socio-politique des formes → partie VI, et repris dans chaque fiche de [../tul/](../tul/README.md).
-* [Distance des sauts dans les formes.md](Distance%20des%20sauts%20dans%20les%20formes.md) — distances de saut → annexe B, et reportées sur chaque mouvement concerné dans [../tul/](../tul/README.md).
+* Descriptions des positions (*Sogi*) → [partie IV](manuel-taekwon-do.md#partie-iv--les-positions-sogi), avec un schéma coté par position.
+* Encyclopédie historique et socio-politique des formes → [partie VI](manuel-taekwon-do.md#partie-vi--les-formes-tul), et reprise dans chaque fiche de [../tul/](../tul/README.md).
+* Distances de saut → [annexe B](manuel-taekwon-do.md#annexe-b--distances-de-saut-dans-les-formes), et reportées sur chaque mouvement concerné dans [../tul/](../tul/README.md).
+
+## Combat et arbitrage
+
+* [Combats.md](Combats.md) — guide pédagogique du combat (*Matsogi*) : typologie des assauts, prise de mesure (*Gori Jajil*), système de points, code des pénalités et gestuelle de l'arbitre central. Chaque terme coréen y est lié à sa prononciation.
 
 ## Progression et examens
 

@@ -79,12 +79,15 @@ exacte n'existe pas, il pointe vers l'explication la plus proche.
 ```sh
 python3 scripts/generer-audio.py --write            # fiches
 python3 scripts/generer-audio.py --manuel --write   # Theorie/manuel-taekwon-do.md
+python3 scripts/generer-audio.py --combats --write  # Theorie/Combats.md
 python3 scripts/generer-audio.py --reparer --write  # audio manquants
 ```
 
-`--manuel` remplace les anciens `--lexique` et `--grammaire`, dont les deux
-fiches sont désormais fusionnées dans le manuel ; les deux noms restent acceptés
-et font la même chose.
+`--manuel` et `--combats` traitent un document de fond entier : chaque hangul y
+devient un lien vers sa prononciation. Les documents et leur sous-dossier audio
+sont déclarés dans la table `DOCUMENTS`, en tête du fichier. `--manuel` remplace
+les anciens `--lexique` et `--grammaire`, dont les deux fiches sont désormais
+fusionnées dans le manuel ; les deux noms restent acceptés et font la même chose.
 
 Le hangul est lu dans les fiches ; ce qui en est absent vient de la table
 `NOMS_TUL`, en tête du fichier — **elles ne proviennent pas

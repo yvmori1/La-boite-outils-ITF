@@ -12,7 +12,7 @@
   3. graphies normalisées           (variantes sans ambiguïté)
   4. liens des formes vers les fiches
   5. mvt.txt
-  6. prononciations et liens audio  (fiches, manuel)
+  6. prononciations et liens audio  (fiches, manuel, guide du combat)
   7. réparation des audio manquants
   8. contrôle final (scripts/verifier.py)
 
@@ -119,7 +119,7 @@ def main():
     if not args.sans_audio:
         etapes += [
             ("prononciations", lambda: lancer(
-                "generer-audio.py", ["--manuel"], args.write)),
+                "generer-audio.py", ["--manuel", "--combats"], args.write)),
             ("audio manquants", lambda: lancer(
                 "generer-audio.py", ["--reparer"], args.write)),
         ]

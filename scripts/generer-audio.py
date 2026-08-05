@@ -6,6 +6,7 @@
   python3 scripts/generer-audio.py --write --force # régénère même l'audio existant
   python3 scripts/generer-audio.py --limite 5      # s'arrête après 5 fiches
   python3 scripts/generer-audio.py --manuel        # lie les hangul du manuel
+  python3 scripts/generer-audio.py --combats       # lie les hangul de Combats.md
 
 Pour chaque fiche de Techniques/, chagi/, jirugi/, makgi/ et tul/ :
 
@@ -19,11 +20,12 @@ Le script est idempotent : une fiche qui porte déjà son lien n'est pas retouch
 et son audio n'est pas régénéré, sauf avec --force. Une fiche sans hangul est
 laissée intacte et signalée dans le rapport final.
 
-Avec --manuel, chaque hangul de Theorie/manuel-taekwon-do.md devient un lien
-vers sa prononciation : la grammaire, les positions et le lexique en annexe y
-sont traités d'un seul tenant. Un hangul déjà couvert par une fiche renvoie vers
-l'audio de cette fiche plutôt que d'en produire un doublon ; une ligne déjà liée
-n'est pas retouchée.
+Avec --manuel ou --combats, chaque hangul du document visé devient un lien vers
+sa prononciation : pour le manuel, la grammaire, les positions et le lexique en
+annexe sont traités d'un seul tenant. Un hangul déjà couvert par une fiche ou
+par un autre document renvoie vers l'audio existant plutôt que d'en produire un
+doublon — y compris lorsqu'il revient plusieurs fois dans le même document ; une
+ligne déjà liée n'est pas retouchée.
 
 Ce sont les deux fiches Lexique.md et grammaire-itf.md, aujourd'hui fusionnées
 dans le manuel, que --manuel remplace. Leurs anciens indicateurs --lexique et
@@ -46,6 +48,14 @@ HORS_TRAITEMENT = {"README.md", "Dans-les-formes.md", "nomenclature.md"}
 
 VOIX = "Yuna"
 DEBIT = 130
+
+# Documents de fond dont chaque hangul devient un lien de prononciation, avec le
+# sous-dossier d'audio qui leur est propre. Celui du manuel reste « grammaire »,
+# nom de la fiche d'origine : le renommer perdrait les enregistrements déjà liés.
+DOCUMENTS = {
+    "manuel": ("Theorie/manuel-taekwon-do.md", "grammaire"),
+    "combats": ("Theorie/Combats.md", "combats"),
+}
 
 # Noms des formes en hangul : absents des fiches, donc fournis ici.
 # À vérifier par un pratiquant — ils ne proviennent pas du dépôt.
@@ -327,6 +337,11 @@ def romanisation_precedente(ligne, position):
     m = re.search(r"([A-Za-z][A-Za-z'’ \-]{2,40}?)\s*[/(]\s*$", avant)
     if m:
         return m.group(1).strip()
+    # même chose pour la forme « Sambo Matsogi — 삼보 맞서기 », où un tiret
+    # sépare la romanisation de son hangul
+    m = re.search(r"([A-Z][A-Za-z'’ \-]{2,40}?)\s*[—–]\s*$", avant)
+    if m:
+        return m.group(1).strip()
     dernier = None
     for dernier in re.finditer(r"\*{1,2}([A-Za-z][A-Za-z'’ \-]{1,40}?)\s*[\*(/]",
                                avant):
@@ -380,9 +395,15 @@ def lier_document(chemin, sous_dossier, args):
                 audio = index[texte]                 # même hangul : réemploi
                 compte["reemploi"] += 1
             else:
+                # sans romanisation, le hangul sert de nom de fichier ; ses
+                # espaces deviennent des tirets, sans quoi le lien Markdown
+                # s'arrêterait au premier espace de l'adresse
                 base = re.sub(r"[^A-Za-z0-9]+", "-", terme).strip("-") \
-                    if terme else texte
+                    if terme else re.sub(r"\s+", "-", texte)
                 audio = f"{sous_dossier}/{base}.m4a"
+                # le même hangul plus loin dans le document doit renvoyer ici,
+                # et non se faire enregistrer une seconde fois sous un autre nom
+                index[texte] = audio
                 compte["propre"] += 1
             cible = AUDIO / audio
             if not cible.exists():
@@ -443,6 +464,8 @@ def main():
     p.add_argument("--lexique", "--grammaire", dest="manuel",
                    action="store_true",
                    help="ancien nom de --manuel (fiches fusionnées au manuel)")
+    p.add_argument("--combats", action="store_true",
+                   help="lie les hangul de Theorie/Combats.md")
     p.add_argument("--reparer", action="store_true",
                    help="reproduit l'audio des liens dont le fichier manque")
     args = p.parse_args()
@@ -511,10 +534,12 @@ def main():
         print(f"  reproduits          : {c['produits']}")
         return
 
-    if args.manuel:
-        c = lier_document(RACINE / "Theorie" / "manuel-taekwon-do.md",
-                          "grammaire", args)
-        print("\nmanuel-taekwon-do.md")
+    for nom, (relatif, sous_dossier) in DOCUMENTS.items():
+        if not getattr(args, nom):
+            continue
+        chemin = RACINE / relatif
+        c = lier_document(chemin, sous_dossier, args)
+        print(f"\n{chemin.name}")
         print(f"  hangul liés               : {c['reemploi'] + c['propre']}")
         print(f"    réemploi d'un audio     : {c['reemploi']}")
         print(f"    audio propre            : {c['propre']}")
