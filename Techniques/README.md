@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**242 fiches** au total.
+**272 fiches** au total.
 
 ---
 
@@ -249,8 +249,12 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 ## 6. Position en « X » (*Kyocha So*)
 
+La posture elle-même est décrite dans [Kyocha-Sogi.md](Kyocha-Sogi.md).
+
 | Fiche | Technique |
 | :--- | :--- |
+| [Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.md](Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.md) | Blocage bas avant direct à l'avant-bras extérieur |
+| [Kyocha-So-Baro-Ollyo-Jirugi.md](Kyocha-So-Baro-Ollyo-Jirugi.md) | Coup de poing uppercut direct |
 | [Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md](Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras gauche |
 | [Orun-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md](Orun-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md) | Orun Kyocha So Doo Palmok Nopunde Makgi |
 | [Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md](Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md) | Coup cinglant descendant au revers du poing direct gauche |
@@ -264,6 +268,7 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 | [Wen-Kyocha-So-Najunde-Bandae-Jirugi.md](Wen-Kyocha-So-Najunde-Bandae-Jirugi.md) | Coup de poing direct inversé bas gauche |
 | [Orun-Kyocha-So-Najunde-Bandae-Jirugi.md](Orun-Kyocha-So-Najunde-Bandae-Jirugi.md) | Orun Kyocha So Najunde Bandae Jirugi |
 | [Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md](Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md) | Kyocha So Sang Palkup Soopyong Tulgi |
+| [Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.md](Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.md) | Blocage bas avant inversé au revers du tranchant de la main |
 | [Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md](Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md) | Coup tranchant latéral moyen au tranchant de la main gauche |
 | [Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md](Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md) | Orun Kyocha So Sonkal Kaunde Yop Taerigi |
 
@@ -271,12 +276,24 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 ## 7. Position rapprochée (*Moa So*)
 
+La posture elle-même est décrite dans [Moa-Sogi.md](Moa-Sogi.md).
+
 | Fiche | Technique |
 | :--- | :--- |
 | [Moa-So-Wen-An-Palmok-Yobap-Makgi.md](Moa-So-Wen-An-Palmok-Yobap-Makgi.md) | Blocage combiné latéral-avant gauche à l'avant-bras intérieur en posture pieds joints |
 | [Moa-So-Orun-An-Palmok-Yobap-Makgi.md](Moa-So-Orun-An-Palmok-Yobap-Makgi.md) | Blocage combiné latéral-avant droit à l'avant-bras intérieur en posture pieds joints |
+| [Moa-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md](Moa-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md) | Coup percutant latéral-arrière au revers du poing gauche en posture pieds joints |
+| [Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md](Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md) | Coup percutant latéral-arrière au revers du poing droit en posture pieds joints |
+| [Moa-So-Orun-Giokja-Jirugi.md](Moa-So-Orun-Giokja-Jirugi.md) | Coup de poing direct en "L" / d'angle (en équerre) du bras droit en posture pieds joints |
+| [Moa-So-Hanulson.md](Moa-So-Hanulson.md) | Posture pieds joints avec la main du ciel |
 | [Moa-So-Wen-Joomuk-Giokja-Jirugi.md](Moa-So-Wen-Joomuk-Giokja-Jirugi.md) | Coup de poing en équerre (en angle droit) du bras gauche en posture pieds joints |
+| [Moa-So-Orun-Joomuk-Giokja-Jirugi.md](Moa-So-Orun-Joomuk-Giokja-Jirugi.md) | Coup de poing direct en "L" / d'angle (en équerre) du poing droit en posture pieds joints |
 | [Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.md](Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.md) | Double coup de poing en croissant au niveau haut avec les jointures saillantes de l'index en posture pieds joints |
+| [Moa-So-Sang-Palkup-Soopyong-Tulgi.md](Moa-So-Sang-Palkup-Soopyong-Tulgi.md) | Coup de coude horizontal double / simultané en posture pieds joints |
+| [Moa-So-Sang-Yop-Palkup-Tulgi.md](Moa-So-Sang-Yop-Palkup-Tulgi.md) | Coup de coude pénétration latéral double / simultané en posture pieds joints |
+| [Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.md](Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.md) | Blocage bas avant au tranchant de la main droite en posture pieds joints |
+| [Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.md](Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.md) | Coup percutant descendant avec le marteau du poing gauche en posture pieds joints |
+| [Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.md](Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.md) | Coup percutant descendant avec le marteau du poing droit en posture pieds joints |
 
 ---
 
@@ -284,6 +301,7 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
+| [Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md](Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md) | Pénétration haute inversée au piqué de la main plat (paume vers le bas) en posture basse |
 | [Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md](Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md) | Pique du bout des doigts à plat au niveau haut en posture basse |
 | [Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md](Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md) | Nachuo So Sonbadak Bandae Noollo Makgi |
 
@@ -322,7 +340,22 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
 
 ---
 
-## 12. Position *Junbi So*
+## 12. Position parallèle (*Narani So*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md](Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md) | Coup de poing circulaire moyen du poing gauche en posture pieds parallèles |
+| [Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md](Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md) | Coup de poing circulaire moyen du poing droit en posture pieds parallèles |
+| [Narani-So-Wen-Joomuk-Kaunde-Jirugi.md](Narani-So-Wen-Joomuk-Kaunde-Jirugi.md) | Coup de poing direct moyen du poing gauche en posture pieds parallèles |
+| [Narani-So-Orun-Joomuk-Kaunde-Jirugi.md](Narani-So-Orun-Joomuk-Kaunde-Jirugi.md) | Coup de poing direct moyen du poing droit en posture pieds parallèles |
+| [Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.md](Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.md) | Coup traçant / d'incision entrant haut au piqué de la main plat (paume vers le bas) du côté droit en posture pieds parallèles |
+| [Narani-So-Sang-Sonkal-Soopyong-Taerigi.md](Narani-So-Sang-Sonkal-Soopyong-Taerigi.md) | Coup percutant horizontal simultané aux deux tranchants de la main en posture pieds parallèles |
+| [Narani-So-Wen-Sonbadak-Kaunde-Golcho-Makgi.md](Narani-So-Wen-Sonbadak-Kaunde-Golcho-Makgi.md) | Blocage en crochet moyen à la paume de la main gauche en posture pieds parallèles |
+| [Narani-So-Orun-Sonbadak-Kaunde-Golcho-Makgi.md](Narani-So-Orun-Sonbadak-Kaunde-Golcho-Makgi.md) | Blocage en crochet moyen à la paume de la main droite en posture pieds parallèles |
+
+---
+
+## 13. Position *Junbi So*
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -330,7 +363,7 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
 
 ---
 
-## 13. Coups de pied (*Chagi*)
+## 14. Coups de pied (*Chagi*)
 
 Techniques de jambe nommées sans position d'appui imposée.
 
@@ -344,6 +377,12 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Wen-Kaunde-Dwitcha-Jirugi.md](Wen-Kaunde-Dwitcha-Jirugi.md) | Coup de pied arrière perçant moyen de la jambe gauche |
 | [Wen-Kaunde-Yopcha-Tulgi.md](Wen-Kaunde-Yopcha-Tulgi.md) | Coup de pied latéral enfonçant/poussant moyen de la jambe gauche |
 | [Orun-Kaunde-Yopcha-Tulgi.md](Orun-Kaunde-Yopcha-Tulgi.md) | Orun Kaunde Yopcha Tulgi |
+| [Moorup-Najunde-Apcha-Busigi.md](Moorup-Najunde-Apcha-Busigi.md) | Coup de pied direct fouetté bas avec action du genou |
+| [Moorup-Ollyo-Chagi.md](Moorup-Ollyo-Chagi.md) | Coup de genou ascendant / montant |
+| [Naeryo-Chagi.md](Naeryo-Chagi.md) | Coup de pied descendant |
+| [Najunde-Ap-Cha-Busigi.md](Najunde-Ap-Cha-Busigi.md) | Coup de pied direct fouetté au niveau bas |
+| [Najunde-Apcha-Busigi.md](Najunde-Apcha-Busigi.md) | Coup de pied direct fouetté au niveau bas |
+| [Najunde-Bituro-Chagi.md](Najunde-Bituro-Chagi.md) | Coup de pied tordu / vrillé au niveau bas |
 | [Najunde-Yobap-Cha-Busigi.md](Najunde-Yobap-Cha-Busigi.md) | Coup de pied fouetté bas de biais (côté-avant) |
 | [Nopunde-Bandae-Dollyo-Chagi.md](Nopunde-Bandae-Dollyo-Chagi.md) | Nopunde Bandae Dollyo Chagi |
 | [Nopunde-Bandae-Dollyo-Gorochagi.md](Nopunde-Bandae-Dollyo-Gorochagi.md) | Nopunde Bandae Dollyo Gorochagi |
@@ -367,7 +406,7 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 14. Sans position imposée
+## 15. Sans position imposée
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -389,7 +428,7 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 15. Postures et positions de préparation
+## 16. Postures et positions de préparation
 
 Les positions d'appui et de préparation, décrites pour elles-mêmes.
 
@@ -401,7 +440,9 @@ Les positions d'appui et de préparation, décrites pour elles-mêmes.
 | [Guburyo-Junbi-Sogi-A.md](Guburyo-Junbi-Sogi-A.md) | Posture préparatoire fléchie sur une jambe — Variante A |
 | [Guburyo-Junbi-Sogi-B.md](Guburyo-Junbi-Sogi-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
 | [Gunnun-Junbi-Sogi.md](Gunnun-Junbi-Sogi.md) | Posture préparatoire en marche |
+| [Kyocha-Sogi.md](Kyocha-Sogi.md) | Posture croisée |
 | [Moa-Junbi-Sogi-B.md](Moa-Junbi-Sogi-B.md) | Moa Junbi Sogi B |
+| [Moa-Sogi.md](Moa-Sogi.md) | Posture pieds joints |
 | [Niunja-Sogi.md](Niunja-Sogi.md) | Niunja Sogi |
 | [Waebal-Sogi.md](Waebal-Sogi.md) | Posture sur une seule jambe |
 

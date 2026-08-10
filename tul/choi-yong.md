@@ -90,7 +90,7 @@
 32. Déplacer le pied droit vers D en tournant dans le sens horaire pour former une position parallèle vers B tout en exécutant un blocage crocheté moyen vers B avec la paume droite.
    *([Narani so orun sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 33. Exécuter un coup de poing moyen vers B avec le poing gauche tout en maintenant une position parallèle vers B.
-   *(Narani so wen joomuk kaunde jirugi)*
+   *([Narani so wen joomuk kaunde jirugi](../Techniques/Narani-So-Wen-Joomuk-Kaunde-Jirugi.md))*
 34. Tourner le visage vers A tout en formant un gauche position de préparation pliée A vers A.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 35. Exécuter un coup de pied latéral perçant moyen vers A avec le pied droit pour former un blocage de garde de l'avant-bras.
@@ -105,7 +105,7 @@
 39. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position parallèle vers A tout en exécutant un blocage crocheté moyen vers A avec la paume gauche.
    *([Narani so wen sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 40. Exécuter un coup de poing moyen vers A avec le poing droit tout en maintenant une position parallèle vers A.
-   *(Narani so orun joomuk kaunde jirugi)*
+   *([Narani so orun joomuk kaunde jirugi](../Techniques/Narani-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 41. Tourner le visage vers B tout en formant un droit position de préparation pliée A vers B.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 42. Exécuter un coup de pied latéral perçant moyen vers B avec le pied gauche pour former un blocage de garde de l'avant-bras.

@@ -79,7 +79,7 @@
 25. Exécuter un coup de pied en pioche vers B avec le pied gauche puis l'abaisser vers B pour former une position arrière rapprochée sur la jambe droite vers B tout en exécutant un blocage de garde moyen avec l'avant-bras.
    *(Gokaeng-i chagi, [orun dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 26. Ramener le pied droit vers le pied gauche pour former une position fermée avec un ciel main vers D.
-   *(Moa so hanulson)*
+   *([Moa so hanulson](../Techniques/Moa-So-Hanulson.md))*
    > *Exécuter en mouvement lent.*
 27. Glisser vers C pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant une pique descendante avec le coude droit.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
@@ -116,7 +116,7 @@
 41. Abaisser le pied gauche vers D en un mouvement étampé pour former une position en L droite vers D tout en exécutant une frappe horizontale vers D avec le revers du poing gauche.
    *([Niunja so dung joomuk bandae soopyong taerigi](../Techniques/Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.md))*
 42. Exécuter un cisaillage horizontal du bout des doigts droit vers l'intérieur, au niveau haut, vers D tout en formant une position parallèle vers D, en tirant le pied droit.
-   *(Narani so orun opun sonkut nopunde anuro ghutgi)*
+   *([Narani so orun opun sonkut nopunde anuro ghutgi](../Techniques/Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.md))*
 43. Exécuter un coup de poing frontal et un coup de poing renversé vers D consécutivement avec le poing droit tout en sautant vers D puis atterrir vers D pour former une position fermée vers D avec le poing droit étendu.
    *([Twimyo orun joomuk ap jirugi](../Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.md), orun joomuk dwijibo jirigi)*
    > *Distance de saut : 1 position en L.*

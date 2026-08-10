@@ -49,7 +49,7 @@
 12. Abaisser le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un coup de poing semi-circulaire haut avec le poing droit.
    *(Gunnun so nopunde bandae bandal jirugi)*
 13. Exécuter un coup de poing circulaire moyen avec le poing gauche tout en formant une position parallèle vers C en tirant le pied droit.
-   *(Narani so wen joomuk kaunde dollyo jirugi)*
+   *([Narani so wen joomuk kaunde dollyo jirugi](../Techniques/Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md))*
    > *Exécuter en mouvement lent.*
 14. Déplacer le pied gauche vers D pour former une position de marche droite vers C tout en exécutant un blocage intérieur bas avec le tranchant de la main gauche.
    *([Gunnun so sonkal najunde bandae anuro makgi](../makgi/anuro-makgi.md))*
@@ -78,7 +78,7 @@
 25. Abaisser le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing semi-circulaire haut avec le poing gauche.
    *(Gunnun so nopunde bandae bandal jirugi)*
 26. Exécuter un coup de poing circulaire moyen avec le poing droit tout en formant une position parallèle vers D en tirant le pied gauche.
-   *(Narani so orun joomuk kaunde dollyo jirugi)*
+   *([Narani so orun joomuk kaunde dollyo jirugi](../Techniques/Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md))*
    > *Exécuter en mouvement lent.*
 27. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un blocage en écartement moyen avec le tranchant de la main.
    *([Gunnun so sonkal kaunde hechyo makgi](../makgi/hechyo-makgi.md))*

@@ -44,7 +44,7 @@
 10. Ramener le pied gauche vers le pied droit, pour former une position fermée vers D, tout en piquant avec un jumelé côté coude.
    *([Moa so sang yop palkup tulgi](../jirugi/sang-yop-palkup-tulgi.md))*
 11. Croiser le pied gauche par-dessus le pied droit, pour former une position en X droite vers D tout en tournant le visage vers A, en gardant les mains dans la position du mouvement 10.
-   *(Kyocha sogi)*
+   *([Kyocha sogi](../Techniques/Kyocha-Sogi.md))*
    > *Exécuter en mouvement rapide.*
 12. Exécuter un coup de pied latéral perçant moyen vers A avec le pied droit en gardant les mains dans la position du mouvement 11.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*

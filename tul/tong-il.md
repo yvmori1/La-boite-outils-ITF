@@ -80,7 +80,7 @@
    *([Gunnun so sonbadak baro noollo makgi](../Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md))*
    > *Exécuter 24 et 25 en mouvement lent.*
 26. Ramener le pied gauche vers le pied droit pour former une position fermée vers C tout en amenant le revers des deux mains devant le bas-ventre en un mouvement circulaire, en frappant la paume gauche avec le tranchant de la main droite.
-   *(Moa sogi)*
+   *([Moa sogi](../Techniques/Moa-Sogi.md))*
 27. Déplacer le pied gauche vers D, pour former une position de marche gauche vers D tout en exécutant un blocage montant avec le tranchant de la main gauche.
    *([Gunnun so sonkal chookyo makgi](../makgi/chookyo-makgi.md))*
 28. Exécuter un coup de poing haut vers D avec le poing droit tout en maintenant une position de marche gauche vers D.

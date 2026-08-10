@@ -39,7 +39,7 @@
    *([Annun so orun joomuk kaunde jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.md))*
    > *Exécuter 7 et 8 en mouvement rapide.*
 9. Déplacer le pied droit vers C en tournant dans le sens horaire pour former une position parallèle vers A tout en exécutant une frappe horizontale avec un double tranchant de la main.
-   *(Narani so sang sonkal soopyong taerigi)*
+   *([Narani so sang sonkal soopyong taerigi](../Techniques/Narani-So-Sang-Sonkal-Soopyong-Taerigi.md))*
 10. Exécuter un coup de pied latéral perçant haut vers C avec le pied droit en gardant les mains dans la position du mouvement 9.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 11. Exécuter un coup de pied circulaire haut vers D avec le pied droit.
@@ -49,7 +49,7 @@
    *([Twigi](../Techniques/Twigi.md), orun kyocha so dung joomuk nopunde baro yop taerigi)*
    > *Distance de saut : 1 position de marche.*
 13. Déplacer le pied gauche vers C pour former une position parallèle vers B tout en exécutant une frappe horizontale avec un double tranchant de la main.
-   *(Narani so sang sonkal soopyong taerigi)*
+   *([Narani so sang sonkal soopyong taerigi](../Techniques/Narani-So-Sang-Sonkal-Soopyong-Taerigi.md))*
 14. Exécuter un coup de pied latéral perçant haut vers C avec le pied gauche en gardant les mains dans la position du mouvement 13.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 15. Exécuter un coup de pied circulaire haut vers D avec le pied gauche.

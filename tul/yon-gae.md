@@ -47,7 +47,7 @@
 10. Déplacer le pied droit sur ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume gauche.
    *([Narani so wen sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 11. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position parallèle vers D.
-   *(Narani so orun joomuk kaunde jirugi)*
+   *([Narani so orun joomuk kaunde jirugi](../Techniques/Narani-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 12. Glisser vers C pour former une position en L gauche vers D tout en exécutant un blocage de garde bas vers D avec un revers de la main.
    *([Niunja so sonkal dung najunde daebi makgi](../makgi/najunde-daebi-makgi.md))*
    > *Exécuter en un mouvement circulaire.*
@@ -73,7 +73,7 @@
 21. Déplacer le pied gauche sur ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume droite.
    *([Narani so orun sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 22. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position parallèle vers D.
-   *(Narani so wen joomuk kaunde jirugi)*
+   *([Narani so wen joomuk kaunde jirugi](../Techniques/Narani-So-Wen-Joomuk-Kaunde-Jirugi.md))*
 23. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage en W avec le revers de la main.
    *([Annun so sonkal dung san makgi](../Techniques/Annun-So-Sonkal-Dung-San-Makgi.md))*
 24. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant une pique horizontale avec un jumelé coude.
@@ -81,7 +81,7 @@
 25. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec un jumelé droit avant-bras.
    *([Annun so sang sun palmok momchau makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md))*
 26. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant un coup de poing montant avec le poing droit, en tirant le côté du poing gauche devant l'épaule droite.
-   *(Kyocha so baro ollyo jirugi)*
+   *([Kyocha so baro ollyo jirugi](../Techniques/Kyocha-So-Baro-Ollyo-Jirugi.md))*
 27. Exécuter un coup de pied crocheté inversé haut vers B avec le pied droit.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
 28. Abaisser le pied droit vers B puis exécuter un coup de pied latéral perçant haut vers B avec le pied gauche en tirant les deux mains devant la poitrine tout en tournant dans le sens horaire.
@@ -96,7 +96,7 @@
 32. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec un jumelé droit avant-bras.
    *([Annun so sang sun palmok momchau makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md))*
 33. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers D tout en exécutant un coup de poing montant avec le poing gauche, en tirant le côté du poing droit devant l'épaule gauche.
-   *(Kyocha so baro ollyo jirugi)*
+   *([Kyocha so baro ollyo jirugi](../Techniques/Kyocha-So-Baro-Ollyo-Jirugi.md))*
 34. Exécuter un coup de pied crocheté inversé haut vers A avec le pied gauche.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
 35. Abaisser le pied gauche vers A puis exécuter un coup de pied latéral perçant haut vers A avec le pied droit en tirant les deux mains devant la poitrine tout en tournant dans le sens anti-horaire.

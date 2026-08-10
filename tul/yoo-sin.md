@@ -115,7 +115,7 @@
 44. Exécuter un coup de poing moyen vers F avec le poing gauche tout en maintenant une position en L gauche vers F.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 45. Ramener le pied gauche vers le pied droit pour former une position fermée vers C tout en exécutant un coup de poing en angle avec le poing droit.
-   *(Moa so orun joomuk giokja jirugi)*
+   *([Moa so orun joomuk giokja jirugi](../Techniques/Moa-So-Orun-Joomuk-Giokja-Jirugi.md))*
    > *Exécuter en mouvement lent.*
 46. Déplacer le pied gauche vers E pour former une position en L droite vers E tout en exécutant un blocage moyen vers E avec l'avant-bras intérieur gauche.
    *([Niunja so an palmok kaunde yop makgi](../Techniques/An-Palmok-Kaunde-Yop-Makgi.md))*

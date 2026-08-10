@@ -52,7 +52,7 @@
 14. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant une saisie en U vers A.
    *([Niunja so digutja japgi](../Techniques/Niunja-So-Digutja-Japgi.md))*
 15. Ramener le pied gauche vers le pied droit pour former une position fermée vers D tout en exécutant une pique horizontale avec un jumelé coude, en tournant le visage vers B.
-   *(Moa so sang palkup soopyong tulgi)*
+   *([Moa so sang palkup soopyong tulgi](../Techniques/Moa-So-Sang-Palkup-Soopyong-Tulgi.md))*
    > *Exécuter en mouvement lent.*
 16. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing droit et en étendant le bras gauche vers le côté vers le bas.
    *([Annun so orun dung joomuk yopdwi taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md))*
@@ -90,7 +90,7 @@
 32. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant une saisie en U vers B.
    *([Niunja so digutja japgi](../Techniques/Niunja-So-Digutja-Japgi.md))*
 33. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant une pique horizontale avec un jumelé coude, en tournant le visage vers A.
-   *(Moa so sang palkup soopyong tulgi)*
+   *([Moa so sang palkup soopyong tulgi](../Techniques/Moa-So-Sang-Palkup-Soopyong-Tulgi.md))*
    > *Exécuter en mouvement lent.*
 34. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing gauche et en étendant le bras droit vers le côté vers le bas.
    *([Annun so wen dung joomuk yopdwi taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md))*

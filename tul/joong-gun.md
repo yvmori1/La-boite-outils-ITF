@@ -85,7 +85,7 @@
    *([Nachuo so sonbadak bandae noollo makgi](../Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md))*
    > *Exécuter en mouvement lent.*
 30. Ramener le pied gauche vers le pied droit pour former une position fermée vers A tout en exécutant un coup de poing en angle avec le poing droit.
-   *(Moa so orun giokja jirugi)*
+   *([Moa so orun giokja jirugi](../Techniques/Moa-So-Orun-Giokja-Jirugi.md))*
    > *Exécuter en mouvement lent.*
 31. Déplacer le pied droit vers A pour former une position fixe droite vers A tout en exécutant un blocage en U vers A.
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
