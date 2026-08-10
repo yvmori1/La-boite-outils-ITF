@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**240 fiches** au total.
+**242 fiches** au total.
 
 ---
 
@@ -273,6 +273,8 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
+| [Moa-So-Wen-An-Palmok-Yobap-Makgi.md](Moa-So-Wen-An-Palmok-Yobap-Makgi.md) | Blocage combiné latéral-avant gauche à l'avant-bras intérieur en posture pieds joints |
+| [Moa-So-Orun-An-Palmok-Yobap-Makgi.md](Moa-So-Orun-An-Palmok-Yobap-Makgi.md) | Blocage combiné latéral-avant droit à l'avant-bras intérieur en posture pieds joints |
 | [Moa-So-Wen-Joomuk-Giokja-Jirugi.md](Moa-So-Wen-Joomuk-Giokja-Jirugi.md) | Coup de poing en équerre (en angle droit) du bras gauche en posture pieds joints |
 | [Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.md](Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.md) | Double coup de poing en croissant au niveau haut avec les jointures saillantes de l'index en posture pieds joints |
 
