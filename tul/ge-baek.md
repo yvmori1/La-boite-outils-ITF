@@ -92,7 +92,7 @@
 31. Exécuter une frappe frontale vers BD avec le revers du poing droit tout en maintenant une position assise vers BD.
    *([Annun so orun dung joomuk ap taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md))*
 32. Déplacer le pied gauche vers C, pour former une position de marche gauche vers C, tout en exécutant une frappe frontale haute vers C avec le revers de la main droite.
-   *(Gunnun so sonkal dung nopunde bandae ap taerigi)*
+   *([Gunnun so sonkal dung nopunde bandae ap taerigi](../Techniques/Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md))*
 33. Déplacer le pied gauche vers A d'environ une demi-largeur d'épaule tout en exécutant un coup de pied circulaire moyen vers C avec le pied droit.
    *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
    > *Distance de saut : 1/2 largeur d'épaules.*

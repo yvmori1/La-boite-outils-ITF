@@ -325,7 +325,7 @@ CHOONG-MOO  (30 mouvements)
    6. Guburyo Junbi Sogi A
    7. Kaunde Yopcha Jirugi
    8. Niunja So Sonkal Kaunde Daebi Makgi
-   9. Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi
+   9. Twimyo Yopcha Jirugi Wen Niunja So Sonkal Kaunde Daebi Makgi
   10. Niunja So Palmok Najunde Yop Makgi
   11. (mouvement préparatoire)  [préparatoire]
   12. Moorup Ollyo Chagi
@@ -340,7 +340,7 @@ CHOONG-MOO  (30 mouvements)
   21. Niunja So Dung Joomuk Baro Yopdwi Taerigi Wa Palmok Najunde Bandae Makgi
   22. Gunnun So Sun Sonkut Kaunde Tulgi
   23. Gunnun So Doo Palmok Nopunde Makgi
-  24. Annun So Orun Palmok Kaunde Ap Makgi, Orun Dung Joomuk Nopunde Yop Taerigi
+  24. Annun So Orun Palmok Kaunde Ap Makgi Orun Dung Joomuk Nopunde Yop Taerigi
   25. Kaunde Yopcha Jirugi
   26. Kaunde Yopcha Jirugi
   27. Niunja So Kyocha Sonkal Momchau Makgi
@@ -1197,7 +1197,7 @@ l'ensemble des formes.
     10 ×  Annun So Orun Joomuk Kaunde Jirugi
      1 ×  Annun So Orun Opun Sonkut Kaunde Tulgi
      1 ×  Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi
-     1 ×  Annun So Orun Palmok Kaunde Ap Makgi
+     1 ×  Annun So Orun Palmok Kaunde Ap Makgi Orun Dung Joomuk Nopunde Yop Taerigi
      3 ×  Annun So Orun Sonbadak Duro Makgi
      1 ×  Annun So Orun Sondung Soopyong Taerigi
      4 ×  Annun So Orun Sonkal Kaunde Yop Taerigi
@@ -1470,7 +1470,6 @@ l'ensemble des formes.
      6 ×  Nopunde Dollyo Chagi
      3 ×  Nopunde Dwitcha Jirugi
     11 ×  Nopunde Yopcha Jirugi
-     1 ×  Orun Dung Joomuk Nopunde Yop Taerigi
      1 ×  Orun Dwitbal So Palmok Kaunde Daebi Makgi
      1 ×  Orun Gojung So Digutja Makgi
      1 ×  Orun Joomuk Dwijibo Jirigi
@@ -1504,7 +1503,8 @@ l'ensemble des formes.
      1 ×  Twimyo Sangbang Chagi
      1 ×  Twimyo Sonkal Bakuro Taerigi
      1 ×  Twimyo Sonkal Kaunde Bakuro Taerigi
-     2 ×  Twimyo Yopcha Jirugi
+     1 ×  Twimyo Yopcha Jirugi
+     1 ×  Twimyo Yopcha Jirugi Wen Niunja So Sonkal Kaunde Daebi Makgi
      4 ×  Twio Dolmyo Chagi
      2 ×  Waebal So Bakat Palmok Narani Makgi
      1 ×  Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi
@@ -1522,7 +1522,7 @@ l'ensemble des formes.
      1 ×  Wen Kyocha So Najunde Bandae Jirugi
      1 ×  Wen Kyocha So Sonkal Kaunde Yop Taerigi
      3 ×  Wen Niunja So Palmok Kaunde Daebi Makgi
-     4 ×  Wen Niunja So Sonkal Kaunde Daebi Makgi
+     3 ×  Wen Niunja So Sonkal Kaunde Daebi Makgi
      4 ×  Wen Niunja So Wen Yop Palkup Tulgi
      1 ×  Wen Nopunde Bandae Dollyo Gorochagi
      1 ×  Wen Nopunde Yopcha Jirugi

@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**272 fiches** au total.
+**274 fiches** au total.
 
 ---
 
@@ -42,6 +42,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 | [Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md](Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md) | Double coup cinglant horizontal au tranchant de la main |
 | [Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md](Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md) | Blocage descendant en pression avec la paume de la main (inversé) |
 | [Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md](Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md) | Gunnun So Sonbadak Baro Noollo Makgi |
+| [Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md](Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md) | Coup percutant frontal haut avec le revers du tranchant de la main inversée |
 
 ---
 
@@ -112,6 +113,7 @@ La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
 | [Niunja-So-Sonkal-Najunde-Bandae-Makgi.md](Niunja-So-Sonkal-Najunde-Bandae-Makgi.md) | Blocage bas inversé au tranchant de la main |
 | [Niunja-So-Sonkal-Najunde-Daebi-Makgi.md](Niunja-So-Sonkal-Najunde-Daebi-Makgi.md) | Blocage de garde bas au tranchant de la main |
 | [Niunja-So-Sonkal-Nopunde-Daebi-Makgi.md](Niunja-So-Sonkal-Nopunde-Daebi-Makgi.md) | Niunja So Sonkal Nopunde Daebi Makgi |
+| [Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi |
 
 ### 2.4 Piques, coudes et coupures (*Tulgi*, *Ghutgi*)
 
