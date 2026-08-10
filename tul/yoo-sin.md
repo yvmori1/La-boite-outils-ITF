@@ -106,7 +106,7 @@
    *([Niunja so sonkal dung nopunde yop makgi](../makgi/nopunde-yop-makgi.md))*
 40. Ramener le pied droit vers le pied gauche pour former un position de préparation fermée C vers C.
    *([Moa junbi sogi C](../Techniques/Moa-Junbi-Sogi-C.md))*
-41. Déplacer le pied droit vers CF en un mouvement étampé pour former une position de marche droite vers CG tout en exécutant un coup de poing renversé vers CF avec les poings jumelés.
+41. Déplacer le pied droit vers CF en un mouvement étampé pour former une position de marche droite vers CF tout en exécutant un coup de poing renversé vers CF avec les poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 42. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers CE en un mouvement étampé, pour former une position de marche gauche vers CE tout en exécutant un coup de poing renversé vers CE avec les poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
@@ -156,7 +156,7 @@
    *([Annun so orun gutja makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md))*
 63. Changer la position des mains tout en maintenant une position assise vers B.
    *([Annun sogi](../Techniques/Annun-Sogi.md))*
-64. Exécuter une frappe descendante vers D avec le côté du poing droit tout en formant une position verticale gauche vers, en tirant le pied gauche.
+64. Exécuter une frappe descendante vers D avec le côté du poing droit tout en formant une position verticale gauche vers D, en tirant le pied gauche.
    *([Soojik so yop joomuk bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 65. Déplacer le pied droit vers A pour former une position de marche gauche vers B tout en exécutant un coup de poing vertical haut vers B avec les poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*

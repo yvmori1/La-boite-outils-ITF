@@ -5,7 +5,7 @@
 > **Grade :** 1er Dan
 
 * **Nombre de mouvements :**  39
-* **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré - Représente l'expansion du territoire)
+* **Diagramme au sol :**  (Hanja Représente l'expansion du territoire)
 * **Durée :** 75 secondes
 
 | Diagramme | Description |
