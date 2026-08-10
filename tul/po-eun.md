@@ -49,7 +49,7 @@
 13. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant un blocage frontal bas vers D avec l'avant-bras extérieur droit et en amenant la pulpe des doigts de la main gauche sur le dessous de l'avant-bras droit.
    *([Kyocha so bakat palmok najunde baro ap makgi](../makgi/ap-makgi.md))*
 14. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant une saisie en U vers A.
-   *(Niunja so digutja japgi)*
+   *([Niunja so digutja japgi](../Techniques/Niunja-So-Digutja-Japgi.md))*
 15. Ramener le pied gauche vers le pied droit pour former une position fermée vers D tout en exécutant une pique horizontale avec un jumelé coude, en tournant le visage vers B.
    *(Moa so sang palkup soopyong tulgi)*
    > *Exécuter en mouvement lent.*
@@ -87,7 +87,7 @@
 31. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers D tout en exécutant un blocage frontal bas vers D avec l'avant-bras extérieur gauche et en amenant la pulpe des doigts de la main droite sur le dessous de l'avant-bras gauche.
    *([Kyocha so bakat palmok najunde baro ap makgi](../makgi/ap-makgi.md))*
 32. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant une saisie en U vers B.
-   *(Niunja so digutja japgi)*
+   *([Niunja so digutja japgi](../Techniques/Niunja-So-Digutja-Japgi.md))*
 33. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant une pique horizontale avec un jumelé coude, en tournant le visage vers A.
    *(Moa so sang palkup soopyong tulgi)*
    > *Exécuter en mouvement lent.*

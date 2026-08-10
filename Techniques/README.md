@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**227 fiches** au total.
+**240 fiches** au total.
 
 ---
 
@@ -53,6 +53,8 @@ La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
+| [Niunja-So-Baro-Dwijibo-Jirugi.md](Niunja-So-Baro-Dwijibo-Jirugi.md) | Coup de poing retourné direct (paume vers le haut) (du même côté) |
+| [Niunja-So-Baro-Ollyo-Jirugi.md](Niunja-So-Baro-Ollyo-Jirugi.md) | Coup de poing uppercut direct (du même côté) |
 | [Niunja-So-Doo-Joomuk-Najunde-Jirugi.md](Niunja-So-Doo-Joomuk-Najunde-Jirugi.md) | Niunja So Doo Joomuk Najunde Jirugi |
 | [Niunja-So-Dwijibo-Jirugi.md](Niunja-So-Dwijibo-Jirugi.md) | Coup de poing retourné (paume vers le haut) |
 | [Niunja-So-Joongji-Joomuk-Baro-Dwijibo-Jirugi.md](Niunja-So-Joongji-Joomuk-Baro-Dwijibo-Jirugi.md) | Coup de poing retourné (paume vers le haut) avec le poing à majeur sortant (du même côté) |
@@ -64,6 +66,9 @@ La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
+| [Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.md](Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.md) | Coup cinglant descendant inversé avec le revers du poing |
+| [Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.md](Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.md) | Coup cinglant horizontal inversé avec le revers du poing |
+| [Niunja-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Niunja-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Coup cinglant latéral haut avec le revers du poing |
 | [Niunja-So-Sondung-Bandae-Naeryo-Taerigi.md](Niunja-So-Sondung-Bandae-Naeryo-Taerigi.md) | Coup cinglant descendat inversé avec le dos de la main |
 | [Niunja-So-Sondung-Nopunde-Bakuro-Taerigi.md](Niunja-So-Sondung-Nopunde-Bakuro-Taerigi.md) | Coup cinglant haut vers l'extérieur avec le dos de la main |
 | [Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md) | Frappe moyenne vers l'extérieur avec le tranchant de la main |
@@ -75,6 +80,13 @@ La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
 | Fiche | Technique |
 | :--- | :--- |
 | [Niunja-So-An-Palmok-Kaunde-Makgi.md](Niunja-So-An-Palmok-Kaunde-Makgi.md) | Blocage moyen avec le tranchant interne de l'avant-bras |
+| [Niunja-So-An-Palmok-Kaunde-Yop-Makgi.md](Niunja-So-An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen à l'avant-bras intérieur |
+| [Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.md](Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.md) | Blocage descendant inversé à l'avant-bras extérieur |
+| [Niunja-So-Bakat-Palmok-Naeryo-Makgi.md](Niunja-So-Bakat-Palmok-Naeryo-Makgi.md) | Blocage descendant à l'avant-bras extérieur |
+| [Niunja-So-Bakat-Palmok-Najunde-Makgi.md](Niunja-So-Bakat-Palmok-Najunde-Makgi.md) | Blocage bas à l'avant-bras extérieur |
+| [Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md](Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md) | Technique défensive combinée et simultanée |
+| [Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.md](Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.md) | Blocage poussé bas au double avant-bras |
+| [Niunja-So-Dung-Joomuk-Baro-Yopdwi-Taerigi-Wa-Palmok-Najunde-Bandae-Makgi.md](Niunja-So-Dung-Joomuk-Baro-Yopdwi-Taerigi-Wa-Palmok-Najunde-Bandae-Makgi.md) | Technique combinée complexe et simultanée |
 | [Niunja-So-Kyocha-Joomuk-Momchau-Makgi.md](Niunja-So-Kyocha-Joomuk-Momchau-Makgi.md) | Blocage d'arrêt croisé avec les poings fermés |
 | [Niunja-So-Kyocha-Joomuk-Noollo-Makgi.md](Niunja-So-Kyocha-Joomuk-Noollo-Makgi.md) | Blocage pressant croisé avec les poings fermés |
 | [Niunja-So-Kyocha-Sonkal-Momchau-Makgi.md](Niunja-So-Kyocha-Sonkal-Momchau-Makgi.md) | Blocage d'arrêt croisé au tranchant de la main |
@@ -105,6 +117,7 @@ La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
+| [Niunja-So-Digutja-Japgi.md](Niunja-So-Digutja-Japgi.md) | Saisie / prise en forme de "ㄷ" (ou en forme de U / C) |
 | [Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md](Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md) | Pique du bout des doigts à plat inversée au niveau haut |
 | [Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.md](Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.md) | Coup d'estoc/écorchure haut horizontal avec le bout des doigts à plat |
 | [Niunja-So-Sun-Palkup-Naeryo-Tulgi.md](Niunja-So-Sun-Palkup-Naeryo-Tulgi.md) | Niunja So Sun Palkup Naeryo Tulgi |

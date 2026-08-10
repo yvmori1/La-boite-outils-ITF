@@ -30,7 +30,7 @@
 4. Exécuter un blocage double des avant-bras tout en formant une position en L gauche vers A, en pivotant avec le pied gauche.
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 5. Exécuter un coup de poing montant avec le poing gauche tout en tirant le côté du poing droit devant l'épaule gauche, en maintenant une position en L gauche vers A.
-   *(Niunja so baro ollyo jirugi)*
+   *([Niunja so baro ollyo jirugi](../Techniques/Niunja-So-Baro-Ollyo-Jirugi.md))*
 6. Exécuter un coup de poing moyen vers A avec le poing droit tout en formant une position fixe droite vers A en un en glissant mouvement.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 7. Exécuter une frappe descendante avec le tranchant de la main droite tout en formant une position verticale gauche vers A, en tirant le pied droit.

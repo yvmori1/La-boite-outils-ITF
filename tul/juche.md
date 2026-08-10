@@ -113,7 +113,7 @@
    *(Guburyo junbi sogi B, [wen kaunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
    > *Exécuter en mouvement lent.*
 41. Abaisser le pied gauche vers D en un mouvement étampé pour former une position en L droite vers D tout en exécutant une frappe horizontale vers D avec le revers du poing gauche.
-   *(Niunja so dung joomuk bandae soopyong taerigi)*
+   *([Niunja so dung joomuk bandae soopyong taerigi](../Techniques/Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.md))*
 42. Exécuter un cisaillage horizontal du bout des doigts droit vers l'intérieur, au niveau haut, vers D tout en formant une position parallèle vers D, en tirant le pied droit.
    *(Narani so orun opun sonkut nopunde anuro ghutgi)*
 43. Exécuter un coup de poing frontal et un coup de poing renversé vers D consécutivement avec le poing droit tout en sautant vers D puis atterrir vers D pour former une position fermée vers D avec le poing droit étendu.
