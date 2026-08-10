@@ -80,7 +80,7 @@
 27. Abaisser le pied gauche vers A puis exécuter un blocage d'arrêt vers B avec les tranchants des mains croisées tout en formant une posture en L gauche vers B en pivotant avec le pied gauche.
    *([Niunja so kyocha sonkal momchau makgi](../makgi/momchau-makgi.md))*
 28. Déplacer le pied gauche vers B pour former une posture de marche gauche vers B tout en exécutant un blocage montant vers B avec deux paumes.
-   *(Gunnun so sang sonbadak ollyo makgi)*
+   *([Gunnun so sang sonbadak ollyo makgi](../Techniques/Gunnun-So-Sang-Sonbadak-Ollyo-Makgi.md))*
 29. Déplacer le pied gauche sur la ligne AB puis exécuter un blocage montant avec l'avant-bras droit tout en formant une posture de marche droite vers A.
    *([Gunnun so palmok chookyo makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md))*
 30. Exécuter un coup de poing moyen vers A avec le poing gauche tout en maintenant une posture de marche droite vers A.

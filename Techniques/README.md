@@ -10,39 +10,57 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**274 fiches** au total.
+**275 fiches** au total.
 
 ---
 
 ## 1. Position de marche (*Gunnun So*)
 
+### 1.1 Coups de poing (*Jirugi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gunnun-So-Bandae-Dwijibo-Jirugi.md](Gunnun-So-Bandae-Dwijibo-Jirugi.md) | Gunnun So Bandae Dwijibo Jirugi |
+| [Gunnun-So-Kaunde-Bandae-Jirugi.md](Gunnun-So-Kaunde-Bandae-Jirugi.md) | Coup de poing direct inverse au niveau moyen |
+| [Gunnun-So-Kaunde-Jirugi.md](Gunnun-So-Kaunde-Jirugi.md) | Coup de poing direct au niveau moyen |
+| [Gunnun-So-Nopunde-Jirugi.md](Gunnun-So-Nopunde-Jirugi.md) | Coup de poing direct au niveau haut |
+| [Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.md](Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.md) | Coup de poing direct inversé au niveau haut avec les deuxièmes jointures (poing plat) |
+| [Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md](Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md) | Double coup de poing retourné (paumes vers le haut) |
+| [Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md](Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md) | Double coup de poing vertical haut |
+
+### 1.2 Frappes (*Taerigi*)
+
 | Fiche | Technique |
 | :--- | :--- |
 | [Gunnun-So-Ap-Palkup-Bandae-Taerigi.md](Gunnun-So-Ap-Palkup-Bandae-Taerigi.md) | Coup de coude frontal inversé |
-| [Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md) | Blocage haut latéral avec le tranchant extérieur de l'avant-bras |
-| [Gunnun-So-Bandae-Dwijibo-Jirugi.md](Gunnun-So-Bandae-Dwijibo-Jirugi.md) | Gunnun So Bandae Dwijibo Jirugi |
 | [Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.md](Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.md) | Coup cinglant haut inversé avec la main en arc de cercle (croissant de lune) |
-| [Gunnun-So-Doo-Palmok-Nopunde-Makgi.md](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras |
 | [Gunnun-So-Dung-Joomuk-Ap-Taerigi.md](Gunnun-So-Dung-Joomuk-Ap-Taerigi.md) | Coup cinglant frontal au niveau haut/moyen avec le revers du poing |
 | [Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md](Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md) | Gunnun So Dung Joomuk Bandae Ap Taerigi |
 | [Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md) | Coup cinglant inversé de biais (côté-avant) au niveau haut avec le revers du poing |
 | [Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale du revers du poing au niveau haut |
-| [Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md](Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md) | Gunnun So Dwijibun Sonkut Najunde Tulgi |
-| [Gunnun-So-Jappyosul-Tae.md](Gunnun-So-Jappyosul-Tae.md) | Gunnun So Jappyosul Tae |
-| [Gunnun-So-Kaunde-Bandae-Jirugi.md](Gunnun-So-Kaunde-Bandae-Jirugi.md) | Coup de poing direct inverse au niveau moyen |
-| [Gunnun-So-Kaunde-Jirugi.md](Gunnun-So-Kaunde-Jirugi.md) | Coup de poing direct au niveau moyen |
+| [Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md](Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md) | Double coup cinglant horizontal au tranchant de la main |
+| [Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md](Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md) | Coup percutant frontal haut avec le revers du tranchant de la main inversée |
+
+### 1.3 Blocages (*Makgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md) | Blocage haut latéral avec le tranchant extérieur de l'avant-bras |
+| [Gunnun-So-Doo-Palmok-Nopunde-Makgi.md](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras |
 | [Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md](Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md) | Blocage descendant en pression avec poings croisés (en X) |
-| [Gunnun-So-Nopunde-Jirugi.md](Gunnun-So-Nopunde-Jirugi.md) | Coup de poing direct au niveau haut |
-| [Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md](Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md) | Pique du bout des doigts à plat au niveau haut |
 | [Gunnun-So-Palmok-Chookyo-Makgi.md](Gunnun-So-Palmok-Chookyo-Makgi.md) | Blocage haut remontant de l'avant-bras |
 | [Gunnun-So-Palmok-Najunde-Makgi.md](Gunnun-So-Palmok-Najunde-Makgi.md) | Blocage bas avec l'avant-bras |
-| [Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.md](Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.md) | Coup de poing direct inversé au niveau haut avec les deuxièmes jointures (poing plat) |
-| [Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md](Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md) | Double coup de poing retourné (paumes vers le haut) |
-| [Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md](Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md) | Double coup de poing vertical haut |
-| [Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md](Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md) | Double coup cinglant horizontal au tranchant de la main |
+| [Gunnun-So-Sang-Sonbadak-Ollyo-Makgi.md](Gunnun-So-Sang-Sonbadak-Ollyo-Makgi.md) | Blocage montant à deux paumes |
 | [Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md](Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md) | Blocage descendant en pression avec la paume de la main (inversé) |
 | [Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md](Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md) | Gunnun So Sonbadak Baro Noollo Makgi |
-| [Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md](Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md) | Coup percutant frontal haut avec le revers du tranchant de la main inversée |
+
+### 1.4 Piques, coudes et coupures (*Tulgi*, *Ghutgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md](Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md) | Gunnun So Dwijibun Sonkut Najunde Tulgi |
+| [Gunnun-So-Jappyosul-Tae.md](Gunnun-So-Jappyosul-Tae.md) | Gunnun So Jappyosul Tae |
+| [Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md](Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md) | Pique du bout des doigts à plat au niveau haut |
 
 ---
 
