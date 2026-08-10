@@ -98,7 +98,7 @@
 34. Abaisser le pied droit vers C, puis tourner dans le sens anti-horaire pour former une position de marche gauche vers D, en pivotant avec le pied droit tout en exécutant un coup de poing vertical haut vers D avec les poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 35. Exécuter un coup de poing moyen vers D avec le poing à phalange médiane droit, en amenant le côté du poing gauche devant l'épaule droite tout en formant une position en L droite vers D en tirant le pied gauche.
-   *(Niunja so joongji joomuk kaunde baro jirugi)*
+   *([Niunja so joongji joomuk kaunde baro jirugi](../Techniques/Niunja-So-Joongji-Joomuk-Kaunde-Baro-Jirugi.md))*
 36. Déplacer le pied droit vers D pour former une position assise vers B, tout en exécutant gauche blocage en forme de 9.
    *([Annun so wen gutja makgi](../Techniques/Annun-So-Wen-Gutja-Makgi.md))*
 37. Exécuter un blocage de garde bas vers C avec un revers de la main tout en maintenant une position assise vers B.

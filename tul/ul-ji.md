@@ -83,7 +83,7 @@
 28. Atterrir vers F pour former une position fixe droite vers F tout en exécutant un blocage d'arrêt vers F avec les tranchants des mains croisées.
    *([Gojung so kyocha sonkal momchau makgi](../makgi/momchau-makgi.md))*
 29. Déplacer le pied gauche vers F pour former une position en L droite vers F tout en exécutant un blocage en pression avec les poings croisés.
-   *(Niunja so kyocha joomuk noollo makgi)*
+   *([Niunja so kyocha joomuk noollo makgi](../Techniques/Niunja-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 30. Exécuter un coup de pied avant fouetté latéral moyen vers F avec le pied gauche tout en exécutant un blocage en écartement moyen avec l'avant-bras intérieur.
    *(Kaunde yobap cha busigi wa [an palmok kaunde hechyo makgi](../makgi/hechyo-makgi.md))*
 31. Abaisser le pied gauche vers F pour former une position de marche gauche vers F tout en exécutant un coup de poing vertical haut vers F avec les poings jumelés.
@@ -102,7 +102,7 @@
 37. Abaisser le pied gauche vers F pour former une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 38. Déplacer le pied gauche vers E pour former une position en L gauche vers F tout en exécutant un blocage montant vers F avec la paume droite.
-   *(Niunja so sonbadak bandae ollyo makgi)*
+   *([Niunja so sonbadak bandae ollyo makgi](../Techniques/Niunja-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
 39. Déplacer le pied droit vers E pour former une position de marche droite vers E tout en exécutant un blocage circulaire vers ED avec l'avant-bras intérieur gauche.
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
 40. Exécuter un blocage circulaire vers DE avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers DF.

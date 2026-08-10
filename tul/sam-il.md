@@ -48,7 +48,7 @@
 13. Déplacer le pied droit sur ligne CD pour former une position en L droite vers D tout en exécutant un coup de poing bas vers D avec le double poing gauche.
    *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
 14. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde haut vers B avec un revers de la main.
-   *(Niunja so sonkal dung nopunde daebi makgi)*
+   *([Niunja so sonkal dung nopunde daebi makgi](../Techniques/Niunja-So-Sonkal-Dung-Nopunde-Daebi-Makgi.md))*
 15. Exécuter un blocage en U vers B tout en formant une position fixe gauche vers B, en glissant le pied gauche.
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 16. Exécuter un coup de pied balayé vers B avec le tranchant de la plante du pied droit puis l'abaisser vers B pour former une position fixe droite vers B tout en exécutant un blocage en U vers B.
