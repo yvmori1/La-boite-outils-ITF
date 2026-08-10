@@ -4,8 +4,8 @@
 
 > **Grade :** 10e Gup — Ceinture blanche
 
-* **Nombre de mouvements :**  14 (Pratiqué à droite et à gauche, soit 7 mouvements par côté)
-* **Diagramme au sol :**  (Croix / Quatre directions)
+* **Nombre de mouvements :** 14 (Pratiqué à droite et à gauche, soit 7 mouvements par côté)
+* **Diagramme au sol :** (Croix / Quatre directions)
 
 | Diagramme | Description |
 | ------ | ------ |

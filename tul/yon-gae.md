@@ -1,18 +1,18 @@
-# YONG-GAE
+# YON-GAE
 
 > 🔊 **Prononciation :** [연개](../audio/tul/yon-gae.m4a)
 
 > **Grade :** 4e Dan
 
-* **Nombre de mouvements :**  49
-* **Diagramme au sol :**  (Hanja ou lettre capitale I)
+* **Nombre de mouvements :** 49
+* **Diagramme au sol :** (Hanja ou lettre capitale I)
 * **Durée :** 70 secondes
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/yon-gae.png) | YONG-GAE est nommé d'après le célèbre général Yon Gae Somoon de la dynastie Koguryo. Les 49 mouvements représentent l'année 649 apr. J.-C., lorsqu'il détruisit l'armée impériale chinoise des Tang forte de près de 300 000 soldats à Ansi Sung, les obligeant à battre en retraite et à quitter la Corée. |
+| ![**I**](../images/yon-gae.png) | YON-GAE est nommé d'après le célèbre général Yon Gae Somoon de la dynastie Koguryo. Les 49 mouvements représentent l'année 649 apr. J.-C., lorsqu'il détruisit l'armée impériale chinoise des Tang forte de près de 300 000 soldats à Ansi Sung, les obligeant à battre en retraite et à quitter la Corée. |
 
-[YONG-GAE](https://youtu.be/wpGFNOtmwcE?si=dPkUQNtz1e8xhWKF)
+[YON-GAE](https://youtu.be/wpGFNOtmwcE?si=dPkUQNtz1e8xhWKF)
 
 ## Origine et contexte historique
 
@@ -44,7 +44,7 @@
    > *Distance de saut : 1 position de marche.*
 9. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un blocage extérieur bas vers D avec le tranchant de la main droite.
    *([Gunnun so sonkal najunde bandae bakuro makgi](../makgi/bakuro-makgi.md))*
-10. Déplacer le pied droit sur ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume gauche.
+10. Déplacer le pied droit sur la ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume gauche.
    *([Narani so wen sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 11. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position parallèle vers D.
    *([Narani so orun joomuk kaunde jirugi](../Techniques/Narani-So-Orun-Joomuk-Kaunde-Jirugi.md))*
@@ -70,15 +70,15 @@
    > *Distance de saut : 1 position de marche.*
 20. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant un blocage extérieur bas vers D avec le tranchant de la main gauche.
    *([Gunnun so sonkal najunde bandae bakuro makgi](../makgi/bakuro-makgi.md))*
-21. Déplacer le pied gauche sur ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume droite.
+21. Déplacer le pied gauche sur la ligne AB pour former une position parallèle vers D tout en exécutant un blocage crocheté moyen vers D avec la paume droite.
    *([Narani so orun sonbadak kaunde golcho makgi](../Techniques/Sonbadak-Kaunde-Golcho-Makgi.md))*
 22. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position parallèle vers D.
    *([Narani so wen joomuk kaunde jirugi](../Techniques/Narani-So-Wen-Joomuk-Kaunde-Jirugi.md))*
 23. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage en W avec le revers de la main.
    *([Annun so sonkal dung san makgi](../Techniques/Annun-So-Sonkal-Dung-San-Makgi.md))*
-24. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant une pique horizontale avec un jumelé coude.
+24. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant une pique horizontale avec les deux coudes.
    *([Kyocha so sang palkup soopyong tulgi](../Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md))*
-25. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec un jumelé droit avant-bras.
+25. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec les deux avant-bras rectilignes.
    *([Annun so sang sun palmok momchau makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md))*
 26. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers D tout en exécutant un coup de poing montant avec le poing droit, en tirant le côté du poing gauche devant l'épaule droite.
    *([Kyocha so baro ollyo jirugi](../Techniques/Kyocha-So-Baro-Ollyo-Jirugi.md))*
@@ -91,9 +91,9 @@
    > *Distance de saut : 1 position de marche.*
 30. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage en W avec le revers de la main.
    *([Annun so sonkal dung san makgi](../Techniques/Annun-So-Sonkal-Dung-San-Makgi.md))*
-31. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers D tout en exécutant une pique horizontale avec un jumelé coude.
+31. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers D tout en exécutant une pique horizontale avec les deux coudes.
    *([Kyocha so sang palkup soopyong tulgi](../Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md))*
-32. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec un jumelé droit avant-bras.
+32. Déplacer le pied gauche vers B pour former une position assise vers D tout en exécutant un blocage d'arrêt vers D avec les deux avant-bras rectilignes.
    *([Annun so sang sun palmok momchau makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md))*
 33. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers D tout en exécutant un coup de poing montant avec le poing gauche, en tirant le côté du poing droit devant l'épaule gauche.
    *([Kyocha so baro ollyo jirugi](../Techniques/Kyocha-So-Baro-Ollyo-Jirugi.md))*
@@ -133,4 +133,4 @@
 49. Glisser vers C pour former une position en L droite vers D tout en piquant vers C avec le coude droit.
    *([Niunja so yop palkup tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

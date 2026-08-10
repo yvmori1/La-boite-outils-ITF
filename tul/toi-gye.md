@@ -4,8 +4,8 @@
 
 > **Grade :** 3e Gup — Ceinture bleue barre rouge
 
-* **Nombre de mouvements :**  37
-* **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré)
+* **Nombre de mouvements :** 37
+* **Diagramme au sol :** (Hanja pour l'Érudit / Lettré)
 * **Durée :** 55 secondes
 
 | Diagramme | Description |
@@ -26,14 +26,14 @@
    *([Niunja so an palmok kaunde makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md))*
 2. Exécuter une pique basse vers B avec le bout des doigts droit renversé tout en formant une position de marche gauche vers B, en glissant le pied gauche vers B.
    *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
-3. Ramener le pied gauche vers le pied droit pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing droit, en étendant le bras gauche vers le côté vers le bas.
+3. Ramener le pied gauche vers le pied droit pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing droit, en étendant le bras gauche vers le bas sur le côté.
    *([Moa so orun dung joomuk yopdwi taerigi](../Techniques/Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md))*
    > *Exécuter en mouvement lent.*
 4. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage moyen vers A avec l'avant-bras intérieur droit.
    *([Niunja so an palmok kaunde makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md))*
 5. Exécuter une pique basse vers A avec le bout des doigts gauche renversé tout en formant une position de marche droite vers A, en glissant le pied droit vers A.
    *([Gunnun so dwijibun sonkut najunde tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md))*
-6. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing gauche, en étendant le bras droit vers le côté vers le bas.
+6. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing gauche, en étendant le bras droit vers le bas sur le côté.
    *([Moa so wen dung joomuk yopdwi taerigi](../Techniques/Moa-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md))*
    > *Exécuter en mouvement lent.*
 7. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage en pression avec les poings croisés.
@@ -64,7 +64,7 @@
    *([Annun so bakat palmok san makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md))*
 19. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage poussée bas vers D avec le double avant-bras gauche.
    *([Niunja so doo palmok najunde miro makgi](../makgi/miro-makgi.md))*
-20. Étendre les deux mains vers le haut comme si vers saisir l'adversaire’s tête tout en formant une position de marche gauche vers D, en glissant le pied gauche vers D.
+20. Étendre les deux mains vers le haut comme pour saisir la tête de l'adversaire tout en formant une position de marche gauche vers D, en glissant le pied gauche vers D.
    *(gunnun sogi)*
 21. Exécuter un coup de pied montant avec le genou droit tout en tirant les deux mains vers le bas.
    *([Moorup ollyo chagi](../chagi/moorup-ollyo-chagi.md))*
@@ -99,7 +99,7 @@
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
 36. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur gauche tout en formant une position de marche droite vers A.
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
-37. Déplacer le pied droit sur ligne AB pour former une position assise vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
+37. Déplacer le pied droit sur la ligne AB pour former une position assise vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Annun so orun joomuk kaunde jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

@@ -4,8 +4,8 @@
 
 > **Grade :** 8e Gup — Ceinture jaune
 
-* **Nombre de mouvements :**  21
-* **Diagramme au sol :**  (Hanja ou lettre capitale I)
+* **Nombre de mouvements :** 21
+* **Diagramme au sol :** (Hanja ou lettre capitale I)
 * **Durée :** 33 secondes
 
 | Diagramme | Description |
@@ -42,7 +42,7 @@
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 10. Déplacer le pied droit vers E pour former une position de marche droite vers E tout en exécutant un coup de poing haut vers E avec le poing droit.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
-11. Déplacer le pied droit vers F en tournant dans le sens horaire pour former une position en L gauche vers F tout en exécutant un blocage double des avant-bras vers F..
+11. Déplacer le pied droit vers F en tournant dans le sens horaire pour former une position en L gauche vers F tout en exécutant un blocage double des avant-bras vers F.
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 12. Déplacer le pied gauche vers F pour former une position de marche gauche vers F tout en exécutant un coup de poing haut vers F avec le poing gauche.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*

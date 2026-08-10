@@ -4,8 +4,8 @@
 
 > **Grade :** 5e Dan
 
-* **Nombre de mouvements :**  72
-* **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré)
+* **Nombre de mouvements :** 72
+* **Diagramme au sol :** (Hanja pour l'Érudit / Lettré)
 * **Durée :** 105 secondes
 
 | Diagramme | Description |
@@ -58,16 +58,18 @@
 16. Abaisser le pied gauche vers D en mouvement sauté pour former une position en X gauche vers AD tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche et en amenant la pulpe des doigts de la main droite vers le côté du poing gauche.
    *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
    > *Distance de saut : 1 position de marche.*
-17. Déplacer le pied gauche vers A pour former une position en L droite vers A en exécutant un coup de poing bas vers A avec un gauche double poing.
+17. Déplacer le pied gauche vers A pour former une position en L droite vers A en exécutant un coup de poing bas vers A avec le double poing gauche.
    *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
-18. Ramener la paume droite sur le devant du poing gauche puis vriller les dans le sens anti-horaire jusqu'à ce que le revers du poing gauche fait visage vers le bas tout en formant une position de marche gauche vers A, en glissant le pied gauche. exécuter en mouvement de relâchement.
+18. Amener la paume droite sur le devant du poing gauche, puis les pivoter dans le sens anti-horaire jusqu'à ce que le revers du poing gauche soit tourné vers le bas, tout en formant une position de marche gauche vers A, en glissant le pied gauche.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
+   > *Exécuter en mouvement de relâchement.*
 19. Exécuter un coup de poing haut vers A avec le poing droit tout en maintenant une position de marche gauche vers A.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
-20. Déplacer le pied gauche sur ligne AB pour former une position en L gauche vers B tout en exécutant un coup de poing bas vers B avec un droit double poing.
+20. Déplacer le pied gauche sur la ligne AB pour former une position en L gauche vers B tout en exécutant un coup de poing bas vers B avec le double poing droit.
    *([Niunja so doo joomuk najunde jirugi](../Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.md))*
-21. Ramener la paume gauche sur le devant du poing droit puis vriller les dans le sens horaire jusqu'à ce que le revers du poing droit fait visage vers le bas tout en formant une position de marche droite vers B, en glissant le pied droit. exécuter en mouvement de relâchement.
+21. Amener la paume gauche sur le devant du poing droit, puis les pivoter dans le sens horaire jusqu'à ce que le revers du poing droit soit tourné vers le bas, tout en formant une position de marche droite vers B, en glissant le pied droit.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
+   > *Exécuter en mouvement de relâchement.*
 22. Exécuter un coup de poing haut vers B avec le poing gauche tout en maintenant une position de marche droite vers B.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 23. Glisser vers B pour former une position en L droite vers B tout en exécutant un coup de poing renversé vers B avec le poing à phalange médiane droit et en amenant le côté du poing gauche devant l'épaule droite.
@@ -78,7 +80,7 @@
    *([Niunja so joongji joomuk baro dwijibo jirugi](../Techniques/Niunja-So-Joongji-Joomuk-Baro-Dwijibo-Jirugi.md))*
 26. Exécuter une frappe frontale vers A avec le revers du poing gauche tout en formant une position de marche droite vers A, en glissant le pied gauche.
    *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
-27. Déplacer le pied gauche vers D pour former un droit position de marche de préparation vers C.
+27. Déplacer le pied gauche vers D pour former une position de marche de préparation droite vers C.
    *([Gunnun junbi sogi](../Techniques/Gunnun-Junbi-Sogi.md))*
 28. Sauter pour exécuter un coup de pied avant fouetté sauté vers C avec le pied droit.
    *([Twimyo apcha busigi](../chagi/apcha-busigi.md))*
@@ -155,7 +157,7 @@
    *([Niunja so sonbadak bandae duro makgi](../Techniques/Niunja-So-Sonbadak-Bandae-Duro-Makgi.md))*
 61. Décaler vers D, en maintenant une position en L gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
-62. Tourner dans le sens horaire tout en formant un gauche position de préparation pliée A vers C.
+62. Tourner dans le sens horaire tout en formant une position de préparation pliée A gauche vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 63. Exécuter un coup de pied latéral perçant haut vers C avec le pied droit, en gardant les mains dans la position du mouvement 62.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -167,7 +169,7 @@
    *([Niunja so sonbadak bandae duro makgi](../Techniques/Niunja-So-Sonbadak-Bandae-Duro-Makgi.md))*
 67. Décaler vers C, en maintenant une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
-68. Tourner dans le sens anti-horaire tout en formant un droit position de préparation pliée A vers C.
+68. Tourner dans le sens anti-horaire tout en formant une position de préparation pliée A droite vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 69. Exécuter un coup de pied latéral perçant haut vers D avec le pied gauche, en gardant les mains dans la position du mouvement 68.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -179,4 +181,4 @@
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
    > *Exécuter 71 et 72 en mouvement continu.*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

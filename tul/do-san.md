@@ -4,8 +4,8 @@
 
 > **Grade :** 7e Gup — Ceinture jaune barre verte
 
-* **Nombre de mouvements :**  24
-* **Diagramme au sol :**  (Zigzag / Marche d'escalier)
+* **Nombre de mouvements :** 24
+* **Diagramme au sol :** (Zigzag / Marche d'escalier)
 * **Durée :** 35 secondes
 
 | Diagramme | Description |
@@ -26,15 +26,15 @@
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 2. Exécuter un coup de poing moyen vers B avec le poing droit tout en maintenant une position de marche gauche vers B.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-3. Déplacer le pied gauche sur ligne AB, puis tourner dans le sens horaire pour former une position de marche droite vers A tout en exécutant un blocage latéral haut vers A avec l'avant-bras extérieur droit.
+3. Déplacer le pied gauche sur la ligne AB, puis tourner dans le sens horaire pour former une position de marche droite vers A tout en exécutant un blocage latéral haut vers A avec l'avant-bras extérieur droit.
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 4. Exécuter un coup de poing moyen vers A avec le poing gauche tout en maintenant une position de marche droite vers A.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 5. Déplacer le pied gauche vers D, pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
-6. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec la pique de doigts droite droit.
+6. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec le bout des doigts droit.
    *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Sun-Sonkut-Kaunde-Tulgi.md))*
-7. Vriller le tranchant de la main droite conjointement avec le corps dans le sens anti-horaire jusqu'à ce que sa paume fait visage vers le bas puis déplacer le pied gauche vers D, en tournant dans le sens anti-horaire pour former une position de marche gauche vers D tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
+7. Pivoter la main droite dans le sens anti-horaire jusqu'à ce que sa paume soit tournée vers le bas, puis déplacer le pied gauche vers D, en tournant dans le sens anti-horaire pour former une position de marche gauche vers D tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
    *(Jappyosul tae, [gunnun so dung joomuk nopunde yop taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 8. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une frappe latérale haute vers D avec le revers du poing droit.
    *([Gunnun so dung joomuk nopunde yop taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
@@ -42,7 +42,7 @@
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 10. Exécuter un coup de poing moyen vers E avec le poing droit tout en maintenant une position de marche gauche vers E.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-11. Déplacer le pied gauche sur ligne EF, puis tourner dans le sens horaire pour former une position de marche droite vers F tout en exécutant un blocage latéral haut vers F avec l'avant-bras extérieur droit.
+11. Déplacer le pied gauche sur la ligne EF, puis tourner dans le sens horaire pour former une position de marche droite vers F tout en exécutant un blocage latéral haut vers F avec l'avant-bras extérieur droit.
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 12. Exécuter un coup de poing moyen vers F avec le poing gauche tout en maintenant une position de marche droite vers F.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
@@ -73,4 +73,4 @@
 24. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position assise vers D tout en exécutant une frappe latérale moyenne vers A avec le tranchant de la main droite.
    *([Annun so orun sonkal kaunde yop taerigi](../Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md))*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

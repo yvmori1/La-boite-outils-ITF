@@ -4,13 +4,13 @@
 
 > **Grade :** 6e Dan
 
-* **Nombre de mouvements :**  56
-* **Diagramme au sol :**  (Ligne verticale unique - Symbolise la race homogène unifiée)
+* **Nombre de mouvements :** 56
+* **Diagramme au sol :** (Ligne verticale unique - Symbolise la race homogène unifiée)
 * **Durée :** 95 secondes
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**|**](../images/tong-il.png) | TONG-IL exprime la résolution et la volonté inébranlable d'unifier la Corée, divisée de force depuis l'année 1945. Le diagramme (\|) symbolise le peuple coréen homogène, uni et indivisible. |
+| ![**\|**](../images/tong-il.png) | TONG-IL exprime la résolution et la volonté inébranlable d'unifier la Corée, divisée de force depuis l'année 1945. Le diagramme (\|) symbolise le peuple coréen homogène, uni et indivisible. |
 
 ## Origine et contexte historique
 
@@ -43,7 +43,7 @@
    *([Niunja so sondung nopunde bakuro taerigi](../Techniques/Niunja-So-Sondung-Nopunde-Bakuro-Taerigi.md))*
 10. Exécuter un coup de pied vertical vers l'intérieur vers la paume droite avec le tranchant interne du pied gauche.
    *([Balkal dung anuro sewo chagi](../Techniques/Balkal-Dung-Anuro-Sewo-Chagi.md))*
-11. Abaisser le pied gauche vers D, puis exécuter un blocage horizontal avec une paumes jumelées tout en formant une position en L droite vers D, en glissant le pied gauche.
+11. Abaisser le pied gauche vers D, puis exécuter un blocage horizontal avec les paumes jumelées tout en formant une position en L droite vers D, en glissant le pied gauche.
    *([Niunja so sang sonbadak soopyong makgi](../Techniques/Niunja-So-Sang-Sonbadak-Soopyong-Makgi.md))*
    > *Exécuter en mouvement lent.*
 12. Déplacer le pied droit vers D, pour former une position de marche droite vers D tout en exécutant un blocage latéral haut vers D avec le revers de la main droite.
@@ -89,7 +89,7 @@
    *([Niunja so baro dwijibo jirugi](../Techniques/Niunja-So-Dwijibo-Jirugi.md))*
 30. Déplacer le pied droit vers C, pour former une position de marche gauche vers D tout en exécutant une pique haute avec le bout des doigts droit en angle.
    *(Gunnun so homi sonkut nopunde bandae tulgi)*
-31. Déplacer le pied gauche sur ligne CD pour former une position de marche droite vers C tout en exécutant un blocage montant avec le tranchant de la main droite.
+31. Déplacer le pied gauche sur la ligne CD pour former une position de marche droite vers C tout en exécutant un blocage montant avec le tranchant de la main droite.
    *([Gunnun so sonkal chookyo makgi](../makgi/chookyo-makgi.md))*
 32. Exécuter un coup de poing haut vers C avec le poing gauche tout en maintenant une position de marche droite vers C.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
@@ -136,11 +136,11 @@
    *([Gunnun so sonbadak kaunde bandae miro makgi](../makgi/miro-makgi.md))*
 53. Exécuter un blocage circulaire vers B avec le tranchant de la main gauche tout en formant une position de marche droite vers BD.
    *([Gunnun so sonkal dollimyo makgi](../makgi/dollimyo-makgi.md))*
-54. Exécuter un coup de pied latéral perçant haut vers D avec le pied droit, pour former un blocage de garde de l'avant-bras, puis l'abaisser vers le pied gauche pour former une position fermée vers D tout en exécutant une double pique arrière du coude latérale.
+54. Exécuter un coup de pied latéral perçant haut vers D avec le pied droit, pour former un blocage de garde de l'avant-bras, puis l'abaisser vers le pied gauche pour former une position fermée vers D tout en exécutant une double pique latérale arrière du coude.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 55. Déplacer le pied gauche vers D, pour former une position assise vers A tout en exécutant un coup de poing latéral moyen vers D avec le poing gauche.
    *([Annun so wen joomuk kaunde yop jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Yop-Jirugi.md))*
 56. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position de marche gauche vers D, en pivotant avec le pied gauche.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

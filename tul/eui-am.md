@@ -4,8 +4,8 @@
 
 > **Grade :** 2e Dan
 
-* **Nombre de mouvements :**  45
-* **Diagramme au sol :**  (Ligne verticale unique)
+* **Nombre de mouvements :** 45
+* **Diagramme au sol :** (Ligne verticale unique)
 * **Durée :** 65 secondes
 
 | Diagramme | Description |
@@ -84,7 +84,7 @@
    *([Gunnun so sonkal kaunde hechyo makgi](../makgi/hechyo-makgi.md))*
 28. Exécuter un blocage circulaire vers BD avec le revers de la main gauche tout en maintenant une position de marche droite vers D.
    *([Gunnun so sonkal dung dollimyo makgi](../makgi/dollimyo-makgi.md))*
-29. Exécuter un blocage descendant avec un alterné paume tout en formant une position arrière rapprochée sur la jambe gauche vers D en tirant le pied droit.
+29. Exécuter un blocage descendant avec les paumes alternées tout en formant une position arrière rapprochée sur la jambe gauche vers D en tirant le pied droit.
    *([Dwitbal so euhkallin sonbadak naeryo makgi](../Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md))*
 30. Exécuter un coup de poing moyen vers D avec le poing gauche tout en formant une position en L gauche vers D en glissant le pied droit.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
@@ -94,7 +94,7 @@
    *([Gunnun so sonkal kaunde hechyo makgi](../makgi/hechyo-makgi.md))*
 33. Exécuter un blocage circulaire vers AD avec le revers de la main droite tout en maintenant une position de marche gauche vers D.
    *([Gunnun so sonkal dung dollimyo makgi](../makgi/dollimyo-makgi.md))*
-34. Exécuter un blocage descendant avec un alterné paume tout en formant une position arrière rapprochée sur la jambe droite vers D en tirant gauche pied.
+34. Exécuter un blocage descendant avec les paumes alternées tout en formant une position arrière rapprochée sur la jambe droite vers D en tirant le pied gauche.
    *([Dwitbal so euhkallin sonbadak naeryo makgi](../Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md))*
 35. Exécuter un coup de poing moyen vers D avec le poing droit tout en formant une position en L droite vers D en glissant le pied gauche.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
@@ -119,4 +119,4 @@
 45. Exécuter un coup de poing haut vers D avec le poing droit tout en maintenant une position de marche droite vers D.
    *([Gunnun so nopunde jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

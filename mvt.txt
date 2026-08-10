@@ -633,7 +633,7 @@ JUCHE  (45 mouvements)
   40. Guburyo Junbi Sogi B, Wen Kaunde Dwitcha Jirugi
   41. Niunja So Dung Joomuk Bandae Soopyong Taerigi
   42. Narani So Orun Opun Sonkut Nopunde Anuro Ghutgi
-  43. Twimyo Orun Joomuk Ap Jirugi, Orun Joomuk Dwijibo Jirigi
+  43. Twimyo Orun Joomuk Ap Jirugi, Orun Joomuk Dwijibo Jirugi
   44. Gunnun So Sonkal Bandae Ap Naeryo Taerigi
   45. Gunnun So Kaunde Bandae Jirugi
 
@@ -1472,7 +1472,7 @@ l'ensemble des formes.
     11 ×  Nopunde Yopcha Jirugi
      1 ×  Orun Dwitbal So Palmok Kaunde Daebi Makgi
      1 ×  Orun Gojung So Digutja Makgi
-     1 ×  Orun Joomuk Dwijibo Jirigi
+     1 ×  Orun Joomuk Dwijibo Jirugi
      1 ×  Orun Kaunde Yopcha Tulgi
      1 ×  Orun Kyocha So Doo Palmok Nopunde Makgi
      2 ×  Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi

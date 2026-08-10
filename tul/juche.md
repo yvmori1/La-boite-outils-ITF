@@ -4,13 +4,13 @@
 
 > **Grade :** 2e Dan
 
-* **Nombre de mouvements :**  45
-* **Diagramme au sol :**  (Mont Baekdu / la montagne)
+* **Nombre de mouvements :** 45
+* **Diagramme au sol :** (Mont Baekdu / la montagne)
 * **Durée :** 85 secondes
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**山 / ⛰**](../images/juche.png) | JUCHE est l'idée philosophique selon laquelle l'homme est le maître de tout et décide de tout; autrement dit, que l'homme est le maître de son destin. Cette idée tire ses racines historiques du Mont Baekdu, symbole de la force du peuple coréen. Le diagramme représente ce mont sacré. |
+| ![**山 / ⛰**](../images/juche.png) | JUCHE est l'idée philosophique selon laquelle l'homme est le maître de tout et décide de tout ; autrement dit, que l'homme est le maître de son destin. Cette idée tire ses racines historiques du Mont Baekdu, symbole de la force du peuple coréen. Le diagramme représente ce mont sacré. |
 
 [JUCHE](https://youtu.be/ipD-SQHzNmY?si=UahIY9-TPVKZVkrd)
 
@@ -78,7 +78,7 @@
    > *Distance de saut : 1 position en L.*
 25. Exécuter un coup de pied en pioche vers B avec le pied gauche puis l'abaisser vers B pour former une position arrière rapprochée sur la jambe droite vers B tout en exécutant un blocage de garde moyen avec l'avant-bras.
    *(Gokaeng-i chagi, [orun dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
-26. Ramener le pied droit vers le pied gauche pour former une position fermée avec un ciel main vers D.
+26. Ramener le pied droit vers le pied gauche pour former une position fermée avec les mains du ciel vers D.
    *([Moa so hanulson](../Techniques/Moa-So-Hanulson.md))*
    > *Exécuter en mouvement lent.*
 27. Glisser vers C pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant une pique descendante avec le coude droit.
@@ -106,11 +106,11 @@
 37. Déplacer le pied droit vers D puis le pied gauche vers D puis exécuter un coup de pied sauté simultané (vrillé coup de pied avec le pied gauche, côté perçant avec le pied droit) tout en sautant vers D.
    *(Twimyo sangbang chagi,[yop bituro chagi](../chagi/bituro-chagi.md))*
    > *Distance de saut : 1 position de marche.*
-38. Atterrir vers D pour former une position diagonale gauche vers D tout en exécutant un blocage montant avec une paumes jumelées.
+38. Atterrir vers D pour former une position diagonale gauche vers D tout en exécutant un blocage montant avec les paumes jumelées.
    *([Sasun so sang sonbadak chookyo makgi](../makgi/chookyo-makgi.md))*
 39. Glisser vers D pour former une position arrière rapprochée sur la jambe droite vers C tout en exécutant une pique latérale vers D avec le coude droit.
    *([Dwitbal so yop palkup tulgi](../Techniques/Dwitbal-So-Yop-Palkup-Tulgi.md))*
-40. Tourner le visage vers D tout en formant un droit position de préparation pliée B vers C puis exécuter un coup de pied arrière perçant moyen vers D avec le pied gauche.
+40. Tourner le visage vers D tout en formant une position de préparation pliée B droite vers C puis exécuter un coup de pied arrière perçant moyen vers D avec le pied gauche.
    *(Guburyo junbi sogi B, [wen kaunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
    > *Exécuter en mouvement lent.*
 41. Abaisser le pied gauche vers D en un mouvement étampé pour former une position en L droite vers D tout en exécutant une frappe horizontale vers D avec le revers du poing gauche.
@@ -118,11 +118,11 @@
 42. Exécuter un cisaillage horizontal du bout des doigts droit vers l'intérieur, au niveau haut, vers D tout en formant une position parallèle vers D, en tirant le pied droit.
    *([Narani so orun opun sonkut nopunde anuro ghutgi](../Techniques/Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.md))*
 43. Exécuter un coup de poing frontal et un coup de poing renversé vers D consécutivement avec le poing droit tout en sautant vers D puis atterrir vers D pour former une position fermée vers D avec le poing droit étendu.
-   *([Twimyo orun joomuk ap jirugi](../Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.md), orun joomuk dwijibo jirigi)*
+   *([Twimyo orun joomuk ap jirugi](../Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.md), orun joomuk dwijibo jirugi)*
    > *Distance de saut : 1 position en L.*
 44. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une frappe descendante frontale avec le tranchant de la main gauche.
    *([Gunnun so sonkal bandae ap naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 45. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

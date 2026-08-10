@@ -17,9 +17,9 @@
 
 ## Liste Détaillée des Mouvements
 
-### Posture de départ : **Moa Junbi Sogi C** Position fermé "C" (Close Ready Stance C / Moa Sogi C / 모아 준비 서기 C) face à D.
+### Posture de départ : **Moa Junbi Sogi C** Position fermée « C » (Close Ready Stance C / Moa Sogi C / 모아 준비 서기 C) face à D.
 
-1. Pivot à 180° vers la gauche, reculer le pied droit en position en L à droite face à C. Bloquer/frapper avec le coude droit latéralement.
+1. Pivoter à 180° vers la gauche, reculer le pied droit en position en L à droite face à C. Bloquer/frapper avec le coude droit latéralement.
 **→ ([Orun Niunja So Orun Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**
 2. Ramener le pied droit contre le pied gauche, pivoter à 90° vers la gauche, reculer le pied droit en position en L à droite face à A. Coup de coude droit latéral.
 **→ ([Orun Niunja So Orun Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**
@@ -27,7 +27,7 @@
 **→ ([Orun Niunja So Orun Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**
 4. Ramener le pied droit contre le pied gauche, pivoter à 90° vers la gauche, reculer le pied droit en position en L à droite face à B. Coup de coude droit latéral.
 **→ ([Orun Niunja So Orun Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**
-5. Pivot à 180° vers la droite, reculer le pied gauche en position en L à gauche face à C. Coup de coude gauche latéral.
+5. Pivoter à 180° vers la droite, reculer le pied gauche en position en L à gauche face à C. Coup de coude gauche latéral.
 **→ ([Wen Niunja So Wen Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**
 6. Ramener le pied gauche contre le pied droit, pivoter à 90° vers la droite, reculer le pied gauche en position en L à gauche face à B. Coup de coude gauche latéral.
 **→ ([Wen Niunja So Wen Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**
@@ -36,8 +36,7 @@
 8. Ramener le pied gauche contre le pied droit, pivoter à 90° vers la droite, reculer le pied gauche en position en L à gauche face à A. Coup de coude gauche latéral.
 **→ ([Wen Niunja So Wen Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**
 
-### FIN : Ramener le pied gauche contre le pied droit pour revenir à la position de départ face à D. **Moa Junbi Sogi C**
-
+### FIN : Ramener le pied gauche contre le pied droit pour revenir à la position de départ face à D. **Moa Junbi Sogi C**.
 ---
 
 ## Synthèse de la décomposition des termes

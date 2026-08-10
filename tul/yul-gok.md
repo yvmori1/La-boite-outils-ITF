@@ -4,8 +4,8 @@
 
 > **Grade :** 5e Gup — Ceinture verte barre bleue
 
-* **Nombre de mouvements :**  38
-* **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré)
+* **Nombre de mouvements :** 38
+* **Diagramme au sol :** (Hanja pour l'Érudit / Lettré)
 * **Durée :** 50 secondes
 
 | Diagramme | Description |
@@ -70,13 +70,13 @@
    > *Exécuter 19 et 20 en mouvement lié.*
 21. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
-22. Tourner le visage vers D pour former un droit position de préparation pliée A vers D.
+22. Tourner le visage vers D pour former une position de préparation pliée A droite vers D.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 23. Exécuter un coup de pied latéral perçant moyen vers D avec le pied gauche.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 24. Abaisser le pied gauche vers D pour former une position de marche gauche vers D tout en frappant la paume gauche avec le coude droit.
    *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
-25. Tourner le visage vers C pour former un gauche position de préparation pliée A vers C.
+25. Tourner le visage vers C pour former une position de préparation pliée A gauche vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 26. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -106,4 +106,4 @@
 38. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers B pour former une position de marche gauche vers B tout en exécutant un blocage haut vers B avec le double avant-bras gauche.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 
-### FIN : ramener le pied gauche à la posture de départ
+### FIN : ramener le pied gauche à la posture de départ.

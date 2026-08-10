@@ -4,8 +4,8 @@
 
 > **Grade :** 6e Gup — Ceinture verte
 
-* **Nombre de mouvements :**  28
-* **Diagramme au sol :**  (Hanja ou lettre capitale I)
+* **Nombre de mouvements :** 28
+* **Diagramme au sol :** (Hanja ou lettre capitale I)
 * **Durée :** 40 secondes
 
 | Diagramme | Description |
@@ -34,7 +34,7 @@
    *([Niunja so sonkal nopunde anuro taerigi](../Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
 6. Exécuter un coup de poing moyen vers A avec le poing droit tout en formant une position fixe droite vers A, en glissant le pied droit vers A.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
-7. Ramener le pied droit vers le pied gauche puis tourner le visage vers D tout en formant un droit position de préparation pliée A vers D.
+7. Ramener le pied droit vers le pied gauche puis tourner le visage vers D tout en formant une position de préparation pliée A droite vers D.
    *([guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 8. Exécuter un coup de pied latéral perçant moyen vers D avec le pied gauche.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -70,11 +70,11 @@
    *([Najunde apcha busigi](../chagi/apcha-busigi.md))*
 24. Abaisser le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-25. Tourner le visage vers C pour former un gauche position de préparation pliée A vers C.
+25. Tourner le visage vers C pour former une position de préparation pliée A gauche vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 26. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
-27. Abaisser le pied droit sur ligne CD puis déplacer le pied gauche vers B, en tournant dans le sens anti-horaire pour former une position en L droite vers B, à la même en exécutant un blocage de garde moyen vers B avec l'avant-bras.
+27. Abaisser le pied droit sur la ligne CD puis déplacer le pied gauche vers B, en tournant dans le sens anti-horaire pour former une position en L droite vers B, tout en exécutant un blocage de garde moyen vers B avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 28. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*

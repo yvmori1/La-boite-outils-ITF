@@ -4,8 +4,8 @@
 
 > **Grade :** 4e Dan
 
-* **Nombre de mouvements :**  61
-* **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré)
+* **Nombre de mouvements :** 61
+* **Diagramme au sol :** (Hanja pour l'Érudit / Lettré)
 * **Durée :** 100 secondes
 
 | Diagramme | Description |
@@ -22,7 +22,7 @@
 
 ### Posture de départ : position parallèle de préparation
 
-1. Tourner le visage vers B tout en formant un droit position de préparation pliée A vers B.
+1. Tourner le visage vers B tout en formant une position de préparation pliée A droite vers B.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
    > *Exécuter en mouvement lent.*
 2. Exécuter un coup de pied latéral perçant haut vers B avec le pied gauche.
@@ -31,7 +31,7 @@
 3. Exécuter un coup de pied latéral perçant haut vers B avec le pied gauche.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
    > *Exécuter 2 et 3 en un coup de pied double.*
-4. Abaisser le pied gauche vers B pour former une position assise vers D tout en exécutant une pique moyenne vers D avec la pique de doigts à plat droit.
+4. Abaisser le pied gauche vers B pour former une position assise vers D tout en exécutant une pique moyenne vers D avec le bout des doigts droit à plat.
    *([Annun so orun opun sonkut kaunde tulgi](../Techniques/Annun-So-Orun-Opun-Sonkut-Kaunde-Tulgi.md))*
 5. Exécuter un coup de pied crocheté inversé haut vers B avec le pied droit.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
@@ -46,7 +46,7 @@
 9. Exécuter un blocage latéral haut vers B avec le tranchant de la main gauche et un blocage latéral bas vers A avec le tranchant de la main droite tout en formant une position sur une jambe droite vers D, en tirant le tranchant interne du pied gauche vers l'articulation du genou droit.
    *([Waebal so sonkal najunde baro yop makgi](../makgi/yop-makgi.md) wa [sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
    > *Exécuter en mouvement lent.*
-10. Abaisser le pied gauche vers le pied droit puis tourner le visage vers A tout en formant un gauche position de préparation pliée A vers A.
+10. Abaisser le pied gauche vers le pied droit puis tourner le visage vers A tout en formant une position de préparation pliée A gauche vers A.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
    > *Exécuter en mouvement lent.*
 11. Exécuter un coup de pied latéral perçant haut vers A avec le pied droit.
@@ -55,7 +55,7 @@
 12. Exécuter un coup de pied latéral perçant haut vers A avec le pied droit.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
    > *Exécuter 11 et 12 en un coup de pied double.*
-13. Abaisser le pied droit vers A pour former une position assise vers D tout en exécutant une pique moyenne vers D avec la pique de doigts à plat gauche.
+13. Abaisser le pied droit vers A pour former une position assise vers D tout en exécutant une pique moyenne vers D avec le bout des doigts gauche à plat.
    *([Annun so wen opun sonkut kaunde tulgi](../Techniques/Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.md))*
 14. Exécuter un coup de pied crocheté inversé haut vers A avec le pied gauche.
    *([Nopunde bandae dollyo gorochagi](../chagi/bandae-dollyo-goro-chagi.md))*
@@ -70,14 +70,14 @@
 18. Exécuter un blocage latéral haut vers A avec le tranchant de la main droite et un blocage latéral bas vers B avec le tranchant de la main gauche tout en formant une position sur une jambe gauche vers D, en tirant le tranchant interne du pied droit vers l'articulation du genou gauche.
    *([Waebal so sonkal najunde baro yop makgi](../makgi/yop-makgi.md) wa [sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
    > *Exécuter en mouvement lent.*
-19. Tourner le visage vers C tout en formant un gauche position de préparation pliée B vers D.
+19. Tourner le visage vers C tout en formant une position de préparation pliée B gauche vers D.
    *([Guburyo junbi sogi B](../Techniques/Guburyo-Junbi-Sogi-B.md))*
 20. Exécuter un coup de pied arrière perçant haut vers C avec le pied droit.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
    > *Exécuter en mouvement lent.*
 21. Abaisser le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-22. Tourner le visage vers C tout en formant un droit position de préparation pliée B vers D.
+22. Tourner le visage vers C tout en formant une position de préparation pliée B droite vers D.
    *([Guburyo junbi sogi B](../Techniques/Guburyo-Junbi-Sogi-B.md))*
 23. Exécuter un coup de pied arrière perçant haut vers C avec le pied gauche.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
@@ -150,10 +150,10 @@
    *([Niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 55. Déplacer le pied droit vers C puis tourner dans le sens anti-horaire en pivotant avec le pied droit pour former une position de marche gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
-56. Sauter vers C pour former une position en X droite vers AC tout en exécutant un coup de poing bas vers C avec le poing gauche et en amenant le poing droit sur la épaule gauche.
+56. Sauter vers C pour former une position en X droite vers AC tout en exécutant un coup de poing bas vers C avec le poing gauche et en amenant le poing droit sur l'épaule gauche.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so najunde bandae jirugi)*
    > *Distance de saut : 1 position de marche.*
-57. Sauter vers D pour former une position en X gauche vers AD tout en exécutant un coup de poing bas vers D avec le poing droit et en amenant le poing gauche sur la épaule droite.
+57. Sauter vers D pour former une position en X gauche vers AD tout en exécutant un coup de poing bas vers D avec le poing droit et en amenant le poing gauche sur l'épaule droite.
    *(Twigi, [wen kyocha so najunde bandae jirugi](../Techniques/Wen-Kyocha-So-Najunde-Bandae-Jirugi.md))*
    > *Distance de saut : 1 position de marche.*
 58. Sauter pour exécuter un coup de pied en vol vers D avec le pied droit tout en pivotant dans le sens horaire.

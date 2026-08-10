@@ -4,8 +4,8 @@
 
 > **Grade :** 9e Gup — Ceinture blanche barre jaune
 
-* **Nombre de mouvements :**  19
-* **Diagramme au sol :**  (Croix / Représente le Ciel et la Terre)
+* **Nombre de mouvements :** 19
+* **Diagramme au sol :** (Croix / Représente le Ciel et la Terre)
 * **Durée :** 27 secondes
 
 | Diagramme | Description |

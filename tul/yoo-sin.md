@@ -4,8 +4,8 @@
 
 > **Grade :** 3e Dan
 
-* **Nombre de mouvements :**  68
-* **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré)
+* **Nombre de mouvements :** 68
+* **Diagramme au sol :** (Hanja pour l'Érudit / Lettré)
 * **Durée :** 90 secondes
 
 | Diagramme | Description |
@@ -102,9 +102,9 @@
    > *Exécuter 36 et 37 en mouvement rapide.*
 38. Déplacer le pied droit vers D, pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
-39. Déplacer le pied gauche sur ligne CD, puis tourner dans le sens anti-horaire, en pivotant avec le pied gauche pour former une position en L droite vers C tout en exécutant un blocage haut vers C avec le revers de la main gauche.
+39. Déplacer le pied gauche sur la ligne CD, puis tourner dans le sens anti-horaire, en pivotant avec le pied gauche pour former une position en L droite vers C tout en exécutant un blocage haut vers C avec le revers de la main gauche.
    *([Niunja so sonkal dung nopunde yop makgi](../makgi/nopunde-yop-makgi.md))*
-40. Ramener le pied droit vers le pied gauche pour former un position de préparation fermée C vers C.
+40. Ramener le pied droit vers le pied gauche pour former une position de préparation fermée C vers C.
    *([Moa junbi sogi C](../Techniques/Moa-Junbi-Sogi-C.md))*
 41. Déplacer le pied droit vers CF en un mouvement étampé pour former une position de marche droite vers CF tout en exécutant un coup de poing renversé vers CF avec les poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
@@ -128,7 +128,7 @@
    *([Gojung so digutja jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md))*
 50. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers E, pour former une position fixe droite vers E tout en exécutant un coup de poing en U vers E.
    *([Gojung so digutja jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md))*
-51. Déplacer le pied droit sur ligne CD en un mouvement étampé pour former une position assise vers E tout en exécutant une frappe frontale vers E avec le revers du poing droit.
+51. Déplacer le pied droit sur la ligne CD en un mouvement étampé pour former une position assise vers E tout en exécutant une frappe frontale vers E avec le revers du poing droit.
    *([Annun so orun dung joomuk ap taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md))*
 52. Exécuter un coup de pied retourné vers D avec le pied droit, puis un blocage extérieur haut vers AC avec l'avant-bras extérieur droit, en gardant les mains dans la position du mouvement 51 tout en formant une position assise vers E.
    *([Doro chagi](../Techniques/Doro-Chagi.md), [annun so orun bakat palmok nopunde bakuro makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.md))*
@@ -167,4 +167,4 @@
 68. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers AD pour former une position en L gauche vers AD tout en exécutant un blocage de garde moyen vers AD avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 
-### FIN : ramener le pied droit à la posture de départ
+### FIN : ramener le pied droit à la posture de départ.

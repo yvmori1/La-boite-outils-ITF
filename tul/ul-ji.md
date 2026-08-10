@@ -4,8 +4,8 @@
 
 > **Grade :** 4e Dan
 
-* **Nombre de mouvements :**  42
-* **Diagramme au sol :**  (En forme de Z inversé/caractère 乙)
+* **Nombre de mouvements :** 42
+* **Diagramme au sol :** (En forme de Z inversé/caractère 乙)
 * **Durée :** 55 secondes
 
 | Diagramme | Description |
@@ -16,13 +16,13 @@
 
 ## Origine et contexte historique
 
-* **Contexte de stratégie militaire asymétrique :** Grâce à des tactiques d'usure et de harcèlement rapide (guerrière d'usure), le général Ul-Ji Moon-Dok parvint à anéantir les troupes Sui lors de la célèbre bataille de la rivière Salsu, sauvant la Corée d'une colonisation totale.
+* **Contexte de stratégie militaire asymétrique :** Grâce à des tactiques d'usure et de harcèlement rapide (guerre d'usure), le général Ul-Ji Moon-Dok parvint à anéantir les troupes Sui lors de la célèbre bataille de la rivière Salsu, sauvant la Corée d'une colonisation totale.
 
 ## Liste Détaillée des Mouvements
 
 ### Posture de départ : position parallèle avec les dos des mains croisés
 
-1. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe horizontale avec jumelé côté poings.
+1. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe horizontale avec les côtés des poings jumelés.
    *(Gunnun so sang yop joomuk soopyong taerigi)*
 2. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un blocage en pression avec les poings croisés.
    *([Gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
@@ -39,16 +39,16 @@
    *([Annun so orun ap palkup taerigi](../Techniques/Annun-So-Orun-Ap-Palkup-Taerigi.md))*
 8. Piquer vers B avec l'arrière du coude gauche en plaçant le côté du poing droit sur le poing gauche tout en maintenant une position assise vers A.
    *([Annun so wen dwit palkup tulgi](../Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.md))*
-9. Exécuter une frappe arrière latérale vers B avec le revers du poing droit et en étendant le bras gauche vers le côté-vers le bas tout en maintenant une position assise vers A.
+9. Exécuter une frappe arrière latérale vers B avec le revers du poing droit et en étendant le bras gauche vers le bas sur le côté tout en maintenant une position assise vers A.
    *([Annun so orun dung joomuk yopdwi taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md))*
-10. Ramener le pied gauche vers le pied droit, pour former une position fermée vers D, tout en piquant avec un jumelé côté coude.
+10. Ramener le pied gauche vers le pied droit, pour former une position fermée vers D, tout en piquant latéralement avec les deux coudes.
    *([Moa so sang yop palkup tulgi](../jirugi/sang-yop-palkup-tulgi.md))*
 11. Croiser le pied gauche par-dessus le pied droit, pour former une position en X droite vers D tout en tournant le visage vers A, en gardant les mains dans la position du mouvement 10.
    *([Kyocha sogi](../Techniques/Kyocha-Sogi.md))*
    > *Exécuter en mouvement rapide.*
 12. Exécuter un coup de pied latéral perçant moyen vers A avec le pied droit en gardant les mains dans la position du mouvement 11.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
-13. Abaisser le pied droit vers A, puis croiser le pied gauche par-dessus le pied droit, pour former une position en X droite vers D tout en exécutant une pique horizontale avec un jumelé coude.
+13. Abaisser le pied droit vers A, puis croiser le pied gauche par-dessus le pied droit, pour former une position en X droite vers D tout en exécutant une pique horizontale avec les deux coudes.
    *([Kyocha so sang palkup soopyong tulgi](../Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md))*
 14. Déplacer le pied droit vers A pour former la position assise vers D tout en exécutant un coup de poing horizontal droit vers A.
    *([Annun so orun soopyong jirugi](../Techniques/Annun-So-Orun-Soopyong-Jirugi.md))*
@@ -61,7 +61,7 @@
    > *Distance de saut : 1 position de marche, le pied avant restant sur place.*
 18. Atterrir vers B pour former une position de marche droite vers B tout en exécutant un blocage moyen vers B avec le double avant-bras droit.
    *([Gunnun so doo palmok kaunde makgi](../makgi/kaunde-makgi.md))*
-19. Ramener le pied gauche vers le pied droit pour former un position de préparation fermée B vers D.
+19. Ramener le pied gauche vers le pied droit pour former une position de préparation fermée B vers D.
    *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
 20. Sauter vers D pour former une position en X droite vers BD tout en exécutant une frappe latérale haute vers B avec le revers du poing droit en amenant la pulpe des doigts de la main gauche vers le côté du poing droit.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so dung joomuk nopunde baro yop taerigi)*
@@ -72,11 +72,11 @@
    *([Kaunde apcha busigi](../chagi/apcha-busigi.md))*
 23. Abaisser le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing haut vers D avec le poing droit.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
-24. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec la pique de doigts droite droit.
+24. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec le bout des doigts droit.
    *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Sun-Sonkut-Kaunde-Tulgi.md))*
 25. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position assise vers A tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
    *([Annun so wen dung joomuk nopunde yop taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
-26. Déplacer le pied droit vers F en tournant dans le sens anti-horaire pour former un droit position de marche de préparation vers F.
+26. Déplacer le pied droit vers F en tournant dans le sens anti-horaire pour former une position de marche de préparation droite vers F.
    *([Gunnun junbi sogi](../Techniques/Gunnun-Junbi-Sogi.md))*
 27. Sauter pour exécuter un coup de pied haut sauté vers F avec le pied droit.
    *([Twimyo nopi chagi](../Techniques/Twimyo-Nopi-Chagi.md))*
@@ -108,9 +108,9 @@
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
 40. Exécuter un blocage circulaire vers DE avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers DF.
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
-41. Déplacer le pied gauche sur ligne EF pour former une position assise vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
+41. Déplacer le pied gauche sur la ligne EF pour former une position assise vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
    *([Annun so wen joomuk kaunde jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Jirugi.md))*
 42. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position assise vers D.
    *([Annun so orun joomuk kaunde jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 
-### FIN : ramener le pied gauche à la posture de départ
+### FIN : ramener le pied gauche à la posture de départ.

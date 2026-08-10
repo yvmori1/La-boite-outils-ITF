@@ -4,8 +4,8 @@
 
 > **Grade :** 4e Gup — Ceinture bleue
 
-* **Nombre de mouvements :**  32
-* **Diagramme au sol :**  (Hanja ou lettre capitale I)
+* **Nombre de mouvements :** 32
+* **Diagramme au sol :** (Hanja ou lettre capitale I)
 * **Durée :** 47 secondes
 
 | Diagramme | Description |
@@ -46,23 +46,23 @@
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 12. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing renversé vers D avec les poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
-13. Déplacer le pied droit sur ligne CD puis tourner dans le sens anti-horaire pour former une position de marche gauche vers C tout en exécutant un blocage montant avec les poings croisés.
+13. Déplacer le pied droit sur la ligne CD puis tourner dans le sens anti-horaire pour former une position de marche gauche vers C tout en exécutant un blocage montant avec les poings croisés.
    *([Gunnun so kyocha joomuk chookyo makgi](../makgi/chookyo-makgi.md))*
 14. Déplacer le pied gauche vers E pour former une position en L droite vers E tout en exécutant une frappe latérale haute vers E avec le revers du poing gauche.
    *([Niunja so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
-15. Vriller le poing gauche dans le sens anti-horaire jusqu'à ce que le revers du poing fait visage vers le bas, en même temps pour former une position de marche gauche vers E, en glissant le pied gauche vers E.
+15. Pivoter le poing gauche dans le sens anti-horaire jusqu'à ce que son revers soit tourné vers le bas, tout en formant une position de marche gauche vers E, en glissant le pied gauche vers E.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 16. Exécuter un coup de poing haut vers E avec le poing droit tout en maintenant une position de marche gauche vers E.
    *([gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
    > *Exécuter 15 et 16 en mouvement rapide.*
 17. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers F, pour former une position en L gauche vers F tout en exécutant une frappe latérale haute vers F avec un revers du poing droit.
    *([Niunja so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
-18. Vriller le poing droit dans le sens horaire jusqu'à ce que le revers du poing fait visage vers le bas, en même temps pour former une position de marche droite vers F, en glissant le pied droit vers F.
+18. Pivoter le poing droit dans le sens horaire jusqu'à ce que son revers soit tourné vers le bas, tout en formant une position de marche droite vers F, en glissant le pied droit vers F.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 19. Exécuter un coup de poing haut vers F avec le poing gauche tout en maintenant une position de marche droite vers F.
    *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
    > *Exécuter 18 et 19 en mouvement rapide.*
-20. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage haut vers C avec un gauche double avant-bras.
+20. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage haut vers C avec le double avant-bras gauche.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 21. Exécuter un coup de poing moyen vers C avec le poing gauche tout en formant une position en L droite vers C, en tirant le pied gauche.
    *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
@@ -92,4 +92,4 @@
 32. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers B pour former une position fixe gauche vers B, tout en exécutant un blocage en U vers B.
    *([Gojung so digutja makgi](../Techniques/Gojung-So-Digutja-Makgi.md))*
 
-### FIN : ramener le pied gauche à la posture de départ
+### FIN : ramener le pied gauche à la posture de départ.
