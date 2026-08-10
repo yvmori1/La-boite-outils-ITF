@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  45
 * **Diagramme au sol :**  (Mont Baekdu / la montagne)
+* **Durée :** 85 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

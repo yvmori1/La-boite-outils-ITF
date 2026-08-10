@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  38
 * **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré)
+* **Durée :** 50 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

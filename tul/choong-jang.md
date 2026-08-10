@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  52
 * **Diagramme au sol :**  (Hanja ou lettre capitale I)
+* **Durée :** 80 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

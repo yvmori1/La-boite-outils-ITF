@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  36
 * **Diagramme au sol :**  (Ligne horizontale unique - Symbolise la loyauté absolue)
+* **Durée :** 45 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

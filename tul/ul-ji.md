@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  42
 * **Diagramme au sol :**  (En forme de Z inversé/caractère 乙)
+* **Durée :** 55 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

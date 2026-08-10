@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  24
 * **Diagramme au sol :**  (Hanja pour le 'Roi')
+* **Durée :** 39 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

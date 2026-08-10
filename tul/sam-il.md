@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  33
 * **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré ou la Croix)
+* **Durée :** 45 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

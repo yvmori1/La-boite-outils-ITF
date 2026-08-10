@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  45
 * **Diagramme au sol :**  (Ligne verticale unique)
+* **Durée :** 65 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

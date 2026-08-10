@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  19
 * **Diagramme au sol :**  (Croix / Représente le Ciel et la Terre)
+* **Durée :** 27 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

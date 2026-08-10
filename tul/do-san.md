@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  24
 * **Diagramme au sol :**  (Zigzag / Marche d'escalier)
+* **Durée :** 35 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

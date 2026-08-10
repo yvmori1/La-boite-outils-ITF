@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  56
 * **Diagramme au sol :**  (Ligne verticale unique - Symbolise la race homogène unifiée)
+* **Durée :** 95 secondes
 
 | Diagramme | Description |
 | ------ | ------ |

@@ -6,6 +6,7 @@
 
 * **Nombre de mouvements :**  39
 * **Diagramme au sol :**  (Hanja pour l'Érudit / Lettré - Représente l'expansion du territoire)
+* **Durée :** 75 secondes
 
 | Diagramme | Description |
 | ------ | ------ |
