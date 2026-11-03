@@ -140,7 +140,7 @@ contact exclurait femmes, aînés, enfants et personnes handicapées.
 
 Le règlement de compétition actuel de l'ITF, le barème des points, les
 pénalités et la gestuelle de l'arbitre sont détaillés dans
-[Combats.md](../Theorie/Combats.md#4-le-système-de-points-officiel).
+[Règlement et arbitrage](arbitrage.md#2-le-système-de-points-officiel).
 
 ---
 

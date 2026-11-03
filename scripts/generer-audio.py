@@ -6,7 +6,7 @@
   python3 scripts/generer-audio.py --write --force # régénère même l'audio existant
   python3 scripts/generer-audio.py --limite 5      # s'arrête après 5 fiches
   python3 scripts/generer-audio.py --manuel        # lie les hangul du manuel
-  python3 scripts/generer-audio.py --combats       # lie les hangul de Combats.md
+  python3 scripts/generer-audio.py --combats       # lie les hangul des pages de Combat/
 
 Pour chaque fiche de Techniques/, chagi/, jirugi/, makgi/ et tul/ :
 
@@ -50,11 +50,12 @@ VOIX = "Yuna"
 DEBIT = 130
 
 # Documents de fond dont chaque hangul devient un lien de prononciation, avec le
-# sous-dossier d'audio qui leur est propre. Celui du manuel reste « grammaire »,
-# nom de la fiche d'origine : le renommer perdrait les enregistrements déjà liés.
+# sous-dossier d'audio qui leur est propre ; un motif glob en désigne plusieurs.
+# Celui du manuel reste « grammaire », nom de la fiche d'origine : le renommer
+# perdrait les enregistrements déjà liés.
 DOCUMENTS = {
     "manuel": ("Theorie/manuel-taekwon-do.md", "grammaire"),
-    "combats": ("Theorie/Combats.md", "combats"),
+    "combats": ("Combat/*.md", "combats"),
 }
 
 # Noms des formes en hangul : absents des fiches, donc fournis ici.
@@ -465,7 +466,7 @@ def main():
                    action="store_true",
                    help="ancien nom de --manuel (fiches fusionnées au manuel)")
     p.add_argument("--combats", action="store_true",
-                   help="lie les hangul de Theorie/Combats.md")
+                   help="lie les hangul des pages de Combat/")
     p.add_argument("--reparer", action="store_true",
                    help="reproduit l'audio des liens dont le fichier manque")
     args = p.parse_args()
@@ -537,14 +538,15 @@ def main():
     for nom, (relatif, sous_dossier) in DOCUMENTS.items():
         if not getattr(args, nom):
             continue
-        chemin = RACINE / relatif
-        c = lier_document(chemin, sous_dossier, args)
-        print(f"\n{chemin.name}")
-        print(f"  hangul liés               : {c['reemploi'] + c['propre']}")
-        print(f"    réemploi d'un audio     : {c['reemploi']}")
-        print(f"    audio propre            : {c['propre']}")
-        print(f"  audio à produire          : {c['audio']}")
-        print(f"  lignes déjà traitées      : {c['deja']}")
+        # un motif (« Combat/*.md ») désigne tous les documents d'un dossier
+        for chemin in sorted(RACINE.glob(relatif)):
+            c = lier_document(chemin, sous_dossier, args)
+            print(f"\n{chemin.relative_to(RACINE)}")
+            print(f"  hangul liés               : {c['reemploi'] + c['propre']}")
+            print(f"    réemploi d'un audio     : {c['reemploi']}")
+            print(f"    audio propre            : {c['propre']}")
+            print(f"  audio à produire          : {c['audio']}")
+            print(f"  lignes déjà traitées      : {c['deja']}")
 
 
 if __name__ == "__main__":

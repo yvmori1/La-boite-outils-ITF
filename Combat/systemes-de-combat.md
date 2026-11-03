@@ -46,6 +46,12 @@ Le nombre de pas, la cible et l'arme d'attaque sont convenus d'avance entre les
 deux partenaires. Les enchaînements de l'*Encyclopédie* ne sont que des
 exemples : chacun peut les modifier selon son choix ou la situation.
 
+L'objectif pédagogique est de développer la précision, la distance (*Gori*) et
+le contrôle. Les rôles et les attaques étant connus d'avance, toucher
+l'adversaire avec puissance est interdit.
+
+> Attaque annoncée → défense ciblée → contre-attaque finale arrêtée
+
 ### Principes de base
 
 1. Les deux partenaires (X et Y) se placent face à face, à une pleine longueur de la position d'attaque, mesurée depuis la moitié avant du pied de l'adversaire.
@@ -61,12 +67,15 @@ exemples : chacun peut les modifier selon son choix ou la situation.
 
 Par convention, le combat commence sur la ligne AB ; on bloque de la main ou du
 pied gauche et on attaque de la main ou du pied droit, à de rares exceptions
-près. La prise de mesure qui précède chaque exercice est décrite dans
-[Combats.md](../Theorie/Combats.md#3-la-prise-de-mesure-gori-jajil).
+près. La prise de mesure qui précède chaque exercice, avec les repères de pieds
+au sol pour chaque niveau de cible, est décrite dans
+[La prise de mesure](prise-de-mesure.md).
 
 ### Combat à trois pas (Sambo Matsogi — [삼보 맞서기](../audio/combats/Sambo-Matsogi.m4a))
 
-L'exercice de base des débutants, en général du 9e au 6e Gup. Il habitue aux
+L'exercice de base des débutants, en général du 9e au 6e Gup. L'attaquant fait
+trois pas en avant avec trois attaques identiques ; le défenseur recule de trois
+pas en bloquant, puis délivre une seule contre-attaque finale. Il habitue aux
 attaques et défenses correctes : surtout les mains contre les niveaux moyen et
 haut, les pieds contre le niveau bas, en avançant et en reculant.
 
@@ -116,7 +125,9 @@ nombre de pas sont entièrement libres. On n'échange cependant qu'**une seule
 série** d'attaque et de défense, et brièvement.
 
 C'est la dernière étape avant le combat libre, mais il se pratique à tous les
-niveaux. Déroulement :
+niveaux. L'attaquant, en garde fixe, choisit librement son unique technique
+d'attaque sans l'annoncer ; le défenseur doit réagir en temps réel, bloquer et
+contre-attaquer. Déroulement :
 
 1. Au commandement « combat semi-libre, prêt », X et Y prennent une position en « L » avec une garde de l'avant-bras ou du tranchant de la main, en criant « Ya ».
 2. Au commandement « commencez », ils échangent attaque et défense.
@@ -145,6 +156,10 @@ l'application concrète de chaque mouvement, souvent répété au ralenti. Le
 partenaire n'offre qu'une cible précise : il ne porte qu'un seul coup convenu à
 chaque échange, et le démonstrateur règle librement la distance.
 
+C'est un combat de ceintures noires, qui démontre la technique au plus haut
+niveau : scénarisé, fluide et réaliste, il met en scène sauts complexes,
+balayages et esquives acrobatiques sans interruption.
+
 ---
 
 ## 6. Le combat libre préarrangé (Yaksok Jayu Matsogi — [약속 자유 맞서기](../audio/combats/Yaksok-Jayu-Matsogi.m4a))
@@ -153,11 +168,23 @@ Un combat libre simulé : les partenaires suivent un scénario préparé qui leu
 permet de montrer une grande variété de techniques sans crainte de blessure.
 Spectaculaire, il est idéal en démonstration pour présenter le style de combat
 du Taekwon-Do, et il fournit à l'élève un modèle pour le vrai combat libre.
+Comme toute la chorégraphie est apprise par cœur, on peut y intégrer en
+sécurité des casses et des chutes complexes.
+
+---
+
+## 7. Le combat libre (Jayu Matsogi — [자유 맞서기](../audio/combats/Jayu-Matsogi.m4a))
+
+L'aboutissement du système : les deux pratiquants attaquent et défendent
+librement, en enchaînant les combinaisons, avec des touches contrôlées. Il a sa
+propre page, [Le combat libre](combat-libre.md), et ses règles de compétition
+sont dans [Règlement et arbitrage](arbitrage.md).
 
 ---
 
 ## Voir aussi
 
 * [Le combat libre](combat-libre.md) — l'étape suivante, et les conseils tactiques du général Choi.
-* [Combats.md](../Theorie/Combats.md) — prise de mesure, commandements et arbitrage.
+* [La prise de mesure](prise-de-mesure.md) — la distance des combats préarrangés.
+* [Règlement et arbitrage](arbitrage.md) — commandements, points, pénalités et gestuelle de l'arbitre.
 * [Exigences par grade](progression.md) — les combats arrangés numérotés de la FQTI.

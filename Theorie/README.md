@@ -1,9 +1,9 @@
 # Théorie
 
 Documents de fond : le manuel qui réunit toute la théorie, puis les documents
-qui l'entourent — guide du combat et de l'arbitrage, exigences de progression,
-questionnaires d'examen, analyses statistiques du répertoire technique et plan
-de cours.
+qui l'entourent — glossaire, exigences de progression, questionnaires
+d'examen, analyses statistiques du répertoire technique et plan de cours. Le
+combat et son arbitrage ont leur propre section, [../Combat/](../Combat/README.md).
 
 Ce répertoire contient les documents de référence transversaux, par opposition
 aux fiches de technique unitaires des autres répertoires.
@@ -42,8 +42,7 @@ contenu se trouve désormais.
 
 ## Combat et arbitrage
 
-* [Combats.md](Combats.md) — guide pédagogique du combat (*Matsogi*) : typologie des assauts, prise de mesure (*Gori Jajil*), système de points, code des pénalités et gestuelle de l'arbitre central. Chaque terme coréen y est lié à sa prononciation.
-* [../Combat/README.md](../Combat/README.md) — la section consacrée au combat, à l'autodéfense et à la casse, qui complète ce guide.
+* [../Combat/README.md](../Combat/README.md) — la section consacrée au combat : systèmes de combat, prise de mesure (*Gori Jajil*), combat libre, règlement et arbitrage (commandements, points, pénalités, gestuelle de l'arbitre), autodéfense et casse.
 
 ## Progression et examens
 

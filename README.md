@@ -21,8 +21,8 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 | [makgi](makgi/README.md) | Les blocages — 막기 | 44 |
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — 지르기 | 21 |
 | [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 296 |
-| [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), avec les exigences par grade | 6 |
-| [Theorie](Theorie/README.md) | Le manuel complet, le glossaire coréen-français, le guide du combat, les examens théoriques, les analyses et le programme de session | 6 |
+| [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 8 |
+| [Theorie](Theorie/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 5 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 41 |
 
 ---
@@ -41,7 +41,7 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 **Si vous travaillez le combat, l'autodéfense ou la casse** → [Combat/README.md](Combat/README.md) : systèmes de combat, conseils pour le combat libre, autodéfense, points vitaux, casse, et un récapitulatif des exigences de chaque examen.
 
-**Si vous préparez un combat ou un arbitrage** → [Theorie/Combats.md](Theorie/Combats.md) : types d'assauts, prise de mesure, commandements de l'arbitre, barème des points et des pénalités.
+**Si vous préparez un combat ou un arbitrage** → [Combat/arbitrage.md](Combat/arbitrage.md) : commandements de l'arbitre, barème des points et des pénalités ; la prise de mesure est dans [Combat/prise-de-mesure.md](Combat/prise-de-mesure.md).
 
 ---
 

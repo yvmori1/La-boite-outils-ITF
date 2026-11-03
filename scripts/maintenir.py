@@ -12,7 +12,7 @@
   3. graphies normalisées           (variantes sans ambiguïté)
   4. liens des formes vers les fiches
   5. mvt.txt
-  6. prononciations et liens audio  (fiches, manuel, guide du combat)
+  6. prononciations et liens audio  (fiches, manuel, pages de Combat/)
   7. réparation des audio manquants
   8. contrôle final (scripts/verifier.py)
 
