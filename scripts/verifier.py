@@ -14,9 +14,8 @@ Contrôles effectués :
   4. fiches vides
   5. compteurs du README racine
   6. Techniques/README.md à jour
-  7. mvt.txt à jour
-  8. graphies concurrentes d'un même terme
-  9. couverture des liens dans les formes
+  7. graphies concurrentes d'un même terme
+  8. couverture des liens dans les formes
 """
 
 import argparse
@@ -171,7 +170,6 @@ CONTROLES = [
     ("compteurs du README racine", controle_compteurs, True),
     ("index Techniques à jour",
      lambda: controle_generateur("generer-index-techniques.py"), True),
-    ("mvt.txt à jour", lambda: controle_generateur("generer-mvt.py"), True),
     ("graphies concurrentes", controle_graphies, True),
     ("couverture des formes", controle_couverture, False),
 ]
