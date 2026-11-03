@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [수직 서 손칼 반대 내려 때리기](../audio/Techniques/Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.m4a)
 
-Le **Soojik So Sonkal Bandae Naeryo Taerigi** (수직 서 손칼 반대 내려 때리기) est le **coup percutant descendant inversé au tranchant de la main en posture verticale** (*Vertical stance reverse knife-hand downward strike*) en TaeKwon-Do ITF.
+Le **Soojik So Sonkal Bandae Naeryo Taerigi** ([수직 서 손칼 반대 내려 때리기](../audio/Techniques/Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.m4a)) est le **coup percutant descendant inversé au tranchant de la main en posture verticale** (*Vertical stance reverse knife-hand downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque tranchante et puissante s'abat du haut vers le bas à la manière d'une hache en exploitant l'énergie de pesanteur. Exécutée avec le tranchant de la main ouverte (**Sonkal**) en posture verticale (**Soojik Sogi**), elle cible des zones fragiles ou des structures osseuses hautes à moyennes (clavicule, arête du nez, épaule ou bras de l'adversaire).
 
 Sa décomposition linguistique est la suivante :
 
-* **Soojik So / Soojik Sogi (수직 서기) :** Posture verticale (*Vertical stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, jambes quasi tendues).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — le bord extérieur de la main ouverte, du petit doigt au poignet).
-* **Bandae (반대) :** Inversé (*Reverse* — frappe exécutée par le bras **du côté de la jambe avant** / opposé à la jambe arrière).
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
+* **Soojik So / Soojik Sogi ([수직 서기](../audio/grammaire/Soojik-Sogi.m4a)) :** Posture verticale (*Vertical stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, jambes quasi tendues).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — le bord extérieur de la main ouverte, du petit doigt au poignet).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — frappe exécutée par le bras **du côté de la jambe avant** / opposé à la jambe arrière).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
 * **Taerigi (때리기) :** Coup percutant / Cinglant (*Strike*).
 
 ---

@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [모아서 오른 안 팔목 옆앞 막기](../audio/Techniques/Moa-So-Orun-An-Palmok-Yobap-Makgi.m4a)
 
-Le **Moa So Orun An Palmok Yobap Makgi** (모아서 오른 안 팔목 옆앞 막기) est le **blocage combiné latéral-avant droit à l'avant-bras intérieur en posture pieds joints** (*Closed stance right inner forearm side-front block*) en TaeKwon-Do ITF.
+Le **Moa So Orun An Palmok Yobap Makgi** ([모아서 오른 안 팔목 옆앞 막기](../audio/Techniques/Moa-So-Orun-An-Palmok-Yobap-Makgi.m4a)) est le **blocage combiné latéral-avant droit à l'avant-bras intérieur en posture pieds joints** (*Closed stance right inner forearm side-front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale et très spécifique s'exécute pieds joints (**Moa Sogi**). Elle protège simultanément le flanc et la ligne frontale du corps grâce à l'action de l'avant-bras intérieur droit (**Orun An Palmok**), formant un bouclier d'angle intermédiaire (diagonale côté-devant / *Yobap*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **An Palmok (안 팔목) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse située du côté du pouce / du radius).
 * **Yobap (옆앞) :** Latéral-avant / Diagonale avant-côté (*Side-front*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).

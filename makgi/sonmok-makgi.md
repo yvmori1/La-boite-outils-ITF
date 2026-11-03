@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [손목 막기](../audio/makgi/sonmok-makgi.m4a)
 
-Le **Sommok Makgi** (손목 막기 — parfois retranscrit *Sonmok Makgi*) est le **blocage du poignet** (*Wrist block*) en TaeKwon-Do ITF.
+Le **Sommok Makgi** ([손목 막기](../audio/makgi/sonmok-makgi.m4a) — parfois retranscrit *Sonmok Makgi*) est le **blocage du poignet** (*Wrist block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 

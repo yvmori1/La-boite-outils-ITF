@@ -1,16 +1,16 @@
 # Annun So Orun Gutja Makgi
 
-> 🔊 **Prononciation :** [앉은 서 오른 굿자 막기](../audio/Techniques/Annun-So-Orun-Gutja-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 오른 구자 막기](../audio/Techniques/Annun-So-Orun-Gutja-Makgi.m4a)
 
-Le **Annun So Orun Gutja Makgi** (앉은 서 오른 굿자 막기) est le **blocage en forme de "9" droit en posture du cavalier** (*Sitting stance right 9-shape block*) en TaeKwon-Do ITF.
+Le **Annun So Orun Gutja Makgi** (앉은 서 오른 구자 막기) est le **blocage en forme de "9" droit en posture du cavalier** (*Sitting stance right 9-shape block*) en TaeKwon-Do ITF.
 
 Cette technique défensive double et combinée forme la silhouette du chiffre **"9"** (ou de la lettre coréenne *Giyeok* **ㄱ**). Elle permet de créer un cadre de protection étagé pour intercepter ou coincer simultanément deux attaques arrivant à des hauteurs différentes (haut/moyen et bas).
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right* — désignant le bras droit qui forme la partie principale du cadre).
-* **Gutja (굿자) :** En forme de figure "9" (*9-shape*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right* — désignant le bras droit qui forme la partie principale du cadre).
+* **Gutja (구자) :** En forme de figure "9" (*9-shape*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

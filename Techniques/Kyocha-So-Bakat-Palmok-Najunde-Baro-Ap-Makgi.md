@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [교차 서 바깥 팔목 낮은데 바로 앞 막기](../audio/Techniques/Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.m4a)
 
-Le **Kyocha So Bakat Palmok Najunde Baro Ap Makgi** (교차 서 바깥 팔목 낮은데 바로 앞 막기) est le **blocage bas avant direct à l'avant-bras extérieur en posture croisée** (*X-stance outer forearm low obverse front block*) en TaeKwon-Do ITF.
+Le **Kyocha So Bakat Palmok Najunde Baro Ap Makgi** ([교차 서 바깥 팔목 낮은데 바로 앞 막기](../audio/Techniques/Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.m4a)) est le **blocage bas avant direct à l'avant-bras extérieur en posture croisée** (*X-stance outer forearm low obverse front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive rapide et dynamique utilise l'arête osseuse extérieure de l'avant-bras (**Bakat Palmok**) pour dévier ou intercepter une frappe basse arrivant de face (**Najunde Ap Makgi** — comme un coup de pied direct *Ap Chagi* ou une attaque au bas-ventre), tout en exploitant la mobilité et le changement d'axe rapides qu'offre la posture croisée (**Kyocha Sogi**). L'indication **Baro** (direct) précise que le blocage est exécuté avec le bras situé **du même côté que la jambe porteuse / avant** (qui supporte la majorité du poids du corps).
 
 Sa décomposition linguistique est la suivante :
 
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture croisée (*X-stance* — une jambe croisée devant l'autre, le talon du pied arrière décollé, le poids reposant quasi-totalement sur le pied avant).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture croisée (*X-stance* — une jambe croisée devant l'autre, le talon du pied arrière décollé, le poids reposant quasi-totalement sur le pied avant).
 * **Bakat Palmok (바깥 팔목) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
-* **Baro (바로) :** Direct / Du même côté (*Obverse* — s'exécute avec la main du côté de la jambe porteuse/avant).
-* **Ap (앞) :** Avant / Frontal (*Front*).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — s'exécute avec la main du côté de la jambe porteuse/avant).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

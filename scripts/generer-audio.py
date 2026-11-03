@@ -7,6 +7,9 @@
   python3 scripts/generer-audio.py --limite 5      # s'arrête après 5 fiches
   python3 scripts/generer-audio.py --manuel        # lie les hangul du manuel
   python3 scripts/generer-audio.py --combats       # lie les hangul des pages de Combat/
+  python3 scripts/generer-audio.py --tout          # lie les hangul de tout le site
+  python3 scripts/generer-audio.py --tout --sans-synthese --write
+                                                   # hors macOS : réemploi seul
 
 Pour chaque fiche de Techniques/, chagi/, jirugi/, makgi/ et tul/ :
 
@@ -31,11 +34,22 @@ Ce sont les deux fiches Lexique.md et grammaire-itf.md, aujourd'hui fusionnées
 dans le manuel, que --manuel remplace. Leurs anciens indicateurs --lexique et
 --grammaire restent acceptés et font la même chose.
 
-Dépend de macOS : `say` et `afconvert`.
+Avec --tout, ce même traitement s'étend à chaque document publié du site : les
+fiches (au-delà de leur ligne de prononciation), les README, le glossaire, le
+manuel et Combat/. Le manuel et Combat/ gardent leur sous-dossier d'audio ; les
+autres documents rangent leurs nouveaux enregistrements dans audio/termes/,
+sous le nom du hangul lui-même — un nom qui ne peut désigner qu'un seul texte.
+Le titre de la page (« # … »), les blocs de code et tout ce qui est déjà pris
+dans un lien ne sont jamais retouchés.
+
+Dépend de macOS : `say` et `afconvert`. Ailleurs, --sans-synthese lie seulement
+les hangul dont l'enregistrement existe déjà et compte les autres « en
+attente » : un passage ultérieur sur Mac les produit et les lie.
 """
 
 import argparse
 import collections
+import os
 import pathlib
 import re
 import subprocess
@@ -149,14 +163,26 @@ HANGUL = re.compile(r"[가-힣ㄱ-ㅎ]")
 INTRO = re.compile(r"\*\*(.+?)\*\*\s*\(([^)]*[가-힣ㄱ-ㅎ][^)]*)\)")
 DEBUT_HANGUL = re.compile(r"^[가-힣ㄱ-ㅎ][가-힣ㄱ-ㅎ\s]*")
 TITRE = re.compile(r"^#\s+.+$")
-MARQUE = "audio/"          # présence d'un lien audio déjà posé
+PRONONCIATION = re.compile(
+    r"\*\*Prononciation :\*\*\s*\[([가-힣ㄱ-ㅎ][^\]]*)\]\(")
+LIEN_MD = re.compile(r"!?\[([^\]]*)\]\([^)]*\)")
+# présence de la ligne de prononciation de la fiche. Ne pas chercher « audio/ » :
+# un terme du corps de la fiche peut déjà renvoyer à un enregistrement.
+MARQUE = "**Prononciation :**"
 
 
 def texte_coreen(fiche):
     """Le hangul à prononcer, ou None si la fiche n'en donne pas."""
     if fiche.parent.name == "tul":
         return NOMS_TUL.get(fiche.stem)
-    m = INTRO.search(fiche.read_text(encoding="utf-8"))
+    contenu = fiche.read_text(encoding="utf-8")
+    # la ligne de prononciation déjà posée fait foi : l'audio doit dire
+    # exactement ce qu'elle affiche
+    m = PRONONCIATION.search(contenu)
+    if m:
+        return " ".join(m.group(1).split()) or None
+    # le hangul de la première phrase a pu devenir un lien : on lit son texte
+    m = INTRO.search(LIEN_MD.sub(r"\1", contenu))
     if not m:
         return None
     d = DEBUT_HANGUL.match(m.group(2).strip())
@@ -326,8 +352,25 @@ def traiter_lexique(args):
 
 # ------------------------------------------------------- documents libres
 
-# toute suite de hangul du document (les lignes déjà liées sont ignorées)
-SUITE_HANGUL = re.compile(r"[가-힣][가-힣\s]*")
+# toute suite de hangul, jamo isolés compris (« ㄷ », « ㄱ자 »)
+SUITE_HANGUL = re.compile(r"[가-힣ㄱ-ㅎ][가-힣ㄱ-ㅎ\s]*")
+# ce qui ne doit jamais être retouché : un lien Markdown entier (image comprise),
+# déjà audio ou non, et un code en ligne
+PROTEGE = re.compile(r"!?\[[^\]]*\]\([^)]*\)|`[^`]*`")
+# lien audio quel que soit le niveau du document : « audio/ » à la racine,
+# « ../audio/ » dans un dossier, « ../../audio/ » plus bas
+LIEN_AUDIO = re.compile(
+    r"\[([가-힣ㄱ-ㅎ][^\]]*)\]\((?:\.\./)*audio/([^)]+)\)")
+
+# Documents publiés dont --tout lie chaque hangul : tous les dossiers du site.
+# Les documents de DOCUMENTS gardent leur sous-dossier d'audio ; les autres
+# rangent leurs nouveaux enregistrements dans audio/termes/.
+DOSSIERS_PUBLIES = ("", "Ceintures", "tul", "chagi", "makgi", "jirugi",
+                    "Techniques", "Combat", "Theorie", "images", "images/sogi")
+SOUS_DOSSIER_TERMES = "termes"
+# documents produits par un autre script : les lier ici ferait diverger leur
+# générateur, qui les réécrirait sans les liens à chaque passage
+GENERES = {"Techniques/README.md"}
 
 
 def romanisation_precedente(ligne, position):
@@ -350,6 +393,10 @@ def romanisation_precedente(ligne, position):
     return dernier.group(1).strip() if dernier else None
 
 
+def normaliser(texte):
+    return " ".join(texte.split())
+
+
 def index_par_hangul():
     """{hangul: chemin audio} d'après tous les liens déjà posés dans le dépôt.
 
@@ -357,13 +404,16 @@ def index_par_hangul():
     doivent renvoyer au même enregistrement, quelle que soit leur origine.
     """
     index = {}
-    for md in RACINE.rglob("*.md"):
-        if ".git" in str(md):
+    for md in sorted(RACINE.rglob("*.md")):
+        if ".git" in md.parts or "docs" in md.relative_to(RACINE).parts[:1]:
             continue
-        for han, audio in re.findall(
-                r"\[([가-힣ㄱ-ㅎ][가-힣ㄱ-ㅎ\s]*)\]\(\.\./audio/([^)]+)\)",
+        for han, audio in LIEN_AUDIO.findall(
                 md.read_text(encoding="utf-8", errors="ignore")):
-            index.setdefault(han.strip(), audio)
+            han = normaliser(han)
+            # un enregistrement présent l'emporte sur un lien dont l'audio
+            # a été supprimé pour être refait
+            if han not in index or not (AUDIO / index[han]).exists():
+                index[han] = audio
     for dossier in DOSSIERS:
         for fiche in sorted((RACINE / dossier).glob("*.md")):
             if fiche.name in HORS_TRAITEMENT:
@@ -374,54 +424,129 @@ def index_par_hangul():
     return index
 
 
-def lier_document(chemin, sous_dossier, args):
-    """Transforme chaque hangul du document en lien vers sa prononciation."""
+def nom_de_fichier(texte):
+    """Le hangul lui-même, espaces changés en tirets (sinon le lien Markdown
+    s'arrêterait au premier espace de l'adresse)."""
+    return re.sub(r"\s+", "-", texte)
+
+
+def lier_document(chemin, sous_dossier, args, index=None, nom_hangul=False):
+    """Transforme chaque hangul du document en lien vers sa prononciation.
+
+    Un hangul déjà pris dans un lien n'est pas retouché, pas plus que le titre
+    de la page (ligne « # … », qui sert aussi de titre au menu) ni les blocs de
+    code. Avec --sans-synthese, seul un hangul dont l'audio existe déjà est lié ;
+    les autres sont comptés « en attente » et seront liés sur macOS.
+
+    nom_hangul : le nouvel enregistrement est nommé d'après le hangul, et non
+    d'après la romanisation qui le précède — un nom sûr, sans collision.
+    """
     contenu = chemin.read_text(encoding="utf-8")
-    index = index_par_hangul()
+    index = index_par_hangul() if index is None else index
+    utilises = {}                       # audio -> hangul, contre les collisions
+    for han, audio in index.items():
+        utilises.setdefault(audio, han)
+    vers_audio = os.path.relpath(AUDIO, chemin.parent).replace(os.sep, "/")
     compte = collections.Counter()
     sortie = []
+    en_code = False
 
     for ligne in contenu.splitlines():
-        if "](" in ligne and "audio/" in ligne:      # ligne déjà traitée
-            compte["deja"] += 1
+        if ligne.lstrip().startswith("```"):
+            en_code = not en_code
+        if en_code or ligne.startswith("```") or re.match(r"#\s", ligne):
             sortie.append(ligne)
             continue
 
         def remplacer(m):
-            texte = m.group(0).strip()
+            texte = normaliser(m.group(0))
             if not texte:
                 return m.group(0)
-            terme = romanisation_precedente(ligne, m.start()) or ""
             if texte in index:
                 audio = index[texte]                 # même hangul : réemploi
-                compte["reemploi"] += 1
+                nature = "reemploi"
             else:
-                # sans romanisation, le hangul sert de nom de fichier ; ses
-                # espaces deviennent des tirets, sans quoi le lien Markdown
-                # s'arrêterait au premier espace de l'adresse
+                terme = "" if nom_hangul else \
+                    romanisation_precedente(ligne, m.start()) or ""
                 base = re.sub(r"[^A-Za-z0-9]+", "-", terme).strip("-") \
-                    if terme else re.sub(r"\s+", "-", texte)
+                    if terme else nom_de_fichier(texte)
                 audio = f"{sous_dossier}/{base}.m4a"
-                # le même hangul plus loin dans le document doit renvoyer ici,
-                # et non se faire enregistrer une seconde fois sous un autre nom
-                index[texte] = audio
-                compte["propre"] += 1
+                if utilises.get(audio, texte) != texte:
+                    # la romanisation désigne déjà un autre hangul : un même
+                    # fichier ne doit jamais dire deux textes différents
+                    audio = f"{sous_dossier}/{nom_de_fichier(texte)}.m4a"
+                nature = "propre"
             cible = AUDIO / audio
             if not cible.exists():
+                if args.sans_synthese:
+                    compte["attente"] += 1
+                    attente[texte] += 1
+                    return m.group(0)
                 if args.write:
                     cible.parent.mkdir(parents=True, exist_ok=True)
                     produire_audio(texte, cible, args.voix, args.debit)
                 compte["audio"] += 1
+            # le même hangul plus loin doit renvoyer ici, et non se faire
+            # enregistrer une seconde fois sous un autre nom
+            index[texte] = audio
+            utilises.setdefault(audio, texte)
+            compte[nature] += 1
             # l'espace final éventuel est rendu au texte, pas au lien
             espace = m.group(0)[len(m.group(0).rstrip()):]
-            return f"[{texte}](../audio/{audio}){espace}"
+            return f"[{texte}]({vers_audio}/{audio}){espace}"
 
-        ligne = SUITE_HANGUL.sub(remplacer, ligne)
-        sortie.append(ligne)
+        compte["deja"] += sum(1 for p in PROTEGE.finditer(ligne)
+                              if "audio/" in p.group(0))
+        sortie.append(_assembler(ligne, remplacer))
 
     if args.write:
-        chemin.write_text("\n".join(sortie) + "\n", encoding="utf-8")
+        nouveau = "\n".join(sortie) + "\n"
+        if nouveau != contenu:
+            chemin.write_text(nouveau, encoding="utf-8")
     return compte
+
+
+def _assembler(ligne, remplacer):
+    """Applique remplacer() aux hangul de la ligne situés hors des zones
+    protégées, en conservant leurs positions dans la ligne d'origine."""
+    zones = [(p.start(), p.end()) for p in PROTEGE.finditer(ligne)]
+
+    def hors_zone(m):
+        if any(a <= m.start() < b for a, b in zones):
+            return m.group(0)
+        return remplacer(m)
+    # une suite de hangul ne chevauche jamais le début d'une zone : elle
+    # s'arrête au « [ », « ! » ou « ` » qui l'ouvre
+    return SUITE_HANGUL.sub(hors_zone, ligne)
+
+
+# hangul encore sans audio, recensés par --sans-synthese
+attente = collections.Counter()
+
+
+def documents_publies():
+    """Tous les documents Markdown du site, dans l'ordre du dépôt."""
+    for dossier in DOSSIERS_PUBLIES:
+        for md in sorted((RACINE / dossier).glob("*.md")):
+            if md.relative_to(RACINE).as_posix() not in GENERES:
+                yield md
+
+
+def lier_tout(args):
+    """Lie chaque hangul de chaque document publié. Rend {chemin: compte}."""
+    propres = {md.resolve(): sd for rel, sd in DOCUMENTS.values()
+               for md in RACINE.glob(rel)}
+    index = index_par_hangul()
+    resultats = {}
+    for md in documents_publies():
+        sous_dossier = propres.get(md.resolve())
+        if sous_dossier:
+            c = lier_document(md, sous_dossier, args, index)
+        else:
+            c = lier_document(md, SOUS_DOSSIER_TERMES, args, index,
+                              nom_hangul=True)
+        resultats[md] = c
+    return resultats
 
 
 def reparer(args):
@@ -432,19 +557,18 @@ def reparer(args):
     """
     compte = collections.Counter()
     for md in sorted(RACINE.rglob("*.md")):
-        if ".git" in str(md):
+        if ".git" in md.parts or "docs" in md.relative_to(RACINE).parts[:1]:
             continue
-        for label, rel in re.findall(
-                r"\[([가-힣ㄱ-ㅎ][^\]]*)\]\(\.\./audio/([^)]+)\)",
+        for label, rel in LIEN_AUDIO.findall(
                 md.read_text(encoding="utf-8", errors="ignore")):
             cible = AUDIO / rel
             compte["liens"] += 1
             if cible.exists():
                 continue
             compte["manquants"] += 1
-            if args.write:
+            if args.write and not args.sans_synthese:
                 cible.parent.mkdir(parents=True, exist_ok=True)
-                produire_audio(label.strip(), cible, args.voix, args.debit)
+                produire_audio(normaliser(label), cible, args.voix, args.debit)
                 compte["produits"] += 1
     return compte
 
@@ -469,18 +593,25 @@ def main():
                    help="lie les hangul des pages de Combat/")
     p.add_argument("--reparer", action="store_true",
                    help="reproduit l'audio des liens dont le fichier manque")
+    p.add_argument("--tout", action="store_true",
+                   help="lie les hangul de tous les documents du site "
+                        "(manuel et Combat/ compris)")
+    p.add_argument("--sans-synthese", action="store_true",
+                   help="hors macOS : ne lie que les hangul dont l'audio existe "
+                        "déjà et liste ceux qui restent à produire")
     args = p.parse_args()
 
-    if args.write:
+    if args.write and not args.sans_synthese:
         for outil in ("say", "afconvert"):
             if subprocess.run(["which", outil],
                               stdout=subprocess.DEVNULL).returncode:
-                sys.exit(f"{outil} introuvable — ce script requiert macOS")
+                sys.exit(f"{outil} introuvable — ce script requiert macOS "
+                         "(ou --sans-synthese)")
         AUDIO.mkdir(exist_ok=True)
 
     compte = dict(fiches=0, sans_hangul=0, audio=0, deja_audio=0,
                   liens=0, deja_lies=0)
-    sans_hangul = []
+    sans_hangul, fiches_en_attente = [], []
 
     for dossier in DOSSIERS:
         for fiche in sorted((RACINE / dossier).glob("*.md")):
@@ -498,10 +629,14 @@ def main():
 
             nom_audio = f"{dossier}/{fiche.stem}.m4a"
             cible = AUDIO / nom_audio
-            cible.parent.mkdir(parents=True, exist_ok=True)
             if cible.exists() and not args.force:
                 compte["deja_audio"] += 1
+            elif args.sans_synthese:
+                # pas de lien vers un audio qui n'existe pas encore
+                fiches_en_attente.append(f"{dossier}/{fiche.name}")
+                continue
             elif args.write:
+                cible.parent.mkdir(parents=True, exist_ok=True)
                 produire_audio(texte, cible, args.voix, args.debit)
                 compte["audio"] += 1
             else:
@@ -527,6 +662,11 @@ def main():
         print(f"\nfiches sans hangul ({len(sans_hangul)}) :")
         for nom in sans_hangul:
             print(f"  {nom}")
+    if fiches_en_attente:
+        print(f"\nfiches dont l'audio reste à produire sur macOS "
+              f"({len(fiches_en_attente)}) :")
+        for nom in fiches_en_attente:
+            print(f"  {nom}")
 
     if args.reparer:
         c = reparer(args)
@@ -535,18 +675,33 @@ def main():
         print(f"  reproduits          : {c['produits']}")
         return
 
-    for nom, (relatif, sous_dossier) in DOCUMENTS.items():
-        if not getattr(args, nom):
-            continue
-        # un motif (« Combat/*.md ») désigne tous les documents d'un dossier
-        for chemin in sorted(RACINE.glob(relatif)):
-            c = lier_document(chemin, sous_dossier, args)
-            print(f"\n{chemin.relative_to(RACINE)}")
-            print(f"  hangul liés               : {c['reemploi'] + c['propre']}")
-            print(f"    réemploi d'un audio     : {c['reemploi']}")
-            print(f"    audio propre            : {c['propre']}")
-            print(f"  audio à produire          : {c['audio']}")
-            print(f"  lignes déjà traitées      : {c['deja']}")
+    if args.tout:
+        resultats = lier_tout(args)
+        total = collections.Counter()
+        for c in resultats.values():
+            total.update(c)
+        print(f"\ndocuments parcourus         : {len(resultats)}")
+        print(f"  hangul liés               : {total['reemploi'] + total['propre']}")
+        print(f"    réemploi d'un audio     : {total['reemploi']}")
+        print(f"    audio propre            : {total['propre']}")
+        print(f"  audio à produire          : {total['audio']}")
+        print(f"  hangul déjà liés          : {total['deja']}")
+    else:
+        for nom, (relatif, sous_dossier) in DOCUMENTS.items():
+            if not getattr(args, nom):
+                continue
+            # un motif (« Combat/*.md ») désigne tous les documents d'un dossier
+            for chemin in sorted(RACINE.glob(relatif)):
+                c = lier_document(chemin, sous_dossier, args)
+                print(f"\n{chemin.relative_to(RACINE)}")
+                print(f"  hangul liés               : {c['reemploi'] + c['propre']}")
+                print(f"    réemploi d'un audio     : {c['reemploi']}")
+                print(f"    audio propre            : {c['propre']}")
+                print(f"  audio à produire          : {c['audio']}")
+                print(f"  hangul déjà liés          : {c['deja']}")
+    if attente:
+        print(f"\nhangul en attente d'audio (macOS) : {len(attente)} textes, "
+              f"{sum(attente.values())} occurrences")
 
 
 if __name__ == "__main__":

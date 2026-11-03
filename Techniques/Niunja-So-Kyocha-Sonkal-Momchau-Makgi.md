@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 교차 손칼 멈춰 막기](../audio/Techniques/Niunja-So-Kyocha-Sonkal-Momchau-Makgi.m4a)
 
-Le **Niunja So Kyocha Sonkal Momchau Makgi** (ㄴ자 서 교차 손칼 멈춰 막기) est le **blocage d'arrêt croisé au tranchant de la main en posture en L** (*L-stance X-knife-hand checking / checking-stop block*) en TaeKwon-Do ITF.
+Le **Niunja So Kyocha Sonkal Momchau Makgi** ([ㄴ자 서 교차 손칼 멈춰 막기](../audio/Techniques/Niunja-So-Kyocha-Sonkal-Momchau-Makgi.m4a)) est le **blocage d'arrêt croisé au tranchant de la main en posture en L** (*L-stance X-knife-hand checking / checking-stop block*) en TaeKwon-Do ITF.
 
 Cette technique défensive spécialisée utilise le croisement des deux tranchants de la main (**Kyocha Sonkal**) pour intercepter et stopper (*Momchau*) net une attaque puissante (comme un coup de pied direct ou descendant) au moment même de son impact ou de son extension, tout en maintenant le buste protégé par l'assise en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Kyocha (교차) :** Croisé / En X (*X-shape / Cross*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
 * **Momchau (멈춰) :** Arrêt / Bloquer net / Stopper (*Checking / Stop*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 

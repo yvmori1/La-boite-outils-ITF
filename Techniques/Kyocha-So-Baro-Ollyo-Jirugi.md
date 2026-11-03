@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [교차 서 바로 올려 지르기](../audio/Techniques/Kyocha-So-Baro-Ollyo-Jirugi.m4a)
 
-Le **Kyocha So Baro Ollyo Jirugi** (교차 서 바로 올려 지르기) est le **coup de poing uppercut direct en posture croisée** (*X-stance obverse rising punch / uppercut*) en TaeKwon-Do ITF.
+Le **Kyocha So Baro Ollyo Jirugi** ([교차 서 바로 올려 지르기](../audio/Techniques/Kyocha-So-Baro-Ollyo-Jirugi.m4a)) est le **coup de poing uppercut direct en posture croisée** (*X-stance obverse rising punch / uppercut*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque verticale et dynamique utilise les deux premières jointures du poing (**Ap Joomuk**) pour frapper le menton, la gorge ou le plexus solaire de l'adversaire de bas en haut (**Ollyo**), tout en exploitant la mobilité et le changement d'axe explosif d'une posture croisée (**Kyocha Sogi**). L'indication **Baro** (direct) signifie que le coup est porté par le bras situé **du même côté que la jambe porteuse / avant** (qui supporte l'essentiel du poids du corps).
 
 Sa décomposition linguistique est la suivante :
 
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture croisée (*X-stance* — une jambe croisée devant l'autre, talon arrière décollé, poids porté quasi-intégralement sur la jambe avant).
-* **Baro (바로) :** Direct / Du même côté (*Obverse* — s'exécute avec le bras du côté de la jambe porteuse avant).
-* **Ollyo (올려) :** Ascendant / Montant (*Rising / Upward*).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture croisée (*X-stance* — une jambe croisée devant l'autre, talon arrière décollé, poids porté quasi-intégralement sur la jambe avant).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — s'exécute avec le bras du côté de la jambe porteuse avant).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Ascendant / Montant (*Rising / Upward*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [쌍 옆 팔굽 찌르기](../audio/jirugi/sang-yop-palkup-tulgi.m4a)
 
-Le **Sang Yop Palkup Tulgi** (쌍 옆 팔굽 찌르기) est le **double coup de coude latéral perçant** (*Twin side elbow thrust*) en TaeKwon-Do ITF.
+Le **Sang Yop Palkup Tulgi** ([쌍 옆 팔굽 찌르기](../audio/jirugi/sang-yop-palkup-tulgi.m4a)) est le **double coup de coude latéral perçant** (*Twin side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à très courte distance consiste à projeter simultanément la pointe des deux coudes vers la gauche et la droite sur la ligne latérale (*Yop*), permettant de frapper deux cibles situées sur vos flancs ou de vous dégager d'un encerclement.
 
 Sa décomposition linguistique est la suivante :
 
 * **Sang (쌍) :** Double / Paire / Jumeau (*Twin*).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Tulgi (찌르기) :** Pique / Poussée pénétrante (*Thrust*).
 
 ---

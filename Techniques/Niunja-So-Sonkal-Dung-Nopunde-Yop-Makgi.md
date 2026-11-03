@@ -1,17 +1,17 @@
 # Niunja So Sonkal Dung Nopunde Yop Makgi
 
-> 🔊 **Prononciation :** [ㄴ자 서 손칼등 높인데 옆 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Nopunde-Yop-Makgi.m4a)
+> 🔊 **Prononciation :** [ㄴ자 서 손칼등 높은데 옆 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Nopunde-Yop-Makgi.m4a)
 
-Le **Niunja So Sonkal Dung Nopunde Yop Makgi** (ㄴ자 서 손칼등 높인데 옆 막기) est le **blocage latéral haut avec le revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand high side block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Dung Nopunde Yop Makgi** (ㄴ자 서 손칼등 높은데 옆 막기) est le **blocage latéral haut avec le revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand high side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive utilise le revers du tranchant de la main (**Sonkal Dung** — le côté du pouce et de l'index) pour dévier ou intercepter une attaque haute (coup de poing ou coup de pied circulaire) arrivant sur le côté/flanc du pratiquant, tout en tirant parti du profil étroit et de la stabilité en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sonkal Dung (손칼등) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux, de la tempe ou de la tête).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, de la tempe ou de la tête).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

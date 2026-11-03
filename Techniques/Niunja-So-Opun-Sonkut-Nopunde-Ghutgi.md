@@ -1,17 +1,17 @@
 # Niunja So Opun Sonkut Nopunde Ghutgi
 
-> 🔊 **Prononciation :** [ㄴ자 서 엎운 손끝 높인데 긋기](../audio/Techniques/Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.m4a)
+> 🔊 **Prononciation :** [ㄴ자 서 엎은 손끝 높은데 긋기](../audio/Techniques/Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.m4a)
 
-Le **Niunja So Opun Sonkut Nopunde Ghutgi** (ㄴ자 서 엎운 손끝 높인데 긋기) est le **coup d'estoc/écorchure haut horizontal avec le bout des doigts à plat en posture en L** (*L-stance flat fingertip high cross-cut / scratching strike*) en TaeKwon-Do ITF.
+Le **Niunja So Opun Sonkut Nopunde Ghutgi** (ㄴ자 서 엎은 손끝 높은데 긋기) est le **coup d'estoc/écorchure haut horizontal avec le bout des doigts à plat en posture en L** (*L-stance flat fingertip high cross-cut / scratching strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque précise utilise l'extrémité des doigts tendus (**Sonkut**), paume orientée vers le sol (**Opun**), dans une trajectoire de balayage ou d'écorchure horizontale (**Ghutgi**) au niveau haut (**Nopunde**). Elle vise des cibles vulnérables du visage comme les yeux, la gorge ou la carotide.
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Opun (엎운) :** Paume vers le bas / À plat (*Flat / Palm down*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Opun (엎은) :** Paume vers le bas / À plat (*Flat / Palm down*).
 * **Sonkut (손끝) :** Bout / Extrémité des doigts (*Fingertip*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux, du visage ou du cou).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou du cou).
 * **Ghutgi (긋기) :** Coup transversal / Écorchure / Trajectoire d'estoc horizontale (*Cross-cut / Scratching strike*).
 
 ---

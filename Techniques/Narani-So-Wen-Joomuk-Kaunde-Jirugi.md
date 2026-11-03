@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [평행 서 왼 주먹 가운데 지르기](../audio/Techniques/Narani-So-Wen-Joomuk-Kaunde-Jirugi.m4a)
 
-Le **Narani So Wen Joomuk Kaunde Jirugi** (평행 서 왼 주먹 가운데 지르기) est le **coup de poing direct moyen du poing gauche en posture pieds parallèles** (*Parallel stance left fist middle punch*) en TaeKwon-Do ITF.
+Le **Narani So Wen Joomuk Kaunde Jirugi** ([평행 서 왼 주먹 가운데 지르기](../audio/Techniques/Narani-So-Wen-Joomuk-Kaunde-Jirugi.m4a)) est le **coup de poing direct moyen du poing gauche en posture pieds parallèles** (*Parallel stance left fist middle punch*) en TaeKwon-Do ITF.
 
 Cette technique fondamentale d'attaque rectiligne s'exécute depuis une posture neutre et équilibrée de face (**Narani Sogi**). Elle projette le poing gauche (**Wen Joomuk**) le long de la ligne centrale du corps vers le niveau moyen (**Kaunde** — le plexus solaire), en exploitant la rotation simultanée des deux poings, le tirage de réaction de la main opposée (*Reaction Force*) et la chute de masse du corps (*Sine Wave*).
 
 Sa décomposition linguistique est la suivante :
 
 * **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
-* **Wen (왼) :** Gauche / Poing gauche (*Left*).
-* **Joomuk (주먹) :** Poing fermé (*Fist*).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Poing gauche (*Left*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

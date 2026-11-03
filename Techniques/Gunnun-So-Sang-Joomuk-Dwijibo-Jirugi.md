@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [걷는 서 쌍 주먹 뒤집어 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.m4a)
 
-Le **Gunnun So Sang Joomuk Dwijibo Jirugi** (걷는 서 쌍 주먹 뒤집어 지르기) est le **double coup de poing retourné (paumes vers le haut) en posture de marche** (*Walking stance twin fist upset punch*) en TaeKwon-Do ITF.
+Le **Gunnun So Sang Joomuk Dwijibo Jirugi** ([걷는 서 쌍 주먹 뒤집어 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.m4a)) est le **double coup de poing retourné (paumes vers le haut) en posture de marche** (*Walking stance twin fist upset punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque bilatérale et simultanée projette les deux poings vers l'avant au niveau moyen (*Kaunde*), en finissant la trajectoire avec les **paumes orientées vers le haut** (**Dwijibo**). Elle est spécifiquement conçue pour s'infiltrer sous la garde adverse et transpercer des cibles comme le plexus solaire, les côtes flottantes ou le bas-ventre.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
 * **Sang Joomuk (쌍 주먹) :** Poings jumelés / Double poing (*Twin fists* — les deux poings frappent simultanément).
 * **Dwijibo (뒤집어) :** Retourné / Renversé (*Upset* — finition paumes orientées vers le haut).
-* **Jirugi (지르기) :** Coup de poing direct en piston / perçant (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston / perçant (*Punch*).
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [걷는 서 반대 뒤집어 지르기](../audio/Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.m4a)
 
-Le **Gunnun So Bandae Dwijibo Jirugi** (걷는 서 반대 뒤집어 지르기) — parfois orthographié *Dwijibon Jirugi* — est une technique d'attaque directe, courte et perforante du Taekwon-Do (ITF).
+Le **Gunnun So Bandae Dwijibo Jirugi** ([걷는 서 반대 뒤집어 지르기](../audio/Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.m4a)) — parfois orthographié *Dwijibon Jirugi* — est une technique d'attaque directe, courte et perforante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de poing direct inversé retourné (paume vers le haut) en position en marche**.
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Coup de poing direct inversé retourné (paume vers le h
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Gunnun So (Sogi)** | 걷는 서기 | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, poids réparti à **50/50**). |
-| **Bandae** | 반대 | Inversé / Reverse | Signifie que la frappe est portée par la **main opposée au pied avant** (ex. pied droit devant, poing gauche qui frappe). |
+| **Gunnun So (Sogi)** | [걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a) | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, poids réparti à **50/50**). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que la frappe est portée par la **main opposée au pied avant** (ex. pied droit devant, poing gauche qui frappe). |
 | **Dwijibo** | 뒤집어 | Retourné / Inverse (*Upset*) | Signifie que le poing finit sa course **paume orientée vers le haut**. |
-| **Jirugi / Jirigi** | 지르기 | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante avec les deux gros poings (*Ap Joomuk*). |
+| **Jirugi / Jirigi** | [지르기](../audio/grammaire/Jirugi.m4a) | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante avec les deux gros poings (*Ap Joomuk*). |
 
 ---
 

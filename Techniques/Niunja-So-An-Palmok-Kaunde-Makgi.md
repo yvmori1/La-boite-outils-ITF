@@ -2,20 +2,20 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 안 팔목 가운데 막기](../audio/Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.m4a)
 
-Le **Niunja So An Palmok Kaunde Makgi** (ㄴ자 서 안 팔목 가운데 막기 — couramment retranscrit **Niunja Sogi An Palmok Kaujunde Makgi**) est le **blocage moyen avec le tranchant interne de l'avant-bras en posture en L** en TaeKwon-Do ITF.
+Le **Niunja So An Palmok Kaunde Makgi** ([ㄴ자 서 안 팔목 가운데 막기](../audio/Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.m4a) — couramment retranscrit **Niunja Sogi An Palmok Kaujunde Makgi**) est le **blocage moyen avec le tranchant interne de l'avant-bras en posture en L** en TaeKwon-Do ITF.
 
 C'est une technique défensive majeure, combinant la grande mobilité d'esquive de la posture en L (*Niunja Sogi*) avec la capacité de déviation fluide de l'intérieur de l'avant-bras (*An Palmok*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Sogi (ㄴ자 서기) :** Posture en L (*L-stance*), nommée ainsi car la position des pieds dessine la lettre coréenne **ㄴ** (Niun).
+* **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*), nommée ainsi car la position des pieds dessine la lettre coréenne **ㄴ** (Niun).
 * **An Palmok (안 팔목) :** Tranchant interne de l'avant-bras (*Inner forearm* — côté du pouce / os radius).
-* **Kaunde / Kaujunde (가운데) :** Niveau moyen (*Middle level* — ciblant la zone du thorax et des épaules).
+* **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — ciblant la zone du thorax et des épaules).
 * **Makgi (막기) :** Blocage / Défense.
 
 ---
 
-## 1. La posture de base : *Niunja Sogi* (ㄴ자 서기)
+## 1. La posture de base : *Niunja Sogi* ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a))
 
 La posture en L offre une protection naturelle du buste en le présentant de trois-quarts (*Half-facing*) :
 

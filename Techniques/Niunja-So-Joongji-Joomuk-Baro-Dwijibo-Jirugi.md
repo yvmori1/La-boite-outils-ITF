@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 중지주먹 바로 뒤집어 지르기](../audio/Techniques/Niunja-So-Joongji-Joomuk-Baro-Dwijibo-Jirugi.m4a)
 
-Le **Niunja So Joongji Joomuk Baro Dwijibo Jirugi** (ㄴ자 서 중지주먹 바로 뒤집어 지르기) est le **coup de poing retourné (paume vers le haut) avec le poing à majeur sortant en posture en L (du même côté)** (*L-stance middle-finger knuckle upset punch*).
+Le **Niunja So Joongji Joomuk Baro Dwijibo Jirugi** ([ㄴ자 서 중지주먹 바로 뒤집어 지르기](../audio/Techniques/Niunja-So-Joongji-Joomuk-Baro-Dwijibo-Jirugi.m4a)) est le **coup de poing retourné (paume vers le haut) avec le poing à majeur sortant en posture en L (du même côté)** (*L-stance middle-finger knuckle upset punch*).
 
 Cette technique d'attaque chirurgicale et ascendante utilise l'articulation saillante du majeur (**Joongji Joomuk**) pour pénétrer sous les côtes ou sous le plexus solaire. La particularité du mouvement réside dans la finition du poing : la paume termine tournée vers le haut (**Dwijibo**), ce qui modifie la trajectoire et l'angle d'impact par rapport à un coup de poing direct classique.
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Joongji Joomuk (중지주먹) :** Poing à majeur sortant (*Middle-finger knuckle fist* — poing fermé dont la deuxième articulation du majeur est projetée vers l'extérieur et verrouillée par le pouce).
-* **Baro (바로) :** Direct / Du même côté (*Direct / Obverse* — la frappe est exécutée par le bras du côté de la jambe arrière).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Direct / Obverse* — la frappe est exécutée par le bras du côté de la jambe arrière).
 * **Dwijibo (뒤집어) :** Retourné / Paume vers le haut (*Upset / Turned over*).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

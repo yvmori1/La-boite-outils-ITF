@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 쌍 손바닥 수평 막기](../audio/Techniques/Niunja-So-Sang-Sonbadak-Soopyong-Makgi.m4a)
 
-Le **Niunja So Sang Sonbadak Soopyong Makgi** (ㄴ자 서 쌍 손바닥 수평 막기) est le **double blocage horizontal avec la paume des mains en posture en L** (*L-stance twin palm horizontal block*) en TaeKwon-Do ITF.
+Le **Niunja So Sang Sonbadak Soopyong Makgi** ([ㄴ자 서 쌍 손바닥 수평 막기](../audio/Techniques/Niunja-So-Sang-Sonbadak-Soopyong-Makgi.m4a)) est le **double blocage horizontal avec la paume des mains en posture en L** (*L-stance twin palm horizontal block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale et très spécifique utilise simultanément la surface charnue des deux paumes ouvertes (**Sang Sonbadak**) pour intercepter ou dévier horizontalement (**Soopyong**) deux attaques ou une attaque double/large arrivant au niveau moyen ou haut, tout en profitant de l'assise en retrait et stable de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Sang (쌍) :** Double / Jumelé (*Twin* — les deux mains agissent de concert).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
 * **Soopyong / Supyeong (수평) :** Horizontal / À l'horizontale (*Horizontal*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 

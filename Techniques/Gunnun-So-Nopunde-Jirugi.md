@@ -1,20 +1,20 @@
 # Gunnun So Nopunde Jirugi
 
-> 🔊 **Prononciation :** [건눈 서 높은데 지르기](../audio/Techniques/Gunnun-So-Nopunde-Jirugi.m4a)
+> 🔊 **Prononciation :** [걷는 서 높은데 지르기](../audio/Techniques/Gunnun-So-Nopunde-Jirugi.m4a)
 
-Le **Gunnun So Nopunde Jirugi** (건눈 서 높은데 지르기 — couramment retranscrit **Gunnun Sogi Nopunde Jirugi**) est le **coup de poing direct au niveau haut en posture de marche** (*High punch in walking stance*) en TaeKwon-Do ITF.
+Le **Gunnun So Nopunde Jirugi** (걷는 서 높은데 지르기 — couramment retranscrit **Gunnun Sogi Nopunde Jirugi**) est le **coup de poing direct au niveau haut en posture de marche** (*High punch in walking stance*) en TaeKwon-Do ITF.
 
 Complémentaire du *Kaunde Jirugi* (niveau moyen), cette technique d'attaque fondamentale est conçue pour percuter avec précision et puissance les zones vitales situées au visage et à la tête.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Sogi (건눈 서기) :** Posture de marche (*Walking stance*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — zone de la tête et du visage).
-* **Jirugi (지르기) :** Coup de poing direct / percussion perçante (*Punch*).
+* **Gunnun So / Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — zone de la tête et du visage).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / percussion perçante (*Punch*).
 
 ---
 
-## 1. La posture de base : *Gunnun Sogi* (건눈 서기)
+## 1. La posture de base : *Gunnun Sogi* ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a))
 
 La frappe tire toute sa stabilité et sa puissance d'ancrage de la posture de marche :
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [쌍 수평 팔굽 찌르기](../audio/jirugi/sang-scopyong-palkup-tulgi.m4a)
 
-Le **Sang Soopyeong Palkup Tulgi** (쌍 수평 팔굽 찌르기 — souvent orthographié ou retranscrit **Sang Sopyong Palkup Tulgi**) est le **double coup de coude horizontal perçant** (*Twin horizontal elbow thrust*) en TaeKwon-Do ITF.
+Le **Sang Soopyeong Palkup Tulgi** ([쌍 수평 팔굽 찌르기](../audio/jirugi/sang-scopyong-palkup-tulgi.m4a) — souvent orthographié ou retranscrit **Sang Sopyong Palkup Tulgi**) est le **double coup de coude horizontal perçant** (*Twin horizontal elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapprochée simultanée utilise la rigidité des deux coudes projetés sur un plan strictement horizontal pour perforer la garde adverse ou frapper deux cibles de profil/face à très courte distance.
 
@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Sang (쌍) :** Double / Paire / Jumeau (*Twin*).
 * **Soopyeong (수평) :** Horizontal (*Horizontal / Level*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Tulgi (찌르기) :** Pique / Poussée perforante (*Thrust*).
 
 > 💡 **Nuance essentielle (*Tulgi* vs *Taerigi*) :**

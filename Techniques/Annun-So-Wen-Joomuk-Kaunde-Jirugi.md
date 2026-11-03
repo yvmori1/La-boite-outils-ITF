@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 주먹 가운데 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Kaunde-Jirugi.m4a)
 
-Le **Annun So Wen Joomuk Kaunde Jirugi** (앉은 서 왼 주먹 가운데 지르기) est le **coup de poing moyen gauche en posture du cavalier** (*Sitting stance left middle punch*) en TaeKwon-Do ITF.
+Le **Annun So Wen Joomuk Kaunde Jirugi** ([앉은 서 왼 주먹 가운데 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Kaunde-Jirugi.m4a)) est le **coup de poing moyen gauche en posture du cavalier** (*Sitting stance left middle punch*) en TaeKwon-Do ITF.
 
 En terminologie ITF, lorsque le verbe **Jirugi** est employé sans précision directionnelle (*Yop* pour latéral ou *Dwit* pour arrière), il s'agit par défaut d'une frappe directe vers l'avant (*Ap*). Il s'agit donc de la nomenclature usuelle et complète de la frappe fondamentale au plexus exécutée en posture du cavalier.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Joomuk (주먹) :** Poing (*Fist* — désigne l'utilisation du devant du poing *Ap Joomuk*).
-* **Kaunde (가운데) :** Niveau moyen (plexus solaire / thorax).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist* — désigne l'utilisation du devant du poing *Ap Joomuk*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [하체 차기](../audio/chagi/hache-chagi.m4a)
 
-Le **Hache Chagi** (하체 차기) — souvent associé ou utilisé de manière interchangeable avec **Najunde Chagi** (나중데 차기) — est le **coup de pied bas / coup de pied aux membres inférieurs** (*Low kick*).
+Le **Hache Chagi** ([하체 차기](../audio/chagi/hache-chagi.m4a)) — souvent associé ou utilisé de manière interchangeable avec **Najunde Chagi** (낮은데 차기) — est le **coup de pied bas / coup de pied aux membres inférieurs** (*Low kick*).
 
 Sa décomposition linguistique est la suivante :
 
@@ -17,9 +17,9 @@ Alors que les coups de pied spectaculaires au visage marquent les esprits, le *H
 
 Selon l'angle de frappe et la variante choisie (latérale, avant ou circulaire) :
 
-* **Balkal (chant externe du pied - 발칼) :** Utilisé pour percuter le genou ou la cuisse (*Najunde Yopcha Jirugi*).
-* **Apkumchi (bol du pied - 앞꿈치) :** Pour une pénétration directe au niveau de la cuisse ou de l'aine.
-* **Dwitchuk (talon - 뒤축) :** Utilisé pour écraser l'articulation du genou (*Nullo Chagi*) ou le dessus du pied.
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Utilisé pour percuter le genou ou la cuisse (*Najunde Yopcha Jirugi*).
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Pour une pénétration directe au niveau de la cuisse ou de l'aine.
+* **Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** Utilisé pour écraser l'articulation du genou (*Nullo Chagi*) ou le dessus du pied.
 * **Les cibles privilégiées :**
 * Le nerf sciatique / le quadriceps (effet de béquille).
 * L'articulation du genou (face interne, externe ou rotule pour casser l'appui).

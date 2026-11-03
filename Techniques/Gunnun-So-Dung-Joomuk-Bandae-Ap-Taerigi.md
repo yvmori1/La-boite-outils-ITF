@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [걷는 서 등 주먹 반대 앞 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.m4a)
 
-Le **Gunnun So Dung Joomuk Bandae Ap Taerigi** (걷는 서 등 주먹 반대 앞 때리기) est une technique d'attaque frontale, rapide et fustigeante du Taekwon-Do (ITF).
+Le **Gunnun So Dung Joomuk Bandae Ap Taerigi** ([걷는 서 등 주먹 반대 앞 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.m4a)) est une technique d'attaque frontale, rapide et fustigeante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe frontale inversée du revers du poing en position en marche**.
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Frappe frontale inversée du revers du poing en position
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Gunnun So (Sogi)** | 걷는 서기 | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, poids réparti à **50/50**). |
+| **Gunnun So (Sogi)** | [걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a) | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, poids réparti à **50/50**). |
 | **Dung Joomuk** | 등 주먹 | Revers du poing | Surface d'impact (la partie dorsale du poing, au niveau des deux premières phalanges). |
-| **Bandae** | 반대 | Inversé / Reverse | Signifie que la frappe est exécutée avec la **main opposée au pied avant** (ex. pied droit devant, main gauche qui frappe). |
-| **Ap** | 앞 | Frontal / Vers l'avant | Direction de l'attaque (droite devant soi, sur l'axe central). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que la frappe est exécutée avec la **main opposée au pied avant** (ex. pied droit devant, main gauche qui frappe). |
+| **Ap** | [앞](../audio/grammaire/Ap.m4a) | Frontal / Vers l'avant | Direction de l'attaque (droite devant soi, sur l'axe central). |
 | **Taerigi** | 때리기 | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
 
 ---

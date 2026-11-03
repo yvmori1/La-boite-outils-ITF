@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 주먹 ㄷ자](../audio/Techniques/Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.m4a)
 
-Le **Annun So Orun Joomuk C-Bang Giokja Jirugi** (앉은 서 오른 주먹 ㄷ자 / C방 ㄱ자 지르기) est le **coup de poing droit en angle encadré en forme de "C" (ou ㄷ) en posture du cavalier** (*Sitting stance right fist C-shape angle punch*) en TaeKwon-Do ITF.
+Le **Annun So Orun Joomuk C-Bang Giokja Jirugi** ([앉은 서 오른 주먹 ㄷ자](../audio/Techniques/Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.m4a) / C방 ㄱ자 지르기) est le **coup de poing droit en angle encadré en forme de "C" (ou ㄷ) en posture du cavalier** (*Sitting stance right fist C-shape angle punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à moyenne/courte distance consiste à projeter le poing droit (*Orun Joomuk*) selon une trajectoire en d'équerre (angle à 90°, forme de la lettre coréenne *Giyeok* **ㄱ** ou *Digeut* **ㄷ** / C-shape) devant la poitrine, encadrant le buste pour frapper la ligne centrale ou le flanc de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Joomuk (주먹) :** Poing / Devant du poing (*Forefist*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing / Devant du poing (*Forefist*).
 * **C-Bang / ㄷ-shape (C방 / ㄷ자) :** En forme de C / encadré en "C" (ou *Digeut* coréen).
 * **Giokja (ㄱ자) :** En angle d'équerre (90°, forme du *Giyeok* coréen).
-* **Jirugi (지르기) :** Coup de poing direct (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct (*Punch*).
 
 ---
 

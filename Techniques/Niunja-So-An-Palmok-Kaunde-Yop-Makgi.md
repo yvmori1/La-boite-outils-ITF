@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 안 팔목 가운데 옆 막기](../audio/Techniques/Niunja-So-An-Palmok-Kaunde-Yop-Makgi.m4a)
 
-Le **Niunja So An Palmok Kaunde Yop Makgi** (ㄴ자 서 안 팔목 가운데 옆 막기) est le **blocage latéral moyen à l'avant-bras intérieur en posture en L** (*L-stance inner forearm middle side block*) en TaeKwon-Do ITF.
+Le **Niunja So An Palmok Kaunde Yop Makgi** ([ㄴ자 서 안 팔목 가운데 옆 막기](../audio/Techniques/Niunja-So-An-Palmok-Kaunde-Yop-Makgi.m4a)) est le **blocage latéral moyen à l'avant-bras intérieur en posture en L** (*L-stance inner forearm middle side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive utilise la surface osseuse intérieure de l'avant-bras (**An Palmok**) pour dévier ou intercepter une frappe directe ou circulaire au niveau moyen (**Kaunde** — plexus solaire, côtes ou poitrine) arrivant depuis le flanc ou le côté (**Yop**), tout en conservant l'assise stable et en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **An Palmok (안 팔목) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse du côté du pouce / du radius).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a)
 
-Le **Moa Junbi Sogi B** (모아 준비 서기 B) est une posture rituelle et technique fondamentale du Taekwon-Do (ITF).
+Le **Moa Junbi Sogi B** ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) B) est une posture rituelle et technique fondamentale du Taekwon-Do (ITF).
 
 Elle se traduit par : **Position fermée de préparation "B"** (*Closed Ready Stance B*).
 

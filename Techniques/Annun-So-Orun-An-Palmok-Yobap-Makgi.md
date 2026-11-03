@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 안팔목 옆앞막기](../audio/Techniques/Annun-So-Orun-An-Palmok-Yobap-Makgi.m4a)
 
-Le **Annun So Orun An Palmok Yobap Makgi** (앉은 서 오른 안팔목 옆앞막기 — souvent orthographié *Yopap Makgi*) est le **blocage latéral-avant droit avec l'avant-bras intérieur en posture du cavalier** (*Sitting stance right inner forearm side-front block*) en TaeKwon-Do ITF.
+Le **Annun So Orun An Palmok Yobap Makgi** ([앉은 서 오른 안팔목 옆앞막기](../audio/Techniques/Annun-So-Orun-An-Palmok-Yobap-Makgi.m4a) — souvent orthographié *Yopap Makgi*) est le **blocage latéral-avant droit avec l'avant-bras intérieur en posture du cavalier** (*Sitting stance right inner forearm side-front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive hybride permet de dévier une attaque venant d'une **trajectoire oblique ou diagonale (environ 45°)**, couvrant à la fois le devant de la poitrine et le flanc.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **An Palmok (안팔목) :** Avant-bras intérieur (côté pouce).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (côté pouce).
 * **Yobap / Yopap (옆앞) :** Latéral-avant / Oblique (*Side-front* — contraction de *Yop* = côté et *Ap* = avant).
 * **Makgi (막기) :** Blocage (*Block*).
 

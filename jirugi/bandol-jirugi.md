@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [반달 지르기](../audio/jirugi/bandol-jirugi.m4a)
 
-Le **Bandal Jirugi** (반달 지르기 — très fréquemment retranscrit ou orthographié **Bandol Jirugi**) est le **coup de poing en croissant** (*Crescent punch*) en TaeKwon-Do ITF.
+Le **Bandal Jirugi** ([반달 지르기](../audio/jirugi/bandol-jirugi.m4a) — très fréquemment retranscrit ou orthographié **Bandol Jirugi**) est le **coup de poing en croissant** (*Crescent punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque intermédiaire entre le coup de poing direct (*Ap Jirugi*) et le crochet circulaire (*Dollyo Jirugi*) utilise une trajectoire curve en demi-lune pour contourner la garde axiale de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
 * **Bandal / Bandol (반달) :** Demi-lune / Croissant de lune (*Crescent / Half-moon*).
-* **Jirugi (지르기) :** Coup de poing direct / percussion perçante (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / percussion perçante (*Punch*).
 
 ---
 

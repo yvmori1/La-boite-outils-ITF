@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 팔목 가운데 대비 막기](../audio/Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.m4a)
 
-Le **Niunja So Palmok Kaunde Daebi Makgi** (ㄴ자 서 팔목 가운데 대비 막기) est le **blocage de garde moyen à l'avant-bras en posture en L** (*L-stance forearm middle guarding block*) en TaeKwon-Do ITF.
+Le **Niunja So Palmok Kaunde Daebi Makgi** ([ㄴ자 서 팔목 가운데 대비 막기](../audio/Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.m4a)) est le **blocage de garde moyen à l'avant-bras en posture en L** (*L-stance forearm middle guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fondamentale utilise la surface des deux avant-bras (**Sang Palmok**) pour protéger le buste, le plexus solaire et les organes vitaux du niveau moyen (*Kaunde*) contre des frappes directes ou circulaires, tout en profitant du profil réduit et de l'assise en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — zone osseuse de blocage).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — zone osseuse de blocage).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Daebi (대비) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 

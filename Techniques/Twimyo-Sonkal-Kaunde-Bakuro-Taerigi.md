@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [뛰며 손칼 가운데 바깥으로 때리기](../audio/Techniques/Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.m4a)
 
-Le **Twimyo Sonkal Kaunde Bakuro Taerigi** (뛰며 손칼 가운데 바깥으로 때리기) est le **coup cinglant sauté moyen au tranchant de la main vers l'extérieur** (*Flying middle outward knife-hand strike*) en TaeKwon-Do ITF.
+Le **Twimyo Sonkal Kaunde Bakuro Taerigi** ([뛰며 손칼 가운데 바깥으로 때리기](../audio/Techniques/Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.m4a)) est le **coup cinglant sauté moyen au tranchant de la main vers l'extérieur** (*Flying middle outward knife-hand strike*) en TaeKwon-Do ITF.
 
 Cette technique aérienne spectaculaire combine l'impulsion et la vitesse d'un saut (*Twimyo*) avec la précision tranchante d'une frappe fouettée exécutée du dedans vers l'extérieur (*Bakuro Taerigi*) au niveau moyen (*Kaunde*). Elle permet de franchir la garde adverse pour cibler les zones vulnérables du haut du buste ou du cou.
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** En sautant / Volant (*Flying / Jumping*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur des épaules / de la carotide / du cou).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur des épaules / de la carotide / du cou).
 * **Bakuro (바깥으로) :** Vers l'extérieur / Du dedans vers l'extérieur (*Outward*).
 * **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
 

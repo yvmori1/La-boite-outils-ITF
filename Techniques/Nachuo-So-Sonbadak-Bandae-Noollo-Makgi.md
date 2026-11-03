@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [낮추 서 손바닥 반대 눌러 막기](../audio/Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.m4a)
 
-Le **Nachuo So Sonbadak Bandae Noollo Makgi** (낮추 서 손바닥 반대 눌러 막기) est une technique défensive lourde, stable et très ancrée du Taekwon-Do (ITF).
+Le **Nachuo So Sonbadak Bandae Noollo Makgi** ([낮추 서 손바닥 반대 눌러 막기](../audio/Techniques/Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.m4a)) est une technique défensive lourde, stable et très ancrée du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage pressant inversé avec la paume de la main en position basse**.
 
@@ -13,9 +13,9 @@ Elle se traduit par : **Blocage pressant inversé avec la paume de la main en po
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Nachuo So (Sogi)** | 낮추 서기 | Position basse (*Low Stance*) | Posture allongée et très basse (plus longue d'un pied que la position en marche *Gunnun Sogi*). |
-| **Sonbadak** | 손바닥 | Paume de la main | Surface de contact (la base ferme de la paume). |
-| **Bandae** | 반대 | Inversé / Reverse | Signifie que le blocage est exécuté avec la **main opposée au pied avant**. |
-| **Noollo** | 눌러 | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser/écraser vers le bas). |
+| **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base ferme de la paume). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que le blocage est exécuté avec la **main opposée au pied avant**. |
+| **Noollo** | [눌러](../audio/grammaire/Nullo.m4a) | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser/écraser vers le bas). |
 | **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
 
 ---

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [모아 서기](../audio/Techniques/Moa-Sogi.m4a)
 
-Le **Moa Sogi** (모아 서기) est la **posture pieds joints** (*Closed stance*) en TaeKwon-Do ITF.
+Le **Moa Sogi** ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) est la **posture pieds joints** (*Closed stance*) en TaeKwon-Do ITF.
 
 C'est une posture d'alignement, d'équilibre central et de salutation/rassemblement. Bien qu'elle paraisse simple, elle demande une grande rigueur dans le placement du centre de gravité et est utilisée aussi bien dans les positions de départ (*Junbi Sogi*) que pour exécuter des blocages et frappes spécifiques dans les patrons (*Tul*).
 
@@ -25,16 +25,16 @@ C'est une posture d'alignement, d'équilibre central et de salutation/rassemblem
 
 En TaeKwon-Do ITF, la posture *Moa Sogi* sert très souvent de position de départ de préparation (**Junbi Sogi**) pour certains patrons. Selon le placement des mains, elle prend plusieurs noms distincts :
 
-1. **Moa Junbi Sogi A (모아 준비 서기 A) :**
+1. **Moa Junbi Sogi A ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) A) :**
    * **Mains :** La main droite fermée en poing est enveloppée par la main gauche ouverte devant l'abdomen (à environ 10 cm au-dessous du nombril).
    * **Utilisation :** Position de départ de patrons comme **Chon-Ji**, **Dan-Gun**, **Do-San**, etc.
-2. **Moa Junbi Sogi B (모아 준비 서기 B) :**
+2. **Moa Junbi Sogi B ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) B) :**
    * **Mains :** Les deux poings sont fermés et placés côte à côte au niveau de la ceinture/du plexus, paumes vers l'intérieur.
    * **Utilisation :** Position de départ de patrons comme **Po-Eun Tul**.
-3. **Moa Junbi Sogi C (모아 준비 서기 C) :**
+3. **Moa Junbi Sogi C ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) C) :**
    * **Mains :** Les deux mains ouvertes, paumes vers le haut, sont superposées ou placées juste au-dessous du bas-ventre.
    * **Utilisation :** Position de départ de patrons comme **Gae-Baek Tul**.
-4. **Moa Junbi Sogi D (모아 준비 서기 D) :**
+4. **Moa Junbi Sogi D ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) D) :**
    * **Mains :** Les mains sont ouvertes et placées le long des cuisses.
 
 ---

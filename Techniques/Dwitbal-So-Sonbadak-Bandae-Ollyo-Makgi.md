@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [뒷발 서 손바닥 반대 올려 막기](../audio/Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.m4a)
 
-Le **Dwitbal So Sonbadak Bandae Ollyo Makgi** (뒷발 서 손바닥 반대 올려 막기) est le **blocage montant inverse avec la paume de la main en posture du pied arrière** (*Rear foot stance palm upward reverse block*) en TaeKwon-Do ITF.
+Le **Dwitbal So Sonbadak Bandae Ollyo Makgi** ([뒷발 서 손바닥 반대 올려 막기](../audio/Techniques/Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.m4a)) est le **blocage montant inverse avec la paume de la main en posture du pied arrière** (*Rear foot stance palm upward reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive ascendance utilise la surface charnue de la paume (*Sonbadak*) du bras opposé à la jambe avant (*Bandae*) pour intercepter, soulever ou dévier vers le haut (*Ollyo*) une attaque haute dirigée vers le menton ou le visage (coup de poing haut, coup de pied direct haut), tout en maintenant le buste en sécurité grâce au recul du poids sur la jambe arrière (*Dwitbal Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Bandae (반대) :** Inverse / Opposé (*Reverse* — la main qui bloque est opposée à la jambe située à l'avant).
-* **Ollyo (올려) :** Montant / Vers le haut (*Upward / Rising*).
+* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — la main qui bloque est opposée à la jambe située à l'avant).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / Vers le haut (*Upward / Rising*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

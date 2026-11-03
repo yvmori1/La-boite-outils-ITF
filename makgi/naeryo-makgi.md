@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [내려 막기](../audio/makgi/naeryo-makgi.m4a)
 
-Le **Naeryo Makgi** (내려 막기) est le **blocage descendant** (*Downward block* ou *Descending block*) en TaeKwon-Do ITF.
+Le **Naeryo Makgi** ([내려 막기](../audio/makgi/naeryo-makgi.m4a)) est le **blocage descendant** (*Downward block* ou *Descending block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Naeryo (내려) :** Descendant / De haut en bas (du verbe *naerida*, 내리다 = descendre / abaisser).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / De haut en bas (du verbe *naerida*, 내리다 = descendre / abaisser).
 * **Makgi (막기) :** Blocage / Défense.
 
 À la différence de *Najunde Makgi* qui définit simplement la **zone cible à protéger** (la section basse), **Naeryo Makgi** définit la **trajectoire descendante** du blocage. Ce mouvement utilise la gravité et le poids du corps pour écraser ou intercepter une attaque venant du bas ou montant vers le corps.

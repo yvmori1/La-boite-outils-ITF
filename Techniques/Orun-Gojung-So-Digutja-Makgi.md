@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 고정 서 ㄷ자 막기](../audio/Techniques/Orun-Gojung-So-Digutja-Makgi.m4a)
 
-Le **Orun Gojung So Digutja Makgi** (오른 고정 서 ㄷ자 막기) est une technique défensive spécialisée et très puissante du Taekwon-Do (ITF).
+Le **Orun Gojung So Digutja Makgi** ([오른 고정 서 ㄷ자 막기](../audio/Techniques/Orun-Gojung-So-Digutja-Makgi.m4a)) est une technique défensive spécialisée et très puissante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage en U (en forme de « ㄷ ») en position fixe droite**.
 
@@ -12,8 +12,8 @@ Elle se traduit par : **Blocage en U (en forme de « ㄷ ») en position fixe dr
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique la position fixe droite (le pied droit est à l'arrière). |
-| **Gojung So (Sogi)** | 고정 서기 | Position fixe (*Fixed Stance*) | Posture puissante et allongée avec répartition du poids à **50/50** sur les deux jambes. |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position fixe droite (le pied droit est à l'arrière). |
+| **Gojung So (Sogi)** | [고정 서기](../audio/grammaire/Gojung-Sogi.m4a) | Position fixe (*Fixed Stance*) | Posture puissante et allongée avec répartition du poids à **50/50** sur les deux jambes. |
 | **Digutja** | ㄷ자 | Forme de « ㄷ » (*U-Shape*) | Désigne la forme en « U » ou crochet créée par la disposition verticale parallèle des deux avant-bras (d'après la lettre coréenne *Digut* ㄷ). |
 | **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou bloquer une attaque. |
 

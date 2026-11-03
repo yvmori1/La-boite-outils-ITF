@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [고정 서 손칼 가운데 바깥으로 바로 막기 와 손바닥 가운데 반대 밀어 막기](../audio/Techniques/Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.m4a)
 
-Le **Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi** (고정 서 손칼 가운데 바깥으로 바로 막기 와 손바닥 가운데 반대 밀어 막기) est une **technique défensive combinée simultanée en posture fixe** (*Fixed stance obverse knife-hand middle outward block and reverse palm middle pushing block*).
+Le **Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi** ([고정 서 손칼 가운데 바깥으로 바로 막기 와 손바닥 가운데 반대 밀어 막기](../audio/Techniques/Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.m4a)) est une **technique défensive combinée simultanée en posture fixe** (*Fixed stance obverse knife-hand middle outward block and reverse palm middle pushing block*).
 
 Cette combinaison complexe et dynamique associe deux actions défensives complémentaires exécutées au niveau moyen (*Kaunde*) :
 
@@ -13,14 +13,14 @@ L'ensemble est ancré dans la posture fixe (*Gojung Sogi*), qui offre une stabil
 
 Sa décomposition linguistique est la suivante :
 
-* **Gojung So / Gojung Sogi (고정 서기) :** Posture fixe (*Fixed stance* — 50% / 50% de répartition du poids).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur / auriculaire).
-* **Kaunde (가운데) :** Niveau moyen (hauteur de la poitrine / du plexus solaire).
+* **Gojung So / Gojung Sogi ([고정 서기](../audio/grammaire/Gojung-Sogi.m4a)) :** Posture fixe (*Fixed stance* — 50% / 50% de répartition du poids).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur / auriculaire).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur de la poitrine / du plexus solaire).
 * **Bakuro (바깥으로) :** Vers l'extérieur (*Outward* — mouvement mené du centre vers l'extérieur).
-* **Baro (바로) :** Direct / Du même côté que la jambe située à l'avant (*Obverse*).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté que la jambe située à l'avant (*Obverse*).
 * **Wa (와) :** Et / Combiné avec (*And*).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Bandae (반대) :** Inverse / Opposé à la jambe située à l'avant (*Reverse*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé à la jambe située à l'avant (*Reverse*).
 * **Miro / Millo (밀어) :** Poussant / Pression continue (*Pushing*).
 * **Makgi (막기) :** Blocage (*Block*).
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [손바닥 가운데 걸쳐 막기](../audio/Techniques/Sonbadak-Kaunde-Golcho-Makgi.m4a)
 
-Le **Sonbadak Kaunde Golcho Makgi** (손바닥 가운데 걸쳐 막기) est une technique défensive fluide et fondamentale du Taekwon-Do (ITF).
+Le **Sonbadak Kaunde Golcho Makgi** ([손바닥 가운데 걸쳐 막기](../audio/Techniques/Sonbadak-Kaunde-Golcho-Makgi.m4a)) est une technique défensive fluide et fondamentale du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage crocheté au niveau moyen avec la paume de la main**.
 
@@ -12,8 +12,8 @@ Elle se traduit par : **Blocage crocheté au niveau moyen avec la paume de la ma
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Sonbadak** | 손바닥 | Paume de la main | Surface de contact (la base molle mais ferme de la paume). |
-| **Kaunde** | 가운데 | Niveau moyen | Hauteur d'exécution (au niveau du plexus solaire / de la poitrine). |
+| **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base molle mais ferme de la paume). |
+| **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur d'exécution (au niveau du plexus solaire / de la poitrine). |
 | **Golcho** | 걸쳐 | Crocheté / Accroché | Type de mouvement qui dévie et contrôle la trajectoire adverse. |
 | **Makgi** | 막기 | Blocage / Défense | Action de neutraliser ou détourner une attaque. |
 

@@ -23,6 +23,7 @@ romanisation. Chaque étape est idempotente : sans changement, elle ne fait rien
 import argparse
 import pathlib
 import re
+import shutil
 import subprocess
 import sys
 
@@ -39,8 +40,17 @@ GRAPHIES = [
     ("l'Onde de Choc (*Sine Wave*)", "le Mouvement de Vague (*Sine Wave*)"),
     ("l'onde de choc (*Sine Wave*)", "le mouvement de vague (*Sine Wave*)"),
     ("de l'onde de choc (*Sine Wave*)", "du mouvement de vague (*Sine Wave*)"),
+    # hangul fautifs, corrigés d'après le glossaire coréen-français
+    ("낮인데", "낮은데"), ("나중데", "낮은데"), ("낮운데", "낮은데"),
+    ("높인데", "높은데"), ("높운데", "높은데"),
+    ("오픈손끝", "엎은손끝"), ("엎운", "엎은"),
+    ("추교", "추켜"), ("구자리돌기", "그 자리 돌기"), ("굿자", "구자"),
+    ("압차기", "앞차기"), ("건눈", "걷는"), ("툴기", "뚫기"), ("뛰묘", "뛰며"),
+    ("수로차기", "쓸어차기"),
 ]
-IGNORES = {".git", "site", "venv", ".venv", "audio", "scripts"}
+IGNORES = {".git", "site", "venv", ".venv", "audio", "scripts", "docs"}
+# le glossaire cite à dessein les graphies fautives qu'il a corrigées
+EXCEPTIONS = {"Theorie/glossaire-coreen-francais.md"}
 
 
 def lancer(script, options, ecrire):
@@ -87,7 +97,8 @@ def graphies(ecrire):
     """Applique les substitutions sans ambiguïté."""
     corriges = []
     for p in sorted(RACINE.rglob("*.md")):
-        if any(part in IGNORES for part in p.parts):
+        if any(part in IGNORES for part in p.parts) \
+                or p.relative_to(RACINE).as_posix() in EXCEPTIONS:
             continue
         t = p.read_text(encoding="utf-8", errors="ignore")
         nouveau = t
@@ -117,11 +128,18 @@ def main():
         ("mvt.txt", lambda: lancer("generer-mvt.py", [], args.write)),
     ]
     if not args.sans_audio:
+        # hors macOS, pas de synthèse : on lie seulement les hangul dont
+        # l'audio existe déjà, le reste attend un passage sur Mac
+        synthese = [] if shutil.which("say") else ["--sans-synthese"]
         etapes += [
             ("prononciations", lambda: lancer(
-                "generer-audio.py", ["--manuel", "--combats"], args.write)),
+                "generer-audio.py", ["--tout", *synthese], args.write)),
             ("audio manquants", lambda: lancer(
-                "generer-audio.py", ["--reparer"], args.write)),
+                "generer-audio.py", ["--reparer", *synthese], args.write)),
+            # les libellés des fiches ont pu recevoir des liens audio : l'index
+            # qui les reprend doit suivre
+            ("index de Techniques (après les liens audio)",
+             lambda: lancer("generer-index-techniques.py", [], args.write)),
         ]
 
     for titre, action in etapes:

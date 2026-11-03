@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [뛰기](../audio/Techniques/Twigi.m4a)
 
-Le terme **Twigi** (뛰기) désigne le **saut**, le **bond** ou l'**action de sauter/bondir** (*Jumping / Leaping*) en TaeKwon-Do ITF.
+Le terme **Twigi** ([뛰기](../audio/Techniques/Twigi.m4a)) désigne le **saut**, le **bond** ou l'**action de sauter/bondir** (*Jumping / Leaping*) en TaeKwon-Do ITF.
 
-Alors que les termes *Twimyo* (뛰며) et *Twio* (뛰어) sont des formes verbales associées à l'exécution d'un coup en suspension (ex: *Twimyo Yopcha Jirugi* = coup de pied latéral *en sautant*), **Twigi** est le nom générique qui englobe tous les déplacements sautés, la mécanique des impulsions aériennes, et le travail d'esquive ou de franchissement par le saut.
+Alors que les termes *Twimyo* ([뛰며](../audio/grammaire/Twimyo.m4a)) et *Twio* ([뛰어](../audio/grammaire/Twio.m4a)) sont des formes verbales associées à l'exécution d'un coup en suspension (ex: *Twimyo Yopcha Jirugi* = coup de pied latéral *en sautant*), **Twigi** est le nom générique qui englobe tous les déplacements sautés, la mécanique des impulsions aériennes, et le travail d'esquive ou de franchissement par le saut.
 
 Sa décomposition linguistique est la suivante :
 
 * **Twida (뛰다) :** Verbe signifiant sauter, bondir ou courir.
-* **-Gi (기) :** Suffixe de nominalisation qui transforme le verbe en nom verbal (*Le saut / L'action de sauter*).
+* **-Gi ([기](../audio/combats/Ki.m4a)) :** Suffixe de nominalisation qui transforme le verbe en nom verbal (*Le saut / L'action de sauter*).
 
 ---
 
@@ -19,9 +19,9 @@ Pour bien comprendre la terminologie des techniques aériennes, il est essentiel
 
 | Terme | Forme grammaticale | Utilisation technique | Exemple d'application |
 | --- | --- | --- | --- |
-| **Twigi (뛰기)** | **Nom verbal** (*Jumping / Leaping*) | Désigne le concept, l'exercice de saut ou le déplacement sauté en soi. | travail de déplacements sautés, exercices de pliométrie. |
-| **Twimyo (뛰며)** | **Gérondif / Participe** (*While jumping / Flying*) | S'utilise pour qualifier un coup de pied/poing exécuté **pendant** un saut rectiligne ou volant. | *Twimyo Apcha Busigi* (coup de pied direct volant). |
-| **Twio (뛰어)** | **Forme liée** (*Jump and...*) | S'utilise pour qualifier un saut combiné à une rotation ou un changement d'axe. | *Twio Dolmyo Chagi* (coup de pied retourné sauté). |
+| **Twigi ([뛰기](../audio/Techniques/Twigi.m4a))** | **Nom verbal** (*Jumping / Leaping*) | Désigne le concept, l'exercice de saut ou le déplacement sauté en soi. | travail de déplacements sautés, exercices de pliométrie. |
+| **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a))** | **Gérondif / Participe** (*While jumping / Flying*) | S'utilise pour qualifier un coup de pied/poing exécuté **pendant** un saut rectiligne ou volant. | *Twimyo Apcha Busigi* (coup de pied direct volant). |
+| **Twio ([뛰어](../audio/grammaire/Twio.m4a))** | **Forme liée** (*Jump and...*) | S'utilise pour qualifier un saut combiné à une rotation ou un changement d'axe. | *Twio Dolmyo Chagi* (coup de pied retourné sauté). |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [차 멈추기](../audio/chagi/cha-momchugi.m4a)
 
-Le **Cha Momchugi** (차 멈추기) — souvent orthographié *Cho Momchugi* dans certaines retranscriptions phonétiques — est le **coup de pied d'arrêt** (*Stop Kick* ou *Check Kick*) en TaeKwon-Do ITF.
+Le **Cha Momchugi** ([차 멈추기](../audio/chagi/cha-momchugi.m4a)) — souvent orthographié *Cho Momchugi* dans certaines retranscriptions phonétiques — est le **coup de pied d'arrêt** (*Stop Kick* ou *Check Kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
@@ -16,7 +16,7 @@ Contrairement aux techniques offensives classiques destinées à percer ou fouet
 ## 1. Les surfaces d'impact et les cibles (*Jook Bang*)
 
 * **Les armes naturelles utilisées :**
-  * **Balkal (발칼 - le chant externe du pied) :** La surface la plus privilégiée en ITF pour offrir une structure rigide et tranchante.
+  * **Balkal ([발칼](../audio/grammaire/Balkal.m4a) - le chant externe du pied) :** La surface la plus privilégiée en ITF pour offrir une structure rigide et tranchante.
   * **La plante du pied :** Utilisée principalement lors d'un arrêt frontal direct au niveau du torse ou des hanches.
 
 * **Les cibles privilégiées :**

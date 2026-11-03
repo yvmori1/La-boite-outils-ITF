@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 옆 팔굽 찌르기](../audio/Techniques/Niunja-So-Yop-Palkup-Tulgi.m4a)
 
-Le **Niunja So Yop Palkup Tulgi** (ㄴ자 서 옆 팔굽 찌르기) est le **coup de coude perçant latéral en posture en L** (*L-stance side elbow thrust*) en TaeKwon-Do ITF.
+Le **Niunja So Yop Palkup Tulgi** ([ㄴ자 서 옆 팔굽 찌르기](../audio/Techniques/Niunja-So-Yop-Palkup-Tulgi.m4a)) est le **coup de coude perçant latéral en posture en L** (*L-stance side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique de frappe dévastatrice à très courte distance utilise la pointe osseuse du coude (**Palkup**) dans un mouvement de poussée perçante vers le côté (**Yop**). Elle combine la stabilité et le profil réduit de la posture en L (*Niunja Sogi*) avec la puissance compacte d'une frappe en piston renforcée par la hanche et le bras de soutien.
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
-* **Yop / Yeop (옆) :** Côté / Latéral (*Side*).
-* **Palkup / Palgup (팔굽) :** Coude (*Elbow*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Yop / Yeop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
+* **Palkup / Palgup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Tulgi (찌르기) :** Pique / Poussée perçante en piston (*Thrust / Piercing strike*).
 
 ---

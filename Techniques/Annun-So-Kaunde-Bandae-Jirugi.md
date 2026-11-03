@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 가운데 반대 지르기](../audio/Techniques/Annun-So-Kaunde-Bandae-Jirugi.m4a)
 
-Le **Annun So Kaunde Bandae Jirugi** (앉은 서 가운데 반대 지르기) est le **coup de poing direct moyen inversé en posture du cavalier** (*Sitting stance middle reverse punch*) en TaeKwon-Do ITF.
+Le **Annun So Kaunde Bandae Jirugi** ([앉은 서 가운데 반대 지르기](../audio/Techniques/Annun-So-Kaunde-Bandae-Jirugi.m4a)) est le **coup de poing direct moyen inversé en posture du cavalier** (*Sitting stance middle reverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fondamentale combine la stabilité latérale puissante de la posture du cavalier (*Annun Sogi*) à la force de rotation du buste d'un coup de poing inversé (*Bandae Jirugi*), visant le plexus solaire ou le buste de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Kaunde (가운데) :** Niveau moyen (plexus solaire / thorax / abdomen).
-* **Bandae (반대) :** Inversé / Opposé (*Reverse* — frappe du poing opposé au pied de déplacement/ancrage).
-* **Jirugi (지르기) :** Coup de poing direct piston (*Punch*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax / abdomen).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé (*Reverse* — frappe du poing opposé au pied de déplacement/ancrage).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct piston (*Punch*).
 
 ---
 

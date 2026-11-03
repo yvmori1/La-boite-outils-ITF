@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 주먹 ㄱ자 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Giokja-Jirugi.m4a)
 
-Le **Annun So Wen Joomuk Giokja Jirugi** (앉은 서 왼 주먹 ㄱ자 지르기) est le **coup de poing gauche en angle droit en posture du cavalier** (*Sitting stance left fist angle punch* ou *L-shape punch*) en TaeKwon-Do ITF.
+Le **Annun So Wen Joomuk Giokja Jirugi** ([앉은 서 왼 주먹 ㄱ자 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Giokja-Jirugi.m4a)) est le **coup de poing gauche en angle droit en posture du cavalier** (*Sitting stance left fist angle punch* ou *L-shape punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque directe et compacte projette le poing gauche (*Wen Joomuk*) sur l'axe central tout en fléchissant le coude à un angle strict de 90° (rappelant la forme de la lettre coréenne *Giyeok* **ㄱ**). Contrairement à la version *C-Bang*, le bras droit effectue un tirage classique de réaction à la hanche (*Heori*).
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Joomuk (주먹) :** Poing (*Fist*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist*).
 * **Giokja / ㄱ-shape (ㄱ자) :** En angle droit / en équerre (forme de la lettre coréenne **ㄱ**).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

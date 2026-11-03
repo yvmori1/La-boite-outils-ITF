@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [산 막기](../audio/makgi/san-makgi.m4a)
 
-Le **San Makgi** (산 막기) est le **blocage montagne / blocage en "W"** (*Mountain block* ou *W-shape block*) en TaeKwon-Do ITF.
+Le **San Makgi** ([산 막기](../audio/makgi/san-makgi.m4a)) est le **blocage montagne / blocage en "W"** (*Mountain block* ou *W-shape block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 

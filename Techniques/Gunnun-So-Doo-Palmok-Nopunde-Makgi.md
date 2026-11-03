@@ -1,17 +1,17 @@
 # Gunnun So Doo Palmok Nopunde Makgi
 
-> 🔊 **Prononciation :** [걷는 서 두 팔목 높인데 막기](../audio/Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.m4a)
+> 🔊 **Prononciation :** [걷는 서 두 팔목 높은데 막기](../audio/Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.m4a)
 
-Le **Gunnun So Doo Palmok Nopunde Makgi** (걷는 서 두 팔목 높인데 막기) est le **blocage haut au double avant-bras en posture de marche** (*Walking stance double forearm high block*) en TaeKwon-Do ITF.
+Le **Gunnun So Doo Palmok Nopunde Makgi** (걷는 서 두 팔목 높은데 막기) est le **blocage haut au double avant-bras en posture de marche** (*Walking stance double forearm high block*) en TaeKwon-Do ITF.
 
 Cette technique défensive puissante utilise le bras secondaire comme structure d'étai pour consolider le bras de blocage principal. Elle est conçue pour intercepter et stopper des attaques directes ou circulaires très lourdes (coups de poing puissants, coups de pied circulaires au visage) arrivant au niveau haut (*Nopunde*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
 * **Doo / Du (두) :** Deux / Double (*Two / Double*).
-* **Palmok (팔목) :** Avant-bras (*Forearm*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux / du visage).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

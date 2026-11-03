@@ -65,9 +65,9 @@ Les mots que l'on entend en classe, du salut d'ouverture au salut de fin.
 | **Kyong Ye** | [경례](../audio/combats/Kyong-ye.m4a) | Salut | Inclinaison de 15° vers l'avant, regard sur le partenaire. |
 | **Kyong Ye Jase** | [경례 자세](../audio/grammaire/Kyong-Ye-Jase.m4a) | Posture de salut | La position prise pour saluer. |
 | **Junbi** | 준비 | Prêt ! | Commandement de prendre la position d'attente. |
-| **Sijak** | 시작 | Commencez ! | Lance l'exercice, la forme ou le combat. |
+| **Sijak** | [시작](../audio/combats/Si-jak.m4a) | Commencez ! | Lance l'exercice, la forme ou le combat. |
 | **Goman** | [그만](../audio/combats/Goman.m4a) | Arrêtez ! | Interrompt immédiatement l'exercice ou le combat. |
-| **Gyesok** | 계속 | Continuez ! | Reprise après un arrêt. |
+| **Gyesok** | [계속](../audio/combats/Gye-sok.m4a) | Continuez ! | Reprise après un arrêt. |
 | **Baro** | [바로](../audio/grammaire/Baro.m4a) | Retour ! | Revenir à la position de départ (le même mot désigne aussi l'alignement « en poursuite », voir plus bas). |
 | **Swiyo** | [쉬어](../audio/grammaire/Swiyo.m4a) | Repos ! | Relâcher la position et se mettre au repos. |
 | **Dwiro Dora** | 뒤로 돌아 | Demi-tour ! | Se retourner de 180° pour faire face à l'arrière. |
@@ -157,14 +157,14 @@ Surfaces du corps qui frappent ou bloquent. Détail et photos dans la [partie II
 | :--- | :--- | :--- | :--- |
 | **Bal** | 발 | Pied | Racine de tous les noms de surfaces du pied. |
 | **Apkumchi** | [앞꿈치](../audio/grammaire/Apkumchi.m4a) | Bol du pied | Coussinet sous la base des orteils, orteils relevés ; s'écrit aussi Ap Kumchi. |
-| **Dwitkumchi** | 뒤꿈치 | Arrière du talon | Face postérieure du talon ; coups crochetés. |
-| **Dwitchuk** | 뒤축 | Dessous du talon | Partie plate sous le talon ; coups de pied arrière et descendants. |
+| **Dwitkumchi** | [뒤꿈치](../audio/grammaire/Dwikumchi.m4a) | Arrière du talon | Face postérieure du talon ; coups crochetés. |
+| **Dwitchuk** | [뒤축](../audio/termes/뒤축.m4a) | Dessous du talon | Partie plate sous le talon ; coups de pied arrière et descendants. |
 | **Balkal** | [발칼](../audio/grammaire/Balkal.m4a) | Tranchant du pied | Bord externe du pied ; arme du coup de pied latéral perçant. |
 | **Balkal Dung** | 발칼등 | Tranchant inversé du pied | Bord interne du pied ; s'écrit aussi Balkal Anchae. |
-| **Baldung** | 발등 | Dessus du pied | Cou-de-pied, cheville tendue. |
+| **Baldung** | [발등](../audio/grammaire/Baldong.m4a) | Dessus du pied | Cou-de-pied, cheville tendue. |
 | **Balbadak** | [발바닥](../audio/grammaire/Balbadak.m4a) | Plante du pied | Toute la surface inférieure ; coups poussants et blocages. |
 | **Balkut** | 발끝 | Pointe des orteils | Arme des piques du pied. |
-| **Moorup** | 무릎 | Genou | Arme des percussions montantes à courte distance ; s'écrit aussi Murup. |
+| **Moorup** | [무릎](../audio/grammaire/Murup.m4a) | Genou | Arme des percussions montantes à courte distance ; s'écrit aussi Murup. |
 
 ## Les positions (Sogi)
 
@@ -202,7 +202,7 @@ Ces mots précisent où va la technique. Ils se combinent librement : *Nopunde B
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Haut | Le visage et le cou, au-dessus des épaules. |
 | **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Moyen | Le tronc, du plexus solaire aux côtes flottantes. |
 | **Najunde** | [낮은데](../audio/grammaire/Najunde.m4a) | Bas | Sous la ceinture : l'abdomen et le bas-ventre. |
-| **Nopi** | 높이 | Hauteur, en hauteur | Dans Twimyo Nopi Chagi, le coup de pied sauté en hauteur. |
+| **Nopi** | [높이](../audio/grammaire/Nopai.m4a) | Hauteur, en hauteur | Dans Twimyo Nopi Chagi, le coup de pied sauté en hauteur. |
 | **Baro** | [바로](../audio/grammaire/Baro.m4a) | En poursuite | Le bras qui agit est du même côté que la jambe avant. |
 | **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé | Le bras qui agit est du côté opposé à la jambe avant ; pour un pied, technique tournée par le dos. |
 | **Wen** | [왼](../audio/grammaire/Wen.m4a) | Gauche | Précise le membre qui agit. |
@@ -329,7 +329,7 @@ Voir la [section Combat et autodéfense](../Combat/README.md).
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
 | **Matsogi** | 맞서기 | Combat | Toute forme d'affrontement avec un partenaire. |
-| **Yaksok Matsogi** | 약속 맞서기 | Combat arrangé | Attaques et défenses convenues d'avance. |
+| **Yaksok Matsogi** | [약속 맞서기](../audio/grammaire/약속-맞서기.m4a) | Combat arrangé | Attaques et défenses convenues d'avance. |
 | **Sambo Matsogi** | [삼보 맞서기](../audio/combats/Sambo-Matsogi.m4a) | Combat à trois pas | Trois attaques, trois défenses et une riposte. |
 | **Ibo Matsogi** | [이보 맞서기](../audio/combats/Ibo-Matsogi.m4a) | Combat à deux pas | Deux attaques, deux défenses et une riposte. |
 | **Ilbo Matsogi** | [일보 맞서기](../audio/combats/Ilbo-Matsogi.m4a) | Combat à un pas | Une attaque, une défense et une riposte décisive. |
@@ -397,11 +397,11 @@ Le nom de chaque forme rend hommage à une figure ou à un événement de l'hist
 
 Ce glossaire a été établi à partir du lexique trilingue, de la grammaire ITF et du manuel du site, recoupés avec l'*Encyclopédie condensée* du général Choi (1999). Quelques graphies des sources ont été corrigées ou harmonisées :
 
-* **Tulgi** s'écrit 뚫기 (« percer »), comme dans les fiches des formes ; certaines sources donnent 찌르기.
+* **Tulgi** s'écrit [뚫기](../audio/grammaire/Tulgi.m4a) (« percer »), comme dans les fiches des formes ; certaines sources donnent 찌르기.
 * **Opun Sonkut** s'écrit 엎은손끝 (« main retournée vers le bas ») ; une source donnait 오픈손끝, simple transcription de l'anglais *open*.
 * **Chookyo** (blocage soulevé) s'écrit 추켜 ; une source donnait 추교.
-* **Najunde** s'écrit 낮은데 ; on trouve aussi 낮인데 et 나중데, qui sont fautifs.
-* **Gujari Dolgi** s'écrit 그 자리 돌기 (« tourner sur place ») ; une source donnait 구자리돌기.
+* **Najunde** s'écrit [낮은데](../audio/grammaire/Najunde.m4a) ; on trouve aussi 낮인데 et 나중데, qui sont fautifs.
+* **Gujari Dolgi** s'écrit [그 자리 돌기](../audio/lexique/Gujari-dolgi.m4a) (« tourner sur place ») ; une source donnait 구자리돌기.
 * **Gutja** (blocage en 9) vient de *Gu*, « neuf » : 구자 ; le lexique source donnait ㄱ자, qui correspond à *Kiokja*.
 * **Balkal Dung** et **Balkal Anchae** désignent la même surface ; la première graphie est la plus employée sur le site.
 

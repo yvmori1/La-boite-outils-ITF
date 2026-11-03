@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [뛰며 쌍방 차기](../audio/Techniques/Twimyo-Sangbang-Chagi.m4a)
 
-Le **Twimyo Sangbang Chagi** (뛰며 쌍방 차기) est le **coup de pied double sauté dans deux directions / bidirectionnel** (*Flying twin directional kick*) en TaeKwon-Do ITF.
+Le **Twimyo Sangbang Chagi** ([뛰며 쌍방 차기](../audio/Techniques/Twimyo-Sangbang-Chagi.m4a)) est le **coup de pied double sauté dans deux directions / bidirectionnel** (*Flying twin directional kick*) en TaeKwon-Do ITF.
 
 Cette technique acrobatique et hautement spectaculaire permet d'asséner simultanément deux coups de pied (généralement deux coups de pied latéraux *Yop Chagi* ou deux coups de pied directs/en éventail) dans deux directions différentes pendant la phase de suspension aérienne (*Twimyo*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** En sautant / Volant (*Flying / Jumping*).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
 * **Sangbang (쌍방) :** Deux directions / Deux côtés (*Twin directional / Both ways* — issu de *Sang* = paire/double et *Bang* = direction/côté).
 * **Chagi (차기) :** Coup de pied (*Kick*).
 

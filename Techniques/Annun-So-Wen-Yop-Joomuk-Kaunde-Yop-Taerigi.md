@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 옆주먹 가운데 옆 때리기](../audio/Techniques/Annun-So-Wen-Yop-Joomuk-Kaunde-Yop-Taerigi.m4a)
 
-Le **Annun So Wen Yop Joomuk Kaunde Yop Taerigi** (앉은 서 왼 옆주먹 가운데 옆 때리기) est la **frappe latérale moyenne cinglante avec le côté du poing gauche en posture du cavalier** (*Sitting stance left side fist middle side strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Yop Joomuk Kaunde Yop Taerigi** ([앉은 서 왼 옆주먹 가운데 옆 때리기](../audio/Techniques/Annun-So-Wen-Yop-Joomuk-Kaunde-Yop-Taerigi.m4a)) est la **frappe latérale moyenne cinglante avec le côté du poing gauche en posture du cavalier** (*Sitting stance left side fist middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fouettée et compacte utilise la surface latérale du poing fermé (*Yop Joomuk*) pour délivrer un coup percutant à l'horizontale vers le flanc gauche (*Yop*) au niveau moyen (*Kaunde* : côtes flottantes, plexus latéral ou foie).
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Yop Joomuk (옆주먹) :** Côté du poing (*Side fist* — la surface osseuse latérale du poing fermé, du côté du joint de l'index et du pouce).
-* **Kaunde (가운데) :** Niveau moyen (hauteur du thorax / des côtes).
-* **Yop (옆) :** Latéral / Sur le côté à 90° (*Side*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Côté du poing (*Side fist* — la surface osseuse latérale du poing fermé, du côté du joint de l'index et du pouce).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur du thorax / des côtes).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---

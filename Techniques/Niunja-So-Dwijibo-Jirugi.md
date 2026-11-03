@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 뒤집어 지르기](../audio/Techniques/Niunja-So-Dwijibo-Jirugi.m4a)
 
-Le **Niunja So Dwijibo Jirugi** (ㄴ자 서 뒤집어 지르기) est le **coup de poing retourné (paume vers le haut) en posture en L** (*L-stance upset punch*) en TaeKwon-Do ITF.
+Le **Niunja So Dwijibo Jirugi** ([ㄴ자 서 뒤집어 지르기](../audio/Techniques/Niunja-So-Dwijibo-Jirugi.m4a)) est le **coup de poing retourné (paume vers le haut) en posture en L** (*L-stance upset punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à trajectoire légèrement ascendante utilise les deux premières jointures du poing fermé (**Ap Joomuk** — index et majeur) pour s'infiltrer sous la garde de l'adversaire et frapper des cibles vulnérables au niveau moyen ou bas (comme le plexus solaire, l'estomac ou le bas-ventre). La particularité de ce coup réside dans la rotation finale du poing : il termine la **paume tournée vers le haut** (**Dwijibo**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Dwijibo (뒤집어) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

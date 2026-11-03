@@ -1,15 +1,15 @@
 # Gunnun So Kaunde Bandae Jirugi
 
-> 🔊 **Prononciation :** [건눈 서 가운데 반대 지르기](../audio/Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.m4a)
+> 🔊 **Prononciation :** [걷는 서 가운데 반대 지르기](../audio/Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.m4a)
 
-Le **Gunnun So Kaunde Bandae Jirugi** (건눈 서 가운데 반대 지르기 — couramment retranscrit **Gunnun Sogi Kaujunde Bandae Jirugi**) est le **coup de poing direct inverse au niveau moyen en posture de marche** (*Middle reverse punch in walking stance*) en TaeKwon-Do ITF.
+Le **Gunnun So Kaunde Bandae Jirugi** (걷는 서 가운데 반대 지르기 — couramment retranscrit **Gunnun Sogi Kaujunde Bandae Jirugi**) est le **coup de poing direct inverse au niveau moyen en posture de marche** (*Middle reverse punch in walking stance*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Sogi (건눈 서기) :** Posture de marche (*Walking stance*).
-* **Kaunde / Kaujunde (가운데) :** Niveau moyen (*Middle level* — ciblant le plexus solaire).
-* **Bandae (반대) :** Inverse / Opposé (*Reverse* — frappe exécutée avec le bras opposé à la jambe avancée).
-* **Jirugi (지르기) :** Coup de poing direct / percussion perçante (*Punch*).
+* **Gunnun So / Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance*).
+* **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — ciblant le plexus solaire).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — frappe exécutée avec le bras opposé à la jambe avancée).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / percussion perçante (*Punch*).
 
 ---
 
@@ -24,7 +24,7 @@ Comprendre la distinction entre ces deux types de coups de poing direct est fond
 
 ---
 
-## 2. La posture de base : *Gunnun Sogi* (건눈 서기)
+## 2. La posture de base : *Gunnun Sogi* ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a))
 
 La force de la frappe s'appuie sur la rigidité et l'ancrage de la posture de marche :
 

@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼 낮은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Najunde-Daebi-Makgi.m4a)
 
-Le **Niunja So Sonkal Najunde Daebi Makgi** (ㄴ자 서 손칼 낮은데 대비 막기) est le **blocage de garde bas au tranchant de la main en posture en L** (*L-stance knife-hand low guarding block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Najunde Daebi Makgi** ([ㄴ자 서 손칼 낮은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Najunde-Daebi-Makgi.m4a)) est le **blocage de garde bas au tranchant de la main en posture en L** (*L-stance knife-hand low guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fondamentale utilise les tranchants des deux mains ouvertes (**Sonkal**) pour protéger la partie inférieure du corps (bas-ventre, aine, cuisses) contre des attaques basses (coups de pied directs *Ap Chagi* ou piques basses), tout en adoptant la posture en L (*Niunja Sogi*) qui offre un profil étroit et une excellente stabilité en retrait.
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
 * **Najunde (낮unde) :** Niveau bas (*Low level* — au-dessous de la ceinture/niveau de la vessie).
 * **Daebi (대비) :** Garde / Protection double (*Guarding* — les deux mains agissent de concert pour protéger le corps).
 * **Makgi (막기) :** Blocage / Parade (*Block*).

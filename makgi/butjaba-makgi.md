@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [붙잡아 막기](../audio/makgi/butjaba-makgi.m4a)
 
-Le **Butjaba Makgi** (붙잡아 막기) est le **blocage-saisie / blocage en agrippant** (*Grasping block* ou *Holding block*) en TaeKwon-Do ITF.
+Le **Butjaba Makgi** ([붙잡아 막기](../audio/makgi/butjaba-makgi.m4a)) est le **blocage-saisie / blocage en agrippant** (*Grasping block* ou *Holding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
@@ -17,9 +17,9 @@ Le **Butjaba Makgi** est une technique hybride où l'action défensive ne cherch
 
 * **Action double en un seul temps :** La main s'approche du membre adverse sous forme de blocage (paume ou tranchant), puis **les doigts se referment instantanément** pour enserrer le poignet, l'avant-bras, le coude, la cheville ou le pantalon/veste (*Dobok*) de l'attaquant.
 * **Les armes naturelles utilisées :**
-* **Sonbadak (paume - 손바닥) :** Utilisée pour intercepter et envelopper la cible avant la fermeture des doigts (*Sonbadak Butjaba Makgi*).
-* **Bandalson (arc de la main - 반달손) :** Idéal pour encadrer la gorge, le poignet ou la cheville avant de verrouiller la prise.
-* **Sonkal (tranchant de la main - 손칼) :** Utilisé pour trancher puis pivoter la main autour du membre.
+* **Sonbadak (paume - [손바닥](../audio/grammaire/Sonbadak.m4a)) :** Utilisée pour intercepter et envelopper la cible avant la fermeture des doigts (*Sonbadak Butjaba Makgi*).
+* **Bandalson (arc de la main - [반달손](../audio/grammaire/Bandalson.m4a)) :** Idéal pour encadrer la gorge, le poignet ou la cheville avant de verrouiller la prise.
+* **Sonkal (tranchant de la main - [손칼](../audio/grammaire/Sonkal.m4a)) :** Utilisé pour trancher puis pivoter la main autour du membre.
 
 ---
 

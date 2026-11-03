@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [외발 서 등팔목 반대 때리기](../audio/Techniques/Waebal-So-Dungpalmok-Bandae-Taerigi.m4a)
 
-Le **Waebal So Dungpalmok Bandae Taerigi** (외발 서 등팔목 반대 때리기) est le **coup cinglant inversé au revers de l'avant-bras en posture sur une seule jambe** (*One-leg stance reverse back forearm strike*) en TaeKwon-Do ITF.
+Le **Waebal So Dungpalmok Bandae Taerigi** ([외발 서 등팔목 반대 때리기](../audio/Techniques/Waebal-So-Dungpalmok-Bandae-Taerigi.m4a)) est le **coup cinglant inversé au revers de l'avant-bras en posture sur une seule jambe** (*One-leg stance reverse back forearm strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque et de contre-attaque associe le retrait d'appui et l'esquive offered par la posture unilatérale (*Waebal Sogi*) avec la vitesse de fouetté d'une frappe du revers de l'avant-bras (*Dungpalmok*). L'indication **Bandae** (inversé) signifie que la frappe est portée par le bras **opposé à la jambe d'appui**.
 
 Sa décomposition linguistique est la suivante :
 
-* **Waebal So / Waebal Sogi (외발 서기) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
-* **Dungpalmok (등팔목) :** Revers / Dos de l'avant-bras (*Back forearm* — la surface supérieure/extérieure de l'avant-bras).
-* **Bandae (반대) :** Inversé / Opposé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).
+* **Waebal So / Waebal Sogi ([외발 서기](../audio/Techniques/Waebal-Sogi.m4a)) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
+* **Dungpalmok ([등팔목](../audio/grammaire/Dung-Palmok.m4a)) :** Revers / Dos de l'avant-bras (*Back forearm* — la surface supérieure/extérieure de l'avant-bras).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).
 * **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---

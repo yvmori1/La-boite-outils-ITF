@@ -1,17 +1,17 @@
 # Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi
 
-> 🔊 **Prononciation :** [걷는 서 등 주먹 높인데 반대 옆앞 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.m4a)
+> 🔊 **Prononciation :** [걷는 서 등 주먹 높은데 반대 옆앞 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.m4a)
 
-Le **Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi** (걷는 서 등 주먹 높인데 반대 옆앞 때리기) est le **coup cinglant inversé de biais (côté-avant) au niveau haut avec le revers du poing en posture de marche** (*Walking stance backfist high reverse side-front strike*) en TaeKwon-Do ITF.
+Le **Gunnun So Dung Joomuk Nopunde Bandae Yobap Taerigi** (걷는 서 등 주먹 높은데 반대 옆앞 때리기) est le **coup cinglant inversé de biais (côté-avant) au niveau haut avec le revers du poing en posture de marche** (*Walking stance backfist high reverse side-front strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fouettée et circulaire utilise le dos / revers du poing (**Dung Joomuk**) pour frapper une cible haute (tempe, mâchoire ou zone zygomatique) selon un angle diagonal de biais (**Yobap** — environ 45° entre le profil et le face-à-face). L'indication **Bandae** (inversée) signifie que le coup est porté par le bras **du côté de la jambe arrière** (opposé à la jambe avant).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
 * **Dung Joomuk (등 주먹) :** Revers du poing / Dos du poing (*Backfist*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur du visage, de la tempe ou de la mâchoire).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage, de la tempe ou de la mâchoire).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière).
 * **Yobap / Yop-Ap (옆앞) :** Côté-avant / Diagonale de biais (*Side-front* — trajectoire oblique à 45°).
 * **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
 

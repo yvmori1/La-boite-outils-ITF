@@ -6,10 +6,10 @@ Le **Ghutgi** n'est pas une pique : c'est un geste qui balaie et entaille, de l'
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
 * **Opun Sonkut (엎은손끝) :** Bout des doigts à plat, paume vers le sol (*Flat fingertip*).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Bakuro (밖으로) :** Vers l'extérieur (*Outward*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (*Outward*).
 * **Ghutgi (긋기) :** Cisaillage / entaille (*Cross-cut*).
 
 ---

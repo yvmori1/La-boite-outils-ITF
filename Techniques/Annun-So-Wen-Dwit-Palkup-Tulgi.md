@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 뒤 팔굽 찌르기](../audio/Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.m4a)
 
-Le **Annun So Wen Dwit Palkup Tulgi** (앉은 서 왼 뒤 팔굽 찌르기) est le **coup de coude arrière perçant gauche en posture du cavalier** (*Sitting stance left rear elbow thrust*) en TaeKwon-Do ITF.
+Le **Annun So Wen Dwit Palkup Tulgi** ([앉은 서 왼 뒤 팔굽 찌르기](../audio/Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.m4a)) est le **coup de coude arrière perçant gauche en posture du cavalier** (*Sitting stance left rear elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à très courte distance utilise la pointe osseuse du coude gauche (*Palkup*) pour exécuter une pénétration directe en piston (*Tulgi*) vers un adversaire situé directement derrière soi (*Dwit*), tout en exploitant la stabilité et la puissance d'ancrage de la posture du cavalier (*Annun Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Dwit (뒤) :** Arrière / Derrière (*Rear*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Tulgi (찌르기) :** Coup perçant / Estocade en piston (*Thrust*).
 
 ---

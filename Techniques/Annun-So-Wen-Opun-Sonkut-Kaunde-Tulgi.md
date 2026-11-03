@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 엎은 손끝 가운데 찌르기](../audio/Techniques/Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.m4a)
 
-Le **Annun So Wen Opun Sonkut Kaunde Tulgi** (앉은 서 왼 엎은 손끝 가운데 찌르기) est la **pique moyenne du bout des doigts à plat du bras gauche en posture du cavalier** (*Sitting stance left flat fingertip middle thrust*) en TaeKwon-Do ITF.
+Le **Annun So Wen Opun Sonkut Kaunde Tulgi** ([앉은 서 왼 엎은 손끝 가운데 찌르기](../audio/Techniques/Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.m4a)) est la **pique moyenne du bout des doigts à plat du bras gauche en posture du cavalier** (*Sitting stance left flat fingertip middle thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque perçante et précise utilise le bout des doigts de la main gauche (*Opun Sonkut*) orientés la paume vers le sol pour s'infiltrer et percuter une cible souple ou vitale au niveau moyen (*Kaunde*), comme le plexus solaire ou l'épigastre.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Opun Sonkut (엎은 손끝) :** Pique du bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
-* **Kaunde (가운데) :** Niveau moyen (plexus solaire / thorax inférieur).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax inférieur).
 * **Tulgi (찌르기) :** Attaque perçante / Pique en piston (*Thrust*).
 
 ---

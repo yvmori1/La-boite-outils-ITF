@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [이중차기](../audio/chagi/ijun-chagi.m4a)
 
-Le **Ijun Chagi** (이중차기) est le **coup de pied double** en TaeKwon-Do ITF.
+Le **Ijun Chagi** ([이중차기](../audio/chagi/ijun-chagi.m4a)) est le **coup de pied double** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 

@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [왼 교차 서 등주먹 바로 내려 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.m4a)
 
-Le **Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi** (왼 교차 서 등주먹 바로 내려 때리기) est le **coup cinglant descendant au revers du poing direct en posture en X gauche** (*Left X-stance backfist obverse downward strike*) en TaeKwon-Do ITF.
+Le **Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi** ([왼 교차 서 등주먹 바로 내려 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.m4a)) est le **coup cinglant descendant au revers du poing direct en posture en X gauche** (*Left X-stance backfist obverse downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque verticale combine la compacité d'un déplacement croisé en posture en X (*Kyocha Sogi*) avec l'énergie percutante d'une frappe descendante du revers du poing (*Dung Joomuk Naeryo Taerigi*). L'indication **Baro** (direct) précise que la frappe est portée par le bras du **même côté que la jambe croisée à l'avant** (donc la main gauche avec la jambe gauche devant).
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
-* **Dung Joomuk (등주먹) :** Revers / Dos du poing (*Back fist*).
-* **Baro (바로) :** Direct / Du même côté (*Obverse* — frappe exécutée par le membre situé du même côté que la jambe avant, soit la **main gauche**).
-* **Naeryo (내려) :** Descendant / Vers le bas (*Downward*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers / Dos du poing (*Back fist*).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — frappe exécutée par le membre situé du même côté que la jambe avant, soit la **main gauche**).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Vers le bas (*Downward*).
 * **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---

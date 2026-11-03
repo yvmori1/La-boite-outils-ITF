@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 등주먹 반대 수평 때리기](../audio/Techniques/Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.m4a)
 
-Le **Niunja So Dung Joomuk Bandae Soopyong Taerigi** (ㄴ자 서 등주먹 반대 수평 때리기) est le **coup cinglant horizontal inversé avec le revers du poing en posture en L** (*L-stance reverse backfist horizontal strike*) en TaeKwon-Do ITF.
+Le **Niunja So Dung Joomuk Bandae Soopyong Taerigi** ([ㄴ자 서 등주먹 반대 수평 때리기](../audio/Techniques/Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.m4a)) est le **coup cinglant horizontal inversé avec le revers du poing en posture en L** (*L-stance reverse backfist horizontal strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque percutante et fluide utilise le revers du poing fermé (**Dung Joomuk**) dans une trajectoire strictement horizontale (**Soopyong**). L'indication **Bandae** (inversé) indique que la frappe est exécutée par le bras situé **du côté de la jambe avant** (opposé à la jambe arrière qui définit la posture).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Dung Joomuk (등주먹) :** Revers du poing fermé (*Backfist* — la surface dorsale des deux premières jointures de l'index et du majeur).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing fermé (*Backfist* — la surface dorsale des deux premières jointures de l'index et du majeur).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
 * **Soopyong / Supyeong (수평) :** Horizontal / À l'horizontale (*Horizontal*).
 * **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
 

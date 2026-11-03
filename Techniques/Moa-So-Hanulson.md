@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [모아서 하늘손](../audio/Techniques/Moa-So-Hanulson.m4a)
 
-Le **Moa So Hanulson** (모아서 하늘손) est la **posture pieds joints avec la main du ciel** (*Closed stance heaven hand*) en TaeKwon-Do ITF.
+Le **Moa So Hanulson** ([모아서 하늘손](../audio/Techniques/Moa-So-Hanulson.m4a)) est la **posture pieds joints avec la main du ciel** (*Closed stance heaven hand*) en TaeKwon-Do ITF.
 
 Cette posture statique et hautement symbolique combine l'ancrage strict pieds joints (**Moa Sogi**) et le placement rituel des mains appelé **Hanulson** (*Heaven hand* ou "main céleste"). Elle sert principalement de position de départ de préparation (**Junbi Sogi**) pour certains patrons (*Tul*) très avancés.
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
 * **Hanul / Haneul (하늘) :** Le Ciel (*Heaven*).
-* **Son (손) :** La main (*Hand*).
+* **Son ([손](../audio/grammaire/Son.m4a)) :** La main (*Hand*).
 
 ---
 

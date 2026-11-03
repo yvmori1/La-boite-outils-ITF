@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [뛰며 쌍방차기](../audio/chagi/twimyo-sangband-chagi.m4a)
 
-Le **Twimyo Sangband Chagi** (뛰며 쌍방차기) — souvent retranscrit *Twimyo Sangbang Chagi* ou apparenté au *Twimyo Sangbal Chagi* dans les textes ITF — est le **coup de pied sauté simultané des deux pieds dans deux directions différentes** (ou *Flying twin direction kick* / *Flying two-way kick*).
+Le **Twimyo Sangband Chagi** ([뛰며 쌍방차기](../audio/chagi/twimyo-sangband-chagi.m4a)) — souvent retranscrit *Twimyo Sangbang Chagi* ou apparenté au *Twimyo Sangbal Chagi* dans les textes ITF — est le **coup de pied sauté simultané des deux pieds dans deux directions différentes** (ou *Flying twin direction kick* / *Flying two-way kick*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** Sauté / En suspension (du verbe *twida*, sauter).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
 * **Sangband / Sangbang (쌍방) :** Deux directions / Bidirectionnel / De deux côtés à la fois (*Sang* = paire/jumeau, *Bang* = direction).
 * **Chagi (차기) :** Coup de pied.
 
-*(Note : Si l'on parle de **Sangbal** (쌍발), le terme met l'accent sur l'utilisation des deux pieds simultanés, tandis que **Sangbang** (쌍방) insiste sur le fait de frapper deux cibles situées dans des directions différentes).*
+*(Note : Si l'on parle de **Sangbal** ([쌍발](../audio/grammaire/Sangbal.m4a)), le terme met l'accent sur l'utilisation des deux pieds simultanés, tandis que **Sangbang** (쌍방) insiste sur le fait de frapper deux cibles situées dans des directions différentes).*
 
 ---
 
@@ -18,9 +18,9 @@ Sa décomposition linguistique est la suivante :
 
 Les armes naturelles utilisées dépendent des techniques combinées dans les deux directions :
 
-* **Balkal (chant externe des deux pieds - 발칼) :** Utilisé dans le *Twimyo Sangbang Yop Chagi* (double coup de pied latéral sauté à gauche et à droite).
-* **Apkumchi (bol des deux pieds - 앞꿈치) :** Utilisé pour un double coup de pied avant sauté (*Twimyo Sangbal Ap Chagi*).
-* **Dwitchuk (talons - 뒤축) :** Utilisé si l'une des frappes s'oriente vers l'arrière ou en coup descendant.
+* **Balkal (chant externe des deux pieds - [발칼](../audio/grammaire/Balkal.m4a)) :** Utilisé dans le *Twimyo Sangbang Yop Chagi* (double coup de pied latéral sauté à gauche et à droite).
+* **Apkumchi (bol des deux pieds - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Utilisé pour un double coup de pied avant sauté (*Twimyo Sangbal Ap Chagi*).
+* **Dwitchuk (talons - [뒤축](../audio/termes/뒤축.m4a)) :** Utilisé si l'une des frappes s'oriente vers l'arrière ou en coup descendant.
 
 ---
 

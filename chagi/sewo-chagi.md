@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [세워 차기](../audio/chagi/sewo-chagi.m4a)
 
-Le **Sewo Chagi** (세워 차기) est le **coup de pied vertical / dressé** (*Vertical kick* ou *Upright kick*) en TaeKwon-Do ITF.
+Le **Sewo Chagi** ([세워 차기](../audio/chagi/sewo-chagi.m4a)) est le **coup de pied vertical / dressé** (*Vertical kick* ou *Upright kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
@@ -20,13 +20,13 @@ Le *Sewo Chagi* se décline selon la direction de sa trajectoire verticale :
 ### A. Anuro Sewo Chagi (안으로 세워 차기) — Coup de pied vertical vers l'intérieur
 
 * **Trajectoire :** La jambe s'élève et décoche une frappe verticale en se déplaçant de l'extérieur vers l'intérieur du corps.
-* **Arme naturelle :** **Balbadak** (plante du pied - 발바닥) ou **Apkumchi** (bol du pied - 앞꿈치).
+* **Arme naturelle :** **Balbadak** (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) ou **Apkumchi** (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)).
 * **Utilisation :** Se glisser entre les deux avant-bras de l'adversaire pour impacter le visage ou le plexus.
 
-### B. Bakuro Sewo Chagi (밖으로 세워 차기) — Coup de pied vertical vers l'extérieur
+### B. Bakuro Sewo Chagi ([밖으로 세워 차기](../audio/Techniques/Bakuro-Sewo-Chagi.m4a)) — Coup de pied vertical vers l'extérieur
 
 * **Trajectoire :** La jambe s'élève et décoche une frappe verticale en se déplaçant de l'intérieur (axe central) vers l'extérieur.
-* **Arme naturelle :** **Balkal** (tranchant externe du pied - 발칼) ou **Apkumchi** (bol du pied).
+* **Arme naturelle :** **Balkal** (tranchant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) ou **Apkumchi** (bol du pied).
 * **Utilisation :** Écarter un bras de la garde adverse tout en percutant la tempe ou la joue.
 
 ---

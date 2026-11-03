@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 등주먹 앞 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.m4a)
 
-Le **Annun So Orun Dung Joomuk Ap Taerigi** (앉은 서 오른 등주먹 앞 때리기) est la **frappe frontale avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist front strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Dung Joomuk Ap Taerigi** ([앉은 서 오른 등주먹 앞 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.m4a)) est la **frappe frontale avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist front strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et cinglante utilise l'effet de ressort de l'articulation du coude pour envoyer le revers du poing droit (*Dung Joomuk*) fouetter directement le visage de l'adversaire situé en face de soi.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Dung Joomuk (등주먹) :** Revers du poing (*Back fist*).
-* **Ap (앞) :** Frontal / Vers l'avant (*Front*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Back fist*).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Vers l'avant (*Front*).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---

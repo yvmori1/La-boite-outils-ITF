@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손바닥 반대 들어 막기](../audio/Techniques/Niunja-So-Sonbadak-Bandae-Duro-Makgi.m4a)
 
-Le **Niunja So Sonbadak Bandae Duro Makgi** (ㄴ자 서 손바닥 반대 들어 막기) est une technique défensive fluide, précise et très efficace du Taekwon-Do (ITF).
+Le **Niunja So Sonbadak Bandae Duro Makgi** ([ㄴ자 서 손바닥 반대 들어 막기](../audio/Techniques/Niunja-So-Sonbadak-Bandae-Duro-Makgi.m4a)) est une technique défensive fluide, précise et très efficace du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage relevé (en cuillère) inversé à la paume de la main en position L**.
 
@@ -12,9 +12,9 @@ Elle se traduit par : **Blocage relevé (en cuillère) inversé à la paume de l
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Niunja So (Sogi)** | ㄴ자 서기 | Position en L (*L-Stance*) | Posture stable (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
-| **Sonbadak** | 손바닥 | Paume de la main | Surface de contact / blocage (la paume ouverte). |
-| **Bandae** | 반대 | Inversé / Reverse | Signifie que le blocage est exécuté avec la **main opposée à la jambe avant**. |
+| **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture stable (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
+| **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact / blocage (la paume ouverte). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que le blocage est exécuté avec la **main opposée à la jambe avant**. |
 | **Duro / Deuro** | 들어 | Relevé / Soulevé (*Scooping*) | Mouvement ascendant en cuillère pour lever le membre adverse (du verbe *Deulda*, soulever). |
 | **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou écarter une attaque. |
 

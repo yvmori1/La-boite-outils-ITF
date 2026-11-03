@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [옆차밀기](../audio/chagi/yop-cha-milgi.m4a)
 
-Le **Yop Cha Milgi** (옆차밀기 — parfois retranscrit *Yopha milgi*) est le **coup de pied latéral poussant** (*Side pushing kick*) en TaeKwon-Do ITF.
+Le **Yop Cha Milgi** ([옆차밀기](../audio/chagi/yop-cha-milgi.m4a) — parfois retranscrit *Yopha milgi*) est le **coup de pied latéral poussant** (*Side pushing kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Yop (옆) :** Côté / Latéral.
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral.
 * **Cha (차) :** Coup de pied / Frappe de jambe.
-* **Milgi (밀기) :** Pousser / Action de poussée (du verbe *milda*, 밀다).
+* **Milgi ([밀기](../audio/grammaire/Milgi.m4a)) :** Pousser / Action de poussée (du verbe *milda*, 밀다).
 
 Contrairement au *Yop Cha Jirugi* qui recherche une pénétration explosive et perçante pour impacter les organes vitaux, le **Yop Cha Milgi** utilise la mécanique latérale pour **repousser l'adversaire de côté**, briser son centre de gravité ou le dégager de sa trajectoire d'attaque.
 
@@ -16,8 +16,8 @@ Contrairement au *Yop Cha Jirugi* qui recherche une pénétration explosive et p
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Balbadak (plante du pied - 발바닥) :** C'est la surface de poussée privilégiée pour maximiser la zone de contact et transmettre l'inertie du corps.
-* **Balkal (chant externe du pied - 발칼) :** Utilisé également lorsque la poussée cible une articulation ou le flanc de l'adversaire.
+* **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** C'est la surface de poussée privilégiée pour maximiser la zone de contact et transmettre l'inertie du corps.
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Utilisé également lorsque la poussée cible une articulation ou le flanc de l'adversaire.
 * **Les cibles privilégiées :**
 * **Section moyenne (*Kaunde*) :** Le flanc, les côtes, le plexus ou la hanche adverse.
 * **Section basse (*Najunde*) :** La cuisse ou le genou (pour repousser la jambe de soutien et faire chuter l'adversaire).

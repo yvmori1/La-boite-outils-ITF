@@ -1,8 +1,8 @@
 # Sasun So Sang Sonbadak Chookyo Makgi
 
-> 🔊 **Prononciation :** [사선 서 쌍 손바닥 추교 막기](../audio/Techniques/Sasun-So-Sang-Sonbadak-Chookyo-Makgi.m4a)
+> 🔊 **Prononciation :** [사선 서 쌍 손바닥 추켜 막기](../audio/Techniques/Sasun-So-Sang-Sonbadak-Chookyo-Makgi.m4a)
 
-Le **Sasun So Sang Sonbadak Chookyo Makgi** (사선 서 쌍 손바닥 추교 막기) est une technique défensive haute du Taekwon-Do (ITF).
+Le **Sasun So Sang Sonbadak Chookyo Makgi** (사선 서 쌍 손바닥 추켜 막기) est une technique défensive haute du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage montant double avec les paumes de mains en position diagonale**.
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Blocage montant double avec les paumes de mains en posit
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Sasun So (Sogi)** | 사선 서기 | Position diagonale | Posture de jambes décalée en diagonale, offrant un angle d'esquive et une assise stable. |
+| **Sasun So (Sogi)** | [사선 서기](../audio/grammaire/Sasun-Sogi.m4a) | Position diagonale | Posture de jambes décalée en diagonale, offrant un angle d'esquive et une assise stable. |
 | **Sang** | 쌍 | Double / Jumeau | Indique une exécution simultanée avec les deux mains. |
-| **Sonbadak** | 손바닥 | Paume de la main | Surface de contact (la base ferme de la paume). |
-| **Chookyo** | 추교 | Montant / En élévation | Mouvement ascendant destiné à intercepter une attaque venant du haut. |
+| **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base ferme de la paume). |
+| **Chookyo** | 추켜 | Montant / En élévation | Mouvement ascendant destiné à intercepter une attaque venant du haut. |
 | **Makgi** | 막기 | Blocage / Défense | Action de dévier ou stopper une attaque. |
 
 ---

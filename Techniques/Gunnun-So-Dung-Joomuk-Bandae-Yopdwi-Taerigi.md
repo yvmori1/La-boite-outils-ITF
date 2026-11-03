@@ -6,9 +6,9 @@ Le revers du poing (**Dung Joomuk**) frappe un adversaire placé derrière, sur 
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Dung Joomuk (등주먹) :** Revers du poing (*Back fist*).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Back fist*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Yopdwi (옆뒤) :** Côté-arrière (*Side back*).
 * **Taerigi (때리기) :** Frappe (*Strike*).
 

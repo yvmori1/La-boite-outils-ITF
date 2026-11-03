@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [평행 서 오른 주먹 가운데 지르기](../audio/Techniques/Narani-So-Orun-Joomuk-Kaunde-Jirugi.m4a)
 
-Le **Narani So Orun Joomuk Kaunde Jirugi** (평행 서 오른 주먹 가운데 지르기) est le **coup de poing direct moyen du poing droit en posture pieds parallèles** (*Parallel stance right fist middle punch*) en TaeKwon-Do ITF.
+Le **Narani So Orun Joomuk Kaunde Jirugi** ([평행 서 오른 주먹 가운데 지르기](../audio/Techniques/Narani-So-Orun-Joomuk-Kaunde-Jirugi.m4a)) est le **coup de poing direct moyen du poing droit en posture pieds parallèles** (*Parallel stance right fist middle punch*) en TaeKwon-Do ITF.
 
 Cette technique fondamentale d'attaque rectiligne est le pendant symétrique exact de la version gauche (*Wen*). Elle s'exécute depuis une posture neutre et équilibrée de face (**Narani Sogi**). Elle projette le poing droit (**Orun Joomuk**) le long de la line centrale du corps vers le niveau moyen (**Kaunde** — le plexus solaire), en exploitant la rotation simultanée des deux poings, le tirage de réaction de la main opposée (*Reaction Force*) et la chute de masse du corps (*Sine Wave*).
 
 Sa décomposition linguistique est la suivante :
 
 * **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
-* **Orun (오른) :** Droit / Poing droit (*Right*).
-* **Joomuk (주먹) :** Poing fermé (*Fist*).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

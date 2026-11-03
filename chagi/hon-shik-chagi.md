@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [혼식차기](../audio/chagi/hon-shik-chagi.m4a)
 
-Le **Hon Shik Chagi** (혼식차기) désigne le **coup de pied combiné** ou **composite** en TaeKwon-Do ITF.
+Le **Hon Shik Chagi** ([혼식차기](../audio/chagi/hon-shik-chagi.m4a)) désigne le **coup de pied combiné** ou **composite** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 

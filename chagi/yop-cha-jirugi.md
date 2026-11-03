@@ -2,21 +2,21 @@
 
 > 🔊 **Prononciation :** [옆차지르기](../audio/chagi/yop-cha-jirugi.m4a)
 
-Le **Yop Cha Jirugi** (옆차지르기) est le **coup de pied latéral perçant** (*Side piercing kick*) en TaeKwon-Do ITF.
+Le **Yop Cha Jirugi** ([옆차지르기](../audio/chagi/yop-cha-jirugi.m4a)) est le **coup de pied latéral perçant** (*Side piercing kick*) en TaeKwon-Do ITF.
 
 C'est probablement la technique la plus emblématique, la plus travaillée et la plus dévastatrice du TaeKwon-Do.
 
 Sa décomposition linguistique est la suivante :
 
-* **Yop (옆) :** Côté / Latéral.
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral.
 * **Cha (차) :** Coup de pied / Frappe de jambe.
-* **Jirugi (지르기) :** Perçant / Poussée rectiligne directe (comme un coup de poing direct).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Poussée rectiligne directe (comme un coup de poing direct).
 
 ---
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Balkal (chant externe du pied - 발칼) :** L'impact s'effectue exclusivement avec le tranchant extérieur du pied, en insistant particulièrement sur la zone proche du talon.
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** L'impact s'effectue exclusivement avec le tranchant extérieur du pied, en insistant particulièrement sur la zone proche du talon.
 * **Armement du pied :** La cheville est fléchie à 90° et inclinée vers l'intérieur, tandis que les orteils sont fortement tirés vers le haut pour dégager le bord tranchant de la voûte plantaire.
 
 ---

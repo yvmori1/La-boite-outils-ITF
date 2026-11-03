@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [뛰며 차틀기](../audio/chagi/twimyo-cha-tulgi.m4a)
 
-Le **Twimyo Cha-Tulgi** (뛰며 차틀기 — parfois retranscrit *Twimyo Cha-Tulti*) est le **coup de pied sauté en pique / perçant en vrille** (ou *Flying thrusting kick*).
+Le **Twimyo Cha-Tulgi** ([뛰며 차틀기](../audio/chagi/twimyo-cha-tulgi.m4a) — parfois retranscrit *Twimyo Cha-Tulti*) est le **coup de pied sauté en pique / perçant en vrille** (ou *Flying thrusting kick*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** Sauté / En suspension (du verbe *twida*, sauter).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
 * **Cha (차) :** Coup de pied.
-* **Tulgi / Tulti (틀기 / 툴기) :** Piquer, transpercer, vriller (action de faire pénétrer une arme naturelle dans un espace réduit avec un effet de vrille ou de poussée axiale).
+* **Tulgi / Tulti (틀기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Piquer, transpercer, vriller (action de faire pénétrer une arme naturelle dans un espace réduit avec un effet de vrille ou de poussée axiale).
 
 Cette technique combine un saut en suspension avec une vrille précise du corps en l'air, permettant de glisser une frappe perçante à travers une garde très étroite ou fermée de l'adversaire.
 
@@ -16,8 +16,8 @@ Cette technique combine un saut en suspension avec une vrille précise du corps 
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Balkal (chant externe du pied - 발칼) :** L'arme la plus utilisée pour s'insérer tranchante de profil.
-* **Apkumchi (bol du pied - 앞꿈치) :** Utilisé lorsque la pique s'oriente vers des points vitaux réduits (plexus, gorge, sous le menton).
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** L'arme la plus utilisée pour s'insérer tranchante de profil.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Utilisé lorsque la pique s'oriente vers des points vitaux réduits (plexus, gorge, sous le menton).
 * **Orientation du pied :** La cheville est verrouillée de manière extrêmement rigide pour transformer l'ensemble du pied et de la jambe en une « lance » transperçante.
 
 ---

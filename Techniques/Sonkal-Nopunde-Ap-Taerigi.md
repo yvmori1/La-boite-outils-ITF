@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [손칼 높은데 앞 때리기](../audio/Techniques/Sonkal-Nopunde-Ap-Taerigi.m4a)
 
-Le **Sonkal Nopunde Ap Taerigi** (손칼 높은데 앞 때리기) est une technique fondamentale du Taekwon-Do (principalement issue de l'ITF).
+Le **Sonkal Nopunde Ap Taerigi** ([손칼 높은데 앞 때리기](../audio/Techniques/Sonkal-Nopunde-Ap-Taerigi.m4a)) est une technique fondamentale du Taekwon-Do (principalement issue de l'ITF).
 
 Elle se traduit par : **Frappe du tranchant de la main vers l'avant au niveau haut**.
 
@@ -12,9 +12,9 @@ Elle se traduit par : **Frappe du tranchant de la main vers l'avant au niveau ha
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Sonkal** | 손칼 | Tranchant de la main | Zone d'impact (le bord extérieur de la main, de la base du petit doigt au poignet). |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (au niveau du visage ou des yeux de l'exécutant). |
-| **Ap** | 앞 | Avant / Frontal | Direction de l'attaque (droite devant soi, sur l'axe central). |
+| **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Zone d'impact (le bord extérieur de la main, de la base du petit doigt au poignet). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du visage ou des yeux de l'exécutant). |
+| **Ap** | [앞](../audio/grammaire/Ap.m4a) | Avant / Frontal | Direction de l'attaque (droite devant soi, sur l'axe central). |
 | **Taerigi** | 때리기 | Frappe / Coup | Mouvement fustigeant/fouetté (différent d'une poussée directe *Jirugi*). |
 
 ---

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [미뤄 막기](../audio/makgi/miro-makgi.m4a)
 
-Le **Miro Makgi** (미뤄 막기) est le **blocage en poussée / blocage poussé** (*Pushing block*) en TaeKwon-Do ITF.
+Le **Miro Makgi** ([미뤄 막기](../audio/makgi/miro-makgi.m4a)) est le **blocage en poussée / blocage poussé** (*Pushing block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 

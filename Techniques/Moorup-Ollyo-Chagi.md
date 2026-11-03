@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [무릎 올려 차기](../audio/Techniques/Moorup-Ollyo-Chagi.m4a)
 
-Le **Moorup Ollyo Chagi** (무릎 올려 차기) est le **coup de genou ascendant / montant** (*Rising knee kick*) en TaeKwon-Do ITF.
+Le **Moorup Ollyo Chagi** ([무릎 올려 차기](../audio/Techniques/Moorup-Ollyo-Chagi.m4a)) est le **coup de genou ascendant / montant** (*Rising knee kick*) en TaeKwon-Do ITF.
 
 Cette technique de percussion dévastatrice à très courte portée utilise la structure osseuse massive de la rotule et de la partie inférieure du fémur (**Moorup**) pour frapper violemment de bas en haut (**Ollyo**) une cible située au niveau moyen ou haut (plexus solaire, bas-ventre, côtes ou visage si l'adversaire est fléchi ou saisi).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moorup / Mureup (무릎) :** Genou (*Knee*).
-* **Ollyo (올려) :** Ascendant / Montant (*Rising / Upward*).
+* **Moorup / Mureup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou (*Knee*).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Ascendant / Montant (*Rising / Upward*).
 * **Chagi (차기) :** Coup de pied / Frappe de jambe (*Kick*).
 
 ---

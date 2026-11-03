@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [멈춰 막기](../audio/makgi/momchau-makgi.m4a)
 
-Le **Momchau Makgi** (멈춰 막기) est le **blocage d'arrêt / blocage d'interception** (*Checking block* ou *Stopping block*) en TaeKwon-Do ITF.
+Le **Momchau Makgi** ([멈춰 막기](../audio/makgi/momchau-makgi.m4a)) est le **blocage d'arrêt / blocage d'interception** (*Checking block* ou *Stopping block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
@@ -28,7 +28,7 @@ Le *Momchau Makgi* peut s'exécuter avec différentes armes naturelles selon la 
 
 * **Palmok Momchau Makgi (팔목 멈춰 막기) :** Interception avec l'avant-bras (*Bakat Palmok* ou *An Palmok*) contre un bras ou une jambe arrivant de face ou de côté.
 * **Sonkal Momchau Makgi (손칼 멈춰 막기) :** Interception tranchante avec le bord externe de la main pour cueillir une articulation.
-* **Najunde Momchau Makgi (낮인데 멈춰 막기) :** Blocage d'arrêt en section basse (souvent combiné avec le tranchant du pied ou la paume pour intercepter la montée d'un genou adverse).
+* **Najunde Momchau Makgi (낮은데 멈춰 막기) :** Blocage d'arrêt en section basse (souvent combiné avec le tranchant du pied ou la paume pour intercepter la montée d'un genou adverse).
 
 ---
 

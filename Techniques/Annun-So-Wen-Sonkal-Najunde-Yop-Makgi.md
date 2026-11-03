@@ -1,18 +1,18 @@
 # Annun So Wen Sonkal Najunde Yop Makgi
 
-> 🔊 **Prononciation :** [앉은 서 왼 손칼 낮인데 옆 막기](../audio/Techniques/Annun-So-Wen-Sonkal-Najunde-Yop-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 왼 손칼 낮은데 옆 막기](../audio/Techniques/Annun-So-Wen-Sonkal-Najunde-Yop-Makgi.m4a)
 
-Le **Annun So Wen Sonkal Najunde Yop Makgi** (앉은 서 왼 손칼 낮인데 옆 막기) est le **blocage latéral bas gauche au tranchant de la main en posture du cavalier** (*Sitting stance left knife-hand low side block*) en TaeKwon-Do ITF.
+Le **Annun So Wen Sonkal Najunde Yop Makgi** (앉은 서 왼 손칼 낮은데 옆 막기) est le **blocage latéral bas gauche au tranchant de la main en posture du cavalier** (*Sitting stance left knife-hand low side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive tranchante et puissante protège la partie inférieure du corps (cuisses, bas-ventre, genoux) contre des attaques venant du flanc gauche (*Yop*), en utilisant la surface osseuse du tranchant de la main (*Sonkal*).
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur du côté de l'auriculaire).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — zone sous la ceinture, cuisses, genoux).
-* **Yop (옆) :** Latéral / Sur le côté à 90° (*Side*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur du côté de l'auriculaire).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — zone sous la ceinture, cuisses, genoux).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

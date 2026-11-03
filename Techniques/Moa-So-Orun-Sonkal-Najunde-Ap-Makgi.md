@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [모아서 오른 손칼 낮은데 앞 막기](../audio/Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.m4a)
 
-Le **Moa So Orun Sonkal Najunde Ap Makgi** (모아서 오른 손칼 낮은데 앞 막기) est le **blocage bas avant au tranchant de la main droite en posture pieds joints** (*Closed stance right knife-hand low front block*) en TaeKwon-Do ITF.
+Le **Moa So Orun Sonkal Najunde Ap Makgi** ([모아서 오른 손칼 낮은데 앞 막기](../audio/Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.m4a)) est le **blocage bas avant au tranchant de la main droite en posture pieds joints** (*Closed stance right knife-hand low front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive rapide et précise utilise le tranchant extérieur de la main droite (**Sonkal**) pour dévier ou intercepter une frappe basse arrivant de face (**Najunde Ap Makgi** — comme un coup de pied direct *Ap Chagi* ou une attaque au bas-ventre), tout en maintenant le verrouillage central et l'alignement de la posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Orun (오른) :** Droit / Main droite (*Right*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — zone osseuse allant de la base du petit doigt jusqu'au poignet, quatre doigts serrés et pouce fléchi).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
-* **Ap (앞) :** Avant / Frontal (*Front*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Main droite (*Right*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — zone osseuse allant de la base du petit doigt jusqu'au poignet, quatre doigts serrés et pouce fléchi).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

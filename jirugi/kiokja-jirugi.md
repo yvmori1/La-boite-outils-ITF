@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [ㄱ자 지르기](../audio/jirugi/kiokja-jirugi.m4a)
 
-Le **Kiokja Jirugi** (ㄱ자 지르기) est le **coup de poing en angle** (*Angle punch*) en TaeKwon-Do ITF.
+Le **Kiokja Jirugi** ([ㄱ자 지르기](../audio/jirugi/kiokja-jirugi.m4a)) est le **coup de poing en angle** (*Angle punch*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **Kiokja (ㄱ자) :** En forme de "Giyeok" (la première lettre de l'alphabet coréen **ㄱ**, qui dessine un angle droit parfait à 90° ou un "L" inversé).
-* **Jirugi (지르기) :** Coup de poing / Percussion perçante.
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing / Percussion perçante.
 
 Le **Kiokja Jirugi** est une frappe circulaire courte et angulaire. Contrairement au coup de poing direct (*Ap Jirugi*) qui s'élance en ligne droite, le *Kiokja Jirugi* amène le poing à travers le buste en gardant le bras fléchi pour **contourner la garde adverse ou frapper de côté à mi-distance**.
 

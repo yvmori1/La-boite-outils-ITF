@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [등주먹 옆때리기](../audio/jirugi/dung-joomuk-yop-taerigi.m4a)
 
-Le **Dung Joomuk Yop Taerigi** (등주먹 옆때리기) est la **frappe latérale du revers du poing** (*Side backfist strike*) en TaeKwon-Do ITF.
+Le **Dung Joomuk Yop Taerigi** ([등주먹 옆때리기](../audio/jirugi/dung-joomuk-yop-taerigi.m4a)) est la **frappe latérale du revers du poing** (*Side backfist strike*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **Dung (등) :** Dos / Revers / Partie arrière (*Back*).
-* **Joomuk / Jumuk (주먹) :** Poing fermé.
-* **Yop (옆) :** Côté / Latéral (*Side*).
+* **Joomuk / Jumuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé.
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 Alors que le *Dung Joomuk Taerigi* général peut s'effectuer vers l'avant ou en diagonale, le **Dung Joomuk Yop Taerigi** est spécifiquement exécuté **sur la ligne latérale du corps (à 90° par rapport à l'axe frontal)** pour atteindre un adversaire situé sur le flanc ou lors d'un déplacement de profil.

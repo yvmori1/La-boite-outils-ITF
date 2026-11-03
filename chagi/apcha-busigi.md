@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [앞차 부시기](../audio/chagi/apcha-busigi.m4a)
 
-Le **Apcha Busigi** (앞차 부시기) est le **coup de pied avant fouetté** en TaeKwon-Do ITF.
+Le **Apcha Busigi** ([앞차 부시기](../audio/chagi/apcha-busigi.m4a)) est le **coup de pied avant fouetté** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Ap (앞) :** Avant / Frontal.
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
 * **Cha (차) :** Coup de pied.
-* **Busigi (부시기) :** Fouetté / *Snap* (action basée sur la vitesse d'extension du genou et le réarmement instantané, par opposition à *Jirugi* qui désigne une poussée perçante).
+* **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / *Snap* (action basée sur la vitesse d'extension du genou et le réarmement instantané, par opposition à *Jirugi* qui désigne une poussée perçante).
 
 C'est l'une des premières techniques enseignées en TaeKwon-Do, mais aussi l'une des plus redoutables en combat libre (*Matsogi*) pour sa rapidité, son effet de surprise et sa capacité à s'infiltrer à travers une garde étroite.
 
@@ -16,7 +16,7 @@ C'est l'une des premières techniques enseignées en TaeKwon-Do, mais aussi l'un
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Apkumchi (bol du pied - 앞꿈치) :** C'est la surface de frappe exclusive. On frappe avec la paume musculaire située juste sous la base des orteils.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** C'est la surface de frappe exclusive. On frappe avec la paume musculaire située juste sous la base des orteils.
 * **Armement du pied :** La cheville est tendue vers l'avant, mais les **orteils doivent être fortement tirés vers le haut et l'arrière**. Si les orteils touchent la cible en premier, le risque de fracture ou de luxation est extrêmement élevé.
 
 ---

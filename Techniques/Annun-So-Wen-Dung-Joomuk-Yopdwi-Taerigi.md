@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 등주먹 옆뒤 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.m4a)
 
-Le **Annun So Wen Dung Joomuk Yopdwi Taerigi** (앉은 서 왼 등주먹 옆뒤 때리기) est la **frappe latérale-arrière cinglante avec le revers du poing gauche en posture du cavalier** (*Sitting stance left backfist side-rear strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Dung Joomuk Yopdwi Taerigi** ([앉은 서 왼 등주먹 옆뒤 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.m4a)) est la **frappe latérale-arrière cinglante avec le revers du poing gauche en posture du cavalier** (*Sitting stance left backfist side-rear strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque réflexe permet de neutraliser un agresseur situé dans l'angle mort diagonal arrière-gauche (*Yopdwi*), en projetant le revers du poing (*Dung Joomuk*) grâce à un coup de fouet rapide du coude, tout en conservant l'ancrage solide de la posture du cavalier.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Dung Joomuk (등주먹) :** Revers du poing (*Backfist* — la zone osseuse des grosses jointures de l'index et du majeur).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist* — la zone osseuse des grosses jointures de l'index et du majeur).
 * **Yopdwi / Yop Dwi (옆뒤) :** Latéral-arrière / Diagonale arrière-côté à ~135° (*Side rear*).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 

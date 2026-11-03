@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 두 주먹 낮은데 지르기](../audio/Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.m4a)
 
-Le **Niunja So Doo Joomuk Najunde Jirugi** (ㄴ자 서 두 주먹 낮은데 지르기) est une technique d'attaque directe double, dévastatrice et très stable du Taekwon-Do (ITF).
+Le **Niunja So Doo Joomuk Najunde Jirugi** ([ㄴ자 서 두 주먹 낮은데 지르기](../audio/Techniques/Niunja-So-Doo-Joomuk-Najunde-Jirugi.m4a)) est une technique d'attaque directe double, dévastatrice et très stable du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de poing direct double au niveau bas en position en L**.
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Coup de poing direct double au niveau bas en position en
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Niunja So (Sogi)** | ㄴ자 서기 | Position en L (*L-Stance*) | Posture stable où le pied arrière porte **70 % du poids** et le pied avant **30 %**. |
+| **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture stable où le pied arrière porte **70 % du poids** et le pied avant **30 %**. |
 | **Doo Joomuk** | 두 주먹 | Deux poings / Double poing | Action simultanée des deux poings (*Doo* = deux, *Joomuk* = poing). |
-| **Najunde** | 낮은데 | Niveau bas | Hauteur de la cible (au niveau du bas-ventre, du nombril ou de l'aine). |
-| **Jirugi** | 지르기 | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante (*Ap Joomuk*). |
+| **Najunde** | [낮은데](../audio/grammaire/Najunde.m4a) | Niveau bas | Hauteur de la cible (au niveau du bas-ventre, du nombril ou de l'aine). |
+| **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante (*Ap Joomuk*). |
 
 ---
 

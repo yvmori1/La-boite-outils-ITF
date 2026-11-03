@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [걷는 서 잡혔을 때](../audio/Techniques/Gunnun-So-Jappyosul-Tae.m4a)
 
-Le **Gunnun So Jappyosul Tae** (걷는 서 잡혔을 때) désigne le **mouvement de dégagement / libération de saisie en posture de marche** (*Release motion when grabbed in walking stance*) en TaeKwon-Do ITF.
+Le **Gunnun So Jappyosul Tae** ([걷는 서 잡혔을 때](../audio/Techniques/Gunnun-So-Jappyosul-Tae.m4a)) désigne le **mouvement de dégagement / libération de saisie en posture de marche** (*Release motion when grabbed in walking stance*) en TaeKwon-Do ITF.
 
 Contrairement aux techniques d'attaque directes ou de blocage classique, **Jappyosul Tae** n'est pas un coup, mais un **mouvement de self-défense tactique (*Hosinsul*)** intégré dans plusieurs patrons (*Tul*). Il intervient lorsqu'un adversaire saisit le poignet ou le bras du pratiquant, qui utilise alors le levier articulatoire, la rotation du poignet et l'ancrage en posture de marche (*Gunnun Sogi*) pour se libérer instantanément.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
 * **Jappyosul / Jappyosseul (잡혔을) :** Être saisi / attrapé (forme passive du verbe *Japda* = saisir).
 * **Tae / Ttae (때) :** Au moment où / Quand / Lors de (*When / Time*).
 * **Linguistiquement :** *"Au moment où l'on est saisi en posture de marche"*.

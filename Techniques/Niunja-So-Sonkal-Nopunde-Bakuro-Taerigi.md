@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼 높은데 밖으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.m4a)
 
-Le **Niunja So Sonkal Nopunde Bakuro Taerigi** (ㄴ자 서 손칼 높은데 밖으로 때리기 / 바깥으로 때리기) est une technique d'attaque circulaire vers l'extérieur, puissante et incisive du Taekwon-Do (ITF).
+Le **Niunja So Sonkal Nopunde Bakuro Taerigi** ([ㄴ자 서 손칼 높은데 밖으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.m4a) / [바깥으로 때리기](../audio/lexique/Bakuro-taerigi.m4a)) est une technique d'attaque circulaire vers l'extérieur, puissante et incisive du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe vers l'extérieur au tranchant de la main au niveau haut en position en L** (*High Outward Knife-Hand Strike in L-Stance*).
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Frappe vers l'extérieur au tranchant de la main au nive
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Niunja So (Sogi)** | ㄴ자 서기 | Position en L (*L-Stance*) | Posture stable (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
-| **Sonkal** | 손칼 | Tranchant de la main | Surface d'impact (le bord extérieur de la main ouverte, du petit doigt au poignet). |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (au niveau du cou, de la tempe ou du visage). |
-| **Bakuro / Bakkaturo** | 밖으로 / 바깥으로 | Vers l'extérieur | Trajectoire de la frappe allant de l'intérieur vers l'extérieur du corps. |
+| **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture stable (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
+| **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Surface d'impact (le bord extérieur de la main ouverte, du petit doigt au poignet). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du cou, de la tempe ou du visage). |
+| **Bakuro / Bakkaturo** | [밖으로](../audio/grammaire/Bakuro.m4a) / 바깥으로 | Vers l'extérieur | Trajectoire de la frappe allant de l'intérieur vers l'extérieur du corps. |
 | **Taerigi** | 때리기 | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
 
 ---

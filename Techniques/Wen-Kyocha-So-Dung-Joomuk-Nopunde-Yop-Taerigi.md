@@ -1,18 +1,18 @@
 # Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi
 
-> 🔊 **Prononciation :** [왼 교차 서 등주먹 높인데 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+> 🔊 **Prononciation :** [왼 교차 서 등주먹 높은데 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
 
-Le **Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi** (왼 교차 서 등주먹 높인데 옆 때리기) est le **coup cinglant latéral haut au revers du poing gauche en posture en X** (*Left X-stance backfist high side strike*) en TaeKwon-Do ITF.
+Le **Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi** (왼 교차 서 등주먹 높은데 옆 때리기) est le **coup cinglant latéral haut au revers du poing gauche en posture en X** (*Left X-stance backfist high side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et très incisive associe le déplacement croisé agile de la posture en X (*Kyocha Sogi*) avec la vitesse de fouetté d'une frappe du revers du poing (*Dung Joomuk*) dirigée vers le visage de l'adversaire situé sur le flanc.
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left* — indique que le **pied gauche croise devant** et que la **main gauche frappe**).
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
-* **Dung Joomuk (등주먹) :** Revers / Dos du poing (*Back fist*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux / de la tempe / de la mâchoire).
-* **Yop (옆) :** Latéral / Sur le côté à 90° (*Side*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le **pied gauche croise devant** et que la **main gauche frappe**).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers / Dos du poing (*Back fist*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / de la tempe / de la mâchoire).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
 * **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---

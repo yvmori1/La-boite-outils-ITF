@@ -2,21 +2,21 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼 가운데 바깥으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.m4a)
 
-Le **Niunja So Sonkal Kaunde Bakuro Taerigi** (ㄴ자 서 손칼 가운데 바깥으로 때리기 — couramment retranscrit **Niunja Sogi Sonkal Kaujunde Bakuro Taerigi**) est la **frappe moyenne vers l'extérieur avec le tranchant de la main en posture en L** (*Middle outward knife-hand strike in L-stance*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Kaunde Bakuro Taerigi** ([ㄴ자 서 손칼 가운데 바깥으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.m4a) — couramment retranscrit **Niunja Sogi Sonkal Kaujunde Bakuro Taerigi**) est la **frappe moyenne vers l'extérieur avec le tranchant de la main en posture en L** (*Middle outward knife-hand strike in L-stance*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à main ouverte exploite le fouetté du coude et la rotation des hanches pour délivrer un coup tranchant extrêmement rapide et pénétrant.
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Sogi (ㄴ자 서기) :** Posture en L (*L-stance*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — côté du petit doigt, du poignet à la première jointure).
-* **Kaunde / Kaujunde (가운데) :** Niveau moyen (*Middle level* — ciblant la hauteur du cou, de la gorge ou du thorax).
+* **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — côté du petit doigt, du poignet à la première jointure).
+* **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — ciblant la hauteur du cou, de la gorge ou du thorax).
 * **Bakuro (바깥으로) :** Vers l'extérieur (*Outward* — trajectoire partant du centre/intérieur du corps pour s'ouvrir vers l'extérieur).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 
-## 1. La posture de base : *Niunja Sogi* (ㄴ자 서기)
+## 1. La posture de base : *Niunja Sogi* ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a))
 
 La frappe s'exécute en profil de trois-quarts (*Half-facing*), associant protection et liberté de mouvement :
 

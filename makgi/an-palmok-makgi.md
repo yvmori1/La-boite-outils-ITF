@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [안팔목 막기](../audio/makgi/an-palmok-makgi.m4a)
 
-Le **An Palmok Makgi** (안팔목 막기) est le **blocage avec l'avant-bras intérieur** (*Inner forearm block*) en TaeKwon-Do ITF.
+Le **An Palmok Makgi** ([안팔목 막기](../audio/makgi/an-palmok-makgi.m4a)) est le **blocage avec l'avant-bras intérieur** (*Inner forearm block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **An (안) :** Intérieur / Tranchant interne (côté du pouce).
-* **Palmok (팔목) :** Avant-bras (*Pal* = bras, *Mok* = articulation/cou).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Pal* = bras, *Mok* = articulation/cou).
 * **Makgi (막기) :** Blocage / Défense.
 
 À l'inverse du *Bakat Palmok* qui utilise le côté extérieur (côté du petit doigt), le **An Palmok Makgi** utilise le **côté intérieur de l'avant-bras** pour dévier une attaque. C'est l'un des blocages les plus fluides et rapides pour chasser un coup direct vers l'extérieur et ouvrir la garde de l'adversaire.

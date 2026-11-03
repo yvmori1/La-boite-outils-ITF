@@ -1,18 +1,18 @@
 # Annun So Orun Dung Joomuk Nopunde Yop Taerigi
 
-> 🔊 **Prononciation :** [앉은 서 오른 등주먹 높운데 옆 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+> 🔊 **Prononciation :** [앉은 서 오른 등주먹 높은데 옆 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
 
-Le **Annun So Orun Dung Joomuk Nopunde Yop Taerigi** (앉은 서 오른 등주먹 높운데 옆 때리기) est la **frappe latérale haute avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist high side strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Dung Joomuk Nopunde Yop Taerigi** (앉은 서 오른 등주먹 높은데 옆 때리기) est la **frappe latérale haute avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist high side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque cinglante utilise la détente rapide du coude pour projeter le revers du poing droit (*Dung Joomuk*) sur le côté droit (*Yop*) au niveau du visage/tempe d'un adversaire situé latéralement.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Dung Joomuk (등주먹) :** Revers du poing (*Back fist*).
-* **Nopunde (높운데) :** Niveau haut (hauteur des yeux / tempe / mâchoire).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Back fist*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur des yeux / tempe / mâchoire).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---

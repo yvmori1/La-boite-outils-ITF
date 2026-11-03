@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [모아서 쌍 옆 팔굽 찌르기](../audio/Techniques/Moa-So-Sang-Yop-Palkup-Tulgi.m4a)
 
-Le **Moa So Sang Yop Palkup Tulgi** (모아서 쌍 옆 팔굽 찌르기) est le **coup de coude pénétration latéral double / simultané en posture pieds joints** (*Closed stance twin side elbow thrust*) en TaeKwon-Do ITF.
+Le **Moa So Sang Yop Palkup Tulgi** ([모아서 쌍 옆 팔굽 찌르기](../audio/Techniques/Moa-So-Sang-Yop-Palkup-Tulgi.m4a)) est le **coup de coude pénétration latéral double / simultané en posture pieds joints** (*Closed stance twin side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque et de dégagement bilatérale et symétrique utilise simultanément la pointe des deux coudes (**Sang Yop Palkup**) pour frapper ou transpercer de manière explosive deux cibles situées directement sur les flancs droit et gauche (niveau moyen / *Kaunde* — côtes, plexus solaire ou foie), le tout ancré dans la stabilité centrale de la posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
 * **Sang (쌍) :** Double / Paire / Simultané (*Twin / Pair*).
-* **Yop (옆) :** Côté / Latéral (*Side*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Tulgi / Tulgi (찌르기) :** Pénétration / Piqué / Percée (*Thrust*).
 
 ---

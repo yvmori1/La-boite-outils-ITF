@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [옆 막기](../audio/makgi/yop-makgi.m4a)
 
-Le **Yop Makgi** (옆 막기) est le **blocage latéral / blocage sur le côté** (*Side block*) en TaeKwon-Do ITF.
+Le **Yop Makgi** ([옆 막기](../audio/makgi/yop-makgi.m4a)) est le **blocage latéral / blocage sur le côté** (*Side block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Yop (옆) :** Côté / Latéral (indique une orientation ou une trajectoire dirigée vers le flanc).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (indique une orientation ou une trajectoire dirigée vers le flanc).
 * **Makgi (막기) :** Blocage / Défense.
 
 Contrairement aux blocages exécutés vers l'avant (*Ap Makgi*), le **Yop Makgi** est conçu pour intercepter une attaque venant **sur le côté du corps** (à 90° par rapport à l'axe frontal) ou pour bloquer tout en présentant une posture de profil (*Niunja Sogi*, *Annun Sogi* ou *Guburyo Sogi*).

@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [피하며 반대 돌려차기](../audio/chagi/ihamyo-bandae-dollyo-chagi.m4a)
 
-Le **Pihamyo Bandae Dollyo Chagi** (피하며 반대 돌려차기) est le **coup de pied circulaire inversé en esquive** (ou *Dodging reverse turning kick*).
+Le **Pihamyo Bandae Dollyo Chagi** ([피하며 반대 돌려차기](../audio/chagi/ihamyo-bandae-dollyo-chagi.m4a)) est le **coup de pied circulaire inversé en esquive** (ou *Dodging reverse turning kick*).
 
 C'est l'une des contre-attaques les plus spectaculaires, efficaces et gratifiantes du TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **Pihamyo (피하며) :** En esquivant, tout en évitant (du verbe *pihada*, esquiver).
-* **Bandae (반대) :** Inversé / Opposé.
-* **Dollyo (돌려) :** Tournant / Circulaire.
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé.
+* **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Tournant / Circulaire.
 * **Chagi (차기) :** Coup de pied.
 
 Alors qu'un *Bandae Dollyo Chagi* classique s'exécute souvent en offensive directe ou en rotation sur place, le **Pihamyo Bandae Dollyo Chagi** intègre un **effacement du buste ou un retrait du corps** pour laisser passer l'attaque directe de l'adversaire (un coup de poing direct ou une charge) avant de lui asséner un coup de talon au visage.
@@ -19,7 +19,7 @@ Alors qu'un *Bandae Dollyo Chagi* classique s'exécute souvent en offensive dire
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Dwitchuk (dessous du talon - 뒤축) :** C'est l'arme privilégiée. Le choc transmis par la base d'un talon en rotation, combiné à l'avancée de l'adversaire, crée un impact dévastateur.
+* **Dwitchuk (dessous du talon - [뒤축](../audio/termes/뒤축.m4a)) :** C'est l'arme privilégiée. Le choc transmis par la base d'un talon en rotation, combiné à l'avancée de l'adversaire, crée un impact dévastateur.
 * **Orientation du pied :** La cheville est fermement verrouillée en flexion, les orteils tirés vers le haut pour dégager le dessous du talon.
 
 ---

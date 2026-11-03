@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [왼 교차 서 낮은데 반대 지르기](../audio/Techniques/Wen-Kyocha-So-Najunde-Bandae-Jirugi.m4a)
 
-Le **Wen Kyocha So Najunde Bandae Jirugi** (왼 교차 서 낮은데 반대 지르기) est le **coup de poing direct inversé bas en posture en X gauche** (*Left X-stance low reverse punch*) en TaeKwon-Do ITF.
+Le **Wen Kyocha So Najunde Bandae Jirugi** ([왼 교차 서 낮은데 반대 지르기](../audio/Techniques/Wen-Kyocha-So-Najunde-Bandae-Jirugi.m4a)) est le **coup de poing direct inversé bas en posture en X gauche** (*Left X-stance low reverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque basse et incisive combine la mobilité de franchissement et le changement d'axe offerts par la posture en X (*Kyocha Sogi*) avec la puissance d'un coup de poing en piston (*Jirugi*) dirigé vers le bas-ventre de l'adversaire, délivré par la main opposée à la jambe avant (*Bandae*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
-* **Najunde (낮은데) :** Niveau bas (*Low level* — hauteur du bas-ventre, de la vessie ou de l'aine).
-* **Bandae (반대) :** Inverse / Opposé (*Reverse* — coup exécuté avec la main opposée à la jambe située à l'avant, donc la **main droite**).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — hauteur du bas-ventre, de la vessie ou de l'aine).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — coup exécuté avec la main opposée à la jambe située à l'avant, donc la **main droite**).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

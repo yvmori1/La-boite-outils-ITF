@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [뒷발 서 팔목 가운데 대비 막기](../audio/Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.m4a)
 
-Le **Dwitbal So Palmok Kaunde Daebi Makgi** (뒷발 서 팔목 가운데 대비 막기) est le **blocage de garde moyen au double avant-bras en posture du pied arrière** (*Rear foot stance forearm middle guarding block*) en TaeKwon-Do ITF.
+Le **Dwitbal So Palmok Kaunde Daebi Makgi** ([뒷발 서 팔목 가운데 대비 막기](../audio/Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.m4a)) est le **blocage de garde moyen au double avant-bras en posture du pied arrière** (*Rear foot stance forearm middle guarding block*) en TaeKwon-Do ITF.
 
 Cette posture défensive emblématique combine le bouclier protecteur à deux bras (*Daebi Makgi*) avec le retrait massif du centre de gravité offert par la posture *Dwitbal Sogi* (95% du poids du corps sur la jambe arrière). Elle sécurise l'ensemble du buste et du plexus (*Kaunde*) tout en maintenant une capacité de contre-attaque instantanée avec la jambe avant.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Palmok (팔목) :** Avant-bras (*Forearm*).
-* **Kaunde (가운데) :** Niveau moyen (hauteur du thorax / du plexus solaire).
+* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur du thorax / du plexus solaire).
 * **Daebi (대비) :** De garde / Protection / Prévoyant (*Guarding*).
 * **Makgi (막기) :** Blocage (*Block*).
 

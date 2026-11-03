@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 등주먹 앞 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.m4a)
 
-Le **Annun So Wen Dung Joomuk Ap Taerigi** (앉은 서 왼 등주먹 앞 때리기) est la **frappe frontale cinglante avec le revers du poing gauche en posture du cavalier** (*Sitting stance left backfist front strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Dung Joomuk Ap Taerigi** ([앉은 서 왼 등주먹 앞 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.m4a)) est la **frappe frontale cinglante avec le revers du poing gauche en posture du cavalier** (*Sitting stance left backfist front strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et fouettée utilise le revers du poing (*Dung Joomuk*) pour percuter avec précision une cible située directement de face (*Ap*), généralement au niveau haut du visage (comme le philtrum, le nez ou les tempes).
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Dung Joomuk (등주먹) :** Revers du poing (*Backfist* — la surface supérieure des jointures de l'index et du majeur).
-* **Ap (앞) :** Frontal / Directement vers l'avant (*Front*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist* — la surface supérieure des jointures de l'index et du majeur).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Directement vers l'avant (*Front*).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---

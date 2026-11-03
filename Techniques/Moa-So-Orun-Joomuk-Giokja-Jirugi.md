@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [모아서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Moa-So-Orun-Joomuk-Giokja-Jirugi.m4a)
 
-Le **Moa So Orun Joomuk Giokja Jirugi** (모아서 오른 주먹 ㄱ자 지르기) est le **coup de poing direct en "L" / d'angle (en équerre) du poing droit en posture pieds joints** (*Closed stance right fist angle punch*) en TaeKwon-Do ITF.
+Le **Moa So Orun Joomuk Giokja Jirugi** ([모아서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Moa-So-Orun-Joomuk-Giokja-Jirugi.m4a)) est le **coup de poing direct en "L" / d'angle (en équerre) du poing droit en posture pieds joints** (*Closed stance right fist angle punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à moyenne portée utilise les deux premières jointures du poing droit (**Ap Joomuk**) pour frapper le côté de la poitrine, le flanc ou la mâchoire d'un adversaire. La particularité vient de la forme du bras frappant, dont le coude est fléchi pour former un angle droit précis à 90° (en forme de la lettre coréenne **Giok - ㄱ**), le tout ancré dans la compacité de la posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Orun (오른) :** Droit / Poing droit (*Right*).
-* **Joomuk (주먹) :** Poing fermé (*Fist*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
 * **Giokja / Giok-ja (ㄱ자) :** En forme de la lettre "Giok" (ㄱ) / En équerre / En forme de "L" / Angle à 90°.
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

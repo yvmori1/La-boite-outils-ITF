@@ -6,10 +6,10 @@ Les doigts sont pliés en angle (**Homi**, la houe) pour piquer une zone molle d
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
 * **Homi Sonkut (호미손끝) :** Bout des doigts en angle (*Angle fingertip*).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Tulgi (찌르기) :** Pique / poussée (*Thrust*).
 
 ---

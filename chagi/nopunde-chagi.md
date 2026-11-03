@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [높은데 차기](../audio/chagi/nopunde-chagi.m4a)
 
-Le **Nopunde Chagi** (높은데 차기 — parfois retranscrit *Napunde Chagi*) désigne **tout coup de pied porté au niveau haut / section haute** en TaeKwon-Do ITF.
+Le **Nopunde Chagi** ([높은데 차기](../audio/chagi/nopunde-chagi.m4a) — parfois retranscrit *Napunde Chagi*) désigne **tout coup de pied porté au niveau haut / section haute** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Nopunde (높은데) :** Niveau haut, section haute (au-dessus de la ligne des épaules : cou, menton, visage, tempes, sommet du crâne).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut, section haute (au-dessus de la ligne des épaules : cou, menton, visage, tempes, sommet du crâne).
 * **Chagi (차기) :** Coup de pied.
 
 En TaeKwon-Do ITF, **Nopunde** n'est pas une mécanique de frappe spécifique (comme le *Dollyo Chagi* ou le *Yop Chagi*), mais un **indicateur de hauteur de cible**.
@@ -19,9 +19,9 @@ Pour bien situer le *Nopunde Chagi*, l'ITF divise le corps humain en trois zones
 
 | Terme coréen | Section | Zone anatomique visée |
 | --- | --- | --- |
-| **Najunde** (나중데) | Section basse | Du nombril jusqu'aux pieds (cuisses, genoux, bas-ventre). |
-| **Kaunde** (가운데) | Section moyenne | Du cou jusqu'au nombril (plexus, côtes, abdomen). |
-| **Nopunde** (높은데) | **Section haute** | **Du cou jusqu'au sommet de la tête (visage, mâchoire, tempes, gorge).** |
+| **Najunde** ([낮은데](../audio/grammaire/Najunde.m4a)) | Section basse | Du nombril jusqu'aux pieds (cuisses, genoux, bas-ventre). |
+| **Kaunde** ([가운데](../audio/grammaire/Kaunde.m4a)) | Section moyenne | Du cou jusqu'au nombril (plexus, côtes, abdomen). |
+| **Nopunde** ([높은데](../audio/grammaire/Nopunde.m4a)) | **Section haute** | **Du cou jusqu'au sommet de la tête (visage, mâchoire, tempes, gorge).** |
 
 ---
 

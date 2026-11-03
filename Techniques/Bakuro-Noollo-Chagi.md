@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [밖으로 눌러 차기](../audio/Techniques/Bakuro-Noollo-Chagi.m4a)
 
-Le **Bakuro Noollo Chagi** (밖으로 눌러 차기) est le **coup de pied pressant vers l'extérieur** (*Outward pressing kick*) en TaeKwon-Do ITF.
+Le **Bakuro Noollo Chagi** ([밖으로 눌러 차기](../audio/Techniques/Bakuro-Noollo-Chagi.m4a)) est le **coup de pied pressant vers l'extérieur** (*Outward pressing kick*) en TaeKwon-Do ITF.
 
 Cette technique défensive et disruptive utilise la plante du pied ou le talon (*Balbadak / Dwitkumchi*) pour exercer une pression lourde et continue (*Noollo*) menée du centre vers l'extérieur (*Bakuro*). Elle vise principalement à écraser la jambe, le genou ou la garde de l'adversaire afin de briser sa structure ou stopper son avance.
 
 Sa décomposition linguistique est la suivante :
 
-* **Bakuro (밖으로) :** Vers l'extérieur (mouvement mené de l'axe central vers l'extérieur).
-* **Noollo / Nullo (눌러) :** Presser / Écraser / Pousser vers le bas (du verbe *Nureuda* [누르다], appuyer).
+* **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (mouvement mené de l'axe central vers l'extérieur).
+* **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser / Écraser / Pousser vers le bas (du verbe *Nureuda* [누르다], appuyer).
 * **Chagi (차기) :** Coup de pied (*Kick*).
 
 ---

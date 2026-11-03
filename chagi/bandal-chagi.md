@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [반달차기](../audio/chagi/bandal-chagi.m4a)
 
-Le **Bandal Chagi** (반달차기) est le **coup de pied en demi-lune** ou **semi-circulaire** en TaeKwon-Do ITF.
+Le **Bandal Chagi** ([반달차기](../audio/chagi/bandal-chagi.m4a)) est le **coup de pied en demi-lune** ou **semi-circulaire** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
@@ -17,8 +17,8 @@ Il s'agit d'une technique hybride qui se situe exactement à mi-chemin entre le 
 
 Selon le contexte tactique, deux armes naturelles sont principalement utilisées :
 
-* **Apkumchi (bol du pied - 앞꿈치) :** Utilisé pour percer une garde étroite et pénétrer les zones molles (côtes flottantes, plexus) avec une précision chirurgicale.
-* **Baldung (dessus du pied / coup de pied - 발등) :** Très répandu en combat libre (*Matsogi*) pour fouetter rapidement le buste ou le côté de la tête.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Utilisé pour percer une garde étroite et pénétrer les zones molles (côtes flottantes, plexus) avec une précision chirurgicale.
+* **Baldung (dessus du pied / coup de pied - [발등](../audio/grammaire/Baldong.m4a)) :** Très répandu en combat libre (*Matsogi*) pour fouetter rapidement le buste ou le côté de la tête.
 
 ---
 

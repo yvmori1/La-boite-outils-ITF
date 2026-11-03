@@ -1,16 +1,16 @@
 # Joomuk Nopunde Jirugi
 
-> 🔊 **Prononciation :** [주먹 높인데 지르기](../audio/Techniques/Joomuk-Nopunde-Jirugi.m4a)
+> 🔊 **Prononciation :** [주먹 높은데 지르기](../audio/Techniques/Joomuk-Nopunde-Jirugi.m4a)
 
-Le **Joomuk Nopunde Jirugi** (주먹 높인데 지르기) est le **coup de poing direct au niveau haut** (*High level fist punch*) en TaeKwon-Do ITF.
+Le **Joomuk Nopunde Jirugi** (주먹 높은데 지르기) est le **coup de poing direct au niveau haut** (*High level fist punch*) en TaeKwon-Do ITF.
 
 C'est l'une des attaques fondamentales du TaeKwon-Do. Elle consiste à projeter le poing fermé de façon rectiligne et en piston vers une cible située au niveau du visage de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
-* **Joomuk (주먹) :** Poing (*Fist*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — au niveau des yeux, du nez ou du menton).
-* **Jirugi (지르기) :** Coup de poing direct en piston / perçant (*Punch*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — au niveau des yeux, du nez ou du menton).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston / perçant (*Punch*).
 
 ---
 

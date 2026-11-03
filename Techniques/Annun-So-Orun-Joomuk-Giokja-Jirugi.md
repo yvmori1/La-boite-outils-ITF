@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Annun-So-Orun-Joomuk-Giokja-Jirugi.m4a)
 
-Le **Annun So Orun Joomuk Giokja Jirugi** (앉은 서 오른 주먹 ㄱ자 지르기) est le **coup de poing droit en angle (à 90°) en posture du cavalier** (*Sitting stance right forefist angle punch*) en TaeKwon-Do ITF.
+Le **Annun So Orun Joomuk Giokja Jirugi** ([앉은 서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Annun-So-Orun-Joomuk-Giokja-Jirugi.m4a)) est le **coup de poing droit en angle (à 90°) en posture du cavalier** (*Sitting stance right forefist angle punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à courte et moyenne distance consiste à projeter le poing droit (*Orun Joomuk*) selon une trajectoire en d'équerre à 90°, formant la silhouette du caractère coréen *Giyeok* (**ㄱ**), pour venir frapper l'axe central ou le flanc de l'adversaire en contournant sa garde frontale.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Joomuk / Ap Joomuk (주먹 / 앞주먹) :** Poing / Devant du poing (*Forefist*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Joomuk / Ap Joomuk ([주먹](../audio/grammaire/Joomuk.m4a) / [앞주먹](../audio/grammaire/Ap-Joomuk.m4a)) :** Poing / Devant du poing (*Forefist*).
 * **Giokja / ㄱ-shape (ㄱ자) :** En angle d'équerre (90°, forme du *Giyeok* coréen).
-* **Jirugi (지르기) :** Coup de poing direct / piston (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / piston (*Punch*).
 
 ---
 

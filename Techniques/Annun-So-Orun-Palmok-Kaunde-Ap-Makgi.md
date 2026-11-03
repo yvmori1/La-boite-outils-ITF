@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 팔목 가운데 앞 막기](../audio/Techniques/Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.m4a)
 
-Le **Annun So Orun Palmok Kaunde Ap Makgi** (앉은 서 오른 팔목 가운데 앞 막기) est le **blocage frontal moyen droit avec l'avant-bras en posture du cavalier** (*Sitting stance right forearm middle front block*) en TaeKwon-Do ITF.
+Le **Annun So Orun Palmok Kaunde Ap Makgi** ([앉은 서 오른 팔목 가운데 앞 막기](../audio/Techniques/Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.m4a)) est le **blocage frontal moyen droit avec l'avant-bras en posture du cavalier** (*Sitting stance right forearm middle front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fondamentale est conçue pour intercepter, dévier ou stopper une attaque directe arrivant au niveau du thorax ou du plexus solaire (*Kaunde*), directement sur l'axe central avant (*Ap*).
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Palmok / Bakat Palmok (팔목 / 바깥팔목) :** Avant-bras (utilisant principalement le tranchant/la surface extérieure de l'avant-bras).
-* **Kaunde (가운데) :** Niveau moyen (plexus solaire / thorax).
-* **Ap (앞) :** Frontal / Directement vers l'avant (*Front*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Palmok / Bakat Palmok ([팔목](../audio/grammaire/Palmok.m4a) / [바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras (utilisant principalement le tranchant/la surface extérieure de l'avant-bras).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Directement vers l'avant (*Front*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

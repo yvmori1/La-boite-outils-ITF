@@ -6,10 +6,10 @@ La paume (**Sonbadak**) monte de bas en haut pour soulever et dévier une attaqu
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Ollyo (올려) :** Vers le haut / montant (*Upward*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Vers le haut / montant (*Upward*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

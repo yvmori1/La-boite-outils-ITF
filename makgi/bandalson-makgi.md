@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [반달손 막기](../audio/makgi/bandalson-makgi.m4a)
 
-Le **Bandalson Makgi** (반달손 막기) est le **blocage en arc de main** (*Arc-hand block* ou *Crescent hand block*, parfois appelé blocage en « gueule du tigre ») en TaeKwon-Do ITF.
+Le **Bandalson Makgi** ([반달손 막기](../audio/makgi/bandalson-makgi.m4a)) est le **blocage en arc de main** (*Arc-hand block* ou *Crescent hand block*, parfois appelé blocage en « gueule du tigre ») en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **Bandal (반달) :** Demi-lune / Croissant / Arc.
-* **Son (손) :** Main.
+* **Son ([손](../audio/grammaire/Son.m4a)) :** Main.
 * **Makgi (막기) :** Blocage / Défense.
 
 ---

@@ -6,9 +6,9 @@ La paume (**Sonbadak**) vient accrocher le poignet ou l'avant-bras d'une attaque
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Golcho (걸쳐) :** Crocheté (*Hooking*).
 * **Makgi (막기) :** Blocage (*Block*).
 

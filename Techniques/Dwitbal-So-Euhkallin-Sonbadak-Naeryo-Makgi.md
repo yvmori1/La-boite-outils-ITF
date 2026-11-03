@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [뒷발 서 엇갈린 손바닥 내려 막기](../audio/Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.m4a)
 
-Le **Dwitbal So Euhkallin Sonbadak Naeryo Makgi** (뒷발 서 엇갈린 손바닥 내려 막기) est le **blocage descendant croisé avec la paume des mains en posture du pied arrière** (*Rear foot stance X-palm downward block*) en TaeKwon-Do ITF.
+Le **Dwitbal So Euhkallin Sonbadak Naeryo Makgi** ([뒷발 서 엇갈린 손바닥 내려 막기](../audio/Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.m4a)) est le **blocage descendant croisé avec la paume des mains en posture du pied arrière** (*Rear foot stance X-palm downward block*) en TaeKwon-Do ITF.
 
 Cette technique défensive double combine le recul de protection de la posture *Dwitbal Sogi* avec une poussée/interception descendante des deux paumes croisées en X (*Euhkallin Sonbadak*). Elle est conçue pour stopper ou dévier une attaque basse puissante (coup de pied direct bas, coup de genou ou frappe vers le bas-ventre/l'aine).
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
 * **Euhkallin / Eukkalin (엇갈린) :** Croisé / En X (*Crossed / X-*).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Naeryo (내려) :** Descendant / Vers le bas (*Downward*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Vers le bas (*Downward*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

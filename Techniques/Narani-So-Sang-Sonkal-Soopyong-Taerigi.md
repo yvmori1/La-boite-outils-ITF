@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [평행 서 쌍 손칼 수평 때리기](../audio/Techniques/Narani-So-Sang-Sonkal-Soopyong-Taerigi.m4a)
 
-Le **Narani So Sang Sonkal Soopyong Taerigi** (평행 서 쌍 손칼 수평 때리기) est le **coup percutant horizontal simultané aux deux tranchants de la main en posture pieds parallèles** (*Parallel stance twin knife-hand horizontal strike*) en TaeKwon-Do ITF.
+Le **Narani So Sang Sonkal Soopyong Taerigi** ([평행 서 쌍 손칼 수평 때리기](../audio/Techniques/Narani-So-Sang-Sonkal-Soopyong-Taerigi.m4a)) est le **coup percutant horizontal simultané aux deux tranchants de la main en posture pieds parallèles** (*Parallel stance twin knife-hand horizontal strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque bilatérale et symétrique utilise simultanément le tranchant extérieur des deux mains ouvertes (**Sang Sonkal**) dans un balayage circulaire parfaitement horizontal (**Soopyong**). Délivrée généralement au niveau haut (*Nopunde* — cou/carotides) ou moyen (*Kaunde* — flanc/côtes), elle permet de frapper deux cibles opposées ou d'impacter simultanément les deux côtés du cou d'un agresseur de face, le tout ancré en posture pieds parallèles (**Narani Sogi**).
 
@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
 * **Sang (쌍) :** Double / Paire / Simultané (*Twin / Pair*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — le bord extérieur de la main ouverte, du petit doigt au poignet).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — le bord extérieur de la main ouverte, du petit doigt au poignet).
 * **Soopyong / Supyeong (수평) :** Horizontal / Dans le plan horizontal (*Horizontal*).
 * **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
 

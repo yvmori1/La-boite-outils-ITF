@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [교차 서 손칼등 낮은데 반대 앞 막기](../audio/Techniques/Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.m4a)
 
-Le **Kyocha So Sonkal Dung Najunde Bandae Ap Makgi** (교차 서 손칼등 낮은데 반대 앞 막기) est le **blocage bas avant inversé au revers du tranchant de la main en posture croisée** (*X-stance reverse ridge-hand low front block*) en TaeKwon-Do ITF.
+Le **Kyocha So Sonkal Dung Najunde Bandae Ap Makgi** ([교차 서 손칼등 낮은데 반대 앞 막기](../audio/Techniques/Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.m4a)) est le **blocage bas avant inversé au revers du tranchant de la main en posture croisée** (*X-stance reverse ridge-hand low front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive rapide et sophistiquée utilise le revers du tranchant de la main (**Sonkal Dung**) pour dévier, balayer ou intercepter une frappe basse arrivant de face (**Najunde Ap Makgi** — comme un coup de pied direct *Ap Chagi* ou une tentative de saisie au bas-ventre). L'exécution en posture croisée (**Kyocha Sogi**) offre un changement d'angle et une esquive instantanés, tandis que l'indication **Bandae** (inversé) précise que le blocage est réalisé avec la main située **du côté de la jambe arrière** (opposée à la jambe porteuse avant).
 
 Sa décomposition linguistique est la suivante :
 
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture croisée (*X-stance* — une jambe croisée devant l'autre, talon arrière décollé, poids porté quasi-intégralement sur la jambe avant).
-* **Sonkal Dung (손칼등) :** Revers du tranchant de la main (*Ridge-hand* — la zone osseuse située du côté du pouce, pouce fléchi et replié fermement dans la paume).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière / opposée à la jambe porteuse).
-* **Ap (앞) :** Avant / Frontal (*Front*).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture croisée (*X-stance* — une jambe croisée devant l'autre, talon arrière décollé, poids porté quasi-intégralement sur la jambe avant).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Ridge-hand* — la zone osseuse située du côté du pouce, pouce fléchi et replié fermement dans la paume).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière / opposée à la jambe porteuse).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

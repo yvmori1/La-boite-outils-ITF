@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [쌍손칼 막기](../audio/makgi/sang-sonkal-makgi.m4a)
 
-Le **Sang Sonkal Makgi** (쌍손칼 막기) est le **blocage double du tranchant de la main** (*Twin knife-hand block* ou *Knife-hand guarding block*) en TaeKwon-Do ITF.
+Le **Sang Sonkal Makgi** ([쌍손칼 막기](../audio/makgi/sang-sonkal-makgi.m4a)) est le **blocage double du tranchant de la main** (*Twin knife-hand block* ou *Knife-hand guarding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **Sang (쌍) :** Double / Pair / Jumeau.
-* **Sonkal (손칼) :** Tranchant externe de la main (*Son* = main, *Kal* = couteau).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant externe de la main (*Son* = main, *Kal* = couteau).
 * **Makgi (막기) :** Blocage / Défense.
 
 C'est l'un des blocages à mains ouvertes les plus fondamentaux et les plus élégants du TaeKwon-Do ITF. Contrairement à un blocage à poing fermé, l'utilisation des mains ouvertes permet d'absorber l'impact tout en restant prêt à **saisir**, **dévier** ou **riposter instantanément**.

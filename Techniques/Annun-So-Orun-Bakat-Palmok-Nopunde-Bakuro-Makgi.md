@@ -1,17 +1,17 @@
 # Annun So Orun Bakat Palmok Nopunde Bakuro Makgi
 
-> 🔊 **Prononciation :** [앉은 서 오른 바깥팔목 높운데 바깥으로 막기](../audio/Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 오른 바깥팔목 높은데 바깥으로 막기](../audio/Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.m4a)
 
-Le **Annun So Orun Bakat Palmok Nopunde Bakuro Makgi** (앉은 서 오른 바깥팔목 높운데 바깥으로 막기) est le **blocage haut droit vers l'extérieur avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance right outer forearm high outward block*) en TaeKwon-Do ITF.
+Le **Annun So Orun Bakat Palmok Nopunde Bakuro Makgi** (앉은 서 오른 바깥팔목 높은데 바깥으로 막기) est le **blocage haut droit vers l'extérieur avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance right outer forearm high outward block*) en TaeKwon-Do ITF.
 
 Contrairement au blocage frontal (*Ap Makgi*) qui monte en ligne droite sur l'axe central, cette technique effectue un balayage de l'intérieur vers l'extérieur (*Bakuro*) à hauteur du visage pour dévier les attaques hautes venant du côté ou en trajectoire circulaire.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Bakat Palmok (바깥팔목) :** Avant-bras extérieur (côté petit doigt / ulna).
-* **Nopunde (높운데) :** Niveau haut (hauteur des yeux / tempe).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras extérieur (côté petit doigt / ulna).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur des yeux / tempe).
 * **Bakuro (바깥으로) :** Vers l'extérieur (*Outward*).
 * **Makgi (막기) :** Blocage (*Block*).
 

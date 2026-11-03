@@ -1,12 +1,12 @@
 # Blocage soulevé (Chookyo Makgi)
 
-> 🔊 **Prononciation :** [추교 막기](../audio/makgi/chookyo-makgi.m4a)
+> 🔊 **Prononciation :** [추켜 막기](../audio/makgi/chookyo-makgi.m4a)
 
-Le **Chookyo Makgi** (추교 막기 — parfois retranscrit *Chukyo Makgi*) est le **blocage ascendant / blocage en remontant** (*Rising block*) en TaeKwon-Do ITF.
+Le **Chookyo Makgi** (추켜 막기 — parfois retranscrit *Chukyo Makgi*) est le **blocage ascendant / blocage en remontant** (*Rising block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Chookyo (추교) :** Élévation, monter, relever vers le haut (*Rising*).
+* **Chookyo (추켜) :** Élévation, monter, relever vers le haut (*Rising*).
 * **Makgi (막기) :** Blocage / Défense.
 
 Le **Chookyo Makgi** est la réponse défensive de référence contre toutes les frappes venant du haut vers le bas (coups de poing hauts au visage, attaques en marteau *Dung Joomuk*, tranches descendantes *Sonkal* ou coups de pied descendants *An Chagi / Bakat Chagi*).

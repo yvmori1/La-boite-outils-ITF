@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [밖으로 세워 차기](../audio/Techniques/Bakuro-Sewo-Chagi.m4a)
 
-Le **Bakuro Sewo Chagi** (밖으로 세워 차기) est le **coup de poing-pied / coup de pied vertical vers l'extérieur** (*Outward vertical kick*) en TaeKwon-Do ITF.
+Le **Bakuro Sewo Chagi** ([밖으로 세워 차기](../audio/Techniques/Bakuro-Sewo-Chagi.m4a)) est le **coup de poing-pied / coup de pied vertical vers l'extérieur** (*Outward vertical kick*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque spectaculaire et tranchante projette la jambe verticalement le long de l'axe central, le pied étant maintenu strictement à la verticale (*Sewo*), avant de balayer la cible de l'intérieur vers l'extérieur (*Bakuro*). Elle vise principalement les zones sensibles du visage ou de la mâchoire, ou sert à faire sauter la garde de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
-* **Bakuro (밖으로) :** Vers l'extérieur (mouvement mené du centre vers l'extérieur).
+* **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (mouvement mené du centre vers l'extérieur).
 * **Sewo / Seweo (세워) :** Vertical / Dressé (du verbe *Seowoda* [세우다], dresser / maintenir droit).
 * **Chagi (차기) :** Coup de pied (*Kick*).
 

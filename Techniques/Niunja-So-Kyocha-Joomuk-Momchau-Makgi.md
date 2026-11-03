@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 교차 주먹 멈춰 막기](../audio/Techniques/Niunja-So-Kyocha-Joomuk-Momchau-Makgi.m4a)
 
-Le **Niunja So Kyocha Joomuk Momchau Makgi** (ㄴ자 서 교차 주먹 멈춰 막기) est le **blocage d'arrêt croisé avec les poings fermés en posture en L** (*L-stance X-fist checking / stop block*) en TaeKwon-Do ITF.
+Le **Niunja So Kyocha Joomuk Momchau Makgi** ([ㄴ자 서 교차 주먹 멈춰 막기](../audio/Techniques/Niunja-So-Kyocha-Joomuk-Momchau-Makgi.m4a)) est le **blocage d'arrêt croisé avec les poings fermés en posture en L** (*L-stance X-fist checking / stop block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le croisement rigide des deux poings fermés (**Kyocha Joomuk**) pour intercepter et stopper net (**Momchau**) une attaque puissante (comme un coup de pied direct *Ap Chagi*, un coup de genou ou une frappe descendante) au moment précis de son extension, tout en maintenant le buste protégé et en retrait grâce à la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Kyocha (교차) :** Croisé / En X (*X-shape / Cross*).
-* **Joomuk (주먹) :** Poing fermé (*Fist*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
 * **Momchau (멈춰) :** Arrêt net / Stopper / Bloquer l'impulsion (*Checking / Stop*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 

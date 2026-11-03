@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [걷는 서 등 주먹 앞 때리기](../audio/Techniques/Gunnun-Do-Dung-Joomuk-Ap-Taerigi.m4a)
 
-Le **Gunnun So Dung Joomuk Ap Taerigi** (걷는 서 등 주먹 앞 때리기) est le **coup cinglant frontal avec le revers du poing en posture de marche** (*Walking stance backfist front strike*) en TaeKwon-Do ITF.
+Le **Gunnun So Dung Joomuk Ap Taerigi** ([걷는 서 등 주먹 앞 때리기](../audio/Techniques/Gunnun-Do-Dung-Joomuk-Ap-Taerigi.m4a)) est le **coup cinglant frontal avec le revers du poing en posture de marche** (*Walking stance backfist front strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et fouettée utilise le dos / revers du poing (**Dung Joomuk**) pour frapper de face (**Ap**) une cible haute ou moyenne (arête du nez, philtrum, menton ou tempes).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
 * **Dung Joomuk (등 주먹) :** Revers du poing / Dos du poing (*Backfist*).
-* **Ap (앞) :** Frontal / Vers l'avant (*Front*).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Vers l'avant (*Front*).
 * **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---

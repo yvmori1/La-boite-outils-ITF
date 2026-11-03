@@ -593,7 +593,7 @@ L'efficacité du transfert d'énergie cinétique à l'impact et la sécurité ar
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) — Tranchant externe de la main :** Bord extérieur de la main ouverte, s'étendant de la base du petit doigt jusqu'au poignet. Utilisé pour bloquer (*Sonkal Makgi*) ou frapper (*Sonkal Taerigi*).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) — Tranchant interne de la main :** Bord intérieur de la main ouverte, du côté de l'index (le pouce étant replié vers l'intérieur). Utilisé pour des attaques circulaires ou des déviations.
 * **Sun Sonkut ([선손끝](../audio/grammaire/Sun-Sonkut.m4a)) — Pique de main verticale :** Bout des trois doigts médians (index, majeur, annulaire) alignés, la main étant tenue verticalement. Idéal pour percer la gorge ou le plexus (*Sonkut Tulgi*).
-* **Opun Sonkut ([오픈손끝](../audio/grammaire/Opun-Sonkut.m4a)) — Pique de main horizontale paume bas :** Bout des doigts alignés, paume tournée vers le sol.
+* **Opun Sonkut ([엎은손끝](../audio/grammaire/Opun-Sonkut.m4a)) — Pique de main horizontale paume bas :** Bout des doigts alignés, paume tournée vers le sol.
 * **Dwijibun Sonkut ([뒤집은손끝](../audio/grammaire/Dwijibun-Sonkut.m4a)) — Pique de main horizontale paume haut :** Bout des doigts alignés, paume tournée vers le haut (vise le bas-ventre ou les aisselles).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) — Paume :** Surface plane intérieure de la main ouverte. Utilisée pour les déviations ou amortissements d'attaques.
 * **Bandalson ([반달손](../audio/grammaire/Bandalson.m4a)) — Gueule du tigre / Main en arc :** Zone semi-circulaire située entre le pouce et l'index, utilisée pour frapper la trachée.
@@ -610,7 +610,7 @@ L'efficacité du transfert d'énergie cinétique à l'impact et la sécurité ar
 #### Membres inférieurs : pieds, chevilles, genoux
 
 * **Apkumchi ([앞꿈치](../audio/grammaire/Apkumchi.m4a)) — Bol du pied :** Coussinet charnu situé sous la base des orteils. Exige une flexion dorsale maximale de la cheville et des orteils pour éviter les fractures. Utilisé pour les coups fouettés de face (*Ap Cha Busigi*).
-* **Dwitchuk ([뒤축](../audio/chagi/dwit-chagi.m4a)) — Base / Dessous du talon :** Partie inférieure et plate de l'os du talon. Utilisé pour les poussées ou coups de côté en puissance (*Yop Cha Jirugi*).
+* **Dwitchuk ([뒤축](../audio/termes/뒤축.m4a)) — Base / Dessous du talon :** Partie inférieure et plate de l'os du talon. Utilisé pour les poussées ou coups de côté en puissance (*Yop Cha Jirugi*).
 * **Dwikumchi ([뒤꿈치](../audio/grammaire/Dwikumchi.m4a)) — Arrière du talon :** Face postérieure verticale du talon. Utilisé pour les coups directs vers l'arrière (*Dwit Chagi*).
 * **Balkal ([발칼](../audio/grammaire/Balkal.m4a)) — Tranchant externe du pied :** Bord extérieur du pied s'étendant du petit orteil jusqu'au talon, cheville verrouillée à 90°. C'est l'arme de destruction absolue pour le coup de pied latéral perçant (*Yop Cha Jirugi*).
 * **Balkal Anchae ([발칼안채](../audio/grammaire/Balkal-Anchae.m4a)) — Tranchant interne du pied :** Bord intérieur de la voûte plantaire, utilisé pour crocheter ou faucher (*Suroh Chagi*).
@@ -989,7 +989,7 @@ Les déplacements décrivent la manière dont le pratiquant ajuste sa distance e
 #### 3. Les Piques de Précision (Tulgi)
 
 * **Sun Sonkut Tulgi ([선손끝뚫기](../audio/grammaire/Sun-Sonkut-Tulgi.m4a)) :** Pique des doigts verticale au plexus.
-* **Opun Sonkut Tulgi ([오픈손끝뚫기](../audio/grammaire/Opun-Sonkut-Tulgi.m4a)) :** Pique des doigts horizontale, paume vers le bas.
+* **Opun Sonkut Tulgi ([엎은손끝뚫기](../audio/grammaire/Opun-Sonkut-Tulgi.m4a)) :** Pique des doigts horizontale, paume vers le bas.
 * **Dwijibun Sonkut Tulgi ([뒤집은손끝뚫기](../audio/grammaire/Dwijibun-Sonkut-Tulgi.m4a)) :** Pique des doigts horizontale, paume vers le haut.
 
 #### 4. Les Blocages et Techniques Défensives (Makgi)
@@ -1646,14 +1646,14 @@ Français, anglais et coréen, avec la prononciation. Les positions figurent au 
 | Blocage dans les quatre directions   | four direction block      | Saju makgi            | [사주 막기](../audio/tul/saju-makgi.m4a)                      |
 | Blocage avant                        | front block               | Ap makgi              | [앞 막기](../audio/makgi/ap-makgi.m4a)                        |
 | Blocage avec saisie                  | grasping block            | Butjaba makgi         | [붙잡아 막기](../audio/makgi/butjaba-makgi.m4a)               |
-| Blocage haut latéral                 | high side block           | Nopunde yop makgi     | [높인데 옆 막기](../audio/makgi/nopunde-yop-makgi.m4a)        |
+| Blocage haut latéral                 | high side block           | Nopunde yop makgi     | [높은데 옆 막기](../audio/makgi/nopunde-yop-makgi.m4a)        |
 | Blocage crocheté                     | hooking palm block        | Golcho sonbadak makgi | [걸쳐 손바닥 막기](../audio/makgi/golcho-sonbadak-makgi.m4a)  |
 | Blocage de l'avant-bras interne      | inner forearm block       | An palmok makgi       | [안팔목 막기](../audio/makgi/an-palmok-makgi.m4a)             |
 | Blocage de l'intérieur               | inside block              | An makgi              | [안 막기](../audio/makgi/an-makgi.m4a)                        |
 | Blocage vers l'intérieur             | inward block              | Anuro makgi           | [안으로 막기](../audio/makgi/anuro-makgi.m4a)                 |
 | Défense avec tranchant de main       | knife hand guarding block | Sonkal daebi makgi    | [손칼 대비 막기](../audio/makgi/sonkal-daebi-makgi.m4a)       |
-| Blocage bas                          | low block                 | Najunde makgi         | [낮인데 막기](../audio/makgi/najunde-makgi.m4a)               |
-| Défense basse                        | low guarding block        | Najunde daebi makgi   | [낮인데 대비 막기](../audio/makgi/najunde-daebi-makgi.m4a)    |
+| Blocage bas                          | low block                 | Najunde makgi         | [낮은데 막기](../audio/makgi/najunde-makgi.m4a)               |
+| Défense basse                        | low guarding block        | Najunde daebi makgi   | [낮은데 대비 막기](../audio/makgi/najunde-daebi-makgi.m4a)    |
 | Blocage moyen                        | middle block              | Kaunde makgi          | [가운데 막기](../audio/makgi/kaunde-makgi.m4a)                |
 | Blocage en "9"                       | nine shape block          | Gutja makgi           | [ㄱ자 막기](../audio/makgi/gutja-makgi.m4a)                   |
 | Blocage même côté                    | obverse block             | Baro makgi            | [바로 막기](../audio/makgi/baro-makgi.m4a)                    |
@@ -1665,7 +1665,7 @@ Français, anglais et coréen, avec la prononciation. Les positions figurent au 
 | Blocage avec poussée                 | pushing block             | Miro makgi            | [미뤄 막기](../audio/makgi/miro-makgi.m4a)                    |
 | Blocage contraire                    | reverse block             | Bandae makgi          | [반대 막기](../audio/makgi/bandae-makgi.m4a)                  |
 | Blocage du tranchant de main inversé | reverse knife-hand block  | Sonkal dung makgi     | [손칼등 막기](../audio/makgi/sonkal-dung-makgi.m4a)           |
-| Blocage soulevé                      | rising block              | Chookyo makgi         | [추교 막기](../audio/makgi/chookyo-makgi.m4a)                 |
+| Blocage soulevé                      | rising block              | Chookyo makgi         | [추켜 막기](../audio/makgi/chookyo-makgi.m4a)                 |
 | Blocage "pelleté"                    | scooping block            | Duro makgi            | [들어 막기](../audio/lexique/Duro-makgi.m4a)                  |
 | Blocage latéral                      | side block                | Yop makgi             | [옆 막기](../audio/makgi/yop-makgi.m4a)                       |
 | Blocage avant de biais               | side front block          | Yobap makgi           | [옆앞 막기](../audio/lexique/Yobap-makgi.m4a)                 |

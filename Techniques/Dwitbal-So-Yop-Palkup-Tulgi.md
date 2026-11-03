@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [뒷발 서 옆 팔굽 찌르기](../audio/Techniques/Dwitbal-So-Yop-Palkup-Tulgi.m4a)
 
-Le **Dwitbal So Yop Palkup Tulgi** (뒷발 서 옆 팔굽 찌르기) est la **pique latérale du coude en posture du pied arrière** (*Rear foot stance side elbow thrust*) en TaeKwon-Do ITF.
+Le **Dwitbal So Yop Palkup Tulgi** ([뒷발 서 옆 팔굽 찌르기](../audio/Techniques/Dwitbal-So-Yop-Palkup-Tulgi.m4a)) est la **pique latérale du coude en posture du pied arrière** (*Rear foot stance side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque dévastatrice à très courte distance utilise la pointe osseuse du coude (*Palkup*) pour exécuter une poussée rectiligne en piston (*Tulgi*) vers le côté à 90° (*Yop*). Elle permet d'impacter violemment les côtes, le plexus ou la mâchoire d'un adversaire situé sur votre flanc, tout en conservant une protection maximale grâce au recul du corps sur la jambe arrière (*Dwitbal Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Yop (옆) :** Latéral / Sur le côté à 90° (*Side*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
-* **Tulgi (찌르기 / 뚫기) :** Pique / Transpercement direct en pression (*Thrust*).
+* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
+* **Tulgi (찌르기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Transpercement direct en pression (*Thrust*).
 
 ---
 

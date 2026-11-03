@@ -6,7 +6,7 @@ Coup de pied fouetté (*Busigi*) lancé avec la balle du pied, mais en diagonale
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
 * **Yobap (옆앞) :** Côté-avant (*Side front*).
 * **Cha Busigi (차 부시기) :** Coup de pied fouetté (*Snap kick*).
 

@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 팔목 낮은데 옆 막기](../audio/Techniques/Niunja-So-Palmok-Najunde-Yop-Makgi.m4a)
 
-Le **Niunja So Palmok Najunde Yop Makgi** (ㄴ자 서 팔목 낮은데 옆 막기) est le **blocage latéral bas à l'avant-bras en posture en L** (*L-stance forearm low side block*) en TaeKwon-Do ITF.
+Le **Niunja So Palmok Najunde Yop Makgi** ([ㄴ자 서 팔목 낮은데 옆 막기](../audio/Techniques/Niunja-So-Palmok-Najunde-Yop-Makgi.m4a)) est le **blocage latéral bas à l'avant-bras en posture en L** (*L-stance forearm low side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive utilise la surface osseuse de l'avant-bras (**Palmok**) pour dévier ou intercepter une attaque basse (coup de pied direct *Ap Chagi*, coup de pied circulaire bas ou frappe basse) arrivant sur le côté/flanc du pratiquant, tout en bénéficiant du profil réduit et de la stabilité en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — zone osseuse de blocage située près du poignet).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre et de la cuisse).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — zone osseuse de blocage située près du poignet).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre et de la cuisse).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

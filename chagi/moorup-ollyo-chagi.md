@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [무릎 올려차기](../audio/chagi/moorup-ollyo-chagi.m4a)
 
-Le **Moorup Ollyo Chagi** (무릎 올려차기) est le **coup de genou remontant** (ou *Knee upward kick*) en TaeKwon-Do ITF.
+Le **Moorup Ollyo Chagi** ([무릎 올려차기](../audio/chagi/moorup-ollyo-chagi.m4a)) est le **coup de genou remontant** (ou *Knee upward kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Moorup (무릎) :** Genou.
-* **Ollyo (올려) :** Montant / De bas en haut (du verbe *ollida*, monter).
+* **Moorup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou.
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / De bas en haut (du verbe *ollida*, monter).
 * **Chagi (차기) :** Coup de pied / Frappe de jambe.
 
 Alors que le *Moorup Apcha Busigi* possède une trajectoire fouettée orientée vers l'avant, le **Moorup Ollyo Chagi** privilégie une **trajectoire strictement verticale**, projetant la pointe du genou directement du sol vers le ciel pour percuter les cibles situées directement au-dessus du niveau de départ.
@@ -16,7 +16,7 @@ Alors que le *Moorup Apcha Busigi* possède une trajectoire fouettée orientée 
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Moorup / Rotule (무릎) :** L'impact s'effectue avec le haut de la rotule et la partie supérieure de la crête tibiale.
+* **Moorup / Rotule ([무릎](../audio/grammaire/Murup.m4a)) :** L'impact s'effectue avec le haut de la rotule et la partie supérieure de la crête tibiale.
 * **Les cibles privilégiées :**
 * **Sous le menton / La mâchoire :** Lorsque la tête de l'adversaire est penchée en avant ou tirée vers le bas.
 * **Le plexus solaire / La poitrine :** En poussée verticale à très courte distance.

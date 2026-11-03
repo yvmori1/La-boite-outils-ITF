@@ -6,11 +6,11 @@ Le tranchant de la main (**Sonkal**) frappe de l'extérieur vers l'intérieur, �
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand*).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Anuro (안으로) :** Vers l'intérieur (*Inward*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (*Inward*).
 * **Taerigi (때리기) :** Frappe (*Strike*).
 
 ---

@@ -1,16 +1,16 @@
 # Annun So Sonkal Najunde B-Bang Daebi Makgi
 
-> 🔊 **Prononciation :** [앉은 서 손칼 낮운데](../audio/Techniques/Annun-So-Sonkal-Najunde-B-Bang-Daebi-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 손칼 낮은데](../audio/Techniques/Annun-So-Sonkal-Najunde-B-Bang-Daebi-Makgi.m4a)
 
-Le **Annun So Sonkal Najunde B-Bang Daebi Makgi** (앉은 서 손칼 낮운데 B방/ㅂ자 대비 막기) est le **blocage de garde bas en forme de "B" au tranchant de la main en posture du cavalier** (*Sitting stance knife-hand low B-shape guarding block*) en TaeKwon-Do ITF.
+Le **Annun So Sonkal Najunde B-Bang Daebi Makgi** (앉은 서 손칼 낮은데 B방/ㅂ자 대비 막기) est le **blocage de garde bas en forme de "B" au tranchant de la main en posture du cavalier** (*Sitting stance knife-hand low B-shape guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le tranchant extérieur des deux mains ouvertes (*Sonkal*) pour constituer une structure de garde encadrée en forme de **"B"** (associée à la silhouette de la lettre coréenne **ㅂ**), assurant une protection renforcée du bas-ventre et du flanc contre des attaques descendantes ou obliques.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — côté extérieur/auriculaire).
-* **Najunde (낮운데) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — côté extérieur/auriculaire).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
 * **B-Bang / B-shape (B방 / ㅂ자) :** En forme de "B" / cadre encadré en "B" (forme du *Pieup* coréen **ㅂ**).
 * **Daebi Makgi (대비 막기) :** Blocage de garde / protection synergique des deux mains (*Guarding block*).
 

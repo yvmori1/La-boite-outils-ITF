@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [돌려 걸어 차기](../audio/chagi/dollyo-goro-chagi.m4a)
 
-Le **Dollyo Goro Chagi** (돌려 걸어 차기) est le **coup de pied crocheté** (ou *Turning hooking kick*) en TaeKwon-Do ITF.
+Le **Dollyo Goro Chagi** ([돌려 걸어 차기](../audio/chagi/dollyo-goro-chagi.m4a)) est le **coup de pied crocheté** (ou *Turning hooking kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dollyo (돌려) :** Tournant / Circulaire.
-* **Goro (걸어) :** Crocheté / Accrocher (du verbe *geolda*, 걸다).
+* **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Tournant / Circulaire.
+* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, 걸다).
 * **Chagi (차기) :** Coup de pied.
 
 Cette technique consiste à faire passer la jambe au-delà de la ligne de vision de l'adversaire avant de **crocheter brutalement le genou vers l'intérieur** dans un mouvement de fouet pour impacter le visage, la tempe ou le menton avec le talon.
@@ -16,8 +16,8 @@ Cette technique consiste à faire passer la jambe au-delà de la ligne de vision
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Dwitchuk (dessous / arrière du talon - 뒤축) :** C'est l'arme privilégiée. Le talon percute la cible avec toute la force de rétraction de la jambe.
-* **Balbadak (plante du pied - 발바닥) :** Utilisée parfois en compétition pour effectuer une frappe plus large et contrôlée au casque.
+* **Dwitchuk (dessous / arrière du talon - [뒤축](../audio/termes/뒤축.m4a)) :** C'est l'arme privilégiée. Le talon percute la cible avec toute la force de rétraction de la jambe.
+* **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** Utilisée parfois en compétition pour effectuer une frappe plus large et contrôlée au casque.
 * **Position de la cheville :** La cheville est fermement verrouillée en flexion, les orteils tirés vers soi pour dégager la masse osseuse du talon.
 
 ---

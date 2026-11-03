@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손등 반대 내려 때리기](../audio/Techniques/Niunja-So-Sondung-Bandae-Naeryo-Taerigi.m4a)
 
-Le **Niunja So Sondung Bandae Naeryo Taerigi** (ㄴ자 서 손등 반대 내려 때리기) est le **coup cinglant descendat inversé avec le dos de la main en posture en L** (*L-stance reverse back-hand downward strike*) en TaeKwon-Do ITF.
+Le **Niunja So Sondung Bandae Naeryo Taerigi** ([ㄴ자 서 손등 반대 내려 때리기](../audio/Techniques/Niunja-So-Sondung-Bandae-Naeryo-Taerigi.m4a)) est le **coup cinglant descendat inversé avec le dos de la main en posture en L** (*L-stance reverse back-hand downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque percutante utilise la surface du dos de la main ouverte (**Sondung**) dans une trajectoire verticale du haut vers le bas (**Naeryo**) pour impacter des cibles sensibles situées au niveau haut ou moyen (comme la cloche de l'épaule, la clavicule, le nez ou la tête de l'adversaire). L'indication **Bandae** (inversée) indique que la frappe est exécutée par le bras **du côté de la jambe avant** (opposé à la jambe arrière qui définit la posture).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Sondung (손등) :** Dos / Revers de la main (*Back hand* — la surface dorsale de la main ouverte).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
 * **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [피하며 반대 돌려 차기](../audio/Techniques/Pihamyo-Bandae-Dollyo-Chagi.m4a)
 
-Le **Pihamyo Bandae Dollyo Chagi** (피하며 반대 돌려 차기) est une technique de contre-attaque acrobatique et dévastatrice du Taekwon-Do (ITF).
+Le **Pihamyo Bandae Dollyo Chagi** ([피하며 반대 돌려 차기](../audio/Techniques/Pihamyo-Bandae-Dollyo-Chagi.m4a)) est une technique de contre-attaque acrobatique et dévastatrice du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied retourné circulaire en esquivant**.
 
@@ -13,8 +13,8 @@ Elle se traduit par : **Coup de pied retourné circulaire en esquivant**.
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Pihamyo** | 피하며 | En esquivant / évitant | Action de décaler ou pencher le corps pour esquiver l'attaque adverse tout en lançant la frappe. |
-| **Bandae** | 반대 | Inverse / Retourné | Indique la rotation inversée du corps (rotation par le dos). |
-| **Dollyo** | 돌려 | Circulaire / Tournant | Trajectoire en arc de cercle de la jambe de frappe. |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inverse / Retourné | Indique la rotation inversée du corps (rotation par le dos). |
+| **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire / Tournant | Trajectoire en arc de cercle de la jambe de frappe. |
 | **Chagi** | 차기 | Coup de pied | Technique d'attaque exécutée avec la jambe. |
 
 ---

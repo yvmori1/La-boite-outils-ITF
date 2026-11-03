@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [뛰어 넘어 차기](../audio/chagi/twio-nomo-chagi.m4a)
 
-Le **Twio Nomo Chagi** (뛰어 넘어 차기 — parfois retranscrit *Twio normo chagi* ou *Twimyo nomo chagi*) est le **coup de pied sauté par-dessus un obstacle** (ou *Flying kick over an obstacle* / *Overhead kick*) en TaeKwon-Do ITF.
+Le **Twio Nomo Chagi** ([뛰어 넘어 차기](../audio/chagi/twio-nomo-chagi.m4a) — parfois retranscrit *Twio normo chagi* ou *Twimyo nomo chagi*) est le **coup de pied sauté par-dessus un obstacle** (ou *Flying kick over an obstacle* / *Overhead kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Twio (뛰어) :** En sautant / Volant (du verbe *twida*, sauter).
+* **Twio ([뛰어](../audio/grammaire/Twio.m4a)) :** En sautant / Volant (du verbe *twida*, sauter).
 * **Nomo / Normo (넘어) :** Par-dessus / Franchir (du verbe *neomda*, 넘다 = franchir, passer par-dessus un obstacle).
 * **Chagi (차기) :** Coup de pied.
 
@@ -18,8 +18,8 @@ Cette technique combine une course d'élan, une trajectoire en parabole (hauteur
 
 Bien que le *Twio Nomo Chagi* puisse s'exécuter avec différentes frappes, sa variante la plus classique est le **Twio Nomo Yopcha Jirugi** (coup de pied latéral sauté par-dessus obstacle) :
 
-* **Balkal (chant externe du pied - 발칼) :** L'arme naturelle privilégiée pour trancher et impacter avec puissance.
-* **Apkumchi (bol du pied - 앞꿈치) :** Utilisé s'il s'agit d'un coup de pied avant sauté par-dessus obstacle (*Twio Nomo Ap Chagi*).
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** L'arme naturelle privilégiée pour trancher et impacter avec puissance.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Utilisé s'il s'agit d'un coup de pied avant sauté par-dessus obstacle (*Twio Nomo Ap Chagi*).
 
 ---
 

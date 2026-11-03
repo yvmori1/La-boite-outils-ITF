@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼 높은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Nopunde-Daebi-Makgi.m4a)
 
-Le **Niunja So Sonkal Nopunde Daebi Makgi** (ㄴ자 서 손칼 높은데 대비 막기) est l'une des techniques défensives les plus emblématiques, élégantes et fondamentales du Taekwon-Do (ITF).
+Le **Niunja So Sonkal Nopunde Daebi Makgi** ([ㄴ자 서 손칼 높은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Nopunde-Daebi-Makgi.m4a)) est l'une des techniques défensives les plus emblématiques, élégantes et fondamentales du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage de garde haut au tranchant de la main en position en L** (*High Knife-Hand Guarding Block in L-Stance*).
 
@@ -12,9 +12,9 @@ Elle se traduit par : **Blocage de garde haut au tranchant de la main en positio
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Niunja So (Sogi)** | ㄴ자 서기 | Position en L (*L-Stance*) | Posture défensive (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
-| **Sonkal** | 손칼 | Tranchant de la main | Surface de blocage (le bord extérieur de la main ouverte, du petit doigt au poignet). |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur d'exécution de la main principale (au niveau des yeux / de la tête). |
+| **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture défensive (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
+| **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Surface de blocage (le bord extérieur de la main ouverte, du petit doigt au poignet). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur d'exécution de la main principale (au niveau des yeux / de la tête). |
 | **Daebi** | 대비 | Garde / Protection | Action combinée des deux mains formant un bouclier coordonné. |
 | **Makgi** | 막기 | Blocage / Défense | Action de dévier, neutraliser ou stopper une attaque. |
 

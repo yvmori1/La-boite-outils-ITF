@@ -4,9 +4,9 @@ Fiches détaillées des attaques portées avec le haut du corps : poings, mains 
 
 Trois natures d'action se distinguent dans les noms :
 
-* **Jirugi (지르기)** — poussée perçante et rectiligne, effet piston, hanches profondément engagées.
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a))** — poussée perçante et rectiligne, effet piston, hanches profondément engagées.
 * **Taerigi (때리기)** — frappe cinglante ou fouettée, obtenue par la vitesse d'extrémité.
-* **Tulgi (툴기)** — pique pénétrante dans une ouverture étroite.
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a))** — pique pénétrante dans une ouverture étroite.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [높은데 옆차 지르기](../audio/Techniques/Nopunde-Yopcha-Jirugi.m4a)
 
-Le **Nopunde Yopcha Jirugi** (높은데 옆차 지르기) est l'une des techniques les plus esthétiques, rigides et tranchantes du Taekwon-Do (ITF).
+Le **Nopunde Yopcha Jirugi** ([높은데 옆차 지르기](../audio/Techniques/Nopunde-Yopcha-Jirugi.m4a)) est l'une des techniques les plus esthétiques, rigides et tranchantes du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied latéral perçant au niveau haut** (*High Side Piercing Kick*).
 
@@ -10,9 +10,9 @@ Elle se traduit par : **Coup de pied latéral perçant au niveau haut** (*High S
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (tempe, mâchoire, visage). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (tempe, mâchoire, visage). |
 | **Yopcha** | 옆차 | Coup de pied latéral | Trajectoire d'attaque portée vers le côté du corps. |
-| **Jirugi** | 지르기 | Perçant / Coup direct | Poussée rectiligne et transperçante. |
+| **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Perçant / Coup direct | Poussée rectiligne et transperçante. |
 
 ## 2. Exécution et principes biomécaniques
 

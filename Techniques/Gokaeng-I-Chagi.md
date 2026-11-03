@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)
 
-Le **Gokaeng-I Chagi** (곡괭이 차기) (souvent retranscrit *Gwaengi Chagi* — 괭이 차기 / 곡괭이 차기) est le **coup de pied en pioche** (*Pick-ax kick*) en TaeKwon-Do ITF.
+Le **Gokaeng-I Chagi** ([곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)) (souvent retranscrit *Gwaengi Chagi* — 괭이 차기 / [곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)) est le **coup de pied en pioche** (*Pick-ax kick*) en TaeKwon-Do ITF.
 
 Cette technique offensive spectaculaire et déstabilisante consiste à monter le genou fortement fléchi au-dessus ou sur le côté de la garde adverse, puis à abattre le talon (*Dwitkumchi*) vers le bas et vers soi dans un mouvement foudroyant de crochet descendant, mimant le geste d'une pioche qui vient s'enfoncer dans le sol.
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [호미 손끝 찌르기](../audio/jirugi/homi-sunkut-tulgi.m4a)
 
-Le **Homi Sonkut Tulgi** (호미 손끝 찌르기) est la **pique d'angle des extrémités des doigts** (*Angle fingertip thrust* ou *Hoe fingertip thrust*) en TaeKwon-Do ITF.
+Le **Homi Sonkut Tulgi** ([호미 손끝 찌르기](../audio/jirugi/homi-sunkut-tulgi.m4a)) est la **pique d'angle des extrémités des doigts** (*Angle fingertip thrust* ou *Hoe fingertip thrust*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 

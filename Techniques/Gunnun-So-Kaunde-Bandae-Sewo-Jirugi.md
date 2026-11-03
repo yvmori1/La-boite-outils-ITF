@@ -6,11 +6,11 @@ Coup de poing direct dont le poing arrive **vertical** (**Sewo**, dressé), pouc
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Sewo (세워) :** Vertical / dressé (*Vertical*).
-* **Jirugi (지르기) :** Coup de poing (*Punch*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [돌리며 막기](../audio/makgi/dollimyo-makgi.m4a)
 
-Le **Dollimyo Makgi** (돌리며 막기) est le **blocage circulaire / blocage en cuillère** (*Scooping block* ou *Circular block*) en TaeKwon-Do ITF.
+Le **Dollimyo Makgi** ([돌리며 막기](../audio/makgi/dollimyo-makgi.m4a)) est le **blocage circulaire / blocage en cuillère** (*Scooping block* ou *Circular block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
@@ -17,8 +17,8 @@ Ce blocage se distingue par sa **trajectoire circulaire continue et enveloppante
 
 Selon la variante et la cible interceptée, le *Dollimyo Makgi* s'exécute principalement avec deux armes naturelles :
 
-* **Sonbadak (paume de la main - 손바닥) :** Utilisé pour la version en cuillère (*Sonbadak Dollimyo Makgi*), idéal pour cueillir le dessous d'un pied ou d'une cheville.
-* **An Palmok (tranchant interne de l'avant-bras - 안팔목) :** Utilisé pour la version circulaire (*An Palmok Dollimyo Makgi*), permettant de dévier de grosses frappes (coups de poing ou coups de pied moyens).
+* **Sonbadak (paume de la main - [손바닥](../audio/grammaire/Sonbadak.m4a)) :** Utilisé pour la version en cuillère (*Sonbadak Dollimyo Makgi*), idéal pour cueillir le dessous d'un pied ou d'une cheville.
+* **An Palmok (tranchant interne de l'avant-bras - [안팔목](../audio/grammaire/An-Palmok.m4a)) :** Utilisé pour la version circulaire (*An Palmok Dollimyo Makgi*), permettant de dévier de grosses frappes (coups de poing ou coups de pied moyens).
 
 ---
 

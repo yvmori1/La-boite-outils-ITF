@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)
 
-Le **Dwitbal Sogi** (뒷발 서기), communément appelé la **posture du pied arrière** (*Rear foot stance*), est l'une des positions défensives et réactives les plus emblématiques et stratégiques du TaeKwon-Do ITF.
+Le **Dwitbal Sogi** ([뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)), communément appelé la **posture du pied arrière** (*Rear foot stance*), est l'une des positions défensives et réactives les plus emblématiques et stratégiques du TaeKwon-Do ITF.
 
 Cette posture offre une capacité d'esquive exceptionnelle par retrait de la masse corporelle, tout en maintenant une menace offensive constante grâce à la jambe avant totalement libérée de charge.
 

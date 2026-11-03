@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 교차 서 낮은데 반대 지르기](../audio/Techniques/Orun-Kyocha-So-Najunde-Bandae-Jirugi.m4a)
 
-Le **Orun Kyocha So Najunde Bandae Jirugi** (오른 교차 서 낮은데 반대 지르기) est une technique d'attaque directe, compacte et surprenante du Taekwon-Do (ITF).
+Le **Orun Kyocha So Najunde Bandae Jirugi** ([오른 교차 서 낮은데 반대 지르기](../audio/Techniques/Orun-Kyocha-So-Najunde-Bandae-Jirugi.m4a)) est une technique d'attaque directe, compacte et surprenante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de poing direct inversé au niveau bas en position croisée droite**.
 
@@ -12,11 +12,11 @@ Elle se traduit par : **Coup de poing direct inversé au niveau bas en position 
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
-| **Kyocha So (Sogi)** | 교차 서기 | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, les genoux étant fléchis et serrés pour verrouiller le bassin. |
-| **Najunde** | 낮은데 | Niveau bas | Hauteur de la cible (au niveau du bas-ventre, du nombril ou de l'aine). |
-| **Bandae** | 반대 | Inversé / Reverse | Signifie que la frappe est portée avec la main opposée au pied avant (ici, **main gauche**). |
-| **Jirugi** | 지르기 | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante avec les deux gros poings (*Ap Joomuk*). |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
+| **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, les genoux étant fléchis et serrés pour verrouiller le bassin. |
+| **Najunde** | [낮은데](../audio/grammaire/Najunde.m4a) | Niveau bas | Hauteur de la cible (au niveau du bas-ventre, du nombril ou de l'aine). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que la frappe est portée avec la main opposée au pied avant (ici, **main gauche**). |
+| **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante avec les deux gros poings (*Ap Joomuk*). |
 
 ---
 

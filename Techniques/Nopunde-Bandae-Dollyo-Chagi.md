@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [높은데 반대 돌려 차기](../audio/Techniques/Nopunde-Bandae-Dollyo-Chagi.m4a)
 
-Le **Nopunde Bandae Dollyo Chagi** (높은데 반대 돌려 차기) est une technique d'attaque circulaire inversée, dévastatrice et spectaculaire.
+Le **Nopunde Bandae Dollyo Chagi** ([높은데 반대 돌려 차기](../audio/Techniques/Nopunde-Bandae-Dollyo-Chagi.m4a)) est une technique d'attaque circulaire inversée, dévastatrice et spectaculaire.
 
 Elle se traduit par : **Coup de pied circulaire inversé au niveau haut** (*High Reverse Turning Kick*).
 
@@ -10,9 +10,9 @@ Elle se traduit par : **Coup de pied circulaire inversé au niveau haut** (*High
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (visage, tempe, mâchoire). |
-| **Bandae** | 반대 | Inversé / Sens opposé | Indique la rotation du corps en sens inverse de la jambe de frappe. |
-| **Dollyo** | 돌려 | Circulaire / Tournant | Trajectoire courbe de l'attaque. |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (visage, tempe, mâchoire). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Sens opposé | Indique la rotation du corps en sens inverse de la jambe de frappe. |
+| **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire / Tournant | Trajectoire courbe de l'attaque. |
 | **Chagi** | 차기 | Coup de pied | Technique d'attaque exécutée avec la jambe. |
 
 ## 2. Exécution et principes biomécaniques

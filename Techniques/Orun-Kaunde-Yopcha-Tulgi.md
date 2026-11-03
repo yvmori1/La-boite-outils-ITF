@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 가운데 옆차 찌르기](../audio/Techniques/Orun-Kaunde-Yopcha-Tulgi.m4a)
 
-Le **Orun Kaunde Yopcha Tulgi** (오른 가운데 옆차 찌르기) est une technique d'attaque directe, pénétrante et puissante des membres inférieurs du Taekwon-Do (ITF).
+Le **Orun Kaunde Yopcha Tulgi** ([오른 가운데 옆차 찌르기](../audio/Techniques/Orun-Kaunde-Yopcha-Tulgi.m4a)) est une technique d'attaque directe, pénétrante et puissante des membres inférieurs du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied latéral perforant / poussé du pied droit au niveau moyen**.
 
@@ -12,8 +12,8 @@ Elle se traduit par : **Coup de pied latéral perforant / poussé du pied droit 
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique que la frappe est exécutée avec la jambe droite. |
-| **Kaunde** | 가운데 | Niveau moyen | Hauteur de la cible (au niveau du plexus solaire, du thorax ou de l'abdomen). |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique que la frappe est exécutée avec la jambe droite. |
+| **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur de la cible (au niveau du plexus solaire, du thorax ou de l'abdomen). |
 | **Yopcha** | 옆차 | Coup de pied latéral | Trajectoire d'attaque de côté (*Yop* = côté, *Cha* = coup de pied). |
 | **Tulgi** | 찌르기 | Pique / Poussée rectiligne | Mouvement de perforation/poussée directe (effet baïonnette / transperçant). |
 

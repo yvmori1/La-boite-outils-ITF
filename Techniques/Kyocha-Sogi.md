@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)
 
-Le **Kyocha Sogi** (교차 서기) est la **posture croisée** (*X-stance*) en TaeKwon-Do ITF.
+Le **Kyocha Sogi** ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) est la **posture croisée** (*X-stance*) en TaeKwon-Do ITF.
 
 C'est une posture dynamique, hautement mobile et compacte, principalement utilisée pour effectuer des transitions rapides, des esquives latérales, des sauts ou des changements d'axe brusques tout en maintenant une capacité de blocage ou de frappe immédiate.
 

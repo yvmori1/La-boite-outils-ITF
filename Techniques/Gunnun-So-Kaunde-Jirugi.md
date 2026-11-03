@@ -1,20 +1,20 @@
 # Gunnun So Kaunde Jirugi
 
-> 🔊 **Prononciation :** [건눈 서 가운데 지르기](../audio/Techniques/Gunnun-So-Kaunde-Jirugi.m4a)
+> 🔊 **Prononciation :** [걷는 서 가운데 지르기](../audio/Techniques/Gunnun-So-Kaunde-Jirugi.m4a)
 
-Le **Gunnun So Kaunde Jirugi** (건눈 서 가운데 지르기 — plus communément orthographié **Gunnun Sogi Kaujunde Jirugi**) est le **coup de poing direct au niveau moyen en posture de marche** en TaeKwon-Do ITF.
+Le **Gunnun So Kaunde Jirugi** (걷는 서 가운데 지르기 — plus communément orthographié **Gunnun Sogi Kaujunde Jirugi**) est le **coup de poing direct au niveau moyen en posture de marche** en TaeKwon-Do ITF.
 
 C'est la **technique d'attaque fondamentale par excellence**, enseignée dès la ceinture blanche (10ᵉ Keup) et formant la colonne vertébrale des premières formes (*Tul*).
 
 Analyse linguistique :
 
-* **Gunnun So / Sogi (건눈 서기) :** Posture de marche (*Walking stance*).
-* **Kaunde / Kaujunde (가운데) :** Niveau moyen (*Middle level* — ciblant le thorax/plexus).
-* **Jirugi (지르기) :** Coup de poing direct / percussion perçante (*Punch*).
+* **Gunnun So / Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance*).
+* **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — ciblant le thorax/plexus).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / percussion perçante (*Punch*).
 
 ---
 
-## 1. La posture de base : *Gunnun Sogi* (건눈 서기)
+## 1. La posture de base : *Gunnun Sogi* ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a))
 
 Un coup de poing puissant nécessite une assise parfaite. La posture *Gunnun Sogi* se caractérise par :
 

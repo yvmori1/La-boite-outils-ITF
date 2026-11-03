@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 ㄷ자 잡기](../audio/Techniques/Niunja-So-Digutja-Japgi.m4a)
 
-Le **Niunja So Digutja Japgi** (ㄴ자 서 ㄷ자 잡기) est la **saisie / prise en forme de "ㄷ" (ou en forme de U / C) en posture en L** (*L-stance U-shape grasp* ou *C-shape grasp*) en TaeKwon-Do ITF.
+Le **Niunja So Digutja Japgi** ([ㄴ자 서 ㄷ자 잡기](../audio/Techniques/Niunja-So-Digutja-Japgi.m4a)) est la **saisie / prise en forme de "ㄷ" (ou en forme de U / C) en posture en L** (*L-stance U-shape grasp* ou *C-shape grasp*) en TaeKwon-Do ITF.
 
 Cette technique de saisie et de contrôle bilatérale très spécifique mime la forme de la lettre coréenne **Digut (ㄷ)** — similaire au crochet d'un "U" ou d'un "C" inversé. Elle est principalement conçue pour intercepter, bloquer et saisir simultanément le bâton (*Mokbong* ou *Bong*) d'un agresseur ou son bras lors d'une attaque, tout en utilisant la stabilité et le retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Digutja (ㄷ자) :** En forme de la lettre coréenne *Digut* **ㄷ** (*U-shape / C-shape*).
 * **Japgi (잡기) :** Saisie / Prise / Attraper (*Grasp / Hold*).
 

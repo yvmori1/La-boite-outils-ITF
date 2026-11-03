@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 손등 수평 때리기](../audio/Techniques/Annun-So-Wen-Sondung-Soopyong-Taerigi.m4a)
 
-Le **Annun So Wen Sondung Soopyong Taerigi** (앉은 서 왼 손등 수평 때리기) est la **frappe horizontale cinglante avec le dos de la main gauche en posture du cavalier** (*Sitting stance left back hand horizontal strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Sondung Soopyong Taerigi** ([앉은 서 왼 손등 수평 때리기](../audio/Techniques/Annun-So-Wen-Sondung-Soopyong-Taerigi.m4a)) est la **frappe horizontale cinglante avec le dos de la main gauche en posture du cavalier** (*Sitting stance left back hand horizontal strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et fouettée utilise la surface du dos de la main ouverte (*Sondung*) pour exécuter un balayage cinglant sur un plan strictement horizontal (*Soopyong*), visant des cibles sensibles du visage ou du cou.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Sondung (손등) :** Dos de la main (*Back of the hand* — surface dorsale de la main ouverte).
 * **Soopyong / Supyong (수평) :** Horizontal / Sur le plan horizontal (*Horizontal*).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).

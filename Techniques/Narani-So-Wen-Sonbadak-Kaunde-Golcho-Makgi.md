@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [평행 서 왼 손바닥 가운데 걸쳐 막기](../audio/Techniques/Narani-So-Wen-Sonbadak-Kaunde-Golcho-Makgi.m4a)
 
-Le **Narani So Wen Sonbadak Kaunde Golcho Makgi** (평행 서 왼 손바닥 가운데 걸쳐 막기) est le **blocage en crochet moyen à la paume de la main gauche en posture pieds parallèles** (*Parallel stance left palm middle hooking block*) en TaeKwon-Do ITF.
+Le **Narani So Wen Sonbadak Kaunde Golcho Makgi** ([평행 서 왼 손바닥 가운데 걸쳐 막기](../audio/Techniques/Narani-So-Wen-Sonbadak-Kaunde-Golcho-Makgi.m4a)) est le **blocage en crochet moyen à la paume de la main gauche en posture pieds parallèles** (*Parallel stance left palm middle hooking block*) en TaeKwon-Do ITF.
 
 Cette technique défensive et fluide utilise le creux ou le bas de la paume de la main gauche (**Wen Sonbadak**) pour intercepter, dévier et crocheter (*Golcho*) une attaque directe au niveau moyen (**Kaunde** — coup de poing direct ou coup de pied direct *Ap Chagi*). Contrairement à un blocage de frappe percutant, le mouvement s'exécute en arc de cercle contrôlé pour chasser le membre adverse tout en préparant immédiatement une saisie ou une contre-attaque, le tout ancré en posture pieds parallèles (**Narani Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
 * **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés de la largeur des épaules, parallèles, poids réparti à 50/50).
-* **Wen (왼) :** Gauche / Main gauche (*Left*).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm* — main ouverte, doigts serrés).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Main gauche (*Left*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm* — main ouverte, doigts serrés).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Golcho (걸쳐) :** En crochet / Crocheter / Chasser en accrochant (*Hooking / Catching*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 

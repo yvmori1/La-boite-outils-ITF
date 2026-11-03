@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [걷는 서 쌍 손칼 수평 때리기](../audio/Techniques/Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.m4a)
 
-Le **Gunnun So Sang Sonkal Soopyong Taerigi** (걷는 서 쌍 손칼 수평 때리기) est le **double coup cinglant horizontal au tranchant de la main en posture de marche** (*Walking stance twin knife-hand horizontal strike*) en TaeKwon-Do ITF.
+Le **Gunnun So Sang Sonkal Soopyong Taerigi** ([걷는 서 쌍 손칼 수평 때리기](../audio/Techniques/Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.m4a)) est le **double coup cinglant horizontal au tranchant de la main en posture de marche** (*Walking stance twin knife-hand horizontal strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque bilatérale et simultanée projette les deux mains ouvertes au tranchant (**Sang Sonkal**) dans un mouvement de balayage horizontal (**Soopyong**). Elle est conçue pour couper ou frapper simultanément deux cibles latérales ou bilatérales au niveau haut ou moyen (telles que le cou, les artères carotides, les tempes ou les côtes de l'adversaire).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
 * **Sang (쌍) :** Double / Jumelé (*Twin* — les deux bras agissent en même temps).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire de la main ouverte).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire de la main ouverte).
 * **Soopyong / Supyeong (수평) :** Horizontal / À l'horizontale (*Horizontal*).
 * **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
 

@@ -19,7 +19,7 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 | [tul](tul/README.md) | Les formes (Tul) et exercices fondamentaux, mouvement par mouvement | 28 |
 | [chagi](chagi/README.md) | Les coups de pied — 차기 | 48 |
 | [makgi](makgi/README.md) | Les blocages — 막기 | 44 |
-| [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — 지르기 | 21 |
+| [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — [지르기](audio/grammaire/Jirugi.m4a) | 21 |
 | [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 296 |
 | [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 8 |
 | [Theorie](Theorie/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 5 |

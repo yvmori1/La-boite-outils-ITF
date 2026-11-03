@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [사선 서 뒷 팔굽 찌르기](../audio/Techniques/Sasun-So-Dwit-Palkup-Tulgi.m4a)
 
-Le **Sasun So Dwit Palkup Tulgi** (사선 서 뒷 팔굽 찌르기) est une technique d'attaque directe et pénétrante vers l'arrière du Taekwon-Do (ITF).
+Le **Sasun So Dwit Palkup Tulgi** ([사선 서 뒷 팔굽 찌르기](../audio/Techniques/Sasun-So-Dwit-Palkup-Tulgi.m4a)) est une technique d'attaque directe et pénétrante vers l'arrière du Taekwon-Do (ITF).
 
 Elle se traduit par : **Pique / Poussée rectiligne du coude vers l'arrière en position diagonale**.
 
@@ -12,9 +12,9 @@ Elle se traduit par : **Pique / Poussée rectiligne du coude vers l'arrière en 
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Sasun So (Sogi)** | 사선 서기 | Position diagonale | Posture de jambes décalée en diagonale, offrant un angle d'esquive et une assise stable. |
+| **Sasun So (Sogi)** | [사선 서기](../audio/grammaire/Sasun-Sogi.m4a) | Position diagonale | Posture de jambes décalée en diagonale, offrant un angle d'esquive et une assise stable. |
 | **Dwit** | 뒷 | Arrière | Indique la direction de l'attaque (directement derrière soi). |
-| **Palkup** | 팔굽 | Coude | Zone d'impact (la pointe osseuse du coude). |
+| **Palkup** | [팔굽](../audio/grammaire/Palkup.m4a) | Coude | Zone d'impact (la pointe osseuse du coude). |
 | **Tulgi** | 찌르기 | Pique / Poussée rectiligne | Mouvement perforant et linéaire (par opposition à une frappe fustigeante/circulaire *Taerigi*). |
 
 ---

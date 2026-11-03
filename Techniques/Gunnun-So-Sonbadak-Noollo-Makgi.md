@@ -6,9 +6,9 @@ La paume (**Sonbadak**) descend en pressant pour écraser vers le bas une attaqu
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Noollo (눌러) :** En pressant (*Pressing*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Noollo ([눌러](../audio/grammaire/Nullo.m4a)) :** En pressant (*Pressing*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

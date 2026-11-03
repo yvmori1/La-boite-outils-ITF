@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [외발 서 등팔목 바로 때리기](../audio/Techniques/Waebal-So-Dungpalmok-Baro-Taerigi.m4a)
 
-Le **Waebal So Dungpalmok Baro Taerigi** (외발 서 등팔목 바로 때리기) est le **coup cinglant direct au revers de l'avant-bras en posture sur une seule jambe** (*One-leg stance obverse back forearm strike*) en TaeKwon-Do ITF.
+Le **Waebal So Dungpalmok Baro Taerigi** ([외발 서 등팔목 바로 때리기](../audio/Techniques/Waebal-So-Dungpalmok-Baro-Taerigi.m4a)) est le **coup cinglant direct au revers de l'avant-bras en posture sur une seule jambe** (*One-leg stance obverse back forearm strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque/contre-attaque associe le retrait d'appui offert par la posture unipodale (*Waebal Sogi*) avec la vitesse de fouetté d'une frappe exécutée avec le revers de l'avant-bras (*Dungpalmok*). L'indication **Baro** (direct) signifie que la frappe est portée par le bras situé du **même côté que la jambe d'appui**.
 
 Sa décomposition linguistique est la suivante :
 
-* **Waebal So / Waebal Sogi (외발 서기) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
-* **Dungpalmok (등팔목) :** Revers / Dos de l'avant-bras (*Back forearm* — la surface supérieure/extérieure de l'avant-bras).
-* **Baro (바로) :** Direct (*Obverse* — s'exécute avec le bras du **même côté que la jambe d'appui**).
+* **Waebal So / Waebal Sogi ([외발 서기](../audio/Techniques/Waebal-Sogi.m4a)) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
+* **Dungpalmok ([등팔목](../audio/grammaire/Dung-Palmok.m4a)) :** Revers / Dos de l'avant-bras (*Back forearm* — la surface supérieure/extérieure de l'avant-bras).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct (*Obverse* — s'exécute avec le bras du **même côté que la jambe d'appui**).
 * **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---

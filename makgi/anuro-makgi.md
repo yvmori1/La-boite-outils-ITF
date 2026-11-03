@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [안으로 막기](../audio/makgi/anuro-makgi.m4a)
 
-Le **Anuro Makgi** (안으로 막기) est le **blocage de l'extérieur vers l'intérieur** (*Inward block*) en TaeKwon-Do ITF.
+Le **Anuro Makgi** ([안으로 막기](../audio/makgi/anuro-makgi.m4a)) est le **blocage de l'extérieur vers l'intérieur** (*Inward block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Anuro (안으로) :** Vers l'intérieur / Direction allant de l'extérieur vers l'axe central (du mot *An* = intérieur, avec le suffixe directionnel *-uro* = vers).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur / Direction allant de l'extérieur vers l'axe central (du mot *An* = intérieur, avec le suffixe directionnel *-uro* = vers).
 * **Makgi (막기) :** Blocage / Défense.
 
 Contrairement aux blocages qui chassent les attaques vers l'extérieur (*Bakuro Makgi*), le **Anuro Makgi** utilise un grand arc de cercle entrant pour venir **rabattre la frappe adverse vers la ligne centrale du corps** (*Center line*).

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [교차 서 쌍 팔꿈 수평 찌르기](../audio/Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.m4a)
 
-Le **Kyocha So Sang Palkup Soopyong Tulgi** (교차 서 쌍 팔꿈 수평 찌르기) est une technique d'attaque double, puissante et hautement symétrique du Taekwon-Do (ITF).
+Le **Kyocha So Sang Palkup Soopyong Tulgi** ([교차 서 쌍 팔꿈 수평 찌르기](../audio/Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.m4a)) est une technique d'attaque double, puissante et hautement symétrique du Taekwon-Do (ITF).
 
 Elle se traduit par : **Poussée horizontale double des coudes en position croisée**.
 
@@ -12,7 +12,7 @@ Elle se traduit par : **Poussée horizontale double des coudes en position crois
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Kyocha So (Sogi)** | 교차 서기 | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et pressés. |
+| **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et pressés. |
 | **Sang** | 쌍 | Double / Jumeau (*Twin*) | Indique une action simultanée et symétrique des deux membres. |
 | **Palkup** | 팔꿈 | Coude | Surface d'impact (la pointe rigide de l'articulation du coude). |
 | **Soopyong** | 수평 | Horizontal | Orientation de la trajectoire (parallèle au plan du sol). |

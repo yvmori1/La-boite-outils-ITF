@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [뛰며 호피차기](../audio/chagi/twimyo-hopi-chagi.m4a)
 
-Le **Twimyo Hopi Chagi** (뛰며 호피차기) est le **coup de pied sauté bondissant** (ou *Bounding flying kick*).
+Le **Twimyo Hopi Chagi** ([뛰며 호피차기](../audio/chagi/twimyo-hopi-chagi.m4a)) est le **coup de pied sauté bondissant** (ou *Bounding flying kick*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** Sauté / En suspension (du verbe *twida*, sauter).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
 * **Hopi (호피) :** Bondissant, en foulée bondissante (faisant référence à un bond dynamique ou à un transfert d'impulsion rapide d'une jambe sur l'autre en l'air).
 * **Chagi (차기) :** Coup de pied.
 
@@ -18,9 +18,9 @@ Cette technique repose sur un **bond propulsif initié par une jambe d'appel qui
 
 Selon la technique de frappe combinée au bond (souvent un *Ap Chagi*, un *Yop Chagi* ou un *Dollyo Chagi*) :
 
-* **Apkumchi (bol du pied - 앞꿈치) :** Pour une frappe avant bondissante.
-* **Balkal (chant du pied - 발칼) :** Pour un coup latéral bondissant.
-* **Dwitchuk (talon - 뒤축) :** Pour une frappe perçante ou un coup arrière/inversé bondissant.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Pour une frappe avant bondissante.
+* **Balkal (chant du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Pour un coup latéral bondissant.
+* **Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** Pour une frappe perçante ou un coup arrière/inversé bondissant.
 
 ---
 

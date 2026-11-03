@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [뒷발 서 쌍 손바닥 눌러 막기](../audio/Techniques/Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.m4a)
 
-Le **Dwitbal So Sang Sonbadak Noollo Makgi** (뒷발 서 쌍 손바닥 눌러 막기) est le **blocage pressant double avec les paumes des mains en posture du pied arrière** (*Rear foot stance twin palm pressing block*) en TaeKwon-Do ITF.
+Le **Dwitbal So Sang Sonbadak Noollo Makgi** ([뒷발 서 쌍 손바닥 눌러 막기](../audio/Techniques/Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.m4a)) est le **blocage pressant double avec les paumes des mains en posture du pied arrière** (*Rear foot stance twin palm pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive lourde utilise la paume des deux mains (*Sang Sonbadak*) dans une poussée/pression descendante continue (*Noollo*) pour intercepter, écraser ou stopper une attaque basse/moyenne puissante (comme un coup de pied direct ou un coup de genou), tout en maintenant le corps en sécurité grâce au recul du poids sur la jambe arrière (*Dwitbal Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
 * **Sang (쌍) :** Double / Jumeau (*Twin / Pair* — les deux mains exécutent la même action simultanée en parallèle).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Noollo / Nullo (눌러) :** Pressant / Écrasant / En appuyant (*Pressing*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Pressant / Écrasant / En appuyant (*Pressing*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

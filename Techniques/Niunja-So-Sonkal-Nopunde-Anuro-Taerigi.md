@@ -1,17 +1,17 @@
 # Niunja So Sonkal Nopunde Anuro Taerigi
 
-> 🔊 **Prononciation :** [ㄴ자 서 손칼 높인데 안으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.m4a)
+> 🔊 **Prononciation :** [ㄴ자 서 손칼 높은데 안으로 때리기](../audio/Techniques/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.m4a)
 
-Le **Niunja So Sonkal Nopunde Anuro Taerigi** (ㄴ자 서 손칼 높인데 안으로 때리기) est le **coup cinglant haut au tranchant de la main vers l'intérieur en posture en L** (*L-stance knife-hand high inward strike*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Nopunde Anuro Taerigi** (ㄴ자 서 손칼 높은데 안으로 때리기) est le **coup cinglant haut au tranchant de la main vers l'intérieur en posture en L** (*L-stance knife-hand high inward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque circulaire et tranchante utilise le bord extérieur de la main ouverte (**Sonkal**) pour frapper d'un mouvement balayé de l'extérieur vers l'intérieur (**Anuro**). Elle cible des zones névralgiques du visage ou du cou (tempe, mâchoire, veine carotide) au niveau haut (**Nopunde**), tout en conservant la stabilité et le profil réduit offerts par la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire de la main ouverte).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur du visage, du cou ou de la tempe).
-* **Anuro (안으로) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire de la main ouverte).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage, du cou ou de la tempe).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
 * **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---

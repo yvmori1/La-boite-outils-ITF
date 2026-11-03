@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [두 반달손 막기](../audio/makgi/doo-bandalson-makgi.m4a)
 
-Le **Doo Bandalson Makgi** (두 반달손 막기 — parfois retranscrit *Du Bandalson Makgi*) est le **blocage double en arc de main** (*Double arc-hand block* ou *Double crescent-hand block*) en TaeKwon-Do ITF.
+Le **Doo Bandalson Makgi** ([두 반달손 막기](../audio/makgi/doo-bandalson-makgi.m4a) — parfois retranscrit *Du Bandalson Makgi*) est le **blocage double en arc de main** (*Double arc-hand block* ou *Double crescent-hand block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **Doo / Du (두) :** Deux / Double (préfixe indiquant que les deux mains exécutent la technique simultanément).
 * **Bandal (반달) :** Croissant de lune / Arc.
-* **Son (손) :** Main.
+* **Son ([손](../audio/grammaire/Son.m4a)) :** Main.
 * **Makgi (막기) :** Blocage / Défense.
 
 Là où le *Bandalson Makgi* classique n'utilise qu'une seule main pour dévier ou intercepter, le **Doo Bandalson Makgi** engage les deux mains en forme d'arc (*Bandalson*) pour former une **barrière double**, une **pince d'interception** ou un **contrôle bilatéral** sur l'adversaire.

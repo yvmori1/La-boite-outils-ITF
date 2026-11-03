@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [걷는 서 교차 주먹 눌러 막기](../audio/Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.m4a)
 
-Le **Gunnun So Kyocha Joomuk Noollo Makgi** (걷는 서 교차 주먹 눌러 막기) est le **blocage descendant en pression avec poings croisés (en X) en posture de marche** (*Walking stance crossed fist pressing block*) en TaeKwon-Do ITF.
+Le **Gunnun So Kyocha Joomuk Noollo Makgi** ([걷는 서 교차 주먹 눌러 막기](../audio/Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.m4a)) est le **blocage descendant en pression avec poings croisés (en X) en posture de marche** (*Walking stance crossed fist pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le croisement des deux poignets (**Kyocha Joomuk**) pour exercer une pression puissante du haut vers le bas (**Noollo**). Elle sert à intercepter, écraser ou dévier une attaque basse (coup de pied direct bas, coup de poing bas ou tentative de saisie) arrivant au niveau du bas-ventre ou des cuisses.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
 * **Kyocha (교차) :** Croisé / En X (*Crossed*).
-* **Joomuk (주먹) :** Poings (*Fists*).
-* **Noollo / Nullo (눌러) :** En pression / Presser vers le bas (*Pressing / Downward pressing*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poings (*Fists*).
+* **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** En pression / Presser vers le bas (*Pressing / Downward pressing*).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

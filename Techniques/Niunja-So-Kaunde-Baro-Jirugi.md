@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 가운데 바로 지르기](../audio/Techniques/Niunja-So-Kaunde-Baro-Jirugi.m4a)
 
-Le **Niunja So Kaunde Baro Jirugi** (ㄴ자 서 가운데 바로 지르기) est le **coup de poing direct moyen du même côté en posture en L** (*L-stance middle obverse punch*) en TaeKwon-Do ITF.
+Le **Niunja So Kaunde Baro Jirugi** ([ㄴ자 서 가운데 바로 지르기](../audio/Techniques/Niunja-So-Kaunde-Baro-Jirugi.m4a)) est le **coup de poing direct moyen du même côté en posture en L** (*L-stance middle obverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fondamentale associe la stabilité et la garde défensive de la posture en L (*Niunja Sogi*) avec la puissance d'un coup de poing direct (*Jirugi*) dirigé vers le thorax ou le plexus solaire (*Kaunde*). L'indication **Baro** (direct) signifie que la frappe est portée par le bras du **même côté que la jambe arrière** (la jambe qui donne son nom à la posture en L).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — les pieds forment un angle de 90°, rappelant la lettre ㄴ du Hangeul).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du thorax ou du plexus solaire).
-* **Baro (바로) :** Direct / Du même côté (*Obverse* — frappe exécutée par le bras du **même côté que la jambe arrière**).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — les pieds forment un angle de 90°, rappelant la lettre ㄴ du Hangeul).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du thorax ou du plexus solaire).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — frappe exécutée par le bras du **même côté que la jambe arrière**).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

@@ -1,6 +1,6 @@
 # Gunnun Sogi
 
-La **Gunnun Sogi** (걷는 서기) est la position de marche du TaeKwon-Do ITF. C'est la position d'attaque et de défense vers l'avant par excellence, et l'une des premières apprises.
+La **Gunnun Sogi** ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) est la position de marche du TaeKwon-Do ITF. C'est la position d'attaque et de défense vers l'avant par excellence, et l'une des premières apprises.
 
 Elle se traduit par : **Position de marche** (*Walking stance*).
 

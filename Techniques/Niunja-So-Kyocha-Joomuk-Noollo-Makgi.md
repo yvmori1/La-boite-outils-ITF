@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 교차 주먹 눌러 막기](../audio/Techniques/Niunja-So-Kyocha-Joomuk-Noollo-Makgi.m4a)
 
-Le **Niunja So Kyocha Joomuk Noollo Makgi** (ㄴ자 서 교차 주먹 눌러 막기) est le **blocage pressant croisé avec les poings fermés en posture en L** (*L-stance X-fist pressing block*) en TaeKwon-Do ITF.
+Le **Niunja So Kyocha Joomuk Noollo Makgi** ([ㄴ자 서 교차 주먹 눌러 막기](../audio/Techniques/Niunja-So-Kyocha-Joomuk-Noollo-Makgi.m4a)) est le **blocage pressant croisé avec les poings fermés en posture en L** (*L-stance X-fist pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le croisement des deux poings fermés (**Kyocha Joomuk**) dans un mouvement d'écrasement ou de pression vers le bas (**Noollo**) pour étouffer, intercepter ou dévier une attaque basse (comme un coup de pied direct *Ap Chagi* ou un coup de genou), tout en conservant la stabilité en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Kyocha (교차) :** Croisé / En X (*X-shape / Cross*).
-* **Joomuk (주먹) :** Poing fermé (*Fist*).
-* **Noollo (눌러) :** Pressant / Écraseur / Poussée vers le bas (*Pressing*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
+* **Noollo ([눌러](../audio/grammaire/Nullo.m4a)) :** Pressant / Écraseur / Poussée vers le bas (*Pressing*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

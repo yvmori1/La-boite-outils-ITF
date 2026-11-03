@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [앞차 올리기](../audio/chagi/apcha-olligi.m4a)
 
-Le **Apcha Olligi** (앞차 올리기) est le **coup de pied montant frontal** (ou *Front rising kick*) en TaeKwon-Do ITF.
+Le **Apcha Olligi** ([앞차 올리기](../audio/chagi/apcha-olligi.m4a)) est le **coup de pied montant frontal** (ou *Front rising kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Ap (앞) :** Avant / Frontal.
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
 * **Cha (차) :** Coup de pied.
-* **Olligi (올리기) :** Montant / Élévation (du verbe *ollida*, monter ou lever).
+* **Olligi ([올리기](../audio/grammaire/Olligi.m4a)) :** Montant / Élévation (du verbe *ollida*, monter ou lever).
 
 Il appartient à la catégorie des exercices fondamentaux de montée de jambe (*Cha Olligi*). Bien qu'il puisse servir de technique de percussion sous le menton ou de blocage pour chasser une attaque ennemie, son rôle premier dans l'entraînement ITF est de développer la **souplesse dynamique**, la mobilité artérielle de la hanche, le contrôle musculaire des ischio-jambiers et la stabilité de l'appui.
 
@@ -16,7 +16,7 @@ Il appartient à la catégorie des exercices fondamentaux de montée de jambe (*
 
 ## 1. La surface d'impact et la fonction (*Jook Bang*)
 
-* **Apkumchi (bol du pied - 앞꿈치) ou Dwitchuk (talon - 뒤축) :** Si la technique est utilisée de manière percutante (par exemple pour percuter le menton de bas en haut), l'impact se fait avec le bol du pied ou la base du talon.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) ou Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** Si la technique est utilisée de manière percutante (par exemple pour percuter le menton de bas en haut), l'impact se fait avec le bol du pied ou la base du talon.
 * **Position du pied :** La cheville est fléchie à 90° et les **orteils sont fortement tirés vers le haut et l'arrière** tout au long de la montée pour protéger les orteils et étirer la chaîne postérieure.
 
 ---

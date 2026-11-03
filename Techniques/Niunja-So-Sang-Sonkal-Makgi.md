@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 쌍 손칼 막기](../audio/Techniques/Niunja-So-Sang-Sonkal-Makgi.m4a)
 
-Le **Niunja So Sang Sonkal Makgi** (ㄴ자 서 쌍 손칼 막기) est le **double blocage du tranchant de la main en posture en L** (*L-stance twin knife-hand block* ou *twin knife-hand guarding block*) en TaeKwon-Do ITF.
+Le **Niunja So Sang Sonkal Makgi** ([ㄴ자 서 쌍 손칼 막기](../audio/Techniques/Niunja-So-Sang-Sonkal-Makgi.m4a)) est le **double blocage du tranchant de la main en posture en L** (*L-stance twin knife-hand block* ou *twin knife-hand guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fondamentale utilise simultanément le tranchant des deux mains ouvertes (**Sang Sonkal**) pour protéger le buste et le visage contre des attaques puissantes, tout en bénéficiant de la stabilité et du retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Sang (쌍) :** Double / Jumelé (*Twin* — les deux mains agissent ensemble).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 
 ---

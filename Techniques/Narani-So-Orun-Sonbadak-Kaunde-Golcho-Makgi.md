@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [평행 서 오른 손바닥 가운데 걸쳐 막기](../audio/Techniques/Narani-So-Orun-Sonbadak-Kaunde-Golcho-Makgi.m4a)
 
-Le **Narani So Orun Sonbadak Kaunde Golcho Makgi** (평행 서 오른 손바닥 가운데 걸쳐 막기) est le **blocage en crochet moyen à la paume de la main droite en posture pieds parallèles** (*Parallel stance right palm middle hooking block*) en TaeKwon-Do ITF.
+Le **Narani So Orun Sonbadak Kaunde Golcho Makgi** ([평행 서 오른 손바닥 가운데 걸쳐 막기](../audio/Techniques/Narani-So-Orun-Sonbadak-Kaunde-Golcho-Makgi.m4a)) est le **blocage en crochet moyen à la paume de la main droite en posture pieds parallèles** (*Parallel stance right palm middle hooking block*) en TaeKwon-Do ITF.
 
 Cette technique est le pendant symétrique exact du *Narani So Wen Sonbadak Kaunde Golcho Makgi*. Elle utilise le creux ou le bas de la paume de la main droite (**Orun Sonbadak**) pour intercepter, dévier et crocheter (*Golcho*) une attaque directe au niveau moyen (**Kaunde** — comme un coup de poing direct ou un coup de pied direct *Ap Chagi*). Le mouvement s'exécute en arc de cercle contrôlé de l'extérieur vers l'intérieur pour chasser le membre adverse sans choc dur, préparant une prise ou une riposte immédiate depuis une posture neutre pieds parallèles (**Narani Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
 * **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
-* **Orun (오른) :** Droit / Main droite (*Right*).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm* — main ouverte, 4 doigts bien serrés).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Main droite (*Right*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm* — main ouverte, 4 doigts bien serrés).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Golcho (걸쳐) :** En crochet / Crocheter / Chasser en accrochant (*Hooking / Catching*).
 * **Makgi (막기) :** Blocage / Parade (*Block*).
 

@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [뒷발 서 바깥팔목 가운데 안으로 반대 막기](../audio/Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.m4a)
 
-Le **Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi** (뒷발 서 바깥팔목 가운데 안으로 반대 막기) est le **blocage inverse moyen vers l'intérieur avec l'extérieur de l'avant-bras en posture du pied arrière** (*Rear foot stance outer forearm middle inward reverse block*) en TaeKwon-Do ITF.
+Le **Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi** ([뒷발 서 바깥팔목 가운데 안으로 반대 막기](../audio/Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.m4a)) est le **blocage inverse moyen vers l'intérieur avec l'extérieur de l'avant-bras en posture du pied arrière** (*Rear foot stance outer forearm middle inward reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive sophistiquée combine le recul de protection de la posture *Dwitbal Sogi* avec un balayage circulaire mené de l'extérieur vers la ligne centrale (*Anuro*). Elle utilise le côté extérieur de l'avant-bras (*Bakat Palmok*) du bras opposé à la jambe avant (*Bandae*) pour dévier une attaque moyenne (coup de poing ou coup de pied direct) visant la poitrine ou le plexus.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Bakat Palmok (바깥팔목) :** Extérieur de l'avant-bras (*Outer forearm* — côté du petit doigt / os ulna).
-* **Kaunde (가운데) :** Niveau moyen (hauteur du thorax ou du plexus solaire).
-* **Anuro (안으로) :** Vers l'intérieur (*Inward* — mouvement mené de l'extérieur vers la ligne centrale).
-* **Bandae (반대) :** Inverse / Opposé (*Reverse* — le bras qui bloque est opposé à la jambe placée à l'avant).
+* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Extérieur de l'avant-bras (*Outer forearm* — côté du petit doigt / os ulna).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur du thorax ou du plexus solaire).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (*Inward* — mouvement mené de l'extérieur vers la ligne centrale).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — le bras qui bloque est opposé à la jambe placée à l'avant).
 * **Makgi (막기) :** Blocage (*Block*).
 
 ---

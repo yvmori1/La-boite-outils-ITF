@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [쓸어 차기](../audio/chagi/suroh-chagi.m4a)
 
-Le **Suroh Chagi** (쓸어 차기 — parfois retranscrit *Seuro Chagi*) est le **coup de pied balayé / balayage** (*Sweeping kick*) en TaeKwon-Do ITF.
+Le **Suroh Chagi** ([쓸어 차기](../audio/chagi/suroh-chagi.m4a) — parfois retranscrit *Seuro Chagi*) est le **coup de pied balayé / balayage** (*Sweeping kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Suroh / Seuro (쓸어) :** Balayer, essuyer, faucher (du verbe *sseulda*, 쓸다 = balayer / raser).
+* **Suroh / Seuro ([쓸어](../audio/grammaire/Suroh.m4a)) :** Balayer, essuyer, faucher (du verbe *sseulda*, 쓸다 = balayer / raser).
 * **Chagi (차기) :** Coup de pied.
 
 Contrairement aux frappes d'impact direct qui visent la destruction ou le K.O., le **Suroh Chagi** est une technique de rupture d'équilibre. Il consiste à exécuter un mouvement rasant le long du sol pour **faucher la cheville, le talon ou la jambe d'appui de l'adversaire** afin de le faire chuter ou de détruire sa posture.
@@ -15,9 +15,9 @@ Contrairement aux frappes d'impact direct qui visent la destruction ou le K.O., 
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Balbadak (plante du pied - 발바닥) :** Utilisé pour "pousser" ou accrocher le bas de la jambe adverse.
-* **Balkal Anchae (chant interne du pied - 발칼안채) / Ankumchi (talon interne) :** Utilisés lors d'un balayage de l'extérieur vers l'intérieur pour cueillir la cheville par l'arrière ou le côté.
-* **Balkal (chant externe du pied - 발칼) :** Utilisé lors d'un balayage de l'intérieur vers l'extérieur (*Bakuro Suroh Chagi*).
+* **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** Utilisé pour "pousser" ou accrocher le bas de la jambe adverse.
+* **Balkal Anchae (chant interne du pied - [발칼안채](../audio/grammaire/Balkal-Anchae.m4a)) / Ankumchi (talon interne) :** Utilisés lors d'un balayage de l'extérieur vers l'intérieur pour cueillir la cheville par l'arrière ou le côté.
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Utilisé lors d'un balayage de l'intérieur vers l'extérieur (*Bakuro Suroh Chagi*).
 * **La cible privilégiée :** La section très basse (**Najunde**) : le bas du tibia, la cheville, le tendon d'Achille ou le talon du pied qui porte le poids de l'adversaire.
 
 ---

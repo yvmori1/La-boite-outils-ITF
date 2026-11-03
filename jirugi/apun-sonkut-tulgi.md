@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [엎은 손끝 찌르기](../audio/jirugi/apun-sonkut-tulgi.m4a)
 
-Le **Opun Sonkut Tulgi** (엎은 손끝 찌르기) — parfois orthographié *Opeun Sonkut Tulgi* — est une technique d'attaque perforante, précise et chirurgicale du Taekwon-Do (ITF).
+Le **Opun Sonkut Tulgi** ([엎은 손끝 찌르기](../audio/jirugi/apun-sonkut-tulgi.m4a)) — parfois orthographié *Opeun Sonkut Tulgi* — est une technique d'attaque perforante, précise et chirurgicale du Taekwon-Do (ITF).
 
 Elle se traduit par : **Pique du bout des doigts à plat (paume vers le sol)** (*Flat Fingertip Thrust*).
 

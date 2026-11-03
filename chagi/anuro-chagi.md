@@ -2,11 +2,11 @@
 
 > 🔊 **Prononciation :** [안으로 차기](../audio/chagi/anuro-chagi.m4a)
 
-Le **Anuro Chagi** (안으로 차기) est le **coup de pied vers l'intérieur** (*Inward kick* ou *Inward crescent kick*) en TaeKwon-Do ITF.
+Le **Anuro Chagi** ([안으로 차기](../audio/chagi/anuro-chagi.m4a)) est le **coup de pied vers l'intérieur** (*Inward kick* ou *Inward crescent kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Anuro (안으로) :** Vers l'intérieur (du mot *an*, intérieur, suivi de la particule de direction *-uro*).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (du mot *an*, intérieur, suivi de la particule de direction *-uro*).
 * **Chagi (차기) :** Coup de pied.
 
 Cette technique effectue une trajectoire circulaire en arc de cercle en montant vers l'extérieur pour venir **balayer la cible de l'extérieur vers l'intérieur**, en croisant la ligne médiane du corps.
@@ -15,7 +15,7 @@ Cette technique effectue une trajectoire circulaire en arc de cercle en montant 
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Balkal Anchae (chant interne du pied - 발칼안채) :** C'est la surface de frappe principale. Il s'agit de la tranche intérieure du pied.
+* **Balkal Anchae (chant interne du pied - [발칼안채](../audio/grammaire/Balkal-Anchae.m4a)) :** C'est la surface de frappe principale. Il s'agit de la tranche intérieure du pied.
 * **Ankumchi (partie intérieure du talon) / Balbadak (plante du pied) :** Également utilisées selon qu'on cherche un impact percutant au talon ou une frappe de balayage/pression avec la plante du pied.
 
 ---

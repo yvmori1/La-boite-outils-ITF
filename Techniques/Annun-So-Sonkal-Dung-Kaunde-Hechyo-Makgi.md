@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [앉은 서 손칼등 가운데 헤쳐 막기](../audio/Techniques/Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.m4a)
 
-Le **Annun So Sonkal Dung Kaunde Hechyo Makgi** (앉은 서 손칼등 가운데 헤쳐 막기) est le **double blocage en écartant moyen avec le tranchant interne de la main en posture du cavalier** (*Sitting stance reverse knife-hand middle wedging block*) en TaeKwon-Do ITF.
+Le **Annun So Sonkal Dung Kaunde Hechyo Makgi** ([앉은 서 손칼등 가운데 헤쳐 막기](../audio/Techniques/Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.m4a)) est le **double blocage en écartant moyen avec le tranchant interne de la main en posture du cavalier** (*Sitting stance reverse knife-hand middle wedging block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise simultanément les deux tranchants internes des mains (*Sonkal Dung*) pour écarter de l'intérieur vers l'extérieur (*Hechyo*) deux attaques arrivant de face au niveau moyen (*Kaunde*), ou pour briser une saisie à deux mains.
 
 Sa décomposition linguistique est la suivante :
 
 * **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Sonkal Dung (손칼등) :** Tranchant interne de la main (*Reverse knife-hand* — côté pouce/index, avec le pouce fortement replié vers la paume).
-* **Kaunde (가운데) :** Niveau moyen (hauteur des épaules / du thorax).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Tranchant interne de la main (*Reverse knife-hand* — côté pouce/index, avec le pouce fortement replié vers la paume).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur des épaules / du thorax).
 * **Hechyo (헤쳐) :** Écarter / Séparer / Fendre (*Wedging*).
 * **Makgi (막기) :** Blocage (*Block*).
 

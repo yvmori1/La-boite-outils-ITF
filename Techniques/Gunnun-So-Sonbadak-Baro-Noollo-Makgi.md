@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [걷는 서 손바닥 바로 눌러 막기](../audio/Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.m4a)
 
-Le **Gunnun So Sonbadak Baro Noollo Makgi** (걷는 서 손바닥 바로 눌러 막기) est une technique défensive lourde, directe et stabilisatrice du Taekwon-Do (ITF).
+Le **Gunnun So Sonbadak Baro Noollo Makgi** ([걷는 서 손바닥 바로 눌러 막기](../audio/Techniques/Gunnun-So-Sonbadak-Baro-Noollo-Makgi.m4a)) est une technique défensive lourde, directe et stabilisatrice du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage pressant direct à la paume de la main en position en marche**.
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Blocage pressant direct à la paume de la main en positi
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Gunnun So (Sogi)** | 걷는 서기 | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, poids réparti à **50/50**). |
-| **Sonbadak** | 손바닥 | Paume de la main | Surface de contact (la base ferme de la paume). |
-| **Baro** | 바로 | Direct / Homologue | Signifie que le blocage est exécuté avec la **main du même côté que le pied avant** (ex. pied droit devant, main droite qui bloque). |
-| **Noollo** | 눌러 | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser/écraser vers le bas). |
+| **Gunnun So (Sogi)** | [걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a) | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, poids réparti à **50/50**). |
+| **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base ferme de la paume). |
+| **Baro** | [바로](../audio/grammaire/Baro.m4a) | Direct / Homologue | Signifie que le blocage est exécuté avec la **main du même côté que le pied avant** (ex. pied droit devant, main droite qui bloque). |
+| **Noollo** | [눌러](../audio/grammaire/Nullo.m4a) | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser/écraser vers le bas). |
 | **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
 
 ---

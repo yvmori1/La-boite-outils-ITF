@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [쌍발 차기](../audio/chagi/sangbal-chagi.m4a)
 
-Le **Sangbal Chagi** (쌍발 차기) est le **coup de pied simultané des deux pieds** (*Twin foot kick*) en TaeKwon-Do ITF.
+Le **Sangbal Chagi** ([쌍발 차기](../audio/chagi/sangbal-chagi.m4a)) est le **coup de pied simultané des deux pieds** (*Twin foot kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
@@ -20,12 +20,12 @@ Selon la direction des jambes, le *Sangbal Chagi* se décline sous deux formes m
 
 ### A. Sangbal Yopcha Jirugi (쌍발 옆차지르기) — Coup de pied latéral double
 
-* **Arme naturelle :** **Balkal** (tranchants extérieurs des deux pieds - 발칼).
+* **Arme naturelle :** **Balkal** (tranchants extérieurs des deux pieds - [발칼](../audio/grammaire/Balkal.m4a)).
 * **Direction :** Les deux jambes s'étendent latéralement de chaque côté du corps (à 180° l'une de l'autre) ou légèrement en diagonale vers l'avant pour percuter deux adversaires encadrant le pratiquant.
 
 ### B. Sangbal Apcha Busigi (쌍발 앞차부시기) — Coup de pied avant double
 
-* **Arme naturelle :** **Apkumchi** (bols des deux pieds - 앞꿈치).
+* **Arme naturelle :** **Apkumchi** (bols des deux pieds - [앞꿈치](../audio/grammaire/Apkumchi.m4a)).
 * **Direction :** Les deux jambes projetées droit devant vers le torse ou le visage de l'adversaire de face.
 
 ---

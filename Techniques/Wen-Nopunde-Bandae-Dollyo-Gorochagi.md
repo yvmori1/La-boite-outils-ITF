@@ -1,17 +1,17 @@
 # Wen Nopunde Bandae Dollyo Gorochagi
 
-> 🔊 **Prononciation :** [왼 높인데 반대 돌려 걸어차기](../audio/Techniques/Wen-Nopunde-Bandae-Dollyo-Gorochagi.m4a)
+> 🔊 **Prononciation :** [왼 높은데 반대 돌려 걸어차기](../audio/Techniques/Wen-Nopunde-Bandae-Dollyo-Gorochagi.m4a)
 
-Le **Wen Nopunde Bandae Dollyo Gorochagi** (왼 높인데 반대 돌려 걸어차기) est le **coup de pied crocheté tournant inversé haut de la jambe gauche** (*Left high reverse turning hook kick*) en TaeKwon-Do ITF.
+Le **Wen Nopunde Bandae Dollyo Gorochagi** (왼 높은데 반대 돌려 걸어차기) est le **coup de pied crocheté tournant inversé haut de la jambe gauche** (*Left high reverse turning hook kick*) en TaeKwon-Do ITF.
 
 Souvent considéré comme l'un des coups de pied les plus spectaculaires et destructeurs des arts martiaux, il combine l'énergie cinétique d'une rotation complète du corps (*Bandae Dollyo*) avec l'action d'un fouetté crocheté du talon (*Gorochagi*). Exécuté avec la **jambe gauche** (*Wen*) au **niveau haut** (*Nopunde* — visage / tête), il exploite l'angle mort de l'adversaire pour passer par-dessus sa garde.
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur de la tête / du visage).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la tête / du visage).
 * **Bandae Dollyo (반대 돌려) :** Tournant inversé / En rotation inverse (*Reverse turning*).
-* **Gorochagi / Goro Chagi (걸어차기) :** Coup de pied crocheté / accrochant (*Hook kick*).
+* **Gorochagi / Goro Chagi ([걸어차기](../audio/grammaire/Goro-Chagi.m4a)) :** Coup de pied crocheté / accrochant (*Hook kick*).
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [손칼 뛰어 돌며 때리기](../audio/Techniques/Sonkal-Twio-Dolmyo-Taerigi.m4a)
 
-Le **Sonkal Twio Dolmyo Taerigi** (손칼 뛰어 돌며 때리기) — également orthographié *Dolymyo* — est une technique acrobatique et foudroyante du Taekwon-Do (principalement issue de l'ITF), correspondant au **coup du tranchant de la main en sautant et en tournant**.
+Le **Sonkal Twio Dolmyo Taerigi** ([손칼 뛰어 돌며 때리기](../audio/Techniques/Sonkal-Twio-Dolmyo-Taerigi.m4a)) — également orthographié *Dolymyo* — est une technique acrobatique et foudroyante du Taekwon-Do (principalement issue de l'ITF), correspondant au **coup du tranchant de la main en sautant et en tournant**.
 
 ---
 
@@ -10,8 +10,8 @@ Le **Sonkal Twio Dolmyo Taerigi** (손칼 뛰어 돌며 때리기) — égalemen
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Sonkal** | 손칼 | Tranchant de la main | La surface d'impact (bord externe de la main, de la base du petit doigt au poignet). |
-| **Twio** | 뛰어 | En sautant | Indique que le coup est porté en phase aérienne (sans contact avec le sol). |
+| **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | La surface d'impact (bord externe de la main, de la base du petit doigt au poignet). |
+| **Twio** | [뛰어](../audio/grammaire/Twio.m4a) | En sautant | Indique que le coup est porté en phase aérienne (sans contact avec le sol). |
 | **Dolmyo** | 돌며 | En tournant | Mouvement de rotation du corps autour de son axe vertical pendant le saut. |
 | **Taerigi** | 때리기 | Frappe / Coup | Attaque circulaire ou fustigeante (par opposition à un coup direct *Jirugi*). |
 

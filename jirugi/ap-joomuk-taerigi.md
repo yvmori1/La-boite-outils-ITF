@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [앞주먹 때리기](../audio/jirugi/ap-joomuk-taerigi.m4a)
 
-Le **Ap Joomuk Taerigi** (앞주먹 때리기) est la **frappe cinglante avec le devant du poing** (*Forefist strike*).
+Le **Ap Joomuk Taerigi** ([앞주먹 때리기](../audio/jirugi/ap-joomuk-taerigi.m4a)) est la **frappe cinglante avec le devant du poing** (*Forefist strike*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Ap (앞) :** Avant / Devant (*Front*).
-* **Joomuk (주먹) :** Poing (*Fist*).
-* **Ap Joomuk (앞주먹) :** Devant du poing (le poing fermé impactant avec la face avant des deux grosses jointures).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Devant (*Front*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist*).
+* **Ap Joomuk ([앞주먹](../audio/grammaire/Ap-Joomuk.m4a)) :** Devant du poing (le poing fermé impactant avec la face avant des deux grosses jointures).
 * **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
