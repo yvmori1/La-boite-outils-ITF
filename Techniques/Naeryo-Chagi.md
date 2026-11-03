@@ -57,6 +57,7 @@ Selon l'axe d'attaque et la garde adverse, le *Naeryo Chagi* s'exécute selon tr
 ## 4. Intérêt tactique et Application
 
 > **Rupture de garde verticale et impact à forte masse :**
+>
 > 1. **Contournement de la garde latérale :** Comme la plupart des combattants maintiennent une garde protégeant les côtés du visage (contre le *Dollyo Chagi*), le *Naeryo Chagi* passe au-dessus des bras et descend dans l'axe mort vertical.
 > 2. **Casse de clavicule / K.O. :** L'énergie cinétique combinée à la gravité délivre une force d'écrasement dévastatrice au niveau de la tête ou des épaules.
 > 3. **Combat compétitif et Self-défense :** C'est l'un des coups de pied marquants en compétition (WT et ITF) et une technique très dissuasive en self-défense (*Hosinsul*).

@@ -25,26 +25,26 @@ Elle se traduit par : **Frappe frontale inversée du revers du poing en position
 Cette technique associe l'élan vers l'avant de la position en marche à la vitesse de fouetté de l'avant-bras :
 
 1. **La position des jambes (*Gunnun Sogi*) :**
-   * Un pied est projeté vers l'avant (ex. pied droit), tandis que la jambe arrière (gauche) est tendue, le pied arrière légèrement ouvert à 15°.
-   * Le poids du corps est parfaitement équilibré à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
+    * Un pied est projeté vers l'avant (ex. pied droit), tandis que la jambe arrière (gauche) est tendue, le pied arrière légèrement ouvert à 15°.
+    * Le poids du corps est parfaitement équilibré à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
 2. **L'armement (Préparation) :**
-   * La main d'attaque (**main opposée au pied avant**, soit la main gauche si le pied droit est devant) se ferme en poing et vient s'armer près de l'épaule opposée ou sous l'aisselle, paume orientée vers soi/le bas.
-   * Le bras de réaction (main droite) s'étend vers l'avant pour mesurer la distance et orienter la trajectoire.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le pas.
+    * La main d'attaque (**main opposée au pied avant**, soit la main gauche si le pied droit est devant) se ferme en poing et vient s'armer près de l'épaule opposée ou sous l'aisselle, paume orientée vers soi/le bas.
+    * Le bras de réaction (main droite) s'étend vers l'avant pour mesurer la distance et orienter la trajectoire.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le pas.
 3. **La trajectoire et le fouetté (*Ap Taerigi*) :**
-   * En redescendant dans la position en marche, le coude s'avance vers l'axe central.
-   * L'avant-bras se détend de manière fustigeante à partir du coude, décrivant un arc tendu de haut en bas ou directement vers l'avant sur la ligne centrale.
-   * Au moment de l'impact, le revers du poing (**Dung Joomuk**) percute la cible.
-   * Le bras de réaction (main du même côté que le pied avant) est ramené vivement à la hanche (poing fermé, paume vers le haut) pour verrouiller le bassin.
+    * En redescendant dans la position en marche, le coude s'avance vers l'axe central.
+    * L'avant-bras se détend de manière fustigeante à partir du coude, décrivant un arc tendu de haut en bas ou directement vers l'avant sur la ligne centrale.
+    * Au moment de l'impact, le revers du poing (**Dung Joomuk**) percute la cible.
+    * Le bras de réaction (main du même côté que le pied avant) est ramené vivement à la hanche (poing fermé, paume vers le haut) pour verrouiller le bassin.
 
 ---
 
 ## 3. Applications et cibles
 
 * **Cibles anatomiques :**
-  * Le **philtrum** (sous le nez).
-  * L'**arête du nez** ou la **mâchoire**.
-  * Le **plexus solaire** (si exécuté au niveau moyen *Kaunde*).
+    * Le **philtrum** (sous le nez).
+    * L'**arête du nez** ou la **mâchoire**.
+    * Le **plexus solaire** (si exécuté au niveau moyen *Kaunde*).
 * **Tactique de combat (*Matsogi*) :** La frappe inversée (*Bandae*) tire parti de l'ouverture créée par l'avancée du corps. Le revers du poing permet de passer au-dessus ou à travers la garde frontale de l'adversaire avec un effet de fouet surprenant.
 * **Formes (*Tuls*) :** On retrouve cette technique dans plusieurs formes traditionnelles de l'ITF (comme *Yul-Gok Tul* ou *Joong-Goon Tul*).
 

@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Étouffement d'attaque basse et absorption à deux bras :**
+>
 > 1. **Absorption de puissance :** Le croisement des poings (**Kyocha**) crée une structure renforcée qui permet d'intercepter des coups de pied bas très puissants en répartissant l'impact sur les deux bras.
 > 2. **Action pressante (*Noollo*) :** Plutôt que de frapper le membre adverse de plein fouet, le mouvement pressant accompagne et écrase la jambe ou le genou de l'agresseur vers le bas, déséquilibrant son assise et ouvrant une opportunité de riposte.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des blocages croisés pressants ou bas dans des formes avancées telles que **Toi-Gye Tul** ou **Ge-Baek Tul**, où ils servent à neutraliser des frappes de genou ou des coups de pied directs bas.

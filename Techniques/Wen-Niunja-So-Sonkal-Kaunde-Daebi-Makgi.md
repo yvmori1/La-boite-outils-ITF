@@ -48,8 +48,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Verrouillage des poignets :** Au tout dernier millième de seconde, les deux poignets effectuent une vrille sèche pour orienter les tranchants (**Sonkal**) vers l'extérieur et l'avant.
 2. **Fixation de la garde :**
-   * La main avant (droite) stoppe à hauteur des épaules/du plexus (*Kaunde*).
-   * La main arrière (gauche) se stabilise à 2-3 cm devant le plexus solaire.
+    * La main avant (droite) stoppe à hauteur des épaules/du plexus (*Kaunde*).
+    * La main arrière (gauche) se stabilise à 2-3 cm devant le plexus solaire.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle l'ancrage arrière (70/30) et la rigidité de la garde.
 
 ---
@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Bouclier dynamique, préhension rapide et protection arrière :**
+>
 > 1. **Polyvalence des mains ouvertes (*Sonkal*) :** Contrairement à un blocage avec les poings fermés (*Palmok*), les mains ouvertes permettent non seulement d'écarter ou de dévier un coup de poing ou de pied moyen, mais aussi de **saisir immédiatement le membre de l'agresseur** (*Gatda*) ou d'enchaîner sur une frappe au tranchant de la main à la gorge.
 > 2. **Protection de la ligne centrale :** La main arrière placée devant le plexus solaire protège les organes vitaux contre les feintes ou les attaques pénétrantes au centre.
 > 3. **Sécurité de distance (*Niunja Sogi*) :** Mettre 70% du poids sur la jambe arrière (gauche) recule le haut du corps hors d'atteinte de l'adversaire tout en laissant la jambe avant (droite) légère et prête à décocher un coup de pied de contre-attaque direct (*Ap Chagi*) ou latéral (*Yop Chagi*).

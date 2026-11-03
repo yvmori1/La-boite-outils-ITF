@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Interception sous l'attaque, absorption douce et esquive arrière :**
+>
 > 1. **Déviation par le dessous :** En montant sous le bras ou la jambe de l'agresseur (*Ollyo*), la paume détourne l'énergie de la frappe vers le haut, déséquilibrant l'adversaire vers l'arrière.
 > 2. **Protection contre les chocs durs :** L'utilisation de la paume (*Sonbadak*) évite le choc os contre os (contrairement à un blocage à l'avant-bras), tout en offrant un contrôle de saisie ou de poussée fluide.
 > 3. **Puissance de rotation du bras inverse (*Bandae*) :** La rotation synchrone de la hanche opposée confère la force verticale nécessaire pour soulever une attaque lourde.

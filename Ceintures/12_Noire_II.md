@@ -10,32 +10,32 @@ CEINTURE NOIRE — 2e Degré (Dan)
 ## Exigences Techniques de l'Examen
 
 * **Pré-requis :**
-  * Minimum de deux ans (24 mois) d'entraînement actif depuis l'obtention du 2e Dan ITF.
-  * Trois évaluations préparatoires sous un examinateur international (6e Dan ou plus).
+    * Minimum de deux ans (24 mois) d'entraînement actif depuis l'obtention du 2e Dan ITF.
+    * Trois évaluations préparatoires sous un examinateur international (6e Dan ou plus).
 * **Théorie :**
-  * Volume 1 de l'Encyclopédie et lexique officiel.
+    * Volume 1 de l'Encyclopédie et lexique officiel.
 * **Formes (Tuls) :**
-  * *Eui-Am*
-  * *Choong-Jang*
-  * *Juche*
-  * Révision complète de *Chon-Ji* à *Ge-Baek*.
+    * *Eui-Am*
+    * *Choong-Jang*
+    * *Juche*
+    * Révision complète de *Chon-Ji* à *Ge-Baek*.
 * **Combats arrangés :**
-  * 10 techniques de combat sur 1 pas.
-  * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
+    * 10 techniques de combat sur 1 pas.
+    * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
 * **Combat :**
-  * Combat libre réglementaire
-  * Combat utilisant exclusivement les jambes.
+    * Combat libre réglementaire
+    * Combat utilisant exclusivement les jambes.
 * **Autodéfense (Hosinsul) :**
-  * Défense contre un agresseur armé d'un couteau.
+    * Défense contre un agresseur armé d'un couteau.
 * **Cassage (Kyokpa) :**
-  * **Coup du tranchant de la main :**
-    * Homme (3 planches)
-    * Femme (2 planches).
-  * **Coup de pied latéral sauté en hauteur** (Non requis pour les 35 ans et plus) :
-    * Homme : 1 planche à hauteur de coude (bras levé).
-    * Femme : 1 planche à hauteur des yeux.
-  * **Coup de pied avant sauté sur place** (Non requis pour les 35 ans et plus)
-    * 1 planche à hauteur du bout des doigts.
+    * **Coup du tranchant de la main :**
+        * Homme (3 planches)
+        * Femme (2 planches).
+    * **Coup de pied latéral sauté en hauteur** (Non requis pour les 35 ans et plus) :
+        * Homme : 1 planche à hauteur de coude (bras levé).
+        * Femme : 1 planche à hauteur des yeux.
+    * **Coup de pied avant sauté sur place** (Non requis pour les 35 ans et plus)
+        * 1 planche à hauteur du bout des doigts.
 
 ## Le "DO" : Philosophie, Responsabilité et Enseignement
 
@@ -52,7 +52,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q1. Quelle est la signification historique de EUI-AM Tul ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** **EUI-AM** est le pseudonyme de **Son Byong Hi**, leader du mouvement d'indépendance de la Corée du **1er mars 1919**. Les **45 mouvements** rappellent l'année **1905** où il a changé le nom de la religion Dong Hak en Chondo Kyo. Son diagramme au sol est une ligne verticale ( | ) symbolisant son esprit indomptable.
@@ -61,7 +61,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q2. Quelle est la signification historique et la fin tragique rattachée à CHOONG-JANG Tul ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** **CHOONG-JANG** est le pseudonyme donné au général **Kim Duk Ryang** de la dynastie Lee (XIVe siècle). La forme se termine par une attaque de la **main gauche** pour symboliser sa mort tragique à **27 ans** en prison avant d'avoir pu donner la pleine mesure de son potentiel. Comporte **52 mouvements**.
@@ -70,7 +70,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q3. Quelle est la philosophie de la forme JUCHE Tul et d'où tire-t-elle sa symbolique ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** **JUCHE** est l'idée philosophique selon laquelle l'homme est le maître de tout et décide de son propre destin. Elle tire sa force de l'esprit du **Mont Baekdu**, symbole de la force du peuple coréen. Le diagramme au sol représente ce mont majestueux ( 山 ). Comporte **45 mouvements**.
@@ -79,7 +79,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q4. Quel Tul historique est parfois remplacé par JUCHE dans certaines fédérations, et quelle est sa signification ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** C'est le Tul **KO-DANG** (39 mouvements). Il est le pseudonyme du patriote **Cho Man Shik** qui a dédié sa vie au mouvement d'indépendance de la Corée et à l'éducation de son peuple. Les 39 mouvements correspondent à ses 39 emprisonnements et à la latitude de son lieu de naissance.
@@ -93,13 +93,13 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 * c) Coup de pied avant sauté sur place
 * d) Autodéfense contre couteau
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :**
-  * a) Coup du tranchant de la main = **Sonkal Taerigi**
-  * b) Coup de pied latéral sauté en hauteur = **Twimyo Yopcha Jirugi**
-  * c) Coup de pied avant sauté sur place = **Twimyo Apcha Busigi**
-  * d) Autodéfense contre couteau = **Hosinsul gegen couteau** (ou self defence against knife)
+    * a) Coup du tranchant de la main = **Sonkal Taerigi**
+    * b) Coup de pied latéral sauté en hauteur = **Twimyo Yopcha Jirugi**
+    * c) Coup de pied avant sauté sur place = **Twimyo Apcha Busigi**
+    * d) Autodéfense contre couteau = **Hosinsul gegen couteau** (ou self defence against knife)
 
 </details>

@@ -35,9 +35,9 @@ Le blocage tire sa stabilité et la force de sa structure de l'ancrage au sol de
 
 * **Arme naturelle (*Jook Bang*) :** **Bakat Palmok** (Tranchant extérieur de l'avant-bras, situé au-dessus de la saillie osseuse du poignet).
 * **Position d'arrêt finale :**
-  1. Le poing d'attaque se fixe à la **hauteur des yeux / tempes** (*Nopunde*).
-  2. L'avant-bras est orienté vers la **ligne latérale du corps** (*Yop*), formant un angle fléchi d'environ **110° à 120°** au niveau du coude.
-  3. L'avant-bras est légèrement incliné pour absorber le choc et faire glisser la frappe adverse vers l'extérieur.
+    1. Le poing d'attaque se fixe à la **hauteur des yeux / tempes** (*Nopunde*).
+    2. L'avant-bras est orienté vers la **ligne latérale du corps** (*Yop*), formant un angle fléchi d'environ **110° à 120°** au niveau du coude.
+    3. L'avant-bras est légèrement incliné pour absorber le choc et faire glisser la frappe adverse vers l'extérieur.
 
 ---
 
@@ -66,6 +66,7 @@ Le blocage tire sa stabilité et la force de sa structure de l'ancrage au sol de
 
 > **Interception des attaques circulaires et des crochets :**
 > Le *Gunnun So Bakat Palmok Nopunde Yop Makgi* est spécialement conçu pour contrer les trajectoires arrivant par les flancs :
+>
 > 1. **Défense contre coup de pied circulaire haut (*Nopunde Dollyo Chagi*) :** L'avant-bras extérieur forme un bouclier rigide pour arrêter le coup de pied avant qu'il ne touche la tempe ou la mâchoire.
 > 2. **Protection contre les crochets / percussions latérales :** Permet de stopper net une frappe puissante venant du côté tout en conservant une posture d'ancrage (*Gunnun Sogi*) permettant d'avancer sur l'adversaire.
 > 3. **Création d'ouverture :** En repoussant la frappe adverse vers l'extérieur, il détruit son alignement et laisse son buste entièrement découvert pour un contre direct (*Ap Jirugi*).

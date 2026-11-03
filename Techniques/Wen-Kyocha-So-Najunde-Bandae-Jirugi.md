@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Changement d'axe, contournement de garde et frappe sous la ceinture :**
+>
 > 1. **Dépassement de la garde adverse :** Le pas croisé en *Kyocha Sogi* permet de glisser rapidement à l'intérieur ou à l'extérieur de la garde de l'adversaire en changeant la ligne d'attaque.
 > 2. **Pénétration sur zone vitale basse (*Najunde*) :** La frappe vise le plexus hypogastrique, la vessie ou l'aine. Cette zone est souvent laissée à découvert lorsque l'adversaire monte ses mains pour protéger son visage.
 > 3. **Puissance de torsion en espace réduit :** L'effet de ciseau créé par le croisement des genoux et le tirage de la main de réaction à la hanche engendre une force de frappe considérable, même sans grand recul.

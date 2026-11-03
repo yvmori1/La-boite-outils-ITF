@@ -25,17 +25,17 @@ Elle se traduit par : **Poussée horizontale double des coudes en position crois
 Cette technique délivre une double poussée latérale ou vers l'extérieur en ancrant le bassin par la descente du poids du corps dans la position croisée :
 
 1. **La position des jambes (*Kyocha Sogi*) :**
-   * Un pied croise devant l'autre et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
-   * La plante de l'autre pied (*Balsadok*) touche légèrement le sol juste derrière le talon avant pour assurer l'équilibre.
-   * Les deux genoux sont fléchis et fortement pressés l'un contre l'autre.
+    * Un pied croise devant l'autre et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
+    * La plante de l'autre pied (*Balsadok*) touche légèrement le sol juste derrière le talon avant pour assurer l'équilibre.
+    * Les deux genoux sont fléchis et fortement pressés l'un contre l'autre.
 2. **L'armement (Préparation) :**
-   * Les deux mains se ferment en poings et viennent se croiser devant la poitrine, paumes orientées vers le bas ou vers soi.
-   * Les coudes sont repliés contre le buste pour emmagasiner un maximum d'énergie de poussée.
-   * L'exécutant s'élève pendant la phase ascendante de la vague (*Sine Wave*).
+    * Les deux mains se ferment en poings et viennent se croiser devant la poitrine, paumes orientées vers le bas ou vers soi.
+    * Les coudes sont repliés contre le buste pour emmagasiner un maximum d'énergie de poussée.
+    * L'exécutant s'élève pendant la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la poussée double (*Sang Palkup Soopyong Tulgi*) :**
-   * En redescendant brusquement dans la posture croisée, les deux coudes s'écartent ou se projettent simultanément selon une ligne **rigoureusement horizontale** (**Soopyong**).
-   * La poussée des deux coudes (**Sang Palkup**) s'effectue vers l'extérieur (chacun de son côté) ou vers l'avant-côté pour percuter deux cibles en même temps.
-   * À l'impact, les poings restent fermement serrés contre le torse/poitrine et les bras forment une ligne de force horizontale parfaite.
+    * En redescendant brusquement dans la posture croisée, les deux coudes s'écartent ou se projettent simultanément selon une ligne **rigoureusement horizontale** (**Soopyong**).
+    * La poussée des deux coudes (**Sang Palkup**) s'effectue vers l'extérieur (chacun de son côté) ou vers l'avant-côté pour percuter deux cibles en même temps.
+    * À l'impact, les poings restent fermement serrés contre le torse/poitrine et les bras forment une ligne de force horizontale parfaite.
 
 ---
 

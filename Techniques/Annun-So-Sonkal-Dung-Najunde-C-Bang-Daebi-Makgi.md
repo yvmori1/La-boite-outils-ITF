@@ -38,8 +38,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 2 : Le Déploiement en Cadre "C" et la *Sine Wave*
 
 1. **Déploiement synchronisé :**
-   * Le bras principal descend vers le bas du flanc en trajectoire tranchante bas (*Najunde*).
-   * Le bras de soutien se place au-dessus à hauteur du thorax/abdomen, formant l'extrémité supérieure du cadre en "C" (*C-Bang*).
+    * Le bras principal descend vers le bas du flanc en trajectoire tranchante bas (*Najunde*).
+    * Le bras de soutien se place au-dessus à hauteur du thorax/abdomen, formant l'extrémité supérieure du cadre en "C" (*C-Bang*).
 2. **Chute de masse :** Redescente lourde du bassin en fléchissant les deux genoux en *Annun Sogi* au moment d'ancrer le blocage au sol.
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection basse double et déviation avec le tranchant interne :**
+>
 > 1. **Absorption et déviation des coups de pied bas (*Low kicks*) :** L'utilisation du *Sonkal Dung* permet de "crocheter" ou balayer le tibia/la cheville adverse avec la zone solide de l'index, tout en évitant le choc direct os contre os.
 > 2. **Cadre de sécurité (*C-Bang*) :** La structure encadrée en "C" empêche une attaque basse de glisser vers l'intérieur du corps. Le bras supérieur reste prêt à parer une feinte qui remonterait au niveau moyen.
 > 3. **Stabilité d'ancrage :** La posture *Annun Sogi* offre la largeur et la profondeur nécessaires pour intercepter des attaques lourdes au niveau des jambes sans déséquilibre.

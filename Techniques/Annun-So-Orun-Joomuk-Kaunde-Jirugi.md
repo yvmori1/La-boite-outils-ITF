@@ -61,6 +61,7 @@ Dans la nomenclature de l'ITF :
 ## 3. Intérêt tactique et Principes de Force (*Jungshin*)
 
 > **Maximisation du transfert de masse sur base fixe :**
+>
 > 1. **Force de réaction (*Reaction Force*) :** Le tirage explosif de la main gauche vers la hanche (*Heori*) crée un couple de torsion au niveau de la ceinture scapulaire, doublant l'efficacité d'impact du poing droit.
 > 2. **Stabilité latérale :** L'ancrage bas et large en *Annun Sogi* absorbe la force d'impact en retour, garantissant que le pratiquant ne soit ni déséquilibré ni repoussé lors d'une frappe puissante.
 > 3. **Travail du centre (*Danjeon*) :** C'est l'exercice par excellence pour coordonner la respiration, la descente de masse (*Sine Wave*) et le verrouillage musculaire à l'impact.

@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Effet de levier et rupture de prise haute :**
+>
 > 1. **Casser une prise au cou / étranglement :** Si un agresseur saisit le col ou la gorge, la montée violente du bras droit en *San Makgi* vient percuter et écarter l'intérieur de ses bras, brisant la prise par effet de levier.
 > 2. **Protection contre attaques hautes simultanées :** Protège la tempe droite et le visage contre une frappe circulaire (ex: crochet ou bâton) tout en maintenant une structure bilatérale.
 > 3. **Stabilité latérale :** L'ancrage bas en *Annun Sogi* offre une résistance maximale contre les poussées et les impacts venant de face ou de côté.

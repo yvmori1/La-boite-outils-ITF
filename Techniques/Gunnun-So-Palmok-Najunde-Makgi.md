@@ -33,10 +33,10 @@ Le blocage bas tire sa puissance de l'ancrage de la posture de marche :
 
 * **Arme naturelle (*Jook Bang*) :** **Bakat Palmok** (Tranchant extérieur de l'avant-bras, situé au niveau de l'os ulna / cubitus).
 * **Position d'arrêt finale :**
-  1. L'avant-bras se fixe au-dessus de la cuisse de la jambe avancée.
-  2. L'espace entre le dessous de l'avant-bras et la cuisse doit être d'environ **15 à 20 cm (l'équivalent de deux poings fermés)**.
-  3. L'avant-bras forme un angle de **25° à 30° par rapport à la horizontale** pour faire glisser l'attaque adverse vers l'extérieur.
-  4. Le coude est légèrement fléchi (angle de 145° à 160°) pour absorber l'impact sans se bloquer.
+    1. L'avant-bras se fixe au-dessus de la cuisse de la jambe avancée.
+    2. L'espace entre le dessous de l'avant-bras et la cuisse doit être d'environ **15 à 20 cm (l'équivalent de deux poings fermés)**.
+    3. L'avant-bras forme un angle de **25° à 30° par rapport à la horizontale** pour faire glisser l'attaque adverse vers l'extérieur.
+    4. Le coude est légèrement fléchi (angle de 145° à 160°) pour absorber l'impact sans se bloquer.
 
 ---
 
@@ -65,6 +65,7 @@ Le blocage bas tire sa puissance de l'ancrage de la posture de marche :
 
 > **Protection vitale du bas-ventre et déviation des coups de pied :**
 > Le *Najunde Makgi* est le bouclier principal de la zone inférieure :
+>
 > 1. **Défense contre le coup de pied direct (*Ap Chagi*) :** L'avant-bras vient intercepter ou percuter le tibia/coup-de-pied de l'adversaire avant qu'il n'atteigne le bas-ventre ou les parties génitales.
 > 2. **Dévier les coups de poing bas :** Permet de chasser vers l'extérieur une attaque poing descendant ou un coup de poing direct visant le nombril.
 > 3. **Casser l'équilibre adverse :** En percutant vivement la jambe d'attaque de l'agresseur vers l'extérieur, le blocage désaxe son buste et le laisse vulnérable à une riposte directe (*Jirugi*).

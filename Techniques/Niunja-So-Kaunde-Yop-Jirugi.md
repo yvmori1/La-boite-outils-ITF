@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque en angle mort et stabilité en retrait :**
+>
 > 1. **Gestion d'un agresseur sur le flanc :** Le *Yop Jirugi* permet de neutraliser un adversaire qui tente de vous contourner ou qui attaque depuis le côté, sans avoir besoin de faire un tour complet sur soi-même.
 > 2. **Profiter de la mobilité de la posture en L :** La répartition de masse en *Niunja Sogi* (60% sur l'arrière) permet d'absorber une charge venant de face tout en frappant un second adversaire ou une ouverture latérale.
 > 3. **Pénétration étroite (*Ap Joomuk*) :** La projection en piston du poing traverse la garde latérale pour atteindre directement les côtes flottantes ou le plexus.

@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Casse d'appui immédiate, attaque d'angle mort et rapidité d'exécution :**
+>
 > 1. **Destruction des appuis (*Knee joint destruction*) :** En ciblant le genou adverse de biais à 45°, le *Najunde Yobap Cha Busigi* provoque une hyperextension de l'articulation ou une rupture des ligaments croisés/collatéraux.
 > 2. **Attaque difficile à détecter :** Comme la trajectoire passe dans la diagonale (*Yobap*), elle contourne la vision directe de l'adversaire et s'infiltre sous sa garde sans télégraphier le mouvement.
 > 3. **Temps d'exécution ultra-court :** La faible amplitude du parcours (hauteur basse) et l'effet fouetté (*Busigi*) en font une technique quasi-impossible à bloquer pour un agresseur qui avance.

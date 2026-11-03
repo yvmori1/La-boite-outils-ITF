@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Vitesse de réaction et percussion des zones vasculaires/nerveuses :**
+>
 > 1. **Vitesse supérieure de la main ouverte :** Une frappe délivrée avec la main ouverte (*Sondung*) fouette plus rapidement qu'un poing fermé contracté (*Dung Joomuk*), ce qui permet de surprendre la garde d'un agresseur.
 > 2. **Choc traumatique sur le cou / la tempe :** Impactée à plat avec le dos de la main, la région carotidienne ou la tempe subit un traumatisme rotatif ou vasculaire capable de provoquer un étourdissement immédiat.
 > 3. **Contournement sur le plan horizontal (*Soopyong*) :** La trajectoire parallèle au sol glisse par-dessus les blocages verticaux pour atteindre les côtés de la tête.

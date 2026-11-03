@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Gestion d'un encerclement, effet de levier en apesanteur et neutralisation double :**
+>
 > 1. **Neutralisation de deux agresseurs :** Conçu pour faire face à une attaque simultanée venant de deux côtés différents (ex: deux adversaires vous encerclant).
 > 2. **Équilibre dynamique en apesanteur :** La poussée simultanée dans deux directions opposées annule le risque de déséquilibre latéral qu'engendrerait une frappe unique d'un seul côté sans appui au sol.
 > 3. **Démonstration ultime de contrôle neuromusculaire :** Exige une puissance pliométrique, une souplesse et une synchronisation de haut niveau.

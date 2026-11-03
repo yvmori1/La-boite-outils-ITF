@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe d'écrasement verticale et travail d'équilibre central :**
+>
 > 1. **Puissance de gravité :** L'utilisation du marteau du poing (**Yop Joomuk**) couplée à la chute de masse descendante de la *Sine Wave* génère une force d'écrasement dévastatrice, idéale pour casser une garde, frapper une clavicule ou neutraliser un bras attaquant.
 > 2. **Rigueur en *Moa Sogi* :** Frapper fort de haut en bas avec le poing droit tout en gardant les pieds strictement collés exige un gainage abdominal intense pour ne pas basculer vers l'avant.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des frappes marteau descendantes du poing droit en posture pieds joints ou en transition dans plusieurs formes du Taekwon-Do ITF (notamment dans **Gae-Baek Tul**, **Yoo-Sin Tul** ou **Po-Eun Tul**).

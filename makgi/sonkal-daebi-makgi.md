@@ -55,6 +55,7 @@ Les deux mains ouvertes travaillent de concert pour former un bouclier fluide et
 
 > **La polyvalence ultime de la main ouverte :**
 > Par rapport au blocage de garde à poings fermés (*Palmok Daebi Makgi*), le **Sonkal Daebi Makgi** offre une supériorité tactique en termes de fluidité et de transition :
+>
 > 1. **Dévier sans bloquer net :** Le tranchant de la main permet de glisser le long de la frappe adverse pour la dévier hors de sa trajectoire sans encaisser un choc dur bone-to-bone.
 > 2. **Saisie instantanée (*Japgi*) :** La main étant déjà ouverte, l'exécution d'une saisie de poignet ou de cheville après l'interception se fait sans temps mort.
 > 3. **Contre-attaque immédiate :** Permet d'enchaîner sans réarmement complexe vers une pique des doigts (*Sonkut Tulgi*), une frappe du tranchant au cou (*Sonkal Taerigi*) ou un coup de coude.

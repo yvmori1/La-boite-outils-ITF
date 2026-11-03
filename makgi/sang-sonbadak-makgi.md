@@ -51,6 +51,7 @@ Le *Doo Sonbadak Makgi* s'adapte à l'angle et à la hauteur d'interception (*No
 
 > **L'absorption sans choc dur et le contrôle bilatéral :**
 > Contrairement aux blocages osseux (*Palmok*), la paume offre une surface charnue idéale pour :
+>
 > 1. **Absorber la puissance brute :** Intercepter les attaques très lourdes (ex: coup de pied frontal puissant) sans risquer de se fracturer l'avant-bras.
 > 2. **Saisie et déséquilibre immédiat (*Japgi*) :** Les deux mains étant déjà ouvertes, le passage du blocage à une saisie à deux mains de la jambe ou du bras adverse est instantané.
 > 3. **Création d'ouverture :** En pressant la garde adverse vers le bas avec deux paumes, vous découvrez complètement le visage de l'agresseur pour un coup de poing ou un coup de genou direct.

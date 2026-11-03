@@ -18,13 +18,13 @@ Elle se traduit par : **Coup de pied circulaire inversé au niveau haut** (*High
 ## 2. Exécution et principes biomécaniques
 
 1. **La rotation et l'armement :**
-   * Depuis la position de garde, le corps pivote sur le pied d'appui en tournant le dos à l'adversaire (rotation de 180° à 360°).
-   * Le genou de la jambe de frappe monte rapidement tout en restant fléchi durant la rotation pour maximiser la vitesse angulaire.
+    * Depuis la position de garde, le corps pivote sur le pied d'appui en tournant le dos à l'adversaire (rotation de 180° à 360°).
+    * Le genou de la jambe de frappe monte rapidement tout en restant fléchi durant la rotation pour maximiser la vitesse angulaire.
 2. **La trajectoire et l'impact :**
-   * La jambe se détend en décrivant un arc de cercle à travers la cible au niveau haut (**Nopunde**).
-   * L'impact est délivré avec le dessous du talon (**Dwit Chook**) ou la plante du pied (**Balsadok**).
+    * La jambe se détend en décrivant un arc de cercle à travers la cible au niveau haut (**Nopunde**).
+    * L'impact est délivré avec le dessous du talon (**Dwit Chook**) ou la plante du pied (**Balsadok**).
 3. **Le réarmement et la réception :**
-   * Après le passage au travers de la cible, la jambe est réarmée (fléchie) de manière contrôlée avant de reposer au sol pour conserver l'équilibre.
+    * Après le passage au travers de la cible, la jambe est réarmée (fléchie) de manière contrôlée avant de reposer au sol pour conserver l'équilibre.
 
 ## 3. Applications et cibles
 

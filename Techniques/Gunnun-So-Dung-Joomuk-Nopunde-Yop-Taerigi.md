@@ -37,10 +37,10 @@ La frappe tire son ancrage et son transfert de masse de la posture de marche :
 * L'impact se concentre précisément sur la surface osseuse du **dos des deux grosses jointures** (index et majeur).
 
 * **Zone ciblée :**
-  * La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G[턱](../audio/termes/턱.m4a)*) ou l'**arête du nez** (*Injoung*) d'un adversaire situé sur le côté.
+    * La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G[턱](../audio/termes/턱.m4a)*) ou l'**arête du nez** (*Injoung*) d'un adversaire situé sur le côté.
 
 * **Hauteur d'arrêt :**
-  * Le poing se fixe à la **hauteur des yeux / des tempes** (*Nopunde*).
+    * Le poing se fixe à la **hauteur des yeux / des tempes** (*Nopunde*).
 
 ---
 
@@ -70,6 +70,7 @@ La frappe tire son ancrage et son transfert de masse de la posture de marche :
 
 > **Frappe réflexe et changement d'axe :**
 > Le *Gunnun So Dung Joomuk Nopunde Yop Taerigi* est une attaque idéale lors de déplacements de profil :
+>
 > 1. **Attaque dans l'angle mort :** Permet de frapper un adversaire qui tente d'enrouler votre garde par le côté tout en continuant de progresser ou de sortir d'axe en posture de marche.
 > 2. **Effet de fouet imprévisible :** Comme la frappe pivote autour du coude sans armement d'épaule massif, elle est quasi-impossible à anticiper pour l'adversaire.
 > 3. **Cibles très fragiles :** Un impact sec du revers des jointures sur la tempe provoque un ébranlement immédiat du système vestibulaire / perte d'équilibre.

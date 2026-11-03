@@ -26,17 +26,17 @@ Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position L dro
 Cette technique offre une protection compacte et très solide en utilisant les poings fermés et la structure des avant-bras :
 
 1. **La position des jambes (*Orun Niunja Sogi*) :**
-   * Le pied droit se trouve à l'arrière, orienté à 15° vers l'extérieur, supportant **70 % du poids**.
-   * Le pied gauche est à l'avant, orienté vers l'avant (légèrement rentré de 15°), supportant **30 % du poids**.
-   * Les talons sont alignés sur la même ligne de référence.
+    * Le pied droit se trouve à l'arrière, orienté à 15° vers l'extérieur, supportant **70 % du poids**.
+    * Le pied gauche est à l'avant, orienté vers l'avant (légèrement rentré de 15°), supportant **30 % du poids**.
+    * Les talons sont alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**
-   * Contrairement au *Sonkal Daebi Makgi* (mains ouvertes), les deux mains sont **fermées en poings**.
-   * Les bras sont ramenés vers la hanche/épaule arrière, les paumes tournées l'une vers l'autre ou vers soi.
-   * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*).
+    * Contrairement au *Sonkal Daebi Makgi* (mains ouvertes), les deux mains sont **fermées en poings**.
+    * Les bras sont ramenés vers la hanche/épaule arrière, les paumes tournées l'une vers l'autre ou vers soi.
+    * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et le blocage (*Kaunde Daebi Makgi*) :**
-   * En redescendant dans la vague, le bras avant s'élance vers l'avant, le coude conservant une flexion d'environ 110° à 120°. Le poing avant se fixe à la hauteur des épaules/yeux.
-   * La main arrière (poing de garde) vient se placer à quelques centimètres du plexus solaire, l'avant-bras protégeant le tronc.
-   * Les poignets se verrouillent fermement à l'instant précis du contact et de la stabilisation en position *Niunja Sogi*.
+    * En redescendant dans la vague, le bras avant s'élance vers l'avant, le coude conservant une flexion d'environ 110° à 120°. Le poing avant se fixe à la hauteur des épaules/yeux.
+    * La main arrière (poing de garde) vient se placer à quelques centimètres du plexus solaire, l'avant-bras protégeant le tronc.
+    * Les poignets se verrouillent fermement à l'instant précis du contact et de la stabilisation en position *Niunja Sogi*.
 
 ---
 

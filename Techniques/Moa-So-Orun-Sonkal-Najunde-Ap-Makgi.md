@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dévitation fluide, compacité et stabilité axiale :**
+>
 > 1. **Dévitation au tranchant (*Sonkal*) :** Utiliser le tranchant de la main plutôt que l'avant-bras permet de trancher ou de balayer la jambe/bras adverse avec plus de tranchant et de rapidité, tout en permettant une transition immédiate vers une saisie ou une contre-attaque.
 > 2. **Rigueur de la posture *Moa Sogi* :** Exécuter un blocage bas puissant tout en restant ancré en pieds joints exige un contrôle parfait de la sangle abdominale pour absorber la force de l'attaque adverse sans reculer ni perdre l'équilibre.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des blocages au tranchant de la main en posture pieds joints dans plusieurs formes du Taekwon-Do ITF, notamment dans **Po-Eun Tul**, **Gae-Baek Tul** ou **Yoo-Sin Tul**.

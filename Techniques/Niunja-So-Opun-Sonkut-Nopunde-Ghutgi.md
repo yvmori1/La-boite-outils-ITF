@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Attaque chirurgicale sur point vital :**
+>
 > 1. **Cible ultra-précise :** Contrairement à un coup de poing qui cherche l'impact de masse, le *Ghutgi* avec *Opun Sonkut* vise la neutralisation immédiate en atteignant les yeux ou les voies respiratoires par un geste vif et difficile à parer.
 > 2. **Pénétration à plat (*Opun*) :** Orienter la paume vers le sol permet de faire passer la pointe des doigts entre les bras de la garde adverse.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette technique spécifique dans le patron **Se-Jong Tul** (mouvement 13), où elle demande un grand contrôle de la rigidité des doigts et de l'alignement du poignet.

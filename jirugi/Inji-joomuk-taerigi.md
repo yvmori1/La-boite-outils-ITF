@@ -60,6 +60,7 @@ Le *Inji Joomuk* est une arme naturelle fragile si elle est mal formée. Sa pré
 > **Effet "Pointe de piolet" sur les points de pression :**
 > En réduisant la surface d'impact à la seule jointure de l'index, la pression exercée (Force / Surface) est démultipliée par rapport à un poing classique (*Ap Joomuk*).
 > **Cibles prioritaires :**
+>
 > * La **tempe** (*Gwanja Noryeok*) : Pour provoquer un choc nerveux immédiat.
 > * L'**arête du nez** / sous le nez (*Injoung*).
 > * La **mâchoire** ou le dessous de l'oreille (*Gyeongjo*).

@@ -18,11 +18,11 @@ C'est une technique défensive double complexe et avancée où les deux bras s'a
 Le *Gutja Makgi* combine deux mouvements d'avant-bras pour fermer deux trajectoires d'attaque :
 
 1. **Le bras supérieur (Partie haute du "9") :**
-   * **Position :** L'avant-bras se place à l'horizontale (ou légèrement incliné) au niveau haut ou moyen (*Nopunde* / *Kaunde*), le poing verrouillé devant le visage ou le thorax.
-   * **Rôle :** Bloquer ou dévier une attaque haute (coup de poing au visage, coup de pied circulaire).
+    * **Position :** L'avant-bras se place à l'horizontale (ou légèrement incliné) au niveau haut ou moyen (*Nopunde* / *Kaunde*), le poing verrouillé devant le visage ou le thorax.
+    * **Rôle :** Bloquer ou dévier une attaque haute (coup de poing au visage, coup de pied circulaire).
 2. **Le bras inférieur (Tige descendante du "9") :**
-   * **Position :** L'autre bras s'étend vers le bas ou le côté le long du buste/de la cuisse pour former la ligne verticale du chiffre 9.
-   * **Rôle :** Protéger le bas-ventre, le flanc ou la cuisse contre une attaque basse (*Najunde*).
+    * **Position :** L'autre bras s'étend vers le bas ou le côté le long du buste/de la cuisse pour former la ligne verticale du chiffre 9.
+    * **Rôle :** Protéger le bas-ventre, le flanc ou la cuisse contre une attaque basse (*Najunde*).
 3. **Surfaces d'impact :** S'exécute le plus souvent avec le tranchant externe de l'avant-bras (**Bakat Palmok**) ou le tranchant interne (**An Palmok**).
 
 ---
@@ -51,6 +51,7 @@ Le *Gutja Makgi* combine deux mouvements d'avant-bras pour fermer deux trajectoi
 
 > **La protection simultanée multi-niveaux :**
 > Le *Gutja Makgi* est spécialement conçu pour contrer les combinaisons d'attaques à deux niveaux ou les attaques simultanées :
+>
 > 1. **Interception d'enchaînements haut/bas :** Permet de stopper un adversaire qui feinte au corps pour remonter au visage, ou qui enchaîne un coup de poing haut suivi d'un coup de pied bas.
 > 2. **Neutralisation à courte distance :** La structure fermée du "9" crée un bouclier compact idéal en combat rapproché (*In-fighting*), empêchant l'adversaire d'insérer ses frappes au centre du buste.
 

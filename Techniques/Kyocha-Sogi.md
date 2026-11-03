@@ -43,6 +43,7 @@ En TaeKwon-Do ITF, la dénomination d'une technique exécutée en *Kyocha Sogi* 
 ## 4. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Mobilité, absorption et changement de direction instantané :**
+>
 > 1. **Réception de saut et absorption :** C'est la posture de réception idéale après un saut pour absorber l'impact au sol grâce à la flexion double des genoux.
 > 2. **Esquive et changement d'axe :** Elle permet de se désaxer rapidement d'une ligne d'attaque adverse sans perdre son équilibre ni réduire sa capacité de riposte.
 > 3. **Ressort explosif :** La position fléchie des genoux emmagasine de l'énergie élastique, permettant de jaillir immédiatement dans une autre direction ou d'enchaîner un coup de pied (*Chagi*).

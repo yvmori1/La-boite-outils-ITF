@@ -51,6 +51,7 @@ Le terme *Son* (main) sert de catégorie générale et se spécifie selon la sur
 
 > **Contourner la garde et cibler les zones vitales latérales :**
 > Le *Bandol Son Taerigi* est une attaque redoutable lorsque l'adversaire verrouille sa garde axiale :
+>
 > 1. **Contournement d'obstacle :** Alors qu'un coup de poing direct est bloqué par les avant-bras de l'adversaire, la trajectoire en arc du *Bandol* passe par l'extérieur pour atteindre les côtés de la tête ou du cou.
 > 2. **Impact traumatique sur la carotide :** Exécuté avec le tranchant de la main (*Sonkal*), un coup cinglant à la carotide ou au nerf vague peut provoquer une perte de connaissance ou une désorientation immédiate en Self-Défense.
 

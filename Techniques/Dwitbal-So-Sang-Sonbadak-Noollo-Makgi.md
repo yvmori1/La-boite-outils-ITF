@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Neutralisation d'attaques lourdes et esquive arrière :**
+>
 > 1. **Pression à deux mains contre attaques puissantes :** L'utilisation simultanée des deux paumes (*Sang Sonbadak*) offre une surface d'appui large et robuste capable d'écraser et de stopper net un coup de pied direct lourd (*Ap Chagi*) ou une poussée de genou (*Moorup Chagi*).
 > 2. **Absorption douce sans blessure :** La chair des paumes absorbe la force cinétique du coup sans subir le traumatisme osseux qu'engendrerait un choc direct sur les poignets ou les tibias.
 > 3. **Protection de la distance (*Dwitbal Sogi*) :** Le recul à 95% sur la jambe arrière éloigne la tête et le buste du danger tout en conservant la jambe avant entièrement libre pour répliquer immédiatement par un coup de pied.

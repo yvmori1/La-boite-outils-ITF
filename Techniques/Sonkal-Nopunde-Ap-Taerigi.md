@@ -24,24 +24,24 @@ Elle se traduit par : **Frappe du tranchant de la main vers l'avant au niveau ha
 Contrairement aux frappes de tranchant vers l'extérieur (*Bakuro Taerigi*) ou vers l'intérieur (*Anuro Taerigi*), l'attaque **Ap Taerigi** se déplace directement vers l'avant sur un axe serré :
 
 1. **L'armement (Préparation) :**
-   * La main d'attaque se place près de l'épaule opposée (ou du cou), la paume tournée vers l'intérieur ou vers le haut selon la dynamique de départ.
-   * Le bras de réaction s'étend vers l'avant pour mesurer la distance, stabiliser l'équilibre et viser la cible.
+    * La main d'attaque se place près de l'épaule opposée (ou du cou), la paume tournée vers l'intérieur ou vers le haut selon la dynamique de départ.
+    * Le bras de réaction s'étend vers l'avant pour mesurer la distance, stabiliser l'équilibre et viser la cible.
 2. **La trajectoire et la vague (*Sine Wave*) :**
-   * Le corps réalise le mouvement de vague (*descente - montée - descente*) pour exploiter la gravité et la masse corporelle.
-   * Le bras d'attaque s'élance directement vers l'avant en suivant un arc très tendu pour concentrer l'énergie vers l'avant.
+    * Le corps réalise le mouvement de vague (*descente - montée - descente*) pour exploiter la gravité et la masse corporelle.
+    * Le bras d'attaque s'élance directement vers l'avant en suivant un arc très tendu pour concentrer l'énergie vers l'avant.
 3. **L'impact et le verrouillage :**
-   * À l'impact, le bras s'étend quasi complètement avec une légère rotation finale du poignet pour fouetter la cible.
-   * Le bras de réaction est ramené vivement à la hanche (poing fermé, paume vers le haut), créant une force d'action-réaction qui accélère le coup et verrouille le bassin.
-   * La cible se situe exactement au niveau des yeux/du visage de l'exécutant (**Nopunde**).
+    * À l'impact, le bras s'étend quasi complètement avec une légère rotation finale du poignet pour fouetter la cible.
+    * Le bras de réaction est ramené vivement à la hanche (poing fermé, paume vers le haut), créant une force d'action-réaction qui accélère le coup et verrouille le bassin.
+    * La cible se situe exactement au niveau des yeux/du visage de l'exécutant (**Nopunde**).
 
 ---
 
 ## 3. Cibles anatomiques et utilisation
 
 * **Cibles visées :**
-  * Le **philtrum** (la zone entre le nez et la lèvre supérieure).
-  * L'**arête du nez**.
-  * Le **menton** ou la **mâchoire**.
+    * Le **philtrum** (la zone entre le nez et la lèvre supérieure).
+    * L'**arête du nez**.
+    * Le **menton** ou la **mâchoire**.
 * **Self-défense (*Hosin Sool*) :** C'est une frappe de neutralisation très efficace, car la surface réduite du tranchant de la main concentre toute l'énergie sur une zone osseuse sensible du visage.
 * **Formes (*Tuls*) :** On retrouve fréquemment cette technique dans les formes traditionnelles (comme *Yul-Gok Tul*) pour évaluer la précision, la vitesse de fouetté et le contrôle de l'équilibre.
 

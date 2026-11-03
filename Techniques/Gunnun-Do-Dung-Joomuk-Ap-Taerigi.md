@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe réflexe ultra-rapide et casse-garde :**
+>
 > 1. **Effet de fouet (*Snapping power*) :** Contrairement à un coup de poing direct (*Jirugi*) qui pousse en piston, le *Dung Joomuk Taerigi* agit comme un coup de cravache. Sa vitesse d'exécution le rend très difficile à intercepter.
 > 2. **Cibles osseuses fragiles du visage :** Le dos du poing impacte l'arête du nez ou le philtrum. Un impact direct provoque un larmolement automatique, des saignements immédiats et une désorientation de l'agresseur.
 > 3. **Franchissement de garde :** La trajectoire légèrement plongeante et fouettée permet de passer par-dessus la garde frontale de l'adversaire.

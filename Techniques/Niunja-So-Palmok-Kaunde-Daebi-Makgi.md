@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Garde de combat universelle et protection à double barrière :**
+>
 > 1. **Structure de garde classique (*Guarding Block*) :** C'est l'une des gardes les plus utilisées en Taekwon-Do ITF en combat libre (*Matsogi*) et en self-défense (*Hosinsul*), car elle couvre efficacement le centre du buste tout en gardant les deux poings fermés prêts à contre-attaquer.
 > 2. **Double ligne de défense (Principe *Daebi*) :** Si un coup de poing direct ou un coup de pied circulaire (*Dollyo Chagi*) traverse le blocage du bras avant, le poing et l'avant-bras arrière placés devant le plexus absorbent l'onde de choc.
 > 3. **Présence majeure dans les patrons (*Tul*) :** Cette technique se retrouve dans de nombreuses formes, notamment **Po-Eun Tul** (mouvements 1 et 19), **Yon-Gae Tul** (mouvements 3, 14, 37, 40 et 43), **Won-Hyo Tul** (mouvements 27 et 28), **Ul-Ji Tul** (mouvements 34 et 37) et **So-San Tul** (mouvements 29, 51 et 56).

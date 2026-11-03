@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Effet d'étau bilatéral et pénétration de garde :**
+>
 > 1. **Attaque en étau sur zones névralgiques :** Frapper simultanément les deux tempes, les mâchoires ou les nerfs cervicaux/carotides crée un effet d'ébranlement crânien démultiplié, augmentant le risque de K.O. immédiat.
 > 2. **Pénétration étroite (*Sewo*) :** La tenue verticale des poings occupe moins d'espace horizontal qu'un coup de poing à plat, ce qui permet aux deux poings de passer à travers les failles d'une garde haute adverse.
 > 3. **Puissance de charge frontale :** La combinaison de la posture de marche (*Gunnun Sogi*) de face avec la chute de masse transmet la totalité du poids du corps directement dans les deux points d'impact.

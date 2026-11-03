@@ -50,6 +50,7 @@ En Self-Défense (*Hosinsul*), attraper un objet contondant en mouvement obéit 
 
 > **Passer de la défense passive à la neutralisation définitive :**
 > Bloquer un bâton ne suffit pas, car l'agresseur peut armer un second coup instantanément.
+>
 > 1. **Privation de l'arme :** Le *Japgi* retire immédiatement l'avantage de la portée et de la puissance que procurait le bâton à l'agresseur.
 > 2. **Contrôle de l'axe corporel :** En saisissant le bâton à deux mains et en appliquant une rotation, vous utilisez l'arme elle-même comme un levier pour tordre le poignet, l'épaule ou le coude de l'agresseur, le contraignant à s'effondrer au sol.
 

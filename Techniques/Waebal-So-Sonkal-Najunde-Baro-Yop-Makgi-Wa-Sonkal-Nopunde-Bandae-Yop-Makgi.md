@@ -46,8 +46,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Montée en *Waebal Sogi* :** La jambe d'appui se tend verticalement tandis que la jambe libre se décolle du sol et vient se placer fléchie contre la jambe d'appui.
 2. **Déploiement des bras :**
-   * Le bras du côté de l'appui (*Baro*) s'abaisse en arc de cercle vers le niveau bas (*Najunde*).
-   * Le bras opposé (*Bandae*) s'élève en arc de cercle vers le niveau haut (*Nopunde*).
+    * Le bras du côté de l'appui (*Baro*) s'abaisse en arc de cercle vers le niveau bas (*Najunde*).
+    * Le bras opposé (*Bandae*) s'élève en arc de cercle vers le niveau haut (*Nopunde*).
 
 ### Étape 3 : L'Impact Simultané et le Verrouillage (*Snap*)
 
@@ -60,6 +60,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Bouclier bilatéral à deux niveaux et esquive d'appui :**
+>
 > 1. **Protection intégrale de la ligne latérale :** Cette technique dresse une barrière complète sur le flanc en couvrant à la fois le niveau bas (coups de pied bas, fauchages) et le niveau haut (coups de poing au visage ou coups de pied circulaires).
 > 2. **Esquive par retrait de jambe :** Le passage instantané en *Waebal Sogi* permet de retirer la jambe avant pour éviter un balayage ou un *low-kick* adverse tout en maintenant la garde.
 > 3. **Développement de la proprioception :** Exige un contrôle abdominal et fessier exceptionnel pour maintenir le haut du corps parfaitement stable et perpendiculaire pendant le déploiement asymétrique des bras.

@@ -55,6 +55,7 @@ Cette technique s'étudie principalement en travail de ligne ou sur place, notam
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Dégagement à très courte distance et rupture de corps-à-corps :**
+>
 > 1. **Efficacité à bout portant :** Quand l'espace est trop restreint pour étendre les poings ou les jambes, les coudes deviennent l'arme la plus lourde du corps.
 > 2. **Transpercer la garde axiale :** La double pointe des coudes applique une pression ultra-concentrée sur le thorax ou les côtes flottantes de l'adversaire, impossible à dévier avec des blocs classiques.
 > 3. **Libération de saisie :** Très efficace pour se défaire d'une tentative d'encerclement ou de saisie au buste par l'avant, en enfonçant simultanément les deux coudes dans les structures molles ou osseuses de l'agresseur.

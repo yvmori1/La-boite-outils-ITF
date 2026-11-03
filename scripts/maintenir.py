@@ -13,7 +13,8 @@
   4. liens des formes vers les fiches
   5. prononciations et liens audio  (fiches, manuel, pages de Combat/)
   6. réparation des audio manquants
-  7. contrôle final (scripts/verifier.py)
+  7. mise en forme Markdown         (listes lisibles sur GitHub et le site)
+  8. contrôle final (scripts/verifier.py)
 
 À lancer après avoir ajouté des fiches, renommé un fichier ou corrigé une
 romanisation. Chaque étape est idempotente : sans changement, elle ne fait rien.
@@ -139,6 +140,9 @@ def main():
             ("index de Techniques (après les liens audio)",
              lambda: lancer("generer-index-techniques.py", [], args.write)),
         ]
+    # en dernier : les générateurs ci-dessus ont pu réécrire des listes
+    etapes.append(("mise en forme Markdown (GitHub et site)",
+                   lambda: lancer("formater-markdown.py", [], args.write)))
 
     for titre, action in etapes:
         print(f"\n=== {titre}")

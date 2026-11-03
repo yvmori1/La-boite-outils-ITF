@@ -28,20 +28,20 @@ C'est une posture d'attente, de concentration et de recentrage mental exécutée
 Le *Moa Junbi Sogi B* demande de la rigidité dans l'ancrage et de la sérénité dans le haut du corps :
 
 1. **La position du bas du corps (*Moa Sogi*) :**
-   * Les pieds sont joints : les talons et les gros orteils se touchent complètement.
-   * Les jambes sont tendues sans verrouillage excessif des genoux.
-   * Le poids du corps est parfaitement réparti (**50 % sur chaque pied**).
-   * Le bassin est rétroversé pour maintenir la colonne vertébrale bien droite.
+    * Les pieds sont joints : les talons et les gros orteils se touchent complètement.
+    * Les jambes sont tendues sans verrouillage excessif des genoux.
+    * Le poids du corps est parfaitement réparti (**50 % sur chaque pied**).
+    * Le bassin est rétroversé pour maintenir la colonne vertébrale bien droite.
 2. **La position des mains (Spécificité du Type B) :**
-   * Le **poing droit** est fermé.
-   * La **main gauche s'ouvre et vient envelopper** le poing droit.
-   * La combinaison des mains est placée **au niveau du bas-ventre / de la ceinture** (au niveau du centre de gravité ou *Danjeon*).
-   * Les mains sont maintenues à une distance d'environ **10 à 15 cm du corps**.
-   * Les coudes sont légèrement fléchis et décollés du buste de façon naturelle.
+    * Le **poing droit** est fermé.
+    * La **main gauche s'ouvre et vient envelopper** le poing droit.
+    * La combinaison des mains est placée **au niveau du bas-ventre / de la ceinture** (au niveau du centre de gravité ou *Danjeon*).
+    * Les mains sont maintenues à une distance d'environ **10 à 15 cm du corps**.
+    * Les coudes sont légèrement fléchis et décollés du buste de façon naturelle.
 3. **L'attitude et la respiration :**
-   * Le regard est fixé droit devant soi à hauteur des yeux.
-   * Les épaules sont baissées et décontractées.
-   * La respiration est lente, profonde et abdominale pour favoriser le calme avant l'action.
+    * Le regard est fixé droit devant soi à hauteur des yeux.
+    * Les épaules sont baissées et décontractées.
+    * La respiration est lente, profonde et abdominale pour favoriser le calme avant l'action.
 
 ---
 

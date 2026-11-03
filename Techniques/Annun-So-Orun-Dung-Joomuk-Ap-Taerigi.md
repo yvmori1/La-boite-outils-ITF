@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Vitesse de déclenchement et imprévisibilité :**
+>
 > 1. **Attaque surprise par le dessus :** La trajectoire en fouet du *Dung Joomuk* permet de passer par-dessus une garde directe ou d'intercepter la tête de l'adversaire de façon très soudaine.
 > 2. **Rupture de rythme :** Exécuté depuis la posture stable du cavalier (*Annun Sogi*), ce coup permet d'attaquer la ligne haute (*Nopunde*) sans déplacer les pieds ni modifier son ancrage au sol.
 

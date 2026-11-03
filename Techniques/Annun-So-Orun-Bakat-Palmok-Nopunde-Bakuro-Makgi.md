@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Dévier les trajectoires circulaires hautes :**
+>
 > 1. **Protection contre les frappes latérales au visage :** Conçu pour dévier un crochet (*Hook*), une frappe du revers de poing (*Dung Joomuk*) ou un coup de pied circulaire haut (*Nopunde Dollyo Chagi*) visant la tempe ou la mâchoire.
 > 2. **Chasse de garde et création d'ouverture :** En balayant le membre adverse vers l'extérieur, le *Bakuro Makgi* casse l'alignement de l'attaquant et crée un boulevard pour une contre-attaque immédiate (ex: coup de poing direct ou frappe du coude).
 

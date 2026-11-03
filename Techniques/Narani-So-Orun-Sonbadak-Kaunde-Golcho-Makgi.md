@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dévitation fluide et préparation de saisie (*Japgi*) :**
+>
 > 1. **Absorption et déviation sans choc dur :** Le blocage en crochet (**Golcho Makgi**) absorbe la vitesse de la frappe adverse pour la guider hors de l'axe du corps plutôt que de l'arrêter violemment.
 > 2. **Séquence d'enchaînement :** Dans le Taekwon-Do ITF, ce blocage à la paume droite sert fréquemment de première phase d'une combinaison : il permet d'accrocher le membre attaquant pour enchaîner immédiatement une saisie ou un coup de poing/pied de riposte.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve la séquence de blocage en crochet à la paume (*Sonbadak Golcho Makgi*) notamment dans **Yul-Gok Tul** (ex: mouvements 1 et 4) et **Ge-Baek Tul**.

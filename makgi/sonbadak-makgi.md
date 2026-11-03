@@ -18,9 +18,9 @@ Sa décomposition linguistique est la suivante :
 
 * **L'arme naturelle (Sonbadak) :** C'est le talon de la paume (la partie charnue et osseuse à la base de la main, juste au-dessus du poignet) qui délivre la force d'interception.
 * **Mise en forme anatomique :**
-  1. Les quatre doigts sont maintenus **fermement joints et légèrement incurvés** vers l'intérieur.
-  2. Le pouce est **fléchi et plaqué fermement contre le côté de la paume** pour éviter tout accrochage.
-  3. Le poignet est cassé vers l'arrière au moment de l'impact pour présenter la base de la paume vers le haut.
+    1. Les quatre doigts sont maintenus **fermement joints et légèrement incurvés** vers l'intérieur.
+    2. Le pouce est **fléchi et plaqué fermement contre le côté de la paume** pour éviter tout accrochage.
+    3. Le poignet est cassé vers l'arrière au moment de l'impact pour présenter la base de la paume vers le haut.
 
 ---
 
@@ -59,6 +59,7 @@ Sa décomposition linguistique est la suivante :
 
 > **Déstabilisation par le dessous et ouverture de garde :**
 > Le *Ollyo Sonbadak Makgi* est une technique d'interception très dynamique :
+>
 > 1. **Décrocher la garde adverse :** En frappant le coude ou l'avant-bras de l'adversaire du bas vers le haut, vous projetez son bras en l'air, ce qui découvre instantanément ses côtes, son plexus et son visage.
 > 2. **Dévier les frappes directes :** Utilisé par-dessous un coup de poing direct (*Ap Jirugi*), il fait dévier la poing adverse au-dessus de votre épaule.
 > 3. **Transition attaque/défense :** La paume étant déjà orientée vers le haut, il est extrêmement facile de transformer ce blocage en frappe de la paume sous le menton (*Sonbadak Ollyo Taerigi*) ou en saisie du poignet (*Japgi*).

@@ -53,6 +53,7 @@ Le terme *Bandae* exprime une **relation d'opposition croisée entre le haut et 
 
 > **Puissance de torsion et couverture de l'angle mort :**
 > Le blocage inversé (*Bandae*) tire sa force d'une dynamique corporelle différente du blocage direct :
+>
 > 1. **Effet de ressort de la hanche :** En projetant le bras opposé à la jambe d'appui avant, le corps engage une rotation de la hanche plus profonde, ce qui permet d'impacter le membre adverse avec une énergie cinétique supérieure.
 > 2. **Fermeture de l'axe :** La trajectoire croisée du bras protège l'intégralité de la ligne médiane du thorax et du visage tout en pivotant le buste, présentant ainsi un profil plus étroit et difficile à atteindre pour l'adversaire.
 

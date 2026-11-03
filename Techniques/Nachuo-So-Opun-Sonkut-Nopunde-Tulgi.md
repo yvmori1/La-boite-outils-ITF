@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Gain d'allonge, esquive sous l'attaque et perforation de zone tendre :**
+>
 > 1. **Allonge maximale (*Low Stance Reach*) :** L'allongement de la posture (*Nachuo Sogi*) combiné à l'extension des doigts (**Sonkut**) offre la plus grande portée possible pour un coup de main sans sauter.
 > 2. **Passer sous une attaque haute :** L'abaissement du centre de gravité permet au pratiquant de glisser son corps sous un coup de poing ou de pied haut de l'adversaire tout en lui transperçant simultanément la gorge.
 > 3. **Efficacité sur zone molle :** Comme pour toutes les piques de doigts, la force requise est minime si la cible est la gorge ou les yeux, ce qui en fait une contre-attaque idéale face à un agresseur plus lourd.

@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Infiltration sous la garde et frappe en remontant :**
+>
 > 1. **Contournement du coude/avant-bras :** La position de la paume vers le haut (**Dwijibo**) permet au poing d'effectuer un mouvement de glissière étroit qui passe facilement sous la garde serrée d'un agresseur ou sous son coude pléchi.
 > 2. **Angle d'impact court :** Utile en distance rapprochée, car la trajectoire ascendante permet de transférer toute la poussée des jambes et du bassin vers le bas de la cage thoracique sans nécessiter le grand recul d'un coup de poing direct classique.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique apparaît dans plusieurs formes du Taekwon-Do ITF, notamment en combinaison *Baro* (du même côté que la jambe arrière) ou *Bandae* (du côté de la jambe avant), où elle exige un timing très précis entre la rotation du poing et l'ancrage en posture en L.

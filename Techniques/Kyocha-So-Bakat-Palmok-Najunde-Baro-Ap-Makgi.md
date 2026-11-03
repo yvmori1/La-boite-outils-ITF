@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Esquive rapide, changement de direction et contre-attaque immédiate :**
+>
 > 1. **Dégagement dynamique :** La posture croisée (**Kyocha Sogi**) est une posture de transition rapide. Elle permet d'esquiver une attaque en pivotant soudainement ou en effectuant un sursaut latéral tout en balayant une frappe basse (*Najunde Makgi*).
 > 2. **Changement d'axe instantané :** Le verrouillage en *Kyocha Sogi* permet de repartir immédiatement dans n'importe quelle direction (en sautant, en déroulant les jambes vers une stance longue, ou en enchaînant un coup de pied).
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des blocages bas en posture croisée dans plusieurs patrons du Taekwon-Do ITF, notamment dans **Po-Eun Tul** (mouvements avec saut et croisement) ou **Ge-Baek Tul**, où la transition doit être explosive.

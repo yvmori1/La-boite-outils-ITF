@@ -24,17 +24,17 @@ Elle se traduit par : **Pique / Poussée rectiligne du coude vers l'arrière en 
 Cette technique utilise la pointe du coude comme une pointe de lance propulsée directement vers l'arrière :
 
 1. **La posture de départ (*Sasun Sogi*) :**
-   * Les pieds sont parallèles mais décalés en diagonale (le talon du pied avant est aligné avec les orteils du pied arrière).
-   * Le centre de gravité s'abaisse pour fournir un ancrage solide au sol.
+    * Les pieds sont parallèles mais décalés en diagonale (le talon du pied avant est aligné avec les orteils du pied arrière).
+    * Le centre de gravité s'abaisse pour fournir un ancrage solide au sol.
 2. **L'armement (Préparation) :**
-   * Le bras d'attaque ramène la main fermée en poing près du buste ou de la poitrine opposée.
-   * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
+    * Le bras d'attaque ramène la main fermée en poing près du buste ou de la poitrine opposée.
+    * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire rectiligne (*Tulgi*) :**
-   * Contrairement à un coup de coude fouetté ou circulaire (*Taerigi*), le coude est propulsé en ligne droite vers l'arrière, suivant un axe de perforation strict.
-   * La pointe du coude vise directement l'axe central de la cible située derrière soi.
+    * Contrairement à un coup de coude fouetté ou circulaire (*Taerigi*), le coude est propulsé en ligne droite vers l'arrière, suivant un axe de perforation strict.
+    * La pointe du coude vise directement l'axe central de la cible située derrière soi.
 4. **L'impact et la réaction :**
-   * Le coup s'achève en synchronisation parfaite avec la descente finale du poids du corps dans la position *Sasun Sogi*.
-   * La main opposée (bras de réaction) s'ajuste près du buste ou du poing pour verrouiller le tronc et maximiser l'effet d'action-réaction.
+    * Le coup s'achève en synchronisation parfaite avec la descente finale du poids du corps dans la position *Sasun Sogi*.
+    * La main opposée (bras de réaction) s'ajuste près du buste ou du poing pour verrouiller le tronc et maximiser l'effet d'action-réaction.
 
 ---
 

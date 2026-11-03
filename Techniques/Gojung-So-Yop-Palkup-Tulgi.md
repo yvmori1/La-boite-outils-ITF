@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe latérale perforante à bout portant et stabilité d'absorption :**
+>
 > 1. **Puissance de perforation en corps-à-corps (*Infighting*) :** La pointe de l'olécrane concentre toute la force sur une surface minuscule. Appuyée par la paume du bras opposé, cette pique traverse la garde et peut briser les côtes d'un agresseur collé à votre flanc.
 > 2. **Absorption de la force de réaction (*Gojung Sogi*) :** L'écartement large (1,5 largeur d'épaules) et la répartition 50/50 offrent un encrage supérieur à celui d'une posture courte, permettant de transmettre la masse du corps sans reculer au moment du choc.
 > 3. **Rupture de saisie latérale :** Très efficace pour vous dégager ou punir un adversaire qui tente une saisie de bras, d'épaule ou un ceinturage par le côté.

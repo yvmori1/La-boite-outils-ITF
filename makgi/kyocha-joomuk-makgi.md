@@ -53,6 +53,7 @@ Selon la hauteur d'attaque (*Najunde* ou *Nopunde*), le croisement des poings s'
 
 > **Dédoublement de la structure et piégeage de membre :**
 > Le croisement des poings offre deux grands avantages tactiques :
+>
 > 1. **Absorption de chocs lourds :** Face à un coup de pied frontal puissant (*Ap Chagi*) ou une frappe de marteau descendant, un seul bras risquerait d'être enfoncé. La structure en "X" verrouille les deux épaules ensemble, créant un bouclier indeformable.
 > 2. **Effet de pince / Coincement (*Trapping*) :** L'angle formé par la jonction des deux poignets permet de "coincer" la cheville, le poignet ou l'avant-bras de l'agresseur au moment de l'impact, préparant une saisie immédiate (*Japgi*) ou une projection.
 

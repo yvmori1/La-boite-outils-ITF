@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dévitation directe et protection en retrait :**
+>
 > 1. **Solidité de la structure à l'avant-bras :** Utiliser la surface osseuse du **Palmok** permet de bloquer ou dévier sans hésitation un coup de pied direct (*Ap Chagi*) puissant sans risquer de se blesser la main.
 > 2. **Chasse de l'axe frontal par le bras avant :** La position *Bandae* place le bras bloquant directement au-dessus de la jambe avancée, créant un écran défensif direct contre les frappes basses qui cherchent à s'infiltrer par l'avant.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette technique fondamentale dans des formes comme **Yoo-Sin Tul** (mouvement 35 et 37) et **Toi-Gye Tul** (mouvement 28), où elle s'exécute souvent combinée ou en transition rapide après une frappe.

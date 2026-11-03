@@ -48,6 +48,7 @@ Le **Kiokja Jirugi** est une frappe circulaire courte et angulaire. Contrairemen
 
 > **Contourner la garde et détruire à courte distance (*In-fighting*) :**
 > Le *Kiokja Jirugi* est l'équivalent traditionnel du crochet court (*Hook*) en boxe :
+>
 > 1. **Contourner la garde frontale :** Quand un adversaire verrouille sa garde droite devant son visage, le *Kiokja Jirugi* passe par le côté pour percuter la mâchoire, la tempe ou les côtes flottantes.
 > 2. **Efficacité en combat rapproché :** À très courte distance, il est impossible de déployer un coup de poing direct. L'angle à 90° permet de développer une puissance d'impact maximale sans recul.
 

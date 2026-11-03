@@ -24,16 +24,16 @@ Elle se traduit par : **Coup de pied retourné circulaire en esquivant**.
 Cette technique associe une esquive corporelle simultanée à une rotation rapide pour surprendre l'adversaire en pleine attaque :
 
 1. **L'esquive et l'amorce (*Pihamyo*) :**
-   * Au moment où l'adversaire s'avance pour attaquer (par exemple avec un coup de poing direct ou un coup de pied frontal), l'exécutant décale son buste ou s'abaisse légèrement hors de la ligne de mire.
-   * Cette esquive déclenche immédiatement l'impulsion de la rotation.
+    * Au moment où l'adversaire s'avance pour attaquer (par exemple avec un coup de poing direct ou un coup de pied frontal), l'exécutant décale son buste ou s'abaisse légèrement hors de la ligne de mire.
+    * Cette esquive déclenche immédiatement l'impulsion de la rotation.
 2. **La rotation et le repérage visuel (*Bandae*) :**
-   * Le corps pivote sur la jambe d'appui vers l'arrière (dos à l'adversaire pendant une fraction de seconde).
-   * La tête tourne en priorité pour **verrouiller visuellement la cible** avant que la jambe ne s'étende.
+    * Le corps pivote sur la jambe d'appui vers l'arrière (dos à l'adversaire pendant une fraction de seconde).
+    * La tête tourne en priorité pour **verrouiller visuellement la cible** avant que la jambe ne s'étende.
 3. **L'extension et le fouetté circulaire (*Dollyo Chagi*) :**
-   * La jambe de frappe monte et se détend en formant une trajectoire circulaire/crochetée.
-   * L'impact est délivré principalement avec le talon (*Dwit Chook*) ou la plante du pied (*Balsadok*).
+    * La jambe de frappe monte et se détend en formant une trajectoire circulaire/crochetée.
+    * L'impact est délivré principalement avec le talon (*Dwit Chook*) ou la plante du pied (*Balsadok*).
 4. **Le rétablissement et la garde :**
-   * Après l'impact, la jambe est ramenée rapidement pour contrôler la réception et reprendre une position de garde stable (*Niunja Sogi* ou *Gunnun Sogi*).
+    * Après l'impact, la jambe est ramenée rapidement pour contrôler la réception et reprendre une position de garde stable (*Niunja Sogi* ou *Gunnun Sogi*).
 
 ---
 

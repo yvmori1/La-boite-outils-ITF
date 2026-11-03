@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Créer un mur d'arrêt inébranlable :**
+>
 > 1. **Détruire la dynamique d'une attaque directe :** Contrairement à un blocage classique (*Makgi*) qui cherche à dévier la frappe vers le côté, le *Momchau Makgi* vise à stopper net la charge de l'adversaire en absorbant et verrouillant l'impact sur l'axe central.
 > 2. **Interception de coups de pied frontaux (*Ap Chagi*) :** La structure verticale double (*Sang Sun Palmok*) encadre le tibia ou la cheville de l'attaquant au moment où son coup de pied arrive, cassant son élan vers l'avant.
 > 3. **Base d'ancrage maximale :** L'écartement des pieds en posture du cavalier (*Annun Sogi*) fournit la stabilité latérale et pyramidale nécessaire pour encaisser une charge sans reculer d'un centimètre.

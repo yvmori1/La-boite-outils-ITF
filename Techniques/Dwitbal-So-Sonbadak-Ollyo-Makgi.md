@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Réaction frontale immédiate, absorption souple et riposte rapide :**
+>
 > 1. **Vitesse du bras avant (*Baro*) :** Comme la main de blocage est déjà située à l'avant, le *Sonbadak Ollyo Makgi* offre un temps de réaction plus court que la version inverse (*Bandae*), idéal pour intercepter une attaque surprise.
 > 2. **Déviation ascendante sans choc osseux :** Pousser sous l'attaque avec la paume charnue détourne la force de l'agresseur vers le haut tout en évitant les douleurs ou traumatismes d'un choc tibia contre bras.
 > 3. **Protection arrière (*Dwitbal Sogi*) :** L'inclinaison de 95% de la masse vers l'arrière garde la tête hors de danger.

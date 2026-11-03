@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Protection d'angle intermédiaire en garde compacte :**
+>
 > 1. **Couverture de l'angle mort (*Yobap*) :** Les attaques physiques arrivent rarement en ligne droite parfaite. Le positionnement *Yobap* (45°) permet d'intercepter une frappe directe ou circulaire qui cherche à contourner la garde par la diagonale.
 > 2. **Stabilité verticale en *Moa Sogi* :** La posture pieds joints réduit la surface de sol occupée et oblige à utiliser une descente de bassin parfaite (*Sine Wave*) pour compenser l'absence d'écartement des pieds.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des variantes de blocages en *Moa Sogi* à l'avant-bras intérieur dans des formes avancées du Taekwon-Do ITF (notamment dans **Eul-Ji Tul**, **Joo-Gye Tul** ou **Yoo-Sin Tul**), souvent utilisées comme mouvements de préparation, de transition ou de dégagement.

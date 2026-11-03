@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe osseuse compacte et percutante :**
+>
 > 1. **Dureté supérieure du poing fermé :** Par rapport au tranchant de la main ouverte (*Sonkal*), le *Yop Joomuk* offre une structure de poing totalement verrouillée et très compacte, capable d'absorber des chocs importants contre des structures osseuses (comme les côtes adverses).
 > 2. **Infiltration sous la garde :** La trajectoire circulaire compacte permet de contourner les avant-bras de défense d'un agresseur sur le côté pour frapper le foie ou les côtes flottantes.
 > 3. **Ancrage inébranlable :** La posture *Annun Sogi* garantit une excellente absorption de la force de réaction sans déstabiliser la position du combattant.

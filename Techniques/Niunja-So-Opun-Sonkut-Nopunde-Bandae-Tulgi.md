@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Portée en esquive, neutralisation sur cible molle et profil réduit :**
+>
 > 1. **Protection en retrait (*Niunja Sogi*) :** Conserver 60% de la masse sur la jambe arrière permet d'esquiver un coup de poing de face tout en gardant une distance de sécurité.
 > 2. **Cibles molles hyper-sensibles :** La pique des doigts n'a pas besoin de la masse d'un poing lourd pour neutraliser un agresseur : cibler la gorge ou les yeux coupe immédiatement sa respiration ou sa vision.
 > 3. **Engagement par l'effet *Bandae* :** La rotation du buste en position inversée propulse la main avant avec plus de vitesse tout en conservant le corps de semi-profil (*Han Momtong*), offrant ainsi moins de surface vulnérable à l'adversaire.

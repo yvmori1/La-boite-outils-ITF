@@ -24,17 +24,17 @@ Elle se traduit par : **Blocage en U (en forme de « [ㄷ](../audio/termes/ㄷ.m
 Cette technique associe la stabilité maximale de la position fixe à une structure de blocage en tenailles à deux niveaux :
 
 1. **La position des jambes (*Orun Gojung Sogi*) :**
-   * Le pied droit est placé à l'arrière (orienté à 15° vers l'extérieur) et le pied gauche à l'avant (légèrement rentré de 15°).
-   * La distance entre les gros orteils est d'environ **1,5 largeur d'épaules** (plus longue que la position en L *Niunja Sogi*).
-   * Le poids du corps est réparti à **50 % sur la jambe arrière et 50 % sur la jambe avant**.
+    * Le pied droit est placé à l'arrière (orienté à 15° vers l'extérieur) et le pied gauche à l'avant (légèrement rentré de 15°).
+    * La distance entre les gros orteils est d'environ **1,5 largeur d'épaules** (plus longue que la position en L *Niunja Sogi*).
+    * Le poids du corps est réparti à **50 % sur la jambe arrière et 50 % sur la jambe avant**.
 2. **L'armement (Préparation) :**
-   * Les deux mains fermées en poings sont ramenées du côté opposé à la direction du blocage.
-   * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*).
+    * Les deux mains fermées en poings sont ramenées du côté opposé à la direction du blocage.
+    * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la formation du « [ㄷ](../audio/termes/ㄷ.m4a) » (*Digutja*) :**
-   * En redescendant dans la posture fixe, les deux bras s'élancent de concert vers le côté/l'avant.
-   * **Le bras supérieur** réalise un blocage haut (*Nopunde*), le coude fléchi, l'avant-bras horizontal ou légèrement incliné.
-   * **Le bras inférieur** réalise un blocage bas (*Najunde*), l'avant-bras parallèle au bras supérieur.
-   * Les deux poings sont fermés et alignés sur une même ligne verticale, formant la lettre coréenne **[ㄷ](../audio/termes/ㄷ.m4a)** (forme d'un U encadrant la zone de défense).
+    * En redescendant dans la posture fixe, les deux bras s'élancent de concert vers le côté/l'avant.
+    * **Le bras supérieur** réalise un blocage haut (*Nopunde*), le coude fléchi, l'avant-bras horizontal ou légèrement incliné.
+    * **Le bras inférieur** réalise un blocage bas (*Najunde*), l'avant-bras parallèle au bras supérieur.
+    * Les deux poings sont fermés et alignés sur une même ligne verticale, formant la lettre coréenne **[ㄷ](../audio/termes/ㄷ.m4a)** (forme d'un U encadrant la zone de défense).
 
 ---
 

@@ -19,11 +19,11 @@ C'est la posture de garde défensive par excellence poings fermés en TaeKwon-Do
 Les deux bras travaillent en parfaite synergie pour créer une double ligne de défense :
 
 1. **Le bras avant (Bras de blocage principal) :**
-   * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
-   * **Position :** Déployé vers l'avant, coude fléchi à environ 120°. Le poing est aligné avec la ligne de l'épaule (au niveau moyen *Kaunde*) ou des yeux (au niveau haut *Nopunde*).
+    * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
+    * **Position :** Déployé vers l'avant, coude fléchi à environ 120°. Le poing est aligné avec la ligne de l'épaule (au niveau moyen *Kaunde*) ou des yeux (au niveau haut *Nopunde*).
 2. **Le bras arrière (Bras de protection / Garde) :**
-   * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
-   * **Position :** Le poing se place à quelques centimètres devant le plexus solaire (*Kaunde*), le coude protégeant le flanc et les côtes flottantes.
+    * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
+    * **Position :** Le poing se place à quelques centimètres devant le plexus solaire (*Kaunde*), le coude protégeant le flanc et les côtes flottantes.
 
 ---
 
@@ -33,8 +33,8 @@ Les deux bras travaillent en parfaite synergie pour créer une double ligne de d
 
 1. **Fermeture des poings :** Les deux mains sont fermement closes en poings (*Joomuk*).
 2. **Croisement d'amorce :** Les deux avant-bras se croisent devant la poitrine.
-   * Le bras de blocage (avant) passe **à l'intérieur** (près du corps), paume tournée vers soi.
-   * Le bras de garde (arrière) passe **à l'extérieur**, paume tournée vers le sol.
+    * Le bras de blocage (avant) passe **à l'intérieur** (près du corps), paume tournée vers soi.
+    * Le bras de garde (arrière) passe **à l'extérieur**, paume tournée vers le sol.
 3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité pour emmagasiner l'énergie.
 
 ### Étape 2 : Le Mouvement de Vague (*Sine Wave*)
@@ -55,6 +55,7 @@ Les deux bras travaillent en parfaite synergie pour créer une double ligne de d
 
 > **Le bouclier hermétique de combat :**
 > Le *Palmok Daebi Makgi* est l'une des postures les plus sûres en combat libre (*Matsogi*) :
+>
 > 1. **Protection contre les frappes lourdes :** Les poings fermés et les avant-bras verrouillés permettent d'encaisser des coups de pied ou de poing à pleine puissance sans risquer de se faire tordre les doigts.
 > 2. **Riposte instantanée en coup de poing (*Jirugi*) :** La main principale étant déjà fermée, le passage du blocage à un coup de poing direct (*Ap Jirugi*) ou un revers de poing (*Dung Joomuk Taerigi*) est extrêmement rapide et naturel.
 

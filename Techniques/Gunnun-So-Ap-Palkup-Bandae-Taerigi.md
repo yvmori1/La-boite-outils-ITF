@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe dévastatrice en corps-à-corps et levier de hanche :**
+>
 > 1. **Arme de rupture à courte portée :** Lorsque la distance est trop réduite pour déplier un coup de poing ou un coup de pied, le coude permet d'appliquer une force d'impact maximale sur une surface osseuse quasi indestructible.
 > 2. **Démultiplication par l'effet *Bandae* :** La rotation croisée de la hanche arrière combinée au verrouillage de la main de soutien permet de transmettre toute la masse corporelle en mouvement dans la pointe du coude.
 > 3. **Perforation de garde :** La trajectoire rectiligne du coude frontal (*Ap Palkup*) s'infiltre facilement entre les deux gants ou avant-bras d'un agresseur en garde serrée.

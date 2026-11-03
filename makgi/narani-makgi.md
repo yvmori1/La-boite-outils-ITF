@@ -50,6 +50,7 @@ Selon l'arme naturelle engagée et l'orientation du mouvement, le *Narani Makgi*
 
 > **La puissance d'absorption d'une structure double :**
 > L'utilisation simultanée des deux bras sur des lignes parallèles offre deux avantages tactiques majeurs :
+>
 > 1. **Dédoublement de la force d'arrêt :** En opposant la structure de deux bras parallèles face à un coup puissant (comme un coup de pied descendant ou un coup de marteau), vous répartissez la charge d'impact sur vos deux épaules et votre buste, évitant de vous faire enfoncer la garde.
 > 2. **Barrière large contre les feintes :** Le parallélisme couvre une largeur de zone plus importante que le blocage à un seul bras, fermant l'accès au plexus et aux organes vitaux de face.
 

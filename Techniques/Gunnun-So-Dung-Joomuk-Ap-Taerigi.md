@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Effet de cravache et saignement réflexe :**
+>
 > 1. **Vitesse d'exécution (*Snapping power*) :** Contrairement à un coup de poing direct (*Jirugi*) qui pousse en piston, le *Dung Joomuk Taerigi* agit comme une cravache. Sa vitesse de détente le rend particulièrement difficile à parer.
 > 2. **Cibles osseuses fragiles du visage :** Frapper l'arête du nez ou le philtrum provoque un saignement immédiat, un larmolement automatique et un étourdissement réflexe chez l'agresseur.
 > 3. **Passage par-dessus la garde :** La trajectoire légèrement fouettée et descendante permet de survoler la garde frontale de l'adversaire pour toucher le visage.

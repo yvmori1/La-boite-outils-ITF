@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe à haute pénétration sur point vital avec esquive de distance :**
+>
 > 1. **Concentration de force chirurgicale (*Pressure Point*) :** Alors qu'un poing classique (*Ap Joomuk*) répartit la force sur deux grosses jointures, le *Joongji Joomuk* concentre 100% de la force cinétique sur une surface pointe de quelques millimètres carrés. Cela permet de traverser la garde et d'atteindre des points vitaux vulnérables (*Philtrum*, gorge, zone sous le nez) pour provoquer une incapacitation immédiate.
 > 2. **Esquive intégrée (*Dwitbal Sogi*) :** Placer 95% du poids sur la jambe arrière permet de maintenir le visage et le buste du pratiquant hors d'atteinte d'un contre adverse.
 > 3. **Puissance de rotation du *Bandae* :** L'action du bras inverse (*Bandae*) engage la hanche et les épaules opposées, compensant le fait que la jambe arrière reste fixe et délivrant une grande force de vrille.

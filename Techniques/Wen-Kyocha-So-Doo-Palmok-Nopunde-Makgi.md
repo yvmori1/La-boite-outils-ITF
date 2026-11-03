@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Structure d'absorption renforcée et décalage d'axe :**
+>
 > 1. **Absorber les frappes à haute énergie :** L'utilisation du double avant-bras (*Doo Palmok*) double la résistance structurelle de la garde. Cela permet de stopper des coups de pied très lourds venant du haut (comme un *Naeryo Chagi* / coup de hache) ou des coups de bâton descendant qu'un seul bras ne pourrait intercepter sans rompre.
 > 2. **Esquive latérale par le pas croisé :** En entrant en *Kyocha Sogi*, le pratiquant décale son centre de masse hors de la ligne de charge directe de l'adversaire tout en maintenant un bouclier haut.
 > 3. **Position idéale de contre-attaque :** Le bras de soutien étant déjà armé au centre du corps, il peut être instantanément déployé pour décocher une frappe de coude (*Palkup Taerigi*) ou un coup de poing direct (*Jirugi*).

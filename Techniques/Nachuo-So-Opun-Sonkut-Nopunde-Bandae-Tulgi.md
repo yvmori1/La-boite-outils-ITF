@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Allonge maximale, pénétration létale et stabilité :**
+>
 > 1. **Gagner en portée avec *Nachuo Sogi* :** La posture basse (*Nachuo Sogi*) est la posture de marche la plus longue du Taekwon-Do ITF. Elle permet d'allonger la distance de frappe tout en maintenant un centre de gravité très bas, idéal pour passer sous la garde adverse.
 > 2. **Frappe chirurgicale aux cibles molles :** Contrairement à un coup de poing qui heurte une structure osseuse, le piqué de la main (*Sonkut*) vise des cibles molles comme la gorge (trachée) ou les yeux, où la force de pénétration primordiale n'exige pas un poing lourd mais une pointe précise et rigide.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des enchaînements en posture basse avec piqué de la main (*Nachuo So Sonkut Tulgi*) dans des patrons avancés du Taekwon-Do ITF, notamment dans **Gae-Baek Tul** / **Ge-Baek Tul** ou **Yoo-Sin Tul**.

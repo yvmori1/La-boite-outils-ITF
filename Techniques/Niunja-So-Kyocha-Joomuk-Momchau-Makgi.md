@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Structure renforcée à poings fermés pour neutraliser les coups lourds :**
+>
 > 1. **Solidité supérieure au tranchant ouvert :** Par rapport au *Kyocha Sonkal Momchau Makgi* (mains ouvertes), l'utilisation des poings fermés (**Joomuk**) offre une structure osseuse encore plus massive, idéale pour stopper un coup de pied lourd sans risquer de se fouler les doigts.
 > 2. **Arrêt à la source (*Momchau*) :** En bloquant la jambe ou le bras de l'adversaire avant son extension complète, on détruit son équilibre et on annule la puissance de sa frappe.
 > 3. **Sécurité du retrait 70/30 :** Conserver 70% de la masse sur la jambe arrière permet d'absorber l'onde de choc sans être déséquilibré vers l'arrière, tout en gardant la jambe avant prête à riposter.

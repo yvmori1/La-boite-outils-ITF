@@ -16,6 +16,7 @@ Contrôles effectués :
   6. Techniques/README.md à jour
   7. graphies concurrentes d'un même terme
   8. couverture des liens dans les formes
+  9. mise en forme Markdown compatible GitHub et MkDocs
 """
 
 import argparse
@@ -172,6 +173,8 @@ CONTROLES = [
      lambda: controle_generateur("generer-index-techniques.py"), True),
     ("graphies concurrentes", controle_graphies, True),
     ("couverture des formes", controle_couverture, False),
+    ("mise en forme Markdown",
+     lambda: controle_generateur("formater-markdown.py"), True),
 ]
 
 

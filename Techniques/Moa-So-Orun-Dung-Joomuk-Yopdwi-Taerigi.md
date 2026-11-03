@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe réflexe à 135° et gestion des attaques dans le dos :**
+>
 > 1. **Riposte sur agresseur latéral-arrière :** Le coup au revers du poing (**Dung Joomuk**) est l'une des armes les plus rapides du Taekwon-Do. Exécuté vers l'angle *Yopdwi*, il permet de surprendre un adversaire qui tente de contourner la garde par le flanc arrière droit.
 > 2. **Défi d'équilibre central :** Exécuter un fouetté puissant du bras droit vers l'arrière-côté tout en restant ancré en pieds joints (**Moa Sogi**) nécessite un gainage latéral intense et un contrôle strict de la colonne vertébrale pour ne pas basculer.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des variantes de frappes au revers du poing dans des angles biaisés en posture pieds joints ou en transition dans plusieurs formes avancées du Taekwon-Do ITF (notamment dans **Yoo-Sin Tul**, **Juche Tul** ou **Ge-Baek Tul**).

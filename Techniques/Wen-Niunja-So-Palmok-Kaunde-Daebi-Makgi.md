@@ -48,8 +48,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Verrouillage des poignets :** Au tout dernier millième de seconde, les deux poignets effectuent une rotation axiale pour présenter le bord extérieur dur de l'avant-bras (**Bakat Palmok**) vers la menace.
 2. **Fixation de la garde :**
-   * Le poing avant (droit) se stabilise à la hauteur des épaules (*Kaunde*).
-   * Le poing arrière (gauche) s'immobilise à 2-3 cm devant le plexus solaire.
+    * Le poing avant (droit) se stabilise à la hauteur des épaules (*Kaunde*).
+    * Le poing arrière (gauche) s'immobilise à 2-3 cm devant le plexus solaire.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle l'ancrage arrière (70/30) et la rigidité de la garde.
 
 ---
@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Bouclier d'absorption compact et protection de la ligne centrale :**
+>
 > 1. **Protection contre les impacts lourds :** Contrairement aux gardes en mains ouvertes (*Sonkal*), la fermeture des poings (*Palmok*) contracte l'ensemble des muscles et tendons des avant-bras. Cela crée un bouclier osseux plus rigide et compact, parfait pour encaisser des coups de poing puissants ou des coups de pied circulaires au corps.
 > 2. **Double verrouillage vertical/horizontal :** Pendant que le bras avant dévie la frappe directe, le bras arrière verrouille le centre du buste, évitant qu'un coup perforant n'atteigne le plexus solaire.
 > 3. **Gestion de la distance (*Niunja Sogi*) :** Mettre 70% du poids sur la jambe arrière (gauche) permet de garder le visage hors de portée des attaques adverses, tout en gardant la jambe avant (droite) libre pour riposter en coup de pied direct (*Ap Chagi*) ou latéral (*Yop Chagi*).

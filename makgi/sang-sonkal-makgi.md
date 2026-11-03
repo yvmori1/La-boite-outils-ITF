@@ -19,11 +19,11 @@ C'est l'un des blocages à mains ouvertes les plus fondamentaux et les plus él�
 Bien que les deux mains soient ouvertes en position *Sonkal*, elles remplissent deux rôles distincts et complémentaires :
 
 1. **La main principale (Main de blocage) :**
-   * **Surface d'impact :** **Sonkal** (tranchant externe de la main, de la base du petit doigt au poignet).
-   * **Position :** Déployée vers l'avant à niveau moyen (*Kaunde*) ou haut (*Nopunde*), le coude fléchi à environ 120° pour former un bouclier rigide.
+    * **Surface d'impact :** **Sonkal** (tranchant externe de la main, de la base du petit doigt au poignet).
+    * **Position :** Déployée vers l'avant à niveau moyen (*Kaunde*) ou haut (*Nopunde*), le coude fléchi à environ 120° pour former un bouclier rigide.
 2. **La main secondaire (Main de protection / Garde) :**
-   * **Surface d'impact :** **Sonkal** (tranchant de la main).
-   * **Position :** Placé devant le plexus solaire (*Kaunde*), le tranchant de la main orienté vers l'avant et légèrement incliné vers le sol, protégeant le centre du buste et les organes vitaux.
+    * **Surface d'impact :** **Sonkal** (tranchant de la main).
+    * **Position :** Placé devant le plexus solaire (*Kaunde*), le tranchant de la main orienté vers l'avant et légèrement incliné vers le sol, protégeant le centre du buste et les organes vitaux.
 
 ---
 
@@ -33,8 +33,8 @@ Bien que les deux mains soient ouvertes en position *Sonkal*, elles remplissent 
 
 1. **Mise en forme :** Les deux mains s'ouvrent en *Sonkal* (doigts serrés et légèrement incurvés, pouces fléchis et plaqués fermement contre la paume).
 2. **Croisement d'amorce :** Les deux bras se croisent au niveau de l'épaule opposée.
-   * La main de blocage passe **à l'intérieur** (près du corps), paume vers soi.
-   * La main de garde passe **à l'extérieur**, paume vers le sol.
+    * La main de blocage passe **à l'intérieur** (près du corps), paume vers soi.
+    * La main de garde passe **à l'extérieur**, paume vers le sol.
 
 
 3. **Pression du corps :** Abaissement du centre de gravité pour entamer la première phase du mouvement de vague (*Sine Wave*).
@@ -57,6 +57,7 @@ Bien que les deux mains soient ouvertes en position *Sonkal*, elles remplissent 
 
 > **La transition parfaite entre défense et attaque :**
 > Le *Sang Sonkal Makgi* offre une polyvalence supérieure aux blocages à poings fermés :
+>
 > 1. **Absorption et déviation :** Le tranchant de la main permet de glisser le long du membre adverse pour dévier la frappe au lieu d'opposer un choc frontal dur.
 > 2. **Saisie immédiate (*Japgi*) :** La main étant déjà ouverte, il suffit d'agripper le poignet ou la cheville de l'adversaire juste après le blocage.
 > 3. **Riposte fulgurante :** Permet d'enchaîner directement avec une pique des doigts (*Sonkut Tulgi*) ou une frappe du tranchant (*Sonkal Taerigi*) sans avoir à ouvrir le poing.

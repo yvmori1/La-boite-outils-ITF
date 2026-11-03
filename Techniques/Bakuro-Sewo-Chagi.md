@@ -50,6 +50,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe déroutante par-dessus la garde et effet de cisaillement :**
+>
 > 1. **Trajectoire difficile à lire :** Comme le pied monte au centre avant de bifurquer vers l'extérieur (*Bakuro*), l'adversaire pense souvent recevoir un coup de pied direct (*Ap Chagi*) et masque son centre, laissant ses flancs de visage totalement découverts.
 > 2. **Dégagement de la garde (*Guard clearance*) :** Le balayage vertical extérieur permet de faucher et d'abaisser les bras de protection d'un agresseur, ouvrant une voie directe pour un enchaînement du poing.
 > 3. **Impact tranchant (*Sewo*) :** La position verticale du pied concentre la force de frappe sur le tranchant extérieur (*Bakat Chok*), capable de provoquer un K.-O. sur la tempe ou la mâchoire.

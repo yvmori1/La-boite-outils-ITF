@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Effet de cravache et frappe par le flanc :**
+>
 > 1. **Vitesse et effet de surprise :** Grâce à l'action de charnière du coude, le coup de revers du poing (**Dung Joomuk**) est l'une des frappes de bras les plus rapides du Taekwon-Do, idéale pour surprendre un agresseur situé sur le flanc ou pour contourner sa garde frontale.
 > 2. **Pénétration osseuse réduite mais violente :** En frappant directement la tempe ou la mâchoire avec les jointures du revers du poing, la frappe peut provoquer un k.o. rapide sans nécessiter une poussée lourde de tout le corps.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique classique est présente dans de nombreuses formes ITF, notamment dans **Do-San Tul** (mouvement 13 et 17), **Yul-Gok Tul** ou **Ge-Baek Tul**, où elle est exécutée avec puissance et précision sur une trajectoire latérale.

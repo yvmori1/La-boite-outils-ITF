@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Pénétration chirurgicale sur point vital :**
+>
 > 1. **Concentration de la pression ($P = F / A$) :** En réduisant la zone d'impact à la seule articulation du majeur, toute la force d'accélération du corps est transmise sur une surface millimétrique, traversant les tissus mous pour atteindre le plexus solaire.
 > 2. **Effet du principe *Baro* :** Frapper avec le bras de la jambe arrière (**Baro**) permet d'engager la rotation complète de la hanche, offrant une puissance d'impact bien plus élevée qu'en position inversée (*Bandae*).
 > 3. **Usage en Self-Défense :** Utile contre un agresseur habillé de vêtements épais ou pour cibler précisément le plexus, les côtes flottantes ou les espaces intercostaux.

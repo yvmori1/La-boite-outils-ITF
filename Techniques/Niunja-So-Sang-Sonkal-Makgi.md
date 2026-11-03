@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Garde hermétique bilatérale et absorption en retrait :**
+>
 > 1. **Protection à double barrière :** Si l'attaque adverse parvient à franchir le premier blocage du bras avant, la main arrière placée devant le plexus fournit un bouclier immédiat pour intercepter l'impact.
 > 2. **Tranchant osseux (*Sonkal*) :** Frapper les membres adverses avec la tranche extérieure de la main permet de dévier ou de faire mal à l'attaquant sans risquer de se briser les os du poing.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette technique fondamentale dans de nombreuses formes, notamment **Yul-Gok Tul** (mouvements 28 et 30).

@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Franchissement d'obstacles, puissance de perforation et portée maximale :**
+>
 > 1. **Franchissement de distance et de garde :** Permet d'atteindre un adversaire situé hors d'atteinte d'un coup de pied au sol ou dissimulé derrière un obstacle (ou plusieurs agresseurs).
 > 2. **Multiplication de la force par l'élan :** En additionnant la vitesse de course, la masse totale du corps en suspension et la poussée de la hanche, le *Twimyo Yopcha Jirugi* génère un pouvoir d'arrêt ou de neutralisation extrême.
 > 3. **Technique d'assaut à cheval / adversaire surélevé :** Historiquement développée dans les arts martiaux coréens pour désarçonner des cavaliers ou atteindre des adversaires en position dominante.

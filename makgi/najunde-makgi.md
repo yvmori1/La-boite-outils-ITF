@@ -51,6 +51,7 @@ Bien que le terme désigne la zone cible à protéger, la technique s'associe le
 
 > **La neutralisation de la jambe d'attaque :**
 > Le *Najunde Makgi* exploite la force descendante pour **percuter le tibia ou le coup-de-pied** d'un adversaire qui tente un *Ap Chagi* (coup de pied frontal) ou une attaque basse.
+>
 > * **Effet de choc :** L'impact de l'avant-bras sur le tibia ou la cheville cause une douleur dissuasive chez l'attaquant.
 > * **Déviation d'appui :** En renvoyant la jambe d'attaque vers le sol, vous forcez l'adversaire à poser son pied prématurément, ruinant sa combinaison de combat et le laissant vulnérable.
 

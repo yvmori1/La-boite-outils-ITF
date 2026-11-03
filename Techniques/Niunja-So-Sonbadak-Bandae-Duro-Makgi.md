@@ -25,17 +25,17 @@ Elle se traduit par : **Blocage relevé (en cuillère) inversé à la paume de l
 Cette technique privilégie la déviation circulaire et le déséquilibre de l'adversaire plutôt que le choc frontal :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-   * Le pied arrière porte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
-   * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
-   * Les talons restent alignés sur la même ligne de référence.
+    * Le pied arrière porte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
+    * Les talons restent alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**
-   * La main de blocage (**main opposée au pied avant**, en raison du terme *Bandae*) s'ouvre, paume vers le haut ou légèrement inclinée près du niveau de la hanche.
-   * L'autre bras vient se placer en protection de garde (main au niveau du plexus ou ramenée à la hanche).
-   * L'exécutant réalise la phase ascendante de la vague (*Sine Wave*).
+    * La main de blocage (**main opposée au pied avant**, en raison du terme *Bandae*) s'ouvre, paume vers le haut ou légèrement inclinée près du niveau de la hanche.
+    * L'autre bras vient se placer en protection de garde (main au niveau du plexus ou ramenée à la hanche).
+    * L'exécutant réalise la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et l'action de cuillère (*Duro Makgi*) :**
-   * La paume (*Sonbadak*) décrit une trajectoire ascendante en arc de cercle depuis le niveau bas vers le niveau moyen.
-   * Elle vient cueillir / "soulever" par le dessous la jambe ou le bras de l'adversaire.
-   * La montée du bras se verrouille au moment de la descente finale du bassin en position *Niunja Sogi*, déséquilibrant l'adversaire vers le haut ou l'extérieur.
+    * La paume (*Sonbadak*) décrit une trajectoire ascendante en arc de cercle depuis le niveau bas vers le niveau moyen.
+    * Elle vient cueillir / "soulever" par le dessous la jambe ou le bras de l'adversaire.
+    * La montée du bras se verrouille au moment de la descente finale du bassin en position *Niunja Sogi*, déséquilibrant l'adversaire vers le haut ou l'extérieur.
 
 ---
 

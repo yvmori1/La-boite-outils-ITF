@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Chambre de compression explosive et masque d'intention :**
+>
 > 1. **Armement à "zéro déclenchement" :** En maintenant le pied libre au niveau de la cheville (*Variante B*), la trajectoire du coup de pied à venir est totalement masquée. L'adversaire ne peut pas déterminer à l'avance si le coup sera direct, latéral ou circulaire.
 > 2. **Effet ressort biomécanique :** La forte flexion de la jambe d'appui emmagasine de l'énergie élastique. Lors de la détente, l'extension de la jambe de terre propulse le coup de pied avec une puissance cinétique maximale.
 > 3. **Protection de la ligne basse :** Ramener le pied près de la cheville protège le tibia et le bas-ventre contre d'éventuels balayages ou coups de pied bas adverses.

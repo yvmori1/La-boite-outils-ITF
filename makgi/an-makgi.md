@@ -58,6 +58,7 @@ Un blocage vers l'intérieur (*Anuro Makgi*) peut être exécuté avec différen
 
 > **L'effondrement de la garde adverse :**
 > Le blocage vers l'intérieur est l'une des techniques les più destructrices pour la structure de l'attaquant :
+>
 > 1. **Croisement des bras :** En percutant le coup de poing ou la frappe de l'adversaire de l'extérieur vers l'intérieur, vous rabattez son bras **devant son propre buste**. Cela vient entraver son second bras, l'empêchant de vous enchaîner avec une deuxième frappe.
 > 2. **Rupture d'équilibre par pivot :** L'impact latéral force le buste de l'adversaire à pivoter sur lui-même, détruisant ses appuis et vous donnant un accès direct à son dos ou à sa nuque.
 

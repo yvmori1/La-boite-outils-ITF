@@ -10,18 +10,18 @@ CEINTURE NOIRE — 5e Degré (Dan)
 ## Exigences Techniques de l'Examen
 
 * **Pré-requis :**
-  * Minimum de cinq ans (60 mois) d'entraînement actif depuis l'obtention du 5e Dan ITF.
-  * Deux évaluations préparatoires réussies sous la direction d'un examinateur 8e Dan ou plus.
-  * Mêmes exigences académiques d'instructeur international et protocole d'entente.
+    * Minimum de cinq ans (60 mois) d'entraînement actif depuis l'obtention du 5e Dan ITF.
+    * Deux évaluations préparatoires réussies sous la direction d'un examinateur 8e Dan ou plus.
+    * Mêmes exigences académiques d'instructeur international et protocole d'entente.
 * **Théorie (Travail Académique) :** Rédaction et soutenance d'une thèse de 20 pages minimum (double interligne) sur un sujet approfondi du Taekwon-Do.
 * **Formes (Tuls) :**
-  * *So-San*
-  * *Se-Jong*
-  * Formes désignées de révision de *Kwang-Gae* à *Moon-Moo*.
+    * *So-San*
+    * *Se-Jong*
+    * Formes désignées de révision de *Kwang-Gae* à *Moon-Moo*.
 * **Cassage (Kyokpa) :**
-  * **Homme :** 2 planches suspendues. Réussir trois techniques différentes avec les mains (utilisant des parties d'attaque différentes à chaque fois) et trois techniques différentes avec les pieds.
-  * **Femme :** 1 planche suspendue. Réussir trois techniques différentes de la main et trois techniques différentes du pied.
-  * **Seniors (40 ans et plus) :** Non requis.
+    * **Homme :** 2 planches suspendues. Réussir trois techniques différentes avec les mains (utilisant des parties d'attaque différentes à chaque fois) et trois techniques différentes avec les pieds.
+    * **Femme :** 1 planche suspendue. Réussir trois techniques différentes de la main et trois techniques différentes du pied.
+    * **Seniors (40 ans et plus) :** Non requis.
 
 ---
 

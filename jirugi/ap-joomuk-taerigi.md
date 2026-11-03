@@ -56,6 +56,7 @@ Toute la nuance réside dans le mot-clé **Taerigi** :
 ## 4. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Contourner les blocs directs et fouetter les zones sensibles du visage :**
+>
 > 1. **Passer autour des garde axiales :** Un coup de poing direct (*Jirugi*) bute facilement contre les avant-bras d'une garde fermée. La trajectoire en arc du *Taerigi* permet de passer sur le côté pour toucher la tempe, la mâchoire ou la pommette.
 > 2. **Vitesse et imprévisibilité :** L'action de fouet du coude demande moins d'armement d'épaule qu'un grand crochet, ce qui rend le déclenchement très difficile à lire pour l'adversaire.
 > 3. **Cibles prioritaires :** La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G[턱](../audio/termes/턱.m4a)*) ou l'**arête du nez** (*Injoung*).

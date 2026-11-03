@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dévitation solide et protection en retrait :**
+>
 > 1. **Solidité osseuse du *Bakat Palmok* :** Frapper le membre de l'adversaire (tibia, coup de pied direct *Ap Chagi*) avec la partie extérieure de l'avant-bras permet de casser ou dévier la frappe sans risque de blesser la main.
 > 2. **Sécurité de la posture 70/30 :** Conserver 70% du poids sur la jambe arrière maintient le haut du corps hors de portée en cas de feinte ou de combinaison haute de l'adversaire.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique fondamentale apparaît dans de nombreuses formes du Taekwon-Do ITF, notamment dans **Chon-Ji Tul**, **Tan-Gun Tul** ou **Won-Hyo Tul**, servant de base pour l'apprentissage du timing entre le tirage à la hanche et le balayage bas.

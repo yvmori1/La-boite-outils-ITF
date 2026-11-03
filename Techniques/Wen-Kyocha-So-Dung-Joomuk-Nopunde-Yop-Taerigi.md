@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe réflexe à haute vitesse et sortie d'axe :**
+>
 > 1. **Esquive et contre-attaque simultanées :** Le pas croisé en *Kyocha Sogi* permet de sortir de la trajectoire d'une attaque directe venant de face tout en vous plaçant sur le flanc de l'adversaire pour lui décocher un contre à la tête.
 > 2. **Effet de fouet dévastateur (*Dung Joomuk*) :** Contrairement à un coup de poing direct qui pousse, le revers du poing agit comme une cravache. Utilisé sur des zones fragiles (tempe, nez, mâchoire), il peut étourdir ou provoquer un K.O. immédiat par ébranlement cérébral.
 > 3. **Prise de vitesse en espace réduit :** Le mouvement ne nécessite pas un grand recul pour développer sa puissance, car toute la force découle de la détente rapide du coude et de la chute du bassin.

@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Puissance K.O. maximale et contournement d'angle mort :**
+>
 > 1. **Force cinétique de rotation :** La combinaison du pivot complet du corps et du fouetté sec du talon génère une force d'impact extrême capable de provoquer un K.O. immédiat.
 > 2. **Effet de masque et trajectoire trompeuse :** En faisant passer la jambe par l'extérieur du champ de vision de l'adversaire, le coup contourne la garde frontale et frappe là où le combattant ne voit pas venir l'attaque.
 > 3. **Contre-attaque d'anticipation :** Particulièrement efficace lorsque l'adversaire s'avance en ligne droite, car il vient s'encastrer directement dans la trajectoire du talon.

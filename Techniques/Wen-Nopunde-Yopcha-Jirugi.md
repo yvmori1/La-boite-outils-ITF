@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Puissance de perforation maximale et portée hors d'atteinte :**
+>
 > 1. **Vecteur de force en piston :** Contrairement aux coups de pied circulaires qui fouettent la cible, le *Jirugi* traverse l'adversaire. L'alignement du squelette permet de transférer l'intégralité de la masse corporelle dans la pointe d'impact (*Balkal*).
 > 2. **Effet K.O. immédiat au niveau haut (*Nopunde*) :** Un tranchant de pied gauche projeté à la mâchoire ou à la tempe offre une force d'arrêt définitive.
 > 3. **Distance de sécurité :** C'est la technique d'attaque à plus longue portée du répertoire martial, permettant de toucher la tête tout en gardant son propre visage hors de portée des poings adverses.

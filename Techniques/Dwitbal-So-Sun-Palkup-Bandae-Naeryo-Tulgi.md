@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe perforante à très courte distance avec transfert de masse vertical :**
+>
 > 1. **Concentration d'énergie maximale (*Palkup*) :** L'olécrane (pointe du coude) est l'une des structures osseuses les plus dures du corps humain. Utilisée en pique descendante (*Tulgi*), elle offre une force de pénétration destructrice capable de briser une garde ou d'endommager une structure osseuse.
 > 2. **Complément de distance de corps-à-corps (*Infighting*) :** Idéal lorsque l'agresseur est trop proche pour recevoir un coup de poing ou un coup de pied.
 > 3. **Rupture de saisie et frappe descendante :** Permet d'écraser la prise d'un agresseur qui tente de ceinturer le buste ou d'impacter un ennemi plié en deux vers l'avant.

@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Esquive par retrait de masse et contre-attaque rapide :**
+>
 > 1. **Absorption par la posture *Dwitbal Sogi* :** En plaçant 95% du poids sur la jambe arrière, le combattant recule instantanément son buste et ses organes vitaux hors de portée de l'agresseur sans avoir à faire un grand pas en arrière.
 > 2. **Liberté de la jambe avant :** La jambe avant ne portant que 5% du poids, elle reste instantanément disponible pour déclencher un coup de pied de riposte rapide (*Ap Chagi*, *Yop Chagi* ou *Bandal Chagi*) sans temps de préparation.
 > 3. **Protection efficace de la taille (*Hori*) :** L'utilisation d'*An Palmok* en mode *Bandae* permet de balayer avec force un coup de poing moyen, un coup de coude ou un coup de pied direct visant l'abdomen ou la hanche.

@@ -55,6 +55,7 @@ C'est l'un des blocages les plus fondamentaux, rigides et fréquemment enseigné
 
 > **Un bouclier destructeur ("Hard Block") :**
 > À la différence des blocages légers de déviation, le *Bakat Palmok Makgi* tire sa force d'un impact osseux direct.
+>
 > * **Effet dissuasif :** Opposer le tranchant de l'avant-bras au tibia ou au poing d'un agresseur génère un choc douloureux capable d'engourdir ou de blesser le membre attaquant.
 > * **Protection hermétique :** Il s'agit du bouclier le plus sûr pour stopper net la trajectoire d'une frappe lourde avant qu'elle n'atteigne le corps.
 

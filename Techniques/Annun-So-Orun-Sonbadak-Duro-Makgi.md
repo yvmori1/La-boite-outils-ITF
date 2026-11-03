@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Déséquilibre de l'adversaire et création de failles :**
+>
 > 1. **Détruire les appuis adverses :** Au lieu d'absorber le choc d'un coup de pied frontal (*Ap Chagi*), le *Duro Makgi* attrape le talon/la cheville par le dessous et la projette vers le haut, ce qui fait basculer la tête et le buste de l'attaquant vers l'arrière.
 > 2. **Enchaînement immédiat :** Une fois la jambe de l'adversaire soulevée en deçà de son centre de gravité, il devient extrêmement facile d'enchaîner avec un balayage (*Swoop/Trip*) ou un coup de poing direct au visage/abdomen pendant qu'il est en perte d'équilibre.
 > 3. **Protection contre les poussées :** Utile également pour dévier et soulever une tentative de saisie à la ceinture ou au bas-ventre.

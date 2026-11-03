@@ -49,6 +49,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Anti-saisie, feinte tactique et vitesse d'enchaînement :**
+>
 > 1. **Protection contre les saisies de jambe :** Face à un adversaire spécialisé dans la capture des coups de pied, le rappel instantané (*Doro*) retire le pied avant que la main ennemie ne puisse se refermer sur la cheville ou le pantalon.
 > 2. **Feinte et rupture de rythme (*Double Kick*) :** Permet de simuler une première attaque pour faire réagir la garde de l'adversaire, ramener la jambe à mi-course (*Doro*), puis relancer une frappe réelle dans la brèche créée.
 > 3. **Maintien de la distance de sécurité :** Empêche le combattant de se retrouver déséquilibré ou "aspiré" vers l'avant après une frappe manquée.

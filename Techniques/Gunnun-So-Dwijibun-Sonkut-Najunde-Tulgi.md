@@ -25,18 +25,18 @@ Elle se traduit par : **Pique du bout des doigts retournée au niveau bas en pos
 Cette technique associe la puissance de poussée de la position en marche à la trajectoire d'infiltration de la pique du bout des doigts paume vers le haut :
 
 1. **La position des jambes (*Gunnun Sogi*) :**
-   * Un pied est ancré à l'avant (genou fléchi à l'aplomb du talon), la jambe arrière est tendue, le pied arrière légèrement ouvert à 15°.
-   * Le poids du corps est parfaitement réparti à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
+    * Un pied est ancré à l'avant (genou fléchi à l'aplomb du talon), la jambe arrière est tendue, le pied arrière légèrement ouvert à 15°.
+    * Le poids du corps est parfaitement réparti à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
 2. **L'armement (Préparation) :**
-   * La main d'attaque s'ouvre, les quatre doigts sont fermement collés et alignés, le pouce replié sur le côté de la paume.
-   * Elle vient s'armer au niveau de la hanche ou du flanc, la paume généralement orientée vers le sol ou le côté.
-   * Le bras de réaction s'étend vers l'avant pour mesurer la distance.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
+    * La main d'attaque s'ouvre, les quatre doigts sont fermement collés et alignés, le pouce replié sur le côté de la paume.
+    * Elle vient s'armer au niveau de la hanche ou du flanc, la paume généralement orientée vers le sol ou le côté.
+    * Le bras de réaction s'étend vers l'avant pour mesurer la distance.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la pique retournée (*Dwijibun Sonkut Tulgi*) :**
-   * En redescendant dans la posture en marche, la main d'attaque s'élance en ligne droite vers le bas-ventre (**Najunde**).
-   * Durant le trajet, le poignet effectue une rotation pour que la paume se retrouve **orientée vers le haut** (*Dwijibun*) au moment de l'impact.
-   * Les doigts (*Sonkut*) pénètrent la zone cible en s'infiltrant sous la garde adverse.
-   * Le bras de réaction est ramené vivement à la hanche (poing fermé, paume vers le haut) pour engager les hanches et maximiser la force de pénétration.
+    * En redescendant dans la posture en marche, la main d'attaque s'élance en ligne droite vers le bas-ventre (**Najunde**).
+    * Durant le trajet, le poignet effectue une rotation pour que la paume se retrouve **orientée vers le haut** (*Dwijibun*) au moment de l'impact.
+    * Les doigts (*Sonkut*) pénètrent la zone cible en s'infiltrant sous la garde adverse.
+    * Le bras de réaction est ramené vivement à la hanche (poing fermé, paume vers le haut) pour engager les hanches et maximiser la force de pénétration.
 
 ---
 

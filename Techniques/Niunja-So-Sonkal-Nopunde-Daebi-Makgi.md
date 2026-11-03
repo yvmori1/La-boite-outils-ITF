@@ -25,17 +25,17 @@ Elle se traduit par : **Blocage de garde haut au tranchant de la main en positio
 Cette technique associe la stabilité en retrait de la position en L à la protection étendue d'une garde haute au tranchant des mains :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-   * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
-   * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
-   * Les talons sont alignés sur la même ligne de référence, le corps à mi-profil (*Ban Mom*).
+    * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
+    * Les talons sont alignés sur la même ligne de référence, le corps à mi-profil (*Ban Mom*).
 2. **L'armement (Préparation) :**
-   * Les deux mains s'ouvrent en tranchant de la main (**Sonkal**), doigts collés, pouces fléchis et plaqués contre la paume.
-   * Les bras sont ramenés vers l'arrière du corps (près de l'épaule/hanche arrière), paumes orientées vers le haut ou l'une vers l'autre.
-   * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
+    * Les deux mains s'ouvrent en tranchant de la main (**Sonkal**), doigts collés, pouces fléchis et plaqués contre la paume.
+    * Les bras sont ramenés vers l'arrière du corps (près de l'épaule/hanche arrière), paumes orientées vers le haut ou l'une vers l'autre.
+    * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la garde haute (*Nopunde Daebi Makgi*) :**
-   * En redescendant dans la posture en L, le bras avant s'élance vers l'avant et le haut. Le tranchant de la main avant vient se stabiliser **au niveau des yeux / de la tête** (**Nopunde**), le coude conservant un angle d'environ 110° à 120°.
-   * La main arrière (main de garde) vient se placer horizontalement devant le plexus solaire pour protéger le centre du buste.
-   * Les deux poignets se verrouillent au moment précis où le bassin s'enfonce dans la posture.
+    * En redescendant dans la posture en L, le bras avant s'élance vers l'avant et le haut. Le tranchant de la main avant vient se stabiliser **au niveau des yeux / de la tête** (**Nopunde**), le coude conservant un angle d'environ 110° à 120°.
+    * La main arrière (main de garde) vient se placer horizontalement devant le plexus solaire pour protéger le centre du buste.
+    * Les deux poignets se verrouillent au moment précis où le bassin s'enfonce dans la posture.
 
 ---
 

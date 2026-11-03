@@ -50,6 +50,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Plateforme d'isolation et d'ancrage absolu :**
+>
 > 1. **Stabilité latérale maximale :** Grâce à sa largeur importante sur le plan frontal, le *Annun Sogi* offre une résistance inégalée contre les poussées latérales et les chocs venant de face ou de côté.
 > 2. **Transfert de force et *Sine Wave* :** Cette posture permet de maximiser le principe de la *Sine Wave* (vague d'énergie ITF) : le passage de la position haute à la redescente lourde en *Annun Sogi* utilise la force de gravité pour catapulter l'énergie du corps dans les frappes et les blocages.
 > 3. **Isolation pour le travail des bras :** En neutralisant l'instabilité des jambes, le *Annun Sogi* contraint l'élève à générer toute la puissance de ses attaques et blocages par la rotation des hanches, le gainage et la force de réaction opposée (*Bandae Son*).

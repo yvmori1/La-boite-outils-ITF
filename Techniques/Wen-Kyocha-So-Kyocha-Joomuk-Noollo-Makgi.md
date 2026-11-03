@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Écrasement d'attaque basse et absorption à deux bras :**
+>
 > 1. **Interception des coups de pied bas :** Le *Noollo Makgi* permet d'intercepter un coup de pied direct (*Ap Chagi*) ou bas en cours de montée, en imprimant une pression vers le bas qui déséquilibre l'adversaire.
 > 2. **Solidité du croisement en X (*Kyocha*) :** L'utilisation des deux bras croisés crée un verrouillage osseux qui empêche la garde de céder sous une frappe lourde.
 > 3. **Esquive latérale par le pas croisé :** L'entrée en *Kyocha Sogi* permet de sortir de la ligne d'attaque directe de l'agresseur tout en écrasant sa frappe ou son bras de saisie.

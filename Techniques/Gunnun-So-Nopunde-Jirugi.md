@@ -32,8 +32,8 @@ La frappe tire toute sa stabilité et sa puissance d'ancrage de la posture de ma
 
 * **Arme naturelle (*Jook Bang*) :** **Ap Joomuk** (Le devant du poing, frappant avec le sommet des deux grosses jointures de l'index et du majeur).
 * **Zone ciblée (*Nopunde*) :**
-  1. En standard ITF, la cible se situe à la **hauteur des yeux** du pratiquant.
-  2. En application martiale, la frappe vise en priorité le **philtrum** (*Injoung* — la fossette au-dessus de la lèvre supérieure), le **nez** ou le **menton**.
+    1. En standard ITF, la cible se situe à la **hauteur des yeux** du pratiquant.
+    2. En application martiale, la frappe vise en priorité le **philtrum** (*Injoung* — la fossette au-dessus de la lèvre supérieure), le **nez** ou le **menton**.
 
 ---
 
@@ -42,9 +42,9 @@ La frappe tire toute sa stabilité et sa puissance d'ancrage de la posture de ma
 Comme pour toutes les frappes directes en posture de marche, l'alignement du bras détermine la variante :
 
 1. **Baro Jirugi (Obverse Punch — Coup de poing du même côté) :**
-   * Le poing qui frappe est du **même côté** que la jambe avancée (ex: jambe droite devant, poing droit qui frappe au niveau haut).
+    * Le poing qui frappe est du **même côté** que la jambe avancée (ex: jambe droite devant, poing droit qui frappe au niveau haut).
 2. **Bandae Jirugi (Reverse Punch — Coup de poing inverse) :**
-   * Le poing qui frappe est du **côté opposé** à la jambe avancée (ex: jambe droite devant, poing gauche qui frappe au niveau haut).
+    * Le poing qui frappe est du **côté opposé** à la jambe avancée (ex: jambe droite devant, poing gauche qui frappe au niveau haut).
 
 ---
 
@@ -73,6 +73,7 @@ Comme pour toutes les frappes directes en posture de marche, l'alignement du bra
 
 > **Mise hors de combat par percussion haute :**
 > Le coup de poing haut exploite la masse totale du corps propulsée vers l'avant :
+>
 > 1. **Traumatisme des points vitaux du visage :** Frapper au philtrum (*Injoung*) ou à l'arête du nez provoque un saignement immédiat, un larmoiement réflexe et un étourdissement du système nerveux.
 > 2. **Rupture de garde :** Si l'adversaire maintient une garde basse ou moyenne, le *Nopunde Jirugi* pénètre directement dans son champ de vision pour le forcer à lever les bras, découvrant ainsi son thorax et son bas-ventre pour un coup de pied.
 

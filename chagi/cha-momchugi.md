@@ -16,12 +16,12 @@ Contrairement aux techniques offensives classiques destinées à percer ou fouet
 ## 1. Les surfaces d'impact et les cibles (*Jook Bang*)
 
 * **Les armes naturelles utilisées :**
-  * **Balkal ([발칼](../audio/grammaire/Balkal.m4a) - le chant externe du pied) :** La surface la plus privilégiée en ITF pour offrir une structure rigide et tranchante.
-  * **La plante du pied :** Utilisée principalement lors d'un arrêt frontal direct au niveau du torse ou des hanches.
+    * **Balkal ([발칼](../audio/grammaire/Balkal.m4a) - le chant externe du pied) :** La surface la plus privilégiée en ITF pour offrir une structure rigide et tranchante.
+    * **La plante du pied :** Utilisée principalement lors d'un arrêt frontal direct au niveau du torse ou des hanches.
 
 * **Les cibles privilégiées :**
-  * Le plexus solaire ou la poitrine (pour couper le souffle et l'élan).
-  * La hanche ou le haut de la cuisse de la jambe qui avance (pour détruire la structure d'attaque de l'adversaire).
+    * Le plexus solaire ou la poitrine (pour couper le souffle et l'élan).
+    * La hanche ou le haut de la cuisse de la jambe qui avance (pour détruire la structure d'attaque de l'adversaire).
 
 ---
 

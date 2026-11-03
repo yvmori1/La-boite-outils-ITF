@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Double absorption amortissante et esquive arrière :**
+>
 > 1. **Protection renforcée par la structure en X :** Croiser les deux paumes (*Euhkallin Sonbadak*) crée un bouclier deux fois plus résistant qu'un blocage à une seule main, capable de stopper net un coup de pied direct bas (*Ap Chagi*) ou un coup de genou puissant.
 > 2. **Absorption sans traumatisme osseux :** Les paumes offrent une surface charnue qui absorbe l'énergie cinétique de la frappe d'un agresseur sans risquer une fracture des os du poignet ou de l'avant-bras.
 > 3. **Retrait stratégique du corps (*Dwitbal Sogi*) :** Placer 95% du poids sur la jambe arrière éloigne le buste de l'attaque adverse, réduisant encore l'impact.

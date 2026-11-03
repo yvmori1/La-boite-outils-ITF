@@ -50,6 +50,7 @@ Le *Miro Makgi* s'exécute avec différentes armes naturelles selon la distance 
 
 > **Créer de la distance et casser la structure adverse :**
 > Le *Miro Makgi* est une technique de contrôle de l'espace particulièrement stratégique :
+>
 > 1. **Déstabilisation de l'attaquant :** En appliquant une poussée continue sur le bras, le genou ou l'épaule de l'adversaire au moment où il attaque, vous le forcez à reculer ou à perdre son axe de gravité (*Center line*).
 > 2. **Rupture de rythme :** Face à un combattant agressif qui avance en enchaînement court (*In-fighting*), le *Miro Makgi* permet de le repousser physiquement pour reprendre une distance de frappe confortable.
 > 3. **Préparation de la contre-attaque :** En poussant la garde ou l'épaule de l'agresseur, vous ouvrez son buste ou son visage pour y placer immédiatement un coup de pied ou de poing.

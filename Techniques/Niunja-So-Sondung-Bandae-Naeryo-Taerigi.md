@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans le Taekwon-Do
 
 > **Écrase-structure descendant et exploitation de la gravité :**
+>
 > 1. **Pression gravitationnelle :** Associer la descente du bassin en *Niunja Sogi* avec la trajectoire descendante de la main (**Naeryo**) permet de multiplier l'énergie cinétique de l'impact sur des zones osseuses sensibles comme la clavicule.
 > 2. **Effet de cravache (*Taerigi*) :** Le mouvement de charnière du coude combiné à la souplesse de la main ouverte (**Sondung**) permet de faire passer la frappe par-dessus la garde ou le bras tendu de l'agresseur.
 > 3. **Différence entre *Dung Joomuk* et *Sondung* :** Alors que le *Dung Joomuk Naeryo Taerigi* utilise le revers du poing fermé, le *Sondung* s'exécute main ouverte, offrant une trajectoire plus rapide, plus souple et plus cinglante.

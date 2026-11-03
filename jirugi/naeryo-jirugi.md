@@ -12,6 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / percussion perçante (*Punch*).
 
 > 💡 **Nuance essentielle (*Jirugi* vs *Taerigi*) :**
+>
 > * **Naeryo Jirugi :** Le poing s'enfonce en piston direct vers le bas avec la rotation axiale habituelle du poing (**Ap Joomuk**).
 > * **Naeryo Taerigi :** Frappe marteau ou circulaire descendante (ex: du tranchant de la main *Sonkal* ou du revers *Dung Joomuk*) en mouvement fouetté.
 
@@ -51,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Finalisation au sol et riposte sur agresseur baissé :**
+>
 > 1. **Technique de finition (*Finishing strike*) :** C'est la frappe par excellence pour impacter un agresseur qui a été projeté ou amené au sol à vos pieds.
 > 2. **Rupture de charge basse :** Si un agresseur se baisse pour tenter une saisie aux jambes (*Double leg takedown*), le *Naeryo Jirugi* permet d'enfoncer le poing directement sur sa nuque ou sa colonne vertébrale.
 > 3. **Puissance démultipliée par la gravité :** En retombant lourdement dans sa posture, le pratiquant cumule la force musculaire de poussée du bras et la masse complète du corps entraînée par la pesanteur.

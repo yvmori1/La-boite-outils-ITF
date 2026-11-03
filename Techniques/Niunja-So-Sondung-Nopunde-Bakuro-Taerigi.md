@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe d'angle mort et effet de cravache :**
+>
 > 1. **Fouetté déstabilisant :** Contrairement au tranchant de la main (**Sonkal**), le dos de la main (**Sondung**) offre un mouvement extrêmement fluide et rapide, idéal pour surprendre la garde adverse par un coup cinglant à la tempe ou à la joue.
 > 2. **Contournement de garde :** La trajectoire circulaire du dedans vers le dehors (**Bakuro**) permet de contourner le bras d'un agresseur par l'extérieur.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique apparaît notamment dans des formes comme **Tong-Il Tul** (mouvements 7 et 9, sous la variante *Niunja So Sondung Nopunde Bakuro Taerigi*), où elle exige un timing très précis entre le fouetté de la main ouverte et la stabilité en posture en L (70/30).

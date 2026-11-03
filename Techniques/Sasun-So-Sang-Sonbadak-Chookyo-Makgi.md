@@ -25,24 +25,24 @@ Elle se traduit par : **Blocage montant double avec les paumes de mains en posit
 Cette technique permet d'ériger un bouclier montant au-dessus de la tête tout en se désaxant légèrement grâce à la position diagonale :
 
 1. **La posture de départ (*Sasun Sogi*) :**
-   * Les pieds sont parallèles mais décalés en diagonale (le talon du pied avant aligné avec les orteils du pied arrière).
-   * Le corps est légèrement orienté de profil, ce qui permet d'esquiver la ligne d'attaque directe.
+    * Les pieds sont parallèles mais décalés en diagonale (le talon du pied avant aligné avec les orteils du pied arrière).
+    * Le corps est légèrement orienté de profil, ce qui permet d'esquiver la ligne d'attaque directe.
 2. **L'armement (Préparation) :**
-   * Les deux mains partent d'une position basse (près du plexus ou du bas-ventre), paumes orientées vers le bas ou vers soi.
-   * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
+    * Les deux mains partent d'une position basse (près du plexus ou du bas-ventre), paumes orientées vers le bas ou vers soi.
+    * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire montante (*Chookyo*) :**
-   * Les deux bras montent simultanément au-dessus de la tête en traçant une courbe ascendante.
-   * Les paumes de mains (*Sonbadak*) se tournent vers le haut et l'extérieur pour venir accueillir la frappe adverse.
-   * Les coudes restent légèrement fléchis pour former une arche amortissante au-dessus du front et éviter le verrouillage oculaire/articulaire.
+    * Les deux bras montent simultanément au-dessus de la tête en traçant une courbe ascendante.
+    * Les paumes de mains (*Sonbadak*) se tournent vers le haut et l'extérieur pour venir accueillir la frappe adverse.
+    * Les coudes restent légèrement fléchis pour former une arche amortissante au-dessus du front et éviter le verrouillage oculaire/articulaire.
 4. **L'impact et le verrouillage :**
-   * Le blocage s'achève juste au-dessus du niveau de la tête en synchronisation parfaite avec la descente finale du corps dans la vague.
+    * Le blocage s'achève juste au-dessus du niveau de la tête en synchronisation parfaite avec la descente finale du corps dans la vague.
 
 ---
 
 ## 3. Applications et cibles
 
 * **Attaques neutralisées :**
-  * Coups descendants puissants visant la tête, comme un coup de poing marteau (*Dung Joomuk Naeryo Taerigi*), un coup de pied descendant (*Naeryo Chagi*) ou une attaque avec un bâton.
+    * Coups descendants puissants visant la tête, comme un coup de poing marteau (*Dung Joomuk Naeryo Taerigi*), un coup de pied descendant (*Naeryo Chagi*) ou une attaque avec un bâton.
 * **Principe d'absorption :** L'utilisation de la paume (*Sonbadak*) offre une large surface molle et résistante qui dissipe l'énergie de l'impact vers le haut, protégeant ainsi la tête et les os des avant-bras.
 * **Formes (*Tuls*) :** Cette technique avancée est généralement exécutée dans les formes supérieures de l'ITF (notamment dans le tul **Yong-Gae**).
 

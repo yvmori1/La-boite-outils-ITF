@@ -25,24 +25,24 @@ Elle se traduit par : **Blocage pressant avec les poings croisés en position cr
 Cette technique associe la descente du centre de gravité en position croisée à une poussée lourde et verrouillée des deux poings vers le bas :
 
 1. **La position des jambes (*Orun Kyocha Sogi*) :**
-   * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
-   * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la stabilité.
-   * Les deux genoux sont fléchis et pressés l'un contre l'autre.
+    * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
+    * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la stabilité.
+    * Les deux genoux sont fléchis et pressés l'un contre l'autre.
 2. **L'armement (Préparation) :**
-   * Les deux mains se ferment en poings (*Joomuk*) et se croisent au niveau de la poitrine ou de la ceinture, paumes orientées vers soi ou vers le haut.
-   * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*) pendant le déplacement des pieds.
+    * Les deux mains se ferment en poings (*Joomuk*) et se croisent au niveau de la poitrine ou de la ceinture, paumes orientées vers soi ou vers le haut.
+    * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*) pendant le déplacement des pieds.
 3. **La trajectoire et la pression descendante (*Noollo Makgi*) :**
-   * En redescendant brusquement dans la posture croisée, les deux poings croisés sont propulsés fermement vers le bas (niveau bas / *Najunde*).
-   * À l'impact, les poignets restent croisés (le poignet droit surmontant ou croisant le poignet gauche), les paumes orientées vers le sol.
-   * Les coudes conservent une légère flexion pour former une arche d'absorption et éviter tout verrouillage d'articulation.
+    * En redescendant brusquement dans la posture croisée, les deux poings croisés sont propulsés fermement vers le bas (niveau bas / *Najunde*).
+    * À l'impact, les poignets restent croisés (le poignet droit surmontant ou croisant le poignet gauche), les paumes orientées vers le sol.
+    * Les coudes conservent une légère flexion pour former une arche d'absorption et éviter tout verrouillage d'articulation.
 
 ---
 
 ## 3. Applications et cibles
 
 * **Attaques neutralisées :**
-   * Coups de pied directs bas (*Ap Chagi*) visant le bas-ventre, le pubis ou les cuisses.
-   * Coups de genou bas ou tentatives de saisie de jambes (*tackle*).
+    * Coups de pied directs bas (*Ap Chagi*) visant le bas-ventre, le pubis ou les cuisses.
+    * Coups de genou bas ou tentatives de saisie de jambes (*tackle*).
 * **Principe d'absorption :** Le croisement des poings (*Kyocha Joomuk*) forme un "V" inversé rigide qui piège et écrase la trajectoire de l'attaque adverse vers le sol au lieu de la heurter frontalement.
 * **Formes (*Tuls*) :** On retrouve cette technique dans des formes intermédiaires et supérieures du Taekwon-Do ITF (notamment dans le tul **Choong-Moo**).
 

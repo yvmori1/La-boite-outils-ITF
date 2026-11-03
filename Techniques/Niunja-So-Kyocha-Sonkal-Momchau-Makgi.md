@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Absorption de choc lourd et blocage d'interception :**
+>
 > 1. **Verrouillage structurel en X :** Croiser les deux poignets (**Kyocha**) crée une structure géométrique extrêmement solide qui répartit la force de frappe d'un coup de pied lourd (*Ap Chagi* ou *Naeryo Chagi*) sur deux bras au lieu d'un seul.
 > 2. **Neutralisation à la source (*Momchau*) :** En bloquant l'attaque dès son amorce ou avant son extension maximale, on annule l'énergie cinétique de l'agresseur.
 > 3. **Application dans les patrons (*Tul*) :** Cette technique exige une excellente synchronisation entre le croisement des poignets, la respiration et l'ancrage 70/30 de la posture en L.

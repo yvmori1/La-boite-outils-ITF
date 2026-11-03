@@ -25,26 +25,26 @@ Souvent considérée comme l'un des coups de contre-attaque les plus dévastateu
 Le *Dwit Cha Jirugi* tire sa force exceptionnelle du verrouillage des fessiers, de la poussée directe de la hanche et d'un trajet en ligne droite :
 
 1. **La rotation de tête et le regard :**
-   * Sans tourner prématurément les épaules, la tête pivote rapidement par-dessus l'épaule du côté de la jambe de frappe pour fixer précisément la cible.
+    * Sans tourner prématurément les épaules, la tête pivote rapidement par-dessus l'épaule du côté de la jambe de frappe pour fixer précisément la cible.
 2. **L'armement (Principe des genoux serrés) :**
-   * Le genou de la jambe d'attaque monte vers la poitrine en restant **strictement collé contre la jambe d'appui**.
-   * Le pied se fléchit pour préparer le talon à percuter.
+    * Le genou de la jambe d'attaque monte vers la poitrine en restant **strictement collé contre la jambe d'appui**.
+    * Le pied se fléchit pour préparer le talon à percuter.
 3. **La poussée rectiligne en piston (*Jirugi*) :**
-   * La jambe se détend en ligne droite vers l'arrière, propulsée par la contraction explosive des fessiers et des extenseurs de la hanche.
-   * Le buste s'incline naturellement vers l'avant pour équilibrer la poussée et allonger la portée.
+    * La jambe se détend en ligne droite vers l'arrière, propulsée par la contraction explosive des fessiers et des extenseurs de la hanche.
+    * Le buste s'incline naturellement vers l'avant pour équilibrer la poussée et allonger la portée.
 4. **L'impact et la surface de frappe :**
-   * L'impact s'effectue avec le **dessous du talon** (**Dwit Chook** - [뒤축](../audio/termes/뒤축.m4a) / **Balkal-Dupchi**).
-   * Les orteils pointent vers le sol (ou très légèrement inclinés de côté), la cheville étant fermement verrouillée.
+    * L'impact s'effectue avec le **dessous du talon** (**Dwit Chook** - [뒤축](../audio/termes/뒤축.m4a) / **Balkal-Dupchi**).
+    * Les orteils pointent vers le sol (ou très légèrement inclinés de côté), la cheville étant fermement verrouillée.
 5. **Le réarmement et le retour :**
-   * Après le choc, la jambe est ramenée vivement vers le genou d'appui (réarmée) avant de reposer au sol, évitant tout risque de balayage ou de saisie par l'adversaire.
+    * Après le choc, la jambe est ramenée vivement vers le genou d'appui (réarmée) avant de reposer au sol, évitant tout risque de balayage ou de saisie par l'adversaire.
 
 ---
 
 ## 3. Applications et cibles
 
 * **Cibles anatomiques :**
-  * **Kaunde** (Niveau moyen) : Plexus solaire, côtes flottantes, foie ou abdomen.
-  * **Nopunde** (Niveau haut) : Mâchoire, menton ou poitrine haute.
+    * **Kaunde** (Niveau moyen) : Plexus solaire, côtes flottantes, foie ou abdomen.
+    * **Nopunde** (Niveau haut) : Mâchoire, menton ou poitrine haute.
 * **Tactique de combat (*Matsogi*) :** C'est la **technique de contre-attaque d'arrêt par excellence**. Elle permet de stopper net un adversaire qui charge de face, en utilisant son propre élan contre lui.
 * **Formes (*Tuls*) :** On la retrouve dans plusieurs tuls de niveau intermédiaire et avancé pour travailler le contrôle de l'axe central et la précision du regard par-dessus l'épaule.
 

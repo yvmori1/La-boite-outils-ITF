@@ -13,6 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée perforante (*Thrust*).
 
 > 💡 **Nuance (*Tulgi* vs *Taerigi*) :**
+>
 > * **Naeryo Palkup Taerigi :** Le coude suit une trajectoire en arc/fouetté descendant (type hache).
 > * **Naeryo Palkup Tulgi :** Le coude s'enfonce dans un **axe vertical rectiligne**, comme un piston mû par la chute de masse du corps.
 
@@ -52,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique en Self-Défense (*Hosinsul*)
 
 > **Neutralisation d'un agresseur courbé ou en tentative de ramassement de jambes (*Tackle*) :**
+>
 > 1. **Défense contre amenée au sol (*Sprawl & Strike*) :** Quand un agresseur plonge vers vos jambes, s'abaisser et envoyer un *Naeryo Palkup Tulgi* sur son dos ou sa nuque stoppe net sa progression.
 > 2. **Rupture après frappe au corps :** Si l'adversaire se plie en deux après avoir reçu un coup de pied au ventre (*Ap Chagi*), le coude descendant vient frapper la nuque ou la colonne vertébrale.
 > 3. **Cibles principales :** La **nuque** (*Mok*), la **clavicule** (*Gyeongjo*), la **colonne vertébrale** ou le **haut du dos**.

@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dégagement bimanuel à très courte portée et compacité :**
+>
 > 1. **Corps-à-corps (*Infighting*) :** Lorsque la distance est trop réduite pour étendre les bras ou utiliser un coup de poing direct, le coup de coude horizontal est l'arme la plus dévastatrice pour casser une saisie ou impacter le thorax.
 > 2. **Stabilité bilatérale en *Moa Sogi* :** N'utilisant aucun bras de réaction libre à la hanche (puisque les deux bras frappent simultanément), la puissance est générée par la vitesse d'expansion de la cage thoracique, la rétraction des omoplates et la chute de masse en posture pieds joints.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des coups de coude doubles horizontaux ou latéraux dans plusieurs formes avancées du Taekwon-Do ITF, notamment dans **Po-Eun Tul** (mouvements 11 et 30), **Juche Tul** et **Ge-Baek Tul**.

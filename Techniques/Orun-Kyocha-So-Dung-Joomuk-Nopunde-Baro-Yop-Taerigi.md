@@ -27,18 +27,18 @@ Elle se traduit par : **Frappe latérale directe du revers du poing au niveau ha
 L'ajout du terme **Baro** précise que le coup est porté par la main droite (homologue au pied droit placé devant en position croisée) :
 
 1. **La position des jambes (*Orun Kyocha Sogi*) :**
-   * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
-   * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour stabiliser la posture.
-   * Les genoux sont fléchis et serrés l'un contre l'autre.
+    * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
+    * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour stabiliser la posture.
+    * Les genoux sont fléchis et serrés l'un contre l'autre.
 2. **L'armement (Préparation) :**
-   * Le poing droit (main d'attaque **Baro**) se ferme fermement et vient se armer sous l'aisselle ou près de l'épaule gauche, le dos de la main tourné vers l'extérieur.
-   * Le bras gauche (bras de réaction) s'étend vers la cible latérale pour aligner l'axe de frappe.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le croisement des jambes.
+    * Le poing droit (main d'attaque **Baro**) se ferme fermement et vient se armer sous l'aisselle ou près de l'épaule gauche, le dos de la main tourné vers l'extérieur.
+    * Le bras gauche (bras de réaction) s'étend vers la cible latérale pour aligner l'axe de frappe.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le croisement des jambes.
 3. **La trajectoire et le fouetté (*Baro Yop Taerigi*) :**
-   * En redescendant dans la posture croisée, le coude droit monte et pointe vers le côté.
-   * L'avant-bras droit se détend de manière fustigeante à partir du coude, décrivant un arc rapide vers la tempe ou le visage de la cible (**Nopunde**).
-   * Au moment précis du contact, le poignet droit effectue une légère torsion pour impacter avec le revers du poing (**Dung Joomuk**).
-   * Le poing gauche (bras de réaction) est tiré vivement à la hanche gauche, paume vers le haut.
+    * En redescendant dans la posture croisée, le coude droit monte et pointe vers le côté.
+    * L'avant-bras droit se détend de manière fustigeante à partir du coude, décrivant un arc rapide vers la tempe ou le visage de la cible (**Nopunde**).
+    * Au moment précis du contact, le poignet droit effectue une légère torsion pour impacter avec le revers du poing (**Dung Joomuk**).
+    * Le poing gauche (bras de réaction) est tiré vivement à la hanche gauche, paume vers le haut.
 
 ---
 

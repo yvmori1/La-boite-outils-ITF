@@ -26,18 +26,18 @@ Elle se traduit par : **Frappe latérale du revers du poing au niveau haut en po
 Cette technique associe l'ancrage réactif d'un déplacement croisé à la vitesse de fouetté du coude :
 
 1. **La position des jambes (*Orun Kyocha Sogi*) :**
-   * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
-   * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la stabilité.
-   * Les deux genoux sont fléchis et pressés l'un contre l'autre.
+    * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
+    * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la stabilité.
+    * Les deux genoux sont fléchis et pressés l'un contre l'autre.
 2. **L'armement (Préparation) :**
-   * Le poing droit (main d'attaque) se ferme fermement et vient se placer près de l'aisselle ou de l'épaule gauche, le dos de la main orienté vers le haut/l'extérieur.
-   * Le bras de réaction s'étend latéralement vers la cible pour mesurer la distance.
-   * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*) pendant le déplacement croisé.
+    * Le poing droit (main d'attaque) se ferme fermement et vient se placer près de l'aisselle ou de l'épaule gauche, le dos de la main orienté vers le haut/l'extérieur.
+    * Le bras de réaction s'étend latéralement vers la cible pour mesurer la distance.
+    * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*) pendant le déplacement croisé.
 3. **La trajectoire et le fouetté (*Yop Taerigi*) :**
-   * En redescendant brusquement dans la posture croisée, le coude droit monte et s'oriente vers le côté.
-   * L'avant-bras se détend de manière explosive à partir de l'articulation du coude, décrivant un arc fustigeant vers la tempe ou le visage de la cible (**Nopunde**).
-   * Au moment de l'impact, le poignet effectue une légère Torsion finale pour libérer la puissance du revers du poing (**Dung Joomuk**).
-   * Le bras de réaction est ramené vivement à la hanche (poing fermé), créant la réaction nécessaire à la vitesse d'exécution.
+    * En redescendant brusquement dans la posture croisée, le coude droit monte et s'oriente vers le côté.
+    * L'avant-bras se détend de manière explosive à partir de l'articulation du coude, décrivant un arc fustigeant vers la tempe ou le visage de la cible (**Nopunde**).
+    * Au moment de l'impact, le poignet effectue une légère Torsion finale pour libérer la puissance du revers du poing (**Dung Joomuk**).
+    * Le bras de réaction est ramené vivement à la hanche (poing fermé), créant la réaction nécessaire à la vitesse d'exécution.
 
 ---
 

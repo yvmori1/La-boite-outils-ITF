@@ -50,6 +50,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe réflexe rapide, efficace et dévastatrice :**
+>
 > 1. **Cible ultra-vulnérable (*Najunde*) :** Frapper au bas-ventre ou à l'aine (*Ap Chook*) est l'une des techniques de self-défense (*Hosinsul*) les plus naturelles et directes, car ces zones ne peuvent pas être musculées pour absorber les chocs.
 > 2. **Rapidité du fouetté (*Busigi*) :** Contrairement à un coup de pied poussé (*Cha Jirugi*), le snap du genou (*Busigi*) rend le coup de pied extrêmement rapide et très difficile à intercepter ou à saisir.
 > 3. **Présence fondamentale dans les patrons (*Tul*) :** C'est l'une des toutes premières techniques de coup de pied enseignées. On la retrouve dès les exercices d'attaque/défense de base et dans des patrons comme **Do-San Tul** (mouvements 8 et 10) ou **Won-Hyo Tul**.
