@@ -16,6 +16,10 @@ Sa décomposition linguistique est la suivante :
 
 ## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
 
+![gunnun-sogi](../images/sogi/gunnun-sogi.png)
+
+*Les pieds se placent exactement comme en Gunnun Sogi (schéma ci-dessus) ; seule la garde des mains change.*
+
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Répartition du poids** | **50% sur la jambe avant / 50% sur la jambe arrière**. |

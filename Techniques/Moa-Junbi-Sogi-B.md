@@ -23,6 +23,8 @@ C'est une posture d'attente, de concentration et de recentrage mental exécutée
 
 ## 2. Exécution et principes biomécaniques
 
+![moa-junbi-sogi](../images/sogi/moa-junbi-sogi.png)
+
 Le *Moa Junbi Sogi B* demande de la rigidité dans l'ancrage et de la sérénité dans le haut du corps :
 
 1. **La position du bas du corps (*Moa Sogi*) :**

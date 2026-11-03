@@ -16,6 +16,8 @@ Sa décomposition linguistique est la suivante :
 
 ## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
 
+![waebal-sogi](../images/sogi/waebal-sogi.png)
+
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Répartition du poids** | **100% sur la jambe d'appui**, 0% sur la jambe libre (aucun contact avec le sol). |
