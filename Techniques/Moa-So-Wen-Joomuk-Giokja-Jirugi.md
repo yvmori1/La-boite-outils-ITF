@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe sous crochet rapproché et compacité en garde étroite :**
+>
 > 1. **Contournement de garde en corps-à-corps :** Le *Giokja Jirugi* fonctionne comme un crochet court ou une frappe en équerre. Il permet de passer outre le bras ou la garde frontale d'un agresseur pour frapper le côté de son visage ou de son buste.
 > 2. **Stabilité axiale pure (*Moa Sogi*) :** Exécuter ce coup en posture pieds joints oblige le pratiquant à développer une force issue uniquement du gainer abdominal et de la rotation des hanches, sans pouvoir compter sur l'écartement des pieds.
 > 3. **Application dans les patrons (*Tul*) :** On retrouve ce mouvement notamment dans des patrons ITF (comme *Juche Tul* ou *Chung-Mu Tul*) où il sert de frappe de transition compacte.

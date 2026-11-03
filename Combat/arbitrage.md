@@ -40,12 +40,12 @@ règlement les fixe à l'article T16. La romanisation est celle du règlement.
 | **Sil Kyuk** | [실격](../audio/combats/Sil-kyuk.m4a) | Disqualification. |
 | **Hong** | [홍](../audio/combats/Hong.m4a) | Rouge. |
 | **Chong** | [청](../audio/combats/Chong.m4a) | Bleu. |
-| **Jung Ji** | 중지 | Arrêt du temps. |
+| **Jung Ji** | [중지](../audio/combats/Jung-Ji.m4a) | Arrêt du temps. |
 | **Dong Chong** | [동점](../audio/combats/Dong-jeon.m4a) | Égalité. |
-| **Il Hue Jong** | 일회전 | Premier round. |
-| **I Hue Jong** | 이회전 | Deuxième round. |
-| **Sam Hue Jong** | 삼회전 | Troisième round. |
-| **Sa Hue Jong** | 사회전 | Quatrième round — au premier point marqué. |
+| **Il Hue Jong** | [일회전](../audio/combats/Il-Hue-Jong.m4a) | Premier round. |
+| **I Hue Jong** | [이회전](../audio/combats/I-Hue-Jong.m4a) | Deuxième round. |
+| **Sam Hue Jong** | [삼회전](../audio/combats/Sam-Hue-Jong.m4a) | Troisième round. |
+| **Sa Hue Jong** | [사회전](../audio/combats/Sa-Hue-Jong.m4a) | Quatrième round — au premier point marqué. |
 | **Sung** | [승](../audio/combats/Sung.m4a) | Vainqueur. |
 
 *Hong*, le rouge, est le combattant inscrit en premier sur la feuille de match ;

@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 
 > **L'épreuve reine de puissance et de distance :**
 > En compétition ITF et dans les démonstrations de casse de puissance (*Kyokpa*), le *Twimyo Yopcha Jirugi* est utilisé sous deux formes principales :
+>
 > * **Twimyo Nopunde Yopcha Jirugi :** Saut en hauteur pour briser des planches suspendues à plus de 2,50 mètres de haut.
 > * **Twio Nomo Yopcha Jirugi :** Saut en longueur pour franchir plusieurs personnes alignées ou des obstacles avant d'impacter la cible.
 > 

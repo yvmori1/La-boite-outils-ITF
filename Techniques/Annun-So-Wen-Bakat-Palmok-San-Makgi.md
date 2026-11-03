@@ -52,11 +52,12 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Défense haute bilatérale et dégagement de saisie :**
+>
 > 1. **Protection contre les attaques hautes latérales :** Permet d'intercepter deux frappes circulaires ou descendantes arrivant simultanément des deux côtés (ex: crochets hauts, attaques de bâton).
 > 2. **Dégagement de saisie de cou / étranglement :** La montée en biseau des avant-bras (*Bakat Palmok*) écarte et brise les bras d'un agresseur tentant une saisie haute ou une strangulation par l'avant/côté.
 > 3. **Différence entre *Bakat Palmok* et *Sonkal Dung* San Makgi :**
->   * **Bakat Palmok San Makgi :** Se fait **poings fermés** avec le tranchant extérieur de l'avant-bras (absorption d'impacts lourds).
->   * **Sonkal Dung San Makgi :** Se fait **mains ouvertes** avec le tranchant interne (action de fente/crochet).
+>     * **Bakat Palmok San Makgi :** Se fait **poings fermés** avec le tranchant extérieur de l'avant-bras (absorption d'impacts lourds).
+>     * **Sonkal Dung San Makgi :** Se fait **mains ouvertes** avec le tranchant interne (action de fente/crochet).
 
 ---
 

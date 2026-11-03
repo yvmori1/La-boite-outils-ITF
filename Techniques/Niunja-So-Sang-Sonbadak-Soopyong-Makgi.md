@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Absorber les frappes larges sans choc osseux dur :**
+>
 > 1. **Protection souple à deux mains :** L'utilisation des paumes (**Sonbadak**) permet de pousser, dévier ou amortir des attaques circulaires ou directes simultanées sans risquer de choc osseux douloureux sur les poignets ou avant-bras.
 > 2. **Effet de bouclier frontal/latéral :** L'alignement horizontal (**Soopyong**) crée une barrière large qui couvre efficacement le niveau moyen/haut contre des poussées ou des frappes de bras.
 > 3. **Application dans les patrons (*Tul*) :** Cette technique s'exécute notamment dans le patron **Tong-Il Tul** (mouvement 11), où elle intervient en mouvement slow (*mouvement lent*) pour démontrer le contrôle de la respiration, de l'équilibre et de la tension musculaire.

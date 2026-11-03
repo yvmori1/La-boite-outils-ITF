@@ -24,16 +24,16 @@ Elle se traduit par : **Coup de poing direct double au niveau bas en position en
 Cette technique associe l'ancrage arrière de la position en L à la puissance symétrique d'une frappe double vers le bas :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-   * Le pied arrière est orienté à 15° vers l'extérieur et supporte **70 % du poids du corps**.
-   * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
-   * Les talons sont alignés sur la même ligne de référence.
+    * Le pied arrière est orienté à 15° vers l'extérieur et supporte **70 % du poids du corps**.
+    * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
+    * Les talons sont alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**
-   * Les deux mains se ferment en poings et sont ramenées aux hanches/flancs (ou croisées selon la dynamique d'amorce), paumes tournées vers le haut ou l'intérieur.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
+    * Les deux mains se ferment en poings et sont ramenées aux hanches/flancs (ou croisées selon la dynamique d'amorce), paumes tournées vers le haut ou l'intérieur.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et l'impact simultané (*Doo Joomuk Najunde Jirugi*) :**
-   * En redescendant brusquement dans la posture en L, les deux poings s'élancent en parallèle et en ligne droite vers le bas-ventre (**Najunde**).
-   * À la toute fin du parcours, les deux poignets effectuent une rotation pour impacter fermement avec la surface des deux premières phalanges (**Ap Joomuk**), paumes orientées vers le sol.
-   * Les deux bras frappent exactement en même temps, sans qu'aucun bras de réaction ne reste passif à la hanche.
+    * En redescendant brusquement dans la posture en L, les deux poings s'élancent en parallèle et en ligne droite vers le bas-ventre (**Najunde**).
+    * À la toute fin du parcours, les deux poignets effectuent une rotation pour impacter fermement avec la surface des deux premières phalanges (**Ap Joomuk**), paumes orientées vers le sol.
+    * Les deux bras frappent exactement en même temps, sans qu'aucun bras de réaction ne reste passif à la hanche.
 
 ---
 

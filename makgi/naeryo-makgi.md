@@ -50,6 +50,7 @@ Le *Naeryo Makgi* varie selon l'arme naturelle utilisée pour impacter le membre
 
 > **L'utilisation de la gravité comme amplificateur de force :**
 > Le *Naeryo Makgi* est l'une des techniques défensives les plus puissantes du TaeKwon-Do car le bras se déplace **dans le même sens que la gravité**.
+>
 > * **Destruction d'appui :** En venant frapper de haut en bas sur un coup de pied frontal (*Ap Chagi*) ou une montée de genou (*Murup Chagi*), le blocage renvoie le membre d'attaque violemment vers le sol, déséquilibrant complètement l'adversaire.
 > * **Casser une saisie :** En self-défense, une trajectoire *Naeryo* tranchante avec *Sonkal* permet de casser une prise au niveau de la ceinture ou des poignets.
 

@@ -56,6 +56,7 @@ Cette trajectoire vers l'extérieur s'associe à plusieurs armes naturelles selo
 
 > **Dégager l'axe central et dévier les frappes directes :**
 > Le blocage vers l'extérieur est la réponse classique aux attaques directes arrivant de face :
+>
 > 1. **Dévier sans absorption dure :** En poussant le coup de poing (*Ap Jirugi*) ou le coup de pied frontal (*Ap Chagi*) vers l'extérieur de votre corps, vous faites passer la frappe dans le vide à côté de vous.
 > 2. **Désaxer l'adversaire :** Le mouvement de chasse vers l'extérieur force le bras ou la jambe de l'attaquant à sortir de son axe, ce qui le déséquilibre vers l'avant et crée une ouverture immédiate sur ses flancs ou son visage.
 

@@ -31,12 +31,13 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | Script | Rôle |
 | :--- | :--- |
 | [maintenir.py](maintenir.py) | Enchaîne tous les autres dans l'ordre, puis contrôle |
-| [verifier.py](verifier.py) | Huit contrôles d'intégrité, n'écrit jamais |
+| [verifier.py](verifier.py) | Neuf contrôles d'intégrité, n'écrit jamais |
 | [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `Techniques/README.md` |
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
 | [generer-manuel.py](generer-manuel.py) | Assemble `Theorie/manuel-taekwon-do.md` à partir des quatre fiches de fond |
+| [formater-markdown.py](formater-markdown.py) | Met les listes en forme pour qu'elles s'affichent pareil sur GitHub et sur le site |
 
 ### maintenir.py
 
@@ -44,7 +45,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 compteurs du README racine, normalisation des graphies (y compris les hangul
 fautifs relevés par le glossaire), liens des formes, prononciations
 de tout le site, réparation des audio manquants, index de `Techniques/` une
-seconde fois, contrôle final.
+seconde fois, mise en forme Markdown, contrôle final.
 
 `--sans-audio` saute la synthèse vocale, de loin l'étape la plus longue.
 
@@ -52,11 +53,28 @@ seconde fois, contrôle final.
 
 Liens Markdown morts · liens audio morts · fichiers audio orphelins · fiches
 vides · compteurs du README racine · index Techniques à jour ·
-graphies concurrentes · couverture des formes.
+graphies concurrentes · couverture des formes · mise en forme Markdown.
 
 Les graphies surveillées sont déclarées en tête du fichier (`GRAPHIES`) : une
 forme de référence et ses variantes fautives. Ajouter une paire suffit à
 surveiller un nouveau terme.
+
+### formater-markdown.py
+
+Le site est construit par MkDocs (Python-Markdown), plus strict que
+l'affichage des fichiers sur GitHub. Pour qu'un fichier s'affiche pareil des
+deux côtés :
+
+* **indenter chaque niveau de liste imbriquée de 4 espaces** (2 ou 3 espaces
+  suffisent à GitHub, mais MkDocs aplatit alors la liste) ;
+* **laisser une ligne vide entre un paragraphe et la liste qui le suit**, y
+  compris dans une citation (`>` seul sur la ligne) ;
+* **écrire `<details markdown="1">`** plutôt que `<details>`, sans quoi MkDocs
+  affiche le Markdown du bloc tel quel.
+
+Le script applique ces trois règles ; `verifier.py` signale tout fichier qui
+s'en écarte. Les encadrés `!!! note` restent propres au site : GitHub les
+affiche en texte simple.
 
 ### generer-index-techniques.py
 

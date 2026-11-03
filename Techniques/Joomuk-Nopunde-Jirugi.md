@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe directe K.O. et puissance de pénétration :**
+>
 > 1. **Cible K.O. immédiat :** Frapper au niveau haut (*Nopunde*) vise les centres nerveux du visage (menton, nez, mâchoire), capables de provoquer un K.O. par ébranlement cérébral.
 > 2. **Vitesse du trajet rectiligne :** La ligne droite étant le chemin le plus court entre deux points, le coup de poing direct est plus rapide et plus difficile à intercepter qu'une frappe circulaire.
 > 3. **Puissance de torsion :** La rotation à 180° du poing juste avant l'impact crée un effet de perforation (comme une balle de fusil) qui démultiplie la pénétration de la frappe.

@@ -48,6 +48,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Coup d'arrêt, destruction d'ancrage et contrôle de distance :**
+>
 > 1. **Hyper-extension du genou adverse :** En pressant l'intérieur ou l'avant du genou d'un agresseur de l'intérieur vers l'extérieur, la pression *Noollo* force l'articulation dans un angle anatomique dangereux, provoquant la rupture des ligaments ou la chute immédiate.
 > 2. **Coup d'arrêt (*Stop-kick*) :** Permet d'intercepter un adversaire qui s'avance ou qui arme un coup de pied direct en lui écrasant la jambe d'attaque avant qu'elle ne se déploie.
 > 3. **Dégagement de la garde :** Peut être appliqué sur la cuisse ou le bas-ventre pour repousser l'adversaire et créer l'espace nécessaire à une riposte avec les poings.

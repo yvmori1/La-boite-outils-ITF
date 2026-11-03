@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Puissance de choc à bout portant sur base inébranlable :**
+>
 > 1. **Dégât maximal à distance nulle :** Lorsque la distance est trop courte pour étendre un coup de poing (*Jirugi*), le coude droit offre la surface la plus dure et la plus proche pour neutraliser l'agresseur.
 > 2. **Force de torsion extrême :** La posture *Annun Sogi* verrouille le bassin face à l'avant. Frapper en *Ap Palkup Taerigi* contraint le haut du corps à développer une rotation explosive de la ceinture scapulaire contre la résistance des hanches.
 > 3. **Structure indeformable :** L'appui du poing droit dans la paume gauche empêche le coude d'être dévié lors de l'impact contre une zone dure.

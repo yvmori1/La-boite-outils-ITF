@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Alignement direct (*Baro*), esquive de profil et puissance de fouet :**
+>
 > 1. **Coordination biomécanique naturelle (*Baro*) :** L'utilisation du bras situé du même côté que la jambe avant (*Baro*) permet un transfert d'énergie fluide et direct sans devoir pivoter le bassin de manière excessive.
 > 2. **Esquive et contre-attaque simultanées :** Le pas croisé en *Kyocha Sogi* permet de sortir de la ligne de mire d'une attaque directe venant de face tout en vous plaçant sur le flanc de l'adversaire pour lui décocher un contre à la tête.
 > 3. **Efficacité du revers de poing (*Dung Joomuk*) :** Agissant comme une cravache, le revers du poing sur une zone fragile (tempe, nez, mâchoire) peut provoquer un ébranlement cérébral et un K.O. immédiat.

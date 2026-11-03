@@ -51,10 +51,11 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Neutralisation à bout portant en aveugle / saisie arrière :**
+>
 > 1. **Rupture d'agrippement arrière :** Particulièrement efficace si un agresseur tente de vous enlacer, de vous attraper par les épaules ou de vous ceinturer par l'arrière.
 > 2. **Différence essentielle entre *Tulgi* et *Taerigi* :**
-> * **Ap / Yop Palkup Taerigi :** Le coude décrit un arc de cercle (fouet/percussion).
-> * **Dwit Palkup Tulgi :** Le coude s'enfonce en ligne droite comme un dague (pénétration/perforation).
+>     * **Ap / Yop Palkup Taerigi :** Le coude décrit un arc de cercle (fouet/percussion).
+>     * **Dwit Palkup Tulgi :** Le coude s'enfonce en ligne droite comme un dague (pénétration/perforation).
 > 
 > 3. **Ancrage inébranlable :** La posture du cavalier (*Annun Sogi*) empêche l'adversaire arrière de vous déséquilibrer pendant que vous lui enfoncez le coude.
 

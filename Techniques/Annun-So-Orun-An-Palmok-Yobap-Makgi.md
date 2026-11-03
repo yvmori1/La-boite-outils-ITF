@@ -61,6 +61,7 @@ Sa décomposition linguistique est la suivante :
 ## 4. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Intercepter les attaques circulaires et obliques :**
+>
 > 1. **Défense contre *Dollyo Chagi* ou crochets :** Un coup de pied circulaire ou un crochet n'arrive ni à 0° ni à 90°, mais sous un angle oblique. Le *Yobap Makgi* place l'avant-bras exactement sur la trajectoire d'impact de ces frappes.
 > 2. **Protection sans rupture de posture :** La posture du cavalier (*Annun Sogi*) faisant face à l'avant, le *Yobap Makgi* permet de défendre le flanc droit sans avoir à tourner le bassin ou déstabiliser sa base.
 

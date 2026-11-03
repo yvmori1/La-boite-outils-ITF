@@ -33,10 +33,10 @@ La force du blocage repose sur l'ancrage solide de la posture de marche :
 
 * **Arme naturelle (*Jook Bang*) :** **Bakat Palmok** (Tranchant extérieur de l'avant-bras, du côté de l'ulna / cubitus).
 * **Position d'arrêt finale :**
-  1. L'avant-bras se fixe **au-dessus et en avance du front**.
-  2. L'espace entre l'avant-bras et le front doit être d'environ **10 à 15 cm (un poing fermé)**.
-  3. L'avant-bras est incliné selon un **angle d'environ 45° par rapport à l'horizontale**, formant un toit inclinant pour faire glisser les frappes descendantes vers l'extérieur.
-  4. Le coude est légèrement fléchi (angle d'environ 120° à 140°) et décalé sur le côté pour ne pas masquer le champ de vision.
+    1. L'avant-bras se fixe **au-dessus et en avance du front**.
+    2. L'espace entre l'avant-bras et le front doit être d'environ **10 à 15 cm (un poing fermé)**.
+    3. L'avant-bras est incliné selon un **angle d'environ 45° par rapport à l'horizontale**, formant un toit inclinant pour faire glisser les frappes descendantes vers l'extérieur.
+    4. Le coude est légèrement fléchi (angle d'environ 120° à 140°) et décalé sur le côté pour ne pas masquer le champ de vision.
 
 ---
 
@@ -65,6 +65,7 @@ La force du blocage repose sur l'ancrage solide de la posture de marche :
 
 > **Protection vitale contre les frappes hautes et armées :**
 > Le *Chookyo Makgi* est le bouclier principal de la tête :
+>
 > 1. **Défense contre attaques descendantes :** Stoppe les coups de poing marteau descendant (*Neryo Jirugi*), les coups de pied descendants (*Neryo Chagi*) ou les attaques au bâton / à la matraque.
 > 2. **Déviation des coups directs au visage :** L'angle à 45° de l'avant-bras permet de dévier un coup de poing direct haut (*Nopunde Jirugi*) au-dessus du crâne sans subir l'impact de face.
 > 3. **Ouverture de garde pour contre-attaque :** En repoussant le bras de l'adversaire vers le haut, son buste se retrouve découvert, facilitant un coup de poing direct au plexus ou un coup de pied au corps.

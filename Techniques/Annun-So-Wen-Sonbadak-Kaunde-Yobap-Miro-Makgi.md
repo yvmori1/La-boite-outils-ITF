@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Contrôle de trajectoire, déflexion douce et rupture d'équilibre :**
+>
 > 1. **Absorption et déviation sans blessure (*Miro*) :** Contrairement aux blocages percutants au tranchant de l'avant-bras, le blocage poussoir avec la paume sert à intercepter une attaque en souplesse, à accompagner la force adverse et à repousser le membre d'un agresseur pour dévier sa trajectoire.
 > 2. **Couverture de l'angle mort (*Yobap*) :** Sécurise la zone intermédiaire à 45°, idéale pour contrer des coups de poing en crochet ou des coups de pied obliques venant contourner une garde frontale.
 > 3. **Création d'ouverture pour la riposte :** La pression continue de la paume déstabilise le buste de l'adversaire, laissant ses zones vitales (flanc, visage, plexus) découvertes pour un contre immédiat.

@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe réflexe rapide et déstabilisante :**
+>
 > 1. **Vitesse supérieure à un coup de poing direct :** Grâce à l'action de levier du coude (*Taerigi*), le *Dung Joomuk* part souvent plus vite qu'un coup de poing en piston classique (*Jirugi*), ce qui le rend idéal pour surprendre la garde d'un agresseur.
 > 2. **Cible nerveuse très sensible (Philtrum) :** Toucher le philtrum (*Injung*) avec la dureté des grosses jointures du revers du poing provoque un larmoiement instantané, un étourdissement et une ouverture immédiate de la garde adverse.
 > 3. **Stabilité d'ancrage en *Annun Sogi* :** La base large de la posture du cavalier permet de délivrer une frappe cinglante et de rester prêt à enchaîner ou à absorber une riposte sans céder de terrain.

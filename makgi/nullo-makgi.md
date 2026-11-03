@@ -50,6 +50,7 @@ Le *Nullo Makgi* s'exécute généralement vers le bas pour intercepter les coup
 
 > **Étouffer l'attaque à sa source :**
 > Le *Nullo Makgi* intervient idéalement en **anticipation** de la frappe adverse :
+>
 > 1. **Casser un coup de pied montant (*Ap Chagi* / *Murup Chagi*) :** En plaçant une pression de la paume sur le genou ou le tibia adverse au moment où la jambe décolle, vous étouffez le coup de pied avant qu'il ne se déploie.
 > 2. **Dévoiler la garde adverse :** En pressant le poing ou l'avant-bras de l'adversaire vers le bas, vous détruisez sa structure de garde et créez un passage direct pour contre-attaquer immédiatement au visage (*Nopunde Jirugi*).
 

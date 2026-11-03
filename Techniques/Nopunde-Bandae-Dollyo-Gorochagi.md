@@ -18,13 +18,13 @@ Elle se traduit par : **Coup de pied crocheté inversé au niveau haut** (*High 
 ## 2. Exécution et principes biomécaniques
 
 1. **L'armement et la rotation :**
-   * Le corps amorce sa rotation par le dos sur le pied d'appui.
-   * La jambe d'attaque s'élève vers le côté de la cible dans une trajectoire tendue.
+    * Le corps amorce sa rotation par le dos sur le pied d'appui.
+    * La jambe d'attaque s'élève vers le côté de la cible dans une trajectoire tendue.
 2. **L'action de crochetage (*Gorochagi*) :**
-   * Contrairement au *Bandae Dollyo Chagi* classique qui traverse la cible en ligne droite, le *Gorochagi* applique une action de fouet par repliement rapide du genou au moment de passer la tête de l'adversaire.
-   * La jambe s'étend légèrement au-delà de la cible puis se replie sèchement de manière fustigeante.
+    * Contrairement au *Bandae Dollyo Chagi* classique qui traverse la cible en ligne droite, le *Gorochagi* applique une action de fouet par repliement rapide du genou au moment de passer la tête de l'adversaire.
+    * La jambe s'étend légèrement au-delà de la cible puis se replie sèchement de manière fustigeante.
 3. **La surface d'impact :**
-   * L'attaque percute la cible avec l'arrière du talon (**Dwit Chook**) ou la plante du pied.
+    * L'attaque percute la cible avec l'arrière du talon (**Dwit Chook**) ou la plante du pied.
 
 ## 3. Applications et cibles
 

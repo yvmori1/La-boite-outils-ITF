@@ -49,6 +49,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Rupture d'élan, gestion de la distance et neutralisation préventive :**
+>
 > 1. **Casser la charge d'un agresseur :** Face à un adversaire agressif qui se ruine vers vous, le *Yopcha Momchugi* agit comme un frein mécanique. L'agresseur s'empale sur le tranchant de votre pied, perdant immédiatement son élan.
 > 2. **Conserver la distance de sécurité (*Managing Distance*) :** Permet de maintenir un adversaire à portée de jambe sans engager tout le corps dans un coup perçant qui risquerait d'être esquivé ou contré.
 > 3. **Interception des coups de pied adverses :** Utilisé au niveau bas ou moyen, il permet de bloquer le départ du coup de pied de l'adversaire (sur sa cuisse ou son bassin) avant qu'il n'atteigne sa pleine puissance.

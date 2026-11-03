@@ -28,20 +28,20 @@ C'est une posture de recentrage, de contrôle mental et d'accumulation d'énergi
 Le *Moa Junbi Sogi C* se distingue principalement de la variante B par le fait que **les deux mains sont ouvertes** et placées devant le centre de gravité (*Danjeon*) :
 
 1. **La position du bas du corps (*Moa Sogi*) :**
-   * Les pieds sont rigoureusement joints : talons et gros orteils se touchent complètement.
-   * Les jambes sont tendues sans bloquer excessivement les genoux.
-   * Le poids du corps est réparti de manière égale à **50 % sur chaque pied**.
-   * Le bassin est légèrement rétroversé pour maintenir une colonne vertébrale droite et relâchée.
+    * Les pieds sont rigoureusement joints : talons et gros orteils se touchent complètement.
+    * Les jambes sont tendues sans bloquer excessivement les genoux.
+    * Le poids du corps est réparti de manière égale à **50 % sur chaque pied**.
+    * Le bassin est légèrement rétroversé pour maintenir une colonne vertébrale droite et relâchée.
 2. **La position des mains (Spécificité du Type C) :**
-   * **Les deux mains sont ouvertes** (*Sonkal* / paumes étendues, doigts serrés).
-   * La **main gauche vient se superposer à la main droite** (la paume gauche recouvre le dos de la main droite).
-   * Les deux mains ainsi croisées/superposées sont tenues horizontales au niveau du **bas-ventre / de la ceinture** (à la hauteur du *Danjeon*).
-   * Un espace d'environ **5 à 10 cm** est maintenu entre les mains et le *Dobok* (le vêtement ne doit pas être touché).
-   * Les coudes sont fléchis naturellement de chaque côté du corps sans être plaqués contre les côtes.
+    * **Les deux mains sont ouvertes** (*Sonkal* / paumes étendues, doigts serrés).
+    * La **main gauche vient se superposer à la main droite** (la paume gauche recouvre le dos de la main droite).
+    * Les deux mains ainsi croisées/superposées sont tenues horizontales au niveau du **bas-ventre / de la ceinture** (à la hauteur du *Danjeon*).
+    * Un espace d'environ **5 à 10 cm** est maintenu entre les mains et le *Dobok* (le vêtement ne doit pas être touché).
+    * Les coudes sont fléchis naturellement de chaque côté du corps sans être plaqués contre les côtes.
 3. **L'attitude et la respiration :**
-   * Le regard est fixé vers l'avant à hauteur des yeux.
-   * Les épaules sont abaissées et relâchées pour débloquer la cage thoracique.
-   * La respiration est calme, lente et abdominale.
+    * Le regard est fixé vers l'avant à hauteur des yeux.
+    * Les épaules sont abaissées et relâchées pour débloquer la cage thoracique.
+    * La respiration est calme, lente et abdominale.
 
 ---
 

@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Détourner la force sans choc d'impact :**
+>
 > 1. **Gestion des attaques lourdes :** Face à un agresseur beaucoup plus puissant ou armé d'un coup de pied lourd, un blocage percutant classique peut provoquer des traumatismes osseux. Le *Miro Makgi* amortit et redirige la force en utilisant l'inertie de l'attaquant contre lui-même.
 > 2. **Création de déséquilibre (*Off-balancing*) :** En poussant le bras ou le genou de l'adversaire en fin de course, vous déviez son axe de gravité, ouvrant ainsi une faille béante pour une contre-attaque immédiate (coup de poing ou coup de genou).
 > 3. **Ancrage inébranlable :** La posture *Annun Sogi* offre la largeur et la stabilité nécessaires pour pousser un poids mort sans basculer vers l'arrière.

@@ -38,8 +38,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 1 : Armement croisé et *Sine Wave*
 
 1. **Armement simultané :**
-   * Le bras de la jambe arrière (**Baro**) s'arme près de la joue/épaule opposée pour préparer son fouetté vers le côté-arrière.
-   * Le bras de la jambe avant (**Bandae**) s'arme près de l'épaule arrière pour préparer sa descente en blocage bas.
+    * Le bras de la jambe arrière (**Baro**) s'arme près de la joue/épaule opposée pour préparer son fouetté vers le côté-arrière.
+    * Le bras de la jambe avant (**Bandae**) s'arme près de l'épaule arrière pour préparer sa descente en blocage bas.
 2. **Phase haute (*Sine Wave*) :** Élévation souple du centre de gravité par une extension légère des genoux pendant le glissement du pas.
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
@@ -50,8 +50,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 3 : L'Action simultanée et le Verrouillage (*Snap*)
 
 1. **Déploiement opposé :**
-   * Le poing arrière (**Dung Joomuk**) se détend en fouetté circulaire vers l'angle latéral-arrière (*Yopdwi*).
-   * L'avant-bras avant (**Palmok**) descend en arc de cercle pour verrouiller le niveau bas au-dessus de la cuisse avant (*Najunde*).
+    * Le poing arrière (**Dung Joomuk**) se détend en fouetté circulaire vers l'angle latéral-arrière (*Yopdwi*).
+    * L'avant-bras avant (**Palmok**) descend en arc de cercle pour verrouiller le niveau bas au-dessus de la cuisse avant (*Najunde*).
 2. **Verrouillage synchronisé :** Les deux poignets effectuent leur rotation au tout dernier millième de seconde.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève scelle la fixation simultanée des deux actions.
 
@@ -60,6 +60,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Gestion de deux agresseurs (devant et derrière) :**
+>
 > 1. **Défense et riposte multidirectionnelles :** Cette combinaison traite deux menaces en même temps : elle bloque un coup de pied bas venant de l'avant (*Palmok Najunde Makgi*) tout en contre-attaquant un agresseur situé sur le flanc arrière (*Dung Joomuk Yopdwi Taerigi*).
 > 2. **Coordination et équilibre :** L'exécution bilatérale opposée nécessite une grande stabilité du buste et un ancrage strict en *Niunja Sogi* (70/30) pour éviter que la force du coup de revers arrière ne déséquilibre le blocage bas avant.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette séquence complexe dans des patrons avancés comme **Ge-Baek Tul** (mouvements 10 et 14), où elle demande un timing parfait.

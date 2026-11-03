@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Neutraliser une menace dans l'angle mort :**
+>
 > 1. **Contre-attaque sur agresseur arrière/oblique :** Idéal si un second agresseur tente de vous surprendre ou de vous attraper par la diagonale arrière-droite pendant que votre corps fait face à l'avant.
 > 2. **Conservation de l'ancrage :** Permet de délivrer une frappe très puissante vers l'arrière sans avoir à retourner tout le corps ou abandonner la posture stable du cavalier (*Annun Sogi*).
 

@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection basse renforcée et absorption en retrait :**
+>
 > 1. **Dévitation des coups bas puissants :** L'utilisation du revers du tranchant (**Sonkal Dung**) offre une structure osseuse solide pour casser ou dévier un coup de pied bas (*Ap Chagi* ou *Bandal Chagi* bas) sans risquer de se blesser les doigts.
 > 2. **Double barrière (Principe *Daebi*) :** Le bras avant balaie la zone du bas-ventre tandis que la main arrière protège le plexus contre une feinte ou un enchaînement simultané au buste.
 > 3. **Sécurité de l'assise en L (70/30) :** En maintenir 70% de la masse sur la jambe arrière, le pratiquant éloigne son buste et son bas-ventre de l'agresseur, gardant la jambe avant mobile pour bloquer ou riposter.

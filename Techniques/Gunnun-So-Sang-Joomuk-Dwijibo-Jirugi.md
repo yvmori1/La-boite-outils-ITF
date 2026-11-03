@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Perforation sous la garde et levier de puissance dorsale :**
+>
 > 1. **Infiltration sous la garde haute :** La trajectoire paumes vers le haut (*Dwijibo*) permet d'insérer les deux poings sous les bras repliés d'un adversaire pour atteindre les côtes flottantes ou le plexus solaire.
 > 2. **Poussée dorsale et des dorsaux :** Garder les coudes près des flancs et tourner les paumes vers le haut engage les grands dorsaux et la chaîne musculaire du dos, offrant une force de perforation massive à courte/moyenne distance.
 > 3. **Double choc simultané :** Frapper deux zones abdominales ou costales au même instant provoque une asphyxie temporaire et un effondrement de la structure de l'agresseur.

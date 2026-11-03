@@ -51,6 +51,7 @@ Le *Hori Makgi* s'adapte à la nature de la frappe arrivant à la ceinture :
 
 > **Protection des flancs et des reins :**
 > La taille est une zone charnière particulièrement exposée aux attaques circulaires et aux saisies :
+>
 > 1. **Protection contre les coups de pied moyens/bas :** Utile pour intercepter un coup de pied circulaire (*Dollyo Chagi*) ou un coup de pied de côté (*Yop Chagi*) ciblant la hanche ou les côtes flottantes.
 > 2. **Défense contre les tentatives de saisie / de projection :** En Self-Défense (*Hosinsul*), placer un *Hori Makgi* (notamment avec la paume ou le tranchant de la main) permet de barrer le bras d'un agresseur qui tente une ceinture au corps ou une prise de hanche.
 

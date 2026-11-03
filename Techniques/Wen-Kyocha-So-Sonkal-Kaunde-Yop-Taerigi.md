@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Changement d'axe rapide, esquive et frappe simultanées :**
+>
 > 1. **Sortie de la ligne d'attaque (*Sidestep*) :** La posture en X (*Kyocha Sogi*) permet un déplacement croisé rapide qui esquive une attaque directe venant de face tout en vous positionnant sur le flanc de l'adversaire.
 > 2. **Pénétration sur zone molle :** Le tranchant de la main (*Sonkal*) au niveau moyen (*Kaunde*) vise spécifiquement les côtes flottantes, le foie ou le plexus latéral d'un agresseur.
 > 3. **Stabilité en espace restreint :** La base serrée de la posture en X offre une grande stabilité dans des espaces de combat réduits où l'on ne peut pas déployer une position large.

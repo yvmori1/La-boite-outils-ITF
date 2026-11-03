@@ -49,6 +49,7 @@ Le **Dwit Palkup Tulgi** est une attaque redoutable à très courte distance, co
 
 > **Neutralisation d'un agresseur dans l'angle mort :**
 > Le *Dwit Palkup Tulgi* est l'une des armes les plus destructrices en Self-Défense rapprochée :
+>
 > 1. **Réponse aux attaques par l'arrière (*Hosinsul*) :** Si un agresseur vous saisit par le col, les épaules ou tente un ceinturage (*Bearhug*) par-derrière, le coup de coude arrière pénètre directement ses côtes flottantes, son plexus ou son estomac.
 > 2. **Effet de surprise en combat rapproché (*In-fighting*) :** Lorsque la distance est trop courte pour étendre la jambe ou le bras, pivoter légèrement et envoyer le coude vers l'arrière permet de libérer une puissance de masse sans avoir besoin d'élan.
 

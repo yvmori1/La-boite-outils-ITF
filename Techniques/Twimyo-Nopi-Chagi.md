@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, démonstratif et Self-Défense (*Hosinsul & Tukgi*)
 
 > **Franchissement de hauteur, développement de la puissance pliométrique et épreuve de cassage :**
+>
 > 1. **Épreuve de Technique Spéciale (*Tukgi*) :** En compétition ITF, le *Twimyo Nopi Chagi* sert à évaluer la capacité du pratiquant à briser une planche fixée à plus de 2,30 m ou 2,50 m du sol.
 > 2. **Neutralisation d'adversaire surélevé :** Permet d'atteindre un agresseur situé en position dominante (sur un obstacle, un escalier ou à cheval).
 > 3. **Explosivité pliométrique :** L'entraînement à cette technique développe une puissance athlétique hors du commun au niveau des membres inférieurs et du gainage du tronc.

@@ -26,16 +26,16 @@ Elle se traduit par : **Coup de pied latéral perforant / poussé du pied droit 
 Cette technique repose sur l'alignement de la chaîne articulaire pour transpercer la garde adverse au niveau du buste :
 
 1. **L'armement (*Chambering*) :**
-   * Lever le genou droit fléchi en le ramenant près de la poitrine ou de l'aisselle opposée.
-   * Le pied droit s'arme en verrouillant le tranchant extérieur (**Balkal**), les orteils tirés vers soi et légèrement inclinés vers le bas.
+    * Lever le genou droit fléchi en le ramenant près de la poitrine ou de l'aisselle opposée.
+    * Le pied droit s'arme en verrouillant le tranchant extérieur (**Balkal**), les orteils tirés vers soi et légèrement inclinés vers le bas.
 2. **Le pivot et la poussée rectiligne (*Tulgi*) :**
-   * Pivoter sur la plante du pied gauche (jambe d'appui) jusqu'à ce que le talon pointe vers la cible, permettant ainsi d'ouvrir totalement la hanche.
-   * Détendre la jambe droite de manière explosive en ligne droite vers le côté, en poussant la hanche et les fessiers vers l'avant.
+    * Pivoter sur la plante du pied gauche (jambe d'appui) jusqu'à ce que le talon pointe vers la cible, permettant ainsi d'ouvrir totalement la hanche.
+    * Détendre la jambe droite de manière explosive en ligne droite vers le côté, en poussant la hanche et les fessiers vers l'avant.
 3. **L'impact et la zone de frappe :**
-   * L'impact est délivré avec le tranchant extérieur du pied (**Balkal**) ou le dessous du talon (**Balkal-Dupchi**).
-   * À l'impact, la jambe droite, la hanche et le buste forment une ligne de force rigide orientée vers le plexus ou les côtes de la cible (**Kaunde**).
+    * L'impact est délivré avec le tranchant extérieur du pied (**Balkal**) ou le dessous du talon (**Balkal-Dupchi**).
+    * À l'impact, la jambe droite, la hanche et le buste forment une ligne de force rigide orientée vers le plexus ou les côtes de la cible (**Kaunde**).
 4. **Le réarmement et le contrôle :**
-   * Après la poussée, le genou droit est réarmé rapidement près du buste avant de reposer le pied au sol, évitant ainsi toute saisie de jambe.
+    * Après la poussée, le genou droit est réarmé rapidement près du buste avant de reposer le pied au sol, évitant ainsi toute saisie de jambe.
 
 ---
 

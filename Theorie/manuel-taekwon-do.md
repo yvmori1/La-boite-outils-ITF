@@ -20,136 +20,136 @@ lequel.
 ## Table des matières
 
 - [Manuel de Taekwon-Do ITF](#manuel-de-taekwon-do-itf)
-  - [Table des matières](#table-des-matières)
-  - [Partie I — L'art et sa voie](#partie-i--lart-et-sa-voie)
-    - [1. Ce qu'est le Taekwon-Do](#1-ce-quest-le-taekwon-do)
-    - [2. Histoire et filiation](#2-histoire-et-filiation)
-      - [Genèse du Taekwon-Do moderne](#genèse-du-taekwon-do-moderne)
-      - [Le Général Choi Hong Hi, fondateur](#le-général-choi-hong-hi-fondateur)
-      - [Maître J. André Blake, pionnier québécois](#maître-j-andré-blake-pionnier-québécois)
-      - [Instructeurs fondateurs du club de Blainville](#instructeurs-fondateurs-du-club-de-blainville)
-      - [Racines des arts martiaux](#racines-des-arts-martiaux)
-    - [3. Le Do : la culture morale de l'adepte](#3-le-do--la-culture-morale-de-ladepte)
-      - [Le crédo (Taekwon-Do Jungshin)](#le-crédo-taekwon-do-jungshin)
-      - [Le serment de l'adepte](#le-serment-de-ladepte)
-      - [La charte du Taekwon-Do (Taekwon-Do Jang)](#la-charte-du-taekwon-do-taekwon-do-jang)
-      - [Philosophie de la société et vertus cardinales](#philosophie-de-la-société-et-vertus-cardinales)
-      - [Règles de vie pour l'auto-culture](#règles-de-vie-pour-lauto-culture)
-    - [4. Étiquette et vie du dojang](#4-étiquette-et-vie-du-dojang)
-      - [Le salut (Kyong Ye)](#le-salut-kyong-ye)
-      - [Communication et conduite](#communication-et-conduite)
-      - [Les douze directives de discipline](#les-douze-directives-de-discipline)
-    - [5. Le dobok et les ceintures](#5-le-dobok-et-les-ceintures)
-      - [Rôle et conception du dobok](#rôle-et-conception-du-dobok)
-      - [La réforme du 28 mars 1968](#la-réforme-du-28-mars-1968)
-      - [Spécifications de l'uniforme](#spécifications-de-luniforme)
-      - [Symbolisme des couleurs de ceinture](#symbolisme-des-couleurs-de-ceinture)
-      - [Conditions et temps requis au passage de grade](#conditions-et-temps-requis-au-passage-de-grade)
-  - [Partie II — Les principes physiques](#partie-ii--les-principes-physiques)
-    - [6. La théorie de la puissance (Him Ui Wolli)](#6-la-théorie-de-la-puissance-him-ui-wolli)
-    - [7. Le mouvement de vague](#7-le-mouvement-de-vague)
-      - [1. Déroulement du mouvement (La trajectoire sinusoïdale)](#1-déroulement-du-mouvement-la-trajectoire-sinusoïdale)
-      - [2. Utilité dans la Théorie de la Puissance (*Him Ui Wolli*)](#2-utilité-dans-la-théorie-de-la-puissance-him-ui-wolli)
-      - [3. Les clés d'une bonne exécution](#3-les-clés-dune-bonne-exécution)
-    - [8. Respiration, ki et méditation](#8-respiration-ki-et-méditation)
-      - [La respiration et le ki](#la-respiration-et-le-ki)
-      - [Le protocole de respiration isotonique](#le-protocole-de-respiration-isotonique)
-      - [Méditation zen active (Jung-Joong-Dong)](#méditation-zen-active-jung-joong-dong)
-  - [Partie III — La grammaire des techniques](#partie-iii--la-grammaire-des-techniques)
-    - [9. Les deux formules de construction](#9-les-deux-formules-de-construction)
-      - [Techniques de mains et de bras](#techniques-de-mains-et-de-bras)
-      - [Techniques de jambes et de pieds](#techniques-de-jambes-et-de-pieds)
-    - [10. Les briques de la formule](#10-les-briques-de-la-formule)
-    - [11. Les verbes d'action](#11-les-verbes-daction)
-    - [12. Les armes naturelles (Jook Bang)](#12-les-armes-naturelles-jook-bang)
-      - [Membres supérieurs : mains, avant-bras, coudes](#membres-supérieurs--mains-avant-bras-coudes)
-      - [Membres inférieurs : pieds, chevilles, genoux](#membres-inférieurs--pieds-chevilles-genoux)
-    - [13. Décrypter un nom de technique](#13-décrypter-un-nom-de-technique)
-      - [Exemple 1 : *Gunnun So Nopunde Bandae Sonkal Taerigi*](#exemple-1--gunnun-so-nopunde-bandae-sonkal-taerigi)
-      - [Exemple 2 : *Twimyo Nopunde Dora Yop Cha Jirugi*](#exemple-2--twimyo-nopunde-dora-yop-cha-jirugi)
-  - [Partie IV — Les positions (Sogi)](#partie-iv--les-positions-sogi)
-    - [14. Principes et constantes](#14-principes-et-constantes)
-    - [15. Les positions d'un coup d'œil](#15-les-positions-dun-coup-dœil)
-    - [16. Les 21 positions en détail](#16-les-21-positions-en-détail)
-      - [16.1 Position d'attente (Junbi Sogi)](#161-position-dattente-junbi-sogi)
-      - [16.2 Position d'attente rapprochée (Moa Junbi Sogi)](#162-position-dattente-rapprochée-moa-junbi-sogi)
-      - [16.3 Position d'attente fléchie (Guburyo Junbi Sogi)](#163-position-dattente-fléchie-guburyo-junbi-sogi)
-      - [16.4 Position à l'attention (Charyo Sogi)](#164-position-à-lattention-charyo-sogi)
-      - [16.5 Position de salut (Kyong Ye Jase)](#165-position-de-salut-kyong-ye-jase)
-      - [16.6 Position parallèle (Narani Sogi)](#166-position-parallèle-narani-sogi)
-      - [16.7 Position d'attente parallèle (Narani Junbi Sogi)](#167-position-dattente-parallèle-narani-junbi-sogi)
-      - [16.8 Position assise (Annun Sogi)](#168-position-assise-annun-sogi)
-      - [16.9 Position de marche (Gunnun Sogi)](#169-position-de-marche-gunnun-sogi)
-      - [16.10 Position en « L » (Niunja Sogi)](#1610-position-en--l--niunja-sogi)
-      - [16.11 Position fixe (Gojung Sogi)](#1611-position-fixe-gojung-sogi)
-      - [16.12 Position sur une jambe (Waebal Sogi)](#1612-position-sur-une-jambe-waebal-sogi)
-      - [16.13 Position fléchie (Guburyo Sogi)](#1613-position-fléchie-guburyo-sogi)
-      - [16.14 Position en « X » (Kyocha Sogi)](#1614-position-en--x--kyocha-sogi)
-      - [16.15 Position arrière rapprochée (Dwitbal Sogi)](#1615-position-arrière-rapprochée-dwitbal-sogi)
-      - [16.16 Position basse (Nachuo Sogi)](#1616-position-basse-nachuo-sogi)
-      - [16.17 Position rapprochée (Moa Sogi)](#1617-position-rapprochée-moa-sogi)
-      - [16.18 Position verticale (Soojik Sogi)](#1618-position-verticale-soojik-sogi)
-      - [16.19 Position en diagonale (Sasun Sogi)](#1619-position-en-diagonale-sasun-sogi)
-      - [16.20 Position accroupie (Oguryo Sogi)](#1620-position-accroupie-oguryo-sogi)
-      - [16.21 Positions ouvertes (Palja Sogi)](#1621-positions-ouvertes-palja-sogi)
-  - [Partie V — Le répertoire technique](#partie-v--le-répertoire-technique)
-    - [17. Les déplacements (Dolgi)](#17-les-déplacements-dolgi)
-    - [18. Les techniques de bras](#18-les-techniques-de-bras)
-      - [1. Les Coups de Poing et Frappes Directes (Jirugi)](#1-les-coups-de-poing-et-frappes-directes-jirugi)
-      - [2. Les Frappes Percutantes et Cinglantes (Taerigi)](#2-les-frappes-percutantes-et-cinglantes-taerigi)
-      - [3. Les Piques de Précision (Tulgi)](#3-les-piques-de-précision-tulgi)
-      - [4. Les Blocages et Techniques Défensives (Makgi)](#4-les-blocages-et-techniques-défensives-makgi)
-    - [19. Les techniques de jambes](#19-les-techniques-de-jambes)
-      - [Les coups de pied (Chagi)](#les-coups-de-pied-chagi)
-      - [Techniques sautées et spéciales](#techniques-sautées-et-spéciales)
-  - [Partie VI — Les formes (Tul)](#partie-vi--les-formes-tul)
-    - [20. La forme comme héritage](#20-la-forme-comme-héritage)
-    - [21. Directives d'exécution](#21-directives-dexécution)
-    - [22. Les exercices fondamentaux (Saju)](#22-les-exercices-fondamentaux-saju)
-      - [Saju Jirugi (Quatre directions - Attaque)](#saju-jirugi-quatre-directions---attaque)
-      - [Saju Makgi (Quatre directions - Blocage)](#saju-makgi-quatre-directions---blocage)
-      - [Saju Tulgi (Quatre directions - Pique de coude)](#saju-tulgi-quatre-directions---pique-de-coude)
-    - [23. Les vingt-quatre formes en un tableau](#23-les-vingt-quatre-formes-en-un-tableau)
-    - [24. Les formes une à une](#24-les-formes-une-à-une)
-      - [24.1 Chon-Ji (10e Gup à 9e Gup)](#241-chon-ji-10e-gup-à-9e-gup)
-      - [24.2 Dan-Gun (9e Gup à 8e Gup)](#242-dan-gun-9e-gup-à-8e-gup)
-      - [24.3 Do-San (8e Gup à 7e Gup)](#243-do-san-8e-gup-à-7e-gup)
-      - [24.4 Won-Hyo (7e Gup à 6e Gup)](#244-won-hyo-7e-gup-à-6e-gup)
-      - [24.5 Yul-Gok (6e Gup à 5e Gup)](#245-yul-gok-6e-gup-à-5e-gup)
-      - [24.6 Joong-Gun (5e Gup à 4e Gup)](#246-joong-gun-5e-gup-à-4e-gup)
-      - [24.7 Toi-Gye (4e Gup à 3e Gup)](#247-toi-gye-4e-gup-à-3e-gup)
-      - [24.8 Hwa-Rang (3e Gup à 2e Gup)](#248-hwa-rang-3e-gup-à-2e-gup)
-      - [24.9 Choong-Moo (2e Gup à 1er Gup)](#249-choong-moo-2e-gup-à-1er-gup)
-      - [24.10 Kwang-Gae (1er Dan)](#2410-kwang-gae-1er-dan)
-      - [24.11 Po-Eun (1er Dan)](#2411-po-eun-1er-dan)
-      - [24.12 Ge-Baek (1er Dan)](#2412-ge-baek-1er-dan)
-      - [24.13 Eui-Am (2e Dan)](#2413-eui-am-2e-dan)
-      - [24.14 Choong-Jang (2e Dan)](#2414-choong-jang-2e-dan)
-      - [24.15 Juche (2e Dan)](#2415-juche-2e-dan)
-      - [24.16 Sam-Il (3e Dan)](#2416-sam-il-3e-dan)
-      - [24.17 Yoo-Sin (3e Dan)](#2417-yoo-sin-3e-dan)
-      - [24.18 Choi-Yong (3e Dan)](#2418-choi-yong-3e-dan)
-      - [24.19 Yon-Gae (4e Dan)](#2419-yon-gae-4e-dan)
-      - [24.20 Ul-Ji (4e Dan)](#2420-ul-ji-4e-dan)
-      - [24.21 Moon-Moo (4e Dan)](#2421-moon-moo-4e-dan)
-      - [24.22 So-San (5e Dan)](#2422-so-san-5e-dan)
-      - [24.23 Se-Jong (5e Dan)](#2423-se-jong-5e-dan)
-      - [24.24 Tong-Il (6e Dan)](#2424-tong-il-6e-dan)
-  - [Partie VII — L'autodéfense (Hosinsul)](#partie-vii--lautodéfense-hosinsul)
-    - [25. Ceinture blanche — dégagements sur saisies](#25-ceinture-blanche--dégagements-sur-saisies)
-    - [26. Ceinture blanche I — défenses sur poussées](#26-ceinture-blanche-i--défenses-sur-poussées)
-    - [27. Ceinture jaune — attaques de face](#27-ceinture-jaune--attaques-de-face)
-    - [28. Ceinture jaune I — attaques par l'arrière](#28-ceinture-jaune-i--attaques-par-larrière)
-    - [29. Ceinture verte — attaques de côté](#29-ceinture-verte--attaques-de-côté)
-    - [30. Ceinture verte I — attaques au sol](#30-ceinture-verte-i--attaques-au-sol)
-    - [31. Ceinture bleue — attaques combinées](#31-ceinture-bleue--attaques-combinées)
-  - [Annexe A — Lexique trilingue](#annexe-a--lexique-trilingue)
-    - [A. Termes généraux, dojang et compétition](#a-termes-généraux-dojang-et-compétition)
-    - [B. Coups de pied (Chagi)](#b-coups-de-pied-chagi)
-    - [C. Blocages (Makgi)](#c-blocages-makgi)
-    - [D. Frappes et attaques (Jirugi / Taerigi / Tulgi)](#d-frappes-et-attaques-jirugi--taerigi--tulgi)
-  - [Annexe B — Distances de saut dans les formes](#annexe-b--distances-de-saut-dans-les-formes)
-    - [Sources](#sources)
+    - [Table des matières](#table-des-matières)
+    - [Partie I — L'art et sa voie](#partie-i--lart-et-sa-voie)
+        - [1. Ce qu'est le Taekwon-Do](#1-ce-quest-le-taekwon-do)
+        - [2. Histoire et filiation](#2-histoire-et-filiation)
+            - [Genèse du Taekwon-Do moderne](#genèse-du-taekwon-do-moderne)
+            - [Le Général Choi Hong Hi, fondateur](#le-général-choi-hong-hi-fondateur)
+            - [Maître J. André Blake, pionnier québécois](#maître-j-andré-blake-pionnier-québécois)
+            - [Instructeurs fondateurs du club de Blainville](#instructeurs-fondateurs-du-club-de-blainville)
+            - [Racines des arts martiaux](#racines-des-arts-martiaux)
+        - [3. Le Do : la culture morale de l'adepte](#3-le-do--la-culture-morale-de-ladepte)
+            - [Le crédo (Taekwon-Do Jungshin)](#le-crédo-taekwon-do-jungshin)
+            - [Le serment de l'adepte](#le-serment-de-ladepte)
+            - [La charte du Taekwon-Do (Taekwon-Do Jang)](#la-charte-du-taekwon-do-taekwon-do-jang)
+            - [Philosophie de la société et vertus cardinales](#philosophie-de-la-société-et-vertus-cardinales)
+            - [Règles de vie pour l'auto-culture](#règles-de-vie-pour-lauto-culture)
+        - [4. Étiquette et vie du dojang](#4-étiquette-et-vie-du-dojang)
+            - [Le salut (Kyong Ye)](#le-salut-kyong-ye)
+            - [Communication et conduite](#communication-et-conduite)
+            - [Les douze directives de discipline](#les-douze-directives-de-discipline)
+        - [5. Le dobok et les ceintures](#5-le-dobok-et-les-ceintures)
+            - [Rôle et conception du dobok](#rôle-et-conception-du-dobok)
+            - [La réforme du 28 mars 1968](#la-réforme-du-28-mars-1968)
+            - [Spécifications de l'uniforme](#spécifications-de-luniforme)
+            - [Symbolisme des couleurs de ceinture](#symbolisme-des-couleurs-de-ceinture)
+            - [Conditions et temps requis au passage de grade](#conditions-et-temps-requis-au-passage-de-grade)
+    - [Partie II — Les principes physiques](#partie-ii--les-principes-physiques)
+        - [6. La théorie de la puissance (Him Ui Wolli)](#6-la-théorie-de-la-puissance-him-ui-wolli)
+        - [7. Le mouvement de vague](#7-le-mouvement-de-vague)
+            - [1. Déroulement du mouvement (La trajectoire sinusoïdale)](#1-déroulement-du-mouvement-la-trajectoire-sinusoïdale)
+            - [2. Utilité dans la Théorie de la Puissance (*Him Ui Wolli*)](#2-utilité-dans-la-théorie-de-la-puissance-him-ui-wolli)
+            - [3. Les clés d'une bonne exécution](#3-les-clés-dune-bonne-exécution)
+        - [8. Respiration, ki et méditation](#8-respiration-ki-et-méditation)
+            - [La respiration et le ki](#la-respiration-et-le-ki)
+            - [Le protocole de respiration isotonique](#le-protocole-de-respiration-isotonique)
+            - [Méditation zen active (Jung-Joong-Dong)](#méditation-zen-active-jung-joong-dong)
+    - [Partie III — La grammaire des techniques](#partie-iii--la-grammaire-des-techniques)
+        - [9. Les deux formules de construction](#9-les-deux-formules-de-construction)
+            - [Techniques de mains et de bras](#techniques-de-mains-et-de-bras)
+            - [Techniques de jambes et de pieds](#techniques-de-jambes-et-de-pieds)
+        - [10. Les briques de la formule](#10-les-briques-de-la-formule)
+        - [11. Les verbes d'action](#11-les-verbes-daction)
+        - [12. Les armes naturelles (Jook Bang)](#12-les-armes-naturelles-jook-bang)
+            - [Membres supérieurs : mains, avant-bras, coudes](#membres-supérieurs--mains-avant-bras-coudes)
+            - [Membres inférieurs : pieds, chevilles, genoux](#membres-inférieurs--pieds-chevilles-genoux)
+        - [13. Décrypter un nom de technique](#13-décrypter-un-nom-de-technique)
+            - [Exemple 1 : *Gunnun So Nopunde Bandae Sonkal Taerigi*](#exemple-1--gunnun-so-nopunde-bandae-sonkal-taerigi)
+            - [Exemple 2 : *Twimyo Nopunde Dora Yop Cha Jirugi*](#exemple-2--twimyo-nopunde-dora-yop-cha-jirugi)
+    - [Partie IV — Les positions (Sogi)](#partie-iv--les-positions-sogi)
+        - [14. Principes et constantes](#14-principes-et-constantes)
+        - [15. Les positions d'un coup d'œil](#15-les-positions-dun-coup-dœil)
+        - [16. Les 21 positions en détail](#16-les-21-positions-en-détail)
+            - [16.1 Position d'attente (Junbi Sogi)](#161-position-dattente-junbi-sogi)
+            - [16.2 Position d'attente rapprochée (Moa Junbi Sogi)](#162-position-dattente-rapprochée-moa-junbi-sogi)
+            - [16.3 Position d'attente fléchie (Guburyo Junbi Sogi)](#163-position-dattente-fléchie-guburyo-junbi-sogi)
+            - [16.4 Position à l'attention (Charyo Sogi)](#164-position-à-lattention-charyo-sogi)
+            - [16.5 Position de salut (Kyong Ye Jase)](#165-position-de-salut-kyong-ye-jase)
+            - [16.6 Position parallèle (Narani Sogi)](#166-position-parallèle-narani-sogi)
+            - [16.7 Position d'attente parallèle (Narani Junbi Sogi)](#167-position-dattente-parallèle-narani-junbi-sogi)
+            - [16.8 Position assise (Annun Sogi)](#168-position-assise-annun-sogi)
+            - [16.9 Position de marche (Gunnun Sogi)](#169-position-de-marche-gunnun-sogi)
+            - [16.10 Position en « L » (Niunja Sogi)](#1610-position-en--l--niunja-sogi)
+            - [16.11 Position fixe (Gojung Sogi)](#1611-position-fixe-gojung-sogi)
+            - [16.12 Position sur une jambe (Waebal Sogi)](#1612-position-sur-une-jambe-waebal-sogi)
+            - [16.13 Position fléchie (Guburyo Sogi)](#1613-position-fléchie-guburyo-sogi)
+            - [16.14 Position en « X » (Kyocha Sogi)](#1614-position-en--x--kyocha-sogi)
+            - [16.15 Position arrière rapprochée (Dwitbal Sogi)](#1615-position-arrière-rapprochée-dwitbal-sogi)
+            - [16.16 Position basse (Nachuo Sogi)](#1616-position-basse-nachuo-sogi)
+            - [16.17 Position rapprochée (Moa Sogi)](#1617-position-rapprochée-moa-sogi)
+            - [16.18 Position verticale (Soojik Sogi)](#1618-position-verticale-soojik-sogi)
+            - [16.19 Position en diagonale (Sasun Sogi)](#1619-position-en-diagonale-sasun-sogi)
+            - [16.20 Position accroupie (Oguryo Sogi)](#1620-position-accroupie-oguryo-sogi)
+            - [16.21 Positions ouvertes (Palja Sogi)](#1621-positions-ouvertes-palja-sogi)
+    - [Partie V — Le répertoire technique](#partie-v--le-répertoire-technique)
+        - [17. Les déplacements (Dolgi)](#17-les-déplacements-dolgi)
+        - [18. Les techniques de bras](#18-les-techniques-de-bras)
+            - [1. Les Coups de Poing et Frappes Directes (Jirugi)](#1-les-coups-de-poing-et-frappes-directes-jirugi)
+            - [2. Les Frappes Percutantes et Cinglantes (Taerigi)](#2-les-frappes-percutantes-et-cinglantes-taerigi)
+            - [3. Les Piques de Précision (Tulgi)](#3-les-piques-de-précision-tulgi)
+            - [4. Les Blocages et Techniques Défensives (Makgi)](#4-les-blocages-et-techniques-défensives-makgi)
+        - [19. Les techniques de jambes](#19-les-techniques-de-jambes)
+            - [Les coups de pied (Chagi)](#les-coups-de-pied-chagi)
+            - [Techniques sautées et spéciales](#techniques-sautées-et-spéciales)
+    - [Partie VI — Les formes (Tul)](#partie-vi--les-formes-tul)
+        - [20. La forme comme héritage](#20-la-forme-comme-héritage)
+        - [21. Directives d'exécution](#21-directives-dexécution)
+        - [22. Les exercices fondamentaux (Saju)](#22-les-exercices-fondamentaux-saju)
+            - [Saju Jirugi (Quatre directions - Attaque)](#saju-jirugi-quatre-directions---attaque)
+            - [Saju Makgi (Quatre directions - Blocage)](#saju-makgi-quatre-directions---blocage)
+            - [Saju Tulgi (Quatre directions - Pique de coude)](#saju-tulgi-quatre-directions---pique-de-coude)
+        - [23. Les vingt-quatre formes en un tableau](#23-les-vingt-quatre-formes-en-un-tableau)
+        - [24. Les formes une à une](#24-les-formes-une-à-une)
+            - [24.1 Chon-Ji (10e Gup à 9e Gup)](#241-chon-ji-10e-gup-à-9e-gup)
+            - [24.2 Dan-Gun (9e Gup à 8e Gup)](#242-dan-gun-9e-gup-à-8e-gup)
+            - [24.3 Do-San (8e Gup à 7e Gup)](#243-do-san-8e-gup-à-7e-gup)
+            - [24.4 Won-Hyo (7e Gup à 6e Gup)](#244-won-hyo-7e-gup-à-6e-gup)
+            - [24.5 Yul-Gok (6e Gup à 5e Gup)](#245-yul-gok-6e-gup-à-5e-gup)
+            - [24.6 Joong-Gun (5e Gup à 4e Gup)](#246-joong-gun-5e-gup-à-4e-gup)
+            - [24.7 Toi-Gye (4e Gup à 3e Gup)](#247-toi-gye-4e-gup-à-3e-gup)
+            - [24.8 Hwa-Rang (3e Gup à 2e Gup)](#248-hwa-rang-3e-gup-à-2e-gup)
+            - [24.9 Choong-Moo (2e Gup à 1er Gup)](#249-choong-moo-2e-gup-à-1er-gup)
+            - [24.10 Kwang-Gae (1er Dan)](#2410-kwang-gae-1er-dan)
+            - [24.11 Po-Eun (1er Dan)](#2411-po-eun-1er-dan)
+            - [24.12 Ge-Baek (1er Dan)](#2412-ge-baek-1er-dan)
+            - [24.13 Eui-Am (2e Dan)](#2413-eui-am-2e-dan)
+            - [24.14 Choong-Jang (2e Dan)](#2414-choong-jang-2e-dan)
+            - [24.15 Juche (2e Dan)](#2415-juche-2e-dan)
+            - [24.16 Sam-Il (3e Dan)](#2416-sam-il-3e-dan)
+            - [24.17 Yoo-Sin (3e Dan)](#2417-yoo-sin-3e-dan)
+            - [24.18 Choi-Yong (3e Dan)](#2418-choi-yong-3e-dan)
+            - [24.19 Yon-Gae (4e Dan)](#2419-yon-gae-4e-dan)
+            - [24.20 Ul-Ji (4e Dan)](#2420-ul-ji-4e-dan)
+            - [24.21 Moon-Moo (4e Dan)](#2421-moon-moo-4e-dan)
+            - [24.22 So-San (5e Dan)](#2422-so-san-5e-dan)
+            - [24.23 Se-Jong (5e Dan)](#2423-se-jong-5e-dan)
+            - [24.24 Tong-Il (6e Dan)](#2424-tong-il-6e-dan)
+    - [Partie VII — L'autodéfense (Hosinsul)](#partie-vii--lautodéfense-hosinsul)
+        - [25. Ceinture blanche — dégagements sur saisies](#25-ceinture-blanche--dégagements-sur-saisies)
+        - [26. Ceinture blanche I — défenses sur poussées](#26-ceinture-blanche-i--défenses-sur-poussées)
+        - [27. Ceinture jaune — attaques de face](#27-ceinture-jaune--attaques-de-face)
+        - [28. Ceinture jaune I — attaques par l'arrière](#28-ceinture-jaune-i--attaques-par-larrière)
+        - [29. Ceinture verte — attaques de côté](#29-ceinture-verte--attaques-de-côté)
+        - [30. Ceinture verte I — attaques au sol](#30-ceinture-verte-i--attaques-au-sol)
+        - [31. Ceinture bleue — attaques combinées](#31-ceinture-bleue--attaques-combinées)
+    - [Annexe A — Lexique trilingue](#annexe-a--lexique-trilingue)
+        - [A. Termes généraux, dojang et compétition](#a-termes-généraux-dojang-et-compétition)
+        - [B. Coups de pied (Chagi)](#b-coups-de-pied-chagi)
+        - [C. Blocages (Makgi)](#c-blocages-makgi)
+        - [D. Frappes et attaques (Jirugi / Taerigi / Tulgi)](#d-frappes-et-attaques-jirugi--taerigi--tulgi)
+    - [Annexe B — Distances de saut dans les formes](#annexe-b--distances-de-saut-dans-les-formes)
+        - [Sources](#sources)
 
 ---
 
@@ -440,14 +440,14 @@ Il s'agit du mouvement vertical (bas - haut - bas) du centre de gravité du corp
 Le mouvement de vague se divise en trois phases principales :
 
 * **Flexion initiale (Bas / Down)** :
-  * Au début du déplacement, l'adepte fléchit légèrement la jointure des genoux.
-  * Cela permet de débloquer la position, de créer l'élan initial et de détendre la musculature.
+    * Au début du déplacement, l'adepte fléchit légèrement la jointure des genoux.
+    * Cela permet de débloquer la position, de créer l'élan initial et de détendre la musculature.
 * **Élévation (Haut / Up)** :
-  * Au cours du déplacement vers la cible, le centre de gravité (les hanches) s'élève de manière fluide.
-  * Cette élévation accumule de l'énergie potentielle et garde le corps relâché pendant la transition.
+    * Au cours du déplacement vers la cible, le centre de gravité (les hanches) s'élève de manière fluide.
+    * Cette élévation accumule de l'énergie potentielle et garde le corps relâché pendant la transition.
 * **Impact et abaissement (Bas / Down)** :
-  * Au moment précis de l'impact (fin de la technique), l'adepte abaisse brusquement sa hanche et son corps en utilisant l'action à ressort des genoux.
-  * Le corps retombe en position finale ancrée au sol, projetant toute sa masse vers la cible.
+    * Au moment précis de l'impact (fin de la technique), l'adepte abaisse brusquement sa hanche et son corps en utilisant l'action à ressort des genoux.
+    * Le corps retombe en position finale ancrée au sol, projetant toute sa masse vers la cible.
 
 
 #### 2. Utilité dans la Théorie de la Puissance (*Him Ui Wolli*)
@@ -718,9 +718,9 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Largeur :** Pieds entièrement collés l'un contre l'autre (bords internes en contact).
 * **Poids :** Réparti à 50% sur le pied gauche, 50% sur le pied droit.
 * **Variantes de Garde (Mains) :**
-  * **Type A :** Les poings fermés sont tenus haut devant le visage. La distance entre la racine du nez et les poings est d'environ **30 cm**.
-  * **Type B :** Les poings sont placés devant le tronc. La distance entre les poings et le nombril est d'environ **15 cm**.
-  * **Type C :** Les mains ouvertes sont placées bas devant l'abdomen. La distance entre les mains et l'abdomen est d'environ **10 cm**.
+    * **Type A :** Les poings fermés sont tenus haut devant le visage. La distance entre la racine du nez et les poings est d'environ **30 cm**.
+    * **Type B :** Les poings sont placés devant le tronc. La distance entre les poings et le nombril est d'environ **15 cm**.
+    * **Type C :** Les mains ouvertes sont placées bas devant l'abdomen. La distance entre les mains et l'abdomen est d'environ **10 cm**.
 * **Schéma d'alignement :**
 
 ![moa-junbi-sogi](../images/sogi/moa-junbi-sogi.png)
@@ -731,8 +731,8 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Exécution :** La jambe de support est fléchie, son pied pointant vers l'avant. L'autre pied est relevé et maintenu parallèle au sol à la hauteur du genou de soutien.
 * **Poids :** 100% sur la jambe de support, 0% sur la jambe levée.
 * **Variantes de Garde (Mains) :**
-  * **Type A :** Posture préparatoire au coup de pied de côté (*Yop Chagi*). Les bras effectuent un double blocage des avant-bras (*Twin Forearm Block*).
-  * **Type B :** Posture préparatoire au coup de pied arrière (*Dwit Chagi*). Distance d'environ **25 cm** entre les poings et les hanches, les coudes pliés à **30 degrés**.
+    * **Type A :** Posture préparatoire au coup de pied de côté (*Yop Chagi*). Les bras effectuent un double blocage des avant-bras (*Twin Forearm Block*).
+    * **Type B :** Posture préparatoire au coup de pied arrière (*Dwit Chagi*). Distance d'environ **25 cm** entre les poings et les hanches, les coudes pliés à **30 degrés**.
 * **Schéma d'alignement :**
 
 ![guburyo-junbi-sogi](../images/sogi/guburyo-junbi-sogi.png)
@@ -773,8 +773,8 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Base :** Identique à la position parallèle (*Narani Sogi*).
 * **Posture des bras :** Les deux poings sont placés devant l'abdomen.
 * **Distances de contrôle :**
-  * Écart entre les deux poings : **5 cm**.
-  * Distance entre les poings et l'abdomen : **7 cm**.
+    * Écart entre les deux poings : **5 cm**.
+    * Distance entre les poings et l'abdomen : **7 cm**.
 * **Schéma d'alignement :**
 
 ![narani-junbi-sogi](../images/sogi/narani-junbi-sogi.png)
@@ -796,11 +796,11 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Longueur :** **Une largeur et demie d'épaule** mesurée entre les gros orteils du pied avant et du pied arrière.
 * **Largeur :** **Une largeur d'épaule** mesurée de centre à centre de chaque pied.
 * **Orientation :**
-  * Pied avant : Pointe strictement vers l'avant (0°).
-  * Pied arrière : Ouvert à un angle précis de **25 degrés vers l'extérieur**. *Un angle supérieur à 25° affaiblit l'articulation du genou face à une attaque par l'arrière.*
+    * Pied avant : Pointe strictement vers l'avant (0°).
+    * Pied arrière : Ouvert à un angle précis de **25 degrés vers l'extérieur**. *Un angle supérieur à 25° affaiblit l'articulation du genou face à une attaque par l'arrière.*
 * **Flexion des jambes :**
-  * Jambe avant : Fléchie jusqu'à ce que la rotule forme une **ligne droite verticale avec l'arrière du talon**.
-  * Jambe arrière : Maintenue complètement droite et tendue.
+    * Jambe avant : Fléchie jusqu'à ce que la rotule forme une **ligne droite verticale avec l'arrière du talon**.
+    * Jambe arrière : Maintenue complètement droite et tendue.
 * **Poids :** Réparti équitablement (50/50).
 * **Musculature :** Tendre les muscles des pieds en les sentant tirer l'un vers l'autre pour sceller l'ancrage au sol.
 * **Usage :** Position forte vers l'avant comme vers l'arrière.
@@ -816,8 +816,8 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Alignement et décalage :** Les pieds forment presque un angle droit (90°). Les orteils de chaque pied pointent à environ **15 degrés vers l'intérieur**. Le talon du pied avant est décalé et placé à environ **2,5 cm en avant** de la ligne du talon du pied arrière pour assurer la stabilité latérale.
 * **Poids :** Réparti à **70% sur la jambe arrière** et **30% sur la jambe avant**.
 * **Flexion :**
-  * Jambe arrière : Fléchie jusqu'à ce que la rotule forme une ligne verticale droite avec les orteils. Conserver la hanche parfaitement alignée avec la jointure interne du genou arrière.
-  * Jambe avant : Fléchie en conséquence.
+    * Jambe arrière : Fléchie jusqu'à ce que la rotule forme une ligne verticale droite avec les orteils. Conserver la hanche parfaitement alignée avec la jointure interne du genou arrière.
+    * Jambe avant : Fléchie en conséquence.
 * **Usage :** Posture de garde principalement défensive permettant d'intercepter, bloquer ou contre-attaquer instantanément de la jambe avant sans transfert préalable du centre de gravité.
 * **Schéma d'alignement :**
 
@@ -869,8 +869,8 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Longueur :** Écartement très court d'**une largeur d'épaule** mesurée entre les deux petits orteils.
 * **Alignement :** Les genoux sont fléchis. Le talon du pied arrière est positionné en ligne droite verticale directement derrière le talon du pied avant.
 * **Orientation :**
-  * Pied arrière : À plat au sol. Les orteils pointent vers l'intérieur à **35 degrés**, et le genou arrière doit impérativement **pointer légèrement vers l'intérieur**.
-  * Pied avant : Talon décollé du sol, le pied ne fait que **frôler le sol avec la plante**. Les orteils pointent vers l'intérieur à **25 degrés**.
+    * Pied arrière : À plat au sol. Les orteils pointent vers l'intérieur à **35 degrés**, et le genou arrière doit impérativement **pointer légèrement vers l'intérieur**.
+    * Pied avant : Talon décollé du sol, le pied ne fait que **frôler le sol avec la plante**. Les orteils pointent vers l'intérieur à **25 degrés**.
 * **Poids :** Presque 100% sur la jambe arrière fléchie (le pied avant restant libre pour frapper instantanément ou ajuster la distance).
 * **Schéma d'alignement :**
 
@@ -931,8 +931,8 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Nomenclature coréenne :** *Palja Sogi / [팔자 서기](../audio/grammaire/Palja-Sogi.m4a)*.
 * **Usage :** Postures d'attente peu stables utilisées pour le relâchement ou la relaxation des membres.
 * **Variantes :**
-  * **Ouverte à l'intérieur (An Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'intérieur** l'un de l'autre.
-  * **Ouverte à l'extérieur (Bakat Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'extérieur à un angle de 45 degrés**.
+    * **Ouverte à l'intérieur (An Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'intérieur** l'un de l'autre.
+    * **Ouverte à l'extérieur (Bakat Palja Sogi) :** Les pieds sont écartés d'une largeur d'épaule et les **orteils pointent vers l'extérieur à un angle de 45 degrés**.
 * **Schémas d'alignement :**
 
 ![an-palja-sogi](../images/sogi/an-palja-sogi.png)

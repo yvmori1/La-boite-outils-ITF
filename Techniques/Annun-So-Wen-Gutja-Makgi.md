@@ -38,8 +38,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 2 : Le Déploiement en "9" et la *Sine Wave*
 
 1. **Trajectoire en dôme et arc :**
-   * Le bras supérieur monte en arc de cercle pour s'incurver au-dessus du côté gauche de la tête.
-   * Le bras inférieur descend simultanément en boucle pour protéger le bas-ventre et la cuisse gauche.
+    * Le bras supérieur monte en arc de cercle pour s'incurver au-dessus du côté gauche de la tête.
+    * Le bras inférieur descend simultanément en boucle pour protéger le bas-ventre et la cuisse gauche.
 2. **Chute de masse :** Redescente lourde du bassin en fléchissant les deux genoux en *Annun Sogi* au moment de fixer le blocage au sol.
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection intégrale sur un flanc contre les attaques combinées :**
+>
 > 1. **Défense contre les enchaînements haut/bas :** Idéal pour neutraliser un enchaînement rapide d'un agresseur (ex: coup de poing à la tête immédiatement suivi d'un coup de pied bas au flanc).
 > 2. **Déflexion par trajectoire arrondie :** La forme incurvée du "9" permet d'absorber des coups circulaires (crochets, coups de pied circulaires) en les faisant glisser le long des avant-bras sans subir un choc frontal direct os contre os.
 > 3. **Base d'ancrage inébranlable :** L'écartement des pieds en *Annun Sogi* offre une stabilité latérale maximale pour encaisser les chocs tout en maintenant la verticalité du buste.

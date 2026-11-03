@@ -23,18 +23,18 @@ Elle se traduit par : **Pique du bout des doigts à plat (paume vers le sol)** (
 Cette technique canalise toute la force de poussée du corps à travers une surface de frappe extrêmement réduite pour pénétrer les zones molles de l'adversaire :
 
 1. **La formation de la main (*Sonkut*) :**
-   * Les quatre doigts (index, majeur, annulaire, auriculaire) sont **fermement collés et tendus**.
-   * Le **majeur est légèrement fléchi** pour aligner son extrémité sur la même ligne horizontale que l'index et l'annulaire.
-   * Le pouce est replié et plaqué avec force contre le côté de la paume pour solidifier la structure et éviter les luxations.
+    * Les quatre doigts (index, majeur, annulaire, auriculaire) sont **fermement collés et tendus**.
+    * Le **majeur est légèrement fléchi** pour aligner son extrémité sur la même ligne horizontale que l'index et l'annulaire.
+    * Le pouce est replié et plaqué avec force contre le côté de la paume pour solidifier la structure et éviter les luxations.
 2. **L'armement (Préparation) :**
-   * La main d'attaque se prépare à la hanche ou au flanc, la paume généralement orientée vers le haut ou le côté.
-   * Le bras de réaction s'étend vers l'avant sur la ligne d'attaque pour mesurer la distance.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
+    * La main d'attaque se prépare à la hanche ou au flanc, la paume généralement orientée vers le haut ou le côté.
+    * Le bras de réaction s'étend vers l'avant sur la ligne d'attaque pour mesurer la distance.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la pique à plat (*Opun Sonkut Tulgi*) :**
-   * La main s'élance en ligne droite vers la cible dans un mouvement d'extension rectiligne.
-   * Durant le trajet, le poignet pivote pour verrouiller la **paume strictement orientée vers le sol** (**Opun**).
-   * L'alignement entre le poignet et l'avant-bras doit être parfait : le poignet ne doit ni se casser vers le haut, ni s'affaisser vers le bas.
-   * Le bras de réaction est tiré vivement à la hanche (poing fermé, paume vers le haut) pour engager la rotation des hanches et décupler la vitesse de pénétration.
+    * La main s'élance en ligne droite vers la cible dans un mouvement d'extension rectiligne.
+    * Durant le trajet, le poignet pivote pour verrouiller la **paume strictement orientée vers le sol** (**Opun**).
+    * L'alignement entre le poignet et l'avant-bras doit être parfait : le poignet ne doit ni se casser vers le haut, ni s'affaisser vers le bas.
+    * Le bras de réaction est tiré vivement à la hanche (poing fermé, paume vers le haut) pour engager la rotation des hanches et décupler la vitesse de pénétration.
 
 ---
 

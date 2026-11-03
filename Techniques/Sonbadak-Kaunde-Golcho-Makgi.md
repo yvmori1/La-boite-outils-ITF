@@ -24,14 +24,14 @@ Elle se traduit par : **Blocage crocheté au niveau moyen avec la paume de la ma
 Contrairement aux blocages percutants ou durs (comme un blocage avec le tranchant de l'avant-bras), le blocage crocheté (*Golcho Makgi*) cherche à dévier le coup ennemi tout en douceur pour en absorber la force et créer une ouverture :
 
 1. **L'armement (Préparation) :**
-   * La main de blocage part d'une position légèrement en arrière ou près de la hanche/poitrine opposée, la paume orientée vers le haut ou inclinée.
-   * Le bras de réaction s'étend pour équilibrer le corps et aider au mouvement de rotation des épaules.
+    * La main de blocage part d'une position légèrement en arrière ou près de la hanche/poitrine opposée, la paume orientée vers le haut ou inclinée.
+    * Le bras de réaction s'étend pour équilibrer le corps et aider au mouvement de rotation des épaules.
 2. **La trajectoire et la vague (*Sine Wave*) :**
-   * L'exécutant utilise le mouvement de vague (*descente - montée - descente*) pour injecter du poids corporel dans la déviation.
-   * La main décrit une courbe fluide vers l'avant et le centre du corps pour venir "coiffer" le membre adverse en mouvement.
+    * L'exécutant utilise le mouvement de vague (*descente - montée - descente*) pour injecter du poids corporel dans la déviation.
+    * La main décrit une courbe fluide vers l'avant et le centre du corps pour venir "coiffer" le membre adverse en mouvement.
 3. **Le contact et le crochetage :**
-   * Au moment du contact avec le coup ennemi (poing ou pied direct), la paume (*Sonbadak*) vient appuyer/pousser latéralement le membre pour modifier sa trajectoire.
-   * Le poignet reste souple mais contrôlé, prêt à enchaîner immédiatement sur une saisie ou une contre-attaque (par exemple, une pique de doigts *Sun Sonkut Tulgi*).
+    * Au moment du contact avec le coup ennemi (poing ou pied direct), la paume (*Sonbadak*) vient appuyer/pousser latéralement le membre pour modifier sa trajectoire.
+    * Le poignet reste souple mais contrôlé, prêt à enchaîner immédiatement sur une saisie ou une contre-attaque (par exemple, une pique de doigts *Sun Sonkut Tulgi*).
 
 ---
 

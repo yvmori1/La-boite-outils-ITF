@@ -6,7 +6,8 @@ autodéfense et en casse. Les fiches restent la référence : en cas de doute,
 c'est la fiche du grade qui fait foi, puis l'instructeur.
 
 Les combats arrangés numérotés (#1 à #20) sont ceux du programme de la FQTI ;
-chacun s'inspire de la forme du niveau.
+chacun s'inspire de la forme du niveau. Leur déroulement, pas à pas, est dans
+[Combats arrangés par grade](../Ceintures/Combats-arranges/README.md).
 
 ---
 

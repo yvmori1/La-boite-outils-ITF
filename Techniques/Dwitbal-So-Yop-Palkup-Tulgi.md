@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Puissance de perforation latérale à bout portant et sécurité du corps :**
+>
 > 1. **Perforation maximale en corps-à-corps (*Infighting*) :** La pointe de l'olécrane concentre la force de poussée sur une surface extrêmement réduite. Utilisée en pique (*Tulgi*) renforcée par la paume opposée, cette frappe traverse les gardes et brise les côtes flottantes d'un agresseur collé à votre flanc.
 > 2. **Protection et esquive de distance (*Dwitbal Sogi*) :** Mettre 95% du poids sur la jambe arrière permet de maintenir le visage et les organes vitaux hors d'atteinte de la cible latérale tout en portant le coup.
 > 3. **Rupture de saisie latérale :** Efficace pour vous dégager d'un agresseur qui tente un ceinturage ou une saisie de bras par le côté.

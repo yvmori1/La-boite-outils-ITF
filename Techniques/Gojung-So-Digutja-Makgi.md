@@ -40,8 +40,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Détente parallèle :** Les deux avant-bras se projettent simultanément vers l'avant pour intercepter la trajectoire de l'attaque.
 2. **Structure en 'U' :**
-   * Le bras supérieur s'élève et se stabilise à la hauteur de la tête (*Nopunde*).
-   * Le bras inférieur s'avance parallèlement au niveau du plexus (*Kaunde*).
+    * Le bras supérieur s'élève et se stabilise à la hauteur de la tête (*Nopunde*).
+    * Le bras inférieur s'avance parallèlement au niveau du plexus (*Kaunde*).
 3. **Chute de masse :** Redescente lourde du bassin en scellant la flexion des deux genoux pour absorber le choc.
 
 ### Étape 3 : L'Interception et le Verrouillage (*Snap*)
@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Défense spécifique contre arme longue (Bâton / *Bong*) et piégeage :**
+>
 > 1. **Neutralisation d'une frappe de bâton :** Le *Digutja Makgi* est spécialement conçu pour stopper une attaque verticale ou oblique menée avec un bâton. Le bras supérieur bloque l'extrémité haute de l'arme tandis que le bras inférieur intercepte le corps ou la partie basse du bâton.
 > 2. **Effet de piégeage et d'encadrement (*Trapping*) :** En formant la lettre '[ㄷ](../audio/termes/ㄷ.m4a)', les deux bras créent un piège rectangulaire qui emprisonne l'arme de l'adversaire, permettant d'enchaîner immédiatement sur une désarmement, une clé d'articulation ou une riposte en coup de pied.
 > 3. **Stabilité d'absorption en *Gojung Sogi* :** La répartition égale du poids (50/50) et la base large évitent au pratiquant d'être renversé ou déséquilibré par l'impact lourd d'une arme en bois ou en métal.

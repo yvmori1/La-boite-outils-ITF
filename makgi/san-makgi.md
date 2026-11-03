@@ -40,8 +40,8 @@ Le *San Makgi* s'exécute généralement en posture cavalier (**Annun Sogi**) ou
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
 1. **Alignement final :**
-   * Les coudes sont fléchis à environ 90° et s'alignent sur la ligne des épaules.
-   * Les poings ou tranchants de mains montent au niveau des tempes/oreilles.
+    * Les coudes sont fléchis à environ 90° et s'alignent sur la ligne des épaules.
+    * Les poings ou tranchants de mains montent au niveau des tempes/oreilles.
 2. **Rotation des poignets (*Snap*) :** Au millième de seconde de l'arrêt, les deux poignets pivotent pour sceller la structure rigide en forme de montagne.
 3. **Expiration (*Kihap*) :** Expulsion d'air sèche et brève synchrone avec la fixation de la posture au sol.
 

@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection incisive du flanc et levier interne :**
+>
 > 1. **Utilisation de l'arête *An Palmok* :** Frapper le membre de l'agresseur avec le bord intérieur de l'avant-bras (du côté du pouce) permet d'utiliser une arête osseuse très solide pour dévier un coup de poing direct ou un coup de pied circulaire (*Dollyo Chagi*) sans risquer de se faire mal à la main.
 > 2. **Chasse latérale (*Yop*) :** Cette technique est idéale pour chasser une attaque arrivant de profil, en éjectant la frappe hors de l'axe central du corps tout en maintenant la tête à l'abri grâce au retrait 70/30 de la posture en L.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des blocages à l'avant-bras intérieur (*An Palmok*) dans de nombreux patrons du Taekwon-Do ITF, notamment dans **Tan-Gun Tul** (mouvements 2, 4, 6, 8, 10, 12, etc.) ou **Won-Hyo Tul**, où ils servent de transition fluide vers des contre-attaques en coup de poing.

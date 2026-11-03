@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Dégagement de saisie de tête et protection multi-directionnelle :**
+>
 > 1. **Rupture de guillotine ou d meule arrière (Headlock release) :** Si un agresseur tente de vous enserrer la tête ou le cou par le haut ou les côtés, l'élévation puissante des tranchants internes (*Sonkal Dung*) en biseau casse son emprise et repousse ses bras vers le haut.
 > 2. **Protection double de la tête :** Permet de parer simultanément deux attaques hautes (ex: coups de poing circulaires ou bâtons) arrivant vers les temples ou les côtés de la tête.
 > 3. **Levier d'ouverture de garde :** En s'insérant sous les bras d'un adversaire, la forme en "W" force l'écartement de sa garde haute, ouvrant son buste pour des frappes de contre-attaque.

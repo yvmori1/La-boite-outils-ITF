@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque éclair sur cible haute vulnérable :**
+>
 > 1. **Contournement de la garde latérale :** La trajectoire en arc de cercle du *Dung Joomuk* passe au-dessus ou sur le côté des bras de protection d'un agresseur situé à votre gauche.
 > 2. **Choc k.-o. à la tempe :** Frapper la tempe ou la mâchoire avec la dureté des deux grosses jointures du revers du poing (*Dung Joomuk*) génère une onde de choc rotative capable de provoquer un évanouissement ou un étourdissement immédiat.
 > 3. **Conserver l'ancrage en *Annun Sogi* :** Permet d'éliminer une menace haute sur le côté sans défaire la base très stable du cavalier, restant prêt à faire face à une autre attaque de face.

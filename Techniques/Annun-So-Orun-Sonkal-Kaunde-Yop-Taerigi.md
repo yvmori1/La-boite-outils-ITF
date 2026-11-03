@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe tranchante et tranchée sur zone vulnérable :**
+>
 > 1. **Concentration de puissance (*Mass x Velocity*) :** La surface de contact du *Sonkal* est beaucoup plus réduite que celle d'un poing fermée (*Joomuk*), ce qui multiplie la pression (force par $cm^2$) appliquée sur les côtes ou les muscles abdominaux de l'adversaire.
 > 2. **Neutralisation latérale immédiate :** Permet de porter une frappe handicapante sur un agresseur situé sur votre droite sans défaire la posture rigide du cavalier (*Annun Sogi*).
 > 3. **Passer entre les bras :** La forme fine du tranchant de la main glisse facilement entre les bras de protection de l'adversaire pour toucher les côtes.

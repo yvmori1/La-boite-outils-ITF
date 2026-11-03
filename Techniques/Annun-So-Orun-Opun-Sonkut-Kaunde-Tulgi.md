@@ -52,12 +52,13 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Pénétration des tissus mous et portée accrue :**
+>
 > 1. **Attaque sur zone molle :** Contrairement à un coup de poing (*Jirugi*) qui nécessite d'impacter une structure osseuse dure, la pique de doigts (*Tulgi*) cherche à s'enfoncer dans les tissus mous (plexus solaire, creux de l'estomac). Elle nécessite moins de masse brute pour provoquer la asphyxie ou la paralysie du diaphragme.
 > 2. **Gain d'allonge :** La main ouverte en *Sonkut* offre quelques centimètres d'allonge supplémentaires par rapport à un poing fermé (*Ap Joomuk*).
 > 3. **Nuance entre les piques de doigts (*Sonkut*) :**
->   * **Opun Sonkut :** Paume vers le bas (horizontale). Permet de passer sous la cage thoracique.
->   * **Sun Sonkut :** Main verticale (tranchant vers le sol).
->   * **Dwitbut Sonkut :** Paume vers le haut.
+>     * **Opun Sonkut :** Paume vers le bas (horizontale). Permet de passer sous la cage thoracique.
+>     * **Sun Sonkut :** Main verticale (tranchant vers le sol).
+>     * **Dwitbut Sonkut :** Paume vers le haut.
 
 ---
 

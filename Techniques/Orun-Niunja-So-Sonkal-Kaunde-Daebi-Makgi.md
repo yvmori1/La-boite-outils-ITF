@@ -26,17 +26,17 @@ Elle se traduit par : **Blocage de garde moyen au tranchant de la main en positi
 Cette technique associe la stabilité de la position en L à la protection offerte par les deux mains fermement armées en tranchant (*Sonkal*) :
 
 1. **La position des jambes (*Orun Niunja Sogi*) :**
-   * Le pied droit est placé à l'arrière, orienté à environ 15° vers l'extérieur, et supporte **70 % du poids du corps**.
-   * Le pied gauche est à l'avant, pointant vers l'avant (légèrement incliné vers l'intérieur d'environ 15°), supportant **30 % du poids**.
-   * Le talon du pied avant est aligné avec le talon du pied arrière.
+    * Le pied droit est placé à l'arrière, orienté à environ 15° vers l'extérieur, et supporte **70 % du poids du corps**.
+    * Le pied gauche est à l'avant, pointant vers l'avant (légèrement incliné vers l'intérieur d'environ 15°), supportant **30 % du poids**.
+    * Le talon du pied avant est aligné avec le talon du pied arrière.
 2. **L'armement (Préparation) :**
-   * Les deux mains s'ouvrent en tranchant (*Sonkal*).
-   * Elles sont ramenées vers l'arrière du corps (au niveau de l'épaule/hanche arrière), les paumes orientées vers le haut et l'intérieur.
-   * L'exécutant monte sur la phase ascendante de la vague (*Sine Wave*).
+    * Les deux mains s'ouvrent en tranchant (*Sonkal*).
+    * Elles sont ramenées vers l'arrière du corps (au niveau de l'épaule/hanche arrière), les paumes orientées vers le haut et l'intérieur.
+    * L'exécutant monte sur la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et l'impact (*Kaunde Daebi Makgi*) :**
-   * En descendant dans la vague, le bras avant s'élance vers l'avant, le coude légèrement fléchi (angle de 110° à 120°), le tranchant de la main positionné à la hauteur des épaules/poitrine.
-   * La main arrière (main de garde) se place devant le plexus solaire, le tranchant tourné vers l'avant, protégeant le centre du buste.
-   * Les deux poignets se verrouillent au moment exact où le corps se stabilise en position *Niunja Sogi*.
+    * En descendant dans la vague, le bras avant s'élance vers l'avant, le coude légèrement fléchi (angle de 110° à 120°), le tranchant de la main positionné à la hauteur des épaules/poitrine.
+    * La main arrière (main de garde) se place devant le plexus solaire, le tranchant tourné vers l'avant, protégeant le centre du buste.
+    * Les deux poignets se verrouillent au moment exact où le corps se stabilise en position *Niunja Sogi*.
 
 ---
 

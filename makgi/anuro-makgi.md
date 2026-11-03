@@ -50,6 +50,7 @@ Cette trajectoire directionnelle s'associe à différentes armes naturelles selo
 
 > **L'effondrement de la structure adverse :**
 > Le *Anuro Makgi* est l'une des techniques les plus perturbatrices pour l'attaquant :
+>
 > 1. **Verrouillage du bras opposé :** En percutant la frappe adverse de l'extérieur vers le centre, vous rabattez le bras de l'agresseur **devant son propre buste**, ce qui entrave son second bras et l'empêche de vous enchaîner.
 > 2. **Déséquilibre par pivot :** L'impact latéral force les épaules de l'adversaire à tourner, détruisant ses appuis et vous ouvrant un accès direct à son dos, ses flancs ou sa nuque.
 

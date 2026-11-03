@@ -61,6 +61,7 @@ Il est important de distinguer ces deux frappes du revers :
 
 > **Cinglement rapide et préparation de contrôle à main ouverte :**
 > Le *Sondung Taerigi* allie la vélocité du fouetté à la flexibilité de la main ouverte :
+>
 > 1. **Attaque cinglante aux zones sensibles :** La frappe vise en priorité les parties tendres et nerveuses du visage (tempe, nez, mâchoire, carotide).
 > 2. **Dévier et enchaîner (*Releasing & Striking*) :** Comme la main est déjà ouverte, elle peut immédiatement servir après l'impact à balayer la garde adverse, agripper le poignet ou enchaîner une saisie (*Japgi*).
 > 3. **Masquage de vision :** Un coup du dos de la main rapide au visage force l'adversaire à cligner des yeux ou lever sa garde, ouvrant un accès direct pour un coup de pied bas ou moyen.

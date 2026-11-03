@@ -17,15 +17,15 @@ Il se traduit par : **Coup de pied circulaire au niveau haut** (*High Turning Ki
 ## 2. Exécution et principes biomécaniques
 
 1. **L'armement :**
-   * Le genou de la jambe de frappe monte latéralement, fléchi et parallèle au sol, tout en s'alignant vers la cible.
-   * Le pied d'appui commence son pivot vers l'extérieur.
+    * Le genou de la jambe de frappe monte latéralement, fléchi et parallèle au sol, tout en s'alignant vers la cible.
+    * Le pied d'appui commence son pivot vers l'extérieur.
 2. **Le pivot et l'extension :**
-   * Le pied d'appui pivote complètement (de 135° à 180°), dégageant le bassin et permettant l'ouverture de la hanche.
-   * Le bas-jambe se détend sèchement à partir du coude du genou en formant un arc de cercle horizontal ou légèrement ascendant.
+    * Le pied d'appui pivote complètement (de 135° à 180°), dégageant le bassin et permettant l'ouverture de la hanche.
+    * Le bas-jambe se détend sèchement à partir du coude du genou en formant un arc de cercle horizontal ou légèrement ascendant.
 3. **L'impact et la zone de frappe :**
-   * L'impact s'effectue principalement avec le bol du pied (**Ap Chook**) avec les orteils relevés, ou occasionnellement avec le coup-de-pied (**Baldeung**).
+    * L'impact s'effectue principalement avec le bol du pied (**Ap Chook**) avec les orteils relevés, ou occasionnellement avec le coup-de-pied (**Baldeung**).
 4. **Le réarmement :**
-   * Le genou est réarmé immédiatement après le choc avant de poser la jambe au sol.
+    * Le genou est réarmé immédiatement après le choc avant de poser la jambe au sol.
 
 ## 3. Applications et cibles
 

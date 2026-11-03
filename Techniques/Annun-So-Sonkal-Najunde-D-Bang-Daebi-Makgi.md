@@ -38,8 +38,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 2 : Le Déploiement en Cadre "D" et la *Sine Wave*
 
 1. **Trajectoire en arc :**
-   * Le bras principal descend vers la zone basse (*Najunde*) en suivant un arc fluide.
-   * Le bras de soutien s'incurve au-dessus pour compléter le dôme/cadre déflecteur en "D" (*D-Bang*).
+    * Le bras principal descend vers la zone basse (*Najunde*) en suivant un arc fluide.
+    * Le bras de soutien s'incurve au-dessus pour compléter le dôme/cadre déflecteur en "D" (*D-Bang*).
 2. **Chute de masse :** Redescente lourde du bassin en fléchissant les deux genoux en *Annun Sogi* au moment de verrouiller la garde au sol.
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection en dôme et déviation des coups circulaires bas :**
+>
 > 1. **Absorption des frappes courbes (*Low Roundhouse Kicks*) :** Contrairement à une garde rectiligne, la courbure en "D" (*D-Bang*) offre un contour arrondi qui fait glisser les coups de pied circulaires bas (*Najunde Dollyo Chagi*) sans subir l'impact de face.
 > 2. **Défense synergique étagée (*Daebi*) :** Si l'attaque franchit le premier tranchant de la main, le second bras aligné dans l'arc du "D" bloque la trajectoire, empêchant tout contact avec le bas-ventre ou les cuisses.
 > 3. **Ancrage inébranlable :** La posture *Annun Sogi* offre une base latérale large et équilibrée permettant d'encaisser de fortes pressions tout en maintenant l'axe central vertical.

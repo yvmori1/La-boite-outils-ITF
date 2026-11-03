@@ -30,14 +30,14 @@ En TaeKwon-Do ITF, le *Yonsok Jirugi* s'inscrit dans le cadre de la **Motion Con
 Le *Yonsok Jirugi* se décline principalement selon le nombre de frappes et le niveau visé :
 
 1. **I-Joong Jirugi (Double coup de poing consécutif) :**
-   * Deux coups de poing envoyés en succession rapide (ex: gauche puis droite).
-   * Peut s'exécuter au même niveau (*Kaunde - Kaunde*) ou à des niveaux différents (*Kaunde - Nopunde*).
+    * Deux coups de poing envoyés en succession rapide (ex: gauche puis droite).
+    * Peut s'exécuter au même niveau (*Kaunde - Kaunde*) ou à des niveaux différents (*Kaunde - Nopunde*).
 2. **Sam-Joong Jirugi (Triple coup de poing consécutif) :**
-   * Enchaînement de trois frappes explosives (ex: gauche - droite - gauche).
+    * Enchaînement de trois frappes explosives (ex: gauche - droite - gauche).
 3. **Yonsok Jirugi sur une même posture :**
-   * Réalisé sur place dans une posture fixe (comme *Gunnun Sogi*, *Annun Sogi* ou *Niunja Sogi*).
+    * Réalisé sur place dans une posture fixe (comme *Gunnun Sogi*, *Annun Sogi* ou *Niunja Sogi*).
 4. **Yonsok Jirugi en déplacement :**
-   * Exécuté tout en avançant ou en glissant (*Sliding / Mikulgi*).
+    * Exécuté tout en avançant ou en glissant (*Sliding / Mikulgi*).
 
 ---
 

@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe tranchante dévastatrice sur zones nerveuses du buste :**
+>
 > 1. **Cisaillage des côtes et du foie :** Contrairement à une frappe avec le poing fermé qui écrase la zone, le tranchant de la main (*Sonkal*) concentre la force sur une ligne osseuse réduite, capable de briser des côtes flottantes ou d'impacter le foie/plexus latéral.
 > 2. **Rupture des membres adverses :** Le *Sonkal Kaunde Taerigi* peut également servir de contre-attaque agressive pour frapper et casser le bras ou la jambe tendue d'un agresseur.
 > 3. **Stabilité d'ancrage en *Annun Sogi* :** L'écartement latéral des pieds offre une plateforme solide pour encaisser le choc en retour d'un coup latéral puissant sans perdre l'équilibre.

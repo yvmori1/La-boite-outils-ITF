@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Absorption des coups circulaires puissants et protection du profil :**
+>
 > 1. **Surface d'impact large et solide :** L'utilisation du revers du tranchant (**Sonkal Dung**) offre une structure osseuse très résistante pour intercepter un coup de pied circulaire haut (*Dollyo Chagi*) ou un crochet lourd dirigé vers la tête.
 > 2. **Dévitation sans blocage frontal dur :** Le mouvement latéral (*Yop Makgi*) permet d'accompagner et de dévier la trajectoire du coup adverse plutôt que d'opposer un choc frontal direct, réduisant le risque de blessure au bras.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique complexe se retrouve dans des formes avancées (comme *Yoo-Sin Tul*), où elle prépare une transition rapide après un retrait en *Niunja Sogi*.

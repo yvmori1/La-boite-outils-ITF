@@ -24,16 +24,16 @@ Elle se traduit par : **Coup de pied latéral perçant du pied droit au niveau h
 Cette technique repose sur l'alignement parfait de la chaîne musculaire du membre inférieur pour délivrer une poussée transperçante :
 
 1. **L'armement (*Chambering*) :**
-   * Lever le genou droit fléchi en le ramenant près de la poitrine/aisselle opposée.
-   * Le pied droit se arme en armant le tranchant extérieur (*Balkal*), les orteils tirés vers soi et légèrement inclinés vers le bas.
+    * Lever le genou droit fléchi en le ramenant près de la poitrine/aisselle opposée.
+    * Le pied droit se arme en armant le tranchant extérieur (*Balkal*), les orteils tirés vers soi et légèrement inclinés vers le bas.
 2. **Le pivot et l'extension rectiligne (*Jirugi*) :**
-   * Pivoter sur la plante du pied gauche (jambe d'appui) jusqu'à tourner le talon vers la cible pour ouvrir la hanche.
-   * Détendre la jambe droite de manière explosive en ligne droite vers le côté, en poussant avec la hanche et les fessiers.
+    * Pivoter sur la plante du pied gauche (jambe d'appui) jusqu'à tourner le talon vers la cible pour ouvrir la hanche.
+    * Détendre la jambe droite de manière explosive en ligne droite vers le côté, en poussant avec la hanche et les fessiers.
 3. **L'impact et la zone de frappe :**
-   * L'impact s'effectue avec le tranchant extérieur du pied (**Balkal**) ou le bas du talon (**Balkal-Dupchi**).
-   * À l'impact, la jambe droite, la hanche et le buste forment une ligne de force rigide orientée vers le visage de la cible (**Nopunde**).
+    * L'impact s'effectue avec le tranchant extérieur du pied (**Balkal**) ou le bas du talon (**Balkal-Dupchi**).
+    * À l'impact, la jambe droite, la hanche et le buste forment une ligne de force rigide orientée vers le visage de la cible (**Nopunde**).
 4. **Le re-armement et le contrôle :**
-   * Après l'impact, le genou droit est vivement réarmé près du buste avant que le pied ne soit reposé au sol, assurant un contrôle total de l'équilibre.
+    * Après l'impact, le genou droit est vivement réarmé près du buste avant que le pied ne soit reposé au sol, assurant un contrôle total de l'équilibre.
 
 ---
 

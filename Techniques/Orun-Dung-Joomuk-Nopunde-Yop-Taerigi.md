@@ -25,15 +25,15 @@ Elle se traduit par : **Frappe latérale du revers du poing droit au niveau haut
 Cette technique s'appuie sur la souplesse du coude pour délivrer un coup de fouet sec vers une cible située de côté :
 
 1. **L'armement (Préparation) :**
-   * Le poing droit (main d'attaque) se ferme fermement et vient se armer près de l'épaule ou sous l'aisselle gauche, le dos de la main orienté vers le haut/l'extérieur.
-   * Le bras gauche (bras de réaction) s'étend vers la cible latérale pour viser et stabiliser l'axe.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
+    * Le poing droit (main d'attaque) se ferme fermement et vient se armer près de l'épaule ou sous l'aisselle gauche, le dos de la main orienté vers le haut/l'extérieur.
+    * Le bras gauche (bras de réaction) s'étend vers la cible latérale pour viser et stabiliser l'axe.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
 2. **La trajectoire et le fouetté (*Yop Taerigi*) :**
-   * En redescendant dans la position (souvent en posture *Niunja Sogi*, *Annun Sogi* ou *Gunnun Sogi* selon le contexte), le coude droit monte et s'aligne vers le côté.
-   * L'avant-bras droit se détend de manière fustigeante à partir du coude, décrivant un arc rapide vers le visage de la cible (**Nopunde**).
+    * En redescendant dans la position (souvent en posture *Niunja Sogi*, *Annun Sogi* ou *Gunnun Sogi* selon le contexte), le coude droit monte et s'aligne vers le côté.
+    * L'avant-bras droit se détend de manière fustigeante à partir du coude, décrivant un arc rapide vers le visage de la cible (**Nopunde**).
 3. **L'impact et la réaction :**
-   * Au moment exact du contact, le poignet effectue une légère Torsion finale (*snapping*) pour transmettre toute l'énergie du revers du poing (**Dung Joomuk**).
-   * Le poing gauche (bras de réaction) est ramené simultanément à la hanche gauche (paume vers le haut) pour accentuer la rotation des épaules et décupler la vitesse de frappe.
+    * Au moment exact du contact, le poignet effectue une légère Torsion finale (*snapping*) pour transmettre toute l'énergie du revers du poing (**Dung Joomuk**).
+    * Le poing gauche (bras de réaction) est ramené simultanément à la hanche gauche (paume vers le haut) pour accentuer la rotation des épaules et décupler la vitesse de frappe.
 
 ---
 

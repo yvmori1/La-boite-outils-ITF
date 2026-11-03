@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Frappe cinglante à revers, esquive par retrait et effet de levier :**
+>
 > 1. **Esquive et contre-attaque simultanées :** En montant en *Waebal Sogi*, vous esquivez un balayage ou un coup de pied bas tout en utilisant la vitesse de rotation du buste pour délivrer un coup cinglant au visage ou au thorax de l'agresseur.
 > 2. **Surface d'impact large (*Dungpalmok*) :** Le dos de l'avant-bras offre une surface d'impact osseuse importante, idéale pour frapper sans risquer de se blesser le poignet ou les doigts si l'adversaire tente d'interposer sa garde.
 > 3. **Puissance de fouet sans recul :** La mécanique du *Taerigi* tire sa force de la détente rapide du coude et du gainage de la sangle abdominale, parfaite dans des situations à court rayon d'action.

@@ -38,6 +38,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Signification symbolique et Application dans les patrons (*Tul*)
 
 > **Connexion spirituelle, concentration et préparation mentale :**
+>
 > 1. **Symbolisme du Ciel (*Hanul*) :** Dans la philosophie martiale coréenne, *Hanul* représente le Ciel, la création, la hauteur et l'infini. Porter les mains vers le ciel en posture pieds joints symbolise la recherche de la sagesse, de la clarté d'esprit et de la pureté des intentions.
 > 2. **Rassemblement d'énergie (*Ki*) :** Comme toutes les postures de préparation (*Junbi Sogi*), elle permet au pratiquant de stabiliser sa respiration, de relâcher les tensions musculaires inutiles et d'aligner son centre de gravité avant d'entamer une séquence dynamique.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve **Moa Junbi Sogi (Hanulson)** comme position de départ spécifique dans le patron **Tong-Il Tul** (le 24ᵉ et dernier patron du Taekwon-Do ITF, qui symbolise la réunification de la Corée).

@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe d'angle mort, effet de cravache et contournement de garde :**
+>
 > 1. **Contournement par l'angle mort (*Yobap*) :** Comme la trajectoire n'est ni purement frontale ni totalement de profil, le coup s'infiltre dans la diagonale à 45°, un angle mort très difficile à anticiper pour la garde adverse.
 > 2. **Effet de fouet dévastateur sur les tempes :** Le fouetté du dos du poing (**Dung Joomuk**) applique une force de torsion brusque sur la tête de l'agresseur, ce qui peut provoquer un ébranlement cérébral et un K.O. immédiat.
 > 3. **Puissance ajoutée par la hanche arrière (*Bandae*) :** Le pivotement de la hanche du bras arrière fournit l'accélération nécessaire pour faire cingler le poing sans contracter l'épaule.

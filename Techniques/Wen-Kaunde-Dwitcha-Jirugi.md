@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **L'arme de contre par excellence et la puissance de perforation maximale :**
+>
 > 1. **Contre-attaque sur charge adverse :** Lorsqu'un agresseur avance ou s'élance pour frapper, le *Dwitcha Jirugi* l'accueille avec un obstacle osseux massif. L'adversaire s'empale littéralement sur le talon gauche, combinant sa propre vitesse d'avancée à la force de frappe du coup.
 > 2. **Masquage de la trajectoire :** Comme le genou ne sort pas sur le côté (contrairement à un coup de pied circulaire), l'adversaire ne voit pas la jambe arriver. Elle passe sous ses coudes pour impacter le plexus solaire.
 > 3. **Groupe musculaire le plus puissant :** Le coup de pied arrière sollicite la chaîne postérieure (fessiers, quadriceps d'appui, lombaires), ce qui en fait l'un des coups de pied les plus lourds de tout le répertoire martial.

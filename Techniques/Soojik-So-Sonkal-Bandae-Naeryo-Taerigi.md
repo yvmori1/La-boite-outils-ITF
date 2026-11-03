@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe de hache sur zone osseuse et cassure de garde :**
+>
 > 1. **Pouvoir de fracture (Clavicule / Épaule) :** En abattant le tranchant osseux de la main (**Sonkal**) du haut vers le bas depuis la posture haute *Soojik Sogi*, toute l'énergie de pesanteur est concentrée sur une arête très fine, capable de briser une clavicule net.
 > 2. **Neutralisation de bras / Dégagement de garde :** Le mouvement descendant permet d'intercepter la garde d'un agresseur ou d'abattre son bras de frappe pour créer une ouverture directe au visage.
 > 3. **Conservation de la hauteur :** La posture *Soojik Sogi* (jambes quasi tendues) permet de maintenir une position dominante et de dominer visuellement l'adversaire en corps-à-corps.

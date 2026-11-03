@@ -8,15 +8,15 @@
 ## Exigences Techniques de l'Examen
 
 * **Pré-requis :**
-  * Minimum de six ans (72 mois) d'entraînement actif depuis l'obtention du 6e Dan ITF.
-  * Deux évaluations préparatoires réussies sous la direction d'un examinateur 8e Dan ou plus.
-  * Mêmes exigences académiques d'instructeur international et protocole d'entente.
+    * Minimum de six ans (72 mois) d'entraînement actif depuis l'obtention du 6e Dan ITF.
+    * Deux évaluations préparatoires réussies sous la direction d'un examinateur 8e Dan ou plus.
+    * Mêmes exigences académiques d'instructeur international et protocole d'entente.
 * **Théorie (Travail Académique) :**
-  * Rédaction et soutenance d'une thèse de 20 pages minimum (double interligne) sur un sujet approfondi du Taekwon-Do.
+    * Rédaction et soutenance d'une thèse de 20 pages minimum (double interligne) sur un sujet approfondi du Taekwon-Do.
 * **Formes (Tuls) :**
-  * *Tong-Il*
-  * Formes désignées de révision des *Chon-Ji* à *Se-Jong*.
+    * *Tong-Il*
+    * Formes désignées de révision des *Chon-Ji* à *Se-Jong*.
 * **Cassage (Kyokpa) :**
-  * **Homme :** 2 planches suspendues. Réussir trois techniques différentes avec les mains (utilisant des parties d'attaque différentes à chaque fois) et trois techniques différentes avec les pieds.
-  * **Femme :** 1 planche suspendue. Réussir trois techniques différentes de la main et trois techniques différentes du pied.
-  * **Seniors (40 ans et plus) :** Non requis.
+    * **Homme :** 2 planches suspendues. Réussir trois techniques différentes avec les mains (utilisant des parties d'attaque différentes à chaque fois) et trois techniques différentes avec les pieds.
+    * **Femme :** 1 planche suspendue. Réussir trois techniques différentes de la main et trois techniques différentes du pied.
+    * **Seniors (40 ans et plus) :** Non requis.

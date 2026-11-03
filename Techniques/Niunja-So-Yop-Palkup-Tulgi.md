@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe de rupture en corps-à-corps et libération de saisie latérale :**
+>
 > 1. **Réponse à un agresseur latéral :** Idéal pour neutraliser un adversaire situé sur votre flanc qui tente une saisie à la ceinture, un étranglement ou une frappe rapprochée.
 > 2. **Démultiplication par le soutien des deux bras :** L'action de pousser le coude tout en appuyant avec la paume opposée recrée une structure triangulaire indéformable capable de briser les côtes de l'agresseur.
 > 3. **Stabilité en retrait (*Niunja Sogi*) :** Conserver 60% du poids du corps sur la jambe arrière permet de résister à une poussée frontale tout en projetant le coude vers le côté avec une force maximale.

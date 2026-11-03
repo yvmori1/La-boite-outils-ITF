@@ -25,16 +25,16 @@ Elle se traduit par : **Blocage pressant direct à la paume de la main en positi
 Cette technique associe la poussée naturelle du transfert de masse en position en marche à la pression descendante du bras homologue :
 
 1. **La position des jambes (*Gunnun Sogi*) :**
-   * Le pied avant est ancré (genou fléchi à l'aplomb du talon), la jambe arrière est complètement tendue, le pied arrière légèrement ouvert à 15° vers l'extérieur.
-   * Le poids du corps est parfaitement équilibré à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
+    * Le pied avant est ancré (genou fléchi à l'aplomb du talon), la jambe arrière est complètement tendue, le pied arrière légèrement ouvert à 15° vers l'extérieur.
+    * Le poids du corps est parfaitement équilibré à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
 2. **L'armement (Préparation) :**
-   * La main de blocage (**main du même côté que le pied avant**, en raison du terme *Baro*) s'ouvre, paume orientée vers soi ou le haut au niveau de la poitrine/épaule.
-   * Le bras de réaction s'étend vers l'avant pour mesurer la distance et orienter la trajectoire.
-   * L'exécutant effectue la phase ascendante de la vague (*Sine Wave*).
+    * La main de blocage (**main du même côté que le pied avant**, en raison du terme *Baro*) s'ouvre, paume orientée vers soi ou le haut au niveau de la poitrine/épaule.
+    * Le bras de réaction s'étend vers l'avant pour mesurer la distance et orienter la trajectoire.
+    * L'exécutant effectue la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la pression descendante (*Baro Noollo Makgi*) :**
-   * En redescendant dans la posture en marche, la main s'abaisse fermement vers le niveau bas (**Najunde**).
-   * La paume (*Sonbadak*) vient intercepter et écraser l'attaque adverse vers le sol.
-   * Le bras de réaction (main opposée au pied avant) est tiré vivement à la hanche (poing fermé, paume vers le haut), ce qui verrouille la hanche et renforce le blocage du côté avant.
+    * En redescendant dans la posture en marche, la main s'abaisse fermement vers le niveau bas (**Najunde**).
+    * La paume (*Sonbadak*) vient intercepter et écraser l'attaque adverse vers le sol.
+    * Le bras de réaction (main opposée au pied avant) est tiré vivement à la hanche (poing fermé, paume vers le haut), ce qui verrouille la hanche et renforce le blocage du côté avant.
 
 ---
 

@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Pression de force concentrée et contournement de garde frontale :**
+>
 > 1. **Concentration de la pression ($P = F / S$) :** En remplaçant la surface large d'un poing classique (**Ap Joomuk**) par la seule pointe osseuse de l'index (**Inji Joomuk**), la force d'impact est appliquée sur une zone minuscule, traversant la structure osseuse de la tempe avec une force traumatique démultipliée.
 > 2. **Attaque bilatérale des tempes :** Frapper les deux tempes en même temps avec une trajectoire en croissant (*Bandal*) crée une onde de choc transversale dans la boîte crânienne, provoquant une perte de connaissance immédiate.
 > 3. **Application dans les patrons (*Tul*) :** Cette technique complexe intervient notamment dans des patrons avancés comme *Eui-Am Tul*, où elle exige un contrôle parfait de la stabilité axiale sans l'aide d'un écartement des pieds.

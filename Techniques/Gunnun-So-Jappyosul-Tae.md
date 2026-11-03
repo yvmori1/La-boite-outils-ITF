@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Biomécanique contre force brute :**
+>
 > 1. **Inutile de forcer contre les doigts :** Tenter de tirer son bras contre les quatre doigts repliés de l'adversaire exige une force surhumaine. Le *Jappyosul Tae* dirige toujours l'effort vers le pouce, où la résistance est minimale.
 > 2. **Utilisation du poids du corps :** En combinant la sortie de bras avec le verrouillage de la posture de marche (*Gunnun Sogi*), le pratiquant oppose tout le poids de son corps (50 à 80 kg) aux seuls muscles de la main de l'agresseur.
 > 3. **Création d'une ouverture offensive :** La rupture brutale de la saisie déséquilibre l'adversaire vers l'avant, le laissant vulnérable à une contre-attaque immédiate.

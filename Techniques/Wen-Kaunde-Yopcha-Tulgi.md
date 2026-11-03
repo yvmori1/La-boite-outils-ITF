@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Efficacité de pénétration au niveau moyen et pouvoir d'arrêt :**
+>
 > 1. **Transpercer la garde au plexus (*Kaunde*) :** En visant le niveau moyen, le *Yopcha Tulgi* cible des zones vitales molles (plexus solaire, foie, réseau nerveux sous-costal). La trajectoire en piston passe facilement entre les coudes de l'adversaire.
 > 2. **Effet repoussoir (*Thrusting power*) :** La mécanique *Tulgi* permet non seulement de blesser à l'impact, mais aussi d'expulser physiquement un agresseur vers l'arrière, brisant net sa charge.
 > 3. **Transfert de masse maximal :** L'alignement parfait talon-hanche-épaule transforme la jambe gauche en une jambe de force rigide capable de transmettre toute la masse corporelle.

@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection supérieure renforcée contre les frappes lourdes :**
+>
 > 1. **Protection contre les coups circulaires descendants :** Le revers du tranchant (**Sonkal Dung**) offre une arête osseuse très dense pour intercepter un coup de pied circulaire (*Dollyo Chagi*) haut ou un coup de poing crocheté lourd visant la tête.
 > 2. **Structure de garde à deux niveaux (Principe *Daebi*) :** Si l'attaque franchit le premier blocage haut du bras avant, la seconde main placée devant le plexus permet d'absorber une feinte ou un enchaînement direct au corps.
 > 3. **Sécurité de la posture en L :** Garder 70% du poids sur la jambe arrière permet de reculer le buste de la zone de danger tout en conservant la possibilité de contre-attaquer immédiatement de la jambe avant.

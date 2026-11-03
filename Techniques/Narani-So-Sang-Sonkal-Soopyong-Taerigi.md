@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe bimanuelle neutralisante et travail de symétrie :**
+>
 > 1. **Attaque double aux carotides :** Frapper simultanément les deux côtés du cou d'un agresseur avec le tranchant des mains (**Sang Sonkal**) provoque un choc vagal immédiat capable de neutraliser une menace de manière décisive.
 > 2. **Équilibre bilatéral en *Narani Sogi* :** Exécuter une double frappe horizontale en pieds parallèles exige une synchronisation parfaite des deux bras et une stabilité dorsale irréprochable, car aucun bras de réaction à la hanche n'est utilisé pour équilibrer le mouvement.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des frappes au tranchant de la main en posture parallèles ou en double armement dans plusieurs formes avancées du Taekwon-Do ITF (notamment dans **Eul-Ji Tul** ou **Yoo-Sin Tul**).

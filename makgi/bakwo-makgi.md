@@ -49,6 +49,7 @@ Le *Bakwo Makgi* définit le **changement dynamique d'armement et de blocage** e
 
 > **Neutraliser les feintes et casser la prise :**
 > Le *Bakwo Makgi* offre deux avantages majeurs en situation réelle :
+>
 > 1. **Réponse aux combinaisons rapides :** Si l'adversaire lance un enchaînement gauche-droite rapproché, le *Bakwo Makgi* permet de bloquer la première frappe puis d'échanger instantanément de bras pour intercepter la seconde frappe sans perdre l'équilibre.
 > 2. **Dégagement de saisie (*Hosinsul*) :** Si un agresseur saisit le poignet ou la manche du bras qui vient de bloquer, la permutation (*Bakwo*) permet à l'autre bras de venir percuter la prise ou de verrouiller le membre adverse pour contre-attaquer.
 

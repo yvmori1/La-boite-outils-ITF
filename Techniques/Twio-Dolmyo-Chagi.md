@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 4. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Puissance cinétique démultipliée et franchissement d'obstacle :**
+>
 > 1. **Inertie de rotation et gravité :** La combinaison du saut et de la rotation produit la force d'impact la plus élevée du répertoire martial, combinant la masse du corps en chute avec la vitesse angulaire.
 > 2. **Franchissement de la garde :** La hauteur du saut permet d'attaquer par-dessus la garde de l'adversaire ou d'atteindre un agresseur en position surélevée.
 > 3. **Effet de masque et d'angle mort :** La rotation rapide masque le départ du pied, rendant la trajectoire de frappe difficile à anticiper et à bloquer.

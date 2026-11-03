@@ -45,8 +45,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Vrille synchronisée :** Au tout dernier millième de seconde, les deux poignets effectuent une rotation axiale pour sceller l'extérieur des avant-bras (**Bakat Palmok**) vers la menace.
 2. **Fixation de garde (*Daebi*) :**
-   * Le poing avant s'immobilise au niveau de l'épaule/du thorax sur l'axe de défense.
-   * Le poing arrière se scelle devant le plexus solaire, protégeant la poitrine.
+    * Le poing avant s'immobilise au niveau de l'épaule/du thorax sur l'axe de défense.
+    * Le poing arrière se scelle devant le plexus solaire, protégeant la poitrine.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle la garde et l'ancrage sur la jambe arrière.
 
 ---
@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Bouclier passif-actif, esquive de distance et riposte éclair :**
+>
 > 1. **Protection hermétique du buste :** La combinaison des deux avant-bras crée une barrière qui couvre à la fois les attaques directes (coups de poing au plexus) et les attaques circulaires (crochets ou coups de pied circulaires moyens).
 > 2. **Esquive par retrait du haut du corps (*Dwitbal Sogi*) :** En concentrant 95% de la masse sur la jambe arrière, le pratiquant fait reculer son buste et sa tête hors de portée de l'agresseur sans perdre le contact avec le sol.
 > 3. **Capacité de contre-attaque instantanée :** La jambe avant ne portant quasiment aucun poids (5%), elle peut déclencher sans aucun temps de préparation un coup de pied direct (*Ap Chagi*), latéral (*Yop Chagi*) ou fouetté (*Bandal Chagi*) pour punir l'avancée de l'adversaire.

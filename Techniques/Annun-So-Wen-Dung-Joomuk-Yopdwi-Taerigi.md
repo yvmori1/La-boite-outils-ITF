@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Riposte dans l'angle mort arrière-latéral :**
+>
 > 1. **Défense contre les attaques par-derrière :** Lorsqu'un attaquant tente de vous surprendre par l'arrière-gauche (tentative de saisie au col, crochet par l'arrière), le *Yopdwi Taerigi* offre une contre-attaque explosive sans nécessiter de faire pivoter le bassin ni de changer de posture.
 > 2. **Effet de surprise et vitesse :** La trajectoire cinglante (*Taerigi*) utilise la vitesse de fouet du coude, rendant la frappe extrêmement difficile à parer pour l'agresseur.
 > 3. **Maintien de la structure *Annun Sogi* :** La base large du cavalier permet d'envoyer de la puissance vers l'arrière tout en conservant une stabilité parfaite face à d'éventuelles menaces venant de face.

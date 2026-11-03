@@ -53,9 +53,10 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Différence avec *Najunde Makgi*
 
 > **Écrase-structure et transfert de gravité :**
+>
 > 1. **Distinguer *Najunde* et *Naeryo* :**
-> * Le blocage bas classique (**Najunde Makgi**) adopte une trajectoire en balayage oblique descendant.
-> * Le blocage descendant (**Naeryo Makgi**) utilise une trajectoire **verticale directe du haut vers le bas**, exploitant la chute de masse du corps pour casser la montée d'un coup de pied ou d'un coup de genou.
+>     * Le blocage bas classique (**Najunde Makgi**) adopte une trajectoire en balayage oblique descendant.
+>     * Le blocage descendant (**Naeryo Makgi**) utilise une trajectoire **verticale directe du haut vers le bas**, exploitant la chute de masse du corps pour casser la montée d'un coup de pied ou d'un coup de genou.
 > 2. **Structure solide en retrait (70/30) :** Conserver la majorité du poids sur la jambe arrière permet d'absorber l'impact d'un coup lourd sans être déséquilibré vers l'arrière, tout en gardant le bras avant libre de réagir.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette variante de blocage dans des formes intermédiaires et avancées du Taekwon-Do ITF (ex: **Toi-Gye Tul** ou **Ge-Baek Tul**), où le contrôle du plan vertical est essentiel.
 

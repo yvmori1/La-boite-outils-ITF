@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans le Taekwon-Do
 
 > **Écrase-structure et transfert de gravité :**
+>
 > 1. **Poids de la chute de masse :** L'association entre la chute du bassin en *Niunja Sogi* et la trajectoire descendante de la main (**Naeryo**) permet de développer une puissance d'impact très élevée, capable de briser la clavicule d'un agresseur ou de casser sa garde descendante.
 > 2. **Différence entre *Sondung* et *Dung Joomuk* :** Alors que le *Sondung Naeryo Taerigi* s'exécute main ouverte (pour un effet de cravache très rapide), le *Dung Joomuk* s'effectue poing fermé, offrant une masse d'impact plus dense et destructrice.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique est notamment exécutée dans le patron **Tong-Il Tul** (mouvements 17 et 19), où elle exige un parfait contrôle du timing entre la chute du bassin et le snap du poing.

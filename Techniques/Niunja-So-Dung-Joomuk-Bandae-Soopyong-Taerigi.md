@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe cinglante à bras ouvert et contournement de garde :**
+>
 > 1. **Fouetté du bras avant (*Bandae*) :** Frapper avec la main située du côté de la jambe avancée permet de délivrer une frappe très rapide à courte/moyenne distance sans nécessiter le grand transfert de poids d'un coup arrière.
 > 2. **Alignement horizontal (*Soopyong*) :** La trajectoire parallèle au sol (**Soopyong**) passe par-dessus ou sur le côté de la garde de l'adversaire pour toucher le profil du visage ou le flanc du buste.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique s'exécute notamment dans le patron **Tong-Il Tul** (mouvements 27 et 29), où elle exige un parfait contrôle du plan horizontal et de la vitesse de fouetté du poignet.

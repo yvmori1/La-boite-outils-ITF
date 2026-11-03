@@ -58,6 +58,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Ancrage bidirectionnel, poussée axiale et polyvalence offensive :**
+>
 > 1. **Poussée d'avancée maximale :** La jambe arrière tendue et ancrée à 25° fait office de cale de propulsion. Elle permet de transférer l'énergie du sol vers l'avant lors du déclenchement des coups de poing direct (*Jirugi*) ou des piques.
 > 2. **Base de stabilité avant/arrière :** La longueur de 1,5 largeur d'épaules offre une résistance exceptionnelle contre les poussées directes venant de face.
 > 3. **Transition naturelle :** Mimant la marche humaine, la posture *Gunnun Sogi* permet de glisser et d'enchaîner rapidement des pas vers l'avant ou l'arrière avec la vague (*Sine Wave*).

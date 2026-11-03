@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Absorber sans blesser, soulever la garde et casser l'assise adverse :**
+>
 > 1. **Protection en déviation souple :** Utiliser la paume (**Sonbadak**) permet de pousser ou de dériver la trajectoire d'une attaque directe vers le haut sans choc osseux direct, minimisant les blessures.
 > 2. **Déséquilibre de l'adversaire :** En interceptant le bras ou le coude de l'agresseur par un mouvement montant (*Ollyo*), on redresse son buste et on détruit sa posture.
 > 3. **Application dans les patrons (*Tul*) :** Cette technique est notamment présente dans **Ul-Ji Tul** (mouvement 38) et **So-San Tul** (mouvements 60 et 66), où elle sert à lever la garde de l'adversaire avant d'enchaîner une frappe ou un coup de poing direct.

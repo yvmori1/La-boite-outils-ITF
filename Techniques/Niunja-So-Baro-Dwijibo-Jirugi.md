@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Puissance de hanche maximisée et infiltration sous la garde :**
+>
 > 1. **Engagement de la hanche arrière (*Baro*) :** Contrairement à la version inversée (*Bandae*), le fait d'utiliser le bras de la jambe arrière permet d'injecter la rotation complète du bassin dans la trajectoire ascendante, développant une force de pénétration bien plus lourde.
 > 2. **Infiltration étroite (*Dwijibo*) :** La position paume vers le haut permet au poing d'effectuer une glissière serrée qui passe sous les coudes de la garde adverse pour impacter le foie, l'estomac ou le plexus.
 > 3. **Présence dans les patrons (*Tul*) :** Cette technique s'exécute notamment dans le patron **Ge-Baek Tul** (mouvements 37 et 39), où elle exige un parfait contrôle du transfert de poids et de l'alignement des jointures à l'impact.

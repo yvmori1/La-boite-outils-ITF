@@ -61,6 +61,7 @@ Le revers du poing s'exécute selon l'angle d'attaque recherché :
 
 > **Vitesse extrême et masquage de trajectoire :**
 > Le revers du poing tire son efficacité de sa vivacité :
+>
 > 1. **Fouetté imprévisible :** Comme le mouvement part du coude sans nécessiter un grand armement de l'épaule, la frappe est extrêmement difficile à anticiper pour l'adversaire.
 > 2. **Cibles vitales fragiles :** Ciblant principalement l'arête du nez (*Injoung*), les tempes (*Gwanja Noryeok*) ou la mâchoire, un *Dung Joomuk* bien placé provoque un étourdissement ou une désorientation immédiate sans demander une force brute massive.
 > 3. **Enchaînement réflexe :** Idéal après un blocage pour placer une riposte fulgurante avant que la garde ennemie ne se referme.

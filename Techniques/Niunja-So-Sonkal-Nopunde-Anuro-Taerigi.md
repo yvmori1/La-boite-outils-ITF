@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe réflexe sur zone vitale et contournement de garde :**
+>
 > 1. **Cible névralgique à haut risque (*Sinus carotidien*) :** Frapper le côté du cou avec le tranchant de la main (**Sonkal**) peut provoquer une baisse brutale de tension artérielle (réflexe vagal) ou un K.O. immédiat.
 > 2. **Contournement des bras adverses :** La trajectoire circulaire extérieure-intérieure (*Anuro*) permet d'englober et de passer par-dessus ou autour des avant-bras de l'adversaire pour atteindre le visage.
 > 3. **Stabilité défensive (*Niunja Sogi*) :** L'assise sur la jambe arrière (60%) garantit une excellente stabilité en retrait, permettant d'esquiver une charge tout en décochant le coup cinglant au passage.

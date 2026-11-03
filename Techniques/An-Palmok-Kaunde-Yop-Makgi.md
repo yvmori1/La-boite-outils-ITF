@@ -50,6 +50,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Applications
 
 > **Déviation fluide et ouverture de garde :**
+>
 > 1. **Absorption et déviation :** Contrairement à l'avant-bras extérieur (*Bakat Palmok*) qui est souvent utilisé pour de la percussion dure, l'avant-bras intérieur (*An Palmok*) permet de balayer et dévier les coups de poing direct (*Jirugi*) ou les coups de pied moyens (*Ap Chagi / Yop Chagi*) en souplesse.
 > 2. **Dégagement de la ligne centrale :** En repoussant l'attaque vers l'extérieur du corps, le *An Palmok Kaunde Yop Makgi* déséquilibre l'adversaire et crée immédiatement une ouverture pour une contre-attaque (ex: coup de poing direct ou frappe au coude).
 

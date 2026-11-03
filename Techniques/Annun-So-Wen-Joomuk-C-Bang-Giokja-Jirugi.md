@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe sous la garde et verrouillage structural :**
+>
 > 1. **Contournement de la garde frontale (*Giokja*) :** Un coup de poing direct rectiligne classique peut être facilement bloqué de face. L'angle à 90° du *Giokja Jirugi* permet de contourner les avant-bras de l'adversaire pour frapper sur les côtés du buste ou sous le menton.
 > 2. **Cadre de protection et d'appui (*C-Bang*) :** La configuration bilatérale en "C" fournit un bras de frappe tout en conservant le second bras en bouclier ou en point d'appui pour contrôler un membre adverse.
 > 3. **Absorber les impacts en posture large :** L'ancrage bas en *Annun Sogi* combiné au verrouillage du coude en angle permet d'appliquer une force pénétrante considérable sans reculer.

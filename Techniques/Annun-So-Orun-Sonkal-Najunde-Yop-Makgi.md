@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Chasse d'attaque basse et protection du flanc :**
+>
 > 1. **Déviation des coups de pied bas (*Low kicks*) :** Extrêmement efficace pour balayer le coup de pied direct frontal bas (*Najunde Ap Chagi*) ou casser la trajectoire d'un coup de pied circulaire bas (*Najunde Dollyo Chagi*) ciblant la cuisse ou les genoux.
 > 2. **Pression osseuse du *Sonkal* :** La dureté du tranchant de la main percutant le tibia ou la cheville adverse peut provoquer une douleur intense qui dissuade l'agresseur de poursuivre son attaque.
 > 3. **Conserver l'axe sans reculer :** La posture *Annun Sogi* offre une base latérale si solide qu'elle permet d'absorber des impacts bas puissants sans perdre l'équilibre.

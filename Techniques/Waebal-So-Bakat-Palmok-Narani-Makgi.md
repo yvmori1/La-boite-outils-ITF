@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Bouclier renforcé à double barrière et esquive par retrait :**
+>
 > 1. **Absorption d'impacts lourds (*Narani*) :** En alignant les deux avant-bras parallèlement, la surface et la résistance du blocage sont doublées. Cela permet d'intercepter une frappe puissante (ex: coup de pied circulaire *Dollyo Chagi*) sans que la garde ne cède sous le choc.
 > 2. **Esquive par retrait de jambe :** Le passage en *Waebal Sogi* met la jambe avant hors d'atteinte contre les tentatives de balayage, de fauchage ou de coups de pied bas (*Low-kicks*).
 > 3. **Position de contre instantanée :** Garder l'équilibre sur la jambe arrière permet, dès le blocage verrouillé, de riposter immédiatement avec un coup de pied direct (*Ap Chagi*) ou latéral (*Yop Chagi*) à partir de la jambe relevée.

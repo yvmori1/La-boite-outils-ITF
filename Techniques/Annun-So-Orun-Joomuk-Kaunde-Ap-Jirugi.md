@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Principes de Force (*Jungshin*)
 
 > **Maximisation de la force de réaction sur base fixe :**
+>
 > 1. **Ligne centrale stricte (*Ap*) :** En ciblant exactement le centre du corps, cette frappe traverse la ligne de garde adverse avec une efficacité biomécanique maximale.
 > 2. **Force de réaction (*Reaction Force*) :** L'action d'armer le poing gauche à la hanche au moment précis où le poing droit frappe crée un effet de couple de torsion du haut du corps, augmentant considérablement l'onde de choc.
 > 3. **Stabilité d'ancrage :** La posture *Annun Sogi* offre une base extrêmement large qui empêche l'absorbeur d'être repoussé vers l'arrière lors de l'impact.

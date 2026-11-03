@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque perforante sur cible molle et neutralisation instantanée :**
+>
 > 1. **Cibles ne nécessitant pas de masse osseuse lourde :** Contrairement à un coup de poing qui vise des structures osseuses (mâchoire, pomme de joues), la pique des doigts (*Sonkut*) est conçue pour transpercer des zones molles (gorge, yeux) où une faible force physique suffit à neutraliser un agresseur.
 > 2. **Orientation à plat (*Opun*) :** Présenter la main à plat (paume vers le bas) permet de glisser la pointe des doigts sous le menton ou au-dessus du col d'un vêtement pour atteindre la gorge de façon chirurgicale.
 > 3. **Allongement de la portée :** La main ouverte en *Sonkut* offre quelques précieux centimètres de portée supplémentaire par rapport à un poing fermé (**Ap Joomuk**).

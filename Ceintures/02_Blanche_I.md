@@ -10,25 +10,26 @@ Ceinture Blanche I / Barre Jaune (9e Gup)
 ### Exigences Techniques de l'Examen
 
 * **Techniques fondamentales :**
-  * Coup de pied circulaire (en position en L)
-  * Coup de pied de côté (en position assise).
+    * Coup de pied circulaire (en position en L)
+    * Coup de pied de côté (en position assise).
 * **Forme (Tul) :**
-  * *Chon-Ji* (19 mouvements).
+    * *Chon-Ji* (19 mouvements).
 * **Système de combat :**
-  * Combat sur 3 pas relatif à *Chon-Ji*.
+    * Combat sur 3 pas relatif à *Chon-Ji*.
+    * Déroulement détaillé : [combats arrangés du 9e Gup](Combats-arranges/01_10e-9e-Gup.md).
 * **Combat sportif :**
-  * Déplacements de base,
-  * Coup de poing arrière,
-  * Coups de pied marteau
-  * Coups de pied circulaire de la jambe arrière.
+    * Déplacements de base,
+    * Coup de poing arrière,
+    * Coups de pied marteau
+    * Coups de pied circulaire de la jambe arrière.
 * **Autodéfense :**
-  * Dégagements sur prises de poignets et poussées.
-  * Application des mouvements de la forme en autodéfense.
+    * Dégagements sur prises de poignets et poussées.
+    * Application des mouvements de la forme en autodéfense.
 * **Théorie :**
-  * Nom du fondateur du Taekwon-Do (Général Choi Hong Hi),
-  * utilité des formes,
-  * utilité du combat sur 3 pas,
-  * signification de *Chon-Ji*.
+    * Nom du fondateur du Taekwon-Do (Général Choi Hong Hi),
+    * utilité des formes,
+    * utilité du combat sur 3 pas,
+    * signification de *Chon-Ji*.
 
 ### Le "DO" : Philosophie et Éthique du Pratiquant
 
@@ -48,7 +49,7 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 
 #### Q1. Quel est le nom du fondateur du Taekwon-Do ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** Le fondateur est le **Général Choi Hong Hi**.
@@ -57,7 +58,7 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 
 #### Q2. Quelle est la définition et la signification de la première forme, CHON-JI Tul ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** **CHON-JI** signifie littéralement **"Le Ciel et la Terre"**. En Orient, cela représente la création du monde et le début de l'histoire humaine. C'est pourquoi c'est la première forme apprise par le débutant. Elle comporte deux parties identiques : l'une pour le Ciel (les 8 premiers mouvements avec blocages bas et coups de poing en position de marche) et l'autre pour la Terre (les positions en L avec blocages moyens de l'avant-bras intérieur).
@@ -66,7 +67,7 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 
 #### Q3. Combien de mouvements comporte le Tul CHON-JI et quel est son diagramme au sol ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** Elle comporte **19 mouvements** et se déplace sur un diagramme en **Croix ( + )**.
@@ -75,7 +76,7 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 
 #### Q4. Quelle est l'utilité des formes (Tuls) en Taekwon-Do ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** Les formes consistent en une suite de mouvements fondamentaux d'attaque et de défense contre un ou plusieurs adversaires imaginaires, selon un tracé logique, permettant d'acquérir de la précision technique, d'améliorer l'équilibre, le contrôle de la respiration et la fluidité des déplacements.
@@ -89,13 +90,13 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 * c) Coup de pied de côté (Yop chagi)
 * d) Blocage de l'avant-bras interne
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :**
-  * a) Position en L = **Niunja Sogi**
-  * b) Coup de pied circulaire = **Dollyo Chagi**
-  * c) Coup de pied de côté = **Yop Chagi** ou **Yopcha Jirugi**
-  * d) Blocage de l'avant-bras interne = **An Palmok Makgi**
+    * a) Position en L = **Niunja Sogi**
+    * b) Coup de pied circulaire = **Dollyo Chagi**
+    * c) Coup de pied de côté = **Yop Chagi** ou **Yopcha Jirugi**
+    * d) Blocage de l'avant-bras interne = **An Palmok Makgi**
 
 </details>

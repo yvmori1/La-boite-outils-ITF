@@ -58,6 +58,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Franchissement de garde, projection de masse et vitesse de neutralisation :**
+>
 > 1. **Franchissement de distance de sécurité :** Le saut (*Twimyo*) permet de combler instantanément une distance importante pour surprendre un adversaire qui se croit hors d'atteinte.
 > 2. **Transfert de la masse totale :** En exécutant le coup de poing au sommet du saut, toute la masse et l'inertie du corps en mouvement sont concentrées sur les deux grosses jointures du poing (**Ap Joomuk**).
 > 3. **Attaque par-dessus la garde :** L'élévation aérienne permet de passer au-dessus des avant-bras ou de la garde basse d'un agresseur.

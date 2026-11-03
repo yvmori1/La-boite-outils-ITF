@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Protection frontale de la tête sur base inébranlable :**
+>
 > 1. **Interception des attaques directes hautes :** Conçu pour bloquer un coup de poing haut (*Nopunde Jirugi*), un coup de pied frontal au visage (*Nopunde Ap Chagi*) ou une frappe descendante arrivant directement sur l'axe central.
 > 2. **Dureté de l'ulna (*Bakat Palmok*) :** Utiliser la tranche osseuse extérieure de l'avant-bras permet d'absorber ou de briser la force de la frappe adverse sans risquer de se blesser les tissus mous.
 > 3. **Stabilité d'*Annun Sogi* :** L'ancrage bas et large empêche le pratiquant de reculer sous la pression d'une attaque lourde.

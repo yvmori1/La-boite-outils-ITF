@@ -22,14 +22,14 @@ Elle se traduit par : **Position de marche** (*Walking stance*).
 ![gunnun-sogi](../images/sogi/gunnun-sogi.png)
 
 1. **Les dimensions :**
-   * **Longueur :** une largeur d'épaules et demie, mesurée entre les gros orteils des deux pieds.
-   * **Largeur :** une largeur d'épaule, mesurée de centre à centre des pieds.
+    * **Longueur :** une largeur d'épaules et demie, mesurée entre les gros orteils des deux pieds.
+    * **Largeur :** une largeur d'épaule, mesurée de centre à centre des pieds.
 2. **L'orientation des pieds :**
-   * **Pied avant :** pointe droit devant.
-   * **Pied arrière :** ouvert à **25° vers l'extérieur**. Plus ouvert, il fragilise le genou face à une attaque par l'arrière.
+    * **Pied avant :** pointe droit devant.
+    * **Pied arrière :** ouvert à **25° vers l'extérieur**. Plus ouvert, il fragilise le genou face à une attaque par l'arrière.
 3. **La flexion des jambes :**
-   * **Jambe avant :** fléchie jusqu'à ce que la rotule soit à l'aplomb du talon.
-   * **Jambe arrière :** complètement tendue.
+    * **Jambe avant :** fléchie jusqu'à ce que la rotule soit à l'aplomb du talon.
+    * **Jambe arrière :** complètement tendue.
 4. **Le poids :** réparti à parts égales, **50 / 50**.
 5. **La musculature :** les muscles des pieds se tendent comme s'ils tiraient l'un vers l'autre, pour sceller l'ancrage au sol.
 6. **Le buste :** de face (*Jeongmyon*) le plus souvent ; à mi-profil (*Ban Mom*) pour certains blocages.

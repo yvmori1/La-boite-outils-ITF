@@ -52,6 +52,7 @@ Selon l'orientation de l'articulation et la direction du mouvement, le poignet o
 
 > **Crochetage, contrôle rapproché et préparation de saisie :**
 > Le *Sommok Makgi* est une technique privilégiée pour le travail à courte distance (*In-fighting*) :
+>
 > 1. **Effet de crochet (*Hooking action*) :** La forme incurvée du poignet fléchi permet d'agripper ou de "accrocher" le poignet ou la cheville de l'adversaire au vol sans nécessiter l'ouverture immédiate des doigts.
 > 2. **Transition ultra-rapide vers la saisie (*Sommok Japgi*) :** L'impact se faisant directement au niveau de l'articulation, les doigts n'ont qu'à se refermer pour verrouiller le poignet adverse et enchaîner une clé d'articulation (*Kwolbeop*) ou une projection.
 > 3. **Moins de choc osseux dur :** Permet d'esquiver et de dévier une trajectoire puissante par enroulement au lieu de subir un choc frontal os-contre-os.

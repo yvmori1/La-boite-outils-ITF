@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe à moyenne portée sous un angle mort :**
+>
 > 1. **Contournement de garde axiale :** La trajectoire coudée du *Giokja Jirugi* permet de contourner les bras de l'adversaire lorsque celui-ci maintient une garde centrale étroite, pour impacter la poitrine, les côtes ou le flanc.
 > 2. **Rigueur de la posture *Moa Sogi* :** Délivrer une frappe transversale tout en restant ancré en pieds joints nécessite une grande stabilité du buste pour éviter que le corps ne tourne avec le bras.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des coups de poing en angle (*Giokja Jirugi*) dans plusieurs formes du Taekwon-Do ITF, notamment dans **Joong-Gun Tul** (mouvements 27 et 30) ou **Ul-Ji Tul**.

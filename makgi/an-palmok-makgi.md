@@ -49,6 +49,7 @@ Sa décomposition linguistique est la suivante :
 
 > **La clé pour ouvrir la garde adverse :**
 > Le *An Palmok Makgi* est une technique défensive extrêmement avantageuse :
+>
 > 1. **Déviation sans choc frontal :** Au lieu d'arrêter l'attaque de face, l'avant-bras intérieur chasse le poing ou le pied de l'adversaire vers l'extérieur de votre corps.
 > 2. **Création d'une ouverture majeure :** En poussant le bras d'attaque de l'adversaire de côté, vous le forcez à pivoter légèrement le buste, ce qui découvre totalement ses points vitaux (flanc, plexus, visage) pour une contre-attaque immédiate en coup de poing (*Ap Jirugi*) ou en coup de pied.
 

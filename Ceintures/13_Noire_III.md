@@ -10,34 +10,35 @@ CEINTURE NOIRE — 3e Degré (Dan)
 ## Exigences Techniques de l'Examen
 
 * **Pré-requis :**
-  * Minimum de trois ans (36 mois) d'entraînement actif depuis l'obtention du 3e Dan ITF sous un instructeur de 7e degré ou plus.
-  * Trois évaluations préparatoires sous un examinateur international (7e Dan ou plus).
-  * Avoir complété avec succès le cours d'Instructeur International de l'ITF.
-  * Avoir complété un protocole d'entente de collaboration avec son instructeur.
+    * Minimum de trois ans (36 mois) d'entraînement actif depuis l'obtention du 3e Dan ITF sous un instructeur de 7e degré ou plus.
+    * Trois évaluations préparatoires sous un examinateur international (7e Dan ou plus).
+    * Avoir complété avec succès le cours d'Instructeur International de l'ITF.
+    * Avoir complété un protocole d'entente de collaboration avec son instructeur.
 * **Théorie :**
-  * Volumes 1 et 2 de l'Encyclopédie du Taekwon-Do.
+    * Volumes 1 et 2 de l'Encyclopédie du Taekwon-Do.
 * **Formes (Tuls) :**
-  * *Sam-Il*
-  * *Yoo-Sin*
-  * *Choi-Yong*
-  * Révision complète de *Chon-Ji* à *Juche*.
+    * *Sam-Il*
+    * *Yoo-Sin*
+    * *Choi-Yong*
+    * Révision complète de *Chon-Ji* à *Juche*.
 * **Combats arrangés :**
-  * Combat semi-libre d'une durée continue de 50 secondes.
+    * Combat semi-libre d'une durée continue de 50 secondes.
+    * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
 * **Combat :**
-  * Combat sportif.
+    * Combat sportif.
 * **Autodéfense (Hosinsul) :**
-  * Démonstration technique continue de 2 minutes de défense réaliste contre un adversaire armé.
+    * Démonstration technique continue de 2 minutes de défense réaliste contre un adversaire armé.
 * **Cassage (Kyokpa) :**
-  * **Revers du poing (Dung Joomuk) :**
-    * Homme (2 planches)
-    * Femme (non requis).
-  * **Coup de pied latéral arrière sauté en hauteur (Twi-Myo Dwi Chagi) :**
-    * Homme : 1 planche à hauteur de coude (bras levé).
-    * Femme : 1 planche à hauteur des yeux.
-  * **Coup de pied circulaire inversé arrière sauté (Twi-Myo Bandae Dollyo Chagi) :**
-    * Homme : 1 planche à hauteur du bout des doigts.
-    * Femme et Homme de 35 à 39 ans : 1 planche à hauteur de coude (bras levé).
-  * **Puissance combinée :** Une technique de membre supérieur et une technique de membre inférieur au choix en puissance pure. (Applicable pour Hommes et Femmes de 40 ans et plus).
+    * **Revers du poing (Dung Joomuk) :**
+        * Homme (2 planches)
+        * Femme (non requis).
+    * **Coup de pied latéral arrière sauté en hauteur (Twi-Myo Dwi Chagi) :**
+        * Homme : 1 planche à hauteur de coude (bras levé).
+        * Femme : 1 planche à hauteur des yeux.
+    * **Coup de pied circulaire inversé arrière sauté (Twi-Myo Bandae Dollyo Chagi) :**
+        * Homme : 1 planche à hauteur du bout des doigts.
+        * Femme et Homme de 35 à 39 ans : 1 planche à hauteur de coude (bras levé).
+    * **Puissance combinée :** Une technique de membre supérieur et une technique de membre inférieur au choix en puissance pure. (Applicable pour Hommes et Femmes de 40 ans et plus).
 
 ## Le "DO" : Philosophie, Responsabilité et Enseignement
 
@@ -56,7 +57,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q1. Quelle est la signification de SAM-IL Tul et que représentent ses 33 mouvements ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** **SAM-IL** commémore la date historique du soulèvement national pour l'indépendance de la Corée, le **1er mars 1919**. Les **33 mouvements** rendent hommage aux **33 patriotes** qui ont planifié et dirigé cette insurrection pacifique contre l'occupant japonais.
@@ -65,7 +66,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q2. Quelle est la signification technique et historique de YOO-SIN Tul ? Expliquez sa posture de départ très spécifique. (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** Named after General **Kim Yoo Sin**, commandant en chef de la dynastie Silla. Les **68 mouvements** se rapportent à l'an **668 apr. J.-C.**, l'année de l'unification de la péninsule de Corée. La posture de départ simule un sabre dégainé du côté droit : elle symbolise l'erreur tragique de Yoo Sin d'avoir suivi les ordres de son roi de s'allier avec des forces étrangères (les Tang chinois) contre sa propre patrie.
@@ -74,7 +75,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q3. Quelle est la signification historique de CHOI-YONG Tul ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** Nommé d'après le général **Choi Yong**, premier ministre et commandant en chef des armées lors de la dynastie Koryo (XIVe siècle), hautement respecté pour sa loyauté absolue, son patriotisme et sa profonde humilité. Il a été exécuté par son subordonné, le général Yi Sung Gae, qui fonda ensuite la dynastie Yi. Comporte **46 mouvements**.
@@ -83,7 +84,7 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 
 ### Q4. Quel est le statut de "Sabum" (Instructeur International), et quelles sont ses obligations envers ses élèves et l'ITF ? (2 points)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :** À partir du 4e Dan, la ceinture noire devient un **Sabum (Instructeur International)**. Il n'enseigne plus seulement des techniques physiques, mais transmet la philosophie morale de l'art (le Do). Il doit encadrer les clubs affiliés, enseigner en respectant strictement la Charte de l'ITF, s'abstenir de toute exploitation commerciale de ses élèves et collaborer activement à la vie fédérale.
@@ -97,13 +98,13 @@ En tant que ceinture noire, le pratiquant n'est plus seulement un élève, mais 
 * c) Coup de pied circulaire inversé arrière sauté
 * d) Cours d'Instructeur International (ITF)
 
-<details>
+<details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
 * **Réponse :**
-  * a) Revers du poing en puissance = **Dung Joomuk Taerigi**
-  * b) Coup de pied latéral arrière sauté en hauteur = **Twimyo Dwitchuk Chagi**
-  * c) Coup de pied circulaire inversé arrière sauté = **Twimyo Bandae Dollyo Chagi**
-  * d) Cours d'Instructeur International = **International Instructor Course (IIC)**
+    * a) Revers du poing en puissance = **Dung Joomuk Taerigi**
+    * b) Coup de pied latéral arrière sauté en hauteur = **Twimyo Dwitchuk Chagi**
+    * c) Coup de pied circulaire inversé arrière sauté = **Twimyo Bandae Dollyo Chagi**
+    * d) Cours d'Instructeur International = **International Instructor Course (IIC)**
 
 </details>

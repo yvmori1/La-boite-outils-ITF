@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe latérale surpuissante et absorption de choc exceptionnelle :**
+>
 > 1. **Absorption de la force de réaction :** La posture *Gojung Sogi*, avec son écartement large (1,5 largeur d'épaules) et sa répartition égale du poids (50/50), offre une base extrêmement stable. Elle absorbe l'onde de choc en retour sans que le combattant ne soit déséquilibré vers l'arrière lors d'un impact lourd.
 > 2. **Riaction aux menaces latérales :** Permet de neutraliser immédiatement un agresseur situé sur votre flanc sans devoir faire un quart de tour complet avec tout le corps.
 > 3. **Levier de rotation des hanches :** L'action simultanée du tirage de la main de réaction à la hanche (*Heori*) et de l'ancrage des genoux transmet toute la force de torsion du tronc dans le bras de frappe.

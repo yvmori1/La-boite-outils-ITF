@@ -51,6 +51,7 @@ Alors que le *Dung Joomuk Taerigi* général peut s'effectuer vers l'avant ou en
 
 > **Vitesse fulgurante sur les angles morts :**
 > Le *Dung Joomuk Yop Taerigi* exploite l'articulation du coude comme un fouet pour frapper dans l'angle mort :
+>
 > 1. **Cibles vitales latérales :** Il vise en priorité la tempe (*Gwanja Noryeok*), l'articulation de la mâchoire (*G[턱](../audio/termes/턱.m4a)* / *Jaw*) ou le nerf facial/carotide.
 > 2. **Esquive et contre simultané :** En sortant de l'axe d'attaque adverse par un pas latéral (*Step-side*), cette frappe permet de punir l'agresseur au visage pendant qu'il charge en ligne droite.
 > 3. **Effet de surprise :** La trajectoire venant du flanc passe en dessous ou autour de la vision périphérique de l'adversaire.

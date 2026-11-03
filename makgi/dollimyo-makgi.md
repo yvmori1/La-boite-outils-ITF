@@ -55,6 +55,7 @@ Selon la variante et la cible interceptée, le *Dollimyo Makgi* s'exécute princ
 
 > **L'art de rediriger la force adverse :**
 > Le *Dollimyo Makgi* est l'un des exemples les plus purs du principe de taichido / absorption en ITF :
+>
 > 1. **Absorption sans choc :** Ne nécessite pas une grande force physique car il ne percute pas l'attaque de face.
 > 2. **Déséquilibre massif :** En soulevant ou déviant la jambe d'un adversaire qui porte un *Ap Chagi*, vous supprimez son unique appui au sol, ce qui le laisse totalement vulnérable à une contre-attaque (*Jirugi* ou balayage).
 

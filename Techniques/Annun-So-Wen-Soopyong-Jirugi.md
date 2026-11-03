@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe directe à structure rigide et transfert de force horizontal :**
+>
 > 1. **Optimisation du transfert de masse :** En maintenant la trajectoire sur un plan strictement horizontal (*Soopyong*), l'onde de choc est transmise directement sans perte d'énergie vers le haut ou vers le bas.
 > 2. **Pénétration à travers la garde :** Le piston horizontal permet de s'infiltrer directement dans les failles centrales de la garde adverse pour frapper le plexus solaire ou le visage.
 > 3. **Ancrage inébranlable en *Annun Sogi* :** La largeur de la posture du cavalier absorbe intégralement la force de recul générée par le choc frontal, maintenant l'exécutant parfaitement stable.

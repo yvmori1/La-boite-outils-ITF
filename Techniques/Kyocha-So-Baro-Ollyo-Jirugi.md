@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe surprise en déplacement et rupture de garde :**
+>
 > 1. **Uppercut en esquive ou déplacement rapide :** La posture croisée (**Kyocha Sogi**) permet de se rapprocher soudainement de l'adversaire ou de casser la distance sur une esquive latérale pour glisser un uppercut sous sa garde.
 > 2. **Changement d'axe explosif :** Le croisement des jambes permet de pivoter ou de jaillir tout en délivrant une frappe montante très difficile à anticiper.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des frappes ascendantes et des enchaînements en posture croisée dans divers patrons du Taekwon-Do ITF (notamment dans **Eul-Ji Tul**, **Po-Eun Tul** ou **Ge-Baek Tul**).

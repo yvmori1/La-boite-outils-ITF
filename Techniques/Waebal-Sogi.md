@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Esquive par retrait de membre, proprioception et transition offensive :**
+>
 > 1. **Esquive d'attaque basse (Retrait de jambe) :** Le *Waebal Sogi* permet de retirer instantanément la jambe avant pour esquiver un balayage, une fauchée ou un coup de pied bas (*Low-kick*) sans avoir à reculer l'ensemble du corps.
 > 2. **Développement de la proprioception :** Renforce considérablement les ligaments de la cheville d'appui, les muscles stabilisateurs du bassin et la conscience de l'axe vertical.
 > 3. **Préparation d'attaque haut niveau :** Sert de position de transition ou d'armer haut pour décocher immédiatement un coup de pied direct, latéral ou circulaire sans réajustement d'appui au sol.

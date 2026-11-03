@@ -54,10 +54,11 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Contourner la garde frontale à courte distance :**
+>
 > 1. **Percer une garde fermée :** Contrairement à un coup de poing rectiligne classique (*Ap Jirugi*) qui vient de face, le *Giokja Jirugi* arrive par un angle latéral à 90°, ce qui permet de passer entre ou autour des avant-bras d'un adversaire en garde.
 > 2. **Différence entre *Giokja Jirugi* et *Dollyo Jirugi* (Crochet) :**
->   * **Dollyo Jirugi (Crochet) :** Trajectoire circulaire fluide.
->   * **Giokja / C-Bang Jirugi :** Trajectoire géométrique d'équerre, verrouillée avec un coude à 90° et un avant-bras strictement parallèle au thorax.
+>     * **Dollyo Jirugi (Crochet) :** Trajectoire circulaire fluide.
+>     * **Giokja / C-Bang Jirugi :** Trajectoire géométrique d'équerre, verrouillée avec un coude à 90° et un avant-bras strictement parallèle au thorax.
 > 3. **Puissance de torsion en *Annun Sogi* :** L'ancrage large en cavalier permet d'imprimer une force de rotation de la ceinture scapulaire extrêmement compacte et dévastatrice à courte distance.
 
 ---

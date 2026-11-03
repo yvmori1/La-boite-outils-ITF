@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe explosive à courte distance et soulèvement de garde :**
+>
 > 1. **Puissance de hanche (*Baro*) :** Utiliser le bras de la jambe arrière (**Baro**) permet de transmettre toute la rotation du bassin et la poussée de la jambe arrière dans la trajectoire verticale.
 > 2. **Infiltration sous le menton :** La trajectoire verticale monte entre les bras de l'adversaire pour cueillir la pointe du menton ou la gorge.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette technique dans des patrons comme **Kwang-Gae Tul** (mouvement 30) et **Ge-Baek Tul** (mouvement 35).

@@ -49,6 +49,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Déstabilisation de garde, effet surprise et attaque aux points vitaux :**
+>
 > 1. **Trajectoire feintée :** L'amorce axiale fait croire à un coup de pied direct (*Ap Chagi*), incitant l'adversaire à fermer sa garde centrale. La vrille soudaine vers l'extérieur (**Bituro**) contourne les bras et s'infiltre dans les failles latérales ou au bas-ventre.
 > 2. **Cibles sensibles au niveau bas (*Najunde*) :** Un coup de pied tordu bas est très difficile à bloquer, car la jambe passe sous les coudes de l'adversaire pour toucher l'aine ou la vessie.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des coups de pied tordus (*Bituro Chagi*) dans plusieurs formes avancées du Taekwon-Do ITF, notamment dans **Juche Tul** ou **Yoo-Sin Tul**.

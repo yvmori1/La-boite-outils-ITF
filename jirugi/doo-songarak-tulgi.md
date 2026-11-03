@@ -58,6 +58,7 @@ Pour transformer la main en une arme perforante efficace sans se blesser :
 ## 4. Intérêt tactique en Self-Défense (*Hosinsul*)
 
 > **L'égaliseur ultime en situation de légitime défense :**
+>
 > 1. **Indépendant de la masse musculaire :** Même face à un agresseur deux fois plus lourd ou physiquement plus puissant, un *Doo Songarak Tulgi* au visage neutralise immédiatement la menace.
 > 2. **Effet de surprise et rupture d'engagement :** Permet de créer une opportunité de fuite ou de transition vers un dégagement de saisie en aveuglant momentanément l'agresseur.
 

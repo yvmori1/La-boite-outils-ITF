@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Dévitation incisive, casse-structure et transition rapide :**
+>
 > 1. **Solidité de la tranche intérieure :** Contrairement au tranchant classique (*Sonkal* — côté petit doigt), le revers du tranchant (**Sonkal Dung**) offre une arête osseuse très courte et dense soutenue par le métacarpe de l'index, idéale pour dévier les coups de poing ou de pied directs au corps sans risquer de se faire tordre les doigts.
 > 2. **Effet traumatique sur le membre adverse :** Frapper l'avant-bras ou le tibia de l'adversaire avec l'arête de l'index cause une vive douleur, cassant le rythme de son attaque.
 > 3. **Différence avec la version en garde (*Daebi*) :** Ici, le second bras est tiré à la hanche (*Heori*), ce qui génère une puissance de rotation maximale tout en libérant le bras arrière pour une contre-attaque immédiate (ex: *Jirugi* ou *Tulgi*).

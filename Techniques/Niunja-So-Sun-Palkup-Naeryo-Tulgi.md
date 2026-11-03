@@ -25,17 +25,17 @@ Elle se traduit par : **Pousser / pique descendante du coude vertical en positio
 Cette technique associe la force de gravité au verrouillage de la position en L pour enfoncer le coude verticalement sur la cible :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-   * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
-   * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
-   * Les talons sont alignés sur la même ligne de référence.
+    * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
+    * Les talons sont alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**
-   * Le coude d'attaque monte haut (au-dessus du niveau de l'épaule ou de la tête), l'avant-bras positionné à la verticale, poing fermé.
-   * L'autre main (main de réaction ou de contrôle) s'étend vers l'avant pour fixer ou attraper l'adversaire (par la tête, l'épaule ou le col).
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
+    * Le coude d'attaque monte haut (au-dessus du niveau de l'épaule ou de la tête), l'avant-bras positionné à la verticale, poing fermé.
+    * L'autre main (main de réaction ou de contrôle) s'étend vers l'avant pour fixer ou attraper l'adversaire (par la tête, l'épaule ou le col).
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la poussée descendante (*Sun Palkup Naeryo Tulgi*) :**
-   * En s'enfonçant brusquement dans la posture en L, le coude s'abat verticalement (**Naeryo**) de haut en bas comme un marteau-piqueur.
-   * L'avant-bras reste strictement aligné dans un plan vertical (**Sun**), concentrant tout le poids du haut du corps et la gravité sur la pointe du coude (**Palkup**).
-   * L'impact se produit simultanément avec le verrouillage final de la descente du bassin en position *Niunja Sogi*.
+    * En s'enfonçant brusquement dans la posture en L, le coude s'abat verticalement (**Naeryo**) de haut en bas comme un marteau-piqueur.
+    * L'avant-bras reste strictement aligné dans un plan vertical (**Sun**), concentrant tout le poids du haut du corps et la gravité sur la pointe du coude (**Palkup**).
+    * L'impact se produit simultanément avec le verrouillage final de la descente du bassin en position *Niunja Sogi*.
 
 ---
 

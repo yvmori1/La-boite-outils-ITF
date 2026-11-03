@@ -60,6 +60,7 @@ Dans une posture symétrique comme la posture du cavalier (*Annun Sogi*), où le
 ## 3. Intérêt tactique et Application
 
 > **Transfert de force rotative sur base fixe :**
+>
 > 1. **Puissance de torsion (*Rotational Power*) :** En *Annun Sogi*, le bassin est verrouillé face à l'avant. Frapper en *Bandae Jirugi* oblige le haut du corps à développer une torsion extrême contre la résistance des hanches et de l'ancrage au sol, générant une force d'impact considérable.
 > 2. **Stabilité contre la poussée :** La posture du cavalier offre une base très large et basse, rendant le pratiquant quasiment inébranlable face à une charge frontale tout en délivrant sa contre-attaque.
 

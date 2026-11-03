@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe double asphyxiante et pincement de zones névralgiques :**
+>
 > 1. **Attaque simultanée des carotides (*Double Carotid Strike*) :** Frapper les deux côtés du cou en même temps avec le tranchant des deux mains (**Sang Sonkal**) provoque un traumatisme vasculaire direct (réflexe vagal) entraînant un K.O. immédiat.
 > 2. **Dégagement de garde et frappe combinée :** Permet de balayer les bras d'un agresseur ou de contourner sa garde frontale pour impacter les flancs de sa tête ou de son buste.
 > 3. **Puissance bilatérale symétrique :** Exécutée de face (*Jeongmyon*), cette technique concentre toute la force de descente de la posture de marche (*Gunnun Sogi*) dans les deux bras sans décalage de hanche.

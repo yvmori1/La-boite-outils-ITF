@@ -53,6 +53,7 @@ Le *Yobap Makgi* s'adapte à différentes armes naturelles et hauteurs (*Nopunde
 
 > **Protection des angles morts à 45° :**
 > En combat réel, les attaques n'arrivent pas toujours en ligne droite parfaite :
+>
 > 1. **Neutraliser les trajectoires courbes :** Le *Yobap Makgi* permet d'intercepter les coups de poing croisés (*Hook/Crochet*) ou les coups de pied circulaires (*Dollyo Chagi*) qui contournent la garde frontale classique.
 > 2. **Gestion de la garde de trois-quarts (*Half-facing*) :** Lorsque vous adoptez une posture de combat de profil ou de trois-quarts, ce blocage couvre l'espace intermédiaire sans nécessiter une rotation exagérée des épaules.
 

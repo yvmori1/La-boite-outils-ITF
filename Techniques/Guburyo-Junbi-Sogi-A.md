@@ -59,6 +59,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Chambre de compression haute et déclenchement éclair du coup de pied latéral :**
+>
 > 1. **Armement idéal pour le coup de pied latéral (*Yop Cha Jirugi*) :** En maintenant le pied à hauteur du genou (*Variante A*), la jambe est déjà fléchie à mi-chemin de sa trajectoire. Cela réduit considérablement le temps de détente nécessaire pour propulser le talon vers le visage ou le thorax de l'adversaire.
 > 2. **Effet ressort et transfert de masse :** La forte flexion du genou d'appui permet une extension explosive de la jambe de terre lors de la frappe, combinant l'extension de la jambe de frappe et la poussée de la jambe d'appui.
 > 3. **Protection contre les attaques basses :** Le retrait de la jambe à hauteur de genou met le membre inférieur totalement hors d'atteinte d'un balayage, d'un low-kick ou d'une tentative de tacle direct.

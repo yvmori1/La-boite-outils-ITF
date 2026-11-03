@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Déviation en douceur, amorti d'impact et contrôle de membre :**
+>
 > 1. **Protection de la main contre surfaces dures :** Contrairement à un blocage avec le tranchant du bras (*Bakat Palmok*), l'utilisation de la paume de la main (*Sonbadak*) permet d'intercepter un coup de pied bas lourd (*Ap Chagi*) sans risquer de choquer directement un os contre un tibia.
 > 2. **Déséquilibre de l'adversaire :** L'action de presser vers le bas (*Noollo*) détourne la trajectoire de la jambe ou du bras de l'agresseur vers le sol, cassant son soutien et le mettant en position de vulnérabilité.
 > 3. **Puissance issue du transfert *Bandae* :** L'engagement de la hanche arrière (du côté de la main qui presse) combiné à la chute de masse du corps donne une grande force d'écrasement sans nécessiter une grande force musculaire dans le bras.
