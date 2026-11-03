@@ -44,7 +44,7 @@
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
 11. Tirer le pied gauche vers le pied droit tout en amenant la paume gauche vers le devant du poing droit, tout en pliant le coude droit environ 45 degrés vers l'extérieur.
 12. Exécuter un coup de pied latéral perçant moyen vers D avec le pied droit tout en tirant les deux mains dans la direction opposée puis l'abaisser vers D pour former une position en L gauche vers D, tout en exécutant une frappe extérieure moyenne vers D avec le tranchant de la main droite.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md), [niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md), [niunja so sonkal kaunde bakuro taerigi](../Techniques/Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md))*
 13. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
 14. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
@@ -52,7 +52,7 @@
 15. Déplacer le pied gauche vers E en tournant dans le sens anti-horaire pour former une position en L droite vers E tout en exécutant un blocage de garde moyen vers E avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 16. Déplacer le pied droit vers E pour former une position de marche droite vers E tout en exécutant une pique moyenne vers E avec le bout des doigts droit.
-   *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Sun-Sonkut-Kaunde-Tulgi.md))*
+   *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.md))*
 17. Déplacer le pied droit sur la ligne EF pour former une position en L droite vers F tout en exécutant un blocage de garde moyen vers F avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 18. Exécuter un coup de pied circulaire haut vers DF avec le pied droit puis l'abaisser vers F.

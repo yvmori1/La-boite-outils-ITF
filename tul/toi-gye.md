@@ -42,7 +42,7 @@
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
    > *Exécuter 7 et 8 en mouvement continu.*
 9. Exécuter un coup de pied avant fouetté moyen vers D avec le pied droit, en gardant les mains dans la position du mouvement 8.
-   *([Kaunde apcha busigi](../chagi/apcha-busigi.md))*
+   *([Kaunde apcha busigi](../Techniques/Kaunde-Apcha-Busigi.md))*
 10. Abaisser le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
 11. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position de marche droite vers D.
@@ -90,15 +90,15 @@
 31. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde bas vers B avec le tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 32. Exécuter un blocage circulaire vers BD avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers B, en glissant le pied gauche vers B.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 33. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A, tout en exécutant un blocage de garde bas vers A avec le tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 34. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur gauche tout en formant une position de marche droite vers A, en glissant le pied droit vers A.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 35. Exécuter un blocage circulaire vers CE avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers CE.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 36. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur gauche tout en formant une position de marche droite vers A.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 37. Déplacer le pied droit sur la ligne AB pour former une position assise vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Annun so orun joomuk kaunde jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 

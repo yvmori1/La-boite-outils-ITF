@@ -47,33 +47,33 @@
 12. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing renversé vers D avec les poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 13. Déplacer le pied droit sur la ligne CD puis tourner dans le sens anti-horaire pour former une position de marche gauche vers C tout en exécutant un blocage montant avec les poings croisés.
-   *([Gunnun so kyocha joomuk chookyo makgi](../makgi/chookyo-makgi.md))*
+   *([Gunnun so kyocha joomuk chookyo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Chookyo-Makgi.md))*
 14. Déplacer le pied gauche vers E pour former une position en L droite vers E tout en exécutant une frappe latérale haute vers E avec le revers du poing gauche.
    *([Niunja so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 15. Pivoter le poing gauche dans le sens anti-horaire jusqu'à ce que son revers soit tourné vers le bas, tout en formant une position de marche gauche vers E, en glissant le pied gauche vers E.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 16. Exécuter un coup de poing haut vers E avec le poing droit tout en maintenant une position de marche gauche vers E.
-   *([gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
+   *([gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Bandae-Jirugi.md))*
    > *Exécuter 15 et 16 en mouvement rapide.*
 17. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers F, pour former une position en L gauche vers F tout en exécutant une frappe latérale haute vers F avec un revers du poing droit.
    *([Niunja so dung joomuk nopunde yop taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 18. Pivoter le poing droit dans le sens horaire jusqu'à ce que son revers soit tourné vers le bas, tout en formant une position de marche droite vers F, en glissant le pied droit vers F.
    *([Gunnun so jappyosul tae](../Techniques/Gunnun-So-Jappyosul-Tae.md))*
 19. Exécuter un coup de poing haut vers F avec le poing gauche tout en maintenant une position de marche droite vers F.
-   *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Jirugi.md))*
+   *([Gunnun so nopunde bandae jirugi](../Techniques/Gunnun-So-Nopunde-Bandae-Jirugi.md))*
    > *Exécuter 18 et 19 en mouvement rapide.*
 20. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage haut vers C avec le double avant-bras gauche.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 21. Exécuter un coup de poing moyen vers C avec le poing gauche tout en formant une position en L droite vers C, en tirant le pied gauche.
    *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 22. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 23. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage haut vers C avec le double avant-bras droit.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 24. Exécuter un coup de poing moyen vers C avec le poing droit tout en formant une position en L gauche vers C, en tirant le pied droit.
    *([Niunja so kaunde yop jirugi](../Techniques/Niunja-So-Kaunde-Yop-Jirugi.md))*
 25. Exécuter un coup de pied latéral perçant moyen vers C avec le pied gauche.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 26. Abaisser le pied gauche vers C pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 27. Exécuter un blocage en pression avec la paume droite tout en formant une position basse gauche vers C, en glissant le pied gauche vers C.
