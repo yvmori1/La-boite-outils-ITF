@@ -23,7 +23,7 @@
 ### Posture de départ : position parallèle avec les dos des mains croisés
 
 1. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe horizontale avec les côtés des poings jumelés.
-   *(Gunnun so sang yop joomuk soopyong taerigi)*
+   *([Gunnun so sang yop joomuk soopyong taerigi](../Techniques/Gunnun-So-Sang-Yop-Joomuk-Soopyong-Taerigi.md))*
 2. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un blocage en pression avec les poings croisés.
    *([Gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 3. Exécuter un blocage montant avec les tranchants des mains croisées tout en maintenant une position de marche gauche vers D.

@@ -41,7 +41,7 @@
 8. Abaisser le pied gauche vers F en un mouvement étampé pour former une position assise vers B tout en exécutant un cisaillage horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, vers F.
    *([Annun so wen opun sonkut nopunde bakuro ghutgi](../Techniques/Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md))*
 9. Exécuter une frappe haute du coude droit vers BF pressant le côté du poing droit avec la paume gauche tout en formant une position de marche gauche vers BF.
-   *(Gunnun so nopun palkup bandae taerigi)*
+   *([Gunnun so nopun palkup bandae taerigi](../Techniques/Gunnun-So-Nopun-Palkup-Bandae-Taerigi.md))*
 10. Croiser le pied gauche par-dessus le pied droit pour former une position en X droite vers B tout en exécutant un blocage frontal bas vers B avec le revers de la main gauche, en amenant la pulpe des doigts de la main droite sur l'arrière de l'avant-bras gauche.
    *([Kyocha so sonkal dung najunde bandae ap makgi](../makgi/ap-makgi.md))*
 11. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec le tranchant de la main.
@@ -68,7 +68,7 @@
 20. Abaisser le pied droit vers E en un mouvement étampé pour former une position assise vers A tout en exécutant un cisaillage horizontal du bout des doigts droit vers l'extérieur, au niveau haut, vers E.
    *([Annun so orun opun sonkut nopunde bakuro ghutgi](../Techniques/Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md))*
 21. Exécuter une frappe haute du coude gauche vers AE pressant le côté du poing gauche avec la paume droite tout en formant une position de marche droite vers AE.
-   *(Gunnun so nopun palkup bandae taerigi)*
+   *([Gunnun so nopun palkup bandae taerigi](../Techniques/Gunnun-So-Nopun-Palkup-Bandae-Taerigi.md))*
 22. Croiser le pied droit par-dessus le pied gauche pour former une position en X gauche vers A tout en exécutant un blocage frontal bas vers A avec le revers de la main droite, en amenant la pulpe des doigts de la main gauche sur l'arrière de l'avant-bras droit.
    *([Kyocha so sonkal dung najunde bandae ap makgi](../makgi/ap-makgi.md))*
 23. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec le tranchant de la main.
@@ -84,13 +84,13 @@
 27. Glisser vers C pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant une pique descendante avec le coude droit.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 28. Exécuter une frappe semi-circulaire haute avec la main arquée gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
-   *(Gunnun so bandal son nopunde bandae bandal taerigi)*
+   *([Gunnun so bandal son nopunde bandae bandal taerigi](../Techniques/Gunnun-So-Bandal-Son-Nopunde-Bandae-Bandal-Taerigi.md))*
 29. Glisser vers C pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant une pique descendante avec le coude gauche.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 30. Exécuter une frappe semi-circulaire haute avec la main arquée droite tout en formant une position de marche gauche vers D, en glissant le pied gauche.
-   *(Gunnun so bandal son nopunde bandae bandal taerigi)*
+   *([Gunnun so bandal son nopunde bandae bandal taerigi](../Techniques/Gunnun-So-Bandal-Son-Nopunde-Bandae-Bandal-Taerigi.md))*
 31. Déplacer le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe intérieure haute vers D avec un double tranchant de la main.
-   *(Gunnun so sang sonkal nopunde anuro taerigi)*
+   *([Gunnun so sang sonkal nopunde anuro taerigi](../Techniques/Gunnun-So-Sang-Sonkal-Nopunde-Anuro-Taerigi.md))*
 32. Déplacer le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un coup de poing descendant avec le poing droit.
    *([Gunnun so bandae naeryo jirugi](../jirugi/naeryo-jirugi.md))*
 33. Déplacer le pied gauche derrière le pied droit puis glisser vers C pour former une position en L droite vers D tout en exécutant un blocage descendant avec l'avant-bras extérieur gauche.

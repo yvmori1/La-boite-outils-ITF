@@ -47,7 +47,7 @@
 11. Exécuter un coup de pied latéral perçant moyen vers C avec le pied gauche tout en tournant dans le sens horaire en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 12. Abaisser le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un coup de poing semi-circulaire haut avec le poing droit.
-   *(Gunnun so nopunde bandae bandal jirugi)*
+   *([Gunnun so nopunde bandae bandal jirugi](../Techniques/Gunnun-So-Nopunde-Bandae-Bandal-Jirugi.md))*
 13. Exécuter un coup de poing circulaire moyen avec le poing gauche tout en formant une position parallèle vers C en tirant le pied droit.
    *([Narani so wen joomuk kaunde dollyo jirugi](../Techniques/Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md))*
    > *Exécuter en mouvement lent.*
@@ -76,7 +76,7 @@
 24. Exécuter un coup de pied latéral perçant moyen vers D avec le pied droit tout en tournant dans le sens anti-horaire en tirant les deux mains dans la direction opposée.
    *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 25. Abaisser le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing semi-circulaire haut avec le poing gauche.
-   *(Gunnun so nopunde bandae bandal jirugi)*
+   *([Gunnun so nopunde bandae bandal jirugi](../Techniques/Gunnun-So-Nopunde-Bandae-Bandal-Jirugi.md))*
 26. Exécuter un coup de poing circulaire moyen avec le poing droit tout en formant une position parallèle vers D en tirant le pied gauche.
    *([Narani so orun joomuk kaunde dollyo jirugi](../Techniques/Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md))*
    > *Exécuter en mouvement lent.*

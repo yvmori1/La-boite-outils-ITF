@@ -23,11 +23,11 @@
 1. Glisser vers C pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 2. Exécuter un coup de poing vertical moyen vers D avec le poing droit tout en formant une position de marche gauche vers D, en glissant le pied gauche.
-   *(Gunnun so kaunde bandae sewo jirugi)*
+   *([Gunnun so kaunde bandae sewo jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Sewo-Jirugi.md))*
 3. Glisser vers C pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Dwitbal so palmok kaunde daebi makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md))*
 4. Exécuter un coup de poing vertical moyen vers D avec le poing gauche tout en formant une position de marche droite vers D, en glissant le pied droit.
-   *(Gunnun so kaunde bandae sewo jirugi)*
+   *([Gunnun so kaunde bandae sewo jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Sewo-Jirugi.md))*
 5. Exécuter un blocage latéral haut vers BC avec le tranchant de la main droite tout en formant une position de marche gauche vers BC.
    *([Gunnun so sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
 6. Exécuter un coup de poing moyen vers BD avec le poing gauche tout en formant une position assise vers BD.
@@ -98,7 +98,7 @@
 34. Exécuter un double blocage moyen des mains arquées vers BC tout en formant une position de marche gauche vers BC et en regardant à travers les mains.
    *([Gunnun so kaunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
 35. Exécuter une frappe intérieure haute vers BC avec le tranchant de la main droite et en amenant le côté du poing gauche devant l'épaule droite tout en maintenant une position de marche gauche vers BC.
-   *(Gunnun so sonkal nopunde bandae anuro taerigi)*
+   *([Gunnun so sonkal nopunde bandae anuro taerigi](../Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Anuro-Taerigi.md))*
 36. Exécuter un blocage circulaire vers BD avec l'avant-bras intérieur gauche tout en formant une position de marche droite vers D.
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
 37. Exécuter un coup de poing haut vers D avec le poing droit tout en maintenant une position de marche droite vers D.
@@ -115,7 +115,7 @@
 42. Exécuter un double blocage moyen des mains arquées vers AC tout en formant une position de marche droite vers AC et en regardant à travers les mains.
    *([Gunnun so kaunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
 43. Exécuter une frappe intérieure haute vers AC avec le tranchant de la main gauche et en amenant le côté du poing droit devant l'épaule gauche tout en maintenant une position de marche droite vers AC.
-   *(Gunnun so sonkal nopunde bandae anuro taerigi)*
+   *([Gunnun so sonkal nopunde bandae anuro taerigi](../Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Anuro-Taerigi.md))*
 44. Exécuter un blocage circulaire vers AD avec l'avant-bras intérieur droit tout en formant une position de marche gauche vers D.
    *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
 45. Exécuter un coup de poing haut vers D avec le poing gauche tout en maintenant une position de marche gauche vers D.
