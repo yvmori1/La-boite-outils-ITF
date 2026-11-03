@@ -22,7 +22,7 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — 지르기 | 21 |
 | [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 296 |
 | [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), avec les exigences par grade | 6 |
-| [Theorie](Theorie/README.md) | Le manuel complet, le guide du combat, les examens théoriques, les analyses et le programme de session | 5 |
+| [Theorie](Theorie/README.md) | Le manuel complet, le glossaire coréen-français, le guide du combat, les examens théoriques, les analyses et le programme de session | 6 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 41 |
 
 ---
@@ -35,7 +35,7 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 **Si vous cherchez une technique précise** → l'index du répertoire correspondant ([chagi](chagi/README.md), [makgi](makgi/README.md), [jirugi](jirugi/README.md)) classe les fiches par famille de mouvement, avec le nom français en regard du nom coréen.
 
-**Si vous cherchez un terme coréen** → l'[annexe A du manuel](Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) (français – anglais – coréen, avec la prononciation) et sa [partie III](Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) pour les règles de construction des noms de techniques.
+**Si vous cherchez un terme coréen** → le [glossaire coréen-français](Theorie/glossaire-coreen-francais.md) (chaque mot avec son hangul, sa traduction et une courte définition), l'[annexe A du manuel](Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) (français – anglais – coréen, avec la prononciation) et sa [partie III](Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) pour les règles de construction des noms de techniques.
 
 **Si vous travaillez une forme** → [tul/README.md](tul/README.md) mène à la fiche de chaque forme (mouvement par mouvement) ; la [partie VI du manuel](Theorie/manuel-taekwon-do.md#partie-vi--les-formes-tul) en donne le sens et l'histoire.
 

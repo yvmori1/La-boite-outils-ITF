@@ -26,6 +26,10 @@ aux fiches de technique unitaires des autres répertoires.
 | Annexe A | Lexique trilingue français – anglais – coréen |
 | Annexe B | Distances de saut dans les formes |
 
+## Le glossaire
+
+* [glossaire-coreen-francais.md](glossaire-coreen-francais.md) — les mots coréens du Taekwon-Do ITF, classés par thème : hangul, traduction française, courte définition et lien vers la prononciation quand elle existe.
+
 ## Fiches versées au manuel
 
 Quatre documents ont été fondus dans le manuel puis supprimés ; voici où leur
