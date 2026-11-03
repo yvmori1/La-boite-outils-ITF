@@ -87,7 +87,7 @@
 25. Glisser vers C pour former une position arrière rapprochée sur la jambe droite vers D tout en exécutant un blocage descendant avec la paume gauche.
    *([Dwitbal so sonbadak bandae naeryo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md))*
 26. Exécuter un coup de pied avant fouetté latéral moyen vers D avec le pied gauche en gardant les mains dans la position du mouvement 25.
-   *(Kaunde yobap cha busigi)*
+   *([Kaunde yobap cha busigi](../Techniques/Kaunde-Yobap-Cha-Busigi.md))*
 27. Abaisser le pied gauche vers D puis déplacer le pied droit vers C en un mouvement étampé pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers C avec le côté du poing droit.
    *([Annun so orun yop joomuk kaunde yop taerigi](../Techniques/Annun-So-Orun-Yop-Joomuk-Kaunde-Yop-Taerigi.md))*
 28. Glisser vers C en maintenant une position assise vers A tout en exécutant un blocage en levant avec la paume gauche.
@@ -106,7 +106,7 @@
 34. Glisser vers D pour former une position arrière rapprochée sur la jambe gauche vers C tout en exécutant un blocage descendant avec la paume droite.
    *([Dwitbal so sonbadak bandae naeryo makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md))*
 35. Exécuter un coup de pied avant fouetté latéral moyen vers C avec le pied droit en gardant les mains dans la position du mouvement 34.
-   *(Kaunde yobap cha busigi)*
+   *([Kaunde yobap cha busigi](../Techniques/Kaunde-Yobap-Cha-Busigi.md))*
 36. Abaisser le pied droit vers C puis déplacer le pied gauche vers D en un mouvement étampé pour former une position assise vers A tout en exécutant une frappe latérale moyenne vers D avec le côté du poing gauche.
    *([Annun so wen yop joomuk kaunde yop taerigi](../Techniques/Annun-So-Wen-Yop-Joomuk-Kaunde-Yop-Taerigi.md))*
 37. Glisser vers D en maintenant une position assise vers A tout en exécutant un blocage en levant avec la paume droite.
@@ -125,13 +125,13 @@
 43. Déplacer le pied gauche vers D puis exécuter un coup de pied vrillé haut vers AD avec le pied droit.
    *([Nopunde bituro chagi](../chagi/bituro-chagi.md))*
 44. Abaisser le pied droit vers C pour former une position de marche gauche vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing droit et en étendant le poing gauche vers D.
-   *(Gunnun so dung joomuk bandae yopdwi taerigi)*
+   *([Gunnun so dung joomuk bandae yopdwi taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Yopdwi-Taerigi.md))*
 45. Exécuter une frappe frontale vers D avec le revers du poing droit tout en décalant vers C en maintenant une position de marche gauche vers D.
    *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
 46. Déplacer le pied droit vers D puis exécuter un coup de pied vrillé haut vers BD avec le pied gauche.
    *([Nopunde bituro chagi](../chagi/bituro-chagi.md))*
 47. Abaisser le pied gauche vers C pour former une position de marche droite vers D tout en exécutant une frappe arrière latérale vers C avec le revers du poing gauche et en étendant le poing droit vers D.
-   *(Gunnun so dung joomuk bandae yopdwi taerigi)*
+   *([Gunnun so dung joomuk bandae yopdwi taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Yopdwi-Taerigi.md))*
 48. Exécuter une frappe frontale vers D avec le revers du poing gauche tout en décalant vers C en maintenant une position de marche droite vers D.
    *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
 49. Exécuter un coup de pied balayé vers D avec le tranchant de la plante du pied gauche en gardant les mains dans la position du mouvement 48 puis l'abaisser vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.

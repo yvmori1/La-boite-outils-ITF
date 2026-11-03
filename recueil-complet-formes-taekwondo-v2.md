@@ -379,8 +379,8 @@ Ce recueil technique réunit l'ensemble des 24 formes (Tuls) officielles créée
 23. Déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing droit (Niunja So Kaunde Baro Jirugi).
 24. Exécuter un blocage pressant avec les poignets croisés en X tout en formant une position de marche gauche vers C en glissant le pied gauche (Gunnun So Kyocha Joomuk Noollo Makgi).
 25. Déplacer le pied droit vers C dans un mouvement glissé pour former une position en L droite vers D tout en frappant vers C avec le coude latéral droit (Niunja So Yop Palkup Tulgi).
-26. Ramener le pied gauche vers le pied droit en tournant dans le sens anti-horaire pour former une position fermée vers B tout en exécutant un blocage frontal latéral avec l'avant-bras intérieur droit et en étendant l'avant-bras gauche vers le bas de côté (Moa So Orun Anpalmok Yobap Makgi).
-27. Exécuter un blocage frontal latéral avec l'avant-bras intérieur gauche et étendre l'avant-bras droit vers le bas de côté tout en maintenant la position fermée vers B (Moa So Wen Anpalmok Yobap Makgi).
+26. Ramener le pied gauche vers le pied droit en tournant dans le sens anti-horaire pour former une position fermée vers B tout en exécutant un blocage frontal latéral avec l'avant-bras intérieur droit et en étendant l'avant-bras gauche vers le bas de côté (Moa So Orun An Palmok Yobap Makgi).
+27. Exécuter un blocage frontal latéral avec l'avant-bras intérieur gauche et étendre l'avant-bras droit vers le bas de côté tout en maintenant la position fermée vers B (Moa So Wen An Palmok Yobap Makgi).
 28. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
 29. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec le tranchant de la main (Niunja So Sonkal Kaunde Daebi Makgi).
 
@@ -499,9 +499,9 @@ Ce recueil technique réunit l'ensemble des 24 formes (Tuls) officielles créée
 3. Exécuter un coup de pied pressant vers A avec le pied droit, en conservant la position des mains du mouvement 2 (Bakuro Noollo Chagi).
 4. Poser le pied droit au sol vers A pour former une position assise vers D tout en exécutant une frappe de côté moyenne vers A avec le tranchant de la main droite (Annun So Orun Sonkal Kaunde Yop Taerigi).
 5. Exécuter un coup de poing angulaire avec le poing gauche tout en maintenant la position assise vers D (Annun So Wen Joomuk Giokja Jirugi).
-6. Exécuter un blocage pressant avec le poing gauche et un blocage frontal latéral avec l'avant-bras intérieur droit tout en maintenant la position assise vers D (Annun So Wen Ap Joomuk Noollo Makgi wa Orun Anpalmok Yobap Makgi).
-7. Exécuter un blocage pressant avec le poing droit et un blocage frontal latéral avec l'avant-bras intérieur gauche tout en maintenant la position assise vers D (Annun So Orun Ap Joomuk Noollo Makgi wa Wen Anpalmok Yobap Makgi).
-8. Exécuter un blocage en coin moyen avec l'avant-bras intérieur tout en maintenant la position assise vers D (Annun So Anpalmok Kaunde Hechyo Makgi).
+6. Exécuter un blocage pressant avec le poing gauche et un blocage frontal latéral avec l'avant-bras intérieur droit tout en maintenant la position assise vers D (Annun So Wen Ap Joomuk Noollo Makgi wa Orun An Palmok Yobap Makgi).
+7. Exécuter un blocage pressant avec le poing droit et un blocage frontal latéral avec l'avant-bras intérieur gauche tout en maintenant la position assise vers D (Annun So Orun Ap Joomuk Noollo Makgi wa Wen An Palmok Yobap Makgi).
+8. Exécuter un blocage en coin moyen avec l'avant-bras intérieur tout en maintenant la position assise vers D (Annun So An Palmok Kaunde Hechyo Makgi).
 9. Frapper vers C avec le coude arrière droit en soutenant le poing droit avec la paume gauche, en gardant le visage vers l'avant, tout en maintenant la position assise vers D (Annun So Orun Dwit Palkup Tulgi).
 10. Exécuter un coup de poing moyen vers D avec le poing droit, faisant glisser la paume gauche jusqu'à l'articulation du coude droit tout en maintenant la position assise vers D (Annun So Orun Joomuk Kaunde Jirugi).
 11. Frapper vers C avec le coude arrière gauche en soutenant le poing gauche avec la paume droite, en gardant le visage vers l'avant, tout en maintenant la position assise vers D (Annun So Wen Dwit Palkup Tulgi).
@@ -517,9 +517,9 @@ Ce recueil technique réunit l'ensemble des 24 formes (Tuls) officielles créée
 21. Exécuter un coup de pied pressant vers B avec le pied gauche, en conservant la position des mains du mouvement 20 (Bakuro Noollo Chagi).
 22. Poser le pied gauche au sol vers B pour former une position assise vers D tout en exécutant une frappe de côté moyenne vers B avec le tranchant de la main gauche (Annun So Wen Sonkal Kaunde Yop Taerigi).
 23. Exécuter un coup de poing angulaire avec le poing droit tout en maintenant la position assise vers D (Annun So Orun Joomuk Giokja Jirugi).
-24. Exécuter un blocage pressant avec le poing droit et un blocage frontal latéral avec l'avant-bras intérieur gauche tout en maintenant la position assise vers D (Annun So Orun Ap Joomuk Noollo Makgi wa Wen Anpalmok Yobap Makgi).
-25. Exécuter un blocage pressant avec le poing gauche et un blocage frontal latéral avec l'avant-bras intérieur droit tout en maintenant la position assise vers D (Annun So Wen Ap Joomuk Noollo Makgi wa Orun Anpalmok Yobap Makgi).
-26. Exécuter un blocage en coin moyen avec l'avant-bras intérieur tout en maintenant la position assise vers D (Annun So Anpalmok Kaunde Hechyo Makgi).
+24. Exécuter un blocage pressant avec le poing droit et un blocage frontal latéral avec l'avant-bras intérieur gauche tout en maintenant la position assise vers D (Annun So Orun Ap Joomuk Noollo Makgi wa Wen An Palmok Yobap Makgi).
+25. Exécuter un blocage pressant avec le poing gauche et un blocage frontal latéral avec l'avant-bras intérieur droit tout en maintenant la position assise vers D (Annun So Wen Ap Joomuk Noollo Makgi wa Orun An Palmok Yobap Makgi).
+26. Exécuter un blocage en coin moyen avec l'avant-bras intérieur tout en maintenant la position assise vers D (Annun So An Palmok Kaunde Hechyo Makgi).
 27. Frapper vers C avec le coude arrière gauche en soutenant le poing gauche avec la paume droite, en gardant le visage vers l'avant, tout en maintenant la position assise vers D (Annun So Wen Dwit Palkup Tulgi).
 28. Exécuter un coup de poing moyen vers D avec le poing gauche, faisant glisser la paume droite jusqu'à l'articulation du coude gauche tout en maintenant la position assise vers D (Annun So Wen Joomuk Kaunde Jirugi).
 29. Frapper vers C avec le coude arrière droit en soutenant le poing droit avec la paume gauche, en gardant le visage vers l'avant, tout en maintenant la position assise vers D (Annun So Orun Dwit Palkup Tulgi).
@@ -661,8 +661,8 @@ Ce recueil technique réunit l'ensemble des 24 formes (Tuls) officielles créée
 
 #### Liste Détaillée des Mouvements
 ##### Posture de départ : Position de préparation fermée A (Position de préparation fermée A / Moa Chunbi Sogi A).
-1. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage frontal latéral avec l'avant-bras intérieur droit et en étendant l'avant-bras gauche vers le bas de côté (Annun So Orun Anpalmok Yobap Makgi).
-2. Exécuter un blocage frontal latéral avec l'avant-bras intérieur gauche et étendre l'avant-bras droit vers le bas de côté tout en maintenant la position assise vers D (Annun So Wen Anpalmok Yobap Makgi).
+1. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage frontal latéral avec l'avant-bras intérieur droit et en étendant l'avant-bras gauche vers le bas de côté (Annun So Orun An Palmok Yobap Makgi).
+2. Exécuter un blocage frontal latéral avec l'avant-bras intérieur gauche et étendre l'avant-bras droit vers le bas de côté tout en maintenant la position assise vers D (Annun So Wen An Palmok Yobap Makgi).
 3. Ramener le pied droit vers le pied gauche pour former une position fermée vers D tout en exécutant un coup de poing angulaire avec le poing gauche (Moa So Wen Giokja Jirugi).
 4. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant une poussée haute vers D avec le double index droit (Gunnun So Ijung Songarak Nopunde Tulgi).
 5. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une poussée haute vers D avec le double index gauche (Gunnun So Ijung Songarak Nopunde Tulgi).

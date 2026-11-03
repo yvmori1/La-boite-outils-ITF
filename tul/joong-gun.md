@@ -37,11 +37,11 @@
 7. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 8. Exécuter une frappe montante du coude droit tout en formant une position de marche gauche vers D, en glissant le pied gauche vers D.
-   *(Gunnun so wi palkup bandae taerigi)*
+   *([Gunnun so wi palkup bandae taerigi](../Techniques/Gunnun-So-Wi-Palkup-Bandae-Taerigi.md))*
 9. Déplacer le pied droit vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 10. Exécuter une frappe montante du coude gauche tout en formant une position de marche droite vers D, en glissant le pied droit vers D.
-   *(Gunnun so wi palkup bandae taerigi)*
+   *([Gunnun so wi palkup bandae taerigi](../Techniques/Gunnun-So-Wi-Palkup-Bandae-Taerigi.md))*
 11. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing vertical haut vers D avec les poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 12. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing renversé vers D avec les poings jumelés.

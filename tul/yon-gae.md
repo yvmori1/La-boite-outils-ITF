@@ -26,7 +26,7 @@
    *([Niunja so sonkal dung najunde daebi makgi](../makgi/najunde-daebi-makgi.md))*
    > *Exécuter en un mouvement circulaire.*
 2. Exécuter un coup de poing haut vers D avec le poing allongé droit tout en formant une position de marche gauche vers D en pivotant avec le pied gauche.
-   *(Gunnun so ghin joomuk nopunde bandae jirugi)*
+   *([Gunnun so ghin joomuk nopunde bandae jirugi](../Techniques/Gunnun-So-Ghin-Joomuk-Nopunde-Bandae-Jirugi.md))*
    > *Exécuter en mouvement lent.*
 3. Glisser vers C pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
@@ -36,7 +36,7 @@
 5. Décaler vers C en maintenant une position en L gauche vers D tout en exécutant un blocage d'arrêt vers D avec les poings croisés.
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
 6. Exécuter un cisaillage horizontal du bout des doigts droit vers l'extérieur, au niveau haut, vers D tout en formant une position de marche droite vers D, en glissant le pied droit.
-   *(Gunnun so opun sonkut nopunde bakuro ghutgi)*
+   *([Gunnun so opun sonkut nopunde bakuro ghutgi](../Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md))*
 7. Exécuter une pique descendante avec le coude droit tout en formant une position arrière rapprochée sur la jambe gauche vers D, en tirant le pied droit.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 8. Sauter vers D pour former une position en X gauche vers AD tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
@@ -52,7 +52,7 @@
    *([Niunja so sonkal dung najunde daebi makgi](../makgi/najunde-daebi-makgi.md))*
    > *Exécuter en un mouvement circulaire.*
 13. Exécuter un coup de poing haut vers D avec le poing allongé gauche tout en formant une position de marche droite vers D, en pivotant avec le pied droit.
-   *(Gunnun so ghin joomuk nopunde bandae jirugi)*
+   *([Gunnun so ghin joomuk nopunde bandae jirugi](../Techniques/Gunnun-So-Ghin-Joomuk-Nopunde-Bandae-Jirugi.md))*
    > *Exécuter en mouvement lent.*
 14. Glisser vers C pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
@@ -62,7 +62,7 @@
 16. Décaler vers C en maintenant une position en L droite vers D tout en exécutant un blocage d'arrêt vers D avec les poings croisés.
    *([Niunja so kyocha joomuk momchau makgi](../makgi/momchau-makgi.md))*
 17. Exécuter un cisaillage horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, vers D tout en formant une position de marche gauche vers D, en glissant le pied gauche.
-   *(Gunnun so opun sonkut nopunde bakuro ghutgi)*
+   *([Gunnun so opun sonkut nopunde bakuro ghutgi](../Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md))*
 18. Exécuter une pique descendante avec le coude gauche tout en formant une position arrière rapprochée sur la jambe droite vers D, en tirant le pied gauche.
    *([Dwitbal so sun palkup bandae naeryo tulgi](../Techniques/Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md))*
 19. Sauter vers D pour former une position en X droite vers BD tout en exécutant une frappe latérale haute vers D avec le revers du poing droit.

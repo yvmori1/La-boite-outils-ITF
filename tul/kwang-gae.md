@@ -31,12 +31,12 @@
    *([Gunnun so bandae dwijibo jirugi](../Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.md))*
    > *Exécuter en mouvement lent.*
 4. Déplacer le pied gauche vers le côté avant du pied droit, puis déplacer le pied droit vers D, pour former une position de marche droite vers D, tout en exécutant un blocage crocheté haut vers D avec la paume droite.
-   *(Gunnun so sonbadak nopunde golcho makgi)*
+   *([Gunnun so sonbadak nopunde golcho makgi](../Techniques/Gunnun-So-Sonbadak-Nopunde-Golcho-Makgi.md))*
    > *Exécuter en un double pas en avant.*
 5. Déplacer le pied droit vers C en glissant pour former une position en L droite vers D, tout en exécutant un blocage de garde bas vers D avec le tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
 6. Déplacer le pied droit vers le côté avant du pied gauche puis déplacer le pied gauche vers D, pour former une position de marche gauche vers D tout en exécutant un blocage crocheté haut vers D avec la paume gauche.
-   *(Gunnun so sonbadak nopunde golcho makgi)*
+   *([Gunnun so sonbadak nopunde golcho makgi](../Techniques/Gunnun-So-Sonbadak-Nopunde-Golcho-Makgi.md))*
    > *Exécuter en un double pas en avant.*
 7. Déplacer le pied gauche vers C en glissant pour former une position en L gauche vers D tout en exécutant un blocage de garde bas vers D avec le tranchant de la main.
    *([Niunja so sonkal najunde daebi makgi](../makgi/sonkal-daebi-makgi.md))*
@@ -45,10 +45,10 @@
 9. Déplacer le pied droit vers D, pour former une position arrière rapprochée sur la jambe gauche vers D tout en exécutant un blocage de garde haut vers D avec le tranchant de la main.
    *([Dwitbal so sonkal nopunde daebi makgi](../Techniques/Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.md))*
 10. Déplacer le pied gauche vers le côté avant du pied droit puis tourner dans le sens anti-horaire, en pivotant avec le pied gauche, pour former une position de marche gauche vers C tout en exécutant un blocage montant vers C avec la paume droite.
-   *(Gunnun so sonbadak bandae ollyo makgi)*
+   *([Gunnun so sonbadak bandae ollyo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
    > *Exécuter en mouvement lent.*
 11. Déplacer le pied droit vers C, pour former une position de marche droite vers C tout en exécutant un blocage montant vers C avec la paume gauche.
-   *(Gunnun so sonbadak bandae ollyo makgi)*
+   *([Gunnun so sonbadak bandae ollyo makgi](../Techniques/Gunnun-So-Sonbadak-Bandae-Ollyo-Makgi.md))*
    > *Exécuter en mouvement lent.*
 12. Exécuter un blocage frontal bas avec le tranchant de la main droite en un mouvement circulaire, en frappant la paume gauche tout en amenant le pied gauche vers le pied droit pour former une position fermée vers C.
    *([Moa so orun sonkal najunde ap makgi](../makgi/ap-makgi.md))*
