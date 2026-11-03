@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Gojung So / Gojung Sogi ([고정 서기](../audio/grammaire/Gojung-Sogi.m4a)) :** Posture fixe (*Fixed stance* — répartition du poids 50% / 50%).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi (찌르기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Transpercement direct en piston (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Transpercement direct en piston (*Thrust*).
 
 ---
 

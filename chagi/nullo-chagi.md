@@ -6,8 +6,8 @@ Le **Nullo Chagi** ([눌러 차기](../audio/chagi/nullo-chagi.m4a) — souvent 
 
 Sa décomposition linguistique est la suivante :
 
-* **Nullo / Noolloo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser, appuyer, écraser vers le bas (du verbe *nureuda*, 눌르다 / 누르다).
-* **Chagi (차기) :** Coup de pied.
+* **Nullo / Noolloo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser, appuyer, écraser vers le bas (du verbe *nureuda*, [눌르다](../audio/termes/눌르다.m4a) / [누르다](../audio/termes/누르다.m4a)).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Contrairement aux coups de pied percutants ou fouettés (*Busigi*), le *Nullo Chagi* est une technique de contrainte physique et de destruction directe. Elle utilise le poids du corps et la force gravitationnelle pour **écraser une articulation, piétiner le coup de pied adverse ou stopper l'avancée d'un attaquant**.
 

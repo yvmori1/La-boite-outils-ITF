@@ -12,8 +12,8 @@ Sa décomposition linguistique est la suivante :
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — utilise spécifiquement *Bakat Palmok*, l'extérieur de l'avant-bras).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur des épaules / du thorax).
-* **Daebi (대비) :** De garde / Protection (*Guarding*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** De garde / Protection (*Guarding*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

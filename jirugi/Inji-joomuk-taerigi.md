@@ -8,10 +8,10 @@ Cette technique de précision utilise une arme naturelle spécifique pour concen
 
 Sa décomposition linguistique est la suivante :
 
-* **Inji (인지 / 食指) :** Index / Doigt pointeur.
+* **Inji ([인지](../audio/termes/인지.m4a) / 食指) :** Index / Doigt pointeur.
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing.
-* **Inji Joomuk (인지주먹) :** Poing à la jointure de l'index saillante (*Index-finger knuckle fist*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Inji Joomuk ([인지주먹](../audio/termes/인지주먹.m4a)) :** Poing à la jointure de l'index saillante (*Index-finger knuckle fist*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

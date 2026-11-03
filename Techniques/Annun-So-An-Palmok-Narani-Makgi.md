@@ -8,10 +8,10 @@ Cette technique défensive consiste à projeter simultanément les deux bras dan
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (côté pouce).
-* **Narani (나란히) :** Parallèle (*Parallel*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Narani ([나란히](../audio/termes/나란히.m4a)) :** Parallèle (*Parallel*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

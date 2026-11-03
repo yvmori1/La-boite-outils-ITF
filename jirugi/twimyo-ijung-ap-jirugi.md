@@ -9,7 +9,7 @@ Cette technique acrobatique consiste à s'élever dans les airs pour délivrer d
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Jumping / Flying*).
-* **Ijung / I-joong (이중 / 2중) :** Double / Consécutif (*Double / Consecutive*).
+* **Ijung / I-joong ([이중](../audio/termes/이중.m4a) / 2[중](../audio/termes/중.m4a)) :** Double / Consécutif (*Double / Consecutive*).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct (*Punch*).
 

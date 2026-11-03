@@ -8,9 +8,9 @@ Cette technique d'attaque directe utilise le devant du poing gauche (*Ap Joomuk*
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
-* **Soopyong / Supyong (수평) :** Horizontal / Sur le plan horizontal (*Horizontal*).
+* **Soopyong / Supyong ([수평](../audio/termes/수평.m4a)) :** Horizontal / Sur le plan horizontal (*Horizontal*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---

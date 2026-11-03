@@ -12,7 +12,7 @@ Pour bien comprendre ce terme, il est essentiel de faire une nuance linguistique
 
 En terminologie officielle ITF, le mot "An" intervient dans deux contextes différents qu'il ne faut pas confondre :
 
-1. **An (안) = Intérieur (La surface / l'outil) :**
+1. **An ([안](../audio/termes/안.m4a)) = Intérieur (La surface / l'outil) :**
 Désigne le tranchant intérieur de l'avant-bras (*An Palmok* - côté du pouce).
 2. **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) = Vers l'intérieur (La direction du mouvement) :**
 Désigne la **trajectoire** du blocage : le bras démarre à l'extérieur du corps et balaye **de l'extérieur vers la ligne centrale** (de dehors en dedans).

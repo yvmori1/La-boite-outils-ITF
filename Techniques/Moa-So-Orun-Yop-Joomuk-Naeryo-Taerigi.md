@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
 * **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Marteau du poing / Côté du poing (*Side fist* — la tranche du poing fermé, du côté du petit doigt).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi (때리기) :** Coup percutant / Fouetté (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Fouetté (*Strike*).
 
 ---
 

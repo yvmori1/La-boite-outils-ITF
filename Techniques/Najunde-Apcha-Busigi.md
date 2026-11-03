@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [낮은데 앞차 부시기](../audio/Techniques/Najunde-Apcha-Busigi.m4a)
 
-Le **Najunde Apcha Busigi** (낮은데 앞차 부시기) est le **coup de pied direct fouetté au niveau bas** (*Low front snap kick*) en TaeKwon-Do ITF.
+Le **Najunde Apcha Busigi** ([낮은데 앞차 부시기](../audio/Techniques/Najunde-Ap-Cha-Busigi.m4a)) est le **coup de pied direct fouetté au niveau bas** (*Low front snap kick*) en TaeKwon-Do ITF.
 
 C'est la technique de coup de pied la plus fondamentale de l'art martial. Elle combine une montée de genou axiale et une détente explosive du genou pour délivrer une frappe pénétrante au niveau bas (**Najunde** — le bas-ventre, l'aine ou la vessie) avec le bol du pied (**Ap Chook**).
 
@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / aine, bas-ventre, vessie, cuisses).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
-* **Cha (차) :** Coup de pied (*Kick* — de *Chagi*).
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied (*Kick* — de *Chagi*).
 * **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / Casser / Percuter (*Snap*).
 
 ---

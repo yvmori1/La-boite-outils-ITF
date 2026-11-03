@@ -8,7 +8,7 @@ Cette technique d'attaque intermédiaire entre le coup de poing direct (*Ap Jiru
 
 Sa décomposition linguistique est la suivante :
 
-* **Bandal / Bandol (반달) :** Demi-lune / Croissant de lune (*Crescent / Half-moon*).
+* **Bandal / Bandol ([반달](../audio/termes/반달.m4a)) :** Demi-lune / Croissant de lune (*Crescent / Half-moon*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / percussion perçante (*Punch*).
 
 ---
@@ -58,7 +58,7 @@ Pour bien exécuter le *Bandal Jirugi*, il faut comprendre comment sa trajectoir
 
 > **S'infiltrer à travers les gardes étanches :**
 > 1. **Contourner le coude adverse :** Quand un adversaire maintient une garde axiale très fermée (coudes collés au corps), un coup de poing direct bute contre ses avant-bras. Le *Bandal Jirugi* passe juste à côté du coude pour rentrer vers les **côtes flottantes**, le **plexus** ou le **menton**.
-> 2. **Cibles principales :** La mâchoire / le menton (*G턱*), la tempe (*Gwanja Noryeok*) ou le flanc.
+> 2. **Cibles principales :** La mâchoire / le menton (*G[턱](../audio/termes/턱.m4a)*), la tempe (*Gwanja Noryeok*) ou le flanc.
 > 3. **Puissance de torsion :** L'association de l'inertie rotative du bras en arc et du pivot des hanches génère une force d'ébranlement très élevée.
 
 ---

@@ -9,7 +9,7 @@ Cette technique d'attaque à trajectoire légèrement ascendante utilise les deu
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Dwijibo (뒤집어) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
+* **Dwijibo ([뒤집어](../audio/termes/뒤집어.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---

@@ -1,6 +1,8 @@
 # Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi
 
-L'expression **Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi** (뛰며 옆차 지르기 왼 ㄴ자 서 손칼 가운데 대비 막기) désigne l'enchaînement du **mouvement 9 du patron Choong-Moo Tul** (1er Gup, ceinture rouge barre noire) en Taekwon-Do ITF.
+> 🔊 **Prononciation :** [뛰며 옆차 지르기 왼 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)
+
+L'expression **Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi** ([뛰며 옆차 지르기 왼 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)) désigne l'enchaînement du **mouvement 9 du patron Choong-Moo Tul** (1er Gup, ceinture rouge barre noire) en Taekwon-Do ITF.
 
 Cette séquence dynamique combine un **coup de pied latéral perçant sauté** avec une réception immédiate au sol en **posture en L gauche avec un blocage de garde moyen au tranchant de la main**.
 
@@ -11,12 +13,12 @@ Cette séquence dynamique combine un **coup de pied latéral perçant sauté** a
 | Terme coréen | Signification |
 | --- | --- |
 | **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a))** | Sauté / En vol (*Flying / Jumping*). |
-| **Yopcha Jirugi (옆차 지르기)** | Coup de pied latéral perçant (*Side piercing kick*). |
+| **Yopcha Jirugi ([옆차 지르기](../audio/termes/옆차-지르기.m4a))** | Coup de pied latéral perçant (*Side piercing kick*). |
 | **Wen ([왼](../audio/grammaire/Wen.m4a))** | Gauche (désigne la jambe arrière dans la posture *Niunja Sogi*). |
 | **Niunja So ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a))** | Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant). |
 | **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a))** | Tranchant de la main (*Knife-hand*). |
 | **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a))** | Niveau moyen (*Medium level* — hauteur du plexus / de la poitrine). |
-| **Daebi Makgi (대비 막기)** | Blocage de garde / Protection (*Guarding block*). |
+| **Daebi Makgi ([대비 막기](../audio/termes/대비-막기.m4a))** | Blocage de garde / Protection (*Guarding block*). |
 
 ---
 

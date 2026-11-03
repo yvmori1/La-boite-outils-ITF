@@ -6,8 +6,8 @@ Le **Cha Momchugi** ([차 멈추기](../audio/chagi/cha-momchugi.m4a)) — souve
 
 Sa décomposition linguistique est la suivante :
 
-* **Cha (차) :** Coup de pied / Frapper avec le pied.
-* **Momchugi (멈추기) :** Stopper, bloquer ou arrêter un mouvement.
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied / Frapper avec le pied.
+* **Momchugi ([멈추기](../audio/termes/멈추기.m4a)) :** Stopper, bloquer ou arrêter un mouvement.
 
 Contrairement aux techniques offensives classiques destinées à percer ou fouetter pour marquer/blesser, le *Cha Momchugi* est une **technique d'interception et de contrôle de la distance** (*Gari*). Son rôle premier est de casser l'élan d'un adversaire qui charge, d'intercepter une attaque en préparation ou de verrouiller son cadrage.
 

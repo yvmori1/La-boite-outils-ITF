@@ -4,14 +4,14 @@
 
 Le **Annun So Sonkal Dung San Makgi** ([앉은 서 손칼등 산 막기](../audio/Techniques/Annun-So-Sonkal-Dung-San-Makgi.m4a)) est le **blocage en montagne (ou en "W") avec le tranchant interne des mains en posture du cavalier** (*Sitting stance reverse knife-hand mountain / W-shape block*) en TaeKwon-Do ITF.
 
-Cette technique défensive bilatérale impressionnante tire son nom du mot **San (산)**, qui signifie **"montagne"** en coréen. Les deux bras s'élèvent simultanément de chaque côté du corps pour former la silhouette du caractère coréen/chinois **山** (ou de la lettre **W**), protégeant la tête et le haut du buste contre des attaques venant des flancs ou de face.
+Cette technique défensive bilatérale impressionnante tire son nom du mot **San ([산](../audio/termes/산.m4a))**, qui signifie **"montagne"** en coréen. Les deux bras s'élèvent simultanément de chaque côté du corps pour former la silhouette du caractère coréen/chinois **山** (ou de la lettre **W**), protégeant la tête et le haut du buste contre des attaques venant des flancs ou de face.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Tranchant interne de la main (*Reverse knife-hand* — côté pouce/index, le pouce fortement replié).
-* **San (산) :** Montagne / Forme du caractère 山 ou de la lettre "W" (*Mountain / W-shape*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **San ([산](../audio/termes/산.m4a)) :** Montagne / Forme du caractère 山 ou de la lettre "W" (*Mountain / W-shape*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

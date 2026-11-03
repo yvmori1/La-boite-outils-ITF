@@ -16,13 +16,13 @@ Sa décomposition linguistique est la suivante :
 * **Gojung So / Gojung Sogi ([고정 서기](../audio/grammaire/Gojung-Sogi.m4a)) :** Posture fixe (*Fixed stance* — 50% / 50% de répartition du poids).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur / auriculaire).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur de la poitrine / du plexus solaire).
-* **Bakuro (바깥으로) :** Vers l'extérieur (*Outward* — mouvement mené du centre vers l'extérieur).
+* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur (*Outward* — mouvement mené du centre vers l'extérieur).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté que la jambe située à l'avant (*Obverse*).
-* **Wa (와) :** Et / Combiné avec (*And*).
+* **Wa ([와](../audio/termes/와.m4a)) :** Et / Combiné avec (*And*).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé à la jambe située à l'avant (*Reverse*).
-* **Miro / Millo (밀어) :** Poussant / Pression continue (*Pushing*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Miro / Millo ([밀어](../audio/termes/밀어.m4a)) :** Poussant / Pression continue (*Pushing*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

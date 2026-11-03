@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손등 높은데 바깥으로 때리기](../audio/Techniques/Niunja-So-Sondung-Nopunde-Bakuro-Taerigi.m4a)
 
-Le **Niunja So Sondung Nopunde Bakuro Taerigi** (ㄴ자 서 손등 높은데 바깥으로 때리기) est le **coup cinglant haut vers l'extérieur avec le dos de la main en posture en L** (*L-stance reverse knife-hand / back-hand high outward strike*) en TaeKwon-Do ITF.
+Le **Niunja So Sondung Nopunde Bakuro Taerigi** ([ㄴ자 서 손등 높은데 바깥으로 때리기](../audio/Techniques/Niunja-So-Sondung-Nopunde-Bakuro-Taerigi.m4a)) est le **coup cinglant haut vers l'extérieur avec le dos de la main en posture en L** (*L-stance reverse knife-hand / back-hand high outward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et percutante utilise le dos de la main ouverte (**Sondung**) dans une trajectoire en arc de cercle allant de l'intérieur vers l'extérieur (**Bakuro**). Délivrée au niveau haut (**Nopunde**), elle vise des cibles sensibles sur le visage ou le profil de l'adversaire (comme la tempe, la mâchoire ou l'os zygomatique).
 
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sondung (손등) :** Dos / Revers de la main (*Back hand* — la surface dorsale de la main ouverte).
+* **Sondung ([손등](../audio/termes/손등.m4a)) :** Dos / Revers de la main (*Back hand* — la surface dorsale de la main ouverte).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou de la tempe).
-* **Bakuro (바깥으로) :** Vers l'extérieur / Du dedans vers le dehors (*Outward*).
-* **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur / Du dedans vers le dehors (*Outward*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

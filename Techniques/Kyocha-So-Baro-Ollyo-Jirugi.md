@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Ollyo*)** | **Verticale ascendante du bas vers le haut** : le poing monte le long du centre du corps pour impacter de bas en haut. |
 | **Orientation de la main** | À l'impact, le poing est orienté **paume vers soi / vers le thorax** (mouvement d'uppercut). |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé (jambe arrière) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*) ou légèrement de trois-quarts selon l'angle d'entrée. |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*) ou légèrement de trois-quarts selon l'angle d'entrée. |
 
 ---
 

@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du thorax / des côtes / du flanc).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
-* **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

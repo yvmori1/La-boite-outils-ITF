@@ -9,7 +9,7 @@ Cette technique d'attaque verticale percutante consiste à monter la jambe très
 Sa décomposition linguistique est la suivante :
 
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
-* **Chagi (차기) :** Coup de pied (*Kick*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

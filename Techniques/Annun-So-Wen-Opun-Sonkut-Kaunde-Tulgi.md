@@ -8,11 +8,11 @@ Cette technique d'attaque perçante et précise utilise le bout des doigts de la
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
-* **Opun Sonkut (엎은 손끝) :** Pique du bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
+* **Opun Sonkut ([엎은 손끝](../audio/termes/엎은-손끝.m4a)) :** Pique du bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax inférieur).
-* **Tulgi (찌르기) :** Attaque perçante / Pique en piston (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Attaque perçante / Pique en piston (*Thrust*).
 
 ---
 

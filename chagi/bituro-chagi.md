@@ -6,8 +6,8 @@ Le **Bituro Chagi** ([비틀어 차기](../audio/chagi/bituro-chagi.m4a)) est le
 
 Sa décomposition linguistique est la suivante :
 
-* **Bituro ([비틀어](../audio/grammaire/Bituro.m4a)) :** Vriller, tordre, torsader (du verbe *biteulda*, 비틀다).
-* **Chagi (차기) :** Coup de pied.
+* **Bituro ([비틀어](../audio/grammaire/Bituro.m4a)) :** Vriller, tordre, torsader (du verbe *biteulda*, [비틀다](../audio/termes/비틀다.m4a)).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 C'est l'une des techniques les plus déconcertantes du TaeKwon-Do. Elle repose sur une feinte mécanique : l'armement initial fait croire à un coup de pied frontal (*Ap Chagi*) ou vers l'intérieur (*Anuro Chagi*), mais au dernier moment, la jambe se vrille et s'ouvre de manière explosive vers l'extérieur pour contourner la garde.
 

@@ -7,7 +7,7 @@ Le **Apcha Olligi** ([앞차 올리기](../audio/chagi/apcha-olligi.m4a)) est le
 Sa décomposition linguistique est la suivante :
 
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
-* **Cha (차) :** Coup de pied.
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied.
 * **Olligi ([올리기](../audio/grammaire/Olligi.m4a)) :** Montant / Élévation (du verbe *ollida*, monter ou lever).
 
 Il appartient à la catégorie des exercices fondamentaux de montée de jambe (*Cha Olligi*). Bien qu'il puisse servir de technique de percussion sous le menton ou de blocage pour chasser une attaque ennemie, son rôle premier dans l'entraînement ITF est de développer la **souplesse dynamique**, la mobilité artérielle de la hanche, le contrôle musculaire des ischio-jambiers et la stabilité de l'appui.

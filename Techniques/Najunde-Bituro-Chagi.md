@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [낮은데 비틀어 차기](../audio/Techniques/Najunde-Bituro-Chagi.m4a)
 
-Le **Najunde Bituro Chagi** (낮은데 비틀어 차기) est le **coup de pied tordu / vrillé au niveau bas** (*Low twisting kick*) en TaeKwon-Do ITF.
+Le **Najunde Bituro Chagi** ([낮은데 비틀어 차기](../audio/Techniques/Najunde-Bituro-Chagi.m4a)) est le **coup de pied tordu / vrillé au niveau bas** (*Low twisting kick*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque de jambe particulière utilise une trajectoire feintée ou déviée : le genou monte sur un axe frontal (semblable à l'amorce d'un coup de pied direct *Ap Chagi*), puis la jambe s'ouvre et s'excentre brutalement vers l'extérieur pour impacter une cible située au niveau bas (**Najunde** — le bas-ventre, l'aine ou le haut de la cuisse).
 
@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / aine, bas-ventre, cuisses).
 * **Bituro ([비틀어](../audio/grammaire/Bituro.m4a)) :** Tordu / Vrillé / Tordre (*Twisting* — désaxe de la jambe vers l'extérieur).
-* **Chagi (차기) :** Coup de pied (*Kick*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

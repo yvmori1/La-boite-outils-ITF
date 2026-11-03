@@ -8,10 +8,10 @@ C'est une technique défensive majeure, combinant la grande mobilité d'esquive 
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*), nommée ainsi car la position des pieds dessine la lettre coréenne **ㄴ** (Niun).
-* **An Palmok (안 팔목) :** Tranchant interne de l'avant-bras (*Inner forearm* — côté du pouce / os radius).
+* **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*), nommée ainsi car la position des pieds dessine la lettre coréenne **[ㄴ](../audio/termes/ㄴ.m4a)** (Niun).
+* **An Palmok ([안 팔목](../audio/termes/안-팔목.m4a)) :** Tranchant interne de l'avant-bras (*Inner forearm* — côté du pouce / os radius).
 * **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — ciblant la zone du thorax et des épaules).
-* **Makgi (막기) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 

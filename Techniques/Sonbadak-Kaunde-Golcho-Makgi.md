@@ -14,8 +14,8 @@ Elle se traduit par : **Blocage crocheté au niveau moyen avec la paume de la ma
 | --- | --- | --- | --- |
 | **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base molle mais ferme de la paume). |
 | **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur d'exécution (au niveau du plexus solaire / de la poitrine). |
-| **Golcho** | 걸쳐 | Crocheté / Accroché | Type de mouvement qui dévie et contrôle la trajectoire adverse. |
-| **Makgi** | 막기 | Blocage / Défense | Action de neutraliser ou détourner une attaque. |
+| **Golcho** | [걸쳐](../audio/termes/걸쳐.m4a) | Crocheté / Accroché | Type de mouvement qui dévie et contrôle la trajectoire adverse. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser ou détourner une attaque. |
 
 ---
 

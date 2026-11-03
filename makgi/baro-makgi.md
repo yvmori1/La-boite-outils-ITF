@@ -7,7 +7,7 @@ Le **Baro Makgi** ([바로 막기](../audio/makgi/baro-makgi.m4a)) est le **bloc
 Sa décomposition linguistique est la suivante :
 
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Obverse / Même côté (indique que la technique est exécutée avec le bras situé du **même côté** que la jambe avancée).
-* **Makgi (막기) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 En TaeKwon-Do ITF, la notion de **Baro** s'oppose à celle de **Bandae** (inversé / reverse) :
 

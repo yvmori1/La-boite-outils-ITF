@@ -157,7 +157,7 @@ La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
-| [Niunja-So-Digutja-Japgi.md](Niunja-So-Digutja-Japgi.md) | Saisie / prise en forme de "ㄷ" (ou en forme de U / C) |
+| [Niunja-So-Digutja-Japgi.md](Niunja-So-Digutja-Japgi.md) | Saisie / prise en forme de "[ㄷ](../audio/termes/ㄷ.m4a)" (ou en forme de U / C) |
 | [Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md](Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md) | Pique du bout des doigts à plat inversée au niveau haut |
 | [Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.md](Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.md) | Coup d'estoc/écorchure haut horizontal avec le bout des doigts à plat |
 | [Niunja-So-Sun-Palkup-Naeryo-Tulgi.md](Niunja-So-Sun-Palkup-Naeryo-Tulgi.md) | Niunja So Sun Palkup Naeryo Tulgi |
@@ -174,7 +174,7 @@ La posture elle-même est décrite dans [Annun-Sogi.md](Annun-Sogi.md).
 | Fiche | Technique |
 | :--- | :--- |
 | [Annun-So-Wen-Joomuk-C-Bang-Giokja-Jirugi.md](Annun-So-Wen-Joomuk-C-Bang-Giokja-Jirugi.md) | Coup de poing en angle droit gauche en forme de "C" |
-| [Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.md](Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.md) | Coup de poing droit en angle encadré en forme de "C" (ou ㄷ) |
+| [Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.md](Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.md) | Coup de poing droit en angle encadré en forme de "C" (ou [ㄷ](../audio/termes/ㄷ.m4a)) |
 | [Annun-So-Wen-Joomuk-Giokja-Jirugi.md](Annun-So-Wen-Joomuk-Giokja-Jirugi.md) | Coup de poing gauche en angle droit |
 | [Annun-So-Orun-Joomuk-Giokja-Jirugi.md](Annun-So-Orun-Joomuk-Giokja-Jirugi.md) | Coup de poing droit en angle (à 90°) |
 | [Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md](Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md) | Coup de poing direct moyen frontal gauche |
@@ -276,8 +276,8 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
-| [Gojung-So-Digutja-Jirugi.md](Gojung-So-Digutja-Jirugi.md) | Coup de poing double en forme de « ㄷ » (U / C) |
-| [Gojung-So-Digutja-Makgi.md](Gojung-So-Digutja-Makgi.md) | Blocage en forme de « ㄷ » (en U) |
+| [Gojung-So-Digutja-Jirugi.md](Gojung-So-Digutja-Jirugi.md) | Coup de poing double en forme de « [ㄷ](../audio/termes/ㄷ.m4a) » (U / C) |
+| [Gojung-So-Digutja-Makgi.md](Gojung-So-Digutja-Makgi.md) | Blocage en forme de « [ㄷ](../audio/termes/ㄷ.m4a) » (en U) |
 | [Orun-Gojung-So-Digutja-Makgi.md](Orun-Gojung-So-Digutja-Makgi.md) | Orun Gojung So Digutja Makgi |
 | [Gojung-So-Kaunde-Yop-Jirugi.md](Gojung-So-Kaunde-Yop-Jirugi.md) | Coup de poing direct latéral moyen |
 | [Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md](Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md) | Blocage d'arrêt croisé avec le tranchant des mains |

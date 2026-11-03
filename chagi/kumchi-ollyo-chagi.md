@@ -6,9 +6,9 @@ Le **Kumchi Ollyo Chagi** ([꿈치 올려차기](../audio/chagi/kumchi-ollyo-cha
 
 Sa décomposition linguistique est la suivante :
 
-* **Kumchi (꿈치) :** Le talon ou le bol du pied (faisant référence à *Apkumchi* pour le bol du pied ou *Dwitchuk* pour le dessous du talon).
+* **Kumchi ([꿈치](../audio/termes/꿈치.m4a)) :** Le talon ou le bol du pied (faisant référence à *Apkumchi* pour le bol du pied ou *Dwitchuk* pour le dessous du talon).
 * **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / De bas en haut (du verbe *ollida*, monter).
-* **Chagi (차기) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Contrairement au *Apcha Olligi* qui est un exercice d'assouplissement jambe tendue, le **Kumchi Ollyo Chagi** est une **technique d'attaque percutante et explosive** portée de bas en haut, spécifiquement conçue pour cueillir le menton ou la mâchoire de l'adversaire.
 

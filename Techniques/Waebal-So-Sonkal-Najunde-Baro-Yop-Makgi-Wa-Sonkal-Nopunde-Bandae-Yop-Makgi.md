@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [외발 서 손칼 낮은데 바로 옆 막기 와 손칼 높은데 반대 옆 막기](../audio/Techniques/Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.m4a)
 
-Le **Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi** (외발 서 손칼 낮은데 바로 옆 막기 와 손칼 높은데 반대 옆 막기) est le **blocage latéral simultané au tranchant des mains — bas direct et haut inversé — en posture sur une seule jambe** (*One-leg stance low obverse knife-hand side block and high reverse knife-hand side block*) en TaeKwon-Do ITF.
+Le **Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi** ([외발 서 손칼 낮은데 바로 옆 막기 와 손칼 높은데 반대 옆 막기](../audio/Techniques/Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.m4a)) est le **blocage latéral simultané au tranchant des mains — bas direct et haut inversé — en posture sur une seule jambe** (*One-leg stance low obverse knife-hand side block and high reverse knife-hand side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive double et hautement complexe permet de neutraliser simultanément deux attaques (ou une attaque combinée haut/bas) arrivant de côté, tout en retirant une jambe du sol pour esquiver un balayage.
 
@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — bas-ventre / aine).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct (*Obverse* — s'exécute avec le bras du **même côté que la jambe d'appui**).
 * **Yop Makgi ([옆 막기](../audio/makgi/yop-makgi.m4a)) :** Blocage latéral (*Side block* — exécuté vers le côté à 90°).
-* **Wa (와) :** Et / Simultanément (*And / Simultaneously*).
+* **Wa ([와](../audio/termes/와.m4a)) :** Et / Simultanément (*And / Simultaneously*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage / des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).

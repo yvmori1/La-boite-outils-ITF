@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [왼 교차 서 등주먹 높은데 바로 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.m4a)
 
-Le **Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi** (왼 교차 서 등주먹 높은데 바로 옆 때리기) est le **coup cinglant latéral haut au revers du poing direct en posture en X gauche** (*Left X-stance backfist high obverse side strike*) en TaeKwon-Do ITF.
+Le **Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi** ([왼 교차 서 등주먹 높은데 바로 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.m4a)) est le **coup cinglant latéral haut au revers du poing direct en posture en X gauche** (*Left X-stance backfist high obverse side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à haute vitesse combine la mobilité de la posture en X (*Kyocha Sogi*) avec la précision d'un fouetté du revers du poing (*Dung Joomuk*) au niveau haut (*Nopunde*). La mention **Baro** (direct) précise que la frappe est portée par le bras du **même côté que la jambe croisée à l'avant** (donc le bras gauche avec la jambe gauche devant).
 
@@ -14,7 +14,7 @@ Sa décomposition linguistique est la suivante :
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / de la tempe / de la mâchoire).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — la frappe est exécutée par le membre situé du même côté que la jambe avant, donc la **main gauche**).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
-* **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

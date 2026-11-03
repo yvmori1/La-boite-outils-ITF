@@ -8,12 +8,12 @@ Cette technique défensive fondamentale est conçue pour intercepter, dévier ou
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **Palmok / Bakat Palmok ([팔목](../audio/grammaire/Palmok.m4a) / [바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras (utilisant principalement le tranchant/la surface extérieure de l'avant-bras).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Directement vers l'avant (*Front*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

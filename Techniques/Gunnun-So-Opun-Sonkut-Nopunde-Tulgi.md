@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [걷는 서 엎은 손끝 높은데 찌르기](../audio/Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.m4a)
 
-Le **Gunnun So Opun Sonkut Nopunde Tulgi** (걷는 서 엎은 손끝 높은데 찌르기) est la **pique du bout des doigts à plat au niveau haut en posture de marche** (*Walking stance flat fingertip high thrust*) en TaeKwon-Do ITF.
+Le **Gunnun So Opun Sonkut Nopunde Tulgi** ([걷는 서 엎은 손끝 높은데 찌르기](../audio/Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.m4a)) est la **pique du bout des doigts à plat au niveau haut en posture de marche** (*Walking stance flat fingertip high thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque transperçante et d'une extrême précision utilise l'extrémité des doigts tendus (**Sonkut**) avec la paume orientée vers le bas (**Opun**). Elle est conçue pour cibler des zones molles et très vulnérables du visage ou du cou (la gorge, la pomme d'Adam, les yeux) au niveau haut (**Nopunde**).
 
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Opun (엎은) :** À plat / Paume vers le bas (*Flat / Palm down*).
-* **Sonkut (손끝) :** Bout des doigts (*Fingertips*).
+* **Opun ([엎은](../audio/termes/엎은.m4a)) :** À plat / Paume vers le bas (*Flat / Palm down*).
+* **Sonkut ([손끝](../audio/termes/손끝.m4a)) :** Bout des doigts (*Fingertips*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la gorge ou des yeux).
-* **Tulgi (찌르기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Thrust avec les doigts (*Fingertip thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Thrust avec les doigts (*Fingertip thrust*).
 
 ---
 

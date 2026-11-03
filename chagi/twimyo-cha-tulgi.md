@@ -7,8 +7,8 @@ Le **Twimyo Cha-Tulgi** ([뛰며 차틀기](../audio/chagi/twimyo-cha-tulgi.m4a)
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
-* **Cha (차) :** Coup de pied.
-* **Tulgi / Tulti (틀기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Piquer, transpercer, vriller (action de faire pénétrer une arme naturelle dans un espace réduit avec un effet de vrille ou de poussée axiale).
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied.
+* **Tulgi / Tulti ([틀기](../audio/termes/틀기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Piquer, transpercer, vriller (action de faire pénétrer une arme naturelle dans un espace réduit avec un effet de vrille ou de poussée axiale).
 
 Cette technique combine un saut en suspension avec une vrille précise du corps en l'air, permettant de glisser une frappe perçante à travers une garde très étroite ou fermée de l'adversaire.
 

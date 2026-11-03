@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Poing gauche (*Left*).
 * **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Marteau du poing / Côté du poing (*Side fist* — la tranche du poing fermé, du côté du petit doigt).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi (때리기) :** Coup percutant / Fouetté (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Fouetté (*Strike*).
 
 ---
 

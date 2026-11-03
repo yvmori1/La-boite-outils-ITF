@@ -7,8 +7,8 @@ Le **Dollyo Goro Chagi** ([돌려 걸어 차기](../audio/chagi/dollyo-goro-chag
 Sa décomposition linguistique est la suivante :
 
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Tournant / Circulaire.
-* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, 걸다).
-* **Chagi (차기) :** Coup de pied.
+* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, [걸다](../audio/termes/걸다.m4a)).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Cette technique consiste à faire passer la jambe au-delà de la ligne de vision de l'adversaire avant de **crocheter brutalement le genou vers l'intérieur** dans un mouvement de fouet pour impacter le visage, la tempe ou le menton avec le talon.
 

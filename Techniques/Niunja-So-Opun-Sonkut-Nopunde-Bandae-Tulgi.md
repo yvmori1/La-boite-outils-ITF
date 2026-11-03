@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 엎은 손끝 높은데 반대 찌르기](../audio/Techniques/Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.m4a)
 
-Le **Niunja So Opun Sonkut Nopunde Bandae Tulgi** (ㄴ자 서 엎은 손끝 높은데 반대 찌르기) est la **pique du bout des doigts à plat inversée au niveau haut en posture en L** (*L-stance flat fingertip high reverse thrust*) en TaeKwon-Do ITF.
+Le **Niunja So Opun Sonkut Nopunde Bandae Tulgi** ([ㄴ자 서 엎은 손끝 높은데 반대 찌르기](../audio/Techniques/Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.m4a)) est la **pique du bout des doigts à plat inversée au niveau haut en posture en L** (*L-stance flat fingertip high reverse thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque perforante associe la précision chirurgicale de la pique des doigts (**Sonkut**) à la mobilité défensive de la posture en L (*Niunja Sogi*). L'indication **Bandae** (inversée) signifie que la pique est portée par le bras **opposé à la jambe arrière** (c'est-à-dire par la main située du côté de la jambe avant).
 
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
-* **Opun (엎은) :** À plat / Paume vers le bas (*Flat / Palm down*).
-* **Sonkut (손끝) :** Bout des doigts (*Fingertips*).
+* **Opun ([엎은](../audio/termes/엎은.m4a)) :** À plat / Paume vers le bas (*Flat / Palm down*).
+* **Sonkut ([손끝](../audio/termes/손끝.m4a)) :** Bout des doigts (*Fingertips*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la gorge ou des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant).
-* **Tulgi (찌르기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée perçante en piston (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée perçante en piston (*Thrust*).
 
 ---
 

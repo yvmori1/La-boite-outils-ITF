@@ -14,8 +14,8 @@ Elle se traduit par : **Coup de pied latéral perforant / poussé du pied droit 
 | --- | --- | --- | --- |
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique que la frappe est exécutée avec la jambe droite. |
 | **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur de la cible (au niveau du plexus solaire, du thorax ou de l'abdomen). |
-| **Yopcha** | 옆차 | Coup de pied latéral | Trajectoire d'attaque de côté (*Yop* = côté, *Cha* = coup de pied). |
-| **Tulgi** | 찌르기 | Pique / Poussée rectiligne | Mouvement de perforation/poussée directe (effet baïonnette / transperçant). |
+| **Yopcha** | [옆차](../audio/termes/옆차.m4a) | Coup de pied latéral | Trajectoire d'attaque de côté (*Yop* = côté, *Cha* = coup de pied). |
+| **Tulgi** | [찌르기](../audio/termes/찌르기.m4a) | Pique / Poussée rectiligne | Mouvement de perforation/poussée directe (effet baïonnette / transperçant). |
 
 > **Note de nomenclature :** Dans la nomenclature ITF, *Tulgi* (poussée/pique) est souvent associé ou utilisé de façon complémentaire avec *Jirugi* (perçant) pour décrire la nature rectiligne et transperçante du coup de pied latéral.
 

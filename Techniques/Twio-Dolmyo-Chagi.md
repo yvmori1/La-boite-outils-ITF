@@ -9,8 +9,8 @@ Cette technique dynamique et spectaculaire combine la suspension aérienne du sa
 Sa décomposition linguistique est la suivante :
 
 * **Twio ([뛰어](../audio/grammaire/Twio.m4a)) :** Sauter / En sautant (*Jumping / Leaping*).
-* **Dolmyo (돌며) :** Tourner / En rotation (*Spinning / Turning around*).
-* **Chagi (차기) :** Coup de pied (*Kick*).
+* **Dolmyo ([돌며](../audio/termes/돌며.m4a)) :** Tourner / En rotation (*Spinning / Turning around*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

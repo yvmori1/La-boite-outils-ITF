@@ -9,9 +9,9 @@ Cette technique défensive spécialisée dresse un double rail protecteur consti
 Sa décomposition linguistique est la suivante :
 
 * **Waebal So / Waebal Sogi ([외발 서기](../audio/Techniques/Waebal-Sogi.m4a)) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
-* **Bakat Palmok (바깥 팔목) :** Extérieur de l'avant-bras (*Outer forearm*).
-* **Narani (나란히) :** Parallèle / Côte à côte (*Parallel*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (*Outer forearm*).
+* **Narani ([나란히](../audio/termes/나란히.m4a)) :** Parallèle / Côte à côte (*Parallel*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

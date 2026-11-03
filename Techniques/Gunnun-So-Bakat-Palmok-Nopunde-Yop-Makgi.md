@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [걷는 서 바깥 팔목 높은데 옆 막기](../audio/Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.m4a)
 
-Le **Gunnun So Bakat Palmok Nopunde Yop Makgi** (걷는 서 바깥 팔목 높은데 옆 막기 — couramment retranscrit **Gunnun Sogi Bakat Palmok Nopunde Yop Makgi**) est le **blocage haut latéral avec le tranchant extérieur de l'avant-bras en posture de marche** (*High side block with outer forearm in walking stance*) en TaeKwon-Do ITF.
+Le **Gunnun So Bakat Palmok Nopunde Yop Makgi** ([걷는 서 바깥 팔목 높은데 옆 막기](../audio/Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.m4a) — couramment retranscrit **Gunnun Sogi Bakat Palmok Nopunde Yop Makgi**) est le **blocage haut latéral avec le tranchant extérieur de l'avant-bras en posture de marche** (*High side block with outer forearm in walking stance*) en TaeKwon-Do ITF.
 
 C'est une technique défensive essentielle pour intercepter et dévier les attaques puissantes dirigées vers la tête venant des côtés ou de la périphérie (comme un crochet en boxe ou un coup de pied circulaire).
 
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance*).
-* **Bakat Palmok (바깥 팔목) :** Tranchant extérieur de l'avant-bras (*Outer forearm* — côté de l'ulna / cubitus).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Tranchant extérieur de l'avant-bras (*Outer forearm* — côté de l'ulna / cubitus).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, des tempes ou du sommet du visage).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [걷는 서 가운데 반대 지르기](../audio/Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.m4a)
 
-Le **Gunnun So Kaunde Bandae Jirugi** (걷는 서 가운데 반대 지르기 — couramment retranscrit **Gunnun Sogi Kaujunde Bandae Jirugi**) est le **coup de poing direct inverse au niveau moyen en posture de marche** (*Middle reverse punch in walking stance*) en TaeKwon-Do ITF.
+Le **Gunnun So Kaunde Bandae Jirugi** ([걷는 서 가운데 반대 지르기](../audio/Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.m4a) — couramment retranscrit **Gunnun Sogi Kaujunde Bandae Jirugi**) est le **coup de poing direct inverse au niveau moyen en posture de marche** (*Middle reverse punch in walking stance*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 

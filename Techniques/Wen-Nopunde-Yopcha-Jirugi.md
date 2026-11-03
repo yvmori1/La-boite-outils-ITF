@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [왼 높은데 옆차 지르기](../audio/Techniques/Wen-Nopunde-Yopcha-Jirugi.m4a)
 
-Le **Wen Nopunde Yopcha Jirugi** (왼 높은데 옆차 지르기) est le **coup de pied latéral perçant haut de la jambe gauche** (*Left high side piercing kick*) en TaeKwon-Do ITF.
+Le **Wen Nopunde Yopcha Jirugi** ([왼 높은데 옆차 지르기](../audio/Techniques/Wen-Nopunde-Yopcha-Jirugi.m4a)) est le **coup de pied latéral perçant haut de la jambe gauche** (*Left high side piercing kick*) en TaeKwon-Do ITF.
 
 Considéré comme l'une des techniques emblématiques du TaeKwon-Do, le *Yop Cha Jirugi* est un coup de pied en piston qui engage tout le poids du corps derrière le tranchant du pied ou le talon. L'exécution avec la **jambe gauche** (*Wen*) au **niveau haut** (*Nopunde* — tête, tempe, mâchoire) exige une excellente ouverture de hanche, un pivot parfait du pied d'appui et un alignement corporel rigoureux.
 
@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage / de la tête).
-* **Yopcha / Yop Chagi (옆차 / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
+* **Yopcha / Yop Chagi ([옆차](../audio/termes/옆차.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Pique en piston (*Piercing / Thrust*).
 
 ---

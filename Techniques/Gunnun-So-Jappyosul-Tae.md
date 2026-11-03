@@ -9,8 +9,8 @@ Contrairement aux techniques d'attaque directes ou de blocage classique, **Jappy
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Jappyosul / Jappyosseul (잡혔을) :** Être saisi / attrapé (forme passive du verbe *Japda* = saisir).
-* **Tae / Ttae (때) :** Au moment où / Quand / Lors de (*When / Time*).
+* **Jappyosul / Jappyosseul ([잡혔을](../audio/termes/잡혔을.m4a)) :** Être saisi / attrapé (forme passive du verbe *Japda* = saisir).
+* **Tae / Ttae ([때](../audio/termes/때.m4a)) :** Au moment où / Quand / Lors de (*When / Time*).
 * **Linguistiquement :** *"Au moment où l'on est saisi en posture de marche"*.
 
 ---

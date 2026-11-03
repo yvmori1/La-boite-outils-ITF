@@ -6,8 +6,8 @@ Le **Bakuro Chagi** ([밖으로 차기](../audio/chagi/bakuro-chagi.m4a)) est le
 
 Sa décomposition linguistique est la suivante :
 
-* **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (du mot *bakk*, 밖 = extérieur, suivi de la particule de direction *-uro*).
-* **Chagi (차기) :** Coup de pied.
+* **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (du mot *bakk*, [밖](../audio/termes/밖.m4a) = extérieur, suivi de la particule de direction *-uro*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 C'est l'exact pendant inverse du *Anuro Chagi* : au lieu d'amener la jambe de l'extérieur vers l'intérieur, le **Bakuro Chagi** monte d'abord en croisant la ligne médiane du corps (vers l'intérieur) pour ensuite **balayer vigoureusement vers l'extérieur** en décrivant un arc de cercle.
 

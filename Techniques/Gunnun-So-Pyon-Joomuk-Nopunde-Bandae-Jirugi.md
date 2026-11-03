@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [걷는 서 편주먹 높은데 반대 지르기](../audio/Techniques/Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.m4a)
 
-Le **Gunnun So Pyon Joomuk Nopunde Bandae Jirugi** (걷는 서 편주먹 높은데 반대 지르기) est le **coup de poing direct inversé au niveau haut avec les deuxièmes jointures (poing plat) en posture de marche** (*Walking stance flat fist high reverse punch*) en TaeKwon-Do ITF.
+Le **Gunnun So Pyon Joomuk Nopunde Bandae Jirugi** ([걷는 서 편주먹 높은데 반대 지르기](../audio/Techniques/Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.m4a)) est le **coup de poing direct inversé au niveau haut avec les deuxièmes jointures (poing plat) en posture de marche** (*Walking stance flat fist high reverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque perforante utilise les deuxièmes articulations des quatre doigts repliés (**Pyon Joomuk**) pour frapper de façon rectiligne une cible haute très ciblée et étroite (comme le philtrum, le dessus de la lèvre supérieure ou le dessous du nez). L'indication **Bandae** (inversé) signifie que le coup est porté par le bras **du côté de la jambe arrière** (opposé à la jambe avant).
 

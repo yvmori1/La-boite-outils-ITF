@@ -16,7 +16,7 @@ Elle se traduit par : **Blocage pressant direct à la paume de la main en positi
 | **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base ferme de la paume). |
 | **Baro** | [바로](../audio/grammaire/Baro.m4a) | Direct / Homologue | Signifie que le blocage est exécuté avec la **main du même côté que le pied avant** (ex. pied droit devant, main droite qui bloque). |
 | **Noollo** | [눌러](../audio/grammaire/Nullo.m4a) | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser/écraser vers le bas). |
-| **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
 
 ---
 

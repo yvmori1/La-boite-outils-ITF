@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [하체 차기](../audio/chagi/hache-chagi.m4a)
 
-Le **Hache Chagi** ([하체 차기](../audio/chagi/hache-chagi.m4a)) — souvent associé ou utilisé de manière interchangeable avec **Najunde Chagi** (낮은데 차기) — est le **coup de pied bas / coup de pied aux membres inférieurs** (*Low kick*).
+Le **Hache Chagi** ([하체 차기](../audio/chagi/hache-chagi.m4a)) — souvent associé ou utilisé de manière interchangeable avec **Najunde Chagi** ([낮은데 차기](../audio/termes/낮은데-차기.m4a)) — est le **coup de pied bas / coup de pied aux membres inférieurs** (*Low kick*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Hache (하체) :** Bas du corps, membres inférieurs (du hanja 下體 : *Ha* = bas, *Che* = corps).
-* **Chagi (차기) :** Coup de pied.
+* **Hache ([하체](../audio/termes/하체.m4a)) :** Bas du corps, membres inférieurs (du hanja 下體 : *Ha* = bas, *Che* = corps).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Alors que les coups de pied spectaculaires au visage marquent les esprits, le *Hache Chagi* constitue la fondation de la self-défense pragmatique et de la destruction des appuis adverses. Il vise à neutraliser la mobilité de l'adversaire en ciblant la structure osseuse ou musculaire de ses jambes.
 

@@ -39,17 +39,17 @@ Le nom de l'art, son esprit et les cinq principes du crédo.
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
 | **Taekwon-Do** | [태권도](../audio/grammaire/Taekwon-Do.m4a) | La voie du pied et du poing | Art martial coréen codifié par le général Choi Hong Hi et officiellement nommé le 11 avril 1955. |
-| **Tae** | 태 | Pied | Frapper, sauter ou briser avec le pied. |
-| **Kwon** | 권 | Poing | Frapper ou briser avec le poing. |
-| **Do** | 도 | Voie, art | La discipline morale et le chemin de vie que suit l'adepte. |
-| **Chang-Hun** | 창헌 | « Ch'ang Hon », nom de plume du général Choi | Désigne l'école et l'ensemble des 24 formes qu'il a créées. |
+| **Tae** | [태](../audio/termes/태.m4a) | Pied | Frapper, sauter ou briser avec le pied. |
+| **Kwon** | [권](../audio/termes/권.m4a) | Poing | Frapper ou briser avec le poing. |
+| **Do** | [도](../audio/termes/도.m4a) | Voie, art | La discipline morale et le chemin de vie que suit l'adepte. |
+| **Chang-Hun** | [창헌](../audio/termes/창헌.m4a) | « Ch'ang Hon », nom de plume du général Choi | Désigne l'école et l'ensemble des 24 formes qu'il a créées. |
 | **Taekwon-Do Jungshin** | [태권도 정신](../audio/lexique/Taekwon-Do-Jungshin.m4a) | Crédo du Taekwon-Do | Les cinq principes moraux que l'adepte s'engage à incarner. |
 | **Ye Ui** | [예의](../audio/lexique/Ye-Ui.m4a) | Courtoisie | Politesse, respect d'autrui et observation de l'étiquette. |
 | **Yum Chi** | [염치](../audio/lexique/Yum-Chi.m4a) | Intégrité | Savoir distinguer le bien du mal et assumer ses fautes. |
 | **In Nae** | [인내](../audio/lexique/In-Nae.m4a) | Persévérance | Patience et constance pour atteindre un but. |
 | **Guk Gi** | [극기](../audio/lexique/Guk-Gi.m4a) | Maîtrise de soi | Contrôle de ses émotions et de ses gestes, dans le dojang comme dehors. |
 | **Baekjul Boolgool** | [백절불굴](../audio/lexique/Baekjul-Boolgool.m4a) | Esprit indomptable | Courage de se dresser contre l'injustice, quelle que soit la force de l'opposition. |
-| **Jungshin** | 정신 | Esprit, mentalité | L'attitude intérieure qui accompagne la pratique. |
+| **Jungshin** | [정신](../audio/termes/정신.m4a) | Esprit, mentalité | L'attitude intérieure qui accompagne la pratique. |
 | **Ki** | [기](../audio/combats/Ki.m4a) | Énergie vitale | Souffle intérieur que la respiration et le kihap mobilisent. |
 
 ## Au dojang : commandements et étiquette
@@ -59,21 +59,21 @@ Les mots que l'on entend en classe, du salut d'ouverture au salut de fin.
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
 | **Dojang** | [도장](../audio/lexique/Dojang.m4a) | Salle d'entraînement | Lieu de pratique, que l'on salue en y entrant et en le quittant. |
-| **Dobok** | 도복 | Uniforme | Tenue d'entraînement blanche de l'ITF. |
-| **Ti** | 띠 | Ceinture | Sa couleur indique le grade de l'adepte. |
+| **Dobok** | [도복](../audio/termes/도복.m4a) | Uniforme | Tenue d'entraînement blanche de l'ITF. |
+| **Ti** | [띠](../audio/termes/띠.m4a) | Ceinture | Sa couleur indique le grade de l'adepte. |
 | **Charyot** | [차렷](../audio/lexique/Charyot.m4a) | Attention ! | Commandement de se mettre au garde-à-vous en position Charyo Sogi. |
 | **Kyong Ye** | [경례](../audio/combats/Kyong-ye.m4a) | Salut | Inclinaison de 15° vers l'avant, regard sur le partenaire. |
 | **Kyong Ye Jase** | [경례 자세](../audio/grammaire/Kyong-Ye-Jase.m4a) | Posture de salut | La position prise pour saluer. |
-| **Junbi** | 준비 | Prêt ! | Commandement de prendre la position d'attente. |
+| **Junbi** | [준비](../audio/termes/준비.m4a) | Prêt ! | Commandement de prendre la position d'attente. |
 | **Sijak** | [시작](../audio/combats/Si-jak.m4a) | Commencez ! | Lance l'exercice, la forme ou le combat. |
 | **Goman** | [그만](../audio/combats/Goman.m4a) | Arrêtez ! | Interrompt immédiatement l'exercice ou le combat. |
 | **Gyesok** | [계속](../audio/combats/Gye-sok.m4a) | Continuez ! | Reprise après un arrêt. |
 | **Baro** | [바로](../audio/grammaire/Baro.m4a) | Retour ! | Revenir à la position de départ (le même mot désigne aussi l'alignement « en poursuite », voir plus bas). |
 | **Swiyo** | [쉬어](../audio/grammaire/Swiyo.m4a) | Repos ! | Relâcher la position et se mettre au repos. |
-| **Dwiro Dora** | 뒤로 돌아 | Demi-tour ! | Se retourner de 180° pour faire face à l'arrière. |
-| **Haessan** | 해산 | Rompez ! | Fin du cours, les élèves se dispersent. |
+| **Dwiro Dora** | [뒤로 돌아](../audio/termes/뒤로-돌아.m4a) | Demi-tour ! | Se retourner de 180° pour faire face à l'arrière. |
+| **Haessan** | [해산](../audio/termes/해산.m4a) | Rompez ! | Fin du cours, les élèves se dispersent. |
 | **Kihap** | [기합](../audio/combats/Kihap.m4a) | Cri d'énergie | Expiration brusque et sonore qui concentre la puissance au point d'impact. |
-| **Kamsa Hamnida** | 감사합니다 | Merci | Formule de politesse adressée à l'instructeur ou au partenaire. |
+| **Kamsa Hamnida** | [감사합니다](../audio/termes/감사합니다.m4a) | Merci | Formule de politesse adressée à l'instructeur ou au partenaire. |
 
 ## Compter en coréen
 
@@ -81,26 +81,26 @@ Deux séries coexistent : les nombres coréens servent au compte des mouvements 
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Hana** | 하나 | Un | Nombre coréen. |
-| **Dul** | 둘 | Deux | Nombre coréen. |
-| **Set** | 셋 | Trois | Nombre coréen. |
-| **Net** | 넷 | Quatre | Nombre coréen. |
-| **Dasot** | 다섯 | Cinq | Nombre coréen. |
-| **Yosot** | 여섯 | Six | Nombre coréen. |
-| **Ilgop** | 일곱 | Sept | Nombre coréen. |
-| **Yodol** | 여덟 | Huit | Nombre coréen. |
-| **Ahop** | 아홉 | Neuf | Nombre coréen. |
-| **Yol** | 열 | Dix | Nombre coréen. |
-| **Il** | 일 | Un | Nombre sino-coréen (Il Dan, 1er Dan). |
-| **I** | 이 | Deux | Nombre sino-coréen (I Dan ; aussi dans Ibo, « deux pas »). |
-| **Sam** | 삼 | Trois | Nombre sino-coréen (Sambo, « trois pas » ; Sam-Il, « trois-un »). |
-| **Sa** | 사 | Quatre | Nombre sino-coréen (Saju, « quatre directions »). |
-| **O** | 오 | Cinq | Nombre sino-coréen. |
-| **Yuk** | 육 | Six | Nombre sino-coréen. |
-| **Chil** | 칠 | Sept | Nombre sino-coréen. |
-| **Pal** | 팔 | Huit | Nombre sino-coréen (Palja Sogi : la position « en 八 »). |
-| **Gu** | 구 | Neuf | Nombre sino-coréen. |
-| **Sip** | 십 | Dix | Nombre sino-coréen. |
+| **Hana** | [하나](../audio/termes/하나.m4a) | Un | Nombre coréen. |
+| **Dul** | [둘](../audio/termes/둘.m4a) | Deux | Nombre coréen. |
+| **Set** | [셋](../audio/termes/셋.m4a) | Trois | Nombre coréen. |
+| **Net** | [넷](../audio/termes/넷.m4a) | Quatre | Nombre coréen. |
+| **Dasot** | [다섯](../audio/termes/다섯.m4a) | Cinq | Nombre coréen. |
+| **Yosot** | [여섯](../audio/termes/여섯.m4a) | Six | Nombre coréen. |
+| **Ilgop** | [일곱](../audio/termes/일곱.m4a) | Sept | Nombre coréen. |
+| **Yodol** | [여덟](../audio/termes/여덟.m4a) | Huit | Nombre coréen. |
+| **Ahop** | [아홉](../audio/termes/아홉.m4a) | Neuf | Nombre coréen. |
+| **Yol** | [열](../audio/termes/열.m4a) | Dix | Nombre coréen. |
+| **Il** | [일](../audio/termes/일.m4a) | Un | Nombre sino-coréen (Il Dan, 1er Dan). |
+| **I** | [이](../audio/termes/이.m4a) | Deux | Nombre sino-coréen (I Dan ; aussi dans Ibo, « deux pas »). |
+| **Sam** | [삼](../audio/termes/삼.m4a) | Trois | Nombre sino-coréen (Sambo, « trois pas » ; Sam-Il, « trois-un »). |
+| **Sa** | [사](../audio/termes/사.m4a) | Quatre | Nombre sino-coréen (Saju, « quatre directions »). |
+| **O** | [오](../audio/termes/오.m4a) | Cinq | Nombre sino-coréen. |
+| **Yuk** | [육](../audio/termes/육.m4a) | Six | Nombre sino-coréen. |
+| **Chil** | [칠](../audio/termes/칠.m4a) | Sept | Nombre sino-coréen. |
+| **Pal** | [팔](../audio/termes/팔.m4a) | Huit | Nombre sino-coréen (Palja Sogi : la position « en 八 »). |
+| **Gu** | [구](../audio/termes/구.m4a) | Neuf | Nombre sino-coréen. |
+| **Sip** | [십](../audio/termes/십.m4a) | Dix | Nombre sino-coréen. |
 
 ## Grades et titres
 
@@ -108,14 +108,14 @@ Voir aussi les [fiches de passage de grade](../Ceintures/README.md).
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Gup** | 급 | Grade | Grade de ceinture de couleur, du 10e Gup (blanche) au 1er Gup (rouge barre noire). |
-| **Dan** | 단 | Degré | Degré de ceinture noire, du 1er au 9e Dan. |
-| **Jeja** | 제자 | Élève | Disciple d'un instructeur. |
-| **Boosabum** | 부사범 | Instructeur adjoint | Titre des ceintures noires du 1er au 3e Dan. |
-| **Sabum** | 사범 | Instructeur | Titre des 4e au 6e Dan ; on s'adresse à lui en disant Sabum-nim (사범님). |
-| **Sahyun** | 사현 | Maître | Titre des 7e et 8e Dan. |
-| **Saseong** | 사성 | Grand maître | Titre du 9e Dan. |
-| **Kwanjang** | 관장 | Directeur d'école | Responsable d'un dojang. |
+| **Gup** | [급](../audio/termes/급.m4a) | Grade | Grade de ceinture de couleur, du 10e Gup (blanche) au 1er Gup (rouge barre noire). |
+| **Dan** | [단](../audio/termes/단.m4a) | Degré | Degré de ceinture noire, du 1er au 9e Dan. |
+| **Jeja** | [제자](../audio/termes/제자.m4a) | Élève | Disciple d'un instructeur. |
+| **Boosabum** | [부사범](../audio/termes/부사범.m4a) | Instructeur adjoint | Titre des ceintures noires du 1er au 3e Dan. |
+| **Sabum** | [사범](../audio/termes/사범.m4a) | Instructeur | Titre des 4e au 6e Dan ; on s'adresse à lui en disant Sabum-nim ([사범님](../audio/termes/사범님.m4a)). |
+| **Sahyun** | [사현](../audio/termes/사현.m4a) | Maître | Titre des 7e et 8e Dan. |
+| **Saseong** | [사성](../audio/termes/사성.m4a) | Grand maître | Titre du 9e Dan. |
+| **Kwanjang** | [관장](../audio/termes/관장.m4a) | Directeur d'école | Responsable d'un dojang. |
 
 ## Les armes naturelles : la main et le bras
 
@@ -129,21 +129,21 @@ Surfaces du corps qui frappent ou bloquent. Détail et photos dans la [partie II
 | **Dung Joomuk** | [등주먹](../audio/grammaire/Dung-Joomuk.m4a) | Revers du poing | Dos des deux premières articulations ; frappes cinglantes. |
 | **Yop Joomuk** | [옆주먹](../audio/grammaire/Yop-Joomuk.m4a) | Côté du poing, poing marteau | Bord du poing côté petit doigt. |
 | **Pyun Joomuk** | [편주먹](../audio/grammaire/Pyun-Joomuk.m4a) | Poing plat | Doigts repliés à la deuxième phalange ; vise les zones molles. |
-| **Ghin Joomuk** | 긴주먹 | Poing long | Poing semi-fermé qui allonge la portée de la frappe. |
-| **Inji Joomuk** | 인지주먹 | Poing à phalange de l'index | Deuxième phalange de l'index ressortie. |
-| **Joongji Joomuk** | 중지주먹 | Poing à phalange du majeur | Deuxième phalange du majeur ressortie. |
+| **Ghin Joomuk** | [긴주먹](../audio/termes/긴주먹.m4a) | Poing long | Poing semi-fermé qui allonge la portée de la frappe. |
+| **Inji Joomuk** | [인지주먹](../audio/termes/인지주먹.m4a) | Poing à phalange de l'index | Deuxième phalange de l'index ressortie. |
+| **Joongji Joomuk** | [중지주먹](../audio/termes/중지주먹.m4a) | Poing à phalange du majeur | Deuxième phalange du majeur ressortie. |
 | **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | « Couteau de main » : bord externe de la main ouverte, côté petit doigt. |
 | **Sonkal Dung** | [손칼등](../audio/grammaire/Sonkal-Dung.m4a) | Tranchant inversé de la main | Bord interne, côté index, pouce replié dans la paume. |
-| **Sonkut** | 손끝 | Bout des doigts | Arme des piques (Tulgi). |
+| **Sonkut** | [손끝](../audio/termes/손끝.m4a) | Bout des doigts | Arme des piques (Tulgi). |
 | **Sun Sonkut** | [선손끝](../audio/grammaire/Sun-Sonkut.m4a) | Pique de main verticale | Bout des doigts, main tenue sur la tranche. |
 | **Opun Sonkut** | [엎은손끝](../audio/grammaire/Opun-Sonkut.m4a) | Pique de main à plat | Bout des doigts, paume vers le sol. |
 | **Dwijibun Sonkut** | [뒤집은손끝](../audio/grammaire/Dwijibun-Sonkut.m4a) | Pique de main retournée | Bout des doigts, paume vers le haut. |
-| **Homi Sonkut** | 호미손끝 | Pique de main angulaire | Doigts pliés en forme de houe (Homi). |
+| **Homi Sonkut** | [호미손끝](../audio/termes/호미손끝.m4a) | Pique de main angulaire | Doigts pliés en forme de houe (Homi). |
 | **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume | Surface intérieure de la main ; sert à dévier, presser ou frapper. |
-| **Sondung** | 손등 | Dos de la main | Surface extérieure de la main ouverte. |
+| **Sondung** | [손등](../audio/termes/손등.m4a) | Dos de la main | Surface extérieure de la main ouverte. |
 | **Bandalson** | [반달손](../audio/grammaire/Bandalson.m4a) | Main en arc | Espace entre le pouce et l'index, en forme de demi-lune (Bandal). |
-| **Songarak** | 손가락 | Doigt | Dans Doo Songarak (deux doigts) ou Songarak Joomuk. |
-| **Sonmok** | 손목 | Poignet | Dans Sonmok Dung (dos du poignet plié). |
+| **Songarak** | [손가락](../audio/termes/손가락.m4a) | Doigt | Dans Doo Songarak (deux doigts) ou Songarak Joomuk. |
+| **Sonmok** | [손목](../audio/termes/손목.m4a) | Poignet | Dans Sonmok Dung (dos du poignet plié). |
 | **Palmok** | [팔목](../audio/grammaire/Palmok.m4a) | Avant-bras | Racine des noms de surfaces de l'avant-bras. |
 | **An Palmok** | [안팔목](../audio/grammaire/An-Palmok.m4a) | Avant-bras intérieur | Face côté petit doigt. |
 | **Bakat Palmok** | [바깥팔목](../audio/grammaire/Bakat-Palmok.m4a) | Avant-bras extérieur | Face côté pouce. |
@@ -155,15 +155,15 @@ Surfaces du corps qui frappent ou bloquent. Détail et photos dans la [partie II
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Bal** | 발 | Pied | Racine de tous les noms de surfaces du pied. |
+| **Bal** | [발](../audio/termes/발.m4a) | Pied | Racine de tous les noms de surfaces du pied. |
 | **Apkumchi** | [앞꿈치](../audio/grammaire/Apkumchi.m4a) | Bol du pied | Coussinet sous la base des orteils, orteils relevés ; s'écrit aussi Ap Kumchi. |
 | **Dwitkumchi** | [뒤꿈치](../audio/grammaire/Dwikumchi.m4a) | Arrière du talon | Face postérieure du talon ; coups crochetés. |
 | **Dwitchuk** | [뒤축](../audio/termes/뒤축.m4a) | Dessous du talon | Partie plate sous le talon ; coups de pied arrière et descendants. |
 | **Balkal** | [발칼](../audio/grammaire/Balkal.m4a) | Tranchant du pied | Bord externe du pied ; arme du coup de pied latéral perçant. |
-| **Balkal Dung** | 발칼등 | Tranchant inversé du pied | Bord interne du pied ; s'écrit aussi Balkal Anchae. |
+| **Balkal Dung** | [발칼등](../audio/termes/발칼등.m4a) | Tranchant inversé du pied | Bord interne du pied ; s'écrit aussi Balkal Anchae. |
 | **Baldung** | [발등](../audio/grammaire/Baldong.m4a) | Dessus du pied | Cou-de-pied, cheville tendue. |
 | **Balbadak** | [발바닥](../audio/grammaire/Balbadak.m4a) | Plante du pied | Toute la surface inférieure ; coups poussants et blocages. |
-| **Balkut** | 발끝 | Pointe des orteils | Arme des piques du pied. |
+| **Balkut** | [발끝](../audio/termes/발끝.m4a) | Pointe des orteils | Arme des piques du pied. |
 | **Moorup** | [무릎](../audio/grammaire/Murup.m4a) | Genou | Arme des percussions montantes à courte distance ; s'écrit aussi Murup. |
 
 ## Les positions (Sogi)
@@ -172,9 +172,9 @@ Fiche cotée de chaque position dans la [partie IV du manuel](manuel-taekwon-do.
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Sogi** | 서기 | Position | Littéralement « se tenir debout ». |
-| **So** | 서 | Position (forme courte) | Placée en tête d'un nom de technique pour indiquer la position. |
-| **Jase** | 자세 | Posture | Attitude du corps, comme dans Kyong Ye Jase. |
+| **Sogi** | [서기](../audio/termes/서기.m4a) | Position | Littéralement « se tenir debout ». |
+| **So** | [서](../audio/termes/서.m4a) | Position (forme courte) | Placée en tête d'un nom de technique pour indiquer la position. |
+| **Jase** | [자세](../audio/termes/자세.m4a) | Posture | Attitude du corps, comme dans Kyong Ye Jase. |
 | **Junbi Sogi** | [준비 서기](../audio/grammaire/Junbi-Sogi.m4a) | Position d'attente | Position prise avant une forme ou un exercice ; plusieurs variantes. |
 | **Charyo Sogi** | [차렷 서기](../audio/grammaire/Charyo-Sogi.m4a) | Position à l'attention | Talons joints, pointes ouvertes à 45°. |
 | **Moa Sogi** | [모아 서기](../audio/grammaire/Moa-Sogi.m4a) | Position pieds joints | Pieds collés l'un contre l'autre. |
@@ -182,7 +182,7 @@ Fiche cotée de chaque position dans la [partie IV du manuel](manuel-taekwon-do.
 | **Palja Sogi** | [팔자 서기](../audio/grammaire/Palja-Sogi.m4a) | Position ouverte | Pieds en forme de 八 ; pointes vers l'extérieur (Bakat) ou l'intérieur (An). |
 | **Annun Sogi** | [앉은 서기](../audio/grammaire/Annun-Sogi.m4a) | Position assise | Position du cavalier, jambes fléchies, poids également réparti. |
 | **Gunnun Sogi** | [걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a) | Position de marche | Position avant longue, genou avant fléchi au-dessus du talon. |
-| **Niunja Sogi** | [ㄴ자 서기](../audio/grammaire/Niunja-Sogi.m4a) | Position en L | Pieds en forme de la lettre ㄴ ; 70 % du poids sur la jambe arrière. |
+| **Niunja Sogi** | [ㄴ자 서기](../audio/grammaire/Niunja-Sogi.m4a) | Position en L | Pieds en forme de la lettre [ㄴ](../audio/termes/ㄴ.m4a) ; 70 % du poids sur la jambe arrière. |
 | **Gojung Sogi** | [고정 서기](../audio/grammaire/Gojung-Sogi.m4a) | Position fixe | Proche de la position en L, poids réparti à parts égales. |
 | **Dwitbal Sogi** | [뒷발 서기](../audio/grammaire/Dwitbal-Sogi.m4a) | Position arrière rapprochée | Position courte, l'essentiel du poids sur la jambe arrière. |
 | **Kyocha Sogi** | [교차 서기](../audio/grammaire/Kyocha-Sogi.m4a) | Position en X | Jambes croisées, souvent à la réception d'un saut. |
@@ -209,24 +209,24 @@ Ces mots précisent où va la technique. Ils se combinent librement : *Nopunde B
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit | Précise le membre qui agit. |
 | **Ap** | [앞](../audio/grammaire/Ap.m4a) | Avant, de face | Vers l'avant. |
 | **Yop** | [옆](../audio/grammaire/Yop.m4a) | Côté, latéral | Vers le côté. |
-| **Dwit** | 뒤 | Arrière | Vers l'arrière (Dwit Chagi, Dwit Palkup). |
-| **Wi** | 위 | Haut, dessus | Dans Wi Palkup, coup de coude montant. |
-| **Mit** | 밑 | Dessous | Dans Mit Palmok, Mit Joomuk. |
-| **An** | 안 | Intérieur | Dans An Palmok, An Makgi. |
-| **Bakat** | 바깥 | Extérieur | Dans Bakat Palmok, Bakat Makgi. |
+| **Dwit** | [뒤](../audio/termes/뒤.m4a) | Arrière | Vers l'arrière (Dwit Chagi, Dwit Palkup). |
+| **Wi** | [위](../audio/termes/위.m4a) | Haut, dessus | Dans Wi Palkup, coup de coude montant. |
+| **Mit** | [밑](../audio/termes/밑.m4a) | Dessous | Dans Mit Palmok, Mit Joomuk. |
+| **An** | [안](../audio/termes/안.m4a) | Intérieur | Dans An Palmok, An Makgi. |
+| **Bakat** | [바깥](../audio/termes/바깥.m4a) | Extérieur | Dans Bakat Palmok, Bakat Makgi. |
 | **Anuro** | [안으로](../audio/grammaire/Anuro.m4a) | Vers l'intérieur | Trajectoire de l'extérieur vers l'axe du corps. |
 | **Bakuro** | [밖으로](../audio/grammaire/Bakuro.m4a) | Vers l'extérieur | Trajectoire de l'axe du corps vers l'extérieur. |
 | **Ollyo** | [올려](../audio/grammaire/Ollyo.m4a) | Montant | Trajectoire de bas en haut. |
 | **Naeryo** | [내려](../audio/grammaire/Naeryo.m4a) | Descendant | Trajectoire de haut en bas. |
 | **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire | Trajectoire courbe vers la cible. |
-| **Sewo** | 세워 | Vertical | Poing ou pied tenu à la verticale. |
-| **Dwijibo** | 뒤집어 | Retourné | Poing tourné paume vers le haut. |
-| **Soopyong** | 수평 | Horizontal | Avant-bras ou coude tenus à l'horizontale. |
-| **Sasun** | 사선 | Diagonal | Trajectoire en biais. |
-| **Yobap** | 옆앞 | De biais avant | Entre l'avant et le côté. |
-| **Narani** | 나란히 | Parallèle | Deux membres agissant côte à côte. |
-| **Kyocha** | 교차 | Croisé | Deux poignets ou deux jambes croisés en X. |
-| **Saju** | 사주 | Quatre directions | Exercice exécuté vers les quatre points cardinaux. |
+| **Sewo** | [세워](../audio/termes/세워.m4a) | Vertical | Poing ou pied tenu à la verticale. |
+| **Dwijibo** | [뒤집어](../audio/termes/뒤집어.m4a) | Retourné | Poing tourné paume vers le haut. |
+| **Soopyong** | [수평](../audio/termes/수평.m4a) | Horizontal | Avant-bras ou coude tenus à l'horizontale. |
+| **Sasun** | [사선](../audio/termes/사선.m4a) | Diagonal | Trajectoire en biais. |
+| **Yobap** | [옆앞](../audio/termes/옆앞.m4a) | De biais avant | Entre l'avant et le côté. |
+| **Narani** | [나란히](../audio/termes/나란히.m4a) | Parallèle | Deux membres agissant côte à côte. |
+| **Kyocha** | [교차](../audio/termes/교차.m4a) | Croisé | Deux poignets ou deux jambes croisés en X. |
+| **Saju** | [사주](../audio/termes/사주.m4a) | Quatre directions | Exercice exécuté vers les quatre points cardinaux. |
 
 ## Formes et figures
 
@@ -234,16 +234,16 @@ Plusieurs techniques portent le nom de la forme qu'elles dessinent, souvent une 
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Kiokja** | ㄱ자 | En forme de ㄱ | Angle droit : Kiokja Jirugi, coup de poing à angle droit. |
-| **Gutja** | 구자 | En forme de 9 | Gutja Makgi, blocage dont les bras dessinent un 9 (Gu, « neuf »). |
-| **Niunja** | ㄴ자 | En forme de ㄴ | Position en L. |
-| **Digutja** | ㄷ자 | En forme de ㄷ | Coup de poing en U, une main haute et une main basse. |
-| **San** | 산 | Montagne | San Makgi, blocage en W dessiné par les bras. |
-| **Mongdung-i** | 몽둥이 | Bâton | Mongdung-i Makgi, blocage en U contre un coup de bâton. |
-| **Bandal** | 반달 | Demi-lune | Bandal Chagi (croissant), Bandalson (main en arc). |
-| **Doo** | 두 | Deux | Les deux mains agissent ensemble : Doo Sonbadak Makgi. |
-| **Sang** | 쌍 | Double, paire | Deux membres identiques en même temps : Sang Palmok Makgi. |
-| **Ijung** | 이중 | Double répété | Deux coups du même membre : Ijung Chagi. |
+| **Kiokja** | [ㄱ자](../audio/termes/ㄱ자.m4a) | En forme de [ㄱ](../audio/termes/ㄱ.m4a) | Angle droit : Kiokja Jirugi, coup de poing à angle droit. |
+| **Gutja** | [구자](../audio/termes/구자.m4a) | En forme de 9 | Gutja Makgi, blocage dont les bras dessinent un 9 (Gu, « neuf »). |
+| **Niunja** | [ㄴ자](../audio/termes/ㄴ자.m4a) | En forme de [ㄴ](../audio/termes/ㄴ.m4a) | Position en L. |
+| **Digutja** | [ㄷ자](../audio/termes/ㄷ자.m4a) | En forme de [ㄷ](../audio/termes/ㄷ.m4a) | Coup de poing en U, une main haute et une main basse. |
+| **San** | [산](../audio/termes/산.m4a) | Montagne | San Makgi, blocage en W dessiné par les bras. |
+| **Mongdung-i** | [몽둥이](../audio/termes/몽둥이.m4a) | Bâton | Mongdung-i Makgi, blocage en U contre un coup de bâton. |
+| **Bandal** | [반달](../audio/termes/반달.m4a) | Demi-lune | Bandal Chagi (croissant), Bandalson (main en arc). |
+| **Doo** | [두](../audio/termes/두.m4a) | Deux | Les deux mains agissent ensemble : Doo Sonbadak Makgi. |
+| **Sang** | [쌍](../audio/termes/쌍.m4a) | Double, paire | Deux membres identiques en même temps : Sang Palmok Makgi. |
+| **Ijung** | [이중](../audio/termes/이중.m4a) | Double répété | Deux coups du même membre : Ijung Chagi. |
 | **Sangbal** | [쌍발](../audio/grammaire/Sangbal.m4a) | Les deux pieds | Deux pieds qui frappent simultanément en l'air. |
 | **Yonsok** | [연속](../audio/grammaire/Yonsok.m4a) | Consécutif | Plusieurs techniques enchaînées sans pause. |
 
@@ -253,33 +253,33 @@ Le dernier mot d'un nom de technique dit **comment** elle agit. Exemples de déc
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Makgi** | 막기 | Blocage | Toute action défensive qui arrête, dévie ou contrôle une attaque. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage | Toute action défensive qui arrête, dévie ou contrôle une attaque. |
 | **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Coup de poing | Frappe rectiligne et perçante ; pour un pied, coup perçant (Yop Cha Jirugi). |
-| **Taerigi** | 때리기 | Frappe | Frappe cinglante ou circulaire (tranchant de main, revers du poing, coude). |
+| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe | Frappe cinglante ou circulaire (tranchant de main, revers du poing, coude). |
 | **Tulgi** | [뚫기](../audio/grammaire/Tulgi.m4a) | Pique | Frappe perçante d'une petite surface : bout des doigts, coude, pied. |
-| **Chagi** | 차기 | Coup de pied | Toute attaque de la jambe ; forme courte Cha devant un verbe (Ap Cha Busigi). |
+| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Toute attaque de la jambe ; forme courte Cha devant un verbe (Ap Cha Busigi). |
 | **Busigi** | [부시기](../audio/grammaire/Busigi.m4a) | Fouetté | Coup de pied qui part et revient du genou d'un seul trait. |
 | **Milgi** | [밀기](../audio/grammaire/Milgi.m4a) | Poussée | Pression continue qui repousse l'adversaire. |
 | **Olligi** | [올리기](../audio/grammaire/Olligi.m4a) | Élévation | Jambe tendue montée de bas en haut. |
-| **Momchugi** | 멈추기 | Arrêt | Coup de pied qui stoppe une attaque à son départ. |
-| **Japgi** | 잡기 | Saisie | Prise d'un membre ou du vêtement adverse. |
-| **Ghutgi** | 긋기 | Coupe, griffure | Mouvement tranchant qui balaie la cible. |
+| **Momchugi** | [멈추기](../audio/termes/멈추기.m4a) | Arrêt | Coup de pied qui stoppe une attaque à son départ. |
+| **Japgi** | [잡기](../audio/termes/잡기.m4a) | Saisie | Prise d'un membre ou du vêtement adverse. |
+| **Ghutgi** | [긋기](../audio/termes/긋기.m4a) | Coupe, griffure | Mouvement tranchant qui balaie la cible. |
 | **Nullo** | [눌러](../audio/grammaire/Nullo.m4a) | En pressant | Écrasement vers le bas (Nullo Makgi, Yop Nullo Chagi). |
-| **Miro** | 밀어 | En poussant | Blocage qui repousse le bras adverse. |
-| **Golcho** | 걸쳐 | En accrochant | Blocage crocheté de la paume. |
+| **Miro** | [밀어](../audio/termes/밀어.m4a) | En poussant | Blocage qui repousse le bras adverse. |
+| **Golcho** | [걸쳐](../audio/termes/걸쳐.m4a) | En accrochant | Blocage crocheté de la paume. |
 | **Goro** | [걸어](../audio/grammaire/Goro.m4a) | En crochetant | Goro Chagi, coup de pied crocheté. |
-| **Hechyo** | 헤쳐 | En écartant | Double blocage qui ouvre les deux bras vers l'extérieur. |
-| **Momchau** | 멈춰 | En arrêtant | Blocage d'arrêt. |
-| **Chookyo** | 추켜 | En soulevant | Blocage montant qui soulève l'attaque. |
-| **Duro** | 들어 | En pelletant | Blocage en cuillère, de bas en haut. |
-| **Butjaba** | 붙잡아 | En saisissant | Blocage suivi d'une saisie. |
-| **Dollimyo** | 돌리며 | En tournant | Blocage circulaire de l'avant-bras. |
-| **Daebi** | 대비 | Garde | Blocage de garde, l'autre bras en protection. |
-| **Hori** | 허리 | Taille | Hori Makgi, blocage au niveau de la taille. |
+| **Hechyo** | [헤쳐](../audio/termes/헤쳐.m4a) | En écartant | Double blocage qui ouvre les deux bras vers l'extérieur. |
+| **Momchau** | [멈춰](../audio/termes/멈춰.m4a) | En arrêtant | Blocage d'arrêt. |
+| **Chookyo** | [추켜](../audio/termes/추켜.m4a) | En soulevant | Blocage montant qui soulève l'attaque. |
+| **Duro** | [들어](../audio/termes/들어.m4a) | En pelletant | Blocage en cuillère, de bas en haut. |
+| **Butjaba** | [붙잡아](../audio/termes/붙잡아.m4a) | En saisissant | Blocage suivi d'une saisie. |
+| **Dollimyo** | [돌리며](../audio/termes/돌리며.m4a) | En tournant | Blocage circulaire de l'avant-bras. |
+| **Daebi** | [대비](../audio/termes/대비.m4a) | Garde | Blocage de garde, l'autre bras en protection. |
+| **Hori** | [허리](../audio/termes/허리.m4a) | Taille | Hori Makgi, blocage au niveau de la taille. |
 | **Bituro** | [비틀어](../audio/grammaire/Bituro.m4a) | En vrillant | Coup de pied qui s'ouvre en torsion vers l'extérieur. |
 | **Suroh** | [쓸어](../audio/grammaire/Suroh.m4a) | En balayant | Fauchage rasant le sol. |
-| **Japgo** | 잡고 | En tenant | Technique exécutée en gardant une saisie. |
-| **Pihamyo** | 피하며 | En esquivant | Technique exécutée pendant une esquive. |
+| **Japgo** | [잡고](../audio/termes/잡고.m4a) | En tenant | Technique exécutée en gardant une saisie. |
+| **Pihamyo** | [피하며](../audio/termes/피하며.m4a) | En esquivant | Technique exécutée pendant une esquive. |
 | **Twimyo** | [뛰며](../audio/grammaire/Twimyo.m4a) | En sautant | Technique exécutée en l'air. |
 | **Twio** | [뛰어](../audio/grammaire/Twio.m4a) | Sauté | Variante de Twimyo ; Twio Nomo, « en sautant par-dessus ». |
 | **Dora** | [돌아](../audio/grammaire/Dora.m4a) | En se retournant | Rotation du corps par le dos avant la technique. |
@@ -301,7 +301,7 @@ Le répertoire complet se trouve dans [les fiches de coups de pied](../chagi/REA
 | **Bandal Chagi** | [반달차기](../audio/chagi/bandal-chagi.m4a) | Coup de pied en croissant | Trajectoire en demi-lune. |
 | **Bituro Chagi** | [비틀어차기](../audio/grammaire/Bituro-Chagi.m4a) | Coup de pied vrillé | Départ de face, ouverture en torsion à l'impact. |
 | **Suroh Chagi** | [쓸어차기](../audio/grammaire/Suroh-Chagi.m4a) | Balayage | Faucher l'appui de l'adversaire. |
-| **Moorup Chagi** | 무릎차기 | Coup de genou | Frappe montante ou directe du genou. |
+| **Moorup Chagi** | [무릎차기](../audio/termes/무릎차기.m4a) | Coup de genou | Frappe montante ou directe du genou. |
 | **Twimyo Chagi** | [뛰며차기](../audio/chagi/twimyo-chagi.m4a) | Coup de pied sauté | Toute technique de pied exécutée en l'air. |
 
 ## Les déplacements (Dolgi)
@@ -310,17 +310,17 @@ Voir le [chapitre 17 du manuel](manuel-taekwon-do.md#17-les-déplacements-dolgi)
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Dolgi** | 돌기 | Rotation, pivot | Changement d'orientation du corps ; désigne aussi l'ensemble des déplacements. |
-| **Didimyo** | 디디며 | En posant le pied | Déplacement d'un pas. |
-| **Omgyo Didimyo** | 옮겨 디디며 | En déplaçant le pied | Déplacement d'un pied vers une nouvelle place. |
-| **Nagagi** | 나가기 | Avancer | Didimyo Nagagi, un pas vers l'avant. |
-| **Duruogi** | 들어오기 | Reculer | Didimyo Duruogi, un pas vers l'arrière. |
-| **Ibo** | 이보 | Deux pas | Ibo Omgyo Didimyo, double pas. |
-| **Gujari** | 그 자리 | Sur place | Gujari Dolgi, pivot sans changer de place. |
+| **Dolgi** | [돌기](../audio/termes/돌기.m4a) | Rotation, pivot | Changement d'orientation du corps ; désigne aussi l'ensemble des déplacements. |
+| **Didimyo** | [디디며](../audio/termes/디디며.m4a) | En posant le pied | Déplacement d'un pas. |
+| **Omgyo Didimyo** | [옮겨 디디며](../audio/termes/옮겨-디디며.m4a) | En déplaçant le pied | Déplacement d'un pied vers une nouvelle place. |
+| **Nagagi** | [나가기](../audio/termes/나가기.m4a) | Avancer | Didimyo Nagagi, un pas vers l'avant. |
+| **Duruogi** | [들어오기](../audio/termes/들어오기.m4a) | Reculer | Didimyo Duruogi, un pas vers l'arrière. |
+| **Ibo** | [이보](../audio/termes/이보.m4a) | Deux pas | Ibo Omgyo Didimyo, double pas. |
+| **Gujari** | [그 자리](../audio/termes/그-자리.m4a) | Sur place | Gujari Dolgi, pivot sans changer de place. |
 | **Mikulgi** | [미끌기](../audio/grammaire/Mikulgi.m4a) | Glissement | Pas glissé qui ferme la distance. |
-| **Jajunbal** | 잦은발 | Pas rapide | Changement de pied rapide pour ajuster la distance. |
-| **Apuro** | 앞으로 | Vers l'avant | Direction du déplacement. |
-| **Dwiro** | 뒤로 | Vers l'arrière | Direction du déplacement. |
+| **Jajunbal** | [잦은발](../audio/termes/잦은발.m4a) | Pas rapide | Changement de pied rapide pour ajuster la distance. |
+| **Apuro** | [앞으로](../audio/termes/앞으로.m4a) | Vers l'avant | Direction du déplacement. |
+| **Dwiro** | [뒤로](../audio/termes/뒤로.m4a) | Vers l'arrière | Direction du déplacement. |
 
 ## Combat, casse et autodéfense
 
@@ -328,20 +328,20 @@ Voir la [section Combat et autodéfense](../Combat/README.md).
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Matsogi** | 맞서기 | Combat | Toute forme d'affrontement avec un partenaire. |
+| **Matsogi** | [맞서기](../audio/combats/Matsogi.m4a) | Combat | Toute forme d'affrontement avec un partenaire. |
 | **Yaksok Matsogi** | [약속 맞서기](../audio/grammaire/약속-맞서기.m4a) | Combat arrangé | Attaques et défenses convenues d'avance. |
 | **Sambo Matsogi** | [삼보 맞서기](../audio/combats/Sambo-Matsogi.m4a) | Combat à trois pas | Trois attaques, trois défenses et une riposte. |
 | **Ibo Matsogi** | [이보 맞서기](../audio/combats/Ibo-Matsogi.m4a) | Combat à deux pas | Deux attaques, deux défenses et une riposte. |
 | **Ilbo Matsogi** | [일보 맞서기](../audio/combats/Ilbo-Matsogi.m4a) | Combat à un pas | Une attaque, une défense et une riposte décisive. |
 | **Ban Jayu Matsogi** | [반자유 맞서기](../audio/combats/Ban-Jayu-Matsogi.m4a) | Combat semi-libre | Échange d'une attaque et d'une riposte, sans séquence imposée. |
 | **Jayu Matsogi** | [자유 맞서기](../audio/combats/Jayu-Matsogi.m4a) | Combat libre | Affrontement sans séquence convenue, sous règles de contrôle. |
-| **Bal Matsogi** | 발 맞서기 | Combat de pieds | Combat où seules les jambes attaquent. |
-| **Hosinsul** | 호신술 | Autodéfense | Techniques de défense contre saisies, coups et armes. |
-| **Kyokpa** | 격파 | Casse | Briser des planches ou des tuiles pour mesurer la puissance et la précision. |
-| **Wiryok** | 위력 | Casse de puissance | Épreuve de casse qui teste la force. |
-| **Tukgi** | 특기 | Technique spéciale | Casse sautée ou acrobatique qui teste la précision et la hauteur. |
-| **Dallyon** | 단련 | Endurcissement | Conditionnement des armes naturelles (poteau, sac de frappe). |
-| **Kupso** | 급소 | Points vitaux | Zones vulnérables du corps ; voir la [page des points vitaux](../Combat/points-vitaux.md). |
+| **Bal Matsogi** | [발 맞서기](../audio/termes/발-맞서기.m4a) | Combat de pieds | Combat où seules les jambes attaquent. |
+| **Hosinsul** | [호신술](../audio/combats/Hosinsul.m4a) | Autodéfense | Techniques de défense contre saisies, coups et armes. |
+| **Kyokpa** | [격파](../audio/termes/격파.m4a) | Casse | Briser des planches ou des tuiles pour mesurer la puissance et la précision. |
+| **Wiryok** | [위력](../audio/termes/위력.m4a) | Casse de puissance | Épreuve de casse qui teste la force. |
+| **Tukgi** | [특기](../audio/combats/Tukgi.m4a) | Technique spéciale | Casse sautée ou acrobatique qui teste la précision et la hauteur. |
+| **Dallyon** | [단련](../audio/combats/Dallyon.m4a) | Endurcissement | Conditionnement des armes naturelles (poteau, sac de frappe). |
+| **Kupso** | [급소](../audio/termes/급소.m4a) | Points vitaux | Zones vulnérables du corps ; voir la [page des points vitaux](../Combat/points-vitaux.md). |
 
 ## La théorie de la puissance
 
@@ -349,13 +349,13 @@ Les six composantes de la *Him Ui Wolli*, détaillées au [chapitre 6 du manuel]
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |
-| **Him Ui Wolli** | 힘의 원리 | Théorie de la puissance | Principes physiques qui expliquent la force d'une technique. |
-| **Bandong Ryok** | 반동력 | Force de réaction | Le bras qui revient renforce celui qui frappe. |
-| **Jip Joong** | 집중 | Concentration | Réunir toute la force sur la plus petite surface au point d'impact. |
-| **Kyun Hyung** | 균형 | Équilibre | Stabilité indispensable avant, pendant et après la technique. |
-| **Hohup Jojul** | 호흡 조절 | Contrôle de la respiration | Expiration brève à l'impact ; ne jamais inspirer au moment de frapper ou de bloquer. |
-| **Jilyang** | 질량 | Masse | Mettre le poids du corps dans la technique, notamment par le mouvement de vague. |
-| **Sokdo** | 속도 | Vitesse | Facteur le plus important : l'énergie croît avec le carré de la vitesse. |
+| **Him Ui Wolli** | [힘의 원리](../audio/termes/힘의-원리.m4a) | Théorie de la puissance | Principes physiques qui expliquent la force d'une technique. |
+| **Bandong Ryok** | [반동력](../audio/termes/반동력.m4a) | Force de réaction | Le bras qui revient renforce celui qui frappe. |
+| **Jip Joong** | [집중](../audio/termes/집중.m4a) | Concentration | Réunir toute la force sur la plus petite surface au point d'impact. |
+| **Kyun Hyung** | [균형](../audio/termes/균형.m4a) | Équilibre | Stabilité indispensable avant, pendant et après la technique. |
+| **Hohup Jojul** | [호흡 조절](../audio/termes/호흡-조절.m4a) | Contrôle de la respiration | Expiration brève à l'impact ; ne jamais inspirer au moment de frapper ou de bloquer. |
+| **Jilyang** | [질량](../audio/termes/질량.m4a) | Masse | Mettre le poids du corps dans la technique, notamment par le mouvement de vague. |
+| **Sokdo** | [속도](../audio/termes/속도.m4a) | Vitesse | Facteur le plus important : l'énergie croît avec le carré de la vitesse. |
 
 ## Les formes (Tul)
 
@@ -397,12 +397,12 @@ Le nom de chaque forme rend hommage à une figure ou à un événement de l'hist
 
 Ce glossaire a été établi à partir du lexique trilingue, de la grammaire ITF et du manuel du site, recoupés avec l'*Encyclopédie condensée* du général Choi (1999). Quelques graphies des sources ont été corrigées ou harmonisées :
 
-* **Tulgi** s'écrit [뚫기](../audio/grammaire/Tulgi.m4a) (« percer »), comme dans les fiches des formes ; certaines sources donnent 찌르기.
-* **Opun Sonkut** s'écrit 엎은손끝 (« main retournée vers le bas ») ; une source donnait 오픈손끝, simple transcription de l'anglais *open*.
-* **Chookyo** (blocage soulevé) s'écrit 추켜 ; une source donnait 추교.
-* **Najunde** s'écrit [낮은데](../audio/grammaire/Najunde.m4a) ; on trouve aussi 낮인데 et 나중데, qui sont fautifs.
-* **Gujari Dolgi** s'écrit [그 자리 돌기](../audio/lexique/Gujari-dolgi.m4a) (« tourner sur place ») ; une source donnait 구자리돌기.
-* **Gutja** (blocage en 9) vient de *Gu*, « neuf » : 구자 ; le lexique source donnait ㄱ자, qui correspond à *Kiokja*.
+* **Tulgi** s'écrit [뚫기](../audio/grammaire/Tulgi.m4a) (« percer »), comme dans les fiches des formes ; certaines sources donnent [찌르기](../audio/termes/찌르기.m4a).
+* **Opun Sonkut** s'écrit [엎은손끝](../audio/grammaire/Opun-Sonkut.m4a) (« main retournée vers le bas ») ; une source donnait [오픈손끝](../audio/termes/오픈손끝.m4a), simple transcription de l'anglais *open*.
+* **Chookyo** (blocage soulevé) s'écrit [추켜](../audio/termes/추켜.m4a) ; une source donnait [추교](../audio/termes/추교.m4a).
+* **Najunde** s'écrit [낮은데](../audio/grammaire/Najunde.m4a) ; on trouve aussi [낮인데](../audio/termes/낮인데.m4a) et [나중데](../audio/termes/나중데.m4a), qui sont fautifs.
+* **Gujari Dolgi** s'écrit [그 자리 돌기](../audio/lexique/Gujari-dolgi.m4a) (« tourner sur place ») ; une source donnait [구자리돌기](../audio/termes/구자리돌기.m4a).
+* **Gutja** (blocage en 9) vient de *Gu*, « neuf » : [구자](../audio/termes/구자.m4a) ; le lexique source donnait [ㄱ자](../audio/termes/ㄱ자.m4a), qui correspond à *Kiokja*.
 * **Balkal Dung** et **Balkal Anchae** désignent la même surface ; la première graphie est la plus employée sur le site.
 
 *258 entrées.*

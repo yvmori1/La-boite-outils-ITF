@@ -6,8 +6,8 @@ Le **Cha Milgi** ([차 밀기](../audio/chagi/cha-milgi.m4a)) est le **coup de p
 
 Sa décomposition linguistique est la suivante :
 
-* **Cha (차) :** Coup de pied / Frappe de jambe.
-* **Milgi ([밀기](../audio/grammaire/Milgi.m4a)) :** Pousser / Action de poussée (du verbe *milda*, 밀다).
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied / Frappe de jambe.
+* **Milgi ([밀기](../audio/grammaire/Milgi.m4a)) :** Pousser / Action de poussée (du verbe *milda*, [밀다](../audio/termes/밀다.m4a)).
 
 Contrairement aux coups de pied fouettés (*Busigi*) qui recherchent l'impact sec et la vitesse, ou aux coups de pied perçants (*Jirugi*) qui cherchent à transpercer la cible, le **Cha Milgi** a pour objectif principal de **repousser physiquement l'adversaire**, de désorganiser ses appuis ou de créer une distance de sécurité.
 

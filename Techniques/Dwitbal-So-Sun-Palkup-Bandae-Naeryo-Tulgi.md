@@ -8,11 +8,11 @@ Cette technique d'attaque à courte distance et hautement pénétrante utilise l
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Sun Palkup (선 팔굽) :** Coude vertical (*Vertical elbow* — *Sun* = vertical, *Palkup* = coude).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Sun Palkup ([선 팔굽](../audio/termes/선-팔굽.m4a)) :** Coude vertical (*Vertical elbow* — *Sun* = vertical, *Palkup* = coude).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — le bras qui attaque est opposé à la jambe située à l'avant).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Vers le bas (*Downward*).
-* **Tulgi (찌르기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Transpercement direct en pression (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Transpercement direct en pression (*Thrust*).
 
 ---
 

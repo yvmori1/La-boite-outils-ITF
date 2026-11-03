@@ -8,7 +8,7 @@ Cette technique d'attaque fondamentale combine la stabilité latérale puissante
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax / abdomen).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé (*Reverse* — frappe du poing opposé au pied de déplacement/ancrage).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct piston (*Punch*).

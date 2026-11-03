@@ -9,7 +9,7 @@ Sa décomposition linguistique est la suivante :
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé.
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Tournant / Circulaire.
-* **Chagi (차기) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 C'est l'une des techniques aériennes les plus spectaculaires et dévastatrices du TaeKwon-Do ITF. Elle combine une impulsion verticale/horizontale avec une rotation complète du corps à 360° en l'air, pour délivrer une frappe circulaire du talon au niveau de la tête de l'adversaire.
 

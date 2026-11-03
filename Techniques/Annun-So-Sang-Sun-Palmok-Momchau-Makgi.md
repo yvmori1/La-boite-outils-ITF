@@ -8,12 +8,12 @@ Cette technique défensive bilatérale consiste à intercepter et stopper net (*
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Sang (쌍) :** Double / Jumeau (*Twin / Double*).
-* **Sun (선) :** Vertical / Droit / Érigé (*Vertical / Upright*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumeau (*Twin / Double*).
+* **Sun ([선](../audio/termes/선.m4a)) :** Vertical / Droit / Érigé (*Vertical / Upright*).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
-* **Momchau (멈춤) :** Arrêt / Blocage stoppeur (*Checking / Stopping*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Momchau ([멈춤](../audio/termes/멈춤.m4a)) :** Arrêt / Blocage stoppeur (*Checking / Stopping*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

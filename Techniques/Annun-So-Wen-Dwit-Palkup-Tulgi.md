@@ -8,11 +8,11 @@ Cette technique d'attaque à très courte distance utilise la pointe osseuse du 
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
-* **Dwit (뒤) :** Arrière / Derrière (*Rear*).
+* **Dwit ([뒤](../audio/termes/뒤.m4a)) :** Arrière / Derrière (*Rear*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi (찌르기) :** Coup perçant / Estocade en piston (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Coup perçant / Estocade en piston (*Thrust*).
 
 ---
 

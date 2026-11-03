@@ -6,9 +6,9 @@ Le **Ollyo Sonbadak Makgi** ([올려 손바닥 막기](../audio/lexique/Ollyo-so
 
 Sa décomposition linguistique est la suivante :
 
-* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / Ascendant (du verbe *ollyida*, 올리다 = lever / faire monter).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / Ascendant (du verbe *ollyida*, [올리다](../audio/termes/올리다.m4a) = lever / faire monter).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Son* = main, *Badak* = paume/surface).
-* **Makgi (막기) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 À la différence des blocages ascendants au-dessus de la tête (*Chookyo Makgi*) ou des blocages en soulèvement circulaire (*Deuro Makgi*), le **Ollyo Sonbadak Makgi** utilise une **poussée ou percussion montante directe exécutée avec le talon de la paume** pour intercepter un membre ou décoller la garde de l'adversaire par le bas.
 

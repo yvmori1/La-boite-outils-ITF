@@ -6,9 +6,9 @@ Le **Sangbal Chagi** ([쌍발 차기](../audio/chagi/sangbal-chagi.m4a)) est le 
 
 Sa décomposition linguistique est la suivante :
 
-* **Sang (쌍) :** Pair, jumeau, double (du hanja 雙).
-* **Bal (발) :** Pied.
-* **Chagi (차기) :** Coup de pied.
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Pair, jumeau, double (du hanja 雙).
+* **Bal ([발](../audio/termes/발.m4a)) :** Pied.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Cette technique spectaculaire nécessite un saut pour détacher les deux pieds du sol en même temps et délivrer **deux frappes simultanées** sur deux cibles distinctes (par exemple deux adversaires sur les côtés) ou sur une même cible de face.
 
@@ -18,12 +18,12 @@ Cette technique spectaculaire nécessite un saut pour détacher les deux pieds d
 
 Selon la direction des jambes, le *Sangbal Chagi* se décline sous deux formes majeures :
 
-### A. Sangbal Yopcha Jirugi (쌍발 옆차지르기) — Coup de pied latéral double
+### A. Sangbal Yopcha Jirugi ([쌍발 옆차지르기](../audio/termes/쌍발-옆차지르기.m4a)) — Coup de pied latéral double
 
 * **Arme naturelle :** **Balkal** (tranchants extérieurs des deux pieds - [발칼](../audio/grammaire/Balkal.m4a)).
 * **Direction :** Les deux jambes s'étendent latéralement de chaque côté du corps (à 180° l'une de l'autre) ou légèrement en diagonale vers l'avant pour percuter deux adversaires encadrant le pratiquant.
 
-### B. Sangbal Apcha Busigi (쌍발 앞차부시기) — Coup de pied avant double
+### B. Sangbal Apcha Busigi ([쌍발 앞차부시기](../audio/termes/쌍발-앞차부시기.m4a)) — Coup de pied avant double
 
 * **Arme naturelle :** **Apkumchi** (bols des deux pieds - [앞꿈치](../audio/grammaire/Apkumchi.m4a)).
 * **Direction :** Les deux jambes projetées droit devant vers le torse ou le visage de l'adversaire de face.

@@ -8,10 +8,10 @@ C'est l'attaque classique à main ouverte la plus enseignée, conçue pour trans
 
 Sa décomposition linguistique est la suivante :
 
-* **Sun (선) :** Droit / Vertical (indique la position de la main : tranchant orienté vers le sol, pouce vers le haut).
-* **Sonkut (손끝) :** Extrémité / Pointe des doigts (*Son* = main, *Kut* = pointe).
+* **Sun ([선](../audio/termes/선.m4a)) :** Droit / Vertical (indique la position de la main : tranchant orienté vers le sol, pouce vers le haut).
+* **Sonkut ([손끝](../audio/termes/손끝.m4a)) :** Extrémité / Pointe des doigts (*Son* = main, *Kut* = pointe).
 * **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — ciblant le plexus solaire / l'estomac).
-* **Tulgi (찌르기) :** Pique / Poussée pénétrante (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée pénétrante (*Thrust*).
 
 ---
 

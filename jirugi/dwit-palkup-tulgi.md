@@ -6,9 +6,9 @@ Le **Dwit Palkup Tulgi** ([뒷 팔굽 찌르기](../audio/jirugi/dwit-palkup-tul
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwit (뒷) :** Arrière / Vers l'arrière (*Rear / Back*).
+* **Dwit ([뒷](../audio/termes/뒷.m4a)) :** Arrière / Vers l'arrière (*Rear / Back*).
 * **Palkup / Balkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Palkup* est l'orthographe officielle ITF pour le coude).
-* **Tulgi (찌르기) :** Pique / Poussée pénétrante en profondeur (*Thrust*). *(Note : Les attaques de coude sont également désignées par **Taerigi** lorsque l'accent est mis sur la percussivité circulaire, mais le terme **Tulgi** exprime ici la poussée directe en pénétration axiale).*
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée pénétrante en profondeur (*Thrust*). *(Note : Les attaques de coude sont également désignées par **Taerigi** lorsque l'accent est mis sur la percussivité circulaire, mais le terme **Tulgi** exprime ici la poussée directe en pénétration axiale).*
 
 Le **Dwit Palkup Tulgi** est une attaque redoutable à très courte distance, conçue pour transpercer la garde d'un adversaire situé directement **derrière soi** ou engagé au corps-à-corps.
 

@@ -13,10 +13,10 @@ Elle se traduit par : **Poussée horizontale double des coudes en position crois
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et pressés. |
-| **Sang** | 쌍 | Double / Jumeau (*Twin*) | Indique une action simultanée et symétrique des deux membres. |
-| **Palkup** | 팔꿈 | Coude | Surface d'impact (la pointe rigide de l'articulation du coude). |
-| **Soopyong** | 수평 | Horizontal | Orientation de la trajectoire (parallèle au plan du sol). |
-| **Tulgi** | 찌르기 | Pique / Poussée | Mouvement de pénétration rectiligne et perforant. |
+| **Sang** | [쌍](../audio/termes/쌍.m4a) | Double / Jumeau (*Twin*) | Indique une action simultanée et symétrique des deux membres. |
+| **Palkup** | [팔꿈](../audio/termes/팔꿈.m4a) | Coude | Surface d'impact (la pointe rigide de l'articulation du coude). |
+| **Soopyong** | [수평](../audio/termes/수평.m4a) | Horizontal | Orientation de la trajectoire (parallèle au plan du sol). |
+| **Tulgi** | [찌르기](../audio/termes/찌르기.m4a) | Pique / Poussée | Mouvement de pénétration rectiligne et perforant. |
 
 ---
 

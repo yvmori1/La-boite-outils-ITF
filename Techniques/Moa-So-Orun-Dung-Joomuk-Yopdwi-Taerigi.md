@@ -11,8 +11,8 @@ Sa décomposition linguistique est la suivante :
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist* — le dessus des deux premières jointures du poing).
-* **Yopdwi (옆뒤) :** Latéral-arrière / Diagonale arrière-côté (*Side-rear* — zone à mi-chemin entre le côté et l'arrière).
-* **Taerigi (때리기) :** Coup percutant / Fouetté (*Strike*).
+* **Yopdwi ([옆뒤](../audio/termes/옆뒤.m4a)) :** Latéral-arrière / Diagonale arrière-côté (*Side-rear* — zone à mi-chemin entre le côté et l'arrière).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Fouetté (*Strike*).
 
 ---
 

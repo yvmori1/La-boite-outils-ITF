@@ -8,10 +8,10 @@ C'est l'une des contre-attaques les plus spectaculaires, efficaces et gratifiant
 
 Sa décomposition linguistique est la suivante :
 
-* **Pihamyo (피하며) :** En esquivant, tout en évitant (du verbe *pihada*, esquiver).
+* **Pihamyo ([피하며](../audio/termes/피하며.m4a)) :** En esquivant, tout en évitant (du verbe *pihada*, esquiver).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé.
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Tournant / Circulaire.
-* **Chagi (차기) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Alors qu'un *Bandae Dollyo Chagi* classique s'exécute souvent en offensive directe ou en rotation sur place, le **Pihamyo Bandae Dollyo Chagi** intègre un **effacement du buste ou un retrait du corps** pour laisser passer l'attaque directe de l'adversaire (un coup de poing direct ou une charge) avant de lui asséner un coup de talon au visage.
 

@@ -1,6 +1,8 @@
 # Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi
 
-La **Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi** (걷는 서 반달손 높은데 반대 반달 때리기) est la **frappe semi-circulaire haute inversée avec la main arquée en posture de marche** (*Walking stance high reverse crescent strike with an arc-hand*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 반달손 높은데 반대 반달 때리기](../audio/Techniques/Gunnun-So-Bandal-Son-Nopunde-Bandae-Bandal-Taerigi.m4a)
+
+La **Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi** ([걷는 서 반달손 높은데 반대 반달 때리기](../audio/Techniques/Gunnun-So-Bandal-Son-Nopunde-Bandae-Bandal-Taerigi.m4a)) est la **frappe semi-circulaire haute inversée avec la main arquée en posture de marche** (*Walking stance high reverse crescent strike with an arc-hand*) en TaeKwon-Do ITF.
 
 La main arquée (**Bandal Son**, l'arc formé entre le pouce et l'index écartés) suit une trajectoire en croissant pour venir s'emboîter autour de la gorge. Le mot *Bandal* apparaît deux fois : pour nommer l'arme et pour nommer la trajectoire.
 
@@ -10,8 +12,8 @@ Sa décomposition linguistique est la suivante :
 * **Bandal Son ([반달손](../audio/grammaire/Bandalson.m4a)) :** Main arquée (*Arc-hand* — creux entre le pouce et l'index).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Bandal (반달) :** En croissant (*Crescent* — trajectoire en arc).
-* **Taerigi (때리기) :** Frappe (*Strike*).
+* **Bandal ([반달](../audio/termes/반달.m4a)) :** En croissant (*Crescent* — trajectoire en arc).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
 
 ---
 

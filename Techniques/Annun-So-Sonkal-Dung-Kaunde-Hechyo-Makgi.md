@@ -8,11 +8,11 @@ Cette technique défensive bilatérale utilise simultanément les deux tranchant
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Tranchant interne de la main (*Reverse knife-hand* — côté pouce/index, avec le pouce fortement replié vers la paume).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur des épaules / du thorax).
-* **Hechyo (헤쳐) :** Écarter / Séparer / Fendre (*Wedging*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Hechyo ([헤쳐](../audio/termes/헤쳐.m4a)) :** Écarter / Séparer / Fendre (*Wedging*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

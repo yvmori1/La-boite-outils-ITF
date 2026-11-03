@@ -12,10 +12,10 @@ Le **Sonkal Twio Dolmyo Taerigi** ([손칼 뛰어 돌며 때리기](../audio/Tec
 | --- | --- | --- | --- |
 | **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | La surface d'impact (bord externe de la main, de la base du petit doigt au poignet). |
 | **Twio** | [뛰어](../audio/grammaire/Twio.m4a) | En sautant | Indique que le coup est porté en phase aérienne (sans contact avec le sol). |
-| **Dolmyo** | 돌며 | En tournant | Mouvement de rotation du corps autour de son axe vertical pendant le saut. |
-| **Taerigi** | 때리기 | Frappe / Coup | Attaque circulaire ou fustigeante (par opposition à un coup direct *Jirugi*). |
+| **Dolmyo** | [돌며](../audio/termes/돌며.m4a) | En tournant | Mouvement de rotation du corps autour de son axe vertical pendant le saut. |
+| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Attaque circulaire ou fustigeante (par opposition à un coup direct *Jirugi*). |
 
-> **Note linguistique :** *Dolmyo* et *Dolymyo* proviennent de la même racine coréenne 돌며 (*dol-myeo*, du verbe *dolda* : tourner). Il s'agit simplement de deux transcriptions phonétiques du même terme.
+> **Note linguistique :** *Dolmyo* et *Dolymyo* proviennent de la même racine coréenne [돌며](../audio/termes/돌며.m4a) (*dol-myeo*, du verbe *dolda* : tourner). Il s'agit simplement de deux transcriptions phonétiques du même terme.
 
 ---
 

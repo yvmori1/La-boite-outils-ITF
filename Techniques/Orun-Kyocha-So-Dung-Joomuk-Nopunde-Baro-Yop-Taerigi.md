@@ -14,11 +14,11 @@ Elle se traduit par : **Frappe latérale directe du revers du poing au niveau ha
 | --- | --- | --- | --- |
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
 | **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et serrés. |
-| **Dung Joomuk** | 등 주먹 | Revers du poing | Surface d'impact (la partie dorsale du poing, sur la zone des deux premières phalanges). |
+| **Dung Joomuk** | [등 주먹](../audio/termes/등-주먹.m4a) | Revers du poing | Surface d'impact (la partie dorsale du poing, sur la zone des deux premières phalanges). |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du visage, de la tempe ou des yeux). |
 | **Baro** | [바로](../audio/grammaire/Baro.m4a) | Direct / Homologue | Signifie que la frappe est exécutée avec la **main du même côté que le pied avant** (ici, la **main droite**). |
 | **Yop** | [옆](../audio/grammaire/Yop.m4a) | Latéral / De côté | Direction de l'attaque (exécutée vers le côté du corps). |
-| **Taerigi** | 때리기 | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide du coude. |
+| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide du coude. |
 
 ---
 

@@ -8,11 +8,11 @@ Cette technique d'attaque rapide et cinglante utilise l'effet de ressort de l'ar
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Back fist*).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Vers l'avant (*Front*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 
@@ -22,7 +22,7 @@ Sa décomposition linguistique est la suivante :
 | --- | --- |
 | **Arme naturelle** | **Dung Joomuk** (Le revers du poing droit, la zone d'impact principale se concentrant sur le sommet des deux grosses jointures de l'index et du majeur). |
 | **Trajectoire** | **Verticale / Fouettée d'arrière en avant** le long de la ligne centrale, articulée autour du coude. |
-| **Cibles prioritaires** | L'**arête du nez** / sous le nez (*Injoung*), la **mâchoire / le menton** (*G턱*) ou la **tempe** (*Gwanja Noryeok*). |
+| **Cibles prioritaires** | L'**arête du nez** / sous le nez (*Injoung*), la **mâchoire / le menton** (*G[턱](../audio/termes/턱.m4a)*) ou la **tempe** (*Gwanja Noryeok*). |
 | **Posture de base** | **Annun Sogi** (Pieds parallèles espacés de 1,5 largeur d'épaules, genoux fléchis poussés vers l'extérieur, poids 50/50). |
 
 ---

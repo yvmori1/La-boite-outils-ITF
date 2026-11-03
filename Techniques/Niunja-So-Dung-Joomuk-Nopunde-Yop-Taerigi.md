@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 등주먹 높은데 옆 때리기](../audio/Techniques/Niunja-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
 
-Le **Niunja So Dung Joomuk Nopunde Yop Taerigi** (ㄴ자 서 등주먹 높은데 옆 때리기) est le **coup cinglant latéral haut avec le revers du poing en posture en L** (*L-stance backfist high side strike*) en TaeKwon-Do ITF.
+Le **Niunja So Dung Joomuk Nopunde Yop Taerigi** ([ㄴ자 서 등주먹 높은데 옆 때리기](../audio/Techniques/Niunja-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)) est le **coup cinglant latéral haut avec le revers du poing en posture en L** (*L-stance backfist high side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et percutante utilise le revers du poing fermé (**Dung Joomuk**) dans une trajectoire en arc de cercle dirigée vers le côté (**Yop**). Délivrée au niveau haut (**Nopunde**), elle vise des cibles vulnérables situées sur le profil du visage de l'adversaire (tempe, mâchoire, os zygomatique ou nez).
 
@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing fermé (*Backfist* — la surface dorsale des deux premières jointures de l'index et du majeur).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou de la tempe).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
-* **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

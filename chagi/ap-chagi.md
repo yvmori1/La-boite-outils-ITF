@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [앞차기](../audio/chagi/ap-chagi.m4a)
 
-Le coup de pied avant, appelé **Ap Chagi** (앞차기) en TaeKwon-Do ITF, est l'une des techniques de jambe les plus fondamentales, mais aussi l'une des plus redoutables lorsqu'elle est exécutée avec précision.
+Le coup de pied avant, appelé **Ap Chagi** ([앞차기](../audio/chagi/ap-chagi.m4a)) en TaeKwon-Do ITF, est l'une des techniques de jambe les plus fondamentales, mais aussi l'une des plus redoutables lorsqu'elle est exécutée avec précision.
 
 Contrairement aux idées reçues, ce n'est pas un simple « coup de pied direct », mais une technique fouettée exigeant une excellente coordination, de la souplesse et un transfert de masse efficace.
 

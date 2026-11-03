@@ -8,7 +8,7 @@ En terminologie ITF, lorsque le verbe **Jirugi** est employé sans précision di
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist* — désigne l'utilisation du devant du poing *Ap Joomuk*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax).

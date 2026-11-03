@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Moorup / Mureup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou (*Knee*).
 * **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Ascendant / Montant (*Rising / Upward*).
-* **Chagi (차기) :** Coup de pied / Frappe de jambe (*Kick*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied / Frappe de jambe (*Kick*).
 
 ---
 

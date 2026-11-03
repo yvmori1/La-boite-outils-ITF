@@ -8,11 +8,11 @@ Cette technique d'attaque bilatérale et symétrique utilise simultanément le t
 
 Sa décomposition linguistique est la suivante :
 
-* **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
-* **Sang (쌍) :** Double / Paire / Simultané (*Twin / Pair*).
+* **Narani So / Narani Sogi ([평행 서기](../audio/termes/평행-서기.m4a)) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Simultané (*Twin / Pair*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — le bord extérieur de la main ouverte, du petit doigt au poignet).
-* **Soopyong / Supyeong (수평) :** Horizontal / Dans le plan horizontal (*Horizontal*).
-* **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Soopyong / Supyeong ([수평](../audio/termes/수평.m4a)) :** Horizontal / Dans le plan horizontal (*Horizontal*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Soopyong*)** | **Mouvement horizontal et circulaire convergent ou divergent** : les deux bras se déploient dans un plan strictement parallèle au sol. |
 | **Zone ciblée / Hauteur** | Généralement le **niveau haut (*Nopunde*)** pour cibler les artères carotides/le cou, ou le **niveau moyen (*Kaunde*)** pour viser les côtés du buste. |
 | **Orientation des paumes** | À l'impact final, les paumes des deux mains sont orientées **vers le sol**. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
 
 ---
 

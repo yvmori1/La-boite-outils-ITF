@@ -8,10 +8,10 @@ Cette technique d'attaque rapprochée simultanée utilise la rigidité des deux 
 
 Sa décomposition linguistique est la suivante :
 
-* **Sang (쌍) :** Double / Paire / Jumeau (*Twin*).
-* **Soopyeong (수평) :** Horizontal (*Horizontal / Level*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Jumeau (*Twin*).
+* **Soopyeong ([수평](../audio/termes/수평.m4a)) :** Horizontal (*Horizontal / Level*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi (찌르기) :** Pique / Poussée perforante (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée perforante (*Thrust*).
 
 > 💡 **Nuance essentielle (*Tulgi* vs *Taerigi*) :**
 > Le terme **Tulgi** (pique/poussée) indique que la trajectoire des coudes est **rectiligne et perforante**, projetant la pointe du coude vers l'avant ou le côté comme une lance. Ce n'est pas un mouvement circulaire ou fouetté (*Taerigi*).

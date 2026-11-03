@@ -12,11 +12,11 @@ Elle se traduit par : **Blocage pressant inversé avec la paume de la main en po
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Nachuo So (Sogi)** | 낮추 서기 | Position basse (*Low Stance*) | Posture allongée et très basse (plus longue d'un pied que la position en marche *Gunnun Sogi*). |
+| **Nachuo So (Sogi)** | [낮추 서기](../audio/termes/낮추-서기.m4a) | Position basse (*Low Stance*) | Posture allongée et très basse (plus longue d'un pied que la position en marche *Gunnun Sogi*). |
 | **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base ferme de la paume). |
 | **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que le blocage est exécuté avec la **main opposée au pied avant**. |
 | **Noollo** | [눌러](../audio/grammaire/Nullo.m4a) | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser/écraser vers le bas). |
-| **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
 
 ---
 

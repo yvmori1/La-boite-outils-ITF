@@ -14,8 +14,8 @@ Souvent considérée comme l'un des coups de contre-attaque les plus dévastateu
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Dwit** | 뒤 | Arrière / Dos | Indique la direction de l'attaque portée vers l'arrière du corps. |
-| **Cha** | 차 | Coup de pied | Action d'attaque avec le membre inférieur (forme combinée de *Chagi*). |
+| **Dwit** | [뒤](../audio/termes/뒤.m4a) | Arrière / Dos | Indique la direction de l'attaque portée vers l'arrière du corps. |
+| **Cha** | [차](../audio/termes/차.m4a) | Coup de pied | Action d'attaque avec le membre inférieur (forme combinée de *Chagi*). |
 | **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Perçant / Poussée directe | Trajectoire rectiligne d'enfoncement (effet de piston). |
 
 ---

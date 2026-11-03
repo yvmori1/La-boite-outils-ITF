@@ -8,8 +8,8 @@ Sa décomposition linguistique est la suivante :
 
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé / En sens inverse.
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Circulaire / Tournant.
-* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, 걸다).
-* **Chagi (차기) :** Coup de pied.
+* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, [걸다](../audio/termes/걸다.m4a)).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Cette technique spectaculaire et dévastatrice combine une rotation complète du corps par le dos avec un **mouvement de crochet sec et circulaire du talon**, venant cueillir la cible depuis son angle mort.
 

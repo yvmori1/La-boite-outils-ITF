@@ -9,7 +9,7 @@ Cette posture statique et hautement symbolique combine l'ancrage strict pieds jo
 Sa décomposition linguistique est la suivante :
 
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Hanul / Haneul (하늘) :** Le Ciel (*Heaven*).
+* **Hanul / Haneul ([하늘](../audio/termes/하늘.m4a)) :** Le Ciel (*Heaven*).
 * **Son ([손](../audio/grammaire/Son.m4a)) :** La main (*Hand*).
 
 ---
@@ -22,7 +22,7 @@ Sa décomposition linguistique est la suivante :
 | **Placement des mains (*Hanulson*)** | Les deux mains sont ouvertes (**Sonkal**). La **main gauche entoure ou se place sous/devant la main droite**, les paumes étant dirigées vers le haut ou vers soi au niveau du visage/du front. |
 | **Hauteur des mains** | Les mains sont tenues hautes, généralement au niveau des yeux, du front ou juste au-dessus de la tête. |
 | **Position des coudes** | Les coudes sont fléchis et maintenus naturellement vers l'extérieur pour former un cadre harmonieux sans crisper les épaules. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*), colonne vertébrale parfaitement verticale. |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*), colonne vertébrale parfaitement verticale. |
 
 ---
 

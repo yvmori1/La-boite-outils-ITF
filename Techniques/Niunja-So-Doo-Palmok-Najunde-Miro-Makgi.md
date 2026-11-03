@@ -9,10 +9,10 @@ Cette technique défensive à contrôle continu utilise l'action combinée des d
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Doo Palmok (두 팔목) :** Double avant-bras (*Double forearm* — le bras principal bloque et le bras secondaire vient renforcer la structure).
+* **Doo Palmok ([두 팔목](../audio/termes/두-팔목.m4a)) :** Double avant-bras (*Double forearm* — le bras principal bloque et le bras secondaire vient renforcer la structure).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre et des cuisses).
-* **Miro (미로) :** Poussé / En poussant (*Pushing* — mouvement fluide et continu sans choc brusque).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Miro ([미로](../audio/termes/미로.m4a)) :** Poussé / En poussant (*Pushing* — mouvement fluide et continu sans choc brusque).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

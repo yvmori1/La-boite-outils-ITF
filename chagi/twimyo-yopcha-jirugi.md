@@ -9,7 +9,7 @@ C'est la **technique la plus emblématique et symbolique du TaeKwon-Do ITF**, re
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension.
-* **Yopcha / Yop (옆차 / [옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté.
+* **Yopcha / Yop ([옆차](../audio/termes/옆차.m4a) / [옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté.
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Pénétrant (effet piston).
 
 ---

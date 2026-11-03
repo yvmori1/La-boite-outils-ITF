@@ -11,8 +11,8 @@ Sa décomposition linguistique est la suivante :
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur des épaules / de la carotide / du cou).
-* **Bakuro (바깥으로) :** Vers l'extérieur / Du dedans vers l'extérieur (*Outward*).
-* **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur / Du dedans vers l'extérieur (*Outward*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

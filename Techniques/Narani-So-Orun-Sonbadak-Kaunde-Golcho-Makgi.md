@@ -8,12 +8,12 @@ Cette technique est le pendant symétrique exact du *Narani So Wen Sonbadak Kaun
 
 Sa décomposition linguistique est la suivante :
 
-* **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
+* **Narani So / Narani Sogi ([평행 서기](../audio/termes/평행-서기.m4a)) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Main droite (*Right*).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm* — main ouverte, 4 doigts bien serrés).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
-* **Golcho (걸쳐) :** En crochet / Crocheter / Chasser en accrochant (*Hooking / Catching*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Golcho ([걸쳐](../audio/termes/걸쳐.m4a)) :** En crochet / Crocheter / Chasser en accrochant (*Hooking / Catching*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 
@@ -26,7 +26,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Golcho*)** | **Circulaire en arc de cercle (du dehors vers le dedans)** : la main droite part de l'extérieur pour balayer et crocheter l'attaque vers la ligne centrale. |
 | **Point d'impact / Hauteur** | **Niveau moyen (*Kaunde*)** : le bas de la paume droite intercepte le poignet ou la cheville/tibia de l'adversaire à hauteur du plexus. |
 | **Main de réaction (*Bandae Son*)** | Le poing gauche (main opposée) est tiré à la hanche (*Heori*) ou placé en garde selon la combinaison du patron. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
 
 ---
 

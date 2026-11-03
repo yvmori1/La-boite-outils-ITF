@@ -9,10 +9,10 @@ Cette technique d'attaque percutante utilise la surface du dos de la main ouvert
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sondung (손등) :** Dos / Revers de la main (*Back hand* — la surface dorsale de la main ouverte).
+* **Sondung ([손등](../audio/termes/손등.m4a)) :** Dos / Revers de la main (*Back hand* — la surface dorsale de la main ouverte).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
 * **Palkup / Palgup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe avant**).
-* **Taerigi (때리기) :** Coup percutant / Cinglant (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant (*Strike*).
 
 ---
 

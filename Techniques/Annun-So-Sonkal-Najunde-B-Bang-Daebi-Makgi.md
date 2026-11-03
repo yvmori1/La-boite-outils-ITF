@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 손칼 낮은데](../audio/Techniques/Annun-So-Sonkal-Najunde-B-Bang-Daebi-Makgi.m4a)
 
-Le **Annun So Sonkal Najunde B-Bang Daebi Makgi** (앉은 서 손칼 낮은데 B방/ㅂ자 대비 막기) est le **blocage de garde bas en forme de "B" au tranchant de la main en posture du cavalier** (*Sitting stance knife-hand low B-shape guarding block*) en TaeKwon-Do ITF.
+Le **Annun So Sonkal Najunde B-Bang Daebi Makgi** ([앉은 서 손칼 낮은데](../audio/Techniques/Annun-So-Sonkal-Najunde-A-Bang-Daebi-Makgi.m4a) B[방](../audio/termes/방.m4a)/[ㅂ자 대비 막기](../audio/termes/ㅂ자-대비-막기.m4a)) est le **blocage de garde bas en forme de "B" au tranchant de la main en posture du cavalier** (*Sitting stance knife-hand low B-shape guarding block*) en TaeKwon-Do ITF.
 
-Cette technique défensive bilatérale utilise le tranchant extérieur des deux mains ouvertes (*Sonkal*) pour constituer une structure de garde encadrée en forme de **"B"** (associée à la silhouette de la lettre coréenne **ㅂ**), assurant une protection renforcée du bas-ventre et du flanc contre des attaques descendantes ou obliques.
+Cette technique défensive bilatérale utilise le tranchant extérieur des deux mains ouvertes (*Sonkal*) pour constituer une structure de garde encadrée en forme de **"B"** (associée à la silhouette de la lettre coréenne **[ㅂ](../audio/termes/ㅂ.m4a)**), assurant une protection renforcée du bas-ventre et du flanc contre des attaques descendantes ou obliques.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — côté extérieur/auriculaire).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
-* **B-Bang / B-shape (B방 / ㅂ자) :** En forme de "B" / cadre encadré en "B" (forme du *Pieup* coréen **ㅂ**).
-* **Daebi Makgi (대비 막기) :** Blocage de garde / protection synergique des deux mains (*Guarding block*).
+* **B-Bang / B-shape (B[방](../audio/termes/방.m4a) / [ㅂ자](../audio/termes/ㅂ자.m4a)) :** En forme de "B" / cadre encadré en "B" (forme du *Pieup* coréen **[ㅂ](../audio/termes/ㅂ.m4a)**).
+* **Daebi Makgi ([대비 막기](../audio/termes/대비-막기.m4a)) :** Blocage de garde / protection synergique des deux mains (*Guarding block*).
 
 ---
 
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sonkal** (Le tranchant extérieur des deux mains ouvertes : la tranche osseuse entre le poignet et la base du petit doigt, les doigts joints et le pouce fortement fléchi). |
-| **Structure des bras (*B-Bang*)** | Le bras principal descend en blocage bas (*Najunde*), tandis que le bras secondaire fléchit au-dessus sur un plan parallèle/étagé, créant la silhouette encadrée d'un "B" (ou **ㅂ**). |
+| **Structure des bras (*B-Bang*)** | Le bras principal descend en blocage bas (*Najunde*), tandis que le bras secondaire fléchit au-dessus sur un plan parallèle/étagé, créant la silhouette encadrée d'un "B" (ou **[ㅂ](../audio/termes/ㅂ.m4a)**). |
 | **Zone couverte** | Le bas-ventre, le plexus inférieur, la hanche et les cuisses contre les attaques basses ou obliques. |
 | **Orientation des mains** | Les tranchants extérieurs (*Sonkal*) sont tournés vers la ligne d'attaque, les paumes orientées vers le bas/extérieur. |
 | **Posture de base** | **Annun Sogi** (Pieds parallèles espacés de 1,5 largeur d'épaules, genoux fléchis poussés vers l'extérieur, poids 50/50). |

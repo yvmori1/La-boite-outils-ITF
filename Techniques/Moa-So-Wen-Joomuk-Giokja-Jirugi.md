@@ -4,14 +4,14 @@
 
 Le **Moa So Wen Joomuk Giokja Jirugi** ([모아 서 왼 주먹 ㄱ자 지르기](../audio/Techniques/Moa-So-Wen-Joomuk-Giokja-Jirugi.m4a)) est le **coup de poing en équerre (en angle droit) du bras gauche en posture pieds joints** (*Close stance left fist angle punch*) en TaeKwon-Do ITF.
 
-Cette technique d'attaque très spécifique projette le poing gauche en décrivant un angle droit (en forme de la lettre coréenne **ㄱ** — *Giok*) devant le buste. Elle est conçue pour frapper latéralement une cible située sur l'axe frontal ou le flanc de l'adversaire (comme la mâchoire, la tempe ou les côtes), tout en maintenant le corps ancré en posture pieds joints (**Moa Sogi**).
+Cette technique d'attaque très spécifique projette le poing gauche en décrivant un angle droit (en forme de la lettre coréenne **[ㄱ](../audio/termes/ㄱ.m4a)** — *Giok*) devant le buste. Elle est conçue pour frapper latéralement une cible située sur l'axe frontal ou le flanc de l'adversaire (comme la mâchoire, la tempe ou les côtes), tout en maintenant le corps ancré en posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Close stance* — les pieds sont complètement collés l'un contre l'autre, poids réparti à 50/50).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que la frappe est portée par le poing gauche).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist*).
-* **Giokja / Gyeokja (ㄱ자 / 격자) :** En forme d'équerre / d'angle droit (*Angle / Right-angle* — fait référence à la lettre coréenne **ㄱ** "Giok").
+* **Giokja / Gyeokja ([ㄱ자](../audio/termes/ㄱ자.m4a) / [격자](../audio/termes/격자.m4a)) :** En forme d'équerre / d'angle droit (*Angle / Right-angle* — fait référence à la lettre coréenne **[ㄱ](../audio/termes/ㄱ.m4a)** "Giok").
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
@@ -45,7 +45,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 3 : L'Impact en Équerre et le Verrouillage (*Giokja Snap*)
 
-1. **Détente en angle droit (*Giokja Jirugi*) :** Le poing gauche est projeté horizontalement devant le buste en décrivant un trajet en L ou en équerre (**ㄱ**).
+1. **Détente en angle droit (*Giokja Jirugi*) :** Le poing gauche est projeté horizontalement devant le buste en décrivant un trajet en L ou en équerre (**[ㄱ](../audio/termes/ㄱ.m4a)**).
 2. **Verrouillage du coude à 90° :** À l'impact, le coude gauche reste fléchi à 90° pour bloquer la structure du bras devant le thorax. Le poignet effectue sa rotation finale pour présenter la paume vers le sol.
 3. **Tirage de réaction :** Le poing droit est tiré violemment à la hanche (*Heori*), ce qui engage le torse de face.
 4. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle l'arrêt du poing et l'immobilité des pieds joints.

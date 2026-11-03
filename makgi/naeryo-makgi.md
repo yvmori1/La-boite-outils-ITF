@@ -6,8 +6,8 @@ Le **Naeryo Makgi** ([내려 막기](../audio/makgi/naeryo-makgi.m4a)) est le **
 
 Sa décomposition linguistique est la suivante :
 
-* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / De haut en bas (du verbe *naerida*, 내리다 = descendre / abaisser).
-* **Makgi (막기) :** Blocage / Défense.
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / De haut en bas (du verbe *naerida*, [내리다](../audio/termes/내리다.m4a) = descendre / abaisser).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 À la différence de *Najunde Makgi* qui définit simplement la **zone cible à protéger** (la section basse), **Naeryo Makgi** définit la **trajectoire descendante** du blocage. Ce mouvement utilise la gravité et le poids du corps pour écraser ou intercepter une attaque venant du bas ou montant vers le corps.
 

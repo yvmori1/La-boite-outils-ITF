@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du thorax, du plexus solaire ou du foie).
-* **Dwitcha / Dwit Chagi (뒷차 / 뒷차기) :** Coup de pied arrière (*Back kick*).
+* **Dwitcha / Dwit Chagi ([뒷차](../audio/termes/뒷차.m4a) / [뒷차기](../audio/termes/뒷차기.m4a)) :** Coup de pied arrière (*Back kick*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Pique en piston (*Piercing / Thrust*).
 
 ---

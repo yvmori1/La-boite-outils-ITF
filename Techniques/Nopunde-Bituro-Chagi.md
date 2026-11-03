@@ -12,7 +12,7 @@ Elle se traduit par : **Coup de pied en torsade / de biais au niveau haut** (*Hi
 | --- | --- | --- | --- |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (visage, tempe). |
 | **Bituro** | [비틀어](../audio/grammaire/Bituro.m4a) | Torsadé / De biais | Trajectoire vrillée de l'intérieur vers l'extérieur. |
-| **Chagi** | 차기 | Coup de pied | Technique d'attaque de jambe. |
+| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Technique d'attaque de jambe. |
 
 ## 2. Exécution et principes biomécaniques
 

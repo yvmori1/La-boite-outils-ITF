@@ -9,9 +9,9 @@ C'est une technique défensive classique et très visuelle qui permet de protég
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*).
-* **Sang (쌍) :** Double / Jumeau / Paire (*Twin / Pair*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumeau / Paire (*Twin / Pair*).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 

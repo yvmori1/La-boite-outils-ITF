@@ -8,11 +8,11 @@ Cette technique défensive double combine le recul de protection de la posture *
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Euhkallin / Eukkalin (엇갈린) :** Croisé / En X (*Crossed / X-*).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Euhkallin / Eukkalin ([엇갈린](../audio/termes/엇갈린.m4a)) :** Croisé / En X (*Crossed / X-*).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Vers le bas (*Downward*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

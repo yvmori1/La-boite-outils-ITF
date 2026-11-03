@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [왼 교차 서 두 팔목 높은데 막기](../audio/Techniques/Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.m4a)
 
-Le **Wen Kyocha So Doo Palmok Nopunde Makgi** (왼 교차 서 두 팔목 높은데 막기) est le **blocage haut au double avant-bras en posture en X gauche** (*Left X-stance double forearm high block*) en TaeKwon-Do ITF.
+Le **Wen Kyocha So Doo Palmok Nopunde Makgi** ([왼 교차 서 두 팔목 높은데 막기](../audio/Techniques/Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.m4a)) est le **blocage haut au double avant-bras en posture en X gauche** (*Left X-stance double forearm high block*) en TaeKwon-Do ITF.
 
 Cette technique défensive particulièrement puissante associe la structure renforcée du blocage au double avant-bras (*Doo Palmok*) avec la mobilité et la compacité de la posture en X (*Kyocha Sogi*). Elle permet d'intercepter et d'absorber des attaques lourdes dirigées vers la tête (coups de pied descendants, coups de poing plongeants ou attaques armées) tout en sortant légèrement de l'axe direct de l'agresseur.
 
@@ -10,9 +10,9 @@ Sa décomposition linguistique est la suivante :
 
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
 * **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
-* **Doo Palmok (두 팔목) :** Double avant-bras (*Double forearm* — l'avant-bras principal de blocage est renforcé par le second bras).
+* **Doo Palmok ([두 팔목](../audio/termes/두-팔목.m4a)) :** Double avant-bras (*Double forearm* — l'avant-bras principal de blocage est renforcé par le second bras).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage / de la tête).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

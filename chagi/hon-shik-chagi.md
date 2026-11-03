@@ -6,9 +6,9 @@ Le **Hon Shik Chagi** ([혼식차기](../audio/chagi/hon-shik-chagi.m4a)) désig
 
 Sa décomposition linguistique est la suivante :
 
-* **Hon (혼) :** Combiné, mixte, mélangé.
-* **Shik (식) :** Style, mode, type.
-* **Chagi (차기) :** Coup de pied.
+* **Hon ([혼](../audio/termes/혼.m4a)) :** Combiné, mixte, mélangé.
+* **Shik ([식](../audio/termes/식.m4a)) :** Style, mode, type.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Alors que le *Yonsok Chagi* met l'accent sur la continuité des frappes et le *Ijun Chagi* sur la répétition de la même technique, le **Hon Shik Chagi** se caractérise par **l'enchaînement de deux (ou plusieurs) techniques de natures mécaniques différentes** (par exemple, associer une frappe linéaire directe à une frappe circulaire).
 

@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 엎은 손끝 높은데 밖으로 긋기](../audio/Techniques/Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.m4a)
 
-Le **Annun So Wen Opun Sonkut Nopunde Bakuro Ghutgi** (앉은 서 왼 엎은 손끝 높은데 밖으로 긋기) est le **cisaillage horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, en position assise** (*Sitting stance left flat fingertip high outward cutting/scraping strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Opun Sonkut Nopunde Bakuro Ghutgi** ([앉은 서 왼 엎은 손끝 높은데 밖으로 긋기](../audio/Techniques/Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.m4a)) est le **cisaillage horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, en position assise** (*Sitting stance left flat fingertip high outward cutting/scraping strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque chirurgicale et vicieuse utilise le bout des doigts de la main gauche (*Opun Sonkut*) dans un mouvement cinglant mené du centre vers l'extérieur (*Bakuro Ghutgi*). Elle vise à cisailler ou griffonner des cibles particulièrement fragiles du visage (les yeux, la gorge ou la carotide) au niveau haut (*Nopunde*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Position assise, dite du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Position assise, dite du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
-* **Opun Sonkut (엎은 손끝) :** Bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
+* **Opun Sonkut ([엎은 손끝](../audio/termes/엎은-손끝.m4a)) :** Bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur des yeux / du visage).
 * **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (mouvement mené de l'intérieur vers l'extérieur).
-* **Ghutgi / Gutgi (긋기) :** Cisaillage / coupure / tranchant (*Cutting / Slashing / Scraping* — action d'entailler ou fendre avec le bout des doigts).
+* **Ghutgi / Gutgi ([긋기](../audio/termes/긋기.m4a)) :** Cisaillage / coupure / tranchant (*Cutting / Slashing / Scraping* — action d'entailler ou fendre avec le bout des doigts).
 
 ---
 

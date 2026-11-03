@@ -6,8 +6,8 @@ Le **Miro Makgi** ([미뤄 막기](../audio/makgi/miro-makgi.m4a)) est le **bloc
 
 Sa décomposition linguistique est la suivante :
 
-* **Miro (미뤄) :** Pousser, repousser, éloigner (du verbe *miruda*, 미루다 / *milda*, 밀다 = pousser).
-* **Makgi (막기) :** Blocage / Défense.
+* **Miro ([미뤄](../audio/termes/미뤄.m4a)) :** Pousser, repousser, éloigner (du verbe *miruda*, [미루다](../audio/termes/미루다.m4a) / *milda*, [밀다](../audio/termes/밀다.m4a) = pousser).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Contrairement aux blocages percutants (*Snap*) qui cherchent un choc dur et immédiat, le **Miro Makgi** utilise une **force de poussée fluide, lourde et continue** pour intercepter l'attaque, dévier le membre de l'adversaire et détruire son alignement corporel ou son équilibre.
 

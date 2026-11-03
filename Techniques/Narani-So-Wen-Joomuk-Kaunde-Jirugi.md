@@ -8,7 +8,7 @@ Cette technique fondamentale d'attaque rectiligne s'exécute depuis une posture 
 
 Sa décomposition linguistique est la suivante :
 
-* **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
+* **Narani So / Narani Sogi ([평행 서기](../audio/termes/평행-서기.m4a)) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Poing gauche (*Left*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Jirugi*)** | **Directe et rectiligne** le long de la ligne centrale (*Centerline*) du corps vers le plexus solaire. |
 | **Orientation finale du poing** | **Paume vers le sol** à l'impact (rotation complète de 180° exécutée au tout dernier instant). |
 | **Main de réaction (*Bandae Son*)** | Le poing droit (main opposée) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
 
 ---
 

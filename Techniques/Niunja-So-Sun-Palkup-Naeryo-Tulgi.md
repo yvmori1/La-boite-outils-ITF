@@ -13,10 +13,10 @@ Elle se traduit par : **Pousser / pique descendante du coude vertical en positio
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture stable où le pied arrière porte **70 % du poids** et le pied avant **30 %**. |
-| **Sun** | 세운 | Vertical / Relevé (*Upright*) | Indique que l'avant-bras et le coude sont maintenus dans un axe vertical. |
-| **Palkup** | 팔꿈 | Coude | Surface d'impact (la pointe rigide du coude). |
+| **Sun** | [세운](../audio/termes/세운.m4a) | Vertical / Relevé (*Upright*) | Indique que l'avant-bras et le coude sont maintenus dans un axe vertical. |
+| **Palkup** | [팔꿈](../audio/termes/팔꿈.m4a) | Coude | Surface d'impact (la pointe rigide du coude). |
 | **Naeryo** | [내려](../audio/grammaire/Naeryo.m4a) | Descendant | Trajectoire de l'attaque portée du haut vers le bas. |
-| **Tulgi** | 찌르기 | Pique / Poussée | Action de pénétration/enfoncement rectiligne. |
+| **Tulgi** | [찌르기](../audio/termes/찌르기.m4a) | Pique / Poussée | Action de pénétration/enfoncement rectiligne. |
 
 ---
 

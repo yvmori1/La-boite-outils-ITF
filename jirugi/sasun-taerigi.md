@@ -8,8 +8,8 @@ Contrairement aux frappes strictement horizontales (*Yop* / *Bakuro* / *Anuro*) 
 
 Sa décomposition linguistique est la suivante :
 
-* **Sasun / Saseon (사선 / 斜線) :** Oblique / Diagonale / En biais (*Slanted / Diagonal*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Sasun / Saseon ([사선](../audio/termes/사선.m4a) / 斜線) :** Oblique / Diagonale / En biais (*Slanted / Diagonal*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

@@ -1,16 +1,18 @@
 # Gunnun So Wi Palkup Bandae Taerigi
 
-La **Gunnun So Wi Palkup Bandae Taerigi** (걷는 서 위 팔굽 반대 때리기) est la **frappe montante du coude inversée en posture de marche** (*Walking stance reverse upper elbow strike*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 위 팔굽 반대 때리기](../audio/Techniques/Gunnun-So-Wi-Palkup-Bandae-Taerigi.m4a)
+
+La **Gunnun So Wi Palkup Bandae Taerigi** ([걷는 서 위 팔굽 반대 때리기](../audio/Techniques/Gunnun-So-Wi-Palkup-Bandae-Taerigi.m4a)) est la **frappe montante du coude inversée en posture de marche** (*Walking stance reverse upper elbow strike*) en TaeKwon-Do ITF.
 
 Le coude (**Palkup**) remonte verticalement, de bas en haut, pour frapper sous le menton d'un adversaire très proche. La frappe se fait avec le coude du côté de la jambe arrière, en glissant le pied avant pour gagner la courte distance.
 
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Wi (위) :** Haut / vers le haut (*Upper*).
+* **Wi ([위](../audio/termes/위.m4a)) :** Haut / vers le haut (*Upper*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Taerigi (때리기) :** Frappe (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
 
 ---
 

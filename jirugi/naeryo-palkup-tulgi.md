@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / De haut en bas (*Downward*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi (찌르기) :** Pique / Poussée perforante (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée perforante (*Thrust*).
 
 > 💡 **Nuance (*Tulgi* vs *Taerigi*) :**
 > * **Naeryo Palkup Taerigi :** Le coude suit une trajectoire en arc/fouetté descendant (type hache).

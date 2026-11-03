@@ -1,6 +1,8 @@
 # Gunnun So Sonbadak Nopunde Bandae Golcho Makgi
 
-Le **Gunnun So Sonbadak Nopunde Bandae Golcho Makgi** (걷는 서 손바닥 높은데 반대 걸쳐 막기) est le **blocage crocheté haut inversé avec la paume en posture de marche** (*Walking stance high reverse hooking block with a palm*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 높은데 반대 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Nopunde-Bandae-Golcho-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Nopunde Bandae Golcho Makgi** ([걷는 서 손바닥 높은데 반대 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Nopunde-Bandae-Golcho-Makgi.m4a)) est le **blocage crocheté haut inversé avec la paume en posture de marche** (*Walking stance high reverse hooking block with a palm*) en TaeKwon-Do ITF.
 
 Version *Bandae* du blocage crocheté à la paume : la paume du côté de la jambe arrière vient accrocher le poignet ou l'avant-bras d'une attaque haute pour la dévier et la contrôler.
 
@@ -10,8 +12,8 @@ Sa décomposition linguistique est la suivante :
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Golcho (걸쳐) :** Crocheté (*Hooking*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Golcho ([걸쳐](../audio/termes/걸쳐.m4a)) :** Crocheté (*Hooking*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

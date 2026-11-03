@@ -8,11 +8,11 @@ Cette technique d'attaque cinglante utilise l'effet de ressort du coude pour pro
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Back fist*).
-* **Yopdwi (옆뒤) :** Latéral-arrière / Oblique arrière (*Side-rear* — contraction de *Yop* = côté et *Dwi/Dwit* = arrière).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Yopdwi ([옆뒤](../audio/termes/옆뒤.m4a)) :** Latéral-arrière / Oblique arrière (*Side-rear* — contraction de *Yop* = côté et *Dwi/Dwit* = arrière).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

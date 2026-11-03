@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [낮추 서 엎은 손끝 높은데 반대 찌르기](../audio/Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.m4a)
 
-Le **Nachuo So Opun Sonkut Nopunde Bandae Tulgi** (낮추 서 엎은 손끝 높은데 반대 찌르기) est la **pénétration haute inversée au piqué de la main plat (paume vers le bas) en posture basse** (*Low stance reverse flat fingertip high thrust*) en TaeKwon-Do ITF.
+Le **Nachuo So Opun Sonkut Nopunde Bandae Tulgi** ([낮추 서 엎은 손끝 높은데 반대 찌르기](../audio/Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.m4a)) est la **pénétration haute inversée au piqué de la main plat (paume vers le bas) en posture basse** (*Low stance reverse flat fingertip high thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque directe et très pénétrante vise des zones hautement vulnérables (principalement la gorge ou les yeux / niveau haut - **Nopunde**). Elle utilise la pointe des doigts tendus en position horizontale (**Opun Sonkut** — paume tournée vers le sol), le tout ancré dans la stabilité profonde de la posture basse (**Nachuo Sogi**). L'indication **Bandae** (inversé) signifie que la frappe est portée par la main située **du côté opposé à la jambe avant**.
 
 Sa décomposition linguistique est la suivante :
 
-* **Nachuo So / Nachuo Sogi (낮추 서기) :** Posture basse (*Low stance* — similaire à *Gunnun Sogi* mais plus longue d'une largeur de pied, centre de gravité très bas).
-* **Opun Sonkut (엎은 손끝) :** Piqué de la main plat (*Flat fingertip* — main ouverte, paume tournée vers le sol).
+* **Nachuo So / Nachuo Sogi ([낮추 서기](../audio/termes/낮추-서기.m4a)) :** Posture basse (*Low stance* — similaire à *Gunnun Sogi* mais plus longue d'une largeur de pied, centre de gravité très bas).
+* **Opun Sonkut ([엎은 손끝](../audio/termes/엎은-손끝.m4a)) :** Piqué de la main plat (*Flat fingertip* — main ouverte, paume tournée vers le sol).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la gorge ou des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — exécuté avec la main opposée à la jambe avant).
-* **Tulgi / Tulgi (찌르기) :** Pénétration / Piqué (*Thrust*).
+* **Tulgi / Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pénétration / Piqué (*Thrust*).
 
 ---
 
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Principe *Bandae* (Inversé)** | La frappe est portée par la main du côté de la **jambe arrière** (ex: jambe gauche devant + main droite qui pique). |
 | **Trajectoire (*Tulgi*)** | Directe, rectiligne et perforante le long de la ligne centrale (*Centerline*). |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé (jambe avant) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*) pour maximiser l'allonge procurée par *Nachuo Sogi*. |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*) pour maximiser l'allonge procurée par *Nachuo Sogi*. |
 
 ---
 

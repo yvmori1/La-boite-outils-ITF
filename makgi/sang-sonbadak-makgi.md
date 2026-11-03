@@ -6,9 +6,9 @@ Le **Doo Sonbadak Makgi** ([두 손바닥 막기](../audio/makgi/doo-sonbadak-ma
 
 Sa décomposition linguistique est la suivante :
 
-* **Doo / Du (두) :** Deux / Double.
+* **Doo / Du ([두](../audio/termes/두.m4a)) :** Deux / Double.
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Son* = main, *Badak* = surface/fond). *(Note : « Sonbadat » est une retranscription phonétique courante de Sonbadak)*.
-* **Makgi (막기) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Cette technique engage **les deux paumes simultanément** pour créer un bouclier souple et amortisseur, capable d'intercepter, d'écraser ou de repousser des attaques lourdes tout en conservant une grande capacité de contrôle et de saisie.
 

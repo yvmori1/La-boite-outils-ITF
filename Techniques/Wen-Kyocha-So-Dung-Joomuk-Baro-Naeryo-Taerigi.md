@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers / Dos du poing (*Back fist*).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — frappe exécutée par le membre situé du même côté que la jambe avant, soit la **main gauche**).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Vers le bas (*Downward*).
-* **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

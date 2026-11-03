@@ -8,9 +8,9 @@ Cette technique d'attaque à main ouverte hautement spécialisée est conçue po
 
 Sa décomposition linguistique est la suivante :
 
-* **Doo / Du (두) :** Deux (2).
-* **Songarak (손가락) :** Doigt / Doigts.
-* **Tulgi (찌르기) :** Pique / Poussée pénétrante (*Thrust*).
+* **Doo / Du ([두](../audio/termes/두.m4a)) :** Deux (2).
+* **Songarak ([손가락](../audio/termes/손가락.m4a)) :** Doigt / Doigts.
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée pénétrante (*Thrust*).
 
 ---
 

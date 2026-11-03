@@ -6,10 +6,10 @@ Le **Dung Joomuk Yop Taerigi** ([등주먹 옆때리기](../audio/jirugi/dung-jo
 
 Sa décomposition linguistique est la suivante :
 
-* **Dung (등) :** Dos / Revers / Partie arrière (*Back*).
+* **Dung ([등](../audio/termes/등.m4a)) :** Dos / Revers / Partie arrière (*Back*).
 * **Joomuk / Jumuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé.
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 Alors que le *Dung Joomuk Taerigi* général peut s'effectuer vers l'avant ou en diagonale, le **Dung Joomuk Yop Taerigi** est spécifiquement exécuté **sur la ligne latérale du corps (à 90° par rapport à l'axe frontal)** pour atteindre un adversaire situé sur le flanc ou lors d'un déplacement de profil.
 
@@ -51,7 +51,7 @@ Alors que le *Dung Joomuk Taerigi* général peut s'effectuer vers l'avant ou en
 
 > **Vitesse fulgurante sur les angles morts :**
 > Le *Dung Joomuk Yop Taerigi* exploite l'articulation du coude comme un fouet pour frapper dans l'angle mort :
-> 1. **Cibles vitales latérales :** Il vise en priorité la tempe (*Gwanja Noryeok*), l'articulation de la mâchoire (*G턱* / *Jaw*) ou le nerf facial/carotide.
+> 1. **Cibles vitales latérales :** Il vise en priorité la tempe (*Gwanja Noryeok*), l'articulation de la mâchoire (*G[턱](../audio/termes/턱.m4a)* / *Jaw*) ou le nerf facial/carotide.
 > 2. **Esquive et contre simultané :** En sortant de l'axe d'attaque adverse par un pas latéral (*Step-side*), cette frappe permet de punir l'agresseur au visage pendant qu'il charge en ligne droite.
 > 3. **Effet de surprise :** La trajectoire venant du flanc passe en dessous ou autour de la vision périphérique de l'adversaire.
 

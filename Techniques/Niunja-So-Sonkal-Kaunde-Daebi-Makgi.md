@@ -11,8 +11,8 @@ Sa décomposition linguistique est la suivante :
 * **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (côté du petit doigt, de la base du poignet à la première jointure).
 * **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — zone de la poitrine et du thorax).
-* **Daebi (대비) :** Garde / Protection / Préparation (*Guarding*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection / Préparation (*Guarding*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 

@@ -7,7 +7,7 @@ Le **Naeryo Chagi** ([내려차기](../audio/chagi/naeryo-chagi.m4a)) est le **c
 Sa décomposition linguistique est la suivante :
 
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant, vers le bas (du verbe *naerida*, descendre).
-* **Chagi (차기) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 C'est une technique verticale d'une grande puissance de percussion, qui utilise la gravité et la contraction brutale de la sangle abdominale et des fessiers pour faire s'abattre le talon sur l'adversaire, à la manière d'une hache fendant du bois.
 

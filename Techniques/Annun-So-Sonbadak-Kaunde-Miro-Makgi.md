@@ -8,11 +8,11 @@ Cette technique défensive contrôlée ne cherche pas à percuter ni à casser b
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax).
-* **Miro (미로) :** Poussant / Action de pousser (*Pushing*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Miro ([미로](../audio/termes/미로.m4a)) :** Poussant / Action de pousser (*Pushing*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

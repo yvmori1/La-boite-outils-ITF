@@ -1,6 +1,8 @@
 # Gunnun So Sonkal Nopunde Bandae Anuro Taerigi
 
-La **Gunnun So Sonkal Nopunde Bandae Anuro Taerigi** (걷는 서 손칼 높은데 반대 안으로 때리기) est la **frappe intérieure haute inversée avec le tranchant de la main en posture de marche** (*Walking stance high reverse inward strike with a knife-hand*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손칼 높은데 반대 안으로 때리기](../audio/Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Anuro-Taerigi.m4a)
+
+La **Gunnun So Sonkal Nopunde Bandae Anuro Taerigi** ([걷는 서 손칼 높은데 반대 안으로 때리기](../audio/Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Anuro-Taerigi.m4a)) est la **frappe intérieure haute inversée avec le tranchant de la main en posture de marche** (*Walking stance high reverse inward strike with a knife-hand*) en TaeKwon-Do ITF.
 
 Le tranchant de la main (**Sonkal**) frappe de l'extérieur vers l'intérieur, à hauteur du cou, pendant que le côté du poing opposé vient se placer devant l'épaule du bras qui frappe.
 
@@ -11,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (*Inward*).
-* **Taerigi (때리기) :** Frappe (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
 
 ---
 

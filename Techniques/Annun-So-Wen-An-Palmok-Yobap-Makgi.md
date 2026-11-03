@@ -8,11 +8,11 @@ Cette technique défensive intercepte ou dévie une attaque arrivant sous un ang
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Tranchant interne de l'avant-bras (*Inner forearm* — côté du radius / du pouce).
-* **Yobap / Yop Ap (옆앞) :** Latéral-frontal / Diagonale avant-côté (*Side front*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Yobap / Yop Ap ([옆앞](../audio/termes/옆앞.m4a)) :** Latéral-frontal / Diagonale avant-côté (*Side front*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

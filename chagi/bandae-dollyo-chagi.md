@@ -8,7 +8,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé / En sens inverse.
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Circulaire / Tournant.
-* **Chagi (차기) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Contrairement aux coups de pied circulaires classiques qui arrivent de l'extérieur vers l'intérieur de la garde, le **Bandae Dollyo Chagi** s'exécute par une **rotation arrière complète (par le dos)** pour délivrer un balayage circulaire puissant avec le talon ou la plante du pied.
 

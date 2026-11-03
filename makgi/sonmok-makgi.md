@@ -6,8 +6,8 @@ Le **Sommok Makgi** ([손목 막기](../audio/makgi/sonmok-makgi.m4a) — parfoi
 
 Sa décomposition linguistique est la suivante :
 
-* **Sommok / Sonmok (손목) :** Poignet (*Son* = main, *Mok* = articulation/cou. L'assimilation phonétique coréenne transforme le *n* en *m* devant le *m*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Sommok / Sonmok ([손목](../audio/termes/손목.m4a)) :** Poignet (*Son* = main, *Mok* = articulation/cou. L'assimilation phonétique coréenne transforme le *n* en *m* devant le *m*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 À la différence du *Palmok Makgi* qui utilise la surface osseuse de l'avant-bras (ulna ou radius), le **Sommok Makgi** engage spécifiquement **l'articulation ou la base du poignet** (fléchi ou en extension) pour crocheter, dévier ou presser le membre d'attaque adverse.
 

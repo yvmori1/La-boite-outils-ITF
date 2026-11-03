@@ -1,14 +1,16 @@
 # Kaunde Yobap Cha Busigi
 
-Le **Kaunde Yobap Cha Busigi** (가운데 옆앞 차 부시기) est le **coup de pied avant fouetté latéral moyen** (*Middle side front snap kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 옆앞 차 부시기](../audio/Techniques/Kaunde-Yobap-Cha-Busigi.m4a)
+
+Le **Kaunde Yobap Cha Busigi** ([가운데 옆앞 차 부시기](../audio/Techniques/Kaunde-Yobap-Cha-Busigi.m4a)) est le **coup de pied avant fouetté latéral moyen** (*Middle side front snap kick*) en TaeKwon-Do ITF.
 
 Coup de pied fouetté (*Busigi*) lancé avec la balle du pied, mais en diagonale vers l'avant-côté (**Yobap**) au lieu de droit devant. Il se donne depuis une position où le corps est de profil, sans changer la position des mains.
 
 Sa décomposition linguistique est la suivante :
 
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yobap (옆앞) :** Côté-avant (*Side front*).
-* **Cha Busigi (차 부시기) :** Coup de pied fouetté (*Snap kick*).
+* **Yobap ([옆앞](../audio/termes/옆앞.m4a)) :** Côté-avant (*Side front*).
+* **Cha Busigi ([차 부시기](../audio/termes/차-부시기.m4a)) :** Coup de pied fouetté (*Snap kick*).
 
 ---
 

@@ -12,9 +12,9 @@ Elle se traduit par : **Pique du bout des doigts à plat (paume vers le sol)** (
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Opun / Opeun** | 엎은 | À plat / Paume vers le sol | Orientation de la main (paume tournée vers le bas). |
-| **Sonkut** | 손끝 | Bout des doigts | Surface d'impact (l'extrémité des quatre doigts tendus et serrés). |
-| **Tulgi** | 찌르기 | Pique / Poussée | Trajectoire d'enfoncement rectiligne (effet baïonnette). |
+| **Opun / Opeun** | [엎은](../audio/termes/엎은.m4a) | À plat / Paume vers le sol | Orientation de la main (paume tournée vers le bas). |
+| **Sonkut** | [손끝](../audio/termes/손끝.m4a) | Bout des doigts | Surface d'impact (l'extrémité des quatre doigts tendus et serrés). |
+| **Tulgi** | [찌르기](../audio/termes/찌르기.m4a) | Pique / Poussée | Trajectoire d'enfoncement rectiligne (effet baïonnette). |
 
 ---
 

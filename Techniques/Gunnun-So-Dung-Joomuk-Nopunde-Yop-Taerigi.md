@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [걷는 서 등주먹 높은데 옆 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
 
-Le **Gunnun So Dung Joomuk Nopunde Yop Taerigi** (걷는 서 등주먹 높은데 옆 때리기 — couramment retranscrit **Gunnun Sogi Dung Joomuk Nopunde Yop Taerigi**) est la **frappe latérale du revers du poing au niveau haut en posture de marche** (*High side backfist strike in walking stance*) en TaeKwon-Do ITF.
+Le **Gunnun So Dung Joomuk Nopunde Yop Taerigi** ([걷는 서 등주먹 높은데 옆 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a) — couramment retranscrit **Gunnun Sogi Dung Joomuk Nopunde Yop Taerigi**) est la **frappe latérale du revers du poing au niveau haut en posture de marche** (*High side backfist strike in walking stance*) en TaeKwon-Do ITF.
 
 Cette technique associe la stabilité et la poussée de la posture de marche (*Gunnun Sogi*) à la rapidité fulgurante d'un fouetté du coude dirigé vers la ligne latérale (*Yop*).
 
@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des tempes, des yeux ou du nez).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 
@@ -37,7 +37,7 @@ La frappe tire son ancrage et son transfert de masse de la posture de marche :
 * L'impact se concentre précisément sur la surface osseuse du **dos des deux grosses jointures** (index et majeur).
 
 * **Zone ciblée :**
-  * La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G턱*) ou l'**arête du nez** (*Injoung*) d'un adversaire situé sur le côté.
+  * La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G[턱](../audio/termes/턱.m4a)*) ou l'**arête du nez** (*Injoung*) d'un adversaire situé sur le côté.
 
 * **Hauteur d'arrêt :**
   * Le poing se fixe à la **hauteur des yeux / des tempes** (*Nopunde*).

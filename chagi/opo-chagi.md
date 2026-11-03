@@ -6,8 +6,8 @@ Le **Opo Chagi** ([어포차기](../audio/chagi/opo-chagi.m4a)) est le **coup de
 
 Sa décomposition linguistique est la suivante :
 
-* **Opo (어포) :** À plat, horizontal, orienté face vers le bas / à l'horizontale (comme dans *Opo Jirugi*, le coup de poing à plat).
-* **Chagi (차기) :** Coup de pied.
+* **Opo ([어포](../audio/termes/어포.m4a)) :** À plat, horizontal, orienté face vers le bas / à l'horizontale (comme dans *Opo Jirugi*, le coup de poing à plat).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Cette technique se distingue par la position de la jambe et de la surface de frappe, qui se déploient sur un **plan strictement parallèle au sol**. Contrairement à un coup de pied latéral (*Yop Chagi*) où le chant du pied s'insère de profil, le *Opo Chagi* frappe avec une surface maintenue complètement à plat.
 

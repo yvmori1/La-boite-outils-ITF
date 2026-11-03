@@ -9,11 +9,11 @@ Cette technique défensive rapide et dynamique utilise l'arête osseuse extérie
 Sa décomposition linguistique est la suivante :
 
 * **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture croisée (*X-stance* — une jambe croisée devant l'autre, le talon du pied arrière décollé, le poids reposant quasi-totalement sur le pied avant).
-* **Bakat Palmok (바깥 팔목) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — s'exécute avec la main du côté de la jambe porteuse/avant).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 
@@ -26,7 +26,7 @@ Sa décomposition linguistique est la suivante :
 | **Principe *Baro* (Direct)** | Le blocage est exécuté par le bras situé **du côté de la jambe porteuse / avant** (ex: jambe droite devant qui porte le poids + bras droit qui bloque). |
 | **Trajectoire (*Ap Makgi*)** | **Descendante en arc de cercle le long de la ligne centrale** pour se verrouiller au niveau bas (*Najunde*), le poing s'arrêtant au-dessus de la cuisse/genou avant. |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé (jambe arrière) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*) ou de profil/semi-profil selon le saut ou le pivot d'entrée. |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*) ou de profil/semi-profil selon le saut ou le pivot d'entrée. |
 
 ---
 

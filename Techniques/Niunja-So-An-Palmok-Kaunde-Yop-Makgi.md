@@ -9,10 +9,10 @@ Cette technique défensive utilise la surface osseuse intérieure de l'avant-bra
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **An Palmok (안 팔목) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse du côté du pouce / du radius).
+* **An Palmok ([안 팔목](../audio/termes/안-팔목.m4a)) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse du côté du pouce / du radius).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

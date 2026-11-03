@@ -8,10 +8,10 @@ Cette technique d'attaque à très courte distance consiste à projeter simultan
 
 Sa décomposition linguistique est la suivante :
 
-* **Sang (쌍) :** Double / Paire / Jumeau (*Twin*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Jumeau (*Twin*).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi (찌르기) :** Pique / Poussée pénétrante (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée pénétrante (*Thrust*).
 
 ---
 

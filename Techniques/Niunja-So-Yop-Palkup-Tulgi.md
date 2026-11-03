@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
 * **Yop / Yeop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
 * **Palkup / Palgup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi (찌르기) :** Pique / Poussée perçante en piston (*Thrust / Piercing strike*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée perçante en piston (*Thrust / Piercing strike*).
 
 ---
 

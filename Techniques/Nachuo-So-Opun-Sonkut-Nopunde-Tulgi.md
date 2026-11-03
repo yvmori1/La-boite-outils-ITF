@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [낮춰 서 엎은 손끝 높은데 찌르기](../audio/Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.m4a)
 
-Le **Nachuo So Opun Sonkut Nopunde Tulgi** (낮춰 서 엎은 손끝 높은데 찌르기) est la **pique du bout des doigts à plat au niveau haut en posture basse** (*Low stance flat fingertip high thrust*) en TaeKwon-Do ITF.
+Le **Nachuo So Opun Sonkut Nopunde Tulgi** ([낮춰 서 엎은 손끝 높은데 찌르기](../audio/Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.m4a)) est la **pique du bout des doigts à plat au niveau haut en posture basse** (*Low stance flat fingertip high thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque transperçante combine la précision effrayante d'une pique aux doigts (**Sonkut**) vers une cible vitale haute (la gorge ou les yeux) avec l'allonge et la stabilité maximale offertes par la posture basse (**Nachuo Sogi**). L'utilisation de la posture basse permet d'allonger la portée de frappe tout en abaissant le centre de gravité sous une contre-attaque adverse.
 
 Sa décomposition linguistique est la suivante :
 
-* **Nachuo So / Nachuo Sogi (낮춰 서기) :** Posture basse (*Low stance* — similaire à la posture de marche, mais allongée d'une longueur de pied supplémentaire).
-* **Opun (엎은) :** À plat / Paume vers le bas (*Flat / Palm down*).
-* **Sonkut (손끝) :** Bout des doigts (*Fingertips*).
+* **Nachuo So / Nachuo Sogi ([낮춰 서기](../audio/termes/낮춰-서기.m4a)) :** Posture basse (*Low stance* — similaire à la posture de marche, mais allongée d'une longueur de pied supplémentaire).
+* **Opun ([엎은](../audio/termes/엎은.m4a)) :** À plat / Paume vers le bas (*Flat / Palm down*).
+* **Sonkut ([손끝](../audio/termes/손끝.m4a)) :** Bout des doigts (*Fingertips*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la gorge, des yeux ou du menton).
-* **Tulgi (찌르기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée perçante en piston (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée perçante en piston (*Thrust*).
 
 ---
 

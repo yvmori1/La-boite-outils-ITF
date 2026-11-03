@@ -1,17 +1,19 @@
 # Gunnun So Sang Sonkal Nopunde Anuro Taerigi
 
-La **Gunnun So Sang Sonkal Nopunde Anuro Taerigi** (걷는 서 쌍 손칼 높은데 안으로 때리기) est la **frappe intérieure haute avec les deux tranchants de la main en posture de marche** (*Walking stance high inward strike with a twin knife-hand*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 쌍 손칼 높은데 안으로 때리기](../audio/Techniques/Gunnun-So-Sang-Sonkal-Nopunde-Anuro-Taerigi.m4a)
+
+La **Gunnun So Sang Sonkal Nopunde Anuro Taerigi** ([걷는 서 쌍 손칼 높은데 안으로 때리기](../audio/Techniques/Gunnun-So-Sang-Sonkal-Nopunde-Anuro-Taerigi.m4a)) est la **frappe intérieure haute avec les deux tranchants de la main en posture de marche** (*Walking stance high inward strike with a twin knife-hand*) en TaeKwon-Do ITF.
 
 Les deux tranchants de la main (**Sang Sonkal**) frappent en même temps, de l'extérieur vers l'intérieur, les deux côtés du cou. Les deux bras se referment comme une tenaille, paumes vers le haut.
 
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sang (쌍) :** Double / jumelé (*Twin*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / jumelé (*Twin*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (*Inward*).
-* **Taerigi (때리기) :** Frappe (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
 
 ---
 

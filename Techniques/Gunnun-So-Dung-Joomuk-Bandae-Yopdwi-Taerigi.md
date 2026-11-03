@@ -1,6 +1,8 @@
 # Gunnun So Dung Joomuk Bandae Yopdwi Taerigi
 
-La **Gunnun So Dung Joomuk Bandae Yopdwi Taerigi** (걷는 서 등주먹 반대 옆뒤 때리기) est la **frappe arrière latérale inversée avec le revers du poing en posture de marche** (*Walking stance reverse side back strike with a back fist*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 등주먹 반대 옆뒤 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Bandae-Yopdwi-Taerigi.m4a)
+
+La **Gunnun So Dung Joomuk Bandae Yopdwi Taerigi** ([걷는 서 등주먹 반대 옆뒤 때리기](../audio/Techniques/Gunnun-So-Dung-Joomuk-Bandae-Yopdwi-Taerigi.m4a)) est la **frappe arrière latérale inversée avec le revers du poing en posture de marche** (*Walking stance reverse side back strike with a back fist*) en TaeKwon-Do ITF.
 
 Le revers du poing (**Dung Joomuk**) frappe un adversaire placé derrière, sur le côté, pendant que le corps reste tourné vers l'avant et que l'autre poing s'étend vers l'avant.
 
@@ -9,8 +11,8 @@ Sa décomposition linguistique est la suivante :
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Back fist*).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Yopdwi (옆뒤) :** Côté-arrière (*Side back*).
-* **Taerigi (때리기) :** Frappe (*Strike*).
+* **Yopdwi ([옆뒤](../audio/termes/옆뒤.m4a)) :** Côté-arrière (*Side back*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
 
 ---
 

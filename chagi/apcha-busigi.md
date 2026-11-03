@@ -7,7 +7,7 @@ Le **Apcha Busigi** ([앞차 부시기](../audio/chagi/apcha-busigi.m4a)) est le
 Sa décomposition linguistique est la suivante :
 
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
-* **Cha (차) :** Coup de pied.
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied.
 * **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / *Snap* (action basée sur la vitesse d'extension du genou et le réarmement instantané, par opposition à *Jirugi* qui désigne une poussée perçante).
 
 C'est l'une des premières techniques enseignées en TaeKwon-Do, mais aussi l'une des plus redoutables en combat libre (*Matsogi*) pour sa rapidité, son effet de surprise et sa capacité à s'infiltrer à travers une garde étroite.

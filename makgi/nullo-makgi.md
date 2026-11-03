@@ -6,8 +6,8 @@ Le **Nullo Makgi** ([눌러 막기](../audio/makgi/nullo-makgi.m4a) — retransc
 
 Sa décomposition linguistique est la suivante :
 
-* **Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser, écraser, pousser vers le bas (du verbe *nuruda*, 누르다 = exercer une pression / appuyer).
-* **Makgi (막기) :** Blocage / Défense.
+* **Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser, écraser, pousser vers le bas (du verbe *nuruda*, [누르다](../audio/termes/누르다.m4a) = exercer une pression / appuyer).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Le **Nullo Makgi** se distingue des blocages percutants classiques (*Bakat Palmok Makgi*) : au lieu de chercher à heurter de plein fouet le membre adverse, il applique une **force descendante et continue pour étouffer, écraser ou stopper la trajectoire montante** d'une frappe basse avant qu'elle ne développe sa pleine puissance.
 

@@ -8,11 +8,11 @@ Cette technique défensive spécialisée utilise l'arête arrondie formée par l
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Sonmok Dung (손목등) :** Dos / dessus du poignet (*Reverse wrist / Wrist joint* — la bosse ou l'arête arrondie formée par l'articulation du poignet fléchi).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Sonmok Dung ([손목등](../audio/termes/손목등.m4a)) :** Dos / dessus du poignet (*Reverse wrist / Wrist joint* — la bosse ou l'arête arrondie formée par l'articulation du poignet fléchi).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — la main qui bloque est opposée à la jambe située à l'avant).
 * **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / Vers le haut (*Upward / Rising*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

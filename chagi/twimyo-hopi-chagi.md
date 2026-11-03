@@ -7,8 +7,8 @@ Le **Twimyo Hopi Chagi** ([뛰며 호피차기](../audio/chagi/twimyo-hopi-chagi
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
-* **Hopi (호피) :** Bondissant, en foulée bondissante (faisant référence à un bond dynamique ou à un transfert d'impulsion rapide d'une jambe sur l'autre en l'air).
-* **Chagi (차기) :** Coup de pied.
+* **Hopi ([호피](../audio/termes/호피.m4a)) :** Bondissant, en foulée bondissante (faisant référence à un bond dynamique ou à un transfert d'impulsion rapide d'une jambe sur l'autre en l'air).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Cette technique repose sur un **bond propulsif initié par une jambe d'appel qui sert de feinte ou de tremplin**, suivi d'un ciseau aérien rapide (*switch*) pour porter la frappe avec la seconde jambe.
 

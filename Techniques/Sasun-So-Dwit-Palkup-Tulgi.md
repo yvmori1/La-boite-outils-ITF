@@ -13,9 +13,9 @@ Elle se traduit par : **Pique / Poussée rectiligne du coude vers l'arrière en 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Sasun So (Sogi)** | [사선 서기](../audio/grammaire/Sasun-Sogi.m4a) | Position diagonale | Posture de jambes décalée en diagonale, offrant un angle d'esquive et une assise stable. |
-| **Dwit** | 뒷 | Arrière | Indique la direction de l'attaque (directement derrière soi). |
+| **Dwit** | [뒷](../audio/termes/뒷.m4a) | Arrière | Indique la direction de l'attaque (directement derrière soi). |
 | **Palkup** | [팔굽](../audio/grammaire/Palkup.m4a) | Coude | Zone d'impact (la pointe osseuse du coude). |
-| **Tulgi** | 찌르기 | Pique / Poussée rectiligne | Mouvement perforant et linéaire (par opposition à une frappe fustigeante/circulaire *Taerigi*). |
+| **Tulgi** | [찌르기](../audio/termes/찌르기.m4a) | Pique / Poussée rectiligne | Mouvement perforant et linéaire (par opposition à une frappe fustigeante/circulaire *Taerigi*). |
 
 ---
 

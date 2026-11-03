@@ -6,8 +6,8 @@ Le **Mikulgi Chagi** ([미끌기 차기](../audio/chagi/mikulgi-chagi.m4a)) est 
 
 Sa décomposition linguistique est la suivante :
 
-* **Mikulgi ([미끌기](../audio/grammaire/Mikulgi.m4a)) :** Glisser, glissade (du verbe *mikkeul-eojida* / *mikkeulda*, 미끄러지다).
-* **Chagi (차기) :** Coup de pied.
+* **Mikulgi ([미끌기](../audio/grammaire/Mikulgi.m4a)) :** Glisser, glissade (du verbe *mikkeul-eojida* / *mikkeulda*, [미끄러지다](../audio/termes/미끄러지다.m4a)).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Tout comme le *Japgo Chagi* (saisie) ou le *Twio Chagi* (sauté), le **Mikulgi Chagi** ne désigne pas une trajectoire de frappe isolée, mais un **mode de déplacement dynamique** : la jambe d'appui glisse de manière fluide et rase le sol pour réduire la distance avec l'adversaire avant ou pendant le déclenchement de la frappe.
 

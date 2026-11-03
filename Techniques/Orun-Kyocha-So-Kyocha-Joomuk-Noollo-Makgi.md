@@ -14,9 +14,9 @@ Elle se traduit par : **Blocage pressant avec les poings croisés en position cr
 | --- | --- | --- | --- |
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
 | **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et serrés pour verrouiller le bassin. |
-| **Kyocha Joomuk** | 교차 주먹 | Poings croisés | Structure défensive formée par le croisement des poignets / avant-bras. |
+| **Kyocha Joomuk** | [교차 주먹](../audio/termes/교차-주먹.m4a) | Poings croisés | Structure défensive formée par le croisement des poignets / avant-bras. |
 | **Noollo** | [눌러](../audio/grammaire/Nullo.m4a) | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser/écraser vers le bas). |
-| **Makgi** | 막기 | Blocage / Défense | Action de stopper, neutraliser ou dévier une attaque. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de stopper, neutraliser ou dévier une attaque. |
 
 ---
 

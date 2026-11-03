@@ -4,14 +4,14 @@
 
 Le **Annun So Wen Joomuk Giokja Jirugi** ([앉은 서 왼 주먹 ㄱ자 지르기](../audio/Techniques/Annun-So-Wen-Joomuk-Giokja-Jirugi.m4a)) est le **coup de poing gauche en angle droit en posture du cavalier** (*Sitting stance left fist angle punch* ou *L-shape punch*) en TaeKwon-Do ITF.
 
-Cette technique d'attaque directe et compacte projette le poing gauche (*Wen Joomuk*) sur l'axe central tout en fléchissant le coude à un angle strict de 90° (rappelant la forme de la lettre coréenne *Giyeok* **ㄱ**). Contrairement à la version *C-Bang*, le bras droit effectue un tirage classique de réaction à la hanche (*Heori*).
+Cette technique d'attaque directe et compacte projette le poing gauche (*Wen Joomuk*) sur l'axe central tout en fléchissant le coude à un angle strict de 90° (rappelant la forme de la lettre coréenne *Giyeok* **[ㄱ](../audio/termes/ㄱ.m4a)**). Contrairement à la version *C-Bang*, le bras droit effectue un tirage classique de réaction à la hanche (*Heori*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist*).
-* **Giokja / ㄱ-shape (ㄱ자) :** En angle droit / en équerre (forme de la lettre coréenne **ㄱ**).
+* **Giokja / [ㄱ](../audio/termes/ㄱ.m4a)-shape ([ㄱ자](../audio/termes/ㄱ자.m4a)) :** En angle droit / en équerre (forme de la lettre coréenne **[ㄱ](../audio/termes/ㄱ.m4a)**).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : La Détente en Équerre et la *Sine Wave*
 
-1. **Trajectoire coudée (*Giokja*) :** Le poing gauche est propulsé vers l'avant-centre en balayage horizontal, s'arrêtant pour former l'angle équerre de 90° au coude (**ㄱ**).
+1. **Trajectoire coudée (*Giokja*) :** Le poing gauche est propulsé vers l'avant-centre en balayage horizontal, s'arrêtant pour former l'angle équerre de 90° au coude (**[ㄱ](../audio/termes/ㄱ.m4a)**).
 2. **Chute de masse :** Redescente lourde du bassin en fléchissant les deux genoux en *Annun Sogi* pour transférer l'énergie de gravité au moment précis de la percussion.
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)

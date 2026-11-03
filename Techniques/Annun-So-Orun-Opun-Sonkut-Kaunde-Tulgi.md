@@ -8,11 +8,11 @@ Cette technique d'attaque perçante utilise la pointe des doigts alignés de la 
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
-* **Opun Sonkut (엎은손끝) :** Bout des doigts à plat / paume vers le bas (*Flat fingertip* — de *Opun* = à plat / tourné vers le sol).
+* **Opun Sonkut ([엎은손끝](../audio/grammaire/Opun-Sonkut.m4a)) :** Bout des doigts à plat / paume vers le bas (*Flat fingertip* — de *Opun* = à plat / tourné vers le sol).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax / abdomen).
-* **Tulgi (찌르기) :** Pique / Poussée perçante (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée perçante (*Thrust*).
 
 ---
 

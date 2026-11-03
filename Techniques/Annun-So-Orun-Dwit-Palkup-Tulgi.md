@@ -8,11 +8,11 @@ Contrairement aux percussions en arc de cercle (*Taerigi*), une technique de typ
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
-* **Dwit (뒤) :** Arrière / Vers l'arrière (*Rear*).
+* **Dwit ([뒤](../audio/termes/뒤.m4a)) :** Arrière / Vers l'arrière (*Rear*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi (찌르기) :** Pique / Poussée axiale rectiligne (*Thrust*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée axiale rectiligne (*Thrust*).
 
 ---
 

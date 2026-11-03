@@ -9,10 +9,10 @@ Cette technique défensive à deux mains combine la stabilité lourde de la post
 Sa décomposition linguistique est la suivante :
 
 * **Gojung So / Gojung Sogi ([고정 서기](../audio/grammaire/Gojung-Sogi.m4a)) :** Posture fixe (*Fixed stance* — répartition du poids 50% / 50%).
-* **Kyocha (교차) :** Croisé / En X (*Crossed / X-*).
+* **Kyocha ([교차](../audio/termes/교차.m4a)) :** Croisé / En X (*Crossed / X-*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
-* **Momchau / Momchum (멈추 / 멈춤) :** D'arrêt / Stopper / Bloquer net (*Checking / Stopping*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Momchau / Momchum ([멈추](../audio/termes/멈추.m4a) / [멈춤](../audio/termes/멈춤.m4a)) :** D'arrêt / Stopper / Bloquer net (*Checking / Stopping*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

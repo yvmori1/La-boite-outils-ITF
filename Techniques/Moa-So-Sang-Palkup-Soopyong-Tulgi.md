@@ -9,10 +9,10 @@ Cette technique d'attaque bilatérale et symétrique à très courte portée uti
 Sa décomposition linguistique est la suivante :
 
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Sang (쌍) :** Double / Paire / Simultané (*Twin / Pair*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Simultané (*Twin / Pair*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Soopyong / Supyeong (수평) :** Horizontal / Dans le plan horizontal (*Horizontal*).
-* **Tulgi / Tulgi (찌르기) :** Pénétration / Piqué / Percée (*Thrust*).
+* **Soopyong / Supyeong ([수평](../audio/termes/수평.m4a)) :** Horizontal / Dans le plan horizontal (*Horizontal*).
+* **Tulgi / Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pénétration / Piqué / Percée (*Thrust*).
 
 ---
 
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Soopyong*)** | **Strictement horizontale** : les avant-bras restent parallèles au sol pendant toute la phase de déploiement et d'impact. |
 | **Zone ciblée / Hauteur** | Généralement le **niveau moyen (*Kaunde*)** : plexus solaire, thorax ou côtes flottantes. |
 | **Placement des mains** | Les poings sont fermés (ou les mains plaquées sur la poitrine/flancs selon la variante du patron), les avant-bras pliés fermement contre le torse. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
 
 ---
 

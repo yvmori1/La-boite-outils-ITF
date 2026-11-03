@@ -7,10 +7,10 @@ Le **Twimyo Sangband Chagi** ([뛰며 쌍방차기](../audio/chagi/twimyo-sangba
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
-* **Sangband / Sangbang (쌍방) :** Deux directions / Bidirectionnel / De deux côtés à la fois (*Sang* = paire/jumeau, *Bang* = direction).
-* **Chagi (차기) :** Coup de pied.
+* **Sangband / Sangbang ([쌍방](../audio/termes/쌍방.m4a)) :** Deux directions / Bidirectionnel / De deux côtés à la fois (*Sang* = paire/jumeau, *Bang* = direction).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
-*(Note : Si l'on parle de **Sangbal** ([쌍발](../audio/grammaire/Sangbal.m4a)), le terme met l'accent sur l'utilisation des deux pieds simultanés, tandis que **Sangbang** (쌍방) insiste sur le fait de frapper deux cibles situées dans des directions différentes).*
+*(Note : Si l'on parle de **Sangbal** ([쌍발](../audio/grammaire/Sangbal.m4a)), le terme met l'accent sur l'utilisation des deux pieds simultanés, tandis que **Sangbang** ([쌍방](../audio/termes/쌍방.m4a)) insiste sur le fait de frapper deux cibles situées dans des directions différentes).*
 
 ---
 

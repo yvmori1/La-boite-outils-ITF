@@ -10,9 +10,9 @@ Sa décomposition linguistique est la suivante :
 
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
-* **An Palmok (안 팔목) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse située du côté du pouce / du radius).
-* **Yobap (옆앞) :** Latéral-avant / Diagonale avant-côté (*Side-front*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **An Palmok ([안 팔목](../audio/termes/안-팔목.m4a)) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse située du côté du pouce / du radius).
+* **Yobap ([옆앞](../audio/termes/옆앞.m4a)) :** Latéral-avant / Diagonale avant-côté (*Side-front*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

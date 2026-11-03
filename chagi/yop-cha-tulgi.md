@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [옆차틀기](../audio/chagi/yop-cha-tulgi.m4a)
 
-Le **Yop Cha Tulgi** ([옆차틀기](../audio/chagi/yop-cha-tulgi.m4a) / 옆차찌르기) est le **coup de pied latéral pénétrant / pique** (*Side thrusting kick*) en TaeKwon-Do ITF.
+Le **Yop Cha Tulgi** ([옆차틀기](../audio/chagi/yop-cha-tulgi.m4a) / [옆차찌르기](../audio/termes/옆차찌르기.m4a)) est le **coup de pied latéral pénétrant / pique** (*Side thrusting kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral.
-* **Cha (차) :** Coup de pied / Frappe de jambe.
-* **Tulgi (틀기 / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Transpercer, piquer, pénétrer (*Thrusting*).
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied / Frappe de jambe.
+* **Tulgi ([틀기](../audio/termes/틀기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Transpercer, piquer, pénétrer (*Thrusting*).
 
 ---
 

@@ -6,8 +6,8 @@ Le **Sondung Taerigi** ([손등 때리기](../audio/jirugi/sondung-taerigi.m4a))
 
 Sa décomposition linguistique est la suivante :
 
-* **Sondung (손등) :** Dos de la main (*Son* = main, *Dung* = dos / revers).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Sondung ([손등](../audio/termes/손등.m4a)) :** Dos de la main (*Son* = main, *Dung* = dos / revers).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

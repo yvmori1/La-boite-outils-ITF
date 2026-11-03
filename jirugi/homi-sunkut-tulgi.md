@@ -6,9 +6,9 @@ Le **Homi Sonkut Tulgi** ([호미 손끝 찌르기](../audio/jirugi/homi-sunkut-
 
 Sa décomposition linguistique est la suivante :
 
-* **Homi (호미) :** Binette / Houe traditionnelle coréenne (évoque la forme crochue de la lame d'un outil agricole).
-* **Sonkut (손끝) :** Extrémité des doigts / Pique des doigts (*Son* = main, *Kut* = pointe/extrémité).
-* **Tulgi (찌르기) :** Pique / Attaque pénétrante en profondeur (*Thrust*).
+* **Homi ([호미](../audio/termes/호미.m4a)) :** Binette / Houe traditionnelle coréenne (évoque la forme crochue de la lame d'un outil agricole).
+* **Sonkut ([손끝](../audio/termes/손끝.m4a)) :** Extrémité des doigts / Pique des doigts (*Son* = main, *Kut* = pointe/extrémité).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Attaque pénétrante en profondeur (*Thrust*).
 
 Le **Homi Sonkut Tulgi** est une attaque de précision chirurgicale dans laquelle les quatre doigts sont **incurvés aux articulations** pour former la silhouette d'un crochet ou d'une houe (*Homi*), permettant de piquer dans des zones molles inaccessibles à une pique droite.
 

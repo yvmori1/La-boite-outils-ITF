@@ -16,8 +16,8 @@ Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position pied 
 | **Dwitbal So (Sogi)** | [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a) | Position pied arrière (*Rear Foot Stance*) | Posture haute et très mobile (95 % du poids sur la jambe arrière, 5 % sur la plante du pied avant). |
 | **Palmok** | [팔목](../audio/grammaire/Palmok.m4a) | Avant-bras | Zone de blocage (utilisation des avant-bras avec les **poings fermés**). |
 | **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur d'exécution (au niveau de la poitrine / du plexus solaire). |
-| **Daebi** | 대비 | Garde / Protection | Action où les deux bras travaillent ensemble pour former un bouclier défensif. |
-| **Makgi** | 막기 | Blocage / Défense | Action de dévier, neutraliser ou stopper une attaque. |
+| **Daebi** | [대비](../audio/termes/대비.m4a) | Garde / Protection | Action où les deux bras travaillent ensemble pour former un bouclier défensif. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de dévier, neutraliser ou stopper une attaque. |
 
 ---
 

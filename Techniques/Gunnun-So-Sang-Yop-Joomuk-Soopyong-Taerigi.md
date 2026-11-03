@@ -1,16 +1,18 @@
 # Gunnun So Sang Yop Joomuk Soopyong Taerigi
 
-La **Gunnun So Sang Yop Joomuk Soopyong Taerigi** (걷는 서 쌍 옆주먹 수평 때리기) est la **frappe horizontale avec les côtés des poings jumelés en posture de marche** (*Walking stance horizontal strike with twin side fists*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 쌍 옆주먹 수평 때리기](../audio/Techniques/Gunnun-So-Sang-Yop-Joomuk-Soopyong-Taerigi.m4a)
+
+La **Gunnun So Sang Yop Joomuk Soopyong Taerigi** ([걷는 서 쌍 옆주먹 수평 때리기](../audio/Techniques/Gunnun-So-Sang-Yop-Joomuk-Soopyong-Taerigi.m4a)) est la **frappe horizontale avec les côtés des poings jumelés en posture de marche** (*Walking stance horizontal strike with twin side fists*) en TaeKwon-Do ITF.
 
 Les deux poings frappent en même temps, à l'horizontale (**Soopyong**), avec leur tranche côté petit doigt (**Yop Joomuk**), pour atteindre les deux côtés de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sang (쌍) :** Double / jumelé (*Twin*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / jumelé (*Twin*).
 * **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Côté du poing (*Side fist* — tranche côté petit doigt).
-* **Soopyong (수평) :** Horizontal (*Horizontal*).
-* **Taerigi (때리기) :** Frappe (*Strike*).
+* **Soopyong ([수평](../audio/termes/수평.m4a)) :** Horizontal (*Horizontal*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
 
 ---
 

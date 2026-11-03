@@ -6,9 +6,9 @@ Le **Dung Joomuk Taerigi** ([등주먹 때리기](../audio/jirugi/dung-joomuk-ta
 
 Sa décomposition linguistique est la suivante :
 
-* **Dung (등) :** Dos / Revers / Partie postérieure (*Back*).
+* **Dung ([등](../audio/termes/등.m4a)) :** Dos / Revers / Partie postérieure (*Back*).
 * **Joomuk / Jumuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé.
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 Le **Dung Joomuk Taerigi** est l'une des attaques de bras les plus rapides et déconcertantes du TaeKwon-Do. Basée sur un effet d'extension-fouetté de l'articulation du coude (*Snap*), cette technique permet d'atteindre des cibles hautes ou latérales avec une grande vélocité.
 

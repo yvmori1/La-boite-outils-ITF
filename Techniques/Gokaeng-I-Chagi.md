@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)
 
-Le **Gokaeng-I Chagi** ([곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)) (souvent retranscrit *Gwaengi Chagi* — 괭이 차기 / [곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)) est le **coup de pied en pioche** (*Pick-ax kick*) en TaeKwon-Do ITF.
+Le **Gokaeng-I Chagi** ([곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)) (souvent retranscrit *Gwaengi Chagi* — [괭이 차기](../audio/termes/괭이-차기.m4a) / [곡괭이 차기](../audio/Techniques/Gokaeng-I-Chagi.m4a)) est le **coup de pied en pioche** (*Pick-ax kick*) en TaeKwon-Do ITF.
 
 Cette technique offensive spectaculaire et déstabilisante consiste à monter le genou fortement fléchi au-dessus ou sur le côté de la garde adverse, puis à abattre le talon (*Dwitkumchi*) vers le bas et vers soi dans un mouvement foudroyant de crochet descendant, mimant le geste d'une pioche qui vient s'enfoncer dans le sol.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gokaeng-I / Gwaengi (고갱이 / 괭이 / 곡괭이) :** Pioche / Pic (*Pick-ax*).
-* **Chagi (차기) :** Coup de pied (*Kick*).
+* **Gokaeng-I / Gwaengi ([고갱이](../audio/termes/고갱이.m4a) / [괭이](../audio/termes/괭이.m4a) / [곡괭이](../audio/termes/곡괭이.m4a)) :** Pioche / Pic (*Pick-ax*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
 
 ---
 
