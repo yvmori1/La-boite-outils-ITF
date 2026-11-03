@@ -10,16 +10,6 @@ Ce recueil de fiches d'études complètes est conçu pour accompagner l'élève 
 
 Le Taekwon-Do n'est pas seulement l'utilisation physique de mouvements techniques, mais aussi une philosophie de vie axée sur l'auto-discipline et un idéal moral noble. L'International Taekwon-Do Federation (ITF) a été fondée le 22 mars 1966 à Séoul, en Corée du Sud, par le général Choi Hong Hi.
 
-### Le Serment de l'Adepte (Étudiant)
-
-Chaque adepte doit réciter et vivre selon le serment suivant :
-
-1. **J'observerai le credo du Taekwon-Do.**
-2. **Je respecterai mon instructeur et les seniors.**
-3. **Je n'utiliserai jamais le Taekwon-Do à mauvais escient.**
-4. **Je serai honnête et juste.**
-5. **Je bâtirai un monde meilleur.**
-
 ### Le Crédo du Taekwon-Do (Do)
 
 Les cinq principes fondamentaux que chaque adepte doit incarner :
@@ -29,6 +19,16 @@ Les cinq principes fondamentaux que chaque adepte doit incarner :
 * **Persévérance (In Nae) :** Faire preuve de patience constante pour surmonter toutes les difficultés. La persévérance mène au mérite et à la vertu [1, 10].
 * **Contrôle de soi (Guk Gi) :** Maîtriser ses émotions et ses actions, un aspect crucial tant en combat libre que dans sa vie quotidienne [1, 10].
 * **Esprit indomptable (Baekjul Boolgool) :** Faire preuve de courage et d'intégrité face à l'injustice, en défendant les faibles sans peur ni hésitation [1, 10].
+
+### Le Serment de l'Adepte (Étudiant)
+
+Chaque adepte doit réciter et vivre selon le serment suivant :
+
+1. **J'observerai le credo du Taekwon-Do.**
+2. **Je respecterai mon instructeur et les seniors.**
+3. **Je n'utiliserai jamais le Taekwon-Do à mauvais escient.**
+4. **Je serai honnête et juste.**
+5. **Je bâtirai un monde meilleur.**
 
 ### Règles d'Étiquette et de Dojang
 
