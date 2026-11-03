@@ -26,9 +26,9 @@ Chaque adepte doit réciter et vivre selon le serment suivant :
 
 1. **J'observerai le credo du Taekwon-Do.**
 2. **Je respecterai mon instructeur et les seniors.**
-3. **Je n'utiliserai jamais le Taekwon-Do à mauvais escient.**
+3. **J'utiliserai le Taekwon-Do à bon escient.**
 4. **Je serai honnête et juste.**
-5. **Je bâtirai un monde meilleur.**
+5. **Je bâtirai un monde meilleur et pacifique.**
 
 ### Règles d'Étiquette et de Dojang
 
