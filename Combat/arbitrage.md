@@ -293,12 +293,75 @@ vainqueur.
 
 ### 6.4 Les autres signaux
 
-Le règlement illustre encore les signaux suivants : arrêt du temps
-(« *Jung Ji* »), arrêt pour blessure, « rien ne s'est passé », renvoi d'un
-combattant ou des deux vers leur entraîneur, ordre à l'entraîneur de se taire
-ou de s'asseoir, retour d'un combattant à au moins 1 m à l'intérieur de l'aire
-après une sortie. Les juges de coin, eux, signalent un premier point marqué en
-se levant, avec ou sans pas de côté.
+L'annexe 3 du règlement présente, photographies à l'appui, tous les signaux
+de l'arbitrage. Ils sont regroupés ci-dessous par officiel. Pour la plupart, le
+texte ne donne que le nom et l'usage du signal ; quand il décrit le geste, la
+description est reprise.
+
+#### L'arbitre central pendant le combat
+
+| Signal | Usage |
+| :--- | :--- |
+| **Rien ne s'est passé** | Indiquer aux juges et à la table qu'aucune action n'est à retenir : ni point ni infraction. |
+| **Arrêt du temps** (« *Jung Ji* ») | Faire arrêter le chronomètre, qui ne repart qu'au « *Gaesok* ». |
+| **Combattez** | Inviter les combattants à reprendre l'échange. |
+| **Écoutez** | Demander l'attention d'un combattant avant de lui donner une consigne. |
+| **Silence** | Interdire à un combattant de parler. |
+| **Arrêt du temps pour blessure** | Arrêter le chronomètre et faire venir le médecin ; c'est alors que commence le temps de soins de 3 minutes par match (voir la section 3.4). |
+| **Renvoi de l'adversaire vers son entraîneur** | En cas de blessure, envoyer le combattant non blessé à son coin pendant les soins. |
+| **Renvoi des deux combattants vers leurs entraîneurs** | Envoyer chacun à son coin, par exemple pendant une consultation de la table. |
+| **Entraîneur : silence** | Rappeler à l'entraîneur qu'il ne doit intervenir ni par le geste ni par la parole. |
+| **Entraîneur : asseyez-vous** | Faire rasseoir un entraîneur qui s'est levé. |
+| **Retour dans l'aire** | Après une sortie, faire revenir le combattant **à au moins 1 m à l'intérieur** de la limite avant la reprise. |
+| **Reculer** | Faire reculer un combattant, par exemple pour rétablir la distance avant la reprise. |
+
+#### L'arbitre central avant le combat : le contrôle de l'équipement
+
+Lorsque l'équipement n'a pas été vérifié hors de l'aire par les vérificateurs,
+l'arbitre central le contrôle lui-même, dans cet ordre :
+
+1. Il fait tendre les bras au combattant.
+2. Il contrôle la face avant des protège-mains…
+3. … puis leur dessus et les poignets…
+4. … puis la paume et le dessous.
+5. Il vérifie la présence du protège-dents.
+6. Il vérifie la coquille, obligatoire pour les hommes et facultative pour les femmes, qui doit être portée sous le pantalon du dobok.
+7. Il contrôle le dessus des protège-pieds…
+8. … puis la partie qui couvre le talon.
+9. Il fait se retourner le combattant pour contrôler le casque et l'absence d'attaches de cheveux en métal ou en plastique.
+10. Il vérifie le numéro d'identification et le pays du combattant.
+
+#### Le président du jury
+
+Depuis la table, le président du jury dirige l'aire par ses propres signaux :
+
+| Signal | Usage |
+| :--- | :--- |
+| **En attente de la décision** | Signaler que la décision n'est pas encore rendue. |
+| **Égalité** | Annoncer un résultat nul, qui entraîne le round supplémentaire. |
+| **Victoire du bleu / victoire du rouge** | Annoncer le vainqueur. |
+| **Disqualification** | Debout, désigner le combattant disqualifié et lever l'autre main, poing fermé, le dessous du poing tourné vers l'extérieur (voir la section 6.3). |
+| **Arrêt du temps** (« *Jung Ji* ») | Faire arrêter le chronomètre depuis la table. |
+| **Appel d'un juge, ou de tous les juges, à la table** | Les consulter, par exemple avant une décision difficile. |
+| **Renvoi d'un juge, ou de tous les juges, à leur chaise** | Mettre fin à la consultation. |
+
+L'officiel appelé à la table s'en approche et salue le président du jury.
+Pendant qu'il reçoit ses consignes, l'arbitre central attend en position
+parallèle, les mains jointes dans le dos.
+
+#### Les juges de coin
+
+Le règlement montre les postures correctes et incorrectes des juges, assis
+ou debout. Pour le **premier point** du round décisif, chaque juge le signale
+par sa posture : debout, ou debout avec un pas de côté, à gauche ou à droite.
+
+#### Casse et techniques spéciales
+
+En casse et en techniques spéciales, un **drapeau rouge** de l'arbitre lance
+les 50 secondes de la tentative. Deux signaux s'y ajoutent :
+
+* **Aucun point accordé pour la casse ;**
+* **Planche non cassée :** les mains partent en X, en position de tranchant de la main, puis s'écartent vers le bas.
 
 ---
 
