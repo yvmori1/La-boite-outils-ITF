@@ -37,7 +37,7 @@
    *([Gunnun so palmok najunde makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md))*
    > *Exécuter 5 et 6 en mouvement continu.*
 7. Exécuter un double blocage haut des mains arquées vers AD tout en regardant à travers, en maintenant une position de marche gauche vers D.
-   *([Gunnun so nopunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
+   *([Gunnun so nopunde doo bandalson makgi](../Techniques/Gunnun-So-Nopunde-Doo-Bandalson-Makgi.md))*
 8. Tourner le visage vers D tout en formant une position de préparation pliée A droite vers D.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 9. Abaisser le pied gauche vers AD pour former une position assise vers AC tout en exécutant un blocage en levant vers AC avec la paume gauche.
@@ -56,7 +56,7 @@
 15. Exécuter une pique haute vers C avec le bout des doigts droit à plat tout en maintenant une position basse gauche vers C.
    *([Nachuo so opun sonkut nopunde bandae tulgi](../Techniques/Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md))*
 16. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit tout en tirant les deux mains dans la direction opposée.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 17. Abaisser le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 18. Déplacer le pied droit vers D en tournant dans le sens anti-horaire pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec l'avant-bras.
@@ -66,9 +66,9 @@
 20. Déplacer le pied gauche sur la ligne CD pour former une position assise vers A tout en exécutant un blocage en forme de 9 droit.
    *([Annun so orun gutja makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md))*
 21. Déplacer le pied droit vers D, en tournant dans le sens anti-horaire pour former une position de marche gauche vers C tout en exécutant un blocage bas vers C avec le tranchant de la main gauche.
-   *([Gunnun so sonkal najunde makgi](../makgi/najunde-makgi.md))*
+   *([Gunnun so sonkal najunde makgi](../Techniques/Gunnun-So-Sonkal-Najunde-Makgi.md))*
 22. Exécuter un coup de pied circulaire moyen vers BC avec le pied droit puis l'abaisser vers C.
-   *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
+   *([Kaunde dollyo chagi](../Techniques/Kaunde-Dollyo-Chagi.md))*
 23. Exécuter un coup de pied latéral perçant sauté vers C avec le pied droit.
    *([Twimyo yopcha jirugi](../chagi/twimyo-yopcha-jirugi.md))*
    > *Exécuter 22 et 23 en mouvement rapide.*
@@ -76,7 +76,7 @@
 24. Atterrir vers C pour former une position de marche droite vers C tout en exécutant un coup de poing vertical haut vers C avec les poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*
 25. Exécuter un double blocage haut des mains arquées vers AC tout en regardant à travers, en maintenant une position de marche droite vers C.
-   *([Gunnun so nopunde doo bandalson makgi](../makgi/doo-bandalson-makgi.md))*
+   *([Gunnun so nopunde doo bandalson makgi](../Techniques/Gunnun-So-Nopunde-Doo-Bandalson-Makgi.md))*
 26. Exécuter un coup de poing renversé vers C avec le poing gauche tout en maintenant une position de marche droite vers C.
    *([Gunnun so bandae dwijibo jirugi](../Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.md))*
 27. Déplacer le pied droit sur la ligne CD, pour former une position de marche gauche vers D tout en frappant la paume gauche avec le coude droit.
@@ -94,7 +94,7 @@
 32. Déplacer le pied gauche vers C, pour former une position de marche gauche vers C, tout en exécutant une frappe frontale haute vers C avec le revers de la main droite.
    *([Gunnun so sonkal dung nopunde bandae ap taerigi](../Techniques/Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md))*
 33. Déplacer le pied gauche vers A d'environ une demi-largeur d'épaule tout en exécutant un coup de pied circulaire moyen vers C avec le pied droit.
-   *([Kaunde dollyo chagi](../chagi/dollyo-chagi.md))*
+   *([Kaunde dollyo chagi](../Techniques/Kaunde-Dollyo-Chagi.md))*
    > *Distance de saut : 1/2 largeur d'épaules.*
 34. Abaisser le pied droit vers C, puis tourner dans le sens anti-horaire pour former une position de marche gauche vers D, en pivotant avec le pied droit tout en exécutant un coup de poing vertical haut vers D avec les poings jumelés.
    *([Gunnun so sang joomuk nopunde sewo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md))*

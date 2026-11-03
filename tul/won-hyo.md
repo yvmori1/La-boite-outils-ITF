@@ -37,7 +37,7 @@
 7. Ramener le pied droit vers le pied gauche puis tourner le visage vers D tout en formant une position de préparation pliée A droite vers D.
    *([guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 8. Exécuter un coup de pied latéral perçant moyen vers D avec le pied gauche.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 9. Abaisser le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 10. Déplacer le pied droit vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
@@ -45,7 +45,7 @@
 11. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 12. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec le bout des doigts droit.
-   *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Sun-Sonkut-Kaunde-Tulgi.md))*
+   *([Gunnun so sun sonkut kaunde tulgi](../Techniques/Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.md))*
 13. Déplacer le pied gauche vers E en tournant dans le sens anti-horaire pour former une position en L droite vers E, tout en exécutant un blocage double des avant-bras.
    *([Niunja so sang palmok makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md))*
 14. Exécuter une frappe intérieure haute vers E avec le tranchant de la main droite tout en amenant le côté du poing gauche devant l'épaule droite, en maintenant une position en L droite vers E.
@@ -59,13 +59,13 @@
 18. Exécuter un coup de poing moyen vers F avec le poing droit tout en formant une position fixe droite vers F, en glissant le pied droit vers F.
    *([Gojung so kaunde yop jirugi](../Techniques/Gojung-So-Kaunde-Yop-Jirugi.md))*
 19. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage circulaire vers CF avec l'avant-bras intérieur droit.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 20. Exécuter un coup de pied avant fouetté bas vers C avec le pied droit, en gardant les mains dans la position du mouvement 19.
    *([Najunde apcha busigi](../chagi/apcha-busigi.md))*
 21. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 22. Exécuter un blocage circulaire vers CE avec l'avant-bras intérieur gauche tout en maintenant une position de marche droite vers C.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 23. Exécuter un coup de pied avant fouetté bas vers C avec le pied gauche, en gardant les mains dans la position du mouvement 22.
    *([Najunde apcha busigi](../chagi/apcha-busigi.md))*
 24. Abaisser le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
@@ -73,7 +73,7 @@
 25. Tourner le visage vers C pour former une position de préparation pliée A gauche vers C.
    *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
 26. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 27. Abaisser le pied droit sur la ligne CD puis déplacer le pied gauche vers B, en tournant dans le sens anti-horaire pour former une position en L droite vers B, tout en exécutant un blocage de garde moyen vers B avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 28. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec l'avant-bras.

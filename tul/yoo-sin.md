@@ -36,7 +36,7 @@
 8. Déplacer le pied gauche vers BD pour former une position de marche gauche vers BD tout en exécutant un blocage latéral haut vers BD avec l'avant-bras extérieur gauche.
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 9. Exécuter un blocage circulaire vers D avec l'avant-bras intérieur droit tout en maintenant une position de marche gauche vers BD.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 10. Exécuter un blocage en levant avec la paume gauche tout en formant une position assise vers AD.
    *([Annun so wen sonbadak duro makgi](../Techniques/Annun-So-Wen-Sonbadak-Duro-Makgi.md))*
 11. Exécuter un coup de poing moyen vers AD avec le poing droit tout en maintenant une position assise vers AD.
@@ -45,7 +45,7 @@
 12. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers AD pour former une position de marche droite vers AD tout en exécutant un blocage latéral haut vers AD avec l'avant-bras extérieur droit.
    *([Gunnun so bakat palmok nopunde yop makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
 13. Exécuter un blocage circulaire vers D avec l'avant-bras intérieur gauche tout en maintenant une position de marche droite vers AD.
-   *([Gunnun so an palmok dollimyo makgi](../makgi/dollimyo-makgi.md))*
+   *([Gunnun so an palmok dollimyo makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
 14. Exécuter un blocage en levant avec la paume droite tout en formant une position assise vers BD.
    *([Annun so orun sonbadak duro makgi](../Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.md))*
 15. Exécuter un coup de poing moyen vers BD avec le poing gauche tout en maintenant une position de marche droite vers BD.
@@ -63,7 +63,7 @@
 20. Déplacer le pied droit vers C, pour former une position de marche gauche vers D tout en exécutant un blocage en pression avec les poings croisés.
    *([Gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 21. Exécuter un blocage montant avec les tranchants des mains croisées tout en maintenant une position de marche gauche vers D.
-   *([Gunnun so kyocha sonkal chookyo makgi](../makgi/chookyo-makgi.md))*
+   *([Gunnun so kyocha sonkal chookyo makgi](../Techniques/Gunnun-So-Kyocha-Sonkal-Chookyo-Makgi.md))*
    > *Exécuter 20 et 21 en mouvement continu.*
 22. Exécuter un coup de poing moyen vers D avec le poing droit, en glissant la paume gauche vers le haut vers l'articulation du coude droit tout en maintenant une position de marche gauche vers D.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
@@ -74,7 +74,7 @@
 25. Exécuter un blocage en pression avec les poings croisés tout en maintenant une position de marche droite vers D.
    *([gunnun so kyocha joomuk noollo makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md))*
 26. Exécuter un blocage montant avec les tranchants des mains croisées tout en maintenant une position de marche droite vers D.
-   *([Gunnun so kyocha sonkal chookyo makgi](../makgi/chookyo-makgi.md))*
+   *([Gunnun so kyocha sonkal chookyo makgi](../Techniques/Gunnun-So-Kyocha-Sonkal-Chookyo-Makgi.md))*
    > *Exécuter 25 et 26 en mouvement continu.*
 27. Exécuter un coup de poing moyen vers D avec le poing gauche en glissant la paume droite vers le haut vers l'articulation du coude gauche tout en maintenant une position de marche droite vers D.
    *([gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
@@ -93,12 +93,12 @@
 34. Déplacer le pied droit vers D, pour former une position de marche droite vers D tout en exécutant un blocage haut vers D avec le double avant-bras droit.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 35. Exécuter un blocage bas vers D avec l'avant-bras gauche, en gardant l'avant-bras droit dans la position du mouvement 34 tout en maintenant une position de marche droite vers D.
-   *([Gunnun so palmok najunde bandae makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md))*
+   *([Gunnun so palmok najunde bandae makgi](../Techniques/Gunnun-So-Palmok-Najunde-Bandae-Makgi.md))*
    > *Exécuter 34 et 35 en mouvement rapide.*
 36. Déplacer le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un blocage haut vers D avec le double avant-bras gauche.
    *([Gunnun so doo palmok nopunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Nopunde-Makgi.md))*
 37. Exécuter un blocage bas vers D avec l'avant-bras droit, en gardant l'avant-bras gauche dans la position du mouvement 36 tout en maintenant une position de marche gauche vers D.
-   *([Gunnun so palmok najunde bandae makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md))*
+   *([Gunnun so palmok najunde bandae makgi](../Techniques/Gunnun-So-Palmok-Najunde-Bandae-Makgi.md))*
    > *Exécuter 36 et 37 en mouvement rapide.*
 38. Déplacer le pied droit vers D, pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
@@ -137,16 +137,16 @@
 54. Exécuter une frappe horizontale vers C avec le revers de la main droite tout en maintenant une position assise vers E.
    *([Annun so orun sondung soopyong taerigi](../Techniques/Annun-So-Orun-Sondung-Soopyong-Taerigi.md))*
 55. Exécuter un coup de pied semi-circulaire moyen vers la paume droite avec le pied gauche.
-   *([Kaunde bandal chagi](../chagi/bandal-chagi.md))*
+   *([Kaunde bandal chagi](../Techniques/Kaunde-Bandal-Chagi.md))*
 56. Exécuter un coup de pied latéral perçant moyen vers C avec le pied gauche pour former un blocage de garde de l'avant-bras.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
    > *Exécuter 55 et 56 en un coup de pied consécutif.*
 57. Abaisser le pied gauche vers C pour former une position assise vers B tout en exécutant une frappe horizontale vers C avec le revers de la main gauche.
    *([Annun so wen sondung soopyong taerigi](../Techniques/Annun-So-Wen-Sondung-Soopyong-Taerigi.md))*
 58. Exécuter un coup de pied semi-circulaire moyen vers la paume gauche avec le pied droit.
-   *([Kaunde bandal chagi](../chagi/bandal-chagi.md))*
+   *([Kaunde bandal chagi](../Techniques/Kaunde-Bandal-Chagi.md))*
 59. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit, pour former un blocage de garde de l'avant-bras.
-   *([Kaunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
+   *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
    > *Exécuter 58 et 59 en un coup de pied consécutif.*
 60. Abaisser le pied droit vers C, pour former une position assise vers A tout en exécutant un blocage en forme de 9 droit.
    *([Annun so orun gutja makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md))*
