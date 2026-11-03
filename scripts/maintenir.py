@@ -11,10 +11,9 @@
   2. compteurs du README racine     (d'après le contenu réel des dossiers)
   3. graphies normalisées           (variantes sans ambiguïté)
   4. liens des formes vers les fiches
-  5. mvt.txt
-  6. prononciations et liens audio  (fiches, manuel, pages de Combat/)
-  7. réparation des audio manquants
-  8. contrôle final (scripts/verifier.py)
+  5. prononciations et liens audio  (fiches, manuel, pages de Combat/)
+  6. réparation des audio manquants
+  7. contrôle final (scripts/verifier.py)
 
 À lancer après avoir ajouté des fiches, renommé un fichier ou corrigé une
 romanisation. Chaque étape est idempotente : sans changement, elle ne fait rien.
@@ -125,7 +124,6 @@ def main():
         ("compteurs du README", lambda: compteurs(args.write)),
         ("graphies normalisées", lambda: graphies(args.write)),
         ("liens des formes", lambda: lancer("lier-mouvements.py", [], args.write)),
-        ("mvt.txt", lambda: lancer("generer-mvt.py", [], args.write)),
     ]
     if not args.sans_audio:
         # hors macOS, pas de synthèse : on lie seulement les hangul dont

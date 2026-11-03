@@ -31,10 +31,9 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | Script | Rôle |
 | :--- | :--- |
 | [maintenir.py](maintenir.py) | Enchaîne tous les autres dans l'ordre, puis contrôle |
-| [verifier.py](verifier.py) | Neuf contrôles d'intégrité, n'écrit jamais |
+| [verifier.py](verifier.py) | Huit contrôles d'intégrité, n'écrit jamais |
 | [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `Techniques/README.md` |
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
-| [generer-mvt.py](generer-mvt.py) | Reconstruit `mvt.txt` |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
 | [generer-manuel.py](generer-manuel.py) | Assemble `Theorie/manuel-taekwon-do.md` à partir des quatre fiches de fond |
@@ -43,7 +42,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 
 Étapes, dans un ordre où chacune dépend des précédentes : index de `Techniques/`,
 compteurs du README racine, normalisation des graphies (y compris les hangul
-fautifs relevés par le glossaire), liens des formes, `mvt.txt`, prononciations
+fautifs relevés par le glossaire), liens des formes, prononciations
 de tout le site, réparation des audio manquants, index de `Techniques/` une
 seconde fois, contrôle final.
 
@@ -52,7 +51,7 @@ seconde fois, contrôle final.
 ### verifier.py
 
 Liens Markdown morts · liens audio morts · fichiers audio orphelins · fiches
-vides · compteurs du README racine · index Techniques à jour · `mvt.txt` à jour ·
+vides · compteurs du README racine · index Techniques à jour ·
 graphies concurrentes · couverture des formes.
 
 Les graphies surveillées sont déclarées en tête du fichier (`GRAPHIES`) : une
