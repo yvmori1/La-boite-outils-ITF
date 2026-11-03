@@ -258,7 +258,8 @@ récompenses déjà obtenues.
 
 Le règlement illustre par des photographies l'ensemble des gestes de
 l'arbitre et du président du jury. Les descriptions qui suivent reprennent
-celles que le texte donne en toutes lettres.
+le texte du règlement 2026 et les photographies de l'annexe 3 officielle,
+« *Umpire's Procedures and Signals* », que le règlement 2026 reproduit.
 
 ### 6.1 Donner un avertissement ou une faute
 
@@ -274,15 +275,12 @@ celles que le texte donne en toutes lettres.
 | :--- | :--- |
 | Faire semblant d'avoir marqué (avertissement) | Tirer le poing fermé verticalement de la hauteur des yeux à celle de l'épaule. |
 | Tomber (avertissement) | Tendre les deux mains, paumes vers le sol, parallèles au sol, en fléchissant les genoux. |
-| Pousser (avertissement) | Exécuter un blocage vers l'intérieur de l'avant-bras extérieur. |
+| Simuler une blessure, pousser (avertissements) | Exécuter un blocage vers l'intérieur de l'avant-bras extérieur. |
 | Cible interdite atteinte involontairement (avertissement) | Exécuter un coup de poing en angle. |
 | Attaquer un adversaire au sol (faute) | Exécuter un coup de pied direct bas. |
 | Balayer (faute) | Exécuter un coup de pied balayé. |
 | Contact appuyé, saisie, cible interdite visée volontairement, conduite antisportive (fautes) | Exécuter un coup de poing en angle dans la paume ouverte. |
-
-Pour les avertissements de sortie de l'aire, d'évitement du combat et
-d'ajustement de l'équipement, le règlement décrit une ligne horizontale tracée
-du centre du corps vers le côté.
+| Sortir de l'aire, éviter le combat, ajuster son équipement (avertissements) | Partir du poing devant le centre du corps et tracer une ligne horizontale vers l'extérieur, bras tendu sur le côté. |
 
 ### 6.3 La disqualification
 
@@ -293,57 +291,71 @@ vainqueur.
 
 ### 6.4 Les autres signaux
 
-L'annexe 3 du règlement présente, photographies à l'appui, tous les signaux
-de l'arbitrage. Ils sont regroupés ci-dessous par officiel. Pour la plupart, le
-texte ne donne que le nom et l'usage du signal ; quand il décrit le geste, la
-description est reprise.
+Les signaux sont regroupés ci-dessous par officiel. Les gestes sont décrits
+d'après les photographies de l'annexe 3.
 
 #### L'arbitre central pendant le combat
 
-| Signal | Usage |
-| :--- | :--- |
-| **Rien ne s'est passé** | Indiquer aux juges et à la table qu'aucune action n'est à retenir : ni point ni infraction. |
-| **Arrêt du temps** (« *Jung Ji* ») | Faire arrêter le chronomètre, qui ne repart qu'au « *Gaesok* ». |
-| **Combattez** | Inviter les combattants à reprendre l'échange. |
-| **Écoutez** | Demander l'attention d'un combattant avant de lui donner une consigne. |
-| **Silence** | Interdire à un combattant de parler. |
-| **Arrêt du temps pour blessure** | Arrêter le chronomètre et faire venir le médecin ; c'est alors que commence le temps de soins de 3 minutes par match (voir la section 3.4). |
-| **Renvoi de l'adversaire vers son entraîneur** | En cas de blessure, envoyer le combattant non blessé à son coin pendant les soins. |
-| **Renvoi des deux combattants vers leurs entraîneurs** | Envoyer chacun à son coin, par exemple pendant une consultation de la table. |
-| **Entraîneur : silence** | Rappeler à l'entraîneur qu'il ne doit intervenir ni par le geste ni par la parole. |
-| **Entraîneur : asseyez-vous** | Faire rasseoir un entraîneur qui s'est levé. |
-| **Retour dans l'aire** | Après une sortie, faire revenir le combattant **à au moins 1 m à l'intérieur** de la limite avant la reprise. |
-| **Reculer** | Faire reculer un combattant, par exemple pour rétablir la distance avant la reprise. |
+| Signal | Geste | Usage |
+| :--- | :--- | :--- |
+| **Rien ne s'est passé** | Croiser les mains ouvertes devant la poitrine, puis les écarter en diagonale vers le bas, de part et d'autre du corps. | Indiquer aux juges et à la table qu'aucune action n'est à retenir : ni point ni infraction. |
+| **Arrêt du temps** (« *Jung Ji* ») | Former un T devant la poitrine : une main à plat, horizontale, posée sur le bout des doigts de l'autre, tenue verticale. | Faire arrêter le chronomètre, qui ne repart qu'au « *Gaesok* ». |
+| **Combattez** | Tenir les deux avant-bras horizontaux devant la poitrine, l'un au-dessus de l'autre. | Inviter les combattants à engager l'échange. |
+| **Écoutez** | Porter la main à l'oreille. | Demander l'attention d'un combattant avant de lui donner une consigne. |
+| **Silence** | Poser l'index sur les lèvres, tourné vers le combattant. | Interdire à un combattant de parler. |
+| **Arrêt du temps pour blessure** | Le même T que « *Jung Ji* », debout auprès du combattant blessé. | Arrêter le chronomètre et faire venir le médecin ; c'est alors que commence le temps de soins de 3 minutes par match (voir la section 3.4). |
+| **Renvoi de l'adversaire vers son entraîneur** | Tendre le bras horizontalement, main ouverte, vers le coin du combattant non blessé. | En cas de blessure, l'éloigner vers son coin pendant les soins. |
+| **Renvoi des deux combattants vers leurs entraîneurs** | Tendre les deux bras horizontalement sur les côtés, chacun vers le coin d'un combattant. | Envoyer chacun à son coin. |
+| **Entraîneur : silence** | Poser l'index sur les lèvres, tourné vers l'entraîneur. | Rappeler à l'entraîneur qu'il ne doit intervenir ni par le geste ni par la parole. |
+| **Entraîneur : asseyez-vous** | Tendre le bras vers l'entraîneur, main à plat, paume vers le sol. | Faire rasseoir un entraîneur qui s'est levé. |
+| **Retour dans l'aire** | Se placer à côté du combattant et le guider de la main vers l'intérieur. | Après une sortie, le faire revenir **à au moins 1 m à l'intérieur** de la limite avant la reprise. |
+| **Reculer** | S'avancer devant le combattant pour le faire reculer. | Rétablir la distance avant la reprise. |
+
+#### L'arbitre central au salut et au départ
+
+Chaque commandement du salut (section 3.2) s'accompagne d'un geste. Sur
+« *Hong* » et « *Chong* », l'arbitre désigne de la main tendue, paume vers le
+haut, la place de chaque combattant. Sur « *Charyot* », il lève les deux
+avant-bras à la verticale, paumes vers l'avant ; sur « *Kyong Ye* », il
+accompagne le salut d'un mouvement des mains : bras tendus sur les côtés
+pour le salut à la table, mains ramenées vers le visage pour le salut à
+l'arbitre, avant-bras horizontaux devant la poitrine pour le salut entre
+combattants. Au départ, il tend le bras entre les combattants, le lève en
+montrant du doigt le numéro du round, puis l'abaisse sur « *Sijak* ». À la
+fin, il abaisse la main entre eux sur « *Goman* », puis, après les saluts,
+prend leurs poignets et lève le bras du vainqueur.
 
 #### L'arbitre central avant le combat : le contrôle de l'équipement
 
 Lorsque l'équipement n'a pas été vérifié hors de l'aire par les vérificateurs,
-l'arbitre central le contrôle lui-même, dans cet ordre :
+l'arbitre central le contrôle lui-même, face au combattant, dans cet ordre :
 
-1. Il fait tendre les bras au combattant.
-2. Il contrôle la face avant des protège-mains…
+1. Il tend lui-même les bras devant lui pour inviter le combattant à tendre les siens.
+2. Il touche la face avant des protège-mains…
 3. … puis leur dessus et les poignets…
 4. … puis la paume et le dessous.
 5. Il vérifie la présence du protège-dents.
 6. Il vérifie la coquille, obligatoire pour les hommes et facultative pour les femmes, qui doit être portée sous le pantalon du dobok.
-7. Il contrôle le dessus des protège-pieds…
+7. Accroupi, un genou au sol, il contrôle le dessus des protège-pieds…
 8. … puis la partie qui couvre le talon.
 9. Il fait se retourner le combattant pour contrôler le casque et l'absence d'attaches de cheveux en métal ou en plastique.
-10. Il vérifie le numéro d'identification et le pays du combattant.
+10. Il vérifie le numéro d'identification et le pays inscrits au dos du dobok.
 
 #### Le président du jury
 
-Depuis la table, le président du jury dirige l'aire par ses propres signaux :
+Depuis la table, le président du jury se lève pour donner ses signaux :
 
-| Signal | Usage |
-| :--- | :--- |
-| **En attente de la décision** | Signaler que la décision n'est pas encore rendue. |
-| **Égalité** | Annoncer un résultat nul, qui entraîne le round supplémentaire. |
-| **Victoire du bleu / victoire du rouge** | Annoncer le vainqueur. |
-| **Disqualification** | Debout, désigner le combattant disqualifié et lever l'autre main, poing fermé, le dessous du poing tourné vers l'extérieur (voir la section 6.3). |
-| **Arrêt du temps** (« *Jung Ji* ») | Faire arrêter le chronomètre depuis la table. |
-| **Appel d'un juge, ou de tous les juges, à la table** | Les consulter, par exemple avant une décision difficile. |
-| **Renvoi d'un juge, ou de tous les juges, à leur chaise** | Mettre fin à la consultation. |
+| Signal | Geste | Usage |
+| :--- | :--- | :--- |
+| **En attente de la décision** | Debout, bras le long du corps. | Signaler que la décision n'est pas encore rendue. |
+| **Égalité** | Croiser les avant-bras sur la poitrine. | Annoncer un résultat nul, qui entraîne le round supplémentaire. |
+| **Victoire du bleu / du rouge** | Tendre le bras en diagonale vers le haut, du côté du vainqueur. | Annoncer le vainqueur. |
+| **Disqualification** | Désigner du bras tendu le combattant disqualifié et lever l'autre main, poing fermé, le dessous du poing tourné vers l'extérieur (section 6.3). | Disqualifier. |
+| **Arrêt du temps** (« *Jung Ji* ») | Le même T que l'arbitre central. | Faire arrêter le chronomètre depuis la table. |
+| **Appel d'un juge à la table** | Lever une main à hauteur de la tête. | Le consulter. |
+| **Appel de tous les juges** | Lever les deux mains. | Les consulter ensemble. |
+| **Renvoi d'un juge à sa chaise** | Montrer une paume ouverte, tournée vers l'avant. | Mettre fin à la consultation. |
+| **Renvoi de tous les juges** | Montrer les deux paumes ouvertes. | Mettre fin à la consultation. |
 
 L'officiel appelé à la table s'en approche et salue le président du jury.
 Pendant qu'il reçoit ses consignes, l'arbitre central attend en position
@@ -351,21 +363,35 @@ parallèle, les mains jointes dans le dos.
 
 #### Les juges de coin
 
-Le règlement montre les postures correctes et incorrectes des juges, assis
-ou debout. Pour le **premier point** du round décisif, chaque juge le signale
-par sa posture : debout, ou debout avec un pas de côté, à gauche ou à droite.
+Debout, le juge se tient droit, pieds joints, mains jointes devant lui ;
+assis, il garde le dos droit, les pieds à plat au sol et le boîtier de
+pointage sur les genoux. Les photographies proscrivent les jambes croisées
+ou écartées, le dos avachi et le regard détourné du combat.
+
+Pour le **premier point** du round décisif, chaque juge se lève : il reste
+debout face à l'aire ou fait un pas de côté, à gauche ou à droite, le
+boîtier en main. Les mains sur les hanches sont une posture incorrecte.
 
 #### Casse et techniques spéciales
 
 En casse et en techniques spéciales, un **drapeau rouge** de l'arbitre lance
-les 50 secondes de la tentative. Deux signaux s'y ajoutent :
+les 50 secondes de la tentative. Pour **refuser une casse** — planche non
+cassée ou aucun point accordé —, l'arbitre croise les mains en X, en
+position de tranchant de la main, puis les écarte vers le bas. Il en
+précise alors la raison :
 
-* **Aucun point accordé pour la casse ;**
-* **Planche non cassée :** les mains partent en X, en position de tranchant de la main, puis s'écartent vers le bas.
+| Raison | Geste |
+| :--- | :--- |
+| Toucher la planche plus d'une fois en prenant la distance | Coup de poing en angle qui touche deux fois la main opposée. |
+| Outil d'attaque interdit ou incorrect | Coup de poing en angle. |
+| Technique incorrecte | Blocage vers l'intérieur de l'avant-bras extérieur. |
+| Perte d'équilibre | Les deux mains tendues, paumes vers le sol, en fléchissant les genoux. |
+| Absence de blocage de garde | Blocage de garde moyen de l'avant-bras, en position en L. |
 
 ---
 
 ## Sources
 
 * [Official ITF Rules of Competition, version 2026-1](https://itftkd.sport/wp-content/uploads/2026/01/Official-ITF-Rules-of-Competition-Version-2026-1.pdf) — articles T3 à T42 (officiels, protections, aire, terminologie, combat), annexe 1 (procédure de pointage), annexe 3 (procédures et signaux des arbitres) et glossaire (contact léger, appuyé et excessif).
+* *Umpire's Procedures and Signals*, annexe 3 officielle des règles d'arbitrage de l'ITF, en vigueur depuis le 1er janvier 2015 — photographies des signaux de l'arbitre central, du président du jury et des juges de coin.
 * *Encyclopédie du Taekwon-Do*, général Choi Hong Hi — typologie des combats et terminologie coréenne.
