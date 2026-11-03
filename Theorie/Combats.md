@@ -4,6 +4,9 @@ Typologie des combats, prise de mesure, système de points, code des pénalités
 et gestuelle d'arbitrage, d'après le règlement officiel de compétition de l'ITF et
 l'*Encyclopédie du Taekwon-Do*. Les sources complètes sont en fin de document.
 
+Les systèmes de combat, l'autodéfense et la casse sont développés dans la
+section [Combat et autodéfense](../Combat/README.md).
+
 ---
 
 ## 1. Lexique officiel et commandements de l'arbitre

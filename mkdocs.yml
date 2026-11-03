@@ -60,6 +60,11 @@ markdown_extensions:
   - toc:
       permalink: "¶"
       permalink_title: Lien vers cette section
+      # Ancres au format GitHub (accents conservés, « — » donne « -- »),
+      # pour que les mêmes liens marchent sur GitHub et sur le site.
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   # Formules LaTeX ($...$ et $$...$$) présentes dans Theorie/.
   - pymdownx.arithmatex:
       generic: true

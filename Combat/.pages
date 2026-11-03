@@ -1,0 +1,9 @@
+# Ordre et titres des pages de la section dans le menu latéral.
+nav:
+  - README.md
+  - Systèmes de combat: systemes-de-combat.md
+  - Combat libre: combat-libre.md
+  - Autodéfense (Hosinsul): hosinsul.md
+  - Points vitaux (Kupso): points-vitaux.md
+  - Casse (Kyokpa): kyokpa.md
+  - Exigences par grade: progression.md
