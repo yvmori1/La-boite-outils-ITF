@@ -57,6 +57,7 @@ Pour bien exécuter le *Bandal Jirugi*, il faut comprendre comment sa trajectoir
 ## 4. Cibles et intérêt tactique (*Matsogi* & *Hosinsul*)
 
 > **S'infiltrer à travers les gardes étanches :**
+>
 > 1. **Contourner le coude adverse :** Quand un adversaire maintient une garde axiale très fermée (coudes collés au corps), un coup de poing direct bute contre ses avant-bras. Le *Bandal Jirugi* passe juste à côté du coude pour rentrer vers les **côtes flottantes**, le **plexus** ou le **menton**.
 > 2. **Cibles principales :** La mâchoire / le menton (*G[턱](../audio/termes/턱.m4a)*), la tempe (*Gwanja Noryeok*) ou le flanc.
 > 3. **Puissance de torsion :** L'association de l'inertie rotative du bras en arc et du pivot des hanches génère une force d'ébranlement très élevée.

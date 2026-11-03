@@ -38,8 +38,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 1 : Armement croisé et *Sine Wave*
 
 1. **Croisement des bras :**
-   * Le bras du côté de la jambe arrière (**Baro**) s'arme près du flanc/hanche opposé, le poing fermé, paume vers le bas.
-   * Le bras du côté de la jambe avant (**Bandae**) s'arme près de l'épaule opposée (arrière), paume vers l'intérieur.
+    * Le bras du côté de la jambe arrière (**Baro**) s'arme près du flanc/hanche opposé, le poing fermé, paume vers le bas.
+    * Le bras du côté de la jambe avant (**Bandae**) s'arme près de l'épaule opposée (arrière), paume vers l'intérieur.
 2. **Phase haute (*Sine Wave*) :** Élévation souple du centre de gravité par une légère extension des genoux pendant le glissement du pas.
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
@@ -50,8 +50,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 3 : Le Déploiement Simultané et le Verrouillage (*Snap*)
 
 1. **Ciseau défensif :**
-   * Le bras haut se détend vers l'extérieur au niveau des yeux/tempe (*Nopunde Bakuro*).
-   * Le bras bas s'abat vers le bas-ventre/cuisse avant (*Najunde*).
+    * Le bras haut se détend vers l'extérieur au niveau des yeux/tempe (*Nopunde Bakuro*).
+    * Le bras bas s'abat vers le bas-ventre/cuisse avant (*Najunde*).
 2. **Rotation des poignets :** Au tout dernier millième de seconde, les deux poignets pivotent pour présenter la structure osseuse des avant-bras contre les frappes adverse.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève scelle la fixation simultanée des deux blocages.
 
@@ -60,6 +60,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Protection complète du profil sur deux niveaux (Haut et Bas) :**
+>
 > 1. **Écran défensif à deux étages :** Cette technique permet de parer simultanément une combinaison d'attaques arrivant en haut (ex: coup de poing au visage) et en bas (ex: coup de pied direct *Ap Chagi* ou circulaire bas), ou de neutraliser une attaque double.
 > 2. **Coordination bilatérale :** Elle exige une parfaite maîtrise de l'axe du corps pour que le blocage haut ne déséquilibre pas l'assise du blocage bas.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette séquence combinée emblématique dans des formes majeures du Taekwon-Do ITF, notamment dans **Do-San Tul** (mouvements 1 et 3) et **Yul-Gok Tul** (mouvements 20 et 24).

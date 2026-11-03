@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dévitation fluide, protection de profil et contre-attaque rapide :**
+>
 > 1. **Dévitation sans choc dur (*Sonkal Dung*) :** Utiliser le revers du tranchant plutôt que l'avant-bras extérieur permet de balayer et faucheur une attaque basse (coup de pied direct) de manière plus fluide et rapide, tout en préparant une accroche ou un déséquilibrage du membre adverse.
 > 2. **Effet de masque et esquive (*Bandae* en *Kyocha Sogi*) :** Bloquer avec le bras arrière tout en croisant la jambe avant permet de protéger le corps en se désaxant de la ligne d'attaque principale tout en gardant une garde prête à riposter.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des variantes de blocages au revers du tranchant de la main et en posture croisée dans des formes avancées du Taekwon-Do ITF (telles que **Po-Eun Tul**, **Ge-Baek Tul** ou **Yoo-Sin Tul**).

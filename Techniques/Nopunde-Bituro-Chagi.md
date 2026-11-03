@@ -17,13 +17,13 @@ Elle se traduit par : **Coup de pied en torsade / de biais au niveau haut** (*Hi
 ## 2. Exécution et principes biomécaniques
 
 1. **L'armement :**
-   * Le genou de la jambe d'attaque monte vers l'intérieur du corps (vers l'axe central ou l'aisselle opposée).
-   * Le buste s'incline légèrement dans le sens inverse du coup de pied pour créer la tension musculaire nécessaire (*torsade*).
+    * Le genou de la jambe d'attaque monte vers l'intérieur du corps (vers l'axe central ou l'aisselle opposée).
+    * Le buste s'incline légèrement dans le sens inverse du coup de pied pour créer la tension musculaire nécessaire (*torsade*).
 2. **La détente de biais (*Bituro*) :**
-   * La jambe se détend de manière explosive en décrivant une trajectoire montante et diagonale vers l'extérieur.
-   * Le bassin s'ouvre brusquement au moment de l'extension de la jambe.
+    * La jambe se détend de manière explosive en décrivant une trajectoire montante et diagonale vers l'extérieur.
+    * Le bassin s'ouvre brusquement au moment de l'extension de la jambe.
 3. **L'impact :**
-   * La frappe s'effectue avec le dessous du bol du pied (**Ap Chook**), les orteils tirés fermement vers le haut.
+    * La frappe s'effectue avec le dessous du bol du pied (**Ap Chook**), les orteils tirés fermement vers le haut.
 
 ## 3. Applications et cibles
 

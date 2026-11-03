@@ -43,9 +43,9 @@ Sa décomposition linguistique est la suivante :
 1. **Rotation des poignets :** Au dernier millième de seconde, les deux avant-bras pivotent pour présenter la surface d'**An Palmok** (côté pouce) vers l'extérieur.
 2. **Position finale :**
 
-  * Les poings s'arrêtent à la hauteur des épaules (*Kaunde*).
-  * Les coudes restent fléchis (angle d'environ 90° à 110°) et verrouillés sur les flancs.
-  * Les revers des poings sont orientés vers l'arrière/le haut.
+* Les poings s'arrêtent à la hauteur des épaules (*Kaunde*).
+* Les coudes restent fléchis (angle d'environ 90° à 110°) et verrouillés sur les flancs.
+* Les revers des poings sont orientés vers l'arrière/le haut.
 
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle la fixation de la posture.
 

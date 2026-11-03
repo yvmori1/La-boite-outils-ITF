@@ -58,6 +58,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Masquage d'intention, effet ressort et protection basse :**
+>
 > 1. **Discrétion de la trajectoire d'attaque :** En maintenant le pied de frappe très bas (près de la cheville), le départ du coup de pied est totalement masqué. L'adversaire a du mal à anticiper si la frappe sera basse, moyenne ou haute.
 > 2. **Effet ressort biomécanique :** La flexion prononcée du genou de terre permet de combiner la détente de la jambe d'appui et la poussée de la jambe de frappe lors de l'extension.
 > 3. **Protection contre les fauchages bas :** Le retrait du pied au niveau de la cheville met le membre inférieur hors d'atteinte contre des balayages ou *low-kicks* surprise.

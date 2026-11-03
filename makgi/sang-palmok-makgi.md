@@ -19,11 +19,11 @@ C'est l'une des techniques défensives les plus célèbres et les plus exécuté
 Le *Sang Palmok Makgi* fait travailler les deux avant-bras de manière complémentaire :
 
 1. **Le bras principal (Blocage Haut - *Nopunde*) :**
-   * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
-   * **Rôle :** Bloque au niveau haut (*Nopunde*), protégeant la tempe, la tête ou le côté du visage. L'avant-bras est incliné d'environ 60° par rapport à la verticale, le poing à la hauteur des yeux.
+    * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
+    * **Rôle :** Bloque au niveau haut (*Nopunde*), protégeant la tempe, la tête ou le côté du visage. L'avant-bras est incliné d'environ 60° par rapport à la verticale, le poing à la hauteur des yeux.
 2. **Le bras secondaire (Blocage Bas - *Najunde*) :**
-   * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
-   * **Rôle :** Bloque au niveau bas (*Najunde*), protégeant le bas-ventre, le flanc ou la cuisse. L'avant-bras est orienté vers le bas à 45°.
+    * **Surface d'impact :** **Bakat Palmok** (tranchant externe de l'avant-bras).
+    * **Rôle :** Bloque au niveau bas (*Najunde*), protégeant le bas-ventre, le flanc ou la cuisse. L'avant-bras est orienté vers le bas à 45°.
 
 ---
 

@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Interception à la racine et absorption de choc lourd :**
+>
 > 1. **Neutralisation précoce (*Momchau*) :** En venant stopper l'attaque adverse au tout début ou au milieu de sa trajectoire, la technique annule l'accélération et l'énergie cinétique du coup ennemi.
 > 2. **Solidité de la structure en X (*Kyocha*) :** Le croisement des deux tranchants de mains crée un verrouillage osseux qui empêche les bras de céder sous la puissance d'un coup de pied lourd.
 > 3. **Stabilité d'ancrage en *Gojung Sogi* :** La répartition égale 50/50 et la base large évitent tout recul ou déséquilibre lorsque vous interceptez une frappe lourde lancée à pleine vitesse.

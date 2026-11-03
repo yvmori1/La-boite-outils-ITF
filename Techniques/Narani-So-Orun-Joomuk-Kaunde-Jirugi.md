@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt pédagogique et Application dans les patrons (*Tul*)
 
 > **Fondement du travail de poing et développement de la puissance droite :**
+>
 > 1. **Isolation du haut du corps :** Exécuter le coup de poing depuis *Narani Sogi* oblige à générer la puissance d'impact uniquement par la vitesse d'extension du bras, la rotation de la hanche, le tirage de réaction du bras gauche (*Reaction Force*) et la descente de masse (*Sine Wave*).
 > 2. **Rigueur axiale (*Centerline*) :** Le poing ne doit pas partir vers l'extérieur : il frôle les côtes droites pour converger exactement au centre du thorax.
 > 3. **Exercices de base (*Saju Jirugi*) et patrons :** C'est la technique de frappe de référence enseignée aux débutants (utilisée notamment dans les exercices d'attaque aux quatre directions *Saju Jirugi*) et présente dans les phases d'échauffement et de salutation des *Tul*.

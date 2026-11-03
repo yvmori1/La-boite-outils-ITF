@@ -17,13 +17,13 @@ Elle se traduit par : **Coup de pied arrière perçant au niveau haut** (*High B
 ## 2. Exécution et principes biomécaniques
 
 1. **La rotation et l'armement :**
-   * La tête tourne par-dessus l'épaule du côté de la frappe pour repérer précisément la cible haute.
-   * Le genou de la jambe d'attaque monte en frôlant l'intérieur de la jambe d'appui (genoux serrés), emmagasinant la force de poussée.
+    * La tête tourne par-dessus l'épaule du côté de la frappe pour repérer précisément la cible haute.
+    * Le genou de la jambe d'attaque monte en frôlant l'intérieur de la jambe d'appui (genoux serrés), emmagasinant la force de poussée.
 2. **La poussée rectiligne (*Jirugi*) :**
-   * La jambe se détend en ligne droite vers l'arrière et le haut, propulsée par la contraction forte des fessiers.
-   * Le buste s'incline légèrement vers l'avant pour équilibrer la trajectoire haute et maximiser la portée.
+    * La jambe se détend en ligne droite vers l'arrière et le haut, propulsée par la contraction forte des fessiers.
+    * Le buste s'incline légèrement vers l'avant pour équilibrer la trajectoire haute et maximiser la portée.
 3. **L'impact :**
-   * La frappe percute fermement avec le dessous du talon (**Dwit Chook**), le pied étant orienté vers le sol ou légèrement incliné.
+    * La frappe percute fermement avec le dessous du talon (**Dwit Chook**), le pied étant orienté vers le sol ou légèrement incliné.
 
 ## 3. Applications et cibles
 

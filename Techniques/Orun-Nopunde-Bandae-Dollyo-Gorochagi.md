@@ -25,18 +25,18 @@ Elle se traduit par : **Coup de pied crocheté retourné circulaire du pied droi
 Cette technique associe la force centrifuge d'une rotation par le dos à un fouetté sec et décapant du genou en fin de trajectoire :
 
 1. **L'impulsion et la rotation (*Bandae*) :**
-   * En position de garde, le pivot s'amorce sur la plante du pied gauche (pied d'appui).
-   * Le corps tourne par le dos (rotation à 360° ou 180° selon la position de départ).
+    * En position de garde, le pivot s'amorce sur la plante du pied gauche (pied d'appui).
+    * Le corps tourne par le dos (rotation à 360° ou 180° selon la position de départ).
 2. **Le repérage visuel (*Spotting*) :**
-   * La tête pivote plus vite que les épaules pour **verrouiller la cible du regard** avant que la jambe ne s'étende. Frapper sans voir la cible gâche la précision et la puissance.
+    * La tête pivote plus vite que les épaules pour **verrouiller la cible du regard** avant que la jambe ne s'étende. Frapper sans voir la cible gâche la précision et la puissance.
 3. **L'armement et la trajectoire circulaire :**
-   * La jambe droite monte pliée et s'ouvre légèrement sur le côté de la cible pour contourner sa garde.
-   * La jambe se détend en arc de cercle vers le niveau haut (**Nopunde**).
+    * La jambe droite monte pliée et s'ouvre légèrement sur le côté de la cible pour contourner sa garde.
+    * La jambe se détend en arc de cercle vers le niveau haut (**Nopunde**).
 4. **Le crochetage et l'impact (*Gorochagi*) :**
-   * Juste au moment de dépasser la cible, le genou se replie brusquement vers l'arrière dans un mouvement de crochet.
-   * L'impact est délivré avec une grande violence au moyen du talon (**Dwit Chook**) ou de la plante du pied (**Balsadok**).
+    * Juste au moment de dépasser la cible, le genou se replie brusquement vers l'arrière dans un mouvement de crochet.
+    * L'impact est délivré avec une grande violence au moyen du talon (**Dwit Chook**) ou de la plante du pied (**Balsadok**).
 5. **Le réarmement et le retour en garde :**
-   * Le genou se replie rapidement après le choc pour éviter toute saisie de jambe et permettre un atterrissage sous contrôle.
+    * Le genou se replie rapidement après le choc pour éviter toute saisie de jambe et permettre un atterrissage sous contrôle.
 
 ---
 

@@ -51,6 +51,7 @@ Le *Yop Makgi* se décline selon l'arme naturelle utilisée et la hauteur visée
 
 > **Protection des flancs et esquive d'axe :**
 > Le *Yop Makgi* est indispensable pour faire face aux attaques provenant des angles morts :
+>
 > 1. **Protection contre les coups circulaires :** Il permet d'intercepter efficacement un coup de pied circulaire (*Dollyo Chagi*) ou un crochet visant les côtes, les reins ou la tempe.
 > 2. **Changement de ligne d'attaque :** En vous décalant latéralement (*Step-side*) tout en exécutant un *Yop Makgi*, vous sortez de la ligne de charge de l'agresseur tout en bloquant sa frappe, vous ouvrant un accès immédiat à son flanc sans défense.
 

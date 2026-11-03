@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Protection incisive du flanc gauche et travail d'équilibre :**
+>
 > 1. **Couverture de l'angle diagonal (*Yobap*) :** Cette technique permet d'intercepter une frappe (coup de poing ou coup de pied circulaire) visant le flanc gauche ou le torse par une trajectoire rentrante ou obliquant à 45°.
 > 2. **Rigueur de la posture *Moa Sogi* :** Travailler du côté gauche en pieds joints oblige à développer une parfaite symétrie corporelle et un contrôle strict du centre de gravité sans l'appui d'un large écartement des jambes.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve ces blocages en diagonale en posture pieds joints dans des formes avancées du Taekwon-Do ITF (telles que **Eul-Ji Tul**, **Joo-Gye Tul** ou **Yoo-Sin Tul**).

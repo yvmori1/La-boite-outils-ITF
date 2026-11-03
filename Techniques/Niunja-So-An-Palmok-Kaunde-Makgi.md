@@ -33,10 +33,10 @@ La posture en L offre une protection naturelle du buste en le présentant de tro
 
 * **Arme naturelle (*Jook Bang*) :** **An Palmok** (la zone osseuse et charnue située sur la face interne de l'avant-bras, du côté du pouce).
 * **Position d'arrêt finale :**
-  1. Le poing d'attaque se fixe à la **hauteur de l'épaule / du thorax** (*Kaunde*).
-  2. Le coude conserve un angle fléchi d'environ **110° à 120°**.
-  3. L'avant-bras est incliné vers l'axe central du corps pour intercepter et chasser la frappe adverse vers l'extérieur.
-  4. Le bras de réaction (*Bandae Son*) vient se placer plié devant le plexus/poitrine en garde de couverture, ou est ramené à la hanche selon la variante.
+    1. Le poing d'attaque se fixe à la **hauteur de l'épaule / du thorax** (*Kaunde*).
+    2. Le coude conserve un angle fléchi d'environ **110° à 120°**.
+    3. L'avant-bras est incliné vers l'axe central du corps pour intercepter et chasser la frappe adverse vers l'extérieur.
+    4. Le bras de réaction (*Bandae Son*) vient se placer plié devant le plexus/poitrine en garde de couverture, ou est ramené à la hanche selon la variante.
 
 ---
 
@@ -65,6 +65,7 @@ La posture en L offre une protection naturelle du buste en le présentant de tro
 
 > **Chasser l'attaque tout en restant hors de portée :**
 > Le *Niunja So An Palmok Kaunde Makgi* est une technique défensive particulièrement stratégique :
+>
 > 1. **Déviation fluide (vs blocage dur) :** Contrairement au tranchant externe (*Bakat Palmok*) qui stoppe net le membre adverse, le *An Palmok* permet de "glisser" sous le bras de l'adversaire et de dévier son coup de poing direct (*Ap Jirugi*) vers l'extérieur sans absorber toute sa force brutale.
 > 2. **Jambe avant "légère" pour contre instantané :** Comme 70% du poids repose sur la jambe arrière, la jambe avant (qui ne porte que 30%) est totalement libre de déclencher un coup de pied riposte (*Ap Chagi*, *Dollyo Chagi* ou *Yop Chagi*) sans besoin de transfert de poids préalable.
 > 3. **Moins de surface exposée :** La posture en L de trois-quarts protège les zones vitales centrales (gorge, plexus, bas-ventre).

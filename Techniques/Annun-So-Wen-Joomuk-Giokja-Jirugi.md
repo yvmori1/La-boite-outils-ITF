@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe puissante à courte/moyenne distance et pénétration sous la garde :**
+>
 > 1. **Attaque compacte de près :** Lorsque la distance avec l'adversaire est trop courte pour déployer un coup de poing direct classique (bras tendu), le *Giokja Jirugi* permet d'appliquer une force maximale sans manquer de course d'élan.
 > 2. **Contournement des bras de défense :** La trajectoire coudée à 90° s'infiltre sous les avant-bras ou entre les coudes d'une garde haute pour frapper directement au plexus solaire ou au foie.
 > 3. **Stabilité d'impact :** L'équerre formée par le bras offre une excellente rigidité osseuse qui transmet toute la masse de la posture *Annun Sogi* sans risque de déformation à la percussion.

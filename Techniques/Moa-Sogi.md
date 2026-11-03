@@ -26,22 +26,23 @@ C'est une posture d'alignement, d'équilibre central et de salutation/rassemblem
 En TaeKwon-Do ITF, la posture *Moa Sogi* sert très souvent de position de départ de préparation (**Junbi Sogi**) pour certains patrons. Selon le placement des mains, elle prend plusieurs noms distincts :
 
 1. **Moa Junbi Sogi A ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) A) :**
-   * **Mains :** La main droite fermée en poing est enveloppée par la main gauche ouverte devant l'abdomen (à environ 10 cm au-dessous du nombril).
-   * **Utilisation :** Position de départ de patrons comme **Chon-Ji**, **Dan-Gun**, **Do-San**, etc.
+    * **Mains :** La main droite fermée en poing est enveloppée par la main gauche ouverte devant l'abdomen (à environ 10 cm au-dessous du nombril).
+    * **Utilisation :** Position de départ de patrons comme **Chon-Ji**, **Dan-Gun**, **Do-San**, etc.
 2. **Moa Junbi Sogi B ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) B) :**
-   * **Mains :** Les deux poings sont fermés et placés côte à côte au niveau de la ceinture/du plexus, paumes vers l'intérieur.
-   * **Utilisation :** Position de départ de patrons comme **Po-Eun Tul**.
+    * **Mains :** Les deux poings sont fermés et placés côte à côte au niveau de la ceinture/du plexus, paumes vers l'intérieur.
+    * **Utilisation :** Position de départ de patrons comme **Po-Eun Tul**.
 3. **Moa Junbi Sogi C ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) C) :**
-   * **Mains :** Les deux mains ouvertes, paumes vers le haut, sont superposées ou placées juste au-dessous du bas-ventre.
-   * **Utilisation :** Position de départ de patrons comme **Gae-Baek Tul**.
+    * **Mains :** Les deux mains ouvertes, paumes vers le haut, sont superposées ou placées juste au-dessous du bas-ventre.
+    * **Utilisation :** Position de départ de patrons comme **Gae-Baek Tul**.
 4. **Moa Junbi Sogi D ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) D) :**
-   * **Mains :** Les mains sont ouvertes et placées le long des cuisses.
+    * **Mains :** Les mains sont ouvertes et placées le long des cuisses.
 
 ---
 
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Contrôle de l'axe vertical, symétrie et travail d'équilibre :**
+>
 > 1. **Défi d'équilibre :** Avoir les pieds collés réduit considérablement la surface de la base de flottaison au sol. Exécuter un blocage (ex: *Moa So An Palmok Yobap Makgi*) ou une frappe depuis *Moa Sogi* exige un contrôle parfait de la sangle abdominale et de la verticale du corps.
 > 2. **Rassemblement d'énergie (*Concentration*) :** Cette posture symbolise le rassemblement des forces, le calme avant l'explosion et l'alignement mental.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des techniques exécutées en posture *Moa Sogi* dans de nombreux patrons ITF (ex: **Eul-Ji Tul**, **Joo-Gye Tul**, **Yoo-Sin Tul**, **Po-Eun Tul**).

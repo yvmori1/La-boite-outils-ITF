@@ -45,8 +45,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Vrille synchronisée :** Au tout dernier millième de seconde, les deux poignets effectuent une rotation axiale pour sceller l'extérieur des avant-bras (**Bakat Palmok**) face à la menace.
 2. **Fixation de garde (*Daebi*) :**
-   * Le poing avant s'immobilise à la hauteur des yeux (*Nopunde*).
-   * Le poing arrière se scelle devant le plexus solaire pour couvrir le centre du buste.
+    * Le poing avant s'immobilise à la hauteur des yeux (*Nopunde*).
+    * Le poing arrière se scelle devant le plexus solaire pour couvrir le centre du buste.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle l'ancrage 50/50 et la fixation de la garde.
 
 ---
@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection haute renforcée et absorption d'impacts lourds :**
+>
 > 1. **Protection de la tête contre les frappes puissantes :** Placer le bras avant à hauteur des yeux (*Nopunde*) offre un écran rigide contre les coups de pied circulaires hauts (*Dollyo Chagi*) ou les crochets lourds d'un agresseur.
 > 2. **Absorption par la posture 50/50 (*Gojung Sogi*) :** Contrairement à une posture plus légère ou plus courte, l'écartement de 1,5 largeur d'épaules et l'ancrage égal des deux genoux permettent d'encaisser une frappe violente sans reculer ni perdre l'équilibre.
 > 3. **Double couverture verticale :** Pendant que le bras avant protège le visage, le bras arrière couvre le plexus solaire, évitant les feintes haut/bas.

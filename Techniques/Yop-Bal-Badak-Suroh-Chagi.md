@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Déséquilibre opportuniste et neutralisation des appuis :**
+>
 > 1. **Contre sur jambe d'appui :** Lorsque l'adversaire lève une jambe pour donner un coup de pied (ex: *Dollyo Chagi* ou *Ap Chagi*), le *Yop Bal Badak Suroh Chagi* permet de faucher sa seule jambe de terre restante, provoquant une chute lourde.
 > 2. **Rupture de garde par le bas :** En fauchant la cheville avant d'un agresseur trop ancré, vous détruisez sa structure de garde et ouvrez une brèche pour un coup de poing ou un coup de pied haut.
 > 3. **Surface d'impact maximale (*Bal Badak*) :** Contrairement au tranchant du pied (*Balkal*), la plante du pied offre une surface large et antidérapante qui empêche le pied de glisser autour de la cheville adverse sans la faucher.

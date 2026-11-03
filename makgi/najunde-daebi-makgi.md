@@ -26,9 +26,9 @@ Le *Najunde Daebi Makgi* s'exécute soit poings fermés, soit mains ouvertes :
 ### Rôle des deux bras :
 
 1. **Le bras avant (Bras de blocage principal) :**
-   * **Position :** Déployé vers le bas au-dessus de la cuisse avant (à environ 15-20 cm du genou), le coude légèrement fléchi pour absorber le choc.
+    * **Position :** Déployé vers le bas au-dessus de la cuisse avant (à environ 15-20 cm du genou), le coude légèrement fléchi pour absorber le choc.
 2. **Le bras arrière (Bras de protection) :**
-   * **Position :** Placé devant le bas du buste / le plexus abdominal, prêt à couvrir le centre du corps ou à enchaîner une riposte.
+    * **Position :** Placé devant le bas du buste / le plexus abdominal, prêt à couvrir le centre du corps ou à enchaîner une riposte.
 
 ---
 
@@ -38,8 +38,8 @@ Le *Najunde Daebi Makgi* s'exécute soit poings fermés, soit mains ouvertes :
 
 1. **Préparation des mains :** Formez les poings (*Palmok*) ou ouvrez les mains en tranchant (*Sonkal*).
 2. **Croisement d'amorce :** Les deux bras se croisent au niveau de la poitrine / épaule opposée.
-   * Le bras avant (bloqueur) passe **à l'intérieur** (près du corps).
-   * Le bras arrière (garde) passe **à l'extérieur**.
+    * Le bras avant (bloqueur) passe **à l'intérieur** (près du corps).
+    * Le bras arrière (garde) passe **à l'extérieur**.
 3. **Phase haute (*Sine Wave*) :** Élévation du centre de gravité lors du croisement des bras.
 
 ### Étape 2 : La Descente et le Mouvement de Vague (*Sine Wave*)
@@ -60,6 +60,7 @@ Le *Najunde Daebi Makgi* s'exécute soit poings fermés, soit mains ouvertes :
 
 > **La protection contre les attaques de jambes basses et balayages :**
 > En combat réel ou sportif, descendre une garde classique laisse souvent la tête vulnérable. Toutefois, le *Najunde Daebi Makgi* est conçu pour :
+>
 > 1. **Bloquer les coups de pied bas (Low Kicks) :** Intercepter un coup de pied circulaire bas (*Dollyo Chagi*) ou un coup de pied frontal (*Ap Chagi*) ciblant les cuisses ou le bas-ventre.
 > 2. **Conserver une structure bilatérale :** La main arrière reste en couverture centrale, ce qui empêche l'adversaire de feinter en bas pour remonter immédiatement en haut.
 

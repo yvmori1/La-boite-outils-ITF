@@ -70,6 +70,7 @@ La force de la frappe s'appuie sur la rigidité et l'ancrage de la posture de ma
 
 > **Le contre-attaque puissant par excellence :**
 > Le *Gunnun So Kaunde Bandae Jirugi* est souvent utilisé comme riposte dévastatrice :
+>
 > 1. **Puissance maximale par effet de levier :** En pivotant la hanche opposée depuis l'arrière, la masse du corps est entièrement projetée à travers la frappe.
 > 2. **Chasser la garde adverse :** C'est le coup de poing idéal après avoir dévié ou bloqué une attaque adverse vers l'extérieur pour s'engouffrer dans son axe central.
 

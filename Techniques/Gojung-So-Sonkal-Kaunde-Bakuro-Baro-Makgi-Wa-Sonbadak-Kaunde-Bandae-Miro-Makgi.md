@@ -45,8 +45,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 1 : L'Armement Croisé et la *Sine Wave*
 
 1. **Armement des mains :**
-   * Le bras avant (*Baro*) s'arme près de l'épaule/poitrine opposée, main ouverte en *Sonkal*, paume tournée vers l'intérieur.
-   * Le bras arrière (*Bandae*) s'arme bas près du flanc ou de la hanche, paume orientée vers l'arrière ou le corps.
+    * Le bras avant (*Baro*) s'arme près de l'épaule/poitrine opposée, main ouverte en *Sonkal*, paume tournée vers l'intérieur.
+    * Le bras arrière (*Bandae*) s'arme bas près du flanc ou de la hanche, paume orientée vers l'arrière ou le corps.
 2. **Prise d'appui :** Glissement fluide du pied vers la posture *Gojung Sogi* (1,5 largeur d'épaules, 50/50).
 3. **Phase haute (*Sine Wave*) :** Élévation contrôlée du centre de gravité par une extension souple des genoux.
 
@@ -59,8 +59,8 @@ Sa décomposition linguistique est la suivante :
 ### Étape 3 : L'Impact et la Synchronisation finale (*Snap & Push*)
 
 1. **Verrouillage simultané :**
-   * La main avant pivote au dernier millième de seconde pour sceller le tranchant (**Sonkal**) vers l'extérieur.
-   * La main arrière applique une poussée ferme avec la paume (**Sonbadak**) orientée vers l'avant/extérieur.
+    * La main avant pivote au dernier millième de seconde pour sceller le tranchant (**Sonkal**) vers l'extérieur.
+    * La main arrière applique une poussée ferme avec la paume (**Sonbadak**) orientée vers l'avant/extérieur.
 2. **Structure finale :** Le bras avant forme un angle d'environ 90° à 100° au coude ; le bras arrière est en extension contrôlée (sans verrouiller le coude).
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle la double action et la stabilité de la posture.
 
@@ -69,6 +69,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Chasse d'attaque et déséquilibre simultané (*Redirection & Push*) :**
+>
 > 1. **Détournement et contrôle à deux mains :** Le bras avant balaie et écarte le coup de poing ou le coup de pied de l'adversaire (*Sonkal Bakuro*), tandis que le bras arrière vient immédiatement pousser (*Sonbadak Miro*) son bras, son épaule ou son buste.
 > 2. **Création d'ouverture / Déséquilibre :** La poussée de la paume arrière (*Miro*) profite de l'élan de l'agresseur pour le déséquilibrer lourdement, ouvrant son flanc à une contre-attaque en coup de pied ou coup de poing.
 > 3. **Stabilité d'ancrage en *Gojung Sogi* :** La répartition égale du poids (50/50) permet d'exercer la poussée (*Miro*) et la déflexion (*Bakuro*) avec toute la masse du corps sans risque de basculer vers l'arrière.

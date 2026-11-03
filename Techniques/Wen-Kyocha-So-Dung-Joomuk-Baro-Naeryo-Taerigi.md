@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe marteau/cravache verticale et amplification par la gravité :**
+>
 > 1. **Addition de la gravité et de la chute de masse :** En combinant l'abaissement du bassin en *Kyocha Sogi* avec la trajectoire descendante de la main (*Naeryo*), toute la masse du corps participe à la puissance du coup.
 > 2. **Franchissement de la garde par le haut :** La trajectoire verticale passe par-dessus les avant-bras ou la garde frontale de l'adversaire pour s'abattre directement sur son nez, son menton ou sa clavicule.
 > 3. **Destruction d'appui / Clavicule :** Un coup au revers du poing appliqué avec force sur la clavicule de l'agresseur peut la briser net ou paralyser immédiatement le bras correspondant.

@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe directe fondamentale et transfert de puissance maximal :**
+>
 > 1. **Optimisation de la force de réaction (*Bandae Son*) :** Le tirage violent du bras droit vers l'arrière double la vitesse et la force d'impact du poing gauche vers l'avant.
 > 2. **Effet de vrille pénétrant (*Twisting motion*) :** La rotation du poing en fin de course s'infiltre à travers la masse musculaire du plexus solaire de l'adversaire, provoquant un arrêt respiratoire ou une rupture de structure.
 > 3. **Ancrage inébranlable :** La posture *Annun Sogi* offre une plateforme large et parfaitement équilibrée qui absorbe le choc en retour sans concéder le moindre millimètre de recul.

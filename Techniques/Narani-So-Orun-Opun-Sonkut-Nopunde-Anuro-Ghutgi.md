@@ -55,9 +55,10 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Frappe chirurgicale aux points vitaux (*Keupso*) :**
+>
 > 1. **Distinguer *Jirugi* (pénétration) et *Gutgi* (tranchage) :**
-> * Un piqué direct (*Sonkut Taerigi / Jirugi*) cherche à s'enfoncer en profondeur (ex: dans le plexus ou la gorge).
-> * L'action traçante (**Gutgi**) fonctionne comme une lame de rasoir : elle balaie la surface pour crever les yeux, trancher la gorge ou déchirer des zones nerveuses superficielles.
+>     * Un piqué direct (*Sonkut Taerigi / Jirugi*) cherche à s'enfoncer en profondeur (ex: dans le plexus ou la gorge).
+>     * L'action traçante (**Gutgi**) fonctionne comme une lame de rasoir : elle balaie la surface pour crever les yeux, trancher la gorge ou déchirer des zones nerveuses superficielles.
 > 2. **Orientation *Opun* (paume en bas) :** Placer la paume vers le bas permet de maintenir l'avant-bras sur un plan horizontal stable tout en glissant facilement par-dessus la garde adverse.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des techniques de piqués traçants ou tranchants dans des patrons avancés du Taekwon-Do ITF, notamment dans **Yoo-Sin Tul** (mouvement 35) ou **Moon-Moo Tul**, où la précision sur cible vitale prime sur la force brute.
 

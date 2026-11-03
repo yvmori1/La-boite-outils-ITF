@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Libération de saisie et ouverture de garde :**
+>
 > 1. **Rupture de saisie double au col/gorge :** Si un agresseur saisit le revers de votre veste ou vous attrape à deux mains au niveau de la poitrine/gorge, le mouvement de coin du *Hechyo Makgi* s'insère entre ses bras et les écarte violemment par levier sur ses poignets.
 > 2. **Neutralisation d'une attaque combinée :** Permet d'intercepter deux frappes simultanées arrivant de face (ex: double coup de poing ou tentative de ceinturage).
 > 3. **Création d'une faille centrale :** En écartant les bras de l'adversaire vers l'extérieur, son axe central (gorge, sternum, plexus) se retrouve totalement découvert pour une contre-attaque immédiate (coup de pied direct, coup de genou ou frappe en pique).

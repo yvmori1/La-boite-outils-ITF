@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque surprise par l'angle mort et rabattement de garde :**
+>
 > 1. **Contournement de la garde centrale :** Comme le coup part de l'extérieur pour revenir vers le centre (*Anuro*), il passe sous le champ de vision direct de l'adversaire et contourne ses blocages frontaux pour toucher le côté du visage.
 > 2. **Rabattement de garde (*Guard clearance*) :** La trajectoire entrante et lourde du contre-tranchant permet de balayer et d'écarter le bras de protection d'un agresseur, le déséquilibrant et ouvrant une brèche pour un coup de poing de suivi.
 > 3. **Complémentarité avec le *Bakuro Sewo Chagi* :** C'est le mouvement strictement inverse du *Bakuro Sewo Chagi* (qui va du centre vers l'extérieur). Combiner les deux crée des enchaînements extrêmement difficiles à parer.

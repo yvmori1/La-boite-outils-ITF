@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe cinglante sur zones vasculaires et nerveuses :**
+>
 > 1. **Ciblez le cou et la carotide :** Contrairement à un coup de poing fermé (*Dung Joomuk*) qui cherche un choc osseux lourd, le *Sondung Taerigi* offre une surface souple mais ferme capable de provoquer un choc vagal ou d'étourdir un agresseur en frappant la carotide ou la base du cou.
 > 2. **Effet de fouet et vitesse :** La légèreté de la main ouverte (*Sondung*) permet une vitesse de déclenchement supérieure à celle d'un poing fermé.
 > 3. **Contourner la garde :** La trajectoire horizontale en arc passe facilement sur le côté des bras de protection de l'adversaire.

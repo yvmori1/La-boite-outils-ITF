@@ -53,10 +53,11 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque aveuglante et neutralisation sans force brute :**
+>
 > 1. **Cible ultra-spécifique (Les Yeux) :** L'action *Ghutgi* (balayage/entaille) ne cherche pas à enfoncer les os, mais à balayer la zone des yeux de l'adversaire. Même un agresseur très lourd ou sous l'effet de la douleur est immédiatement neutralisé s'il est privé de sa vue.
 > 2. **Différence entre *Tulgi* et *Ghutgi* :**
->   * **Sonkut Tulgi :** Pique rectiligne en enfoncement (piston direct vers l'avant).
->   * **Sonkut Ghutgi :** Mouvement transversal de griffure ou de lame (balayage d'un côté à l'autre).
+>     * **Sonkut Tulgi :** Pique rectiligne en enfoncement (piston direct vers l'avant).
+>     * **Sonkut Ghutgi :** Mouvement transversal de griffure ou de lame (balayage d'un côté à l'autre).
 > 3. **Passer au-dessus de la garde :** La vitesse du balayage latéral permet de contourner les poings d'un adversaire placés de face pour atteindre la ligne des yeux par le côté.
 
 ---

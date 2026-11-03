@@ -58,6 +58,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Contournement de la garde frontale et puissance de tranchant en apesanteur :**
+>
 > 1. **Contournement d'obstacle :** La trajectoire circulaire extérieure (*Bakuro*) permet de contourner un blocage frontal ou d'attaquer un agresseur par un angle mort.
 > 2. **Neutralisation sur zone névralgique :** L'impact du tranchant de la main (*Sonkal*) concentre toute l'énergie sur une petite surface osseuse, ce qui peut provoquer un ébranlement vagal (au niveau de la carotide) ou un K.O. immédiat.
 > 3. **Franchissement de distance :** Le saut (*Twimyo*) permet d'attaquer par-dessus la garde d'un agresseur ou d'atteindre une cible à distance de sécurité sans être gêné par les bras de l'adversaire.

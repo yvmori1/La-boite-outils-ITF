@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Protection de la ligne centrale sur base inébranlable :**
+>
 > 1. **Défense contre les attaques directes moyennes :** Idéal pour bloquer un coup de poing direct au plexus (*Kaunde Jirugi*) ou un coup de pied frontal (*Kaunde Ap Chagi*) arrivant plein pot de face.
 > 2. **Absorption de choc :** La posture du cavalier (*Annun Sogi*) répartit la force de l'impact sur une base très large, empêchant le pratiquant d'être déséquilibré ou repoussé vers l'arrière lors de l'interception d'une frappe lourde.
 > 3. **Création de force de réaction :** Le tirage puissant du bras gauche à la hanche augmente la fermeté de l'avant-bras droit à l'impact.

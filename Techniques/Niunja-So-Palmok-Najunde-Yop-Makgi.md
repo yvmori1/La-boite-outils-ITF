@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection du profil bas et balayage incisif :**
+>
 > 1. **Dévitation des coups de pied circulaires bas :** L'utilisation de la structure osseuse de l'avant-bras (**Palmok**) permet de casser ou de dévier un coup de pied circulaire bas (*Bandal Chagi* bas ou *Low-kick*) ciblant la cuisse ou les côtes flottantes.
 > 2. **Chasse d'attaque par le flanc :** Le mouvement *Yop* (latéral) est idéal lorsqu'un agresseur attaque sur le côté du pratiquant, permettant de chasser son membre hors de la trajectoire axiale.
 > 3. **Sécurité du retrait en L (70/30) :** Conserver 70% du poids sur la jambe arrière maintient la tête et la poitrine loin du danger tout en gardant le bras avant libre pour intercepter le coup bas.

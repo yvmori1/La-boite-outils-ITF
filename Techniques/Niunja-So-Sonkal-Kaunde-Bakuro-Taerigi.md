@@ -33,13 +33,13 @@ La frappe s'exécute en profil de trois-quarts (*Half-facing*), associant protec
 ## 2. La surface d'impact et la trajectoire (*Bakuro*)
 
 * **Arme naturelle (*Jook Bang*) :** **Sonkal** (Le tranchant externe de la main).
-  * Les quatre doigts sont maintenus fermement joints et tendus.
-  * Le pouce est fléchi et verrouillé à plat contre le côté de la paume.
+    * Les quatre doigts sont maintenus fermement joints et tendus.
+    * Le pouce est fléchi et verrouillé à plat contre le côté de la paume.
 * **Sens de la trajectoire (*Bakuro*) :**
-  * Le bras démarre croisé de **l'intérieur vers l'extérieur**.
-  * C'est l'opposé direct de *Anuro* (qui va de l'extérieur vers l'intérieur).
+    * Le bras démarre croisé de **l'intérieur vers l'extérieur**.
+    * C'est l'opposé direct de *Anuro* (qui va de l'extérieur vers l'intérieur).
 * **Cible principale au niveau moyen (*Kaunde*) :**
-  * La **carotide / le côté du cou** (*Mok*), la clavicule ou le flanc/côtes de l'adversaire.
+    * La **carotide / le côté du cou** (*Mok*), la clavicule ou le flanc/côtes de l'adversaire.
 
 ---
 
@@ -81,6 +81,7 @@ Il est essentiel de ne pas confondre les trois directions de frappe au tranchant
 
 > **Frappe traumatique à la carotide et rupture de garde :**
 > Le *Sonkal Kaunde Bakuro Taerigi* est une attaque de riposte redoutable :
+>
 > 1. **Atteinte du nerf vague / carotide :** Un impact cinglant du tranchant de la main sur le côté du cou provoque une chute brutale de tension artérielle (réflexe sino-carotidien), pouvant entraîner un K.-O. immédiat.
 > 2. **Contournement de garde axiale :** En s'ouvrant de l'intérieur vers l'extérieur, la trajectoire permet d'accrocher le profil de la tête de l'adversaire même s'il maintient une garde frontale serrée.
 > 3. **Transition immédiate vers une saisie :** La main étant déjà ouverte à l'impact, elle peut instantanément agripper le cou ou le revers du vêtement de l'agresseur pour enchaîner une genouillère ou un balayage.

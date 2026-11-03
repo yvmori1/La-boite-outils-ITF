@@ -49,6 +49,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Défense contre arme blanche / Bâton (*Mokbong*) et désarmement :**
+>
 > 1. **Interception à deux points de contact :** En encadrant le bâton de l'adversaire par le haut et par le bas en forme de "[ㄷ](../audio/termes/ㄷ.m4a)", le pratiquant neutralise la trajectoire circulaire de l'arme en bloquant l'effet de levier.
 > 2. **Contrôle et clé d'articulation :** Une fois le bâton ou le bras bloqué dans le "U", la structure permet d'enchaîner immédiatement une torsion (*Wawa*) pour désarmer l'agresseur ou casser son poignet/coude.
 > 3. **Présence majeure dans les patrons (*Tul*) :** Cette technique très emblématique apparaît notamment dans **Po-Eun Tul** (mouvements 12 et 30), **Eul-Ji Tul** / **Ul-Ji Tul** (mouvement 22), **Yoo-Sin Tul** (mouvement 40) et **So-San Tul** (mouvement 35).

@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe étroite sous la lèvre et pénétration intermédiaire :**
+>
 > 1. **Atteindre une cible restreinte :** Le poing classique (**Ap Joomuk**) est parfois trop large pour s'insérer proprement sous le nez ou la lèvre supérieure d'un adversaire. Le relief rectangulaire du **Pyon Joomuk** permet une pénétration nette sur la zone étroite du philtrum.
 > 2. **Alternative entre le poing et la pique de doigts :** Le *Pyon Joomuk* offre plus de portée qu'un poing fermé tout en conservant une structure osseuse beaucoup plus solide et rigide qu'une pique de doigts (**Sonkut**).
 > 3. **Puissance de la hanche arrière (*Bandae*) :** L'alignement de face du bassin propulsionne la rangée de jointures avec une vitesse accrue, provoquant des saignements immédiats et une perte de repères chez l'agresseur.

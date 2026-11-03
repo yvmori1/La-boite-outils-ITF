@@ -51,6 +51,7 @@ Le **Chookyo Makgi** est la réponse défensive de référence contre toutes les
 
 > **Protéger la tête et dévier les charges lourdes :**
 > Le *Chookyo Makgi* est indispensable face aux attaques descendantes :
+>
 > 1. **Protection du sommet du crâne et du visage :** En plaçant une barrière osseuse inclinée au-dessus de la ligne des yeux, vous neutralisez tout risque de traumatisme crânien face à une frappe verticale.
 > 2. **Effet de tremplin (Dévier la force) :** Au lieu d'absorber la totalité de l'onde de choc dans l'épaule, la pente du bras détourne l'attaque adverse vers l'extérieur de votre silhouette, déséquilibrant l'attaquant vers l'avant.
 

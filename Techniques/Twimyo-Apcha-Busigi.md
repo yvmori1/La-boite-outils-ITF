@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Vitesse de frappe directe et franchissement de distance :**
+>
 > 1. **Combler l'espace instantanément :** Le saut volant permet de combler une distance importante face à un adversaire qui se croit en sécurité hors de portée.
 > 2. **Attaque surprise à haute vitesse :** Contrairement aux coups de pied circulaires ou retournés, le *Twimyo Apcha Busigi* voyage sur la ligne directe la plus courte, ce qui rend son esquive très difficile.
 > 3. **Franchissement de garde haute :** La hauteur atteinte par le saut permet au pied d'entrer directement sous le menton ou au plexus solaire par un angle ascendant.

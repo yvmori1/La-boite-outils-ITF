@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Structure renforcée contre impacts lourds et stabilité d'ancrage :**
+>
 > 1. **Capacité d'absorption démultipliée :** En adossant le poing secondaire près du coude principal, la contrainte de choc est répartie sur la ceinture scapulaire tout entière. Cela empêche le bras bloquant de céder ou de se rabattre sur son propre visage face à un coup de pied lourd (*Dollyo Chagi*).
 > 2. **Ancrage solide (*Gunnun Sogi*) :** La répartition équilibrée du poids (50/50) et la longueur de la posture de marche fournissent une base arrière très stable pour absorber une poussée frontale.
 > 3. **Position de contre instantanée :** La position des bras permet de réenchaîner très rapidement par une saisie du membre adverse ou un coup de poing direct de la main de soutien.

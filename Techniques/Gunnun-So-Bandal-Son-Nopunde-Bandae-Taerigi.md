@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe anatomique sur la gorge et étouffement immédiat :**
+>
 > 1. **Encadrement des structures cylindriques :** La forme en demi-lune de la main (**Bandal Son**) est conçue pour épouser la forme de la gorge/du cou. Contrairement à un poing fermé qui peut glisser sur le cartilage de la pomme d'Adam, l'arc de la main vient l'impacter et le comprimer directement.
 > 2. **Neutralisation sans force brute :** Frapper le larynx avec la zone entre le pouce et l'index provoque un spasme respiratoire, une asphyxie immédiate ou l'incapacité réflexe de l'agresseur à poursuivre son attaque.
 > 3. **Puissance transmise par le transfert *Bandae* :** La rotation croisée de la hanche arrière (du bras qui frappe) apporte la vitesse et la force d'impact nécessaires sans déformer la forme de la main.

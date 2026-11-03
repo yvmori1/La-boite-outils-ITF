@@ -26,17 +26,17 @@ Elle se traduit par : **Frappe latérale du tranchant de la main au niveau moyen
 Cette technique associe le verrouillage du bas du corps en position croisée à la libération explosive du bras en frappe latérale :
 
 1. **La position des jambes (*Orun Kyocha Sogi*) :**
-   * Le pied droit croise devant le pied gauche et se pose à plat au sol, supportant la quasi-totalité du poids du corps (**85 % à 90 %**).
-   * La plante du pied gauche touche légèrement le sol juste derrière le talon droit pour servir de stabilisateur.
-   * Les deux genoux sont fléchis et pressés l'un contre l'autre pour verrouiller le bassin.
+    * Le pied droit croise devant le pied gauche et se pose à plat au sol, supportant la quasi-totalité du poids du corps (**85 % à 90 %**).
+    * La plante du pied gauche touche légèrement le sol juste derrière le talon droit pour servir de stabilisateur.
+    * Les deux genoux sont fléchis et pressés l'un contre l'autre pour verrouiller le bassin.
 2. **L'armement (Préparation) :**
-   * La main d'attaque (main droite) s'ouvre en tranchant (*Sonkal*) et vient s'armer près de l'épaule opposée (épaule gauche), la paume tournée vers soi/le haut.
-   * Le bras de réaction s'étend vers la cible latérale pour mesurer la distance et guider la trajectoire.
-   * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*) au moment du déplacement des pieds.
+    * La main d'attaque (main droite) s'ouvre en tranchant (*Sonkal*) et vient s'armer près de l'épaule opposée (épaule gauche), la paume tournée vers soi/le haut.
+    * Le bras de réaction s'étend vers la cible latérale pour mesurer la distance et guider la trajectoire.
+    * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*) au moment du déplacement des pieds.
 3. **La trajectoire et l'impact (*Yop Taerigi*) :**
-   * En redescendant dans la position croisée, le bras droit s'élance de manière fustigeante vers le côté (*Yop*).
-   * Le coude se détend pour propulser le tranchant de la main (*Sonkal*) vers la cible au niveau moyen (**Kaunde**).
-   * Le bras de réaction est ramené vivement à la hanche (poing fermé), créant la rotation des épaules nécessaire à la puissance d'impact.
+    * En redescendant dans la position croisée, le bras droit s'élance de manière fustigeante vers le côté (*Yop*).
+    * Le coude se détend pour propulser le tranchant de la main (*Sonkal*) vers la cible au niveau moyen (**Kaunde**).
+    * Le bras de réaction est ramené vivement à la hanche (poing fermé), créant la rotation des épaules nécessaire à la puissance d'impact.
 
 ---
 

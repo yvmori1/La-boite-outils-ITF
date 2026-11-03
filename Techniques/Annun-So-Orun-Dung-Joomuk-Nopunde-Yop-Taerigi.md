@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque explosive sur le flanc découvert :**
+>
 > 1. **Neutralisation latérale immédiate :** Permet de frapper très lourdement un agresseur situé sur votre droite sans avoir à pivoter le bassin ni changer de posture.
 > 2. **Effet de levier de la posture du cavalier :** La stabilité large de l'*Annun Sogi* offre une base solide contre les déséquilibres, permettant d'envoyer toute l'énergie de la ceinture scapulaire dans la détente du coude.
 > 3. **Passer au-dessus de la garde :** La trajectoire légèrement arquée du *Dung Joomuk* contourne facilement la garde d'un adversaire placé de côté.

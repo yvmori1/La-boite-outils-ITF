@@ -54,6 +54,7 @@ Le terme *Baro* ne décrit pas la surface de frappe ou la hauteur, mais la **rel
 
 > **Portée maximale et poussée du corps :**
 > L'explication mécanique du *Baro Makgi* réside dans l'alignement de la masse :
+>
 > 1. **Allonge optimale :** Bloquer du même côté que la jambe avant permet d'étendre le bras bloqueur au maximum de sa portée sans déformer la ligne des épaules.
 > 2. **Soutien de la jambe d'appui :** La jambe avant sert de colonne de soutien directe sous le bras de blocage, offrant une résistance osseuse maximale face à une frappe lourde.
 

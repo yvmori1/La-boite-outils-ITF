@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Garde hermétique contre les attaques basses et absorption de choc :**
+>
 > 1. **Protection intégrale de l'axe bas :** Le *Sonkal Najunde Daebi Makgi* permet de dévier un coup de pied bas puissant (*Ap Chagi* ou *Bandal Chagi* bas) sans risquer de se casser les doigts, grâce à la rigidité de la tranche de la main (**Sonkal**).
 > 2. **Double barrière (Principe *Daebi*) :** Pendant que la main avant barre l'accès au bas-ventre, la main arrière reste prête à intercepter une seconde frappe montante ou à enchaîner sur une contre-attaque.
 > 3. **Position en retrait sécurisée :** Conserver 60% du poids sur la jambe arrière en *Niunja Sogi* éloigne le buste de l'agresseur tout en gardant la jambe avant mobile pour bloquer ou riposter.

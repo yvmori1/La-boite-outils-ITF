@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection des angles morts et déviation des attaques obliques :**
+>
 > 1. **Couverture de la zone diagonale (*Yobap*) :** Les attaques réelles arrivent rarement en ligne droite parfaite. Le *Yobap Makgi* ferme le secteur intermédiaire à 45°, idéal contre les coups de poing en crochet (*Hook/Dolryo Jirugi*) ou les coups de pied en biais.
 > 2. **Détournement de force (*An Palmok*) :** Utiliser le tranchant interne de l'avant-bras permet d'engager le membre adverse par en dessous ou par le côté pour faire glisser sa frappe loin des organes vitaux du buste.
 > 3. **Base d'ancrage large :** La posture *Annun Sogi* permet d'absorber une poussée ou un choc venant de 45° sans défaire l'équilibre des hanches.

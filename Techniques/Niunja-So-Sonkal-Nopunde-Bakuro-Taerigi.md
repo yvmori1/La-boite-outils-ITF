@@ -25,19 +25,19 @@ Elle se traduit par : **Frappe vers l'extérieur au tranchant de la main au nive
 Cette technique associe le soutien en retrait de la position en L à la force centrifuge du tranchant de la main projeté vers l'extérieur :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-   * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
-   * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
-   * Les talons sont alignés sur la même ligne de référence, le corps placé à mi-profil (*Ban Mom*).
+    * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
+    * Les talons sont alignés sur la même ligne de référence, le corps placé à mi-profil (*Ban Mom*).
 2. **L'armement (Préparation) :**
-   * La main d'attaque s'ouvre en tranchant de la main (**Sonkal**), les doigts collés et le pouce fléchi contre la paume.
-   * Elle vient s'armer devant la poitrine, près de l'épaule opposée (ou sous l'aisselle opposée), la paume généralement orientée vers le haut ou vers soi.
-   * Le bras de réaction s'étend vers l'avant sur l'axe d'attaque.
-   * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*).
+    * La main d'attaque s'ouvre en tranchant de la main (**Sonkal**), les doigts collés et le pouce fléchi contre la paume.
+    * Elle vient s'armer devant la poitrine, près de l'épaule opposée (ou sous l'aisselle opposée), la paume généralement orientée vers le haut ou vers soi.
+    * Le bras de réaction s'étend vers l'avant sur l'axe d'attaque.
+    * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et le fouetté vers l'extérieur (*Bakuro Taerigi*) :**
-   * En redescendant dans la posture en L, le bras d'attaque s'élance de l'intérieur vers l'extérieur (**Bakuro**) au niveau de la tête/du cou (**Nopunde**).
-   * L'avant-bras se détend de manière fustigeante à partir du coude (*Taerigi*).
-   * À l'impact, le poignet pivote pour orienter la paume du tranchant vers le sol (ou légèrement inclinée), libérant l'énergie de frappe de la tranche de la main (**Sonkal**).
-   * Le bras de réaction est ramené vivement à la hanche (poing fermé, paume vers le haut) pour engager les épaules et maximiser l'effet d'action-réaction.
+    * En redescendant dans la posture en L, le bras d'attaque s'élance de l'intérieur vers l'extérieur (**Bakuro**) au niveau de la tête/du cou (**Nopunde**).
+    * L'avant-bras se détend de manière fustigeante à partir du coude (*Taerigi*).
+    * À l'impact, le poignet pivote pour orienter la paume du tranchant vers le sol (ou légèrement inclinée), libérant l'énergie de frappe de la tranche de la main (**Sonkal**).
+    * Le bras de réaction est ramené vivement à la hanche (poing fermé, paume vers le haut) pour engager les épaules et maximiser l'effet d'action-réaction.
 
 ---
 

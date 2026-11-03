@@ -50,6 +50,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Libération d'étranglement et protection de tête à 180° :**
+>
 > 1. **Rupture de saisie au cou / étranglement :** C'est l'une des applications clés en self-défense. Si un agresseur vous saisit à deux mains au niveau du cou ou de la gorge (de face ou par l'arrière), lever brutalement les deux coudes en *San Makgi* entre ses bras brise instantanément sa prise par effet de levier mécanique.
 > 2. **Protection contre attaques hautes simultanées :** Permet de bloquer deux percussions arrivant en même temps sur les côtés de la tête (ex: deux crochets ou attaques avec armes courtes).
 > 3. **Stabilité d'ancrage :** La combinaison avec la posture *Annun Sogi* offre une base extrêmement lourde et difficile à déséquilibrer.

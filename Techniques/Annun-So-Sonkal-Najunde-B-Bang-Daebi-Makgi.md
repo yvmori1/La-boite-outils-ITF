@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Encadrement défensif et protection contre les enchaînements bas/moyens :**
+>
 > 1. **Protection étagée (*Daebi*) :** La configuration en "B" offre un double rideau de sécurité. Si un coup de pied bas passe au-dessus du premier tranchant, le second bras de garde intercepte la frappe sans rupture de posture.
 > 2. **Déviation par le tranchant (*Sonkal*) :** Permet de trancher et dévier la jambe adverse (ex: *Najunde Ap Chagi* ou *Dollyo Chagi* bas) en percutant les structures musculaires ou tendineuses de la cheville/du tibia.
 > 3. **Stabilité pyramidale :** L'ancrage très large en *Annun Sogi* permet d'absorber des impacts lourds au niveau des cuisses et du bassin sans concéder de recul.

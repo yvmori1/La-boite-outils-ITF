@@ -49,6 +49,7 @@ Bloquer un bâton nécessite une mécanique spécifique pour ne pas subir la for
 
 > **La gestion de la force cinétique d'une arme contondante :**
 > Face à un bâton, la marge d'erreur est nulle. Le *Mongdung-i Makgi* repose sur deux règles d'or :
+>
 > 1. **Entrer dans la frappe :** En avançant vers l'attaquant au moment de la frappe, vous interceptez l'arme à la base du mouvement avant qu'elle n'ait accumulé son énergie cinétique maximale.
 > 2. **Neutraliser le membre, pas l'objet :** Bloquer le bois ou le métal du bâton briserait l'avant-bras du pratiquant. Bloquer le poignet ou le bras qui tient le bâton neutralise la source de la force en toute sécurité.
 

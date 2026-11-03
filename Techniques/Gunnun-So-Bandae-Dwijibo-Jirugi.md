@@ -24,17 +24,17 @@ Elle se traduit par : **Coup de poing direct inversé retourné (paume vers le h
 Cette technique combine la poussée vers l'avant de la position en marche avec la trajectoire glissante d'un coup de poing paume vers le haut porté du côté opposé :
 
 1. **La position des jambes (*Gunnun Sogi*) :**
-   * Un pied est projeté à l'avant (ex. le pied droit), le genou fléchi à l'aplomb du talon. La jambe arrière (gauche) est tendue, le pied orienté à 15° vers l'extérieur.
-   * Le poids du corps est parfaitement équilibré à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
+    * Un pied est projeté à l'avant (ex. le pied droit), le genou fléchi à l'aplomb du talon. La jambe arrière (gauche) est tendue, le pied orienté à 15° vers l'extérieur.
+    * Le poids du corps est parfaitement équilibré à **50 % sur la jambe avant et 50 % sur la jambe arrière**.
 2. **L'armement (Préparation) :**
-   * Le poing d'attaque (**main opposée au pied avant**, soit le poing gauche si le pied droit est devant) est ramené au flanc ou à la hanche, la paume orientée vers le haut ou le côté.
-   * Le bras de réaction (bras du même côté que le pied avant) s'étend vers l'avant pour mesurer la distance et orienter la trajectoire.
-   * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
+    * Le poing d'attaque (**main opposée au pied avant**, soit le poing gauche si le pied droit est devant) est ramené au flanc ou à la hanche, la paume orientée vers le haut ou le côté.
+    * Le bras de réaction (bras du même côté que le pied avant) s'étend vers l'avant pour mesurer la distance et orienter la trajectoire.
+    * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et l'impact (*Bandae Dwijibo Jirugi*) :**
-   * En redescendant dans la position en marche, le poing d'attaque s'élance en ligne droite vers le buste ou l'abdomen (**Kaunde** ou **Najunde**).
-   * Le coude reste collé au corps pour garantir une trajectoire rectiligne et compacte.
-   * À l'impact, le poing se verrouille fermement avec la **paume orientée vers le haut**, transperçant la cible avec la surface des deux premières phalanges (*Ap Joomuk*).
-   * Le bras de réaction est tiré vivement à la hanche (paume vers le haut) pour engager les hanches et décupler la force d'impact.
+    * En redescendant dans la position en marche, le poing d'attaque s'élance en ligne droite vers le buste ou l'abdomen (**Kaunde** ou **Najunde**).
+    * Le coude reste collé au corps pour garantir une trajectoire rectiligne et compacte.
+    * À l'impact, le poing se verrouille fermement avec la **paume orientée vers le haut**, transperçant la cible avec la surface des deux premières phalanges (*Ap Joomuk*).
+    * Le bras de réaction est tiré vivement à la hanche (paume vers le haut) pour engager les hanches et décupler la force d'impact.
 
 ---
 

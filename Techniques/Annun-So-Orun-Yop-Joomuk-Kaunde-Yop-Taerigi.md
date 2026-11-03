@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe latérale compacte à courte/moyenne distance :**
+>
 > 1. **Alternative au tranchant de la main (*Sonkal*) :** Contrairement au *Sonkal* qui utilise la main ouverte (côté auriculaire), le *Yop Joomuk* offre la rigidité d'un poing fermé (côté index/pouce), idéal pour percuter des zones musclées comme les flancs ou la cage thoracique sans risquer de fléchir les doigts.
 > 2. **Pénétration de garde latérale :** Permet d'attaquer les côtes d'un agresseur situé sur votre flanc droit sans avoir à tourner le bassin ni rompre la stabilité d'*Annun Sogi*.
 > 3. **Effet de fouet (*Taerigi*) :** La vitesse de détente du coude génère une percussion explosive qui pénètre les tissus musculaires abdominaux.

@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Application spécifique dans Choong-Moo Tul (Mouvement 28)
 
 > **Mouvement 28 :** *Déplacer le pied gauche vers B pour former une posture de marche gauche vers B tout en exécutant un blocage montant vers B à deux paumes (Gunnun so sang sonbadak ollyo makgi).*
+>
 > * **Rôle tactique :** Ce mouvement survient juste après un blocage d'arrêt aux tranchants croisés (*Kyocha Sonkal Momchau Makgi* au mouvement 27). La poussée des deux paumes vers le haut permet de contrôler le membre ou l'arme de l'adversaire arrêté à l'étape précédente, en le projetant brusquement vers le haut pour casser sa structure avant le blocage montant/coup de poing final (mouvements 29 et 30).
 
 ---

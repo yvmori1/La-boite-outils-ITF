@@ -59,6 +59,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe cinglante sur zone névralgique et franchissement d'obstacle :**
+>
 > 1. **Atteindre des cibles névralgiques (*Sonkal*) :** La trajectoire circulaire extérieure (*Bakuro*) contourne les blocages frontaux pour atteindre le côté du cou (sinus carotidien), la clavicule ou les côtes flottantes de l'agresseur.
 > 2. **Franchissement de la garde par la hauteur :** Le saut (*Twimyo*) permet de passer par-dessus les bras de l'adversaire ou d'attaquer un agresseur qui tente de s'approcher à mi-distance.
 > 3. **Puissance de fouet en apesanteur :** En combinant la vitesse angulaire des épaules avec l'effet de ciseau du tirage de la main de réaction, la frappe produit une onde de choc pénétrante malgré l'absence d'appui direct au sol.

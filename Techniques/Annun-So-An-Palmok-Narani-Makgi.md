@@ -50,8 +50,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Verrouillage d'An Palmok :** Au dernier millième de seconde, les deux avant-bras effectuent une rotation axiale pour présenter la surface interne (*An Palmok*, côté pouce) face à l'attaque.
 2. **Alignement final :**
-   * Les deux avant-bras sont bloqués parallèlement à une distance fixe l'un de l'autre.
-   * Les coudes conservent une flexion structurelle (angle d'environ 90° à 110°).
+    * Les deux avant-bras sont bloqués parallèlement à une distance fixe l'un de l'autre.
+    * Les coudes conservent une flexion structurelle (angle d'environ 90° à 110°).
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche accompagne le blocage au sol.
 
 ---
@@ -59,6 +59,7 @@ Sa décomposition linguistique est la suivante :
 ## 4. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Double absorption et sécurité maximale :**
+>
 > 1. **Protection contre des frappes lourdes :** Face à une attaque particulièrement puissante (ex: un coup de pied circulaire puissant ou une frappe de bâton latéral), utiliser deux avant-bras parallèles répartit l'impact sur une surface double, évitant que la garde ne s'effondre.
 > 2. **Couverture de zones multiples :** Permet de protéger simultanément deux niveaux (par exemple le visage et le thorax, ou les côtes et le plexus) sur la même ligne d'attaque.
 > 3. **Stabilité du cavalier :** La posture *Annun Sogi* offre une résistance inégalée contre les poussées et percussions latérales.

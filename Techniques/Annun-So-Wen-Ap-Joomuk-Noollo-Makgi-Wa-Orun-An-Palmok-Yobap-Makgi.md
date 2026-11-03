@@ -48,15 +48,15 @@ Sa décomposition linguistique est la suivante :
 ### Étape 2 : Le Déploiement Bi-axial et la *Sine Wave*
 
 1. **Mouvements divergents :**
-   * Le bras gauche descend en piston/pression vers le bas (*Noollo*) au-dessus de la ligne du bas-ventre.
-   * Le bras droit se déploie simultanément vers l'angle de 45° (*Yobap*).
+    * Le bras gauche descend en piston/pression vers le bas (*Noollo*) au-dessus de la ligne du bas-ventre.
+    * Le bras droit se déploie simultanément vers l'angle de 45° (*Yobap*).
 2. **Chute de masse :** Redescente lourde du bassin en fléchissant les deux genoux en *Annun Sogi* pour caler les deux blocages à l'impact.
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
 1. **Double vrille axiale :** Au tout dernier millième de seconde :
-   * Le poing gauche pivote paume vers le sol pour exercer la pression avec le devant du poing (**Ap Joomuk**).
-   * L'avant-bras droit pivote pour sceller la tranche interne (**An Palmok**) face à la diagonale.
+    * Le poing gauche pivote paume vers le sol pour exercer la pression avec le devant du poing (**Ap Joomuk**).
+    * L'avant-bras droit pivote pour sceller la tranche interne (**An Palmok**) face à la diagonale.
 2. **Expiration (*Kihap*) :** Une unique expulsion d'air brève et sèche scelle l'impact simultané des deux bras.
 
 ---
@@ -64,6 +64,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Défense simultanée multi-niveaux et multi-axes :**
+>
 > 1. **Gestion d'attaques combinées haut/bas :** Permet d'écraser un coup de pied bas de face (*Najunde Ap Chagi*) avec la main gauche tout en interceptant simultanément un coup de poing moyen arrivant sur la diagonale avec l'avant-bras droit.
 > 2. **Neutralisation de saisie et contre :** La main gauche presse le bras ou la hanche de l'agresseur vers le bas pour briser son soutien, pendant que le bras droit écarte sa seconde main pour protéger le buste.
 > 3. **Stabilité latérale :** L'ancrage bas et large en *Annun Sogi* permet de supporter la pression verticale du blocage descendant et l'impact oblique du blocage moyen sans céder de terrain.

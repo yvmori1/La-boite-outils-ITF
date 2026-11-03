@@ -45,8 +45,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Vrille synchronisée :** Au tout dernier millième de seconde, les deux poignets effectuent une rotation axiale pour sceller le tranchant des mains (**Sonkal**) vers la menace.
 2. **Fixation de garde (*Daebi*) :**
-   * Le tranchant de la main avant s'immobilise à la hauteur des yeux.
-   * Le tranchant de la main arrière se scelle devant le plexus solaire pour protéger les organes vitaux.
+    * Le tranchant de la main avant s'immobilise à la hauteur des yeux.
+    * Le tranchant de la main arrière se scelle devant le plexus solaire pour protéger les organes vitaux.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche scelle la garde et l'ancrage arrière.
 
 ---
@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Bouclier haut, déflexion fluide et riposte instantanée :**
+>
 > 1. **Protection hermétique du visage :** La position haute de la main avant (*Nopunde*) permet d'intercepter les attaques à la tête (crochets, coups de poing directs hauts, coups de pied circulaires).
 > 2. **Avantage de la main ouverte (*Sonkal*) :** Contrairement au poing fermé, le tranchant de la main ouverte permet de dévier la frappe adverse tout en gardant la capacité de saisir instantanément le bras ou le vêtement de l'agresseur.
 > 3. **Esquive de sécurité (*Dwitbal Sogi*) :** Placer 95% de la masse sur la jambe arrière fait reculer la tête et le buste hors de portée du danger.

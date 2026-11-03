@@ -60,6 +60,7 @@ Selon la direction des jambes, le *Sangbal Chagi* se décline sous deux formes m
 
 **Neutraliser plusieurs cibles ou briser une garde lourde :**
 > En combat réel ou simulé, le *Sangbal Chagi* répond à deux situations précises :
+>
 > 1. Se dégager d'un encerclement direct en frappant simultanément deux attaquants situés à gauche et à droite.
 > 2. Projeter toute la masse de son corps vers l'avant avec deux pieds pour faire céder une garde adverse très fermée ou un bouclier.
 

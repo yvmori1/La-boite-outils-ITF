@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection contre les attaques pénétrantes et contre-attaque éclair :**
+>
 > 1. **Mise hors de portée immédiate :** En plaçant la quasi-totalité du poids sur la jambe arrière (*Dwitbal Sogi*), le haut du corps s'éloigne naturellement de la zone d'impact sans avoir à rompre complètement la distance.
 > 2. **Rabattement de la trajectoire adverse (*Anuro*) :** Le blocage vers l'intérieur décale le bras ou la jambe de l'agresseur vers l'extérieur de votre garde, ouvrant tout son buste ou son flanc.
 > 3. **Disponibilité totale de la jambe avant :** Ne portant que 5% du poids, la jambe avant est entièrement déchargée et libre d'exécuter un coup de pied direct (*Ap Chagi*) ou latéral (*Yop Chagi*) sans temps de préparation.

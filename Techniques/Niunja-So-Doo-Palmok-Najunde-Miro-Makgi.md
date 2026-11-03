@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dévitation en douceur, absorption et contrôle à distance :**
+>
 > 1. **Gestion de l'énergie adverse (*Miro*) :** L'action poussée (**Miro**) est idéale pour absorber un coup de pied direct lourd sans choc dur, en accompagnant la jambe de l'adversaire vers le bas pour dévier son axe et le déséquilibrer.
 > 2. **Structure renforcée (**Doo Palmok**) :** L'appui du bras arrière derrière le coude avant garantit une grande stabilité mécanique, empêchant le bras bloquant de céder sous la masse d'une attaque basse.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des variantes de blocages poussés (*Miro Makgi*) dans plusieurs formes du Taekwon-Do ITF, notamment dans **Toi-Gye Tul** (mouvements 13 à 18), où la technique exige un contrôle strict de la vitesse et de la fluidité.

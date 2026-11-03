@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Déséquilibre de l'adversaire et ouverture de contre-attaque :**
+>
 > 1. **Rupture d'équilibre par élévation (*Scooping*) :** En cueillant la cheville ou le mollet d'un agresseur lors d'un coup de pied direct (*Ap Chagi*), le mouvement ascendant de la paume le projette en arrière ou le force à faire un saut périlleux sur sa jambe d'appui.
 > 2. **Absorber sans choc osseux :** Contrairement à un blocage sec au tranchant de l'avant-bras (*Bakat Palmok*), la paume (*Sonbadak*) offre une surface charnue qui absorbe la force cinétique du coup avant de la rediriger.
 > 3. **Exposition des cibles vitales :** En soulevant la jambe de l'adversaire vers le haut, son bas-ventre et son entrejambe se retrouvent complètement dégagés pour une riposte immédiate (ex: coup de pied ou frappe de poing).

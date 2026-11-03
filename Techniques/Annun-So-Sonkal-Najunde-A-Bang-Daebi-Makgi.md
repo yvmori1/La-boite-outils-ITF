@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Déviation angulaire et cadre de protection basse :**
+>
 > 1. **Riche puissance de déflexion (*Deflective angle*) :** La géométrie inclinée en "A" empêche les coups de pied bas (*Najunde Chagi*) de frapper directement de face. L'attaque glisse le long de la pente formée par le tranchant de la main (*Sonkal*).
 > 2. **Double sécurité de garde (*Daebi*) :** Si l'attaque basse dévie du bras principal, le second bras aligné dans la structure "A" intercepte le membre adverse sans rupture de garde.
 > 3. **Stabilité d'absorption :** L'ancrage très large en *Annun Sogi* permet d'absorber l'onde de choc de coups de pied puissants sans reculer ni déséquilibrer le buste.

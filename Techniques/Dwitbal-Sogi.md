@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Esquive intégrée, bouclier bas et contre-attaque réflexe :**
+>
 > 1. **Esquive par retrait sans rupture de contact :** En chargeant 95% du poids sur la jambe arrière, le haut du corps et le visage reculent instantanément hors d'atteinte de l'agresseur sans que vous n'ayez besoin de faire un pas en arrière complet.
 > 2. **Jambe avant "armée à zéro temps" :** Comme le pied avant ne porte que 5% du poids (ce qui équivaut à un effleurement), la jambe avant peut déclencher un coup de pied direct (*Ap Chagi*), latéral (*Yop Chagi*) ou circulaire (*Bandal Chagi*) à la vitesse de l'éclair, sans phase préalable de décharge de poids.
 > 3. **Protection contre les balayages et fauchages :** Un balayage adverse sur la jambe avant est inefficace, car cette jambe n'est pas ancrée au sol et peut simplement être soulevée ou retirée.

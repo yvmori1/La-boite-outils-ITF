@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique, biomécanique et Self-Défense (*Hosinsul*)
 
 > **Effet de ciseau, puissance de torsion et contre d'esquive :**
+>
 > 1. **Gain de puissance par contrainte axiale (*Bandae*) :** Contrairement à la version *Baro* (directe), la version *Bandae* utilise la rotation croisée du buste par rapport à la jambe d'appui. Le tirage du poing de réaction à la hanche génère un effet de couple très puissant, compensant le fait d'être sur une seule jambe.
 > 2. **Esquive et riposte en angle mort :** En montant sur la jambe arrière pour éviter un balayage ou un coup de pied bas, la trajectoire croisée du bras *Bandae* vient fouetter l'adversaire sous un angle inattendu, passant au-dessus de sa garde.
 > 3. **Protection contre la sur-engagement :** Permet d'intercepter la charge d'un agresseur sans exposer son propre centre de masse.

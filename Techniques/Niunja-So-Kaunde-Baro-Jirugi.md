@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Combinaison de protection défensive et de puissance en retrait :**
+>
 > 1. **Puissance issue de la jambe arrière (*Baro*) :** Frapper avec le bras arrière en *Niunja Sogi* permet d'utiliser l'extension de la hanche arrière et le transfert de masse malgré une posture défensive axée sur le recul.
 > 2. **Profil réduit (*Han Momtong*) :** La position à 45° protège les zones vitales (foie, plexus, aine) tout en maintenant un bras de frappe directement aligné avec la cible.
 > 3. **Rupture de rythme et contre-attaque :** Idéal pour absorber une charge adverse en reculant d'un pas en *Niunja Sogi* tout en délivrant simultanément un coup de poing puissant au thorax de l'agresseur.

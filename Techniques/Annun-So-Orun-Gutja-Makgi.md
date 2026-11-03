@@ -36,16 +36,16 @@ Sa décomposition linguistique est la suivante :
 ### Étape 2 : Le Déploiement et la *Sine Wave*
 
 1. **Trajectoire combinée :**
-   * Le **bras droit** descend énergiquement vers le bas (*Najunde*) le long du flanc droit.
-   * Le **bras gauche** vient se placer en arc/angle droit au-dessus du bras droit.
+    * Le **bras droit** descend énergiquement vers le bas (*Najunde*) le long du flanc droit.
+    * Le **bras gauche** vient se placer en arc/angle droit au-dessus du bras droit.
 2. **Chute de masse :** Redescente lourde du bassin en fléchissant les genoux en *Annun Sogi* pour sceller l'impact au sol.
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
 1. **Double rotation synchrone :** Les deux avant-bras effectuent leur rotation axiale finale en même temps.
 2. **Position finale :**
-   * L'avant-bras droit est parallèle à la cuisse droite (à environ deux poings de distance).
-   * L'avant-bras gauche vient verrouiller le haut du cadre au niveau du buste/de la poitrine.
+    * L'avant-bras droit est parallèle à la cuisse droite (à environ deux poings de distance).
+    * L'avant-bras gauche vient verrouiller le haut du cadre au niveau du buste/de la poitrine.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève et sèche accompagne le verrouillage.
 
 ---
@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection à deux niveaux et piégeage de membre :**
+>
 > 1. **Défense double simultanée :** Permet de stopper en un seul temps une attaque haute (ex: coup de poing au visage) et une attaque basse (ex: coup de pied bas ou tentative de saisie aux jambes).
 > 2. **Saisie et verrouillage de jambe (*Trapping*) :** En self-défense, le cadre du "9" est extrêmement efficace pour coincer la jambe d'un adversaire qui délivre un coup de pied moyen (*Ap Chagi* ou *Dollyo Chagi*) : la jambe est interceptée par le bras bas droit et verrouillée par la redescente du bras gauche.
 

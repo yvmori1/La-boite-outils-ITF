@@ -55,9 +55,10 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Différence avec *Najunde Bandae Makgi*
 
 > **Écrase-structure direct et transfert de gravité :**
+>
 > 1. **Distinguer *Najunde* et *Naeryo* :**
->    * Le blocage bas classique (**Najunde Bandae Makgi**) adopte une trajectoire en balayage oblique descendant.
->    * Le blocage descendant (**Naeryo Bandae Makgi**) utilise une trajectoire **verticale directe du haut vers le bas**, exploitant la chute de masse du corps pour casser ou écraser l'élan d'un coup de pied montant de l'adversaire.
+>     * Le blocage bas classique (**Najunde Bandae Makgi**) adopte une trajectoire en balayage oblique descendant.
+>     * Le blocage descendant (**Naeryo Bandae Makgi**) utilise une trajectoire **verticale directe du haut vers le bas**, exploitant la chute de masse du corps pour casser ou écraser l'élan d'un coup de pied montant de l'adversaire.
 > 2. **Alignement du bras avant (*Bandae*) :** Placer le blocage descendant directement au-dessus de la jambe avancée crée une barrière verticale solide qui empêche les frappes basses de s'infiltrer par l'avant.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve cette variante de blocage dans des formes comme **Toi-Gye Tul** (mouvement 28) ou **Ge-Baek Tul**, où le contrôle strict de la verticale est primordial.
 

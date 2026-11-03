@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque dévastatrice au corps-à-corps et libération de saisie :**
+>
 > 1. **Pénétration osseuse maximale (*Tulgi*) :** Contrairement à une frappe circulaire du coude (*Taerigi*), la trajectoire en piston (*Tulgi*) concentre toute la masse du corps sur la pointe réduire du coude, traversant les protections musculaires de l'adversaire.
 > 2. **Dégagement d'étreinte / ceinturage arrière :** Si un agresseur vous saisit par-derrière au niveau des bras ou de la taille, le *Dwit Palkup Tulgi* enfonce le coude directement dans son plexus ou ses côtes pour briser son emprise instantanément.
 > 3. **Indépendance de posture :** La largeur de la posture *Annun Sogi* offre une stabilité latérale exceptionnelle pour délivrer une frappe arrière à pleine puissance sans basculer.

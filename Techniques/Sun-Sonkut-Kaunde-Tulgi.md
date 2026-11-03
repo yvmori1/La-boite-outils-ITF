@@ -53,6 +53,7 @@ Pour transformer la main en une pointe rigide et perforante sans se blesser les 
 
 > **Pénétration au plexus solaire et contournement de garde :**
 > Le *Sun Sonkut Kaunde Tulgi* est une alternative stratégique aux coups de poing :
+>
 > 1. **Pénétration sous la cage thoracique :** La finesse de la main verticale permet de s'infiltrer dans un espace très étroit entre les deux bras de la garde adverse, là où un poing fermé butterait contre les avant-bras.
 > 2. **Cible vitale — Plexus Solaire (*Myongchi*) :** Un impact sec des doigts rigides sur le réseau nerveux du plexus provoque un spasme du diaphragme, coupant instantanément la respiration de l'agresseur.
 > 3. **Complémentarité avec le blocage paume :** En abaissant la garde adverse avec un *Sonbadak Nullo Makgi* de la main avant, la pique s'engouffre directement dans la brèche créée.

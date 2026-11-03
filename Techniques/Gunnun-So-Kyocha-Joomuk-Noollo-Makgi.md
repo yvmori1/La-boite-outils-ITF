@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Écrasement d'attaque basse et verrouillage bilatéral :**
+>
 > 1. **Interception de coup de pied bas (*Ap Chagi*) :** Le croisement des poignets crée un piège en "V" ou en "X" capable de stopper ou de dévier un coup de pied direct montant vers les parties génitales ou le plexus.
 > 2. **Effet de presse gravitationnelle :** L'action de presser vers le bas (*Noollo*) combinée à la chute de masse du corps permet d'écraser la jambe ou le bras de l'agresseur avec le poids total de sa propre structure.
 > 3. **Désarmement ou contrôle de saisie :** Très utile en défense personnelle pour appuyer lourdement sur les poignets ou les bras d'un agresseur qui tente une saisie basse ou une attaque à arme blanche au niveau de la ceinture.

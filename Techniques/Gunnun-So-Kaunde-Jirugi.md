@@ -41,11 +41,11 @@ Un coup de poing puissant nécessite une assise parfaite. La posture *Gunnun Sog
 En fonction du bras d'attaque par rapport à la jambe avancée, la frappe prend une dénomination précise :
 
 1. **Baro Jirugi (Obverse Punch — Coup de poing direct du même côté) :**
-   * Le bras qui frappe est du **même côté** que la jambe avancée (ex: jambe droite devant, poing droit qui frappe).
-   * C'est la version la plus longue, la plus naturelle et la plus fluide.
+    * Le bras qui frappe est du **même côté** que la jambe avancée (ex: jambe droite devant, poing droit qui frappe).
+    * C'est la version la plus longue, la plus naturelle et la plus fluide.
 2. **Bandae Jirugi (Reverse Punch — Coup de poing inverse) :**
-   * Le bras qui frappe est du **côté opposé** à la jambe avancée (ex: jambe droite devant, poing gauche qui frappe).
-   * Exige une torsion dynamique des hanches pour compenser le décalage et générer la puissance.
+    * Le bras qui frappe est du **côté opposé** à la jambe avancée (ex: jambe droite devant, poing gauche qui frappe).
+    * Exige une torsion dynamique des hanches pour compenser le décalage et générer la puissance.
 
 ---
 

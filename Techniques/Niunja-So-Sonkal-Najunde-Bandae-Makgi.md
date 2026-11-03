@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Dévitation fluide, absorption en retrait et transition rapide :**
+>
 > 1. **Dévitation sans force brute :** Frapper la jambe d'un agresseur avec le tranchant osseux de la main (**Sonkal**) permet de dévier un coup de pied bas (*Ap Chagi*) de façon très incisive, perturbant gravement son équilibre.
 > 2. **Protection en retrait (*Niunja Sogi*) :** Conserver 60% du poids sur la jambe arrière maintient le buste hors de portée d'une seconde attaque tout en protégeant le bas du corps.
 > 3. **Différence entre *Baro* et *Bandae* :** En position *Bandae*, la main du côté de la jambe avant balaye directement l'espace au-dessus de la cuisse avancée, offrant un écran défensif naturel sur le flanc exposé.

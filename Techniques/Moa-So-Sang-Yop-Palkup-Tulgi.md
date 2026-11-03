@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Dégagement bimanuel en corps-à-corps et compacité :**
+>
 > 1. **Défense/Attaque contre un encerclement :** Cette technique est idéale pour se libérer d'une saisie par l'arrière ou pour neutraliser deux agresseurs simultanés qui se trouvent sur les flancs à très courte portée.
 > 2. **Stabilité et force dorsale en *Moa Sogi* :** N'ayant aucun bras de réaction libre à la hanche (puisque les deux bras frappent en même temps), la puissance provient exclusivement de l'ouverture explosive de la cage thoracique, du verrouillage des omoplates et de la chute de masse en posture pieds joints.
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des coups de coude doubles latéraux en posture pieds joints ou neutre dans plusieurs formes avancées du Taekwon-Do ITF, notamment dans **Po-Eun Tul** (mouvement 30) et **Juche Tul**.

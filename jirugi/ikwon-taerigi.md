@@ -58,6 +58,7 @@ Le *Ikwon Taerigi* s'adapte à plusieurs axes d'attaque selon la position de l'a
 ## 4. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Vitesse fulgurante et percussion des zones nerveuses du visage :**
+>
 > 1. **Attaque imprévisible et rapide :** Ne nécessitant pas un grand armement d'épaule, le mouvement de fouet autour du coude rend le *Ikwon Taerigi* extrêmement difficile à anticiper et à bloquer.
 > 2. **Débordement de garde :** Sa trajectoire semi-circulaire permet de passer au-dessus ou sur les côtés de la garde frontale de l'adversaire.
 > 3. **Effet d'ébranlement immédiat :** Un impact sec du revers des jointures sur la tempe, l'arête du nez ou le menton provoque un choc vestibulaire immédiat (perte de repères ou K.-O.).

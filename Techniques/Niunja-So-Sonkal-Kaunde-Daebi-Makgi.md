@@ -35,14 +35,14 @@ La posture en L présente le corps de trois-quarts (*Half-facing*), réduisant l
 Le blocage de garde (*Daebi Makgi*) s'exécute toujours à **deux mains** synchronisées, créant un double niveau de protection :
 
 1. **La main principale (bras avant - *Sonkal*) :**
-   * Plottée à la **hauteur de l'épaule / du thorax** (*Kaunde*).
-   * Le tranchant de la main (*Sonkal*) est orienté vers l'adversaire, le coude fléchi à environ **110° à 120°**.
-   * Bloque ou dévie les attaques visant le haut du buste et le visage.
+    * Plottée à la **hauteur de l'épaule / du thorax** (*Kaunde*).
+    * Le tranchant de la main (*Sonkal*) est orienté vers l'adversaire, le coude fléchi à environ **110° à 120°**.
+    * Bloque ou dévie les attaques visant le haut du buste et le visage.
 2. **La main de garde / réaction (bras arrière - *Sonkal*) :**
-   * Plottée devant le **plexus solaire** (*Myongchi*), à environ **2 à 3 cm du corps** (sans le toucher).
-   * Protège le creux de l'estomac, les côtes et sert de bouclier secondaire si la première défense est franchie.
+    * Plottée devant le **plexus solaire** (*Myongchi*), à environ **2 à 3 cm du corps** (sans le toucher).
+    * Protège le creux de l'estomac, les côtes et sert de bouclier secondaire si la première défense est franchie.
 3. **Mise en forme des mains (*Sonkal*) :**
-   * Les quatre doigts sont joints et fermement tendus, le pouce fléchi et verrouillé contre la paume.
+    * Les quatre doigts sont joints et fermement tendus, le pouce fléchi et verrouillé contre la paume.
 
 ---
 
@@ -70,6 +70,7 @@ Le blocage de garde (*Daebi Makgi*) s'exécute toujours à **deux mains** synchr
 
 > **La garde par excellence du TaeKwon-Do ITF :**
 > Le *Sonkal Kaunde Daebi Makgi* est la posture défensive la plus polyvalente :
+>
 > 1. **Protection hermétique sur deux niveaux :** La main avant dévie la frappe principale, tandis que la main arrière couvre le plexus contre une seconde attaque enchaînée.
 > 2. **Fluidité des mains ouvertes :** Les mains n'étant pas fermées en poing, il est instantanément possible d'enchaîner une saisie de poignet (*Japgi*), une frappe tranchante (*Sonkal Taerigi*) ou un pic de doigts (*Sonkut Tulgi*).
 > 3. **Jambe avant libre pour contre-attaquer :** Avec 70% du poids sur l'arrière, la jambe avant (30%) peut déclencher un coup de pied direct (*Ap Chagi*) ou de côté (*Yop Chagi*) en un éclair.

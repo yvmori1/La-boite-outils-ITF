@@ -31,11 +31,11 @@ En TaeKwon-Do ITF, deux surfaces d'impact sont principalement utilisées selon l
 1. **Trajectoire circulaire :** Le bas de la jambe se déplie de manière explosive à partir du genou selon un arc de cercle entrant vers la cible (section moyenne ou haute).
 2. **Engagement du bassin :** La hanche est poussée fermement vers la cible au moment de la frappe pour verrouiller la masse du corps derrière le coup.
 3. **Ajustement de l'arme :**
-   * Si frappe avec *Apkumchi* : la cheville est tendue mais les orteils restent vivement tirés vers l'arrière.
-   * Si frappe avec *Baldung* : la cheville et les orteils sont complètement tendus dans l'alignement du tibia.
+    * Si frappe avec *Apkumchi* : la cheville est tendue mais les orteils restent vivement tirés vers l'arrière.
+    * Si frappe avec *Baldung* : la cheville et les orteils sont complètement tendus dans l'alignement du tibia.
 4. **Focus / Impact :** Contraction musculaire instantanée à l'impact (*Kihap*), le buste s'inclinant légèrement à l'opposé pour équilibrer la trajectoire de la jambe.
-   1. Niveau moyen: L'impact a lieu a 45 degrée vers l'avant
-   2. Niveau Haut: L'impact a lieu a 25 degrée vers l'avant
+    1. Niveau moyen: L'impact a lieu a 45 degrée vers l'avant
+    2. Niveau Haut: L'impact a lieu a 25 degrée vers l'avant
 
 ### Étape 3 : Le Retrait (*Snap-back*)
 

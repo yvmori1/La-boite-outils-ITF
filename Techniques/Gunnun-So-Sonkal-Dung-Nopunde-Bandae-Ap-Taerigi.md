@@ -45,8 +45,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Fouetté de la main (*Sonkal Dung*) :** La main droite décrit un arc fluide pour venir frapper de face au niveau du visage (*Nopunde*).
 2. **Position finale des mains :**
-   * La main droite est verrouillée au niveau du visage, le coude légèrement fléchi.
-   * Le revers de la main gauche s'arrête sous le coude droit pour servir de structure d'appui et d'équilibre.
+    * La main droite est verrouillée au niveau du visage, le coude légèrement fléchi.
+    * Le revers de la main gauche s'arrête sous le coude droit pour servir de structure d'appui et d'équilibre.
 3. **Expiration (*Kihap*) :** Une expulsion d'air brève scelle la fin du mouvement.
 
 ---
@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Application spécifique dans Choong-Moo Tul (Mouvement 13)
 
 > **Mouvement 13 :** *Abaisser le pied droit vers le pied gauche, puis déplacer le pied gauche vers F pour former une posture de marche gauche vers F tout en exécutant une frappe frontale haute vers F avec le revers du tranchant de la main droite, en amenant le revers de la main gauche sous l'articulation du coude droit.*
+>
 > * **Rôle tactique :** Ce mouvement intervient juste après le coup de genou (*Moorup Ollyo Chagi*). La frappe au revers du tranchant de la main (**Sonkal Dung**) permet d'enchaîner immédiatement sur le visage d'un adversaire sonné ou ramené vers soi, avant d'engager les coups de pied acrobatiques suivants (mouvements 14 et 15 : *Dollyo Chagi* puis *Dwit Chagi*).
 
 ---

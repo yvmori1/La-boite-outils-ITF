@@ -33,15 +33,15 @@ Chaque adepte doit réciter et vivre selon le serment suivant :
 ### Règles d'Étiquette et de Dojang
 
 * **Propreté et tenue :**
-  * Le *dobuk* (uniforme) doit être parfaitement propre
-  * Le nœud de ceinture correctement noué.
+    * Le *dobuk* (uniforme) doit être parfaitement propre
+    * Le nœud de ceinture correctement noué.
 * **Salut et comportement :**
-  * Saluer en entrant et en sortant du *dojang* ainsi que du plateau de compétition.
-  * Saluer respectueusement son instructeur et ses seniors (en utilisant les titres officiels:
-    * *Saseong Nim* pour Grand Maître
-    * *Sahyun Nim* pour Maître
-    * *Sabum Nim* pour Instructeur
-    * *Boosabum Nim* pour Assistant Instructeur).
+    * Saluer en entrant et en sortant du *dojang* ainsi que du plateau de compétition.
+    * Saluer respectueusement son instructeur et ses seniors (en utilisant les titres officiels:
+        * *Saseong Nim* pour Grand Maître
+        * *Sahyun Nim* pour Maître
+        * *Sabum Nim* pour Instructeur
+        * *Boosabum Nim* pour Assistant Instructeur).
 * **Discipline :**
-  * Aucun bavardage ni retard n'est toléré sans l'accord de l'instructeur.
-  * Les élèves doivent demander la permission de poser des questions selon le protocole approprié.
+    * Aucun bavardage ni retard n'est toléré sans l'accord de l'instructeur.
+    * Les élèves doivent demander la permission de poser des questions selon le protocole approprié.

@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Contournement de garde et force rotative du bras droit :**
+>
 > 1. **Attaque hors-axe :** Le coup de poing circulaire (**Dollyo Jirugi**) permet d'atteindre le foie, la rate ou les côtes flottantes de l'adversaire en passant autour de ses avant-bras lorsqu'il maintient une garde frontale serrée.
 > 2. **Génération de puissance en *Narani Sogi* :** Exécuter ce mouvement à partir d'une position pieds parallèles exige une rotation explosive du buste et de la ceinture abdominale combinée au tirage du bras gauche (*Reaction Force*).
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve des coups de poing circulaires dans plusieurs patrons du Taekwon-Do ITF, notamment dans **Yul-Gok Tul** (mouvements 18 et 21) ou **Yoo-Sin Tul**, où ils servent à briser ou contourner la défense adverse.

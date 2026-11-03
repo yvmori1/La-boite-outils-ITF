@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt pédagogique et Application dans les patrons (*Tul*)
 
 > **Fondement du travail de poing et de la symétrie :**
+>
 > 1. **Isolation du haut du corps :** Travailler un coup de poing depuis *Narani Sogi* oblige le pratiquant à générer de la puissance uniquement par la vitesse du bras, la rotation de la hanche, le tirage de réaction (*Reaction Force*) et la chute de masse (*Sine Wave*), sans compter sur la poussée d'une jambe arrière.
 > 2. **Travail de la ligne centrale (*Centerline*) :** Le poing ne part pas vers l'extérieur : il glisse le long des côtes pour atteindre exactement le centre du thorax.
 > 3. **Exercices de base (*Saju Jirugi*) et patrons :** Cette technique est l'un des tout premiers mouvements enseignés aux débutants (notamment dans les exercices d'attaque aux quatre directions *Saju Jirugi*), et se retrouve dans divers mouvements de préparation ou de salutation dans les patrons ITF.

@@ -25,17 +25,17 @@ Elle se traduit par : **Coup de poing direct inversé au niveau bas en position 
 Cette technique combine la descente du centre de gravité en position croisée à une poussée perforante du bras opposé vers le bas :
 
 1. **La position des jambes (*Orun Kyocha Sogi*) :**
-   * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
-   * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la Stabilité.
-   * Les deux genoux sont fléchis et fortement pressés l'un contre l'autre.
+    * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
+    * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la Stabilité.
+    * Les deux genoux sont fléchis et fortement pressés l'un contre l'autre.
 2. **L'armement (Préparation) :**
-   * Le poing gauche (main d'attaque) est ramené à la hanche gauche, paume tournée vers le haut.
-   * Le bras droit (bras de réaction) s'étend vers l'avant/bas pour mesurer la distance et orienter la frappe.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le déplacement des pieds.
+    * Le poing gauche (main d'attaque) est ramené à la hanche gauche, paume tournée vers le haut.
+    * Le bras droit (bras de réaction) s'étend vers l'avant/bas pour mesurer la distance et orienter la frappe.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le déplacement des pieds.
 3. **La trajectoire et l'impact (*Najunde Bandae Jirugi*) :**
-   * En redescendant dans la posture croisée, le poing gauche s'élance en ligne droite vers le bas-ventre de la cible (**Najunde**).
-   * À la toute fin du parcours, le poing gauche pivote à 180° pour impacter fermement avec la surface des deux premières phalanges (*Ap Joomuk*), paume vers le bas.
-   * Le poing droit (bras de réaction) est ramené simultanément à la hanche droite, paume vers le haut, verrouillant les épaules et accélérant l'attaque.
+    * En redescendant dans la posture croisée, le poing gauche s'élance en ligne droite vers le bas-ventre de la cible (**Najunde**).
+    * À la toute fin du parcours, le poing gauche pivote à 180° pour impacter fermement avec la surface des deux premières phalanges (*Ap Joomuk*), paume vers le bas.
+    * Le poing droit (bras de réaction) est ramené simultanément à la hanche droite, paume vers le haut, verrouillant les épaules et accélérant l'attaque.
 
 ---
 

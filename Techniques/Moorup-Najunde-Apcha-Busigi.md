@@ -61,6 +61,7 @@ Dans la séquence de **Choong-Jang Tul** (juste après la saisie ou le blocage d
 ## 4. Intérêt tactique
 
 > **Double niveau de percussion au corps-à-corps :**
+>
 > 1. **Cisaillement des forces :** Tirer l'adversaire vers le bas tout en projetant le genou et le pied vers le haut/l'avant multiplie la force d'impact.
 > 2. **Attaque à deux temps inévitable :** Si l'adversaire absorbe ou bloque la montée du genou, le fouetté descendant du bol du pied (**Ap Chook**) s'infiltre sous sa garde pour toucher les parties génitales ou le bas-ventre.
 

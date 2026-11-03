@@ -51,6 +51,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Contournement des gardes frontales et trajectoire imprévisible :**
+>
 > 1. **Masquage d'intention (*Feinte*) :** L'armement du genou vers l'intérieur fait croire à l'adversaire qu'un coup de pied direct (*Ap Chagi*) arrive au centre. Sa garde se resserre vers le milieu, laissant ses flancs totalement exposés à la vrille extérieure du *Bituro Chagi*.
 > 2. **Effet d'angle mort :** La trajectoire en arc inversé passe « derrière » les coudes et les avant-bras de la garde adverse, permettant de toucher le visage ou les côtes par-dessus ou autour des bras.
 > 3. **Rupture de rythme :** C'est une technique de vitesse et de surprise très efficace en combat sportif comme en défense de réaction rapide.

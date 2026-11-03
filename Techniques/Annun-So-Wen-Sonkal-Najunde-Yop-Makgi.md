@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Protection des membres inférieurs et déviation d'attaques puissantes :**
+>
 > 1. **Casse ou déflexion de coups de pied bas :** Le tranchant de la main (*Sonkal*) permet d'intercepter un coup de pied direct bas (*Ap Chagi*) ou un coup de pied circulaire bas (*Low Kick / Dolryo Chagi*) visant les cuisses ou le genou.
 > 2. **Effet tranchant percutant :** Si le blocage est exécuté avec suffisamment de fouetté, le *Sonkal* agit comme un couperet contre le tibia ou le nerf péronier de l'agresseur, neutralisant la jambe d'attaque.
 > 3. **Stabilité latérale d'*Annun Sogi* :** La largeur de la posture du cavalier offre un ancrage exceptionnel qui empêche d'être déséquilibré par la puissance d'un coup de pied lourd porté sur le côté.

@@ -24,16 +24,16 @@ Elle se traduit par : **Coup de poing direct retourné (paume vers le haut) du p
 Contrairement au coup de poing direct classique où le poing pivote pour finir paume vers le bas, le *Dwijibo Jirugi* s'effectue en effectuant une rotation inverse ou en conservant la paume vers le haut à l'impact :
 
 1. **L'armement (Préparation) :**
-   * Le poing droit (main d'attaque) part de la hanche droite ou d'une position d'armement en arrière, la paume étant généralement orientée vers le haut ou légèrement inclinée.
-   * Le bras gauche (bras de réaction) s'étend vers l'avant pour mesurer la distance et orienter la ligne d'attaque.
-   * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
+    * Le poing droit (main d'attaque) part de la hanche droite ou d'une position d'armement en arrière, la paume étant généralement orientée vers le haut ou légèrement inclinée.
+    * Le bras gauche (bras de réaction) s'étend vers l'avant pour mesurer la distance et orienter la ligne d'attaque.
+    * L'exécutant amorce la phase ascendante de la vague (*Sine Wave*).
 2. **La trajectoire et la vague :**
-   * Le poing droit s'élance en ligne droite vers la cible (généralement au niveau moyen *Kaunde* ou bas *Najunde*).
-   * Le coude reste frôlant le flanc du corps pour garantir un transfert de force compact et rectiligne.
+    * Le poing droit s'élance en ligne droite vers la cible (généralement au niveau moyen *Kaunde* ou bas *Najunde*).
+    * Le coude reste frôlant le flanc du corps pour garantir un transfert de force compact et rectiligne.
 3. **L'impact retourné (*Dwijibo*) :**
-   * À l'impact, le poing se verrouille fermement avec la **paume orientée vers le haut**.
-   * Les deux gros poings principaux (*Ap Joomuk*) viennent transpercer la cible.
-   * Le bras de réaction est tiré à la hanche opposée (poing fermé, paume vers le haut) pour accentuer la rotation du bassin et le verrouillage des épaules.
+    * À l'impact, le poing se verrouille fermement avec la **paume orientée vers le haut**.
+    * Les deux gros poings principaux (*Ap Joomuk*) viennent transpercer la cible.
+    * Le bras de réaction est tiré à la hanche opposée (poing fermé, paume vers le haut) pour accentuer la rotation du bassin et le verrouillage des épaules.
 
 ---
 

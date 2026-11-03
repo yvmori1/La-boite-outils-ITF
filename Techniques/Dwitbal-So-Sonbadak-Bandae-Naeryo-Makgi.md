@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Engagement des hanches, absorption sans blessure et esquive de distance :**
+>
 > 1. **Puissance de rotation du bras inverse (*Bandae*) :** L'action du bras opposé à la jambe avant sollicite la rotation de la hanche et de la sangle abdominale, donnant beaucoup plus de force au blocage descendant qu'un simple mouvement du bras avant.
 > 2. **Absorption par la surface charnue (*Sonbadak*) :** Permet d'intercepter un coup de pied direct bas (*Ap Chagi*) sans risquer de fracture osseuse au niveau de l'avant-bras ou du poignet.
 > 3. **Distance de sécurité (*Dwitbal Sogi*) :** Le recul de 95% du poids sur la jambe arrière éloigne le buste de la trajectoire agressive de l'adversaire.

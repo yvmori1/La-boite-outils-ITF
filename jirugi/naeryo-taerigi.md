@@ -53,6 +53,7 @@ Le *Naeryo Taerigi* définit une dynamique de frappe descendante qui s'applique 
 ## 3. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Casser la structure osseuse par l'effet de pesanteur :**
+>
 > 1. **Destruction de la clavicule :** Le *Sonkal Naeryo Taerigi* est une attaque dévastatrice sur la clavicule. Briser cet os neutralise immédiatement l'utilisation du bras correspondant chez l'agresseur.
 > 2. **Débordement de garde :** Sa trajectoire de haut en bas permet de franchir une garde horizontale ou axiale pour atteindre directement le visage, le nez ou les épaules.
 > 3. **Puissance cumulée :** En associant la gravité terrestre (redescente lourde du bassin) à l'effet de fouet de l'avant-bras, cette percussion génère une onde de choc particulièrement lourde.

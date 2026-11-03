@@ -18,8 +18,8 @@ Sa décomposition linguistique est la suivante :
 La préparation de la main est critique pour cette technique afin d'éviter les blessures graves :
 
 * **Mise en forme anatomique :**
-  1. Les quatre doigts (de l'index au auriculaire) sont maintenus **fermement joints et légèrement incurvés**.
-  2. Le pouce est **fléchi et verrouillé très fermement contre la paume**, plié au niveau de son articulation pour dégager complètement l'arête osseuse de l'index.
+    1. Les quatre doigts (de l'index au auriculaire) sont maintenus **fermement joints et légèrement incurvés**.
+    2. Le pouce est **fléchi et verrouillé très fermement contre la paume**, plié au niveau de son articulation pour dégager complètement l'arête osseuse de l'index.
 
 * **Surface d'impact :** La zone d'impact se situe sur le côté de la main, entre la base de la première phalange de l'index et la jointure du pouce.
 
@@ -52,6 +52,7 @@ La préparation de la main est critique pour cette technique afin d'éviter les 
 
 > **Déviation subtile et préparation de la saisie :**
 > Le *Sonkal Dung Makgi* offre une grande variété d'enchaînements tactiques :
+>
 > 1. **Absorption et glissement :** La forme arrondie du revers de la main permet de "frapper" l'attaque adverse tout en glissant le long du bras ou de la jambe du partenaire sans encaisser de choc osseux dur.
 > 2. **Saisie immédiate (*Japgi*) :** La main étant ouverte, la transition entre le blocage du revers et la saisie du poignet ou de la cheville de l'agresseur est quasi-instantanée.
 > 3. **Double fonction (Blocage / Frappe) :** Un blocage exécuté avec *Sonkal Dung* au niveau de la tête ou du cou adverse se transforme instantanément en une contre-attaque cinglante au cou ou à la carotide (*Sonkal Dung Taerigi*).

@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe réflexe ultra-rapide et contournement de la garde :**
+>
 > 1. **Vitesse d'exécution exceptionnelle :** L'action en charnière du coude permet au *Dung Joomuk* de sortir beaucoup plus vite qu'un coup de poing direct en piston, idéal pour surprendre un agresseur.
 > 2. **Contournement des blocages frontaux :** En venant du côté (*Yop*), la trajectoire circulaire passe par-dessus ou autour des bras de protection centraux de l'adversaire pour toucher la tempe ou la mâchoire.
 > 3. **Gestion des menaces latérales :** Permet de neutraliser immédiatement une cible surgissant sur votre flanc sans avoir à pivoter complètement tout le corps.

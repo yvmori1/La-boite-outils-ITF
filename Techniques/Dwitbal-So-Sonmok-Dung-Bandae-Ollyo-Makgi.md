@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Déflexion fluide par surface arrondie et esquive de distance :**
+>
 > 1. **Glissement sous l'attaque (*Sonmok Dung*) :** La forme arrondie de l'articulation du poignet permet de s'insérer sous la trajectoire d'un coup de poing ou d'un coup de pied haut et de le dévier vers le haut sans absorber le choc de manière frontale (évitant les contusions os contre os).
 > 2. **Puissance de rotation du bras inverse (*Bandae*) :** L'utilisation du bras opposé engage la hanche et les abdominaux obliques, générant la force verticale nécessaire pour soulever une attaque lourde.
 > 3. **Sécurité arrière et réactivité (*Dwitbal Sogi*) :** Placer 95% de la masse sur le pied arrière met le visage hors de portée du danger tout en gardant la jambe avant complètement libre pour répliquer par un coup de pied instantané.

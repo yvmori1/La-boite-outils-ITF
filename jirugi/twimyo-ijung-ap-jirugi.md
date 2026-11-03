@@ -14,6 +14,7 @@ Sa décomposition linguistique est la suivante :
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct (*Punch*).
 
 > 💡 **Distinction clé (*Ijung* vs *Sang*) :**
+>
 > * **Twimyo Sang Jirugi :** Coup de poing **simultané** des deux bras en sautant (les deux poings frappent en même temps).
 > * **Twimyo Ijung Jirugi :** Coups de poing **consécutifs** en suspension (une première frappe suivie immédiatement d'une seconde pendant la phase de vol).
 
@@ -67,6 +68,7 @@ En l'absence d'appui direct au sol au moment de l'impact, la puissance du *Twimy
 ## 4. Intérêt tactique en combat (*Matsogi*)
 
 > **Rupture de distance et fixation de la garde :**
+>
 > 1. **Dépassement de garde :** Le premier coup de poing aérien force l'adversaire à lever ou fermer sa garde sur la première ligne d'attaque, ce qui crée une ouverture pour fixer le deuxième coup sur la tempe ou le menton.
 > 2. **Franchissement de distance :** Permet de couvrir une grande distance d'attaque face à un adversaire qui recule rapidement.
 

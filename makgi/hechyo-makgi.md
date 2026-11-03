@@ -50,6 +50,7 @@ Le *Hechyo Makgi* s'exécute le plus souvent au niveau moyen (*Kaunde*) ou bas (
 
 > **Casser les saisies doubles et ouvrir la garde :**
 > Le *Hechyo Makgi* est l'une des techniques les plus efficaces du répertoire de Self-Défense (*Hosinsul*) :
+>
 > 1. **Dégagement de saisie à deux mains (*Releasing*) :** Si un agresseur vous saisit le col, les revers du dobok ou la gorge à deux mains, l'action en coin du *Hechyo Makgi* s'insère entre ses deux bras pour faire sauter sa prise immédiatement.
 > 2. **Neutraliser une attaque simultanée :** Permet d'écarter deux frappes ou deux coups de poing arrivant en même temps sur l'axe central.
 > 3. **Ouverture de garde pour contre-attaque :** En écartant violemment les bras de l'adversaire vers l'extérieur, vous découvrez totalement son thorax, son plexus et sa gorge pour y placer un coup de pied frontal (*Ap Chagi*) ou une frappe directe.

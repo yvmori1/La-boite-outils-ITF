@@ -17,15 +17,15 @@ Elle se traduit par : **Coup de pied latéral perçant au niveau haut** (*High S
 ## 2. Exécution et principes biomécaniques
 
 1. **L'armement :**
-   * Le genou de la jambe de frappe monte haut vers la poitrine, le pied armé avec le tranchant extérieur (**Balkal**) orienté vers la cible.
+    * Le genou de la jambe de frappe monte haut vers la poitrine, le pied armé avec le tranchant extérieur (**Balkal**) orienté vers la cible.
 2. **Le pivot et la poussée rectiligne :**
-   * Le pied d'appui pivote à 180° (le talon pointe directement vers la cible).
-   * La jambe se détend en ligne droite vers le côté et le haut, en poussant la hanche et les fessiers.
-   * La jambe d'attaque, le bassin et le buste forment une ligne de force rigide à l'impact.
+    * Le pied d'appui pivote à 180° (le talon pointe directement vers la cible).
+    * La jambe se détend en ligne droite vers le côté et le haut, en poussant la hanche et les fessiers.
+    * La jambe d'attaque, le bassin et le buste forment une ligne de force rigide à l'impact.
 3. **L'impact :**
-   * La frappe est portée avec le tranchant extérieur du pied (**Balkal**) ou le dessous du talon (**Balkal-Dupchi**), les orteils tirés vers le bas et en arrière.
+    * La frappe est portée avec le tranchant extérieur du pied (**Balkal**) ou le dessous du talon (**Balkal-Dupchi**), les orteils tirés vers le bas et en arrière.
 4. **Le réarmement :**
-   * Le genou est vivement ramené à la poitrine avant de reposer le pied.
+    * Le genou est vivement ramené à la poitrine avant de reposer le pied.
 
 ## 3. Applications et cibles
 

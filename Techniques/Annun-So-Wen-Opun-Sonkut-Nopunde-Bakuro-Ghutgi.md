@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque incapacitante instantanée sur cibles molles :**
+>
 > 1. **Cisaillage des yeux (*Eye-gouge / Eye-slash*) :** L'action de coupure *Ghutgi* vers l'extérieur avec *Opun Sonkut* est conçue pour passer à travers la garde de l'adversaire et griffonner ou crever les yeux, neutralisant immédiatement sa vision et sa capacité à combattre.
 > 2. **Attaque de la gorge / carotide :** Si le coup est dirigé sous le menton, il permet d'entailler la zone jugulaire/carotidienne ou d'écraser la trachée en balayage latéral.
 > 3. **Contournement de la garde centrale :** Venir de l'intérieur vers l'extérieur (*Bakuro*) permet de faire sauter ou dévier la main de protection de l'adversaire tout en lui usinant le visage au passage.

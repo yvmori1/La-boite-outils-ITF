@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application (*Tong-Il Tul*)
 
 > **Chasse d'attaque basse et puissance de tirage à la hanche :**
+>
 > 1. **Dévitation circulaire basse :** Le mouvement du dehors vers le dedans (**Anuro**) permet de happer et chasser sur le côté un coup de pied direct (*Ap Chagi*) ou une attaque basse arrivant de face.
 > 2. **Tranchant osseux résistant :** L'utilisation du revers du tranchant (**Sonkal Dung**) offre une arête très dense qui casse la structure de la jambe ou du bras adverse sans exposer les doigts.
 > 3. **Application dans les patrons (*Tul*) :** Cette technique s'exécute notamment dans le patron **Tong-Il Tul** (mouvements 46 et 48), où elle intervient dans une séquence de dégagement et de balayage défensif bas.

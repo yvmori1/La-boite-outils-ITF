@@ -53,10 +53,11 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Pénétration de garde rapprochée :**
+>
 > 1. **Contournement des coudes et avant-bras :** Face à un adversaire dont la garde est serrée au centre, un coup de poing rectiligne classique (*Ap Jirugi*) bute contre les bras. Le *Giokja Jirugi* pénètre sous un angle de 90° pour frapper juste derrière ses avant-bras.
 > 2. **Distinction *Giokja Jirugi* vs *Dollyo Jirugi* (Crochet) :**
->   * **Dollyo Jirugi (Crochet) :** Mouvement circulaire courbe et continu.
->   * **Giokja Jirugi (Angle punch) :** Trajectoire géométrique d'équerre, verrouillée avec une structure de bras rigide à 90°.
+>     * **Dollyo Jirugi (Crochet) :** Mouvement circulaire courbe et continu.
+>     * **Giokja Jirugi (Angle punch) :** Trajectoire géométrique d'équerre, verrouillée avec une structure de bras rigide à 90°.
 > 3. **Force de rotation compacte :** L'ancrage large en posture du cavalier (*Annun Sogi*) permet de transférer toute l'énergie de la ceinture scapulaire dans une frappe ultra-compacte à courte distance.
 
 ---

@@ -25,24 +25,24 @@ Elle se traduit par : **Blocage au niveau haut au double avant-bras en position 
 Cette technique utilise la structure de renfort du double avant-bras pour créer un bouclier capable d'absorber des chocs très violents tout en maintenant un ancrage compact au sol :
 
 1. **La position des jambes (*Orun Kyocha Sogi*) :**
-   * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
-   * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour stabiliser la posture.
-   * Les deux genoux sont fléchis et pressés l'un contre l'autre.
+    * Le pied droit croise devant le pied gauche et se pose fermement à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
+    * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour stabiliser la posture.
+    * Les deux genoux sont fléchis et pressés l'un contre l'autre.
 2. **L'armement (Préparation) :**
-   * Les deux poings se ferment. Les bras se croisent près de la hanche ou de la poitrine opposée, les paumes tournées vers soi.
-   * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*) pendant le déplacement croisé.
+    * Les deux poings se ferment. Les bras se croisent près de la hanche ou de la poitrine opposée, les paumes tournées vers soi.
+    * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*) pendant le déplacement croisé.
 3. **La trajectoire et le blocage renforcé (*Doo Palmok Makgi*) :**
-   * En redescendant brusquement dans la posture croisée, le bras d'attaque principal monte pour effectuer un blocage du tranchant externe de l'avant-bras au niveau des yeux/de la tête (**Nopunde**).
-   * Le poing du second bras (bras de renfort) vient se placer à quelques centimètres de l'intérieur du coude du bras principal, la paume tournée vers l'extérieur ou vers soi, verrouillant ainsi la structure de l'avant-bras.
-   * Les deux poignets et les épaules se verrouillent simultanément à l'impact en synchronisation avec la descente du bassin.
+    * En redescendant brusquement dans la posture croisée, le bras d'attaque principal monte pour effectuer un blocage du tranchant externe de l'avant-bras au niveau des yeux/de la tête (**Nopunde**).
+    * Le poing du second bras (bras de renfort) vient se placer à quelques centimètres de l'intérieur du coude du bras principal, la paume tournée vers l'extérieur ou vers soi, verrouillant ainsi la structure de l'avant-bras.
+    * Les deux poignets et les épaules se verrouillent simultanément à l'impact en synchronisation avec la descente du bassin.
 
 ---
 
 ## 3. Applications et cibles
 
 * **Attaques neutralisées :**
-  * Coups de pied circulaires hauts (*Dollyo Chagi*), coups de pied descendants (*Naeryo Chagi*) ou coups de poing puissants visant le visage.
-  * Attaques avec armes de frappe (comme un bâton) visant la tête.
+    * Coups de pied circulaires hauts (*Dollyo Chagi*), coups de pied descendants (*Naeryo Chagi*) ou coups de poing puissants visant le visage.
+    * Attaques avec armes de frappe (comme un bâton) visant la tête.
 * **Principe de renfort :** La structure *Doo Palmok* multiplie la résistance du blocage en empêchant le bras principal de céder ou de plier sous la puissance d'une attaque lourde.
 * **Formes (*Tuls*) :** On retrouve cette combinaison de blocage renforcé en position croisée dans plusieurs formes intermédiaires et avancées de l'ITF.
 

@@ -50,6 +50,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Application dans les patrons (*Tul*)
 
 > **Puissance brute à courte portée et Self-Défense (*Hosinsul*) :**
+>
 > 1. **Arme de corps-à-corps (*Infighting*) :** Lorsque la distance est trop courte pour étendre la jambe (pour un *Ap Chagi* ou *Dollyo Chagi*), le coup de genou est l'attaque de jambe la plus rapide et la plus puissante.
 > 2. **Effet de cisaillement avec la saisie :** Combiner la traction de l'adversaire vers le bas avec la montée explosive du genou multiplie la force d'impact par deux (rencontre de deux masses en sens opposé).
 > 3. **Présence dans les patrons (*Tul*) :** On retrouve le coup de genou ascendant dans plusieurs patrons du Taekwon-Do ITF, notamment dans **Choong-Moo Tul** (mouvement 29, où le coup de genou s'exécute après une saisie de la tête) ou **Juche Tul**.

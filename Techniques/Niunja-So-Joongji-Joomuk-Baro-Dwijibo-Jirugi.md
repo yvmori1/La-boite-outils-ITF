@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Glisser sous la garde et percer les tissus mous :**
+>
 > 1. **Infiltration sous la garde (*Dwijibo*) :** En orientant la paume vers le haut, le poing passe plus facilement sous la garde fermée de l'adversaire ou sous sa cage thoracique.
 > 2. **Effet de pointe (*Joongji Joomuk*) :** Frapper avec la saillie du majeur permet de concentrer la force sur une surface très réduite, traversant les abdominaux pour toucher l'estomac, le foie ou le plexus solaire.
 > 3. **Puissance de hanche (*Baro*) :** Engager le bras de la jambe arrière permet d'injecter la rotation du bassin dans la trajectoire ascendante.

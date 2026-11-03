@@ -26,18 +26,18 @@ Elle se traduit par : **Frappe descendante directe du revers du poing en positio
 Cette technique associe l'utilisation de la gravité à la détente fustigeante du coude, soutenue par l'ancrage solide de la position croisée :
 
 1. **La position des jambes (*Orun Kyocha Sogi*) :**
-   * Le pied droit croise devant le pied gauche et se pose à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
-   * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la Stabilité.
-   * Les genoux sont fléchis et fortement pressés l'un contre l'autre.
+    * Le pied droit croise devant le pied gauche et se pose à plat au sol, supportant environ **85 % à 90 %** du poids du corps.
+    * La plante du pied gauche (*Balsadok*) touche légèrement le sol juste derrière le talon droit pour assurer la Stabilité.
+    * Les genoux sont fléchis et fortement pressés l'un contre l'autre.
 2. **L'armement (Préparation) :**
-   * Le poing droit (main d'attaque **Baro**) monte haut, près de la tête ou au-dessus de l'épaule opposée, le coude fléchi pour emmagasiner un maximum d'énergie potentielle.
-   * Le bras de réaction (bras gauche) s'étend vers l'avant/bas pour guider l'axe de frappe.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le croisement des pieds.
+    * Le poing droit (main d'attaque **Baro**) monte haut, près de la tête ou au-dessus de l'épaule opposée, le coude fléchi pour emmagasiner un maximum d'énergie potentielle.
+    * Le bras de réaction (bras gauche) s'étend vers l'avant/bas pour guider l'axe de frappe.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*) pendant le croisement des pieds.
 3. **La trajectoire descendante (*Naeryo Taerigi*) :**
-   * En redescendant brusquement dans la posture croisée, le poing droit descend brutalement selon un arc vertical de haut en bas.
-   * L'avant-bras se détend de manière fustigeante depuis le coude pour impacter la cible par le dessus.
-   * À l'impact, le poignet verrouille la surface du revers du poing (**Dung Joomuk**).
-   * Le poing gauche (bras de réaction) est ramené vivement à la hanche gauche.
+    * En redescendant brusquement dans la posture croisée, le poing droit descend brutalement selon un arc vertical de haut en bas.
+    * L'avant-bras se détend de manière fustigeante depuis le coude pour impacter la cible par le dessus.
+    * À l'impact, le poignet verrouille la surface du revers du poing (**Dung Joomuk**).
+    * Le poing gauche (bras de réaction) est ramené vivement à la hanche gauche.
 
 ---
 

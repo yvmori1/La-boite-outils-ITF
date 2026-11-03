@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **La frappe d'isolation et de puissance par excellence :**
+>
 > 1. **Développement de la force de réaction (*Bandae Son*) :** C'est l'exercice de base universel du TaeKwon-Do (souvent pratiqué en séries répétées en *Annun Sogi*). Le tirage puissant du bras droit vers l'arrière décuple la vitesse de sortie du poing gauche.
 > 2. **Pénétration sur l'axe central :** Le mouvement de piston vise directement le plexus solaire, une zone dépourvue de protection osseuse où l'onde de choc provoque une asphyxie temporaire ou un k.-o.
 > 3. **Stabilité d'ancrage absolue :** La posture du cavalier fournit la base la plus large et la plus stable du répertoire, annulant tout effet de recul lors d'un choc frontal lourd.

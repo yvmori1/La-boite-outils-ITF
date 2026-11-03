@@ -40,8 +40,8 @@ Sa décomposition linguistique est la suivante :
 
 1. **Détente parallèle :** Les deux poings s'élancent simultanément en piston rectiligne vers l'avant.
 2. **Alignement vertical :**
-   * Le poing supérieur monte sur la ligne du visage.
-   * Le poing inférieur s'avance sur la ligne du plexus / de l'abdomen.
+    * Le poing supérieur monte sur la ligne du visage.
+    * Le poing inférieur s'avance sur la ligne du plexus / de l'abdomen.
 3. **Chute de masse :** Redescente lourde du bassin en scellant la flexion des deux genoux pour transférer toute la masse corporelle dans la double frappe.
 
 ### Étape 3 : L'Impact et la Vrille Synchronisée (*Snap*)
@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque double multiniveau et saturation de la garde :**
+>
 > 1. **Dilemma défensif pour l'adversaire :** En frappant simultanément au visage (*Nopunde*) et à l'abdomen (*Kaunde*), le *Digutja Jirugi* empêche l'adversaire de bloquer les deux attaques avec une seule main ou un seul blocage conventionnel.
 > 2. **Stabilité d'ancrage (*Gojung Sogi*) :** La répartition 50/50 sur une position large de 1,5 largeur d'épaules offre une base de frappe ultra-stable, idéale pour absorber la force de réaction d'un coup double sans reculer.
 > 3. **Puissance de pénétration maximale :** L'engagement de la masse du corps combiné à la double vrille des poings génère une onde de choc lourde capable de briser la garde centrale d'un agresseur.

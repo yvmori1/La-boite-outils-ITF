@@ -19,9 +19,9 @@ Le **Homi Sonkut Tulgi** est une attaque de précision chirurgicale dans laquell
 Pour réussir cette arme naturelle (*Jook Bang*) très spécifique sans se blesser :
 
 * **Mise en forme anatomique (*Homi Sonkut*) :**
-  1. Les quatre doigts (de l'index à l'auriculaire) sont **serrés les uns contre les autres** et fléchis fermement au niveau de leurs deuxièmes et troisièmes articulations (interphalangiennes).
-  2. Cette flexion crée une structure rigide en "crochet" ou en "griffe d'angle".
-  3. Le pouce est **fléchi et verrouillé fermement contre le côté de la paume**.
+    1. Les quatre doigts (de l'index à l'auriculaire) sont **serrés les uns contre les autres** et fléchis fermement au niveau de leurs deuxièmes et troisièmes articulations (interphalangiennes).
+    2. Cette flexion crée une structure rigide en "crochet" ou en "griffe d'angle".
+    3. Le pouce est **fléchi et verrouillé fermement contre le côté de la paume**.
 
 * **Surface d'impact :** Le contact s'effectue avec la pointe rigide des quatre doigts ainsi incurvés.
 
@@ -54,6 +54,7 @@ Pour réussir cette arme naturelle (*Jook Bang*) très spécifique sans se bless
 
 > **Atteindre les cavités et les points vitaux cachés :**
 > Le *Homi Sonkut Tulgi* est une technique de Self-Défense (*Hosinsul*) exclusivement réservée aux cibles molles (*Soft targets*) :
+>
 > 1. **Les cavités orbitales / Yeux (*An-gu*) :** La forme en houe permet de passer sous l'arcade sourcilière pour percuter les yeux.
 > 2. **Le creux sous-mandibulaire / Gorge :** Piquer sous le menton ou dans la fossette jugulaire (au-dessus du sternum) pour provoquer un étouffement immédiat.
 > 3. **Le plexus solaire (*Myongchi*) et les côtes flottantes :** Utilisé en infiltration sous le rebord costal.

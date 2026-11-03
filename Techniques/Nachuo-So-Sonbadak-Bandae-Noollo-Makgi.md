@@ -25,17 +25,17 @@ Elle se traduit par : **Blocage pressant inversé avec la paume de la main en po
 Cette technique utilise la gravité et l'ancrage profond de la position basse pour écraser une attaque venant du bas :
 
 1. **La position des jambes (*Nachuo Sogi*) :**
-   * Semblable à la position en marche (*Gunnun Sogi*), mais **allongée d'une longueur de pied supplémentaire**, ce qui abaisse fortement le centre de gravité.
-   * Le poids du corps est réparti équitablement (**50 % / 50 %**).
-   * La jambe arrière est complètement tendue, la jambe avant est fléchie, le genou aplombant le talon.
+    * Semblable à la position en marche (*Gunnun Sogi*), mais **allongée d'une longueur de pied supplémentaire**, ce qui abaisse fortement le centre de gravité.
+    * Le poids du corps est réparti équitablement (**50 % / 50 %**).
+    * La jambe arrière est complètement tendue, la jambe avant est fléchie, le genou aplombant le talon.
 2. **L'armement (Préparation) :**
-   * La main de blocage (**main opposée au pied avant**, en raison du terme *Bandae*) s'ouvre et monte près de la poitrine ou de l'épaule opposée, paume orientée vers soi ou le haut.
-   * Le bras de réaction s'étend vers l'avant pour équilibrer la posture et guider la trajectoire.
-   * L'exécutant réalise la phase ascendante de la vague (*Sine Wave*).
+    * La main de blocage (**main opposée au pied avant**, en raison du terme *Bandae*) s'ouvre et monte près de la poitrine ou de l'épaule opposée, paume orientée vers soi ou le haut.
+    * Le bras de réaction s'étend vers l'avant pour équilibrer la posture et guider la trajectoire.
+    * L'exécutant réalise la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et la pression descendante (*Noollo Makgi*) :**
-   * En s'enfonçant profondément dans la position basse, la main descend lourdement vers le niveau bas (**Najunde**).
-   * La paume (*Sonbadak*) vient appuyer et écraser l'attaque adverse vers le sol.
-   * Le bras de réaction est ramené à la hanche opposée (poing fermé, paume vers le haut), verrouillant les hanches et maximisant la stabilité du buste.
+    * En s'enfonçant profondément dans la position basse, la main descend lourdement vers le niveau bas (**Najunde**).
+    * La paume (*Sonbadak*) vient appuyer et écraser l'attaque adverse vers le sol.
+    * Le bras de réaction est ramené à la hanche opposée (poing fermé, paume vers le haut), verrouillant les hanches et maximisant la stabilité du buste.
 
 ---
 

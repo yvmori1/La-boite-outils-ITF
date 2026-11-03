@@ -34,11 +34,11 @@ Le blocage s'exécute en profil de trois-quarts (*Half-facing*), protégeant le 
 Le terme *Sang* (double) indique que les deux bras travaillent ensemble dans une action coordonnée à deux hauteurs différentes :
 
 1. **Le bras haut (niveau *Nopunde*) :**
-   * Placé au-dessus de la tête et sur le côté (au niveau de la tempe/oreille).
-   * L'avant-bras externe (**Bakat Palmok**) est incliné pour faire glisser les attaques descendantes ou circulaires visant le visage et la tête.
+    * Placé au-dessus de la tête et sur le côté (au niveau de la tempe/oreille).
+    * L'avant-bras externe (**Bakat Palmok**) est incliné pour faire glisser les attaques descendantes ou circulaires visant le visage et la tête.
 2. **Le bras moyen (niveau *Kaunde*) :**
-   * Placé en travers du thorax/plexus solaire.
-   * L'avant-bras est fléchi horizontalement (à environ 90° à 110°) pour protéger les côtes flottantes, l'estomac et le thorax.
+    * Placé en travers du thorax/plexus solaire.
+    * L'avant-bras est fléchi horizontalement (à environ 90° à 110°) pour protéger les côtes flottantes, l'estomac et le thorax.
 
 ---
 
@@ -66,6 +66,7 @@ Le terme *Sang* (double) indique que les deux bras travaillent ensemble dans une
 
 > **Bouclier bilatéral à deux étages :**
 > Le *Sang Palmok Makgi* est spécialement conçu pour les situations de combat chaotiques ou face à des attaques à trajectoires multiples :
+>
 > 1. **Protection contre attaques simultanées :** Permet de bloquer en même temps un coup de poing au visage (*Nopunde Jirugi*) et un coup de pied au corps (*Kaunde Chagi*).
 > 2. **Absorption de frappes lourdes :** En engageant la structure des deux bras et des deux épaules, cette technique offre une résistance supérieure face à des coups de batte, de bâton ou des coups de pied circulaires puissants (*Dollyo Chagi*).
 > 3. **Préparation de riposte rapide :** Grâce à l'ancrage 70/30 de la posture *Niunja Sogi*, la jambe avant (30%) est immédiatement disponible pour envoyer un coup de pied direct ou de côté dès le blocage verrouillé.

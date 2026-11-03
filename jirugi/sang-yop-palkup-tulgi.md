@@ -51,6 +51,7 @@ Cette technique s'exécute le plus souvent en **Annun Sogi** (posture du cavalie
 ## 3. Intérêt tactique en Self-Défense (*Hosinsul*)
 
 > **Libération de saisie et attaque dans les angles morts :**
+>
 > 1. **Gestion de deux agresseurs simultanés :** Conçu pour impacter en même temps deux adversaires placés sur vos flancs à très courte portée.
 > 2. **Rupture d'encerclement par l'arrière :** Particulièrement efficace lorsqu'un agresseur vous ceinture ou vous agrippe par derrière, en enfonçant les deux coudes dans ses côtes flottantes ou son plexus.
 > 3. **Force de réaction opposée :** La poussée simultanée vers la gauche et la droite crée un équilibre parfait des forces de réaction, maximisant la stabilité du buste.

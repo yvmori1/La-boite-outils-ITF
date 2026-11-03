@@ -30,9 +30,9 @@ En TaeKwon-Do ITF, le terme *Sasun* qualifie l'orientation de la trajectoire. Il
 * **Angle d'attaque :** La trajectoire coupe l'espace selon un angle d'environ **45°**.
 * **Moteur du mouvement :** La frappe naît d'une combinaison entre la Torsion des hanches (*Heori Torsion*) et un fouetté de l'épaule/du coude qui descend ou monte en diagonale en travers du corps.
 * **Cibles prioritaires :**
-  1. La **clavicule** (*Gyeongjo*) : Pour briser l'ossature de l'épaule adverse.
-  2. La **carotide / le côté du cou** (*Mok*) : Pour cibler les structures vasculaires et nerveuses.
-  3. L'**articulation de la mâchoire** ou la **tempe**.
+    1. La **clavicule** (*Gyeongjo*) : Pour briser l'ossature de l'épaule adverse.
+    2. La **carotide / le côté du cou** (*Mok*) : Pour cibler les structures vasculaires et nerveuses.
+    3. L'**articulation de la mâchoire** ou la **tempe**.
 
 ---
 
@@ -60,6 +60,7 @@ En TaeKwon-Do ITF, le terme *Sasun* qualifie l'orientation de la trajectoire. Il
 ## 4. Intérêt tactique en combat (*Matsogi*) et Self-Défense (*Hosinsul*)
 
 > **Contourner les gardes verticales et briser la structure :**
+>
 > 1. **Pénétration au-dessus des bras :** Une garde classique protège bien contre les attaques purement horizontales ou directes. La trajectoire en diagonale (*Sasun*) passe par-dessus l'avant-bras adverse pour venir impacter directement le cou ou la clavicule.
 > 2. **Effet de cisaillement :** Frapper la clavicule de haut en bas en diagonale génère une contrainte mécanique maximale sur l'os, capable de neutraliser immédiatement le bras de l'agresseur.
 > 3. **Puissance combinée de la pesanteur :** En associant la redescente du mouvement de vague (*Sine Wave*) à la trajectoire descendante oblique, la force d'impact est démultipliée par la masse du corps.

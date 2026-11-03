@@ -52,6 +52,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Pénétration sur le plan horizontal et stabilité d'impact :**
+>
 > 1. **Maintien du plan de force :** La trajectoire horizontale (*Soopyong*) permet de frapper en conservant l'alignement biomécanique des épaules et du coude, maximisant la transmission d'énergie sans déviation verticale.
 > 2. **Contournement / Passage sous la garde :** L'alignement horizontal permet de glisser le poing entre les bras de l'adversaire ou sous une garde surélevée pour impacter directement le thorax ou les côtes.
 > 3. **Ancrage inébranlable :** La posture *Annun Sogi* offre une base latérale très large qui absorbe la force de recul lors de l'impact, garantissant un contrôle total de la posture.

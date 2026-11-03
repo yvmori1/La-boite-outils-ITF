@@ -47,6 +47,7 @@ Le **Golcho Sonbadak Makgi** est le parfait exemple du principe de déviation do
 
 > **Le roi des préparations à la contre-attaque :**
 > Le *Golcho Sonbadak Makgi* est rarement exécuté seul : il sert de **passerelle immédiate vers une riposte décisive**.
+>
 > 1. **Déséquilibre de l'attaquant :** En déviant un coup de poing direct (*Ap Jirugi*) avec le *Golcho Makgi*, l'adversaire est entraîné vers l'avant par son propre poids et perd son axe de gravité.
 > 2. **Ouverture de garde :** La déviation crée un couloir direct vers les points vitaux découverts de l'adversaire (plexus, gorge, visage), permettant d'enchaîner instantanément une contre-attaque en coup de poing (*Ap Jirugi*) ou en pique de doigts (*Sonkut Tulgi*).
 

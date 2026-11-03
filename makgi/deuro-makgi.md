@@ -57,6 +57,7 @@ Le *Deuro Makgi* s'adapte à l'outil employé pour passer sous la frappe adverse
 
 > **Rupture d'équilibre et ouverture de la garde :**
 > Le *Deuro Makgi* est l'une des techniques de contrôle d'axe les plus redoutables :
+>
 > 1. **Déstabilisation par soulèvement :** En soulevant le bras de l'adversaire vers le haut, vous détruisez sa posture, élevez son centre de gravité et le mettez sur les talons.
 > 2. **Découverte totale des points vitaux :** Monter le bras de l'agresseur au-dessus de ses épaules libère entièrement l'accès à son plexus solaire, ses côtes flottantes et son bas-ventre pour un coup de poing ou de pied direct.
 > 3. **Contre sur coup de pied :** Utilisé sous un coup de pied frontal (*Ap Chagi*), le *Deuro Makgi* lève le pied de l'adversaire au-dessus de son bassin, provoquant sa chute immédiate vers l'arrière.

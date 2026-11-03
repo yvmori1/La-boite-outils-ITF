@@ -53,6 +53,7 @@ Là où les blocages avec les avant-bras (*Palmok*) ou les tranchants (*Sonkal*)
 
 > **L'amortisseur de force et de poussée :**
 > Le *Doo Sonbadak Makgi* est l'une des techniques les plus sûres en self-défense :
+>
 > 1. **Protection contre la masse :** Permet d'arrêter un adversaire beaucoup plus lourd en utilisant la surface maximale des deux paumes combinée à la structure des deux bras.
 > 2. **Destabilisation par poussée :** En appuyant fermement sur la jambe ou le torse de l'attaquant au moment de son avancée, vous ruinez complètement son équilibre et sa trajectoire.
 > 3. **Prévention des blessures :** Idéal contre des coups de pied d'une extrême puissance (comme un coup de pied frontal lourd) où un blocage d'avant-bras simple risquerait de casser le rayon ou l'ulna.

@@ -49,6 +49,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Contournement de garde et impact vertical à haute pénétration :**
+>
 > 1. **Dépassement des gardes hermétiques :** Lorsque l'adversaire maintient une garde haute et serrée qui bloque les coups directs (*Ap Chagi*) ou circulaires (*Dollyo Chagi*), le *Gokaeng-I Chagi* passe par-dessus ses bras pour impacter depuis son angle mort supérieur.
 > 2. **Destruction des structures osseuses (Clavicule) :** Un coup de talon projeté verticalement sur la clavicule adverse peut la fracturer net ou provoquer une paralysie temporaire du bras.
 > 3. **Effet de surprise psychologique :** La trajectoire montante puis crochetée est difficile à anticiper et à esquiver latéralement.

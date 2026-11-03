@@ -55,6 +55,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Frappe de brise-structure, effet de masse gravitationnelle et dégagement de garde :**
+>
 > 1. **Exploitation de la gravité :** En abattant le tranchant du poing (**Yop Joomuk**) depuis une posture haute (*Soojik Sogi*), la force de frappe accumule l'énergie de pesanteur pour casser une clavicule ou neutraliser la tête de l'agresseur.
 > 2. **Destruction de la garde adverse :** Idéal pour frapper lourdement sur l'avant-bras ou la garde d'un adversaire afin de rabattre ses bras et créer une ouverture immédiate.
 > 3. **Posture rapprochée et élevée :** La posture *Soojik Sogi* (jambes quasi tendues) permet d'opérer à une distance relativement courte tout en conservant une hauteur dominante sur l'agresseur.

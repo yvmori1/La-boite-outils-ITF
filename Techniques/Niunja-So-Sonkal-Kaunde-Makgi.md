@@ -53,6 +53,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Dévitation fluide, casse-structure et transition rapide :**
+>
 > 1. **Absorption et dévitation :** Utiliser le tranchant de la main (**Sonkal**) permet de dévier les coups de poing ou de pied moyens sans opposer une résistance osseuse directe et violente, minimisant les risques de blessure.
 > 2. **Tranchant comme arme offensive :** En frappant l'avant-bras de l'adversaire avec la tranche osseuse de la main, le blocage fait mal et affaiblit le membre attaquant.
 > 3. **Distinction avec le blocage de garde (*Daebi Makgi*) :** Contrairement au *Sonkal Daebi Makgi* où la seconde main protège le thorax, ici la main arrière est tirée à la hanche (*Heori*), ce qui maximise la force de rotation et prépare une contre-attaque explosive à un seul bras.

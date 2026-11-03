@@ -54,6 +54,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Attaque chirurgicale et gain de portée :**
+>
 > 1. **Pénétration des points vitaux (*Epigastrium*) :** Contrairement à un coup de poing fermé (*Ap Joomuk*) qui répartit la force sur une grande surface osseuse, la pique *Sonkut* concentre toute la force cinétique sur une surface très réduite, traversant les abdominaux pour s'enfoncer dans le plexus solaire.
 > 2. **Gain de portée (*Reach*) :** La main ouverte allongée offre quelques centimètres de portée supplémentaires par rapport à un poing fermé, permettant d'atteindre la cible sans s'exposer exagérément.
 > 3. **Stabilité d'ancrage :** La posture *Annun Sogi* fournit la plateforme large nécessaire pour encaisser la résistance osseuse de l'adversaire sans risquer de fléchir le poignet ou les doigts.

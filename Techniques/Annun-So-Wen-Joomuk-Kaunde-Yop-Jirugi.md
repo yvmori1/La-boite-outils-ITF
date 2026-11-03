@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 ## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
 
 > **Puissance maximale sur l'axe latéral sans changement de posture :**
+>
 > 1. **Exploitation du plan de force d'*Annun Sogi* :** La posture du cavalier étant naturellement large sur le plan latéral, elle offre une résistance mécanique exceptionnelle contre le recul lors d'un coup de poing porté sur le côté (*Yop Jirugi*).
 > 2. **Cibles vulnérables du flanc :** Frapper sur le côté au niveau moyen (*Kaunde*) permet de cibler les **côtes flottantes**, le **foie** (si l'adversaire est de face) ou le **plexus solaire latéral**, provoquant de graves lésions ou un k.-o. immédiat.
 > 3. **Gestion des menaces multiples :** Permet d'attaquer avec force un adversaire sur votre flanc tout en maintenant le corps prêt à faire face à une menace venant de l'avant.

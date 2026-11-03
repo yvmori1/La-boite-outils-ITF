@@ -26,17 +26,17 @@ Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position pied 
 Cette technique associe la légèreté de la posture *Dwitbal Sogi* à la solidité d'une garde fermée aux avant-bras :
 
 1. **La position des jambes (*Orun Dwitbal Sogi*) :**
-   * Le pied droit est placé à l'arrière, orienté à environ 15° vers l'extérieur, et supporte **95 % du poids du corps**.
-   * Le pied gauche est à l'avant, le talon levé du sol, s'appuyant très légèrement sur la plante du pied (*Ap Chook*) avec seulement **5 % du poids**.
-   * La distance entre les pieds est courte (environ une largeur d'épaule entre le gros orteil arrière et le pied avant), permettant un retrait de corps rapide.
+    * Le pied droit est placé à l'arrière, orienté à environ 15° vers l'extérieur, et supporte **95 % du poids du corps**.
+    * Le pied gauche est à l'avant, le talon levé du sol, s'appuyant très légèrement sur la plante du pied (*Ap Chook*) avec seulement **5 % du poids**.
+    * La distance entre les pieds est courte (environ une largeur d'épaule entre le gros orteil arrière et le pied avant), permettant un retrait de corps rapide.
 2. **L'armement (Préparation) :**
-   * Les deux mains se ferment en poings (*Palmok*).
-   * Les bras sont ramenés vers l'arrière du corps près de la hanche/épaule arrière, paumes tournées vers soi ou l'une vers l'autre.
-   * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
+    * Les deux mains se ferment en poings (*Palmok*).
+    * Les bras sont ramenés vers l'arrière du corps près de la hanche/épaule arrière, paumes tournées vers soi ou l'une vers l'autre.
+    * L'exécutant passe par la phase ascendante de la vague (*Sine Wave*).
 3. **La trajectoire et l'impact (*Kaunde Daebi Makgi*) :**
-   * En redescendant dans la vague, le bras avant s'élance vers l'avant, le coude conservant un angle d'environ 110° à 120° à la hauteur du niveau moyen (**Kaunde**).
-   * Le poing arrière (main de garde) vient se placer à quelques centimètres devant le plexus solaire pour protéger le centre du buste.
-   * Les poignets se verrouillent au moment précis de la stabilisation en position *Dwitbal Sogi*.
+    * En redescendant dans la vague, le bras avant s'élance vers l'avant, le coude conservant un angle d'environ 110° à 120° à la hauteur du niveau moyen (**Kaunde**).
+    * Le poing arrière (main de garde) vient se placer à quelques centimètres devant le plexus solaire pour protéger le centre du buste.
+    * Les poignets se verrouillent au moment précis de la stabilisation en position *Dwitbal Sogi*.
 
 ---
 
