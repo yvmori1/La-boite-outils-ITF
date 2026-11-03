@@ -70,6 +70,8 @@ pied gauche et on attaque de la main ou du pied droit, à de rares exceptions
 près. La prise de mesure qui précède chaque exercice, avec les repères de pieds
 au sol pour chaque niveau de cible, est décrite dans
 [La prise de mesure](prise-de-mesure.md).
+Les combats arrangés numérotés du programme, grade par grade, sont détaillés
+dans [Combats arrangés par grade](../Ceintures/Combats-arranges/README.md).
 
 ### Combat à trois pas (Sambo Matsogi — [삼보 맞서기](../audio/combats/Sambo-Matsogi.m4a))
 

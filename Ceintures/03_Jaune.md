@@ -17,6 +17,7 @@ Ceinture Jaune (8e Gup)
 * **Système de combat :**
   * Combat sur 3 pas relatif à *Dan-Gun* (ou *Chon-Ji* pour adultes).
   * Combats arrangés #2 et #3 (3 pas de *Dan-Gun*).
+  * Déroulement détaillé : [combats arrangés du 8e Gup](Combats-arranges/02_8e-Gup.md).
 * **Combat sportif :**
   * Déplacements avancés,
   * Coup de poing sauté,

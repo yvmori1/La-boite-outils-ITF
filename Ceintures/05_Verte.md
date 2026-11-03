@@ -19,6 +19,7 @@ Ceinture Verte (6e Gup)
 * **Système de combat :**
   * Combat arrangé #6 (2 pas de *Won-Hyo*)
   * Combat arrangé #7 (1 pas de *Won-Hyo*).
+  * Déroulement détaillé : [combats arrangés du 6e Gup](Combats-arranges/04_6e-Gup.md).
 * **Combat sportif :**
   * Coup de pied crocheté arrière
   * Switch-circulaire en reculant

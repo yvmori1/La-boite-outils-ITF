@@ -23,6 +23,7 @@ CEINTURE NOIRE — 3e Degré (Dan)
   * Révision complète de *Chon-Ji* à *Juche*.
 * **Combats arrangés :**
   * Combat semi-libre d'une durée continue de 50 secondes.
+  * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
 * **Combat :**
   * Combat sportif.
 * **Autodéfense (Hosinsul) :**
