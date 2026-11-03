@@ -48,6 +48,10 @@ plugins:
       lang: fr
   # Lit docs/.pages pour l'ordre et les titres des sections du menu.
   - awesome-pages
+  # Garde valides les anciennes adresses des pages déplacées.
+  - redirects:
+      redirect_maps:
+        Theorie/Combats.md: Combat/arbitrage.md
 
 markdown_extensions:
   - abbr

@@ -22,7 +22,7 @@ Le général Choi compare la progression de l'adepte à l'instruction militaire 
 | Mouvements fondamentaux | Formation de base du soldat | [chagi](../chagi/README.md), [makgi](../makgi/README.md), [jirugi](../jirugi/README.md) |
 | *Dallyon* (conditionnement) | Entretien de l'équipement | [La casse](kyokpa.md#le-conditionnement-dallyon) |
 | Formes (*Tul*) | Tactique de section | [tul](../tul/README.md) |
-| Combat (*Matsogi*) | Exercices sur le terrain en conditions simulées | [Les systèmes de combat](systemes-de-combat.md), [Le combat libre](combat-libre.md) |
+| Combat (*Matsogi*) | Exercices sur le terrain en conditions simulées | [Les systèmes de combat](systemes-de-combat.md), [La prise de mesure](prise-de-mesure.md), [Le combat libre](combat-libre.md), [Règlement et arbitrage](arbitrage.md) |
 | Autodéfense (*Hosinsul*) | Combat réel | [L'autodéfense](hosinsul.md) |
 
 La forme est un combat contre des adversaires imaginaires ; le combat est
@@ -38,7 +38,9 @@ cesse aux mouvements de base, même au plus haut niveau.
 | Page | Contenu |
 | :--- | :--- |
 | [Les systèmes de combat](systemes-de-combat.md) | Combat préarrangé à 3, 2 et 1 pas, semi-libre, combat de pieds, combat modèle, combat libre préarrangé ; principes de base et type de combat par grade |
+| [La prise de mesure](prise-de-mesure.md) | *Gori Jajil* : alignement, mesure à 3, 2 et 1 pas, repères de pieds au sol, signal de préparation, critères d'évaluation |
 | [Le combat libre](combat-libre.md) | *Jayu Matsogi* : définition, règle du contrôle, les onze conseils du général Choi, compétition |
+| [Règlement et arbitrage](arbitrage.md) | Commandements de l'arbitre, système de points, pénalités, gestuelle de l'arbitre central |
 | [L'autodéfense](hosinsul.md) | *Hosinsul* : principes, dégagements de saisies, attaques soudaines, chutes et projections, défense contre une arme, programme de la FQTI |
 | [Les points vitaux](points-vitaux.md) | *Kupso* : les trois niveaux du corps et les 49 points vitaux de l'*Encyclopédie* |
 | [La casse](kyokpa.md) | *Kyokpa* : raison d'être, honnêteté, théorie de la puissance, matériel, techniques spéciales, sécurité |
@@ -48,7 +50,6 @@ cesse aux mouvements de base, même au plus haut niveau.
 
 ## Voir aussi
 
-* [../Theorie/Combats.md](../Theorie/Combats.md) — prise de mesure (*Gori Jajil*), commandements, barème des points, pénalités et gestuelle de l'arbitre.
 * [Partie VII du manuel](../Theorie/manuel-taekwon-do.md#partie-vii--lautodéfense-hosinsul) — le programme d'autodéfense de la FQTI, technique par technique.
 * [Partie II du manuel](../Theorie/manuel-taekwon-do.md#partie-ii--les-principes-physiques) — la théorie de la puissance, qui explique la casse.
 * [../Theorie/programme-session.md](../Theorie/programme-session.md) — exercices de combat sportif semaine par semaine.
@@ -58,4 +59,5 @@ cesse aux mouvements de base, même au plus haut niveau.
 * Général Choi Hong Hi, *Condensed Encyclopedia of Taekwon-Do*, 1999 — chapitres *Sparring*, *Self-Defence Techniques*, *Vital Spots*, *Training Aids*, *Competition* et *Samples of Breaking Techniques*.
 * *Notes de Taekwon-Do ITF*, 2011, partie 6 — programme d'autodéfense de la FQTI.
 * *Notes TKD, livre 1* — composition du Taekwon-Do et règlements du dojang.
+* [Official ITF Rules of Competition, version 2026-1](https://itftkd.sport/wp-content/uploads/2026/01/Official-ITF-Rules-of-Competition-Version-2026-1.pdf) — règlement d'arbitrage, barème des points et des sanctions.
 * Fiches d'étude de grade de ce dépôt ([../Ceintures/](../Ceintures/README.md)).

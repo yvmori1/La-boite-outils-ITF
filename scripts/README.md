@@ -79,7 +79,7 @@ exacte n'existe pas, il pointe vers l'explication la plus proche.
 ```sh
 python3 scripts/generer-audio.py --write            # fiches
 python3 scripts/generer-audio.py --manuel --write   # Theorie/manuel-taekwon-do.md
-python3 scripts/generer-audio.py --combats --write  # Theorie/Combats.md
+python3 scripts/generer-audio.py --combats --write  # pages de Combat/
 python3 scripts/generer-audio.py --reparer --write  # audio manquants
 ```
 

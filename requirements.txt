@@ -2,3 +2,4 @@
 # Installation locale : pip install -r requirements.txt
 mkdocs-material==9.7.7
 mkdocs-awesome-pages-plugin==2.10.1
+mkdocs-redirects==1.2.2
