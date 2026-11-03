@@ -17,6 +17,7 @@ Ceinture Rouge (2e Gup)
 * **Système de combat :**
   * Combat sur un pas, combat libre, autodéfense avancée.
   * Combat arrangé #14 et #15 (1 pas de *Hwa-Rang*).
+  * Déroulement détaillé : [combats arrangés du 2e Gup](Combats-arranges/08_2e-Gup.md).
 * **Combat sportif :**
   * Pivot avant suivi d'un coup de pied crocheté arrière
   * Attaques surprises

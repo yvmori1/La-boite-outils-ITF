@@ -17,6 +17,7 @@ Ceinture Jaune I / Barre Verte (7e Gup)
 * **Système de combat :**
   * Combat sur 2 pas relatif à *Do-San*.
   * Combat arrangé #4 (3 pas de *Do-San*) et #5 (2 pas de *Do-San*).
+  * Déroulement détaillé : [combats arrangés du 7e Gup](Combats-arranges/03_7e-Gup.md).
 * **Combat sportif :**
   * Coup de pied crocheté avant,
   * Feintes et diversions,

@@ -21,6 +21,7 @@ CEINTURE NOIRE — 2e Degré (Dan)
   * Révision complète de *Chon-Ji* à *Ge-Baek*.
 * **Combats arrangés :**
   * 10 techniques de combat sur 1 pas.
+  * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
 * **Combat :**
   * Combat libre réglementaire
   * Combat utilisant exclusivement les jambes.

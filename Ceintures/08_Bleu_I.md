@@ -18,6 +18,7 @@
 * **Système de combat :**
   * Combat sur un pas, combat semi-libre, combat libre.
   * Combat arrangé #12 et #13 (1 pas de *Toi-Gye*).
+  * Déroulement détaillé : [combats arrangés du 3e Gup](Combats-arranges/07_3e-Gup.md).
 * **Combat sportif :**
   * Pivot arrière suivi d'un switch
   * Coup de pied circulaire.

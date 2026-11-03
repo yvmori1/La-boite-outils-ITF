@@ -22,6 +22,7 @@
   * Révision complète de *Chon-Ji* à *Choi-Yong*.
 * **Combat :**
   * Combat sportif.
+  * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
 * **Autodéfense (Hosinsul) :**
   * Démonstration de défense et de contrôle contre deux agresseurs simultanés.
 * **Cassage (Kyokpa) :**

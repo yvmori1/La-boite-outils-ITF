@@ -22,6 +22,7 @@
   * *Saju Makgi*
 * **Système de combat :**
   * Combat arrangé #1 (Combat sur 3 pas de *Chon-Ji*), effectué sans partenaire.
+  * Déroulement détaillé : [combats arrangés du 10e Gup](Combats-arranges/01_10e-9e-Gup.md).
 * **Combat sportif :**
   * Position de combat et garde,
   * Déplacements de base (croisé, glissé, chassé, switch, pivot).

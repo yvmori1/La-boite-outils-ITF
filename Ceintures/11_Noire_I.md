@@ -23,6 +23,7 @@ CEINTURE NOIRE — 1er Degré (Dan)
   * 2 de 3 pas
   * 2 de 2 pas
   * 6 de 1 pas.
+  * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
 * **Combat :**
   * Combat libre.
 * **Autodéfense (Hosinsul) :**

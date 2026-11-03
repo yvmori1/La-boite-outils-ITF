@@ -17,6 +17,7 @@ Ceinture Bleue (4e Gup)
 * **Système de combat :**
   * Combat sur un pas et combat semi-libre.
   * Combat arrangé #10 et #11 (1 pas de *Joong-Gun*).
+  * Déroulement détaillé : [combats arrangés du 4e Gup](Combats-arranges/06_4e-Gup.md).
 * **Combat sportif :**
   * Déplacements en angle et en cercle
   * Switch, coups de pied arrière et de côté arrière.

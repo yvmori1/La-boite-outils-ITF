@@ -22,6 +22,7 @@ Ceinture Rouge I / Barre Noire (1er Gup)
   * Combats arrangés #16 et #17 (1 pas de *Choong-Moo*).
   * Combats arrangés #18, #19 et #20 : l'élève doit **inventer 3 combats arrangés originaux** à 2 pas, inspirés des formes apprises.
   * Révision de l'ensemble des 20 combats arrangés appris depuis le 10e grade.
+  * Déroulement détaillé : [combats arrangés du 1er Gup](Combats-arranges/09_1er-Gup.md).
 * **Combats arrangés :**
   * 2 techniques de combat sur 3 pas.
   * 2 techniques de combat sur 2 pas.

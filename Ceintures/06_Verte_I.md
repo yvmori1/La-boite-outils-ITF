@@ -17,6 +17,7 @@ Ceinture Verte I / Barre Bleue (5e Gup)
 * **Système de combat :**
   * Combat arrangé #8 (2 pas de *Yul-Gok*)
   * Combat arrangé #9 (1 pas de *Yul-Gok*).
+  * Déroulement détaillé : [combats arrangés du 5e Gup](Combats-arranges/05_5e-Gup.md).
 * **Combat sportif :**
   * Coups de pied arrière
   * Coups de pied de côté arrière

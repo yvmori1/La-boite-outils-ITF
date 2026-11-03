@@ -16,6 +16,7 @@ Ceinture Blanche I / Barre Jaune (9e Gup)
   * *Chon-Ji* (19 mouvements).
 * **Système de combat :**
   * Combat sur 3 pas relatif à *Chon-Ji*.
+  * Déroulement détaillé : [combats arrangés du 9e Gup](Combats-arranges/01_10e-9e-Gup.md).
 * **Combat sportif :**
   * Déplacements de base,
   * Coup de poing arrière,
