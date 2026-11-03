@@ -23,6 +23,8 @@ C'est une posture de recentrage, de contrôle mental et d'accumulation d'énergi
 
 ## 2. Exécution et principes biomécaniques
 
+![moa-junbi-sogi](../images/sogi/moa-junbi-sogi.png)
+
 Le *Moa Junbi Sogi C* se distingue principalement de la variante B par le fait que **les deux mains sont ouvertes** et placées devant le centre de gravité (*Danjeon*) :
 
 1. **La position du bas du corps (*Moa Sogi*) :**

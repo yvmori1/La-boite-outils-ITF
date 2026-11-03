@@ -10,6 +10,8 @@ C'est une posture dynamique, hautement mobile et compacte, principalement utilis
 
 ## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
 
+![kyocha-sogi](../images/sogi/kyocha-sogi.png)
+
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Pied avant (Jambe porteuse)** | Posé à plat au sol, orienté généralement vers la direction du mouvement ou du blocage. |

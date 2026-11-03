@@ -15,6 +15,8 @@ Sa décomposition linguistique est la suivante :
 
 ## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
 
+![annun-sogi](../images/sogi/annun-sogi.png)
+
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Écartement des pieds** | **1,5 largeur d'épaules** (mesurée entre les bords intérieurs / gros orteils des pieds). |

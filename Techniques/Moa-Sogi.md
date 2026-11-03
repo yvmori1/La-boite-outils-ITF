@@ -10,6 +10,8 @@ C'est une posture d'alignement, d'équilibre central et de salutation/rassemblem
 
 ## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
 
+![moa-sogi](../images/sogi/moa-sogi.png)
+
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Alignement des pieds** | **Pieds totalement joints et parallèles** : les bords intérieurs des pieds (talons, métatarses et gros orteils) sont en contact direct sur toute la longueur. |

@@ -16,6 +16,8 @@ Sa décomposition linguistique est la suivante :
 
 ## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
 
+![dwitbal-sogi](../images/sogi/dwitbal-sogi.png)
+
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Répartition du poids** | **95% sur la jambe arrière / 5% sur la jambe avant** (la jambe arrière porte la quasi-totalité de la masse du corps). |

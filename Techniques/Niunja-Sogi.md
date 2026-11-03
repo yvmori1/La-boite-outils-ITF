@@ -19,6 +19,8 @@ Elle se traduit par : **Position en L** (*L-Stance*).
 
 ## 2. Exécution et principes biomécaniques
 
+![niunja-sogi](../images/sogi/niunja-sogi.png)
+
 La position en L est conçue pour offrir un excellent compromis entre protection, absorption des chocs et mobilité rapide de la jambe avant :
 
 1. **La répartition du poids :**
