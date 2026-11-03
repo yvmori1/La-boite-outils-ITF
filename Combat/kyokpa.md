@@ -62,6 +62,25 @@ En compétition, l'*Encyclopédie* fixe les armes de l'épreuve de puissance :
 et talon arrière** pour les hommes ; **tranchant de la main et tranchant du
 pied** pour les femmes.
 
+!!! info "L'épreuve de puissance selon le règlement 2026"
+    Le règlement officiel de compétition de l'ITF (version 2026-1) a fait
+    évoluer cette liste. Aux championnats du monde, l'épreuve comprend chez
+    les hommes le **coup de poing avant** (*Ap Joomuk Jirugi*), la **frappe du
+    tranchant de la main** (*Sonkal Taerigi*), le **coup de pied de côté
+    perçant** (*Yopcha Jirugi*), le **coup de pied circulaire** (*Dollyo
+    Chagi*) et le **circulaire inversé** (*Bandae Dollyo Chagi*) ; chez les
+    femmes, le coup de poing avant est remplacé par la **frappe avant du
+    coude** (*Ap Palkup Taerigi*). À la coupe du monde, chaque compétiteur
+    choisit une technique de main et une technique de pied dans cette liste.
+
+    Les planches sont en plastique, placées dans une machine homologuée, au
+    nombre de 2 à 4 selon la technique, le sexe et l'âge. Chaque tentative
+    se fait en **50 secondes au plus**, avec une seule prise de distance —
+    un seul contact — et un blocage de garde de l'avant-bras avant et après
+    la casse. Une planche **séparée vaut 3 points**, une planche **pliée,
+    1 point** ; le compétiteur qui ne marque rien au premier tour est
+    éliminé.
+
 ---
 
 ## 4. Les techniques spéciales (Tukgi — [특기](../audio/combats/Tukgi.m4a))
@@ -85,6 +104,20 @@ En compétition individuelle masculine, l'épreuve comprend le coup de pied saut
 en hauteur, le coup de pied par-dessus obstacle, le coup de pied en l'air, le
 coup de pied circulaire sauté et le circulaire inversé sauté ; chez les femmes,
 le coup de pied par-dessus obstacle ou le coup de pied sauté en hauteur.
+
+!!! info "Les techniques spéciales selon le règlement 2026"
+    Aux championnats du monde, hommes et femmes présentent cinq techniques :
+    le **coup de pied avant sauté en hauteur** (*Twimyo Nopi Ap Cha Busigi*),
+    le **circulaire sauté** (*Twimyo Dollyo Chagi*), le **circulaire inversé
+    sauté** (*Twimyo Bandae Dollyo Chagi*), le **coup de pied de côté en
+    l'air à 360 degrés** (*Twio Dolmyo Yop Cha Jirugi*) et le **coup de pied
+    de côté sauté par-dessus un obstacle** (*Twio Nomo Yop Chagi*). La coupe
+    du monde n'en garde que deux, le coup de pied avant sauté en hauteur et
+    le coup de pied par-dessus l'obstacle. Les hauteurs minimales vont, pour
+    le coup de pied avant sauté chez les adultes, de 260 cm chez les hommes à
+    230 cm chez les femmes. Une planche entièrement cassée vaut 3 points, une
+    planche à moitié cassée 1 point ; renverser l'obstacle, tomber ou sortir
+    de l'aire annule la tentative.
 
 Les programmes de grade reprennent cette logique : saut par-dessus un obstacle
 de 3 ou 4 personnes au 1er Gup, planches placées à hauteur des yeux, du coude
@@ -138,3 +171,8 @@ blocage. Il se fait progressivement, sous la direction de l'instructeur.
 
 * [Exigences par grade](progression.md) — le nombre de planches à chaque examen, par sexe et par âge.
 * [Le combat libre](combat-libre.md#le-combat-en-compétition-kyong-gi) — la place de la casse dans la compétition.
+
+## Sources
+
+* Général Choi Hong Hi, *Condensed Encyclopedia of Taekwon-Do*, 1999 — chapitres *Training Aids*, *Competition* et *Samples of Breaking Techniques*.
+* [Official ITF Rules of Competition, version 2026-1](https://itftkd.sport/wp-content/uploads/2026/01/Official-ITF-Rules-of-Competition-Version-2026-1.pdf) — articles T43 à T48 et annexe 6 (planches et hauteurs).

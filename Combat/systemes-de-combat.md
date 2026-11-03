@@ -171,6 +171,18 @@ du Taekwon-Do, et il fournit à l'élève un modèle pour le vrai combat libre.
 Comme toute la chorégraphie est apprise par cœur, on peut y intégrer en
 sécurité des casses et des chutes complexes.
 
+C'est aussi une épreuve de compétition de l'ITF. Selon le règlement 2026, chaque
+équipe de deux ceintures noires (du 1er au 6e Dan, hommes, femmes ou mixte)
+entre par les côtés opposés de l'aire, salue, puis prend une position en L avec
+blocage de garde. L'un des deux lance le temps par « *Sijak* » ; la prestation
+s'achève sur un coup final et le cri « *Goman* », de nouveau en position en L
+avec blocage de garde. Elle doit durer **entre 60 et 75 secondes**, et compter
+**au plus trois séquences acrobatiques** étrangères au programme du
+Taekwon-Do : hors de ces limites, la note est nulle. Toute attaque, sauf le coup
+final, doit être bloquée ou esquivée avec réalisme. Les juges notent sur 10 :
+jusqu'à 6 points de technique, dont ils retirent 0,2 point par erreur, et
+jusqu'à 4 points pour le travail d'équipe, la chorégraphie et la difficulté.
+
 ---
 
 ## 7. Le combat libre (Jayu Matsogi — [자유 맞서기](../audio/combats/Jayu-Matsogi.m4a))

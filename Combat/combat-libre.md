@@ -138,9 +138,13 @@ tranchant de la main ou le revers du poing, la précision et la vitesse ne
 compteraient plus, les techniques sautées deviendraient impossibles, et le
 contact exclurait femmes, aînés, enfants et personnes handicapées.
 
-Le règlement de compétition actuel de l'ITF, le barème des points, les
-pénalités et la gestuelle de l'arbitre sont détaillés dans
-[Règlement et arbitrage](arbitrage.md#2-le-système-de-points-officiel).
+La compétition actuelle de l'ITF a gardé l'esprit de cette règle sans la
+reprendre à la lettre : on y combat avec casque, protège-mains et protège-pieds,
+au **contact léger** — la technique doit être dynamique et contrôlée sur la
+cible, et le coup porté sans contrôle est sanctionné, jusqu'à la
+disqualification. Le barème, les pénalités et la gestuelle de l'arbitre du
+règlement 2026 sont détaillés dans
+[Règlement et arbitrage](arbitrage.md#4-la-cible-et-le-barème-des-points).
 
 ---
 
