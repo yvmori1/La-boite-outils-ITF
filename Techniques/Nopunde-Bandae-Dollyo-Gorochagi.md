@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [높은데 반대 돌려 걸어차기](../audio/Techniques/Nopunde-Bandae-Dollyo-Gorochagi.m4a)
 
-Le **Nopunde Bandae Dollyo Gorochagi** (높은데 반대 돌려 걸어차기) est une variante sophistiquée et fluide du coup de pied inversé, basée sur une action de crochet.
+Le **Nopunde Bandae Dollyo Gorochagi** ([높은데 반대 돌려 걸어차기](../audio/Techniques/Nopunde-Bandae-Dollyo-Gorochagi.m4a)) est une variante sophistiquée et fluide du coup de pied inversé, basée sur une action de crochet.
 
 Elle se traduit par : **Coup de pied crocheté inversé au niveau haut** (*High Reverse Turning Hook Kick*).
 
@@ -10,10 +10,10 @@ Elle se traduit par : **Coup de pied crocheté inversé au niveau haut** (*High 
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (au niveau du visage/de la tête). |
-| **Bandae** | 반대 | Inversé / Sens opposé | Rotation du corps en sens inverse de la jambe de frappe. |
-| **Dollyo** | 돌려 | Circulaire | Mouvement d'orientation tournant du corps. |
-| **Gorochagi** | 걸어차기 | Coup de pied crocheté | Action d'agripper/crocheter avec la jambe (*Hooking Kick*). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du visage/de la tête). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Sens opposé | Rotation du corps en sens inverse de la jambe de frappe. |
+| **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire | Mouvement d'orientation tournant du corps. |
+| **Gorochagi** | [걸어차기](../audio/grammaire/Goro-Chagi.m4a) | Coup de pied crocheté | Action d'agripper/crocheter avec la jambe (*Hooking Kick*). |
 
 ## 2. Exécution et principes biomécaniques
 

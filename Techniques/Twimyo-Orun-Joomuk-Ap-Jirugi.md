@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [뛰며 오른 주먹 앞 지르기](../audio/Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.m4a)
 
-Le **Twimyo Orun Joomuk Ap Jirugi** (뛰며 오른 주먹 앞 지르기) est le **coup de poing direct sauté/volant du poing droit vers l'avant** (*Flying right fist front punch*) en TaeKwon-Do ITF.
+Le **Twimyo Orun Joomuk Ap Jirugi** ([뛰며 오른 주먹 앞 지르기](../audio/Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.m4a)) est le **coup de poing direct sauté/volant du poing droit vers l'avant** (*Flying right fist front punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rectiligne et dynamique associe la projection du corps dans les airs (*Twimyo*) à la puissance de pénétration en piston d'un coup de poing direct (*Ap Jirugi*) délivré par le poing droit (**Orun Joomuk**). Elle permet d'attaquer avec une grande vitesse de franchissement tout en engageant la totalité de la masse corporelle en apesanteur.
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** En sautant / Volant (*Flying / Jumping*).
-* **Orun (오른) :** Droit (*Right*).
-* **Joomuk (주먹) :** Poing (*Fist* — fait référence au *Ap Joomuk*, le poing frontal).
-* **Ap (앞) :** Avant / Frontal (*Front*).
-* **Jirugi (지르기) :** Coup de poing direct en piston / Perçant (*Punch / Thrust*).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit (*Right*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist* — fait référence au *Ap Joomuk*, le poing frontal).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston / Perçant (*Punch / Thrust*).
 
 ---
 

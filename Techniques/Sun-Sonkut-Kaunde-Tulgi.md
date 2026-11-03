@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [선 손끝 가운데 찌르기](../audio/Techniques/Sun-Sonkut-Kaunde-Tulgi.m4a)
 
-Le **Sun Sonkut Kaunde Tulgi** (선 손끝 가운데 찌르기 — couramment retranscrit **Sun Sonkut Kaujunde Tulgi**) est la **pique verticale de l'extrémité des doigts au niveau moyen** (*Straight fingertip middle thrust*) en TaeKwon-Do ITF.
+Le **Sun Sonkut Kaunde Tulgi** ([선 손끝 가운데 찌르기](../audio/Techniques/Sun-Sonkut-Kaunde-Tulgi.m4a) — couramment retranscrit **Sun Sonkut Kaujunde Tulgi**) est la **pique verticale de l'extrémité des doigts au niveau moyen** (*Straight fingertip middle thrust*) en TaeKwon-Do ITF.
 
 C'est l'attaque classique à main ouverte la plus enseignée, conçue pour transpercer les défenses étroites et atteindre avec précision le plexus solaire.
 
 Sa décomposition linguistique est la suivante :
 
-* **Sun (선) :** Droit / Vertical (indique la position de la main : tranchant orienté vers le sol, pouce vers le haut).
-* **Sonkut (손끝) :** Extrémité / Pointe des doigts (*Son* = main, *Kut* = pointe).
-* **Kaunde / Kaujunde (가운데) :** Niveau moyen (*Middle level* — ciblant le plexus solaire / l'estomac).
-* **Tulgi (찌르기) :** Pique / Poussée pénétrante (*Thrust*).
+* **Sun ([선](../audio/termes/선.m4a)) :** Droit / Vertical (indique la position de la main : tranchant orienté vers le sol, pouce vers le haut).
+* **Sonkut ([손끝](../audio/termes/손끝.m4a)) :** Extrémité / Pointe des doigts (*Son* = main, *Kut* = pointe).
+* **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — ciblant le plexus solaire / l'estomac).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée pénétrante (*Thrust*).
 
 ---
 

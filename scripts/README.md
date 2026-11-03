@@ -42,8 +42,10 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 ### maintenir.py
 
 Étapes, dans un ordre où chacune dépend des précédentes : index de `Techniques/`,
-compteurs du README racine, normalisation des graphies, liens des formes,
-`mvt.txt`, prononciations, réparation des audio manquants, contrôle final.
+compteurs du README racine, normalisation des graphies (y compris les hangul
+fautifs relevés par le glossaire), liens des formes, `mvt.txt`, prononciations
+de tout le site, réparation des audio manquants, index de `Techniques/` une
+seconde fois, contrôle final.
 
 `--sans-audio` saute la synthèse vocale, de loin l'étape la plus longue.
 
@@ -81,7 +83,23 @@ python3 scripts/generer-audio.py --write            # fiches
 python3 scripts/generer-audio.py --manuel --write   # Theorie/manuel-taekwon-do.md
 python3 scripts/generer-audio.py --combats --write  # pages de Combat/
 python3 scripts/generer-audio.py --reparer --write  # audio manquants
+python3 scripts/generer-audio.py --tout --write     # chaque hangul du site
 ```
+
+`--tout` étend ce traitement à **tous** les documents publiés : chaque hangul
+d'une fiche, d'un README, du glossaire, du manuel ou de Combat/ devient un lien
+vers sa prononciation (sauf le titre « # » de la page, les blocs de code et ce
+qui est déjà un lien). Les nouveaux enregistrements hors manuel et Combat/ vont
+dans `audio/termes/`, nommés d'après le hangul. C'est ce que lance
+`maintenir.py`.
+
+Hors macOS, `--sans-synthese` ne lie que les hangul dont l'audio existe déjà et
+compte les autres « en attente » ; `maintenir.py` l'ajoute de lui-même quand
+`say` est absent. Le passage suivant sur Mac produit et lie le reste.
+
+La ligne « 🔊 **Prononciation :** » d'une fiche fait foi : son audio dit
+exactement ce qu'elle affiche. Pour corriger une graphie, corriger le texte,
+supprimer l'audio devenu faux, puis relancer `maintenir.py --write` sur Mac.
 
 `--manuel` et `--combats` traitent un document de fond entier : chaque hangul y
 devient un lien vers sa prononciation. Les documents et leur sous-dossier audio

@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 수평 지르기](../audio/Techniques/Annun-So-Wen-Soopyong-Jirugi.m4a)
 
-Le **Annun So Wen Soopyong Jirugi** (앉은 서 왼 수평 지르기) est le **coup de poing horizontal gauche en posture du cavalier** (*Sitting stance left horizontal punch*) en TaeKwon-Do ITF.
+Le **Annun So Wen Soopyong Jirugi** ([앉은 서 왼 수평 지르기](../audio/Techniques/Annun-So-Wen-Soopyong-Jirugi.m4a)) est le **coup de poing horizontal gauche en posture du cavalier** (*Sitting stance left horizontal punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque directe utilise le devant du poing gauche (*Ap Joomuk*) pour impacter une cible en maintenant le bras et le poing sur un plan strictement horizontal (*Soopyong*), offrant une grande stabilité axiale combinée à la puissance d'ancrage de la posture du cavalier (*Annun Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Soopyong / Supyong (수평) :** Horizontal / Sur le plan horizontal (*Horizontal*).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Soopyong / Supyong ([수평](../audio/termes/수평.m4a)) :** Horizontal / Sur le plan horizontal (*Horizontal*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

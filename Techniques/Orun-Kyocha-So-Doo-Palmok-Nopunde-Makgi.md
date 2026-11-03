@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 교차 서 두 팔목 높은데 막기](../audio/Techniques/Orun-Kyocha-So-Doo-Palmok-Nopunde-Makgi.m4a)
 
-Le **Orun Kyocha So Doo Palmok Nopunde Makgi** (오른 교차 서 두 팔목 높은데 막기) est une technique défensive renforcée, particulièrement robuste et stable du Taekwon-Do (ITF).
+Le **Orun Kyocha So Doo Palmok Nopunde Makgi** ([오른 교차 서 두 팔목 높은데 막기](../audio/Techniques/Orun-Kyocha-So-Doo-Palmok-Nopunde-Makgi.m4a)) est une technique défensive renforcée, particulièrement robuste et stable du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage au niveau haut au double avant-bras en position croisée droite**.
 
@@ -12,11 +12,11 @@ Elle se traduit par : **Blocage au niveau haut au double avant-bras en position 
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
-| **Kyocha So (Sogi)** | 교차 서기 | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et serrés. |
-| **Doo Palmok** | 두 팔목 | Double avant-bras | Technique où le bras principal de blocage est renforcé par le second bras appuyé au coude (*Doo* = deux). |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur d'exécution (au niveau de la tête, des yeux ou du front). |
-| **Makgi** | 막기 | Blocage / Défense | Action de stopper, neutraliser ou dévier une attaque. |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
+| **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et serrés. |
+| **Doo Palmok** | [두 팔목](../audio/termes/두-팔목.m4a) | Double avant-bras | Technique où le bras principal de blocage est renforcé par le second bras appuyé au coude (*Doo* = deux). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur d'exécution (au niveau de la tête, des yeux ou du front). |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de stopper, neutraliser ou dévier une attaque. |
 
 ---
 

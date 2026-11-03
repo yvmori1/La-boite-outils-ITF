@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼등 가운데 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Kaunde-Makgi.m4a)
 
-Le **Niunja So Sonkal Dung Kaunde Makgi** (ㄴ자 서 손칼등 가운데 막기) est le **blocage moyen au revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand middle block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Dung Kaunde Makgi** ([ㄴ자 서 손칼등 가운데 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Kaunde-Makgi.m4a)) est le **blocage moyen au revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand middle block*) en TaeKwon-Do ITF.
 
 Cette technique défensive utilise le revers du tranchant de la main (**Sonkal Dung** — le bord intérieur de la main ouverte, situé du côté du pouce et de la base de l'index) pour intercepter ou dévier une attaque directe ou circulaire dirigée vers le niveau moyen (**Kaunde** — le plexus solaire ou le buste), tout en bénéficiant de la stabilité et de la sécurité en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sonkal Dung (손칼등) :** Revers du tranchant de la main (*Reverse knife-hand* — bord intérieur de la main ouverte, du côté du pouce fléchi et du bord de l'index).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — bord intérieur de la main ouverte, du côté du pouce fléchi et du bord de l'index).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

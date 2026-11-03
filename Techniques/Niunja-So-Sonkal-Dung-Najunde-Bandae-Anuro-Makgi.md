@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼등 낮은데 반대 안으로 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.m4a)
 
-Le **Niunja So Sonkal Dung Najunde Bandae Anuro Makgi** (ㄴ자 서 손칼등 낮은데 반대 안으로 막기) est le **blocage bas inversé vers l'intérieur avec le revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand low inward block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Dung Najunde Bandae Anuro Makgi** ([ㄴ자 서 손칼등 낮은데 반대 안으로 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.m4a)) est le **blocage bas inversé vers l'intérieur avec le revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand low inward block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à un seul bras utilise le revers du tranchant de la main (**Sonkal Dung** — la tranche osseuse située entre la base de l'index et le pouce fléchi) pour intercepter ou dévier une attaque basse dirigée vers le bas-ventre ou le haut de la cuisse. Le mouvement s'effectue du dehors vers le dedans (**Anuro**) et est exécuté avec la main du côté de la jambe avant (**Bandae**), tandis que la main opposée est ramenée à la hanche.
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sonkal Dung (손칼등) :** Revers du tranchant de la main (*Reverse knife-hand* — bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture/au niveau du bas-ventre).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
-* **Anuro (안으로) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/au niveau du bas-ventre).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

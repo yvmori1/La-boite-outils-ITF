@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 손칼 가운데 옆 때리기](../audio/Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.m4a)
 
-Le **Annun So Orun Sonkal Kaunde Yop Taerigi** (앉은 서 오른 손칼 가운데 옆 때리기) est la **frappe latérale moyenne au tranchant de la main droite en posture du cavalier** (*Sitting stance right knife-hand middle side strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Sonkal Kaunde Yop Taerigi** ([앉은 서 오른 손칼 가운데 옆 때리기](../audio/Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.m4a)) est la **frappe latérale moyenne au tranchant de la main droite en posture du cavalier** (*Sitting stance right knife-hand middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque tranchante et dévastatrice projette le bord extérieur de la main ouverte (*Sonkal*) vers le flanc droit (*Yop*) au niveau moyen (*Kaunde*), en combinant l'effet de fouet du coude et la puissance d'ancrage de la posture du cavalier (*Annun Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — du côté du petit doigt, de la base du poignet jusqu'à la première articulation de l'auriculaire).
-* **Kaunde (가운데) :** Niveau moyen (hauteur des épaules, des côtes flottantes ou de la gorge).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — du côté du petit doigt, de la base du poignet jusqu'à la première articulation de l'auriculaire).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur des épaules, des côtes flottantes ou de la gorge).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

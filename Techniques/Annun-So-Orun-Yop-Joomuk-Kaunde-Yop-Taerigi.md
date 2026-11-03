@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 옆주먹 가운데 옆 때리기](../audio/Techniques/Annun-So-Orun-Yop-Joomuk-Kaunde-Yop-Taerigi.m4a)
 
-Le **Annun So Orun Yop Joomuk Kaunde Yop Taerigi** (앉은 서 오른 옆주먹 가운데 옆 때리기) est la **frappe latérale moyenne avec le poing latéral droit en posture du cavalier** (*Sitting stance right side fist middle side strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Yop Joomuk Kaunde Yop Taerigi** ([앉은 서 오른 옆주먹 가운데 옆 때리기](../audio/Techniques/Annun-So-Orun-Yop-Joomuk-Kaunde-Yop-Taerigi.m4a)) est la **frappe latérale moyenne avec le poing latéral droit en posture du cavalier** (*Sitting stance right side fist middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et cinglante utilise le bord latéral du poing (*Yop Joomuk*) pour percuter un adversaire situé sur le flanc droit (*Yop*) au niveau de la ligne moyenne du corps (*Kaunde*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Yop Joomuk (옆주먹) :** Poing latéral / Côté du poing (*Side fist* — la tranche latérale du poing fermé, du côté de l'index et du pouce).
-* **Kaunde (가운데) :** Niveau moyen (hauteur du thorax, du plexus solaire ou des côtes flottantes).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Poing latéral / Côté du poing (*Side fist* — la tranche latérale du poing fermé, du côté de l'index et du pouce).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur du thorax, du plexus solaire ou des côtes flottantes).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

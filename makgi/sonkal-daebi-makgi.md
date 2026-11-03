@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [손칼 대비 막기](../audio/makgi/sonkal-daebi-makgi.m4a)
 
-Le **Sonkal Daebi Makgi** (손칼 대비 막기) est le **blocage de garde du tranchant de la main** (*Knife-hand guarding block*) en TaeKwon-Do ITF.
+Le **Sonkal Daebi Makgi** ([손칼 대비 막기](../audio/makgi/sonkal-daebi-makgi.m4a)) est le **blocage de garde du tranchant de la main** (*Knife-hand guarding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Sonkal (손칼) :** Tranchant externe de la main (*Son* = main, *Kal* = couteau).
-* **Daebi (대비) :** Garde / Protection / Préparation (du hanja 對備 = se tenir prêt / parer aux attaques).
-* **Makgi (막기) :** Blocage / Défense.
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant externe de la main (*Son* = main, *Kal* = couteau).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection / Préparation (du hanja 對備 = se tenir prêt / parer aux attaques).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Particulièrement emblématique du TaeKwon-Do ITF (souvent assimilé ou couplé avec le *Sang Sonkal Makgi*), cette technique associe une action de blocage principal du bras avant à une position de protection renforcée du bras arrière, toutes deux réalisées avec les **mains ouvertes en tranchant** (*Sonkal*).
 

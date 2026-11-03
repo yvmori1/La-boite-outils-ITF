@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 바깥팔목 산 막기](../audio/Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.m4a)
 
-Le **Annun So Wen Bakat Palmok San Makgi** (앉은 서 왼 바깥팔목 산 막기) est le **blocage en montagne (ou en "W") gauche avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance left outer forearm W-shape / mountain block*) en TaeKwon-Do ITF.
+Le **Annun So Wen Bakat Palmok San Makgi** ([앉은 서 왼 바깥팔목 산 막기](../audio/Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.m4a)) est le **blocage en montagne (ou en "W") gauche avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance left outer forearm W-shape / mountain block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale puissante utilise simultanément les deux avant-bras fermés en poings (*Bakat Palmok*) pour former la silhouette de la montagne (**W-shape** / caractère **山**). Le terme **Wen** (gauche) indique que l'attention visuelle et la direction prioritaire d'interception (*Siseon*) sont orientées vers la gauche.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche (indique le regard/fixation visuelle vers le côté gauche).
-* **Bakat Palmok (바깥팔목) :** Tranchant extérieur de l'avant-bras (*Outer forearm* — côté du petit doigt / ulna, poings fermés).
-* **San (산) :** Montagne / Silhouette en "W" ou du caractère 山 (*Mountain / W-shape*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (indique le regard/fixation visuelle vers le côté gauche).
+* **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Tranchant extérieur de l'avant-bras (*Outer forearm* — côté du petit doigt / ulna, poings fermés).
+* **San ([산](../audio/termes/산.m4a)) :** Montagne / Silhouette en "W" ou du caractère 山 (*Mountain / W-shape*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

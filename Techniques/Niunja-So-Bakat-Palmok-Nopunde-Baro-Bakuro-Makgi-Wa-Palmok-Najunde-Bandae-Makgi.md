@@ -1,23 +1,23 @@
 # Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi
 
-> 🔊 **Prononciation :** [ㄴ자 서 바깥 팔목 높인데 바로 바깥으로 막기 와 팔목 낮은데 반대 막기](../audio/Techniques/Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.m4a)
+> 🔊 **Prononciation :** [ㄴ자 서 바깥 팔목 높은데 바로 바깥으로 막기 와 팔목 낮은데 반대 막기](../audio/Techniques/Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.m4a)
 
-Le **Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi** (ㄴ자 서 바깥 팔목 높인데 바로 바깥으로 막기 와 팔목 낮은데 반대 막기) est une **technique défensive combinée et simultanée** emblématique du TaeKwon-Do ITF (souvent appelée *High Outward & Low Block*).
+Le **Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi** ([ㄴ자 서 바깥 팔목 높은데 바로 바깥으로 막기 와 팔목 낮은데 반대 막기](../audio/Techniques/Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.m4a)) est une **technique défensive combinée et simultanée** emblématique du TaeKwon-Do ITF (souvent appelée *High Outward & Low Block*).
 
 Elle associe en un seul temps d'impact un **blocage haut vers l'extérieur avec l'avant-bras extérieur du même côté** (*Bakat Palmok Nopunde Baro Bakuro Makgi*) et un **blocage bas inversé à l'avant-bras** (*Palmok Najunde Bandae Makgi*), le tout ancré dans la stabilité d'une posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Bakat Palmok (바깥 팔목) :** Extérieur de l'avant-bras (du côté du petit doigt/du radius).
-* **Nopunde (높인데) :** Niveau haut (hauteur du visage / des yeux).
-* **Baro (바로) :** Direct / Du même côté (exécuté par le bras situé **du côté de la jambe arrière**).
-* **Bakuro (바깥으로) :** Vers l'extérieur / Du dedans vers le dehors.
-* **Makgi (막기) :** Blocage / Parade.
-* **Wa (와) :** Et / Combiné avec.
-* **Palmok (팔목) :** Avant-bras.
-* **Najunde (낮인데) :** Niveau bas (au-dessous de la ceinture).
-* **Bandae (반대) :** Inversé (exécuté par le bras situé **du côté de la jambe avant**).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (du côté du petit doigt/du radius).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur du visage / des yeux).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (exécuté par le bras situé **du côté de la jambe arrière**).
+* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur / Du dedans vers le dehors.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade.
+* **Wa ([와](../audio/termes/와.m4a)) :** Et / Combiné avec.
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras.
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (au-dessous de la ceinture).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (exécuté par le bras situé **du côté de la jambe avant**).
 
 ---
 

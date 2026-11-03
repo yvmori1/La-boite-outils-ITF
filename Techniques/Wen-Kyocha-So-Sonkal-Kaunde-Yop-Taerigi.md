@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [왼 교차 서 손칼 가운데 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.m4a)
 
-Le **Wen Kyocha So Sonkal Kaunde Yop Taerigi** (왼 교차 서 손칼 가운데 옆 때리기) est le **coup tranchant latéral moyen au tranchant de la main gauche en posture en X** (*Left X-stance knife-hand middle side strike*) en TaeKwon-Do ITF.
+Le **Wen Kyocha So Sonkal Kaunde Yop Taerigi** ([왼 교차 서 손칼 가운데 옆 때리기](../audio/Techniques/Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.m4a)) est le **coup tranchant latéral moyen au tranchant de la main gauche en posture en X** (*Left X-stance knife-hand middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque dynamique et incisive combine l'agilité et la mobilité croisée de la posture en X (*Kyocha Sogi*) avec la puissance d'impact cinglante d'un coup au tranchant de la main (*Sonkal Taerigi*) dirigé vers le flanc.
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left* — indique que le pied gauche croise devant et/ou que la main gauche frappe).
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture en X (*X-stance* — pieds croisés, genoux serrés).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du thorax / des côtes / du flanc).
-* **Yop (옆) :** Latéral / Sur le côté à 90° (*Side*).
-* **Taerigi (때리기) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le pied gauche croise devant et/ou que la main gauche frappe).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux serrés).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du thorax / des côtes / du flanc).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

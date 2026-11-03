@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [등주먹 때리기](../audio/jirugi/dung-joomuk-taerigi.m4a)
 
-Le **Dung Joomuk Taerigi** (등주먹 때리기 — retranscrit **Dung Joomuk Taerigi**) est la **frappe du revers du poing** (*Backfist strike*) en TaeKwon-Do ITF.
+Le **Dung Joomuk Taerigi** ([등주먹 때리기](../audio/jirugi/dung-joomuk-taerigi.m4a) — retranscrit **Dung Joomuk Taerigi**) est la **frappe du revers du poing** (*Backfist strike*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dung (등) :** Dos / Revers / Partie postérieure (*Back*).
-* **Joomuk / Jumuk (주먹) :** Poing fermé.
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Dung ([등](../audio/termes/등.m4a)) :** Dos / Revers / Partie postérieure (*Back*).
+* **Joomuk / Jumuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé.
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 Le **Dung Joomuk Taerigi** est l'une des attaques de bras les plus rapides et déconcertantes du TaeKwon-Do. Basée sur un effet d'extension-fouetté de l'articulation du coude (*Snap*), cette technique permet d'atteindre des cibles hautes ou latérales avec une grande vélocité.
 

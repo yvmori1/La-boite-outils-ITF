@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [왼 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)
 
-Le **Wen Niunja So Sonkal Kaunde Daebi Makgi** (왼 ㄴ자 서 손칼 가운데 대비 막기) est le **blocage de garde moyen au tranchant des mains en posture en L gauche** (*Left L-stance knife-hand middle guarding block*) en TaeKwon-Do ITF.
+Le **Wen Niunja So Sonkal Kaunde Daebi Makgi** ([왼 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)) est le **blocage de garde moyen au tranchant des mains en posture en L gauche** (*Left L-stance knife-hand middle guarding block*) en TaeKwon-Do ITF.
 
 Cette technique est l'une des gardes défensives les plus fondamentales, élégantes et efficaces du TaeKwon-Do. Elle combine la protection offerte par les deux tranchants de mains (*Sonkal Daebi Makgi*) avec la mobilité et l'esquive de distance de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left* — en TaeKwon-Do ITF, dans la posture en L, cela indique que le **pied gauche est à l'arrière**).
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur / auriculaire).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur des épaules / du plexus).
-* **Daebi (대비) :** De garde / Protection (*Guarding*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — en TaeKwon-Do ITF, dans la posture en L, cela indique que le **pied gauche est à l'arrière**).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur / auriculaire).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur des épaules / du plexus).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** De garde / Protection (*Guarding*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

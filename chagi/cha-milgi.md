@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [차 밀기](../audio/chagi/cha-milgi.m4a)
 
-Le **Cha Milgi** (차 밀기) est le **coup de pied poussant** (*Pushing kick*) en TaeKwon-Do ITF.
+Le **Cha Milgi** ([차 밀기](../audio/chagi/cha-milgi.m4a)) est le **coup de pied poussant** (*Pushing kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Cha (차) :** Coup de pied / Frappe de jambe.
-* **Milgi (밀기) :** Pousser / Action de poussée (du verbe *milda*, 밀다).
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied / Frappe de jambe.
+* **Milgi ([밀기](../audio/grammaire/Milgi.m4a)) :** Pousser / Action de poussée (du verbe *milda*, [밀다](../audio/termes/밀다.m4a)).
 
 Contrairement aux coups de pied fouettés (*Busigi*) qui recherchent l'impact sec et la vitesse, ou aux coups de pied perçants (*Jirugi*) qui cherchent à transpercer la cible, le **Cha Milgi** a pour objectif principal de **repousser physiquement l'adversaire**, de désorganiser ses appuis ou de créer une distance de sécurité.
 
@@ -15,8 +15,8 @@ Contrairement aux coups de pied fouettés (*Busigi*) qui recherchent l'impact se
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Balbadak (plante du pied - 발바닥) :** C'est la surface de frappe de prédilection. Sa grande superficie permet de transmettre la poussée sans glisser sur le torse adverse.
-* **Dwitchuk (talon - 뒤축) :** Utilisé pour une poussée plus lourde, directement ancrée dans le centre de gravité ennemi.
+* **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** C'est la surface de frappe de prédilection. Sa grande superficie permet de transmettre la poussée sans glisser sur le torse adverse.
+* **Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** Utilisé pour une poussée plus lourde, directement ancrée dans le centre de gravité ennemi.
 * **Les cibles privilégiées :**
 * **Section moyenne (*Kaunde*) :** Le plexus solaire, l'abdomen ou la poitrine de l'adversaire (zones de masse idéale pour encaisser et transmettre une poussée).
 

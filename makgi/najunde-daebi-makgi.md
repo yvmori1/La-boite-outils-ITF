@@ -1,14 +1,14 @@
 # Blocage de garde au niveau bas (Najunde Daebi Makgi)
 
-> 🔊 **Prononciation :** [낮인데 대비 막기](../audio/makgi/najunde-daebi-makgi.m4a)
+> 🔊 **Prononciation :** [낮은데 대비 막기](../audio/makgi/najunde-daebi-makgi.m4a)
 
-Le **Najunde Daebi Makgi** (낮인데 대비 막기) est le **blocage de garde au niveau bas** (*Low guarding block*) en TaeKwon-Do ITF.
+Le **Najunde Daebi Makgi** ([낮은데 대비 막기](../audio/makgi/najunde-daebi-makgi.m4a)) est le **blocage de garde au niveau bas** (*Low guarding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Najunde (낮인데) :** Niveau bas (zone située sous la ceinture : bas-ventre, hanches, cuisses).
-* **Daebi (대비) :** Garde / Protection / Préparation (du hanja 對備 = se tenir prêt à parer).
-* **Makgi (막기) :** Blocage / Défense.
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (zone située sous la ceinture : bas-ventre, hanches, cuisses).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection / Préparation (du hanja 對備 = se tenir prêt à parer).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Là où le *Najunde Makgi* simple utilise une seule main avec un tirage à la hanche, le **Najunde Daebi Makgi** engage **les deux bras en structure de garde coordonnée** descendue au niveau bas, pour intercepter les attaques lourdes visant le bas du corps tout en maintenant un bouclier de protection global.
 

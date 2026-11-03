@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [앞주먹 때리기](../audio/jirugi/ap-joomuk-taerigi.m4a)
 
-Le **Ap Joomuk Taerigi** (앞주먹 때리기) est la **frappe cinglante avec le devant du poing** (*Forefist strike*).
+Le **Ap Joomuk Taerigi** ([앞주먹 때리기](../audio/jirugi/ap-joomuk-taerigi.m4a)) est la **frappe cinglante avec le devant du poing** (*Forefist strike*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Ap (앞) :** Avant / Devant (*Front*).
-* **Joomuk (주먹) :** Poing (*Fist*).
-* **Ap Joomuk (앞주먹) :** Devant du poing (le poing fermé impactant avec la face avant des deux grosses jointures).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Devant (*Front*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist*).
+* **Ap Joomuk ([앞주먹](../audio/grammaire/Ap-Joomuk.m4a)) :** Devant du poing (le poing fermé impactant avec la face avant des deux grosses jointures).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 
@@ -58,7 +58,7 @@ Toute la nuance réside dans le mot-clé **Taerigi** :
 > **Contourner les blocs directs et fouetter les zones sensibles du visage :**
 > 1. **Passer autour des garde axiales :** Un coup de poing direct (*Jirugi*) bute facilement contre les avant-bras d'une garde fermée. La trajectoire en arc du *Taerigi* permet de passer sur le côté pour toucher la tempe, la mâchoire ou la pommette.
 > 2. **Vitesse et imprévisibilité :** L'action de fouet du coude demande moins d'armement d'épaule qu'un grand crochet, ce qui rend le déclenchement très difficile à lire pour l'adversaire.
-> 3. **Cibles prioritaires :** La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G턱*) ou l'**arête du nez** (*Injoung*).
+> 3. **Cibles prioritaires :** La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G[턱](../audio/termes/턱.m4a)*) ou l'**arête du nez** (*Injoung*).
 
 ---
 

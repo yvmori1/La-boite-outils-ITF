@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [ㄱ자 지르기](../audio/jirugi/kiokja-jirugi.m4a)
 
-Le **Kiokja Jirugi** (ㄱ자 지르기) est le **coup de poing en angle** (*Angle punch*) en TaeKwon-Do ITF.
+Le **Kiokja Jirugi** ([ㄱ자 지르기](../audio/jirugi/kiokja-jirugi.m4a)) est le **coup de poing en angle** (*Angle punch*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kiokja (ㄱ자) :** En forme de "Giyeok" (la première lettre de l'alphabet coréen **ㄱ**, qui dessine un angle droit parfait à 90° ou un "L" inversé).
-* **Jirugi (지르기) :** Coup de poing / Percussion perçante.
+* **Kiokja ([ㄱ자](../audio/termes/ㄱ자.m4a)) :** En forme de "Giyeok" (la première lettre de l'alphabet coréen **[ㄱ](../audio/termes/ㄱ.m4a)**, qui dessine un angle droit parfait à 90° ou un "L" inversé).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing / Percussion perçante.
 
 Le **Kiokja Jirugi** est une frappe circulaire courte et angulaire. Contrairement au coup de poing direct (*Ap Jirugi*) qui s'élance en ligne droite, le *Kiokja Jirugi* amène le poing à travers le buste en gardant le bras fléchi pour **contourner la garde adverse ou frapper de côté à mi-distance**.
 
@@ -18,7 +18,7 @@ Le **Kiokja Jirugi** est une frappe circulaire courte et angulaire. Contrairemen
 | Caractéristique | Spécification technique |
 | --- | --- |
 | **Arme naturelle** | **Ap Joomuk** (Le devant du poing, impactant avec les deux grosses jointures de l'index et du majeur). |
-| **Angle du coude** | **90° strict** (La forme du "ㄱ"). L'avant-bras et le bras forment un coude à angle droit. |
+| **Angle du coude** | **90° strict** (La forme du "[ㄱ](../audio/termes/ㄱ.m4a)"). L'avant-bras et le bras forment un coude à angle droit. |
 | **Position finale** | Le poing s'arrête devant la poitrine ou la tempe du côté opposé, l'avant-bras restant parallèle au sol. |
 
 ---
@@ -34,7 +34,7 @@ Le **Kiokja Jirugi** est une frappe circulaire courte et angulaire. Contrairemen
 ### Étape 2 : Le Déploiement Angulaire et le Mouvement de Vague (*Sine Wave*)
 
 1. **Ondulation :** Élévation puis redescente du corps (*Basse - Haute - Basse*).
-2. **Trajectoire en arc :** Le poing d'attaque quitte la hanche et remonte selon une trajectoire courbe vers le centre, le coude s'écartant pour maintenir la forme en "ㄱ".
+2. **Trajectoire en arc :** Le poing d'attaque quitte la hanche et remonte selon une trajectoire courbe vers le centre, le coude s'écartant pour maintenir la forme en "[ㄱ](../audio/termes/ㄱ.m4a)".
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 

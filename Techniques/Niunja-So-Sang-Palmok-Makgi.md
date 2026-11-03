@@ -2,20 +2,20 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 쌍 팔목 막기](../audio/Techniques/Niunja-So-Sang-Palmok-Makgi.m4a)
 
-Le **Niunja So Sang Palmok Makgi** (ㄴ자 서 쌍 팔목 막기 — couramment retranscrit **Niunja Sogi Sang Palmok Makgi**) est le **blocage double des avant-bras en posture en L** (*Twin forearm block in L-stance*) en TaeKwon-Do ITF.
+Le **Niunja So Sang Palmok Makgi** ([ㄴ자 서 쌍 팔목 막기](../audio/Techniques/Niunja-So-Sang-Palmok-Makgi.m4a) — couramment retranscrit **Niunja Sogi Sang Palmok Makgi**) est le **blocage double des avant-bras en posture en L** (*Twin forearm block in L-stance*) en TaeKwon-Do ITF.
 
 C'est une technique défensive classique et très visuelle qui permet de protéger **simultanément deux niveaux du corps** (haut et moyen) contre une attaque combinée ou particulièrement lourde.
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Sogi (ㄴ자 서기) :** Posture en L (*L-stance*).
-* **Sang (쌍) :** Double / Jumeau / Paire (*Twin / Pair*).
-* **Palmok (팔목) :** Avant-bras (*Forearm*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumeau / Paire (*Twin / Pair*).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 
-## 1. La posture de base : *Niunja Sogi* (ㄴ자 서기)
+## 1. La posture de base : *Niunja Sogi* ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a))
 
 Le blocage s'exécute en profil de trois-quarts (*Half-facing*), protégeant le buste et offrant une grande mobilité :
 

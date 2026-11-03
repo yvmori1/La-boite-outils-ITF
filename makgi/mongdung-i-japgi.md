@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [몽둥이 잡기](../audio/makgi/mongdung-i-japgi.m4a)
 
-Le **Mongdung-i Japgi** (몽둥이 잡기 — parfois retranscrit *Mongdug-I Japgi*) est la **saisie / capture du bâton** (*Stick catching / Holding a stick*) en TaeKwon-Do ITF.
+Le **Mongdung-i Japgi** ([몽둥이 잡기](../audio/makgi/mongdung-i-japgi.m4a) — parfois retranscrit *Mongdug-I Japgi*) est la **saisie / capture du bâton** (*Stick catching / Holding a stick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Mongdung-i (몽둥이) :** Bâton, gourdin, matraque, club.
-* **Japgi (잡기) :** Saisie, capture, prise (du verbe *japda*, 잡다 = saisir / attraper / tenir).
+* **Mongdung-i ([몽둥이](../audio/termes/몽둥이.m4a)) :** Bâton, gourdin, matraque, club.
+* **Japgi ([잡기](../audio/termes/잡기.m4a)) :** Saisie, capture, prise (du verbe *japda*, [잡다](../audio/termes/잡다.m4a) = saisir / attraper / tenir).
 
 Là où le *Mongdung-i Makgi* consiste à intercepter et stopper la trajectoire d'une attaque au bâton, le **Mongdung-i Japgi** représente l'étape suivante : la **prise de contrôle physique du bâton (ou du poignet de l'agresseur)** pour neutraliser l'arme, désarmer l'adversaire et enchaîner une clé d'articulation ou une riposte.
 

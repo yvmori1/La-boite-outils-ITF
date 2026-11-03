@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 바깥 팔목 반대 내려 막기](../audio/Techniques/Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.m4a)
 
-Le **Niunja So Bakat Palmok Bandae Naeryo Makgi** (ㄴ자 서 바깥 팔목 반대 내려 막기) est le **blocage descendant inversé à l'avant-bras extérieur en posture en L** (*L-stance outer forearm reverse downward block*) en TaeKwon-Do ITF.
+Le **Niunja So Bakat Palmok Bandae Naeryo Makgi** ([ㄴ자 서 바깥 팔목 반대 내려 막기](../audio/Techniques/Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.m4a)) est le **blocage descendant inversé à l'avant-bras extérieur en posture en L** (*L-stance outer forearm reverse downward block*) en TaeKwon-Do ITF.
 
 Cette technique défensive verticale et lourde utilise l'arête osseuse extérieure de l'avant-bras (**Bakat Palmok**) dans une trajectoire directe du haut vers le bas (**Naeryo**) pour écraser ou intercepter une attaque puissante (comme un coup de pied direct *Ap Chagi* ou un coup de genou). L'indication **Bandae** (inversée) indique que le blocage est exécuté par le bras situé **du côté de la jambe avant** (opposé à la jambe arrière qui définit la posture en L).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Bakat Palmok (바깥 팔목) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse située du côté du petit doigt / du radius).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse située du côté du petit doigt / du radius).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

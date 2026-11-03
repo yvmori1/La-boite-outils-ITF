@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [왼 ㄴ자 서 팔목 가운데 대비 막기](../audio/Techniques/Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.m4a)
 
-Le **Wen Niunja So Palmok Kaunde Daebi Makgi** (왼 ㄴ자 서 팔목 가운데 대비 막기) est le **blocage de garde moyen au double avant-bras en posture en L gauche** (*Left L-stance forearm middle guarding block*) en TaeKwon-Do ITF.
+Le **Wen Niunja So Palmok Kaunde Daebi Makgi** ([왼 ㄴ자 서 팔목 가운데 대비 막기](../audio/Techniques/Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.m4a)) est le **blocage de garde moyen au double avant-bras en posture en L gauche** (*Left L-stance forearm middle guarding block*) en TaeKwon-Do ITF.
 
 Considéré comme l'une des gardes défensives fondamentales du TaeKwon-Do (souvent la toute première garde enseignée avec les poings fermés), cette technique combine la protection offerte par l'extérieur des avant-bras (*Bakat Palmok*) avec la sécurité de distance de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left* — en TaeKwon-Do ITF, dans la posture en L, cela indique que la **jambe gauche est à l'arrière**).
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — utilise spécifiquement *Bakat Palmok*, l'extérieur de l'avant-bras).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur des épaules / du thorax).
-* **Daebi (대비) :** De garde / Protection (*Guarding*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — en TaeKwon-Do ITF, dans la posture en L, cela indique que la **jambe gauche est à l'arrière**).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — utilise spécifiquement *Bakat Palmok*, l'extérieur de l'avant-bras).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur des épaules / du thorax).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** De garde / Protection (*Guarding*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -2,9 +2,9 @@
 
 > 🔊 **Prononciation :** [오른 고정 서 ㄷ자 막기](../audio/Techniques/Orun-Gojung-So-Digutja-Makgi.m4a)
 
-Le **Orun Gojung So Digutja Makgi** (오른 고정 서 ㄷ자 막기) est une technique défensive spécialisée et très puissante du Taekwon-Do (ITF).
+Le **Orun Gojung So Digutja Makgi** ([오른 고정 서 ㄷ자 막기](../audio/Techniques/Orun-Gojung-So-Digutja-Makgi.m4a)) est une technique défensive spécialisée et très puissante du Taekwon-Do (ITF).
 
-Elle se traduit par : **Blocage en U (en forme de « ㄷ ») en position fixe droite**.
+Elle se traduit par : **Blocage en U (en forme de « [ㄷ](../audio/termes/ㄷ.m4a) ») en position fixe droite**.
 
 ---
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Blocage en U (en forme de « ㄷ ») en position fixe dr
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique la position fixe droite (le pied droit est à l'arrière). |
-| **Gojung So (Sogi)** | 고정 서기 | Position fixe (*Fixed Stance*) | Posture puissante et allongée avec répartition du poids à **50/50** sur les deux jambes. |
-| **Digutja** | ㄷ자 | Forme de « ㄷ » (*U-Shape*) | Désigne la forme en « U » ou crochet créée par la disposition verticale parallèle des deux avant-bras (d'après la lettre coréenne *Digut* ㄷ). |
-| **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou bloquer une attaque. |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position fixe droite (le pied droit est à l'arrière). |
+| **Gojung So (Sogi)** | [고정 서기](../audio/grammaire/Gojung-Sogi.m4a) | Position fixe (*Fixed Stance*) | Posture puissante et allongée avec répartition du poids à **50/50** sur les deux jambes. |
+| **Digutja** | [ㄷ자](../audio/termes/ㄷ자.m4a) | Forme de « [ㄷ](../audio/termes/ㄷ.m4a) » (*U-Shape*) | Désigne la forme en « U » ou crochet créée par la disposition verticale parallèle des deux avant-bras (d'après la lettre coréenne *Digut* [ㄷ](../audio/termes/ㄷ.m4a)). |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser, dévier ou bloquer une attaque. |
 
 ---
 
@@ -30,11 +30,11 @@ Cette technique associe la stabilité maximale de la position fixe à une struct
 2. **L'armement (Préparation) :**
    * Les deux mains fermées en poings sont ramenées du côté opposé à la direction du blocage.
    * L'exécutant s'élève lors de la phase ascendante de la vague (*Sine Wave*).
-3. **La trajectoire et la formation du « ㄷ » (*Digutja*) :**
+3. **La trajectoire et la formation du « [ㄷ](../audio/termes/ㄷ.m4a) » (*Digutja*) :**
    * En redescendant dans la posture fixe, les deux bras s'élancent de concert vers le côté/l'avant.
    * **Le bras supérieur** réalise un blocage haut (*Nopunde*), le coude fléchi, l'avant-bras horizontal ou légèrement incliné.
    * **Le bras inférieur** réalise un blocage bas (*Najunde*), l'avant-bras parallèle au bras supérieur.
-   * Les deux poings sont fermés et alignés sur une même ligne verticale, formant la lettre coréenne **ㄷ** (forme d'un U encadrant la zone de défense).
+   * Les deux poings sont fermés et alignés sur une même ligne verticale, formant la lettre coréenne **[ㄷ](../audio/termes/ㄷ.m4a)** (forme d'un U encadrant la zone de défense).
 
 ---
 
@@ -49,9 +49,9 @@ Cette technique associe la stabilité maximale de la position fixe à une struct
 ## 4. Erreurs fréquentes à éviter
 
 * **Mauvaise répartition du poids :** Confondre la position fixe (*Gojung Sogi*, 50/50) avec la position en L (*Niunja Sogi*, 70/30). Mettre trop de poids sur la jambe arrière détruit la structure de la posture.
-* **Désalignement de la forme « ㄷ » :** Ne pas aligner les deux avant-bras verticalement, ce qui déforme la structure en U et laisse un espace vulnérable pour l'attaque adverse.
+* **Désalignement de la forme « [ㄷ](../audio/termes/ㄷ.m4a) » :** Ne pas aligner les deux avant-bras verticalement, ce qui déforme la structure en U et laisse un espace vulnérable pour l'attaque adverse.
 * **Poignets cassés ou poings mous :** Relâcher la fermeture des poings ou fléchir les poignets au moment de l'impact, ce qui risque de provoquer une blessure face à une attaque lourde (ou un bâton).
 * **Longueur de stance incorrecte :** Réduire la distance entre les pieds, ce qui enlève l'assise nécessaire pour absorber un choc latéral.
 * **Oubli de la vague (*Sine Wave*) :** Exécuter le blocage de manière rigide sans synchroniser le verrouillage des bras avec la descente du centre de gravité.
 
-> **Point clé :** La force du *Orun Gojung So Digutja Makgi* réside dans le verrouillage rigide et parallèle des deux avant-bras en forme de « ㄷ », ancrés par la stabilité parfaitement équilibrée (50/50) de la position *Gojung Sogi*.
+> **Point clé :** La force du *Orun Gojung So Digutja Makgi* réside dans le verrouillage rigide et parallèle des deux avant-bras en forme de « [ㄷ](../audio/termes/ㄷ.m4a) », ancrés par la stabilité parfaitement équilibrée (50/50) de la position *Gojung Sogi*.

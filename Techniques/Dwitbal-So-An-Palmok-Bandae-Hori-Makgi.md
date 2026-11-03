@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [뒷발 서 안팔목 반대 허리 막기](../audio/Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.m4a)
 
-Le **Dwitbal So An Palmok Bandae Hori Makgi** (뒷발 서 안팔목 반대 허리 막기) est le **blocage inverse au niveau de la taille avec l'intérieur de l'avant-bras en posture du pied arrière** (*Rear foot stance inner forearm reverse waist block*) en TaeKwon-Do ITF.
+Le **Dwitbal So An Palmok Bandae Hori Makgi** ([뒷발 서 안팔목 반대 허리 막기](../audio/Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.m4a)) est le **blocage inverse au niveau de la taille avec l'intérieur de l'avant-bras en posture du pied arrière** (*Rear foot stance inner forearm reverse waist block*) en TaeKwon-Do ITF.
 
 Cette technique défensive réactive combine l'esquive et l'ancrage arrière de la posture *Dwitbal Sogi* avec une déflexion circulaire au niveau de la ceinture/taille (*Hori*). Elle utilise le côté interne de l'avant-bras (*An Palmok*) du bras opposé à la jambe avant (*Bandae*) pour balayer une attaque moyenne/basse dirigée vers le flanc ou l'abdomen.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **An Palmok (안팔목) :** Intérieur de l'avant-bras (*Inner forearm* — côté du pouce / os du radius).
-* **Bandae (반대) :** Reverse / Opposé (le bras qui bloque est opposé à la jambe située à l'avant).
-* **Hori (허리) :** Taille / Ceinture (*Waist / Belt*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Intérieur de l'avant-bras (*Inner forearm* — côté du pouce / os du radius).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Reverse / Opposé (le bras qui bloque est opposé à la jambe située à l'avant).
+* **Hori ([허리](../audio/termes/허리.m4a)) :** Taille / Ceinture (*Waist / Belt*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

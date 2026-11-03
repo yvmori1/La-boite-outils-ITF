@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 가운데 옆 지르기](../audio/Techniques/Niunja-So-Kaunde-Yop-Jirugi.m4a)
 
-Le **Niunja So Kaunde Yop Jirugi** (ㄴ자 서 가운데 옆 지르기) est le **coup de poing perçant moyen latéral en posture en L** (*L-stance middle side piercing punch*) en TaeKwon-Do ITF.
+Le **Niunja So Kaunde Yop Jirugi** ([ㄴ자 서 가운데 옆 지르기](../audio/Techniques/Niunja-So-Kaunde-Yop-Jirugi.m4a)) est le **coup de poing perçant moyen latéral en posture en L** (*L-stance middle side piercing punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque ou de contre-attaque permet de décocher un coup de poing direct vers le flanc ou le côté (*Yop*) tout en conservant la stabilité et la garde protectrice offertes par la posture en L (*Niunja Sogi*). Le coup est dirigé vers le niveau moyen (*Kaunde* — plexus solaire, côtes ou abdomen d'un adversaire situé sur le côté).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — répartition 60% arrière / 40% avant, pieds formant un angle de 90°).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du thorax, du plexus solaire ou des côtes).
-* **Yop / Yeop (옆) :** Côté / Latéral (*Side*).
-* **Jirugi (지르기) :** Coup de poing direct en piston / perçant (*Piercing punch*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — répartition 60% arrière / 40% avant, pieds formant un angle de 90°).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du thorax, du plexus solaire ou des côtes).
+* **Yop / Yeop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston / perçant (*Piercing punch*).
 
 ---
 

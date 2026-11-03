@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [인지주먹 때리기](../audio/jirugi/Inji-joomuk-taerigi.m4a)
 
-Le **Inji Joomuk Taerigi** (인지주먹 때리기) est la **frappe cinglante avec la jointure de l'index** (*Index-finger knuckle strike*).
+Le **Inji Joomuk Taerigi** ([인지주먹 때리기](../audio/jirugi/Inji-joomuk-taerigi.m4a)) est la **frappe cinglante avec la jointure de l'index** (*Index-finger knuckle strike*).
 
 Cette technique de précision utilise une arme naturelle spécifique pour concentrer toute la force de percussion sur une surface minuscule, permettant de cibler des points vitaux et nerveux très localisés avec une trajectoire en fouet.
 
 Sa décomposition linguistique est la suivante :
 
-* **Inji (인지 / 食指) :** Index / Doigt pointeur.
-* **Joomuk (주먹) :** Poing.
-* **Inji Joomuk (인지주먹) :** Poing à la jointure de l'index saillante (*Index-finger knuckle fist*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Inji ([인지](../audio/termes/인지.m4a) / 食指) :** Index / Doigt pointeur.
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing.
+* **Inji Joomuk ([인지주먹](../audio/termes/인지주먹.m4a)) :** Poing à la jointure de l'index saillante (*Index-finger knuckle fist*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

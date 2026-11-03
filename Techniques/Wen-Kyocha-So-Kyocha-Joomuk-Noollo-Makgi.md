@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [왼 교차 서 교차 주먹 눌러 막기](../audio/Techniques/Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.m4a)
 
-Le **Wen Kyocha So Kyocha Joomuk Noollo Makgi** (왼 교차 서 교차 주먹 눌러 막기) est le **blocage pressant aux poings croisés en posture en X gauche** (*Left X-stance X-fist pressing block*) en TaeKwon-Do ITF.
+Le **Wen Kyocha So Kyocha Joomuk Noollo Makgi** ([왼 교차 서 교차 주먹 눌러 막기](../audio/Techniques/Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.m4a)) est le **blocage pressant aux poings croisés en posture en X gauche** (*Left X-stance X-fist pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive spécialisée combine la mobilité compacte de la posture en X (*Kyocha Sogi*) avec la structure renforcée d'un blocage par pression vers le bas exécuté avec les poings croisés (*Kyocha Joomuk Noollo Makgi*). Elle sert à intercepter, écraser ou dévier vers le bas une attaque directe ou un coup de pied bas tout en sortant légèrement de l'axe de frappe.
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
-* **Kyocha So / Kyocha Sogi (교차 서기) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
-* **Kyocha (교차) :** Croisé / En X (*Crossed*).
-* **Joomuk (주먹) :** Poings (*Fists* — *Kyocha Joomuk* = poings croisés aux poignets).
-* **Noollo / Nullo (눌러) :** Pressant / Poussée vers le bas (*Pressing*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
+* **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
+* **Kyocha ([교차](../audio/termes/교차.m4a)) :** Croisé / En X (*Crossed*).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poings (*Fists* — *Kyocha Joomuk* = poings croisés aux poignets).
+* **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Pressant / Poussée vers le bas (*Pressing*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

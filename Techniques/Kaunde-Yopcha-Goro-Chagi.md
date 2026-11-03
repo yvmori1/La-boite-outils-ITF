@@ -1,15 +1,17 @@
 # Kaunde Yopcha Goro Chagi
 
-Le **Kaunde Yopcha Goro Chagi** (가운데 옆차 걸어 차기) est le **coup de pied de côté crocheté moyen** (*Middle side hooking kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 옆차 걸어 차기](../audio/Techniques/Kaunde-Yopcha-Goro-Chagi.m4a)
+
+Le **Kaunde Yopcha Goro Chagi** ([가운데 옆차 걸어 차기](../audio/Techniques/Kaunde-Yopcha-Goro-Chagi.m4a)) est le **coup de pied de côté crocheté moyen** (*Middle side hooking kick*) en TaeKwon-Do ITF.
 
 Ce coup de pied part comme un coup de pied de côté (*Yopcha*) : genou armé devant le corps, jambe d'appui pivotée. Au lieu de percuter en piston, la jambe se tend sur le côté puis le pied revient en arc pour crocheter la cible avec l'arrière du talon (**Goro**, accrocher).
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yopcha (옆차) :** Coup de pied de côté (*Side kick*).
-* **Goro (걸어) :** Crocheté / accroché (*Hooking*).
-* **Chagi (차기) :** Coup de pied (*Kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Yopcha ([옆차](../audio/termes/옆차.m4a)) :** Coup de pied de côté (*Side kick*).
+* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / accroché (*Hooking*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 팔목 낮은데 반대 막기](../audio/Techniques/Niunja-So-Palmok-Najunde-Bandae-Makgi.m4a)
 
-Le **Niunja So Palmok Najunde Bandae Makgi** (ㄴ자 서 팔목 낮은데 반대 막기) est le **blocage bas inversé à l'avant-bras en posture en L** (*L-stance forearm low reverse block*) en TaeKwon-Do ITF.
+Le **Niunja So Palmok Najunde Bandae Makgi** ([ㄴ자 서 팔목 낮은데 반대 막기](../audio/Techniques/Niunja-So-Palmok-Najunde-Bandae-Makgi.m4a)) est le **blocage bas inversé à l'avant-bras en posture en L** (*L-stance forearm low reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive utilise la surface osseuse de l'avant-bras (**Palmok**) pour dévier ou intercepter une attaque basse (coup de pied direct *Ap Chagi* ou frappe basse) ciblant le bas-ventre ou les cuisses. L'indication **Bandae** (inversé) indique que le blocage est exécuté par la main située **du côté de la jambe avant** (opposée à la jambe arrière qui définit le nom de la posture).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — surface osseuse de blocage).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — surface osseuse de blocage).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

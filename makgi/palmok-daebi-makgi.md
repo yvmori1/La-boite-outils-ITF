@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [팔목 대비 막기](../audio/makgi/palmok-daebi-makgi.m4a)
 
-Le **Palmok Daebi Makgi** (팔목 대비 막기) est le **blocage de garde des avant-bras** (*Forearm guarding block*) en TaeKwon-Do ITF.
+Le **Palmok Daebi Makgi** ([팔목 대비 막기](../audio/makgi/palmok-daebi-makgi.m4a)) est le **blocage de garde des avant-bras** (*Forearm guarding block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Palmok (팔목) :** Avant-bras (*Pal* = bras, *Mok* = articulation/cou).
-* **Daebi (대비) :** Garde / Protection / Préparation (du hanja 對備 = se tenir en garde / parer à toute éventualité).
-* **Makgi (막기) :** Blocage / Défense.
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Pal* = bras, *Mok* = articulation/cou).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection / Préparation (du hanja 對備 = se tenir en garde / parer à toute éventualité).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 C'est la posture de garde défensive par excellence poings fermés en TaeKwon-Do ITF. Contrairement au *Sang Sonkal Makgi* (qui s'exécute mains ouvertes), le **Palmok Daebi Makgi** s'effectue les **poings fermés**, offrant une protection compacte et ultra-solide, prête à bloquer de lourdes attaques ou à riposter immédiatement en coup de poing.
 

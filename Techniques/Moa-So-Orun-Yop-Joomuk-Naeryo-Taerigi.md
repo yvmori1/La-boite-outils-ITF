@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [모아서 오른 옆주먹 내려 때리기](../audio/Techniques/Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.m4a)
 
-Le **Moa So Orun Yop Joomuk Naeryo Taerigi** (모아서 오른 옆주먹 내려 때리기) est le **coup percutant descendant avec le marteau du poing droit en posture pieds joints** (*Closed stance right side fist downward strike*) en TaeKwon-Do ITF.
+Le **Moa So Orun Yop Joomuk Naeryo Taerigi** ([모아서 오른 옆주먹 내려 때리기](../audio/Techniques/Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.m4a)) est le **coup percutant descendant avec le marteau du poing droit en posture pieds joints** (*Closed stance right side fist downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque puissante et descendante est le pendant symétrique exact de la version gauche (*Wen*). Elle utilise la partie charnue du bas du poing droit fermement fermé (**Orun Yop Joomuk** ou *Side fist / Hammer fist*) pour s'abattre du haut vers le bas (**Naeryo**) sur une cible située au niveau moyen ou haut (comme la clavicule, le nez, la tête ou le bras de l'adversaire), le tout ancré dans la stabilité centrale de la posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Orun (오른) :** Droit / Poing droit (*Right*).
-* **Yop Joomuk (옆주먹) :** Marteau du poing / Côté du poing (*Side fist* — la tranche du poing fermé, du côté du petit doigt).
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi (때리기) :** Coup percutant / Fouetté (*Strike*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
+* **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Marteau du poing / Côté du poing (*Side fist* — la tranche du poing fermé, du côté du petit doigt).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Fouetté (*Strike*).
 
 ---
 

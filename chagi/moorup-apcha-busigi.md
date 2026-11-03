@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [무릎 앞차부시기](../audio/chagi/moorup-apcha-busigi.m4a)
 
-Le **Moorup Apcha Busigi** (무릎 앞차부시기) est le **coup de genou fouetté avant** (ou *Knee low front snap kick*) en TaeKwon-Do ITF.
+Le **Moorup Apcha Busigi** ([무릎 앞차부시기](../audio/chagi/moorup-apcha-busigi.m4a)) est le **coup de genou fouetté avant** (ou *Knee low front snap kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Moorup (무릎) :** Genou.
-* **Ap (앞) :** Avant / Frontal.
-* **Cha (차) :** Coup / Frappe de jambe.
-* **Busigi (부시기) :** Fouetté / *Snap* (mouvement sec et explosif).
+* **Moorup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou.
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
+* **Cha ([차](../audio/termes/차.m4a)) :** Coup / Frappe de jambe.
+* **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / *Snap* (mouvement sec et explosif).
 
 Cette technique de percussion dévastatrice est conçue pour le combat rapproché (*In-fighting*). Elle utilise la pointe osseuse du genou pour délivrer une frappe à la fois ascendante et perçante à très courte distance.
 
@@ -17,7 +17,7 @@ Cette technique de percussion dévastatrice est conçue pour le combat rapproch�
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Moorup / Rotule (무릎) :** L'impact se fait directement avec le sommet rigide du genou (la rotule et le haut du tibia).
+* **Moorup / Rotule ([무릎](../audio/grammaire/Murup.m4a)) :** L'impact se fait directement avec le sommet rigide du genou (la rotule et le haut du tibia).
 * **Les cibles privilégiées :**
 * **Section basse (*Najunde*) :** L'entrejambe ou le bas-ventre.
 * **Section moyenne (*Kaunde*) :** Le plexus solaire ou les côtes flottantes.

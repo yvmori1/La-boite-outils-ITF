@@ -1,19 +1,19 @@
 # Annun So Wen Dung Joomuk Nopunde Yop Taerigi
 
-> 🔊 **Prononciation :** [앉은 서 왼 등주먹 높인데 옆 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
+> 🔊 **Prononciation :** [앉은 서 왼 등주먹 높은데 옆 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
 
-Le **Annun So Wen Dung Joomuk Nopunde Yop Taerigi** (앉은 서 왼 등주먹 높인데 옆 때리기) est la **frappe latérale haute cinglante avec le revers du poing gauche en posture du cavalier** (*Sitting stance left backfist high side strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Dung Joomuk Nopunde Yop Taerigi** ([앉은 서 왼 등주먹 높은데 옆 때리기](../audio/Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)) est la **frappe latérale haute cinglante avec le revers du poing gauche en posture du cavalier** (*Sitting stance left backfist high side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et dévastatrice utilise l'effet de fouet de la charnière du coude pour propulser le revers du poing gauche (*Dung Joomuk*) vers un adversaire situé sur le flanc gauche (*Yop*) au niveau haut (*Nopunde* : tempe, mâchoire ou arête du nez).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Dung Joomuk (등주먹) :** Revers du poing (*Backfist* — la zone osseuse des deux grosses jointures de l'index et du majeur).
-* **Nopunde (높인데) :** Niveau haut (hauteur du visage, des yeux ou de la tempe).
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist* — la zone osseuse des deux grosses jointures de l'index et du majeur).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur du visage, des yeux ou de la tempe).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

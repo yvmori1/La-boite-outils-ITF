@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [안 막기](../audio/makgi/an-makgi.m4a)
 
-Le **An Makgi** (안 막기) — souvent désigné sous sa forme directionnelle exacte **Anuro Makgi** (안으로 막기) — est le **blocage vers l'intérieur** (*Inward block*) en TaeKwon-Do ITF.
+Le **An Makgi** ([안 막기](../audio/makgi/an-makgi.m4a)) — souvent désigné sous sa forme directionnelle exacte **Anuro Makgi** ([안으로 막기](../audio/makgi/anuro-makgi.m4a)) — est le **blocage vers l'intérieur** (*Inward block*) en TaeKwon-Do ITF.
 
 Pour bien comprendre ce terme, il est essentiel de faire une nuance linguistique et théorique fondamentale en ITF.
 
@@ -12,9 +12,9 @@ Pour bien comprendre ce terme, il est essentiel de faire une nuance linguistique
 
 En terminologie officielle ITF, le mot "An" intervient dans deux contextes différents qu'il ne faut pas confondre :
 
-1. **An (안) = Intérieur (La surface / l'outil) :**
+1. **An ([안](../audio/termes/안.m4a)) = Intérieur (La surface / l'outil) :**
 Désigne le tranchant intérieur de l'avant-bras (*An Palmok* - côté du pouce).
-2. **Anuro (안으로) = Vers l'intérieur (La direction du mouvement) :**
+2. **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) = Vers l'intérieur (La direction du mouvement) :**
 Désigne la **trajectoire** du blocage : le bras démarre à l'extérieur du corps et balaye **de l'extérieur vers la ligne centrale** (de dehors en dedans).
 
 > **En résumé :** Dans le jargon courant des dojangs, *"An Makgi"* désigne généralement un **blocage dont le mouvement va de l'extérieur vers l'intérieur** (*Anuro Makgi*).

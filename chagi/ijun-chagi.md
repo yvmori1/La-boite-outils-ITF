@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [이중차기](../audio/chagi/ijun-chagi.m4a)
 
-Le **Ijun Chagi** (이중차기) est le **coup de pied double** en TaeKwon-Do ITF.
+Le **Ijun Chagi** ([이중차기](../audio/chagi/ijun-chagi.m4a)) est le **coup de pied double** en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Ijun (이중) :** Double / Deux fois.
-* **Chagi (차기) :** Coup de pied.
+* **Ijun ([이중](../audio/termes/이중.m4a)) :** Double / Deux fois.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Il désigne l'exécution de **deux coups de pied identiques portés coup sur coup de manière ultra-rapide**, généralement avec la même jambe (sans poser le pied au sol) et en variant la hauteur (section basse/moyenne puis section haute).
 

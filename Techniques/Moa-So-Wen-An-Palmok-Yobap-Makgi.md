@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [모아서 왼 안 팔목 옆앞 막기](../audio/Techniques/Moa-So-Wen-An-Palmok-Yobap-Makgi.m4a)
 
-Le **Moa So Wen An Palmok Yobap Makgi** (모아서 왼 안 팔목 옆앞 막기) est le **blocage combiné latéral-avant gauche à l'avant-bras intérieur en posture pieds joints** (*Closed stance left inner forearm side-front block*) en TaeKwon-Do ITF.
+Le **Moa So Wen An Palmok Yobap Makgi** ([모아서 왼 안 팔목 옆앞 막기](../audio/Techniques/Moa-So-Wen-An-Palmok-Yobap-Makgi.m4a)) est le **blocage combiné latéral-avant gauche à l'avant-bras intérieur en posture pieds joints** (*Closed stance left inner forearm side-front block*) en TaeKwon-Do ITF.
 
 Cette technique est le strict pendant symétrique du *Moa So Orun An Palmok Yobap Makgi*. Exécutée pieds joints (**Moa Sogi**), elle utilise l'avant-bras intérieur gauche (**Wen An Palmok**) pour intercepter ou dévier une attaque arrivant dans l'angle intermédiaire diagonal situé entre le devant et le côté (**Yobap** — environ 45°).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **An Palmok (안 팔목) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse du côté du pouce / du radius).
-* **Yobap (옆앞) :** Latéral-avant / Diagonale avant-côté (*Side-front* — angle intermédiaire à 45°).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **An Palmok ([안 팔목](../audio/termes/안-팔목.m4a)) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse du côté du pouce / du radius).
+* **Yobap ([옆앞](../audio/termes/옆앞.m4a)) :** Latéral-avant / Diagonale avant-côté (*Side-front* — angle intermédiaire à 45°).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

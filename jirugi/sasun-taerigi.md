@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [사선 때리기](../audio/jirugi/sasun-taerigi.m4a)
 
-Le **Sasun Taerigi** (사선 때리기 — couramment retranscrit **Saseon Taerigi**) est la **frappe en diagonale / oblique** (*Slanted or Diagonal strike*) en TaeKwon-Do ITF.
+Le **Sasun Taerigi** ([사선 때리기](../audio/jirugi/sasun-taerigi.m4a) — couramment retranscrit **Saseon Taerigi**) est la **frappe en diagonale / oblique** (*Slanted or Diagonal strike*) en TaeKwon-Do ITF.
 
 Contrairement aux frappes strictement horizontales (*Yop* / *Bakuro* / *Anuro*) ou verticales (*Neryo*), la frappe *Sasun* suit un plan d'attaque incliné (généralement à environ 45°), combinant un mouvement descendant ou ascendant avec une ouverture/fermeture latérale.
 
 Sa décomposition linguistique est la suivante :
 
-* **Sasun / Saseon (사선 / 斜線) :** Oblique / Diagonale / En biais (*Slanted / Diagonal*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Sasun / Saseon ([사선](../audio/termes/사선.m4a) / 斜線) :** Oblique / Diagonale / En biais (*Slanted / Diagonal*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

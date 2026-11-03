@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [앉은 서 쌍 선팔목 멈춤막기](../audio/Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.m4a)
 
-Le **Annun So Sang Sun Palmok Momchau Makgi** (앉은 서 쌍 선팔목 멈춤막기) est le **double blocage d'arrêt avec les avant-bras verticaux en posture du cavalier** (*Sitting stance twin vertical forearm checking / stopping block*) en TaeKwon-Do ITF.
+Le **Annun So Sang Sun Palmok Momchau Makgi** ([앉은 서 쌍 선팔목 멈춤막기](../audio/Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.m4a)) est le **double blocage d'arrêt avec les avant-bras verticaux en posture du cavalier** (*Sitting stance twin vertical forearm checking / stopping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale consiste à intercepter et stopper net (*Momchau*) une attaque directe et puissante de face (comme un coup de pied frontal ou un coup de poing pénétrant) en opposant une structure rigide formée par les deux avant-bras maintenus à la verticale (*Sang Sun Palmok*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Sang (쌍) :** Double / Jumeau (*Twin / Double*).
-* **Sun (선) :** Vertical / Droit / Érigé (*Vertical / Upright*).
-* **Palmok (팔목) :** Avant-bras (*Forearm*).
-* **Momchau (멈춤) :** Arrêt / Blocage stoppeur (*Checking / Stopping*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumeau (*Twin / Double*).
+* **Sun ([선](../audio/termes/선.m4a)) :** Vertical / Droit / Érigé (*Vertical / Upright*).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
+* **Momchau ([멈춤](../audio/termes/멈춤.m4a)) :** Arrêt / Blocage stoppeur (*Checking / Stopping*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

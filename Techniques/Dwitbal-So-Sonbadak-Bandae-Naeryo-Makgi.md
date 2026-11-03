@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [뒷발 서 손바닥 반대 내려 막기](../audio/Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.m4a)
 
-Le **Dwitbal So Sonbadak Bandae Naeryo Makgi** (뒷발 서 손바닥 반대 내려 막기) est le **blocage descendant inverse avec la paume de la main en posture du pied arrière** (*Rear foot stance palm downward reverse block*) en TaeKwon-Do ITF.
+Le **Dwitbal So Sonbadak Bandae Naeryo Makgi** ([뒷발 서 손바닥 반대 내려 막기](../audio/Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.m4a)) est le **blocage descendant inverse avec la paume de la main en posture du pied arrière** (*Rear foot stance palm downward reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à une main utilise la surface charnue de la paume (*Sonbadak*) du bras opposé à la jambe avant (*Bandae*) pour pousser ou dévier vers le bas (*Naeryo*) une attaque basse (coup de pied direct bas ou attaque au bas-ventre), tout en maintenant le buste en sécurité grâce au recul du poids du corps sur la jambe arrière (*Dwitbal Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Bandae (반대) :** Inverse / Opposé (*Reverse* — la main qui bloque est opposée à la jambe située à l'avant).
-* **Naeryo (내려) :** Descendant / Vers le bas (*Downward*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — la main qui bloque est opposée à la jambe située à l'avant).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Vers le bas (*Downward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -64,7 +64,7 @@ pied** pour les femmes.
 
 ---
 
-## 4. Les techniques spéciales (Tukgi — 특기)
+## 4. Les techniques spéciales (Tukgi — [특기](../audio/combats/Tukgi.m4a))
 
 Les techniques spéciales ne prouvent pas la puissance : elles démontrent la
 capacité d'atteindre avec précision un adversaire **au-delà d'un obstacle ou à

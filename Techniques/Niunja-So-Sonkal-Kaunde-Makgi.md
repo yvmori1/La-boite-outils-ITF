@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼 가운데 막기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Makgi.m4a)
 
-Le **Niunja So Sonkal Kaunde Makgi** (ㄴ자 서 손칼 가운데 막기) est le **blocage moyen au tranchant de la main en posture en L** (*L-stance knife-hand middle block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Kaunde Makgi** ([ㄴ자 서 손칼 가운데 막기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Makgi.m4a)) est le **blocage moyen au tranchant de la main en posture en L** (*L-stance knife-hand middle block*) en TaeKwon-Do ITF.
 
 Cette technique défensive utilise le tranchant de la main ouverte (**Sonkal**) pour intercepter ou dévier une attaque directe (coup de poing ou coup de pied) dirigée vers le niveau moyen (*Kaunde* — le plexus solaire ou le buste), tout en profitant du profil réduit et de la stabilité en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

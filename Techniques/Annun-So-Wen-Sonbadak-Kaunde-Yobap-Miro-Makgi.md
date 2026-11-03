@@ -2,19 +2,19 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 손바닥 가운데 옆앞 밀어 막기](../audio/Techniques/Annun-So-Wen-Sonbadak-Kaunde-Yobap-Miro-Makgi.m4a)
 
-Le **Annun So Wen Sonbadak Kaunde Yobap Miro Makgi** (앉은 서 왼 손바닥 가운데 옆앞 밀어 막기) est le **blocage poussoir moyen latéral-frontal gauche avec la paume de la main en posture du cavalier** (*Sitting stance left palm middle side-front pushing block*) en TaeKwon-Do ITF.
+Le **Annun So Wen Sonbadak Kaunde Yobap Miro Makgi** ([앉은 서 왼 손바닥 가운데 옆앞 밀어 막기](../audio/Techniques/Annun-So-Wen-Sonbadak-Kaunde-Yobap-Miro-Makgi.m4a)) est le **blocage poussoir moyen latéral-frontal gauche avec la paume de la main en posture du cavalier** (*Sitting stance left palm middle side-front pushing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive contrôlée utilise la paume de la main gauche (*Sonbadak*) dans un mouvement de pression ou de poussée fluide et continue (*Miro*) vers la diagonale à 45° (*Yobap*). Elle permet d'intercepter, d'absorber et de repousser une attaque moyenne (coup de poing, coup de pied direct ou oblique) sans choc osseux brutal.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Kaunde (가운데) :** Niveau moyen (hauteur du plexus solaire ou du thorax).
-* **Yobap / Yop Ap (옆앞) :** Latéral-frontal / Diagonale avant-côté à 45° (*Side front*).
-* **Miro (밀어) :** En poussant / Pression contrôlée (*Pushing*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur du plexus solaire ou du thorax).
+* **Yobap / Yop Ap ([옆앞](../audio/termes/옆앞.m4a)) :** Latéral-frontal / Diagonale avant-côté à 45° (*Side front*).
+* **Miro ([밀어](../audio/termes/밀어.m4a)) :** En poussant / Pression contrôlée (*Pushing*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

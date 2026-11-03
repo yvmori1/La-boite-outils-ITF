@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [나란히 막기](../audio/makgi/narani-makgi.m4a)
 
-Le **Narani Makgi** (나란히 막기) est le **blocage parallèle** (*Parallel block*) en TaeKwon-Do ITF.
+Le **Narani Makgi** ([나란히 막기](../audio/makgi/narani-makgi.m4a)) est le **blocage parallèle** (*Parallel block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Narani (나란히) :** Parallèle / Côte à côte / Alignés (dérivé de l'adverbe coréen désignant deux objets placés sur des lignes parallèles).
-* **Makgi (막기) :** Blocage / Défense.
+* **Narani ([나란히](../audio/termes/나란히.m4a)) :** Parallèle / Côte à côte / Alignés (dérivé de l'adverbe coréen désignant deux objets placés sur des lignes parallèles).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Le **Narani Makgi** désigne une technique défensive double dans laquelle **les deux bras s'élancent et se verrouillent de manière strictement parallèle** pour intercepter ou dévier une attaque. Contrairement au blocage écarté (*Heutcho Makgi*) où les bras partent vers l'extérieur opposé, ou au blocage croisé (*Kyocha Makgi*), le *Narani Makgi* maintient les deux membres dans un axe géométrique identique.
 

@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [내려 차기](../audio/Techniques/Naeryo-Chagi.m4a)
 
-Le **Naeryo Chagi** (내려 차기) — aussi appelé *Axe Kick* ou coup de pied marteau — est le **coup de pied descendant** en TaeKwon-Do.
+Le **Naeryo Chagi** ([내려 차기](../audio/Techniques/Naeryo-Chagi.m4a)) — aussi appelé *Axe Kick* ou coup de pied marteau — est le **coup de pied descendant** en TaeKwon-Do.
 
 Cette technique d'attaque verticale percutante consiste à monter la jambe très haut au-dessus du niveau de la cible (visage, clavicule, épaule), puis à la rabattre lourdement du haut vers le bas comme une hache ou un marteau, en utilisant le poids du corps et la gravité.
 
 Sa décomposition linguistique est la suivante :
 
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
-* **Chagi (차기) :** Coup de pied (*Kick*).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [걷는 서 뒤집은 손끝 낮은데 찌르기](../audio/Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.m4a)
 
-Le **Gunnun So Dwijibun Sonkut Najunde Tulgi** (걷는 서 뒤집은 손끝 낮은데 찌르기) est une technique d'attaque perforante, précise et particulièrement dangereuse du Taekwon-Do (ITF).
+Le **Gunnun So Dwijibun Sonkut Najunde Tulgi** ([걷는 서 뒤집은 손끝 낮은데 찌르기](../audio/Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.m4a)) est une technique d'attaque perforante, précise et particulièrement dangereuse du Taekwon-Do (ITF).
 
 Elle se traduit par : **Pique du bout des doigts retournée au niveau bas en position en marche**.
 
@@ -12,11 +12,11 @@ Elle se traduit par : **Pique du bout des doigts retournée au niveau bas en pos
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Gunnun So (Sogi)** | 걷는 서기 | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, 50/50). |
-| **Dwijibun** | 뒤집은 | Retourné / Inverse (*Upset*) | Signifie que la main finit sa course **paume orientée vers le haut**. |
-| **Sonkut** | 손끝 | Bout des doigts | Surface de frappe (extrémité des quatre doigts fermement tendus et regroupés). |
-| **Najunde** | 낮은데 | Niveau bas | Hauteur de la cible (au niveau du bas-ventre, de la vessie ou de l'aine). |
-| **Tulgi** | 찌르기 | Pique / Poussée | Mouvement de perforation rectiligne (effet baïonnette). |
+| **Gunnun So (Sogi)** | [걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a) | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, 50/50). |
+| **Dwijibun** | [뒤집은](../audio/termes/뒤집은.m4a) | Retourné / Inverse (*Upset*) | Signifie que la main finit sa course **paume orientée vers le haut**. |
+| **Sonkut** | [손끝](../audio/termes/손끝.m4a) | Bout des doigts | Surface de frappe (extrémité des quatre doigts fermement tendus et regroupés). |
+| **Najunde** | [낮은데](../audio/grammaire/Najunde.m4a) | Niveau bas | Hauteur de la cible (au niveau du bas-ventre, de la vessie ou de l'aine). |
+| **Tulgi** | [찌르기](../audio/termes/찌르기.m4a) | Pique / Poussée | Mouvement de perforation rectiligne (effet baïonnette). |
 
 ---
 

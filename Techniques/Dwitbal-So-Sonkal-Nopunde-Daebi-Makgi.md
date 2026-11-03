@@ -1,18 +1,18 @@
 # Dwitbal So Sonkal Nopunde Daebi Makgi
 
-> 🔊 **Prononciation :** [뒷발 서 손칼 높인데 대비 막기](../audio/Techniques/Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.m4a)
+> 🔊 **Prononciation :** [뒷발 서 손칼 높은데 대비 막기](../audio/Techniques/Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.m4a)
 
-Le **Dwitbal So Sonkal Nopunde Daebi Makgi** (뒷발 서 손칼 높인데 대비 막기) est le **blocage de garde haut au double tranchant de la main en posture du pied arrière** (*Rear foot stance knife-hand high guarding block*) en TaeKwon-Do ITF.
+Le **Dwitbal So Sonkal Nopunde Daebi Makgi** ([뒷발 서 손칼 높은데 대비 막기](../audio/Techniques/Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.m4a)) est le **blocage de garde haut au double tranchant de la main en posture du pied arrière** (*Rear foot stance knife-hand high guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à deux mains combine la polyvalence protectrice du tranchant des mains ouvertes (*Sonkal*) avec l'esquive en retrait de la posture *Dwitbal Sogi* (95% du poids sur la jambe arrière). Elle protège la tête et le visage (*Nopunde*) contre les attaques hautes tout en offrant une réactivité maximale pour riposter.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi (뒷발 서 / 뒷발 서기) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux / du visage).
-* **Daebi (대비) :** De garde / Protection (*Guarding*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** De garde / Protection (*Guarding*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

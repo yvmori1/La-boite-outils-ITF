@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [산 막기](../audio/makgi/san-makgi.m4a)
 
-Le **San Makgi** (산 막기) est le **blocage montagne / blocage en "W"** (*Mountain block* ou *W-shape block*) en TaeKwon-Do ITF.
+Le **San Makgi** ([산 막기](../audio/makgi/san-makgi.m4a)) est le **blocage montagne / blocage en "W"** (*Mountain block* ou *W-shape block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **San (산) :** Montagne (évoque les trois sommets du caractère coréen 山 / 산 ou la forme de la lettre "W").
-* **Makgi (막기) :** Blocage / Défense.
+* **San ([산](../audio/termes/산.m4a)) :** Montagne (évoque les trois sommets du caractère coréen 山 / [산](../audio/termes/산.m4a) ou la forme de la lettre "W").
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Le **San Makgi** est un blocage double très puissant et visuel dans lequel **les deux bras s'élancent simultanément vers le haut et l'extérieur**, formant une structure symétrique en "W" capable d'intercepter deux attaques au niveau haut (*Nopunde*) ou de faire sauter des saisies lourdes au niveau de la tête et des épaules.
 

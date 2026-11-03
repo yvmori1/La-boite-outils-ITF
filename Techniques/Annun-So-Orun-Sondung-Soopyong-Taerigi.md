@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 손등 수평 때리기](../audio/Techniques/Annun-So-Orun-Sondung-Soopyong-Taerigi.m4a)
 
-Le **Annun So Orun Sondung Soopyong Taerigi** (앉은 서 오른 손등 수평 때리기) est la **frappe horizontale cinglante avec le dos de la main droite en posture du cavalier** (*Sitting stance right back hand horizontal strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Sondung Soopyong Taerigi** ([앉은 서 오른 손등 수평 때리기](../audio/Techniques/Annun-So-Orun-Sondung-Soopyong-Taerigi.m4a)) est la **frappe horizontale cinglante avec le dos de la main droite en posture du cavalier** (*Sitting stance right back hand horizontal strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et fouettée utilise le dos de la main ouverte (*Sondung*) pour délivrer un coup percutant selon une trajectoire strictement parallèle au sol (*Soopyong*), visant généralement le cou, la tempe ou le visage de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Sondung (손등) :** Dos de la main ouverte (*Back of the hand*).
-* **Soopyong (수평) :** Horizontal (*Horizontal*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Sondung ([손등](../audio/termes/손등.m4a)) :** Dos de la main ouverte (*Back of the hand*).
+* **Soopyong ([수평](../audio/termes/수평.m4a)) :** Horizontal (*Horizontal*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

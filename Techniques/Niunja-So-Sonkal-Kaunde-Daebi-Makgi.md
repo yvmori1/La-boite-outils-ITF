@@ -2,21 +2,21 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)
 
-Le **Niunja So Sonkal Kaunde Daebi Makgi** (ㄴ자 서 손칼 가운데 대비 막기 — couramment retranscrit **Niunja Sogi Sonkal Kaujunde Daebi Makgi**) est le **blocage moyen de garde au tranchant des mains en posture en L** (*Middle knife-hand guarding block in L-stance*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Kaunde Daebi Makgi** ([ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a) — couramment retranscrit **Niunja Sogi Sonkal Kaujunde Daebi Makgi**) est le **blocage moyen de garde au tranchant des mains en posture en L** (*Middle knife-hand guarding block in L-stance*) en TaeKwon-Do ITF.
 
 C'est l'une des techniques défensives et des postures de garde les plus emblématiques et les plus fréquentes de tout le système ITF. Elle combine la protection à deux mains ouvertes (*Sonkal*) avec la grande mobilité d'esquive de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Sogi (ㄴ자 서기) :** Posture en L (*L-stance*).
-* **Sonkal (손칼) :** Tranchant de la main (côté du petit doigt, de la base du poignet à la première jointure).
-* **Kaunde / Kaujunde (가운데) :** Niveau moyen (*Middle level* — zone de la poitrine et du thorax).
-* **Daebi (대비) :** Garde / Protection / Préparation (*Guarding*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Niunja So / Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (côté du petit doigt, de la base du poignet à la première jointure).
+* **Kaunde / Kaujunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — zone de la poitrine et du thorax).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection / Préparation (*Guarding*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 
-## 1. La posture de base : *Niunja Sogi* (ㄴ자 서기)
+## 1. La posture de base : *Niunja Sogi* ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a))
 
 La posture en L présente le corps de trois-quarts (*Half-facing*), réduisant la surface de cible offerte à l'adversaire :
 

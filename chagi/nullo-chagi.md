@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [눌러 차기](../audio/chagi/nullo-chagi.m4a)
 
-Le **Nullo Chagi** (눌러 차기 — souvent retranscrit *Noolloo Chagi*) est le **coup de pied pressant / coup de pied avec pression** (*Pressing kick*) en TaeKwon-Do ITF.
+Le **Nullo Chagi** ([눌러 차기](../audio/chagi/nullo-chagi.m4a) — souvent retranscrit *Noolloo Chagi*) est le **coup de pied pressant / coup de pied avec pression** (*Pressing kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Nullo / Noolloo (눌러) :** Presser, appuyer, écraser vers le bas (du verbe *nureuda*, 눌르다 / 누르다).
-* **Chagi (차기) :** Coup de pied.
+* **Nullo / Noolloo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser, appuyer, écraser vers le bas (du verbe *nureuda*, [눌르다](../audio/termes/눌르다.m4a) / [누르다](../audio/termes/누르다.m4a)).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 Contrairement aux coups de pied percutants ou fouettés (*Busigi*), le *Nullo Chagi* est une technique de contrainte physique et de destruction directe. Elle utilise le poids du corps et la force gravitationnelle pour **écraser une articulation, piétiner le coup de pied adverse ou stopper l'avancée d'un attaquant**.
 
@@ -15,9 +15,9 @@ Contrairement aux coups de pied percutants ou fouettés (*Busigi*), le *Nullo Ch
 
 ## 1. Les surfaces d'impact et les cibles (*Jook Bang*)
 
-* **Dwitchuk (base / dessous du talon - 뒤축) :** L'arme naturelle principale pour transmettre une pression lourde et directe.
-* **Balbadak (plante du pied - 발바닥) :** Utilisée pour une surface d'appui plus large lors de la pression sur une cuisse ou une garde.
-* **Balkal (chant externe du pied - 발칼) :** Utilisé dans les variantes de pression latérale (*Yop Nullo Chagi*).
+* **Dwitchuk (base / dessous du talon - [뒤축](../audio/termes/뒤축.m4a)) :** L'arme naturelle principale pour transmettre une pression lourde et directe.
+* **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** Utilisée pour une surface d'appui plus large lors de la pression sur une cuisse ou une garde.
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Utilisé dans les variantes de pression latérale (*Yop Nullo Chagi*).
 * **Les cibles privilégiées :**
 * **Le dessus du pied / Le coup-de-pied (*Instep*) :** Écraser le pied adverse coincé au sol pour l'immobiliser ou lui briser les métatarses.
 * **L'articulation du genou :** Pression oblique de haut en bas sur le rotule ou le rotulien pour hyper-étendre ou casser l'articulation.

@@ -1,15 +1,17 @@
 # Gunnun So Sonbadak Noollo Makgi
 
-Le **Gunnun So Sonbadak Noollo Makgi** (걷는 서 손바닥 눌러 막기) est le **blocage pressant avec la paume en posture de marche** (*Walking stance pressing block with a palm*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 눌러 막기](../audio/Techniques/Gunnun-So-Sonbadak-Noollo-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Noollo Makgi** ([걷는 서 손바닥 눌러 막기](../audio/Techniques/Gunnun-So-Sonbadak-Noollo-Makgi.m4a)) est le **blocage pressant avec la paume en posture de marche** (*Walking stance pressing block with a palm*) en TaeKwon-Do ITF.
 
 La paume (**Sonbadak**) descend en pressant pour écraser vers le bas une attaque basse ou moyenne, typiquement un coup de pied direct. Dans Ko-Dang, la paume qui bloque est celle du côté de la jambe arrière : la technique est donc exécutée en *Bandae*, même si le nom de la forme ne le précise pas.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Noollo (눌러) :** En pressant (*Pressing*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Noollo ([눌러](../audio/grammaire/Nullo.m4a)) :** En pressant (*Pressing*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

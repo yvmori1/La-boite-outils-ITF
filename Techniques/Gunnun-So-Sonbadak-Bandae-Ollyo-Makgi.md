@@ -1,16 +1,18 @@
 # Gunnun So Sonbadak Bandae Ollyo Makgi
 
-Le **Gunnun So Sonbadak Bandae Ollyo Makgi** (걷는 서 손바닥 반대 올려 막기) est le **blocage montant inversé avec la paume en posture de marche** (*Walking stance reverse upward block with a palm*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 반대 올려 막기](../audio/Techniques/Gunnun-So-Sonbadak-Bandae-Ollyo-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Bandae Ollyo Makgi** ([걷는 서 손바닥 반대 올려 막기](../audio/Techniques/Gunnun-So-Sonbadak-Bandae-Ollyo-Makgi.m4a)) est le **blocage montant inversé avec la paume en posture de marche** (*Walking stance reverse upward block with a palm*) en TaeKwon-Do ITF.
 
 La paume (**Sonbadak**) monte de bas en haut pour soulever et dévier une attaque, coup de poing ou coup de pied, vers le haut. Elle est exécutée par la main du côté de la jambe arrière.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Ollyo (올려) :** Vers le haut / montant (*Upward*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Vers le haut / montant (*Upward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

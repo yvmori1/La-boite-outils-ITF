@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [옆 발바닥 쓸어 차기](../audio/Techniques/Yop-Bal-Badak-Suroh-Chagi.m4a)
 
-Le **Yop Bal Badak Suroh Chagi** (옆 발바닥 쓸어 차기) est le **coup de pied balayé latéral avec la plante du pied** (*Side sole sweeping kick*) en TaeKwon-Do ITF.
+Le **Yop Bal Badak Suroh Chagi** ([옆 발바닥 쓸어 차기](../audio/Techniques/Yop-Bal-Badak-Suroh-Chagi.m4a)) est le **coup de pied balayé latéral avec la plante du pied** (*Side sole sweeping kick*) en TaeKwon-Do ITF.
 
 Cette technique de fauchage bas utilise la surface plane de la plante du pied (*Bal Badak*) pour exécuter un balayage circulaire et rasant (*Suroh*) au niveau des chevilles ou du bas du tibia. Son objectif principal est de rompre les appuis de l'adversaire, d'intercepter la jambe d'appui lors d'une attaque ou de provoquer une chute (*Takedown*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Yop (옆) :** Latéral / Sur le côté (*Side*).
-* **Bal Badak (발바닥) :** Plante du pied / Dessous du pied (*Sole of the foot*).
-* **Suroh / Ssuro (쓸어) :** Balayer / Faucher / Gratter (*Sweeping / Scraping*).
-* **Chagi (차기) :** Coup de pied (*Kick*).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
+* **Bal Badak ([발바닥](../audio/grammaire/Balbadak.m4a)) :** Plante du pied / Dessous du pied (*Sole of the foot*).
+* **Suroh / Ssuro ([쓸어](../audio/grammaire/Suroh.m4a)) :** Balayer / Faucher / Gratter (*Sweeping / Scraping*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

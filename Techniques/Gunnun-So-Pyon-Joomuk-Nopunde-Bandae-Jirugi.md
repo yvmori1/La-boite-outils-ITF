@@ -1,18 +1,18 @@
 # Gunnun So Pyon Joomuk Nopunde Bandae Jirugi
 
-> 🔊 **Prononciation :** [걷는 서 편주먹 높인데 반대 지르기](../audio/Techniques/Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.m4a)
+> 🔊 **Prononciation :** [걷는 서 편주먹 높은데 반대 지르기](../audio/Techniques/Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.m4a)
 
-Le **Gunnun So Pyon Joomuk Nopunde Bandae Jirugi** (걷는 서 편주먹 높인데 반대 지르기) est le **coup de poing direct inversé au niveau haut avec les deuxièmes jointures (poing plat) en posture de marche** (*Walking stance flat fist high reverse punch*) en TaeKwon-Do ITF.
+Le **Gunnun So Pyon Joomuk Nopunde Bandae Jirugi** ([걷는 서 편주먹 높은데 반대 지르기](../audio/Techniques/Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.m4a)) est le **coup de poing direct inversé au niveau haut avec les deuxièmes jointures (poing plat) en posture de marche** (*Walking stance flat fist high reverse punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque perforante utilise les deuxièmes articulations des quatre doigts repliés (**Pyon Joomuk**) pour frapper de façon rectiligne une cible haute très ciblée et étroite (comme le philtrum, le dessus de la lèvre supérieure ou le dessous du nez). L'indication **Bandae** (inversé) signifie que le coup est porté par le bras **du côté de la jambe arrière** (opposé à la jambe avant).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Pyon Joomuk / Pyeon Joomuk (편주먹) :** Poing plat / Poing aux deuxièmes jointures (*Flat fist* — les premières phalanges sont repliées à plat contre la paume, présentant une rangée alignée de quatre jointures).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur du philtrum ou du nez).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Pyon Joomuk / Pyeon Joomuk ([편주먹](../audio/grammaire/Pyun-Joomuk.m4a)) :** Poing plat / Poing aux deuxièmes jointures (*Flat fist* — les premières phalanges sont repliées à plat contre la paume, présentant une rangée alignée de quatre jointures).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du philtrum ou du nez).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

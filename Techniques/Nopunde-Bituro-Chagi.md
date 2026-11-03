@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [높은데 비틀어 차기](../audio/Techniques/Nopunde-Bituro-Chagi.m4a)
 
-Le **Nopunde Bituro Chagi** (높은데 비틀어 차기) est une technique d'attaque déroutante qui utilise une trajectoire de biais de l'intérieur vers l'extérieur.
+Le **Nopunde Bituro Chagi** ([높은데 비틀어 차기](../audio/Techniques/Nopunde-Bituro-Chagi.m4a)) est une technique d'attaque déroutante qui utilise une trajectoire de biais de l'intérieur vers l'extérieur.
 
 Elle se traduit par : **Coup de pied en torsade / de biais au niveau haut** (*High Twisting Kick*).
 
@@ -10,9 +10,9 @@ Elle se traduit par : **Coup de pied en torsade / de biais au niveau haut** (*Hi
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (visage, tempe). |
-| **Bituro** | 비틀어 | Torsadé / De biais | Trajectoire vrillée de l'intérieur vers l'extérieur. |
-| **Chagi** | 차기 | Coup de pied | Technique d'attaque de jambe. |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (visage, tempe). |
+| **Bituro** | [비틀어](../audio/grammaire/Bituro.m4a) | Torsadé / De biais | Trajectoire vrillée de l'intérieur vers l'extérieur. |
+| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Technique d'attaque de jambe. |
 
 ## 2. Exécution et principes biomécaniques
 

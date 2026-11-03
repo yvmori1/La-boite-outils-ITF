@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 손바닥 들어 막기](../audio/Techniques/Annun-So-Wen-Sonbadak-Duro-Makgi.m4a)
 
-Le **Annun So Wen Sonbadak Duro Makgi** (앉은 서 왼 손바닥 들어 막기) est le **blocage ascendant en cuillère avec la paume de la main gauche en posture du cavalier** (*Sitting stance left palm scooping block*) en TaeKwon-Do ITF.
+Le **Annun So Wen Sonbadak Duro Makgi** ([앉은 서 왼 손바닥 들어 막기](../audio/Techniques/Annun-So-Wen-Sonbadak-Duro-Makgi.m4a)) est le **blocage ascendant en cuillère avec la paume de la main gauche en posture du cavalier** (*Sitting stance left palm scooping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fluide et hautement efficace utilise la paume de la main gauche (*Sonbadak*) dans une trajectoire en arc ascendant (*Duro*) pour passer sous l'attaque de l'adversaire (généralement un coup de pied direct bas ou moyen), la cueillir et la soulever afin de rompre son équilibre.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Duro (들어) :** En cuillère / Ascendant / Soulever (*Scooping / Lifting*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Duro ([들어](../audio/termes/들어.m4a)) :** En cuillère / Ascendant / Soulever (*Scooping / Lifting*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

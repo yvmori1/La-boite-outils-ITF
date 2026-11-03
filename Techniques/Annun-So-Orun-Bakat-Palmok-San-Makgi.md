@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 바깥팔목 산막기](../audio/Techniques/Annun-So-Orun-Bakat-Palmok-San-Makgi.m4a)
 
-Le **Annun So Orun Bakat Palmok San Makgi** (앉은 서 오른 바깥팔목 산막기) est le **blocage en montagne (en "W") droit avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance right outer forearm mountain / W-shape block*) en TaeKwon-Do ITF.
+Le **Annun So Orun Bakat Palmok San Makgi** ([앉은 서 오른 바깥팔목 산막기](../audio/Techniques/Annun-So-Orun-Bakat-Palmok-San-Makgi.m4a)) est le **blocage en montagne (en "W") droit avec l'avant-bras extérieur en posture du cavalier** (*Sitting stance right outer forearm mountain / W-shape block*) en TaeKwon-Do ITF.
 
 Cette technique consiste à élever les bras pour former la silhouette du caractère signifiant "montagne" (**山 — *San***), en mettant l'accent sur la structure défensive du bras droit (*Orun*) pour intercepter ou dégager une attaque haute.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Bakat Palmok (바깥팔목) :** Avant-bras extérieur (côté petit doigt / ulna).
-* **San (산) :** Montagne / Forme en "W" (*Mountain / W-shape*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras extérieur (côté petit doigt / ulna).
+* **San ([산](../audio/termes/산.m4a)) :** Montagne / Forme en "W" (*Mountain / W-shape*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

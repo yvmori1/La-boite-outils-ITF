@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 뒷발 서 팔목 가운데 대비 막기](../audio/Techniques/Orun-Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.m4a)
 
-Le **Orun Dwitbal So Palmok Kaunde Daebi Makgi** (오른 뒷발 서 팔목 가운데 대비 막기) est une technique défensive classique du Taekwon-Do (ITF) qui privilégie la mobilité et la protection rapprochée.
+Le **Orun Dwitbal So Palmok Kaunde Daebi Makgi** ([오른 뒷발 서 팔목 가운데 대비 막기](../audio/Techniques/Orun-Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.m4a)) est une technique défensive classique du Taekwon-Do (ITF) qui privilégie la mobilité et la protection rapprochée.
 
 Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position pied arrière droite**.
 
@@ -12,12 +12,12 @@ Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position pied 
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique la position pied arrière droite (le pied droit est à l'arrière et porte 95 % du poids). |
-| **Dwitbal So (Sogi)** | 뒷발 서기 | Position pied arrière (*Rear Foot Stance*) | Posture haute et très mobile (95 % du poids sur la jambe arrière, 5 % sur la plante du pied avant). |
-| **Palmok** | 팔목 | Avant-bras | Zone de blocage (utilisation des avant-bras avec les **poings fermés**). |
-| **Kaunde** | 가운데 | Niveau moyen | Hauteur d'exécution (au niveau de la poitrine / du plexus solaire). |
-| **Daebi** | 대비 | Garde / Protection | Action où les deux bras travaillent ensemble pour former un bouclier défensif. |
-| **Makgi** | 막기 | Blocage / Défense | Action de dévier, neutraliser ou stopper une attaque. |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position pied arrière droite (le pied droit est à l'arrière et porte 95 % du poids). |
+| **Dwitbal So (Sogi)** | [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a) | Position pied arrière (*Rear Foot Stance*) | Posture haute et très mobile (95 % du poids sur la jambe arrière, 5 % sur la plante du pied avant). |
+| **Palmok** | [팔목](../audio/grammaire/Palmok.m4a) | Avant-bras | Zone de blocage (utilisation des avant-bras avec les **poings fermés**). |
+| **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur d'exécution (au niveau de la poitrine / du plexus solaire). |
+| **Daebi** | [대비](../audio/termes/대비.m4a) | Garde / Protection | Action où les deux bras travaillent ensemble pour former un bouclier défensif. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de dévier, neutraliser ou stopper une attaque. |
 
 ---
 

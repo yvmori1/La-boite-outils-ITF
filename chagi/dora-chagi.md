@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [돌아 차기](../audio/chagi/dora-chagi.m4a)
 
-Le **Dora Chagi** (돌아 차기 — fréquemment retranscrit ou prononcé *Doro Chagi*) est le **coup de pied retourné / en rotation** (*Turning or Spinning kick*) en TaeKwon-Do ITF.
+Le **Dora Chagi** ([돌아 차기](../audio/chagi/dora-chagi.m4a) — fréquemment retranscrit ou prononcé *Doro Chagi*) est le **coup de pied retourné / en rotation** (*Turning or Spinning kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dora (돌아) :** Tourner, pivoter, effectuer une rotation par le dos (du verbe *dolda*, 돌다).
+* **Dora ([돌아](../audio/grammaire/Dora.m4a)) :** Tourner, pivoter, effectuer une rotation par le dos (du verbe *dolda*, [돌다](../audio/termes/돌다.m4a)).
 *(Note : « Doro » est une transcription phonétique très courante en Occident, mais la terminologie officielle répertoriée dans l'encyclopédie ITF s'écrit **Dora**).*
-* **Chagi (차기) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 En TaeKwon-Do ITF, **Dora** ne désigne pas une arme naturelle ou une trajectoire de frappe unique, mais un **mode d'exécution par rotation du corps** (à 180° ou 360°). Associé à une technique de pied de base, il transforme une frappe classique en une attaque retournée surpuissante.
 

@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 손바닥 들러막기](../audio/Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.m4a)
 
-Le **Annun So Orun Sonbadak Duro Makgi** (앉은 서 오른 손바닥 들러막기 / 두로막기 — parfois translittéré *Dulleo Makgi*) est le **blocage en cuillère droit avec la paume de la main en posture du cavalier** (*Sitting stance right palm scooping block*) en TaeKwon-Do ITF.
+Le **Annun So Orun Sonbadak Duro Makgi** ([앉은 서 오른 손바닥 들러막기](../audio/Techniques/Annun-So-Orun-Sonbadak-Duro-Makgi.m4a) / [두로막기](../audio/termes/두로막기.m4a) — parfois translittéré *Dulleo Makgi*) est le **blocage en cuillère droit avec la paume de la main en posture du cavalier** (*Sitting stance right palm scooping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive subtile ne cherche pas à percuter violemment l'attaque adverse, mais à la **cueillir par le dessous en mouvement circulaire** pour élever le membre attaquant (généralement un coup de pied) et briser l'équilibre de l'agresseur.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand*).
-* **Duro / Dulleo (들러 / 두로) :** En cuillère / Mouvement remontant incurvé (*Scooping*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
+* **Duro / Dulleo ([들러](../audio/termes/들러.m4a) / [두로](../audio/termes/두로.m4a)) :** En cuillère / Mouvement remontant incurvé (*Scooping*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼 낮은데 반대 막기](../audio/Techniques/Niunja-So-Sonkal-Najunde-Bandae-Makgi.m4a)
 
-Le **Niunja So Sonkal Najunde Bandae Makgi** (ㄴ자 서 손칼 낮은데 반대 막기) est le **blocage bas inversé au tranchant de la main en posture en L** (*L-stance knife-hand low reverse block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Najunde Bandae Makgi** ([ㄴ자 서 손칼 낮은데 반대 막기](../audio/Techniques/Niunja-So-Sonkal-Najunde-Bandae-Makgi.m4a)) est le **blocage bas inversé au tranchant de la main en posture en L** (*L-stance knife-hand low reverse block*) en TaeKwon-Do ITF.
 
 Cette technique défensive utilise le tranchant extérieur de la main ouverte (**Sonkal**) pour dévier ou intercepter une attaque basse (coup de pied direct *Ap Chagi* ou frappe basse) dirigée vers le bas-ventre ou les cuisses. L'indication **Bandae** (inversé) précise que le blocage est exécuté par le bras **du côté de la jambe avant** (opposé à la jambe arrière qui définit le nom de la posture).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte, du petit doigt au poignet).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture/niveau du bas-ventre).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte, du petit doigt au poignet).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/niveau du bas-ventre).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

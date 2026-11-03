@@ -1,19 +1,19 @@
 # Annun So Orun Sonkal Najunde Yop Makgi
 
-> 🔊 **Prononciation :** [앉은 서 오른 손칼 낮운데 옆 막기](../audio/Techniques/Annun-So-Orun-Sonkal-Najunde-Yop-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 오른 손칼 낮은데 옆 막기](../audio/Techniques/Annun-So-Orun-Sonkal-Najunde-Yop-Makgi.m4a)
 
-Le **Annun So Orun Sonkal Najunde Yop Makgi** (앉은 서 오른 손칼 낮운데 옆 막기) est le **blocage latéral bas droit au tranchant de la main en posture du cavalier** (*Sitting stance right knife-hand low side block*) en TaeKwon-Do ITF.
+Le **Annun So Orun Sonkal Najunde Yop Makgi** ([앉은 서 오른 손칼 낮은데 옆 막기](../audio/Techniques/Annun-So-Orun-Sonkal-Najunde-Yop-Makgi.m4a)) est le **blocage latéral bas droit au tranchant de la main en posture du cavalier** (*Sitting stance right knife-hand low side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive rapide et tranchante utilise le bord extérieur de la main ouverte (*Sonkal*) pour intercepter, casser ou dévier vers le bas (*Najunde*) et sur le côté (*Yop*) une attaque venant frapper la partie inférieure du corps (bas-ventre, hanche ou cuisse).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — du côté du petit doigt, du poignet jusqu'à la première articulation de l'auriculaire).
-* **Najunde (낮운데) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
-* **Yop (옆) :** Latéral / Vers le côté (*Side*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — du côté du petit doigt, du poignet jusqu'à la première articulation de l'auriculaire).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Vers le côté (*Side*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

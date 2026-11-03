@@ -1,16 +1,18 @@
 # Gunnun So Sonbadak Nopunde Golcho Makgi
 
-Le **Gunnun So Sonbadak Nopunde Golcho Makgi** (걷는 서 손바닥 높은데 걸쳐 막기) est le **blocage crocheté haut avec la paume en posture de marche** (*Walking stance high hooking block with a palm*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 높은데 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Nopunde-Golcho-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Nopunde Golcho Makgi** ([걷는 서 손바닥 높은데 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Nopunde-Golcho-Makgi.m4a)) est le **blocage crocheté haut avec la paume en posture de marche** (*Walking stance high hooking block with a palm*) en TaeKwon-Do ITF.
 
 La paume (**Sonbadak**) vient accrocher le poignet ou l'avant-bras d'une attaque haute, comme un crochet, pour la dévier et la contrôler. C'est un blocage qui prépare la saisie. Dans Kwang-Gae, la paume qui bloque est celle du côté de la jambe avant.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Golcho (걸쳐) :** Crocheté (*Hooking*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Golcho ([걸쳐](../audio/termes/걸쳐.m4a)) :** Crocheté (*Hooking*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

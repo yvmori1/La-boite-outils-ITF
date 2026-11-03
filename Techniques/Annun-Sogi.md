@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [앉은 서기](../audio/Techniques/Annun-Sogi.m4a)
 
-Le **Annun Sogi** (앉은 서기), communément appelé la **posture du cavalier** (*Sitting stance*), est l'une des postures fondamentales les plus emblématiques et essentielles du TaeKwon-Do ITF.
+Le **Annun Sogi** ([앉은 서기](../audio/Techniques/Annun-Sogi.m4a)), communément appelé la **posture du cavalier** (*Sitting stance*), est l'une des postures fondamentales les plus emblématiques et essentielles du TaeKwon-Do ITF.
 
 Cette position offre une base ultra-stable, ancrée et équilibrée. Elle est intensivement utilisée dans le travail des mouvements fondamentaux (comme les séries de coups de poing en ligne), dans de nombreux tul (formes) ainsi que pour le conditionnement physique des membres inférieurs.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun (앉은) :** Assis (*Sitting* — du verbe *Antda* [앉다], s'asseoir).
-* **Sogi (서기) :** Posture / Position debout (*Stance*).
+* **Annun ([앉은](../audio/termes/앉은.m4a)) :** Assis (*Sitting* — du verbe *Antda* [[앉다](../audio/termes/앉다.m4a)], s'asseoir).
+* **Sogi ([서기](../audio/termes/서기.m4a)) :** Posture / Position debout (*Stance*).
 
 ---
 

@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [들어 막기](../audio/makgi/deuro-makgi.m4a)
 
-Le **Deuro Makgi** (들어 막기 — retranscrit **Duro Makgi** ou *Deul-eo Makgi*) est le **blocage en levant / blocage ascendant d'interception** (*Lifting block*) en TaeKwon-Do ITF.
+Le **Deuro Makgi** ([들어 막기](../audio/lexique/Duro-makgi.m4a) — retranscrit **Duro Makgi** ou *Deul-eo Makgi*) est le **blocage en levant / blocage ascendant d'interception** (*Lifting block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Deuro (들어) :** Soulever, lever, passer par-dessous pour relever (du verbe *deulda*, 들다 = lever / soulever).
-* **Makgi (막기) :** Blocage / Défense.
+* **Deuro ([들어](../audio/termes/들어.m4a)) :** Soulever, lever, passer par-dessous pour relever (du verbe *deulda*, [들다](../audio/termes/들다.m4a) = lever / soulever).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 

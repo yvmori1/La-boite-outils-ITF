@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [허리 막기](../audio/makgi/hori-makgi.m4a)
 
-Le **Hori Makgi** (허리 막기) est le **blocage au niveau de la taille / de la ceinture** (*Waist block*) en TaeKwon-Do ITF.
+Le **Hori Makgi** ([허리 막기](../audio/makgi/hori-makgi.m4a)) est le **blocage au niveau de la taille / de la ceinture** (*Waist block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Hori (허리) :** Taille / Hanche / Ligne de la ceinture (*Waist*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Hori ([허리](../audio/termes/허리.m4a)) :** Taille / Hanche / Ligne de la ceinture (*Waist*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Là où le *Najunde Makgi* cible le niveau bas (bas-ventre/cuisses) et le *Kaunde Makgi* le niveau moyen (plexus/poitrine), le **Hori Makgi** concentre sa protection spécifiquement sur **la ligne médiane de la taille, la ceinture et les flancs** (zone des côtes flottantes et des reins).
 

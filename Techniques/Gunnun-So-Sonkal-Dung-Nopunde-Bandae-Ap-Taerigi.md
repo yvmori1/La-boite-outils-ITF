@@ -1,19 +1,19 @@
 # Gunnun So Sonkal Dung Nopunde Bandae Ap Taerigi
 
-> 🔊 **Prononciation :** [건눈 서 손칼등 높은데 반대 앞 때리기](../audio/Techniques/Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.m4a)
+> 🔊 **Prononciation :** [걷는 서 손칼등 높은데 반대 앞 때리기](../audio/Techniques/Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.m4a)
 
-Le **Gunnun So Sonkal Dung Nopunde Bandae Ap Taerigi** (건눈 서 손칼등 높은데 반대 앞 때리기) est le **coup percutant frontal haut avec le revers du tranchant de la main en posture de marche inversée** (*Walking stance reverse ridge-hand high front strike*) en TaeKwon-Do ITF.
+Le **Gunnun So Sonkal Dung Nopunde Bandae Ap Taerigi** ([걷는 서 손칼등 높은데 반대 앞 때리기](../audio/Techniques/Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.m4a)) est le **coup percutant frontal haut avec le revers du tranchant de la main en posture de marche inversée** (*Walking stance reverse ridge-hand high front strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fluide et percutante est notamment exécutée au **mouvement 13 du patron Choong-Moo Tul**. Elle utilise le revers du tranchant de la main (**Sonkal Dung**) pour frapper le visage, la tempe ou la mâchoire d'un adversaire situé de face, tout en maintenant l'ancrage et la poussée de la posture de marche (**Gunnun Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (건눈 서기) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonkal Dung (손칼등) :** Revers du tranchant de la main (*Ridge-hand* — côté du pouce, entre la base de l'index et le poignet, pouce fléchi sous la paume).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux / du visage).
-* **Bandae (반대) :** Inversé / Croisé (*Reverse* — la main qui frappe est opposée à la jambe avant. Par exemple : main droite qui frappe avec jambe gauche devant).
-* **Ap (앞) :** Avant / Frontal (*Front*).
-* **Taerigi (때리기) :** Coup percutant / Fouetté (*Strike*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Ridge-hand* — côté du pouce, entre la base de l'index et le poignet, pouce fléchi sous la paume).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Croisé (*Reverse* — la main qui frappe est opposée à la jambe avant. Par exemple : main droite qui frappe avec jambe gauche devant).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Fouetté (*Strike*).
 
 ---
 

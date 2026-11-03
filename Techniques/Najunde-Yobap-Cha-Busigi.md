@@ -1,17 +1,17 @@
 # Najunde Yobap Cha Busigi
 
-> 🔊 **Prononciation :** [낮인데 옆앞 차 부수기](../audio/Techniques/Najunde-Yobap-Cha-Busigi.m4a)
+> 🔊 **Prononciation :** [낮은데 옆앞 차 부수기](../audio/Techniques/Najunde-Yobap-Cha-Busigi.m4a)
 
-Le **Najunde Yobap Cha Busigi** (낮인데 옆앞 차 부수기) est le **coup de pied fouetté bas de biais (côté-avant)** (*Low side-front snap kick*) en TaeKwon-Do ITF.
+Le **Najunde Yobap Cha Busigi** ([낮은데 옆앞 차 부수기](../audio/Techniques/Najunde-Yobap-Cha-Busigi.m4a)) est le **coup de pied fouetté bas de biais (côté-avant)** (*Low side-front snap kick*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapide et vicieuse combine la vitesse de détente d'un coup de pied fouetté (*Busigi*) avec un angle d'attaque diagonal à 45° (*Yobap*). Portée au niveau bas (*Najunde*), elle vise à briser la structure d'appui d'un agresseur ou à neutraliser ses centres nerveux bas (genoux, tibias, aine) avant même qu'il ne puisse engager sa garde.
 
 Sa décomposition linguistique est la suivante :
 
-* **Najunde (낮인데) :** Niveau bas (*Low level* — sous la ligne de la ceinture : aine, cuisses, genoux, tibias).
-* **Yobap / Yop-Ap (옆앞) :** Côté-avant / Diagonale de biais (*Side-front* — trajectoire oblique à environ 45° entre le profil et le face-à-face).
-* **Cha / Chagi (차 / 차기) :** Coup de pied (*Kick*).
-* **Busigi (부수기) :** Fouetté / Cinglant / Percutant (*Snap / Shattering*).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — sous la ligne de la ceinture : aine, cuisses, genoux, tibias).
+* **Yobap / Yop-Ap ([옆앞](../audio/termes/옆앞.m4a)) :** Côté-avant / Diagonale de biais (*Side-front* — trajectoire oblique à environ 45° entre le profil et le face-à-face).
+* **Cha / Chagi ([차](../audio/termes/차.m4a) / [차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Busigi ([부수기](../audio/termes/부수기.m4a)) :** Fouetté / Cinglant / Percutant (*Snap / Shattering*).
 
 ---
 

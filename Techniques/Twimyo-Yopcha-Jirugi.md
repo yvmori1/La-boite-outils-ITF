@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [뛰며 옆차 지르기](../audio/Techniques/Twimyo-Yopcha-Jirugi.m4a)
 
-Le **Twimyo Yopcha Jirugi** (뛰며 옆차 지르기) est le **coup de pied latéral volant/sauté perçant** (*Flying side piercing kick*) en TaeKwon-Do ITF.
+Le **Twimyo Yopcha Jirugi** ([뛰며 옆차 지르기](../audio/Techniques/Twimyo-Yopcha-Jirugi.m4a)) est le **coup de pied latéral volant/sauté perçant** (*Flying side piercing kick*) en TaeKwon-Do ITF.
 
 Considéré comme la technique reine et l'une des images les plus emblématiques du TaeKwon-Do ITF (immortalisée sur les logos originaux et démonstrations historiques du Général Choi Hong Hi), cette frappe combine une prise d'élan explosive, une projection aérienne (*Twimyo*) et la puissance de pénétration directe en piston d'un coup de pied latéral (*Yopcha Jirugi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** En sautant / Volant (*Flying / Jumping*).
-* **Yopcha / Yop Chagi (옆차 / 옆차기) :** Coup de pied latéral (*Side kick*).
-* **Jirugi (지르기) :** Perçant / Pique en piston (*Piercing / Thrust*).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
+* **Yopcha / Yop Chagi ([옆차](../audio/termes/옆차.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Pique en piston (*Piercing / Thrust*).
 
 ---
 

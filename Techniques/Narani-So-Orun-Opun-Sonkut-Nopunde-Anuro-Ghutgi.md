@@ -1,19 +1,19 @@
 # Narani So Orun Opun Sonkut Nopunde Anuro Ghutgi
 
-> 🔊 **Prononciation :** [평행 서 오른 엎운 손끝 높인데 안으로 긋기](../audio/Techniques/Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.m4a)
+> 🔊 **Prononciation :** [평행 서 오른 엎은 손끝 높은데 안으로 긋기](../audio/Techniques/Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.m4a)
 
-Le **Narani So Orun Opun Sonkut Nopunde Anuro Gutgi** (평행 서 오른 엎운 손끝 높인데 안으로 긋기) est le **coup traçant / d'incision entrant haut au piqué de la main plat (paume vers le bas) du côté droit en posture pieds parallèles** (*Parallel stance right flat fingertip high inward cross-cut / slash*) en TaeKwon-Do ITF.
+Le **Narani So Orun Opun Sonkut Nopunde Anuro Gutgi** ([평행 서 오른 엎은 손끝 높은데 안으로 긋기](../audio/Techniques/Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.m4a)) est le **coup traçant / d'incision entrant haut au piqué de la main plat (paume vers le bas) du côté droit en posture pieds parallèles** (*Parallel stance right flat fingertip high inward cross-cut / slash*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque tranchante et chirurgicale utilise la pointe des doigts tendus de la main droite en position plate (**Opun Sonkut** — paume tournée vers le sol). Le mouvement s'exécute dans une trajectoire d'incision circulaire allant de l'extérieur vers l'intérieur (**Anuro Gutgi**) au niveau haut (**Nopunde**), ciblant principalement les yeux, la gorge ou l'artère carotide de l'adversaire, le tout ancré en posture pieds parallèles (**Narani Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Narani So / Narani Sogi (평행 서기) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
-* **Orun (오른) :** Droit / Main droite (*Right*).
-* **Opun Sonkut (엎운 손끝) :** Piqué de la main plat (*Flat fingertip* — la paume de la main ouverte pointe vers le sol).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux, de la gorge ou du cou).
-* **Anuro (안으로) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
-* **Gutgi / Ghutgi (긋기) :** Trancher / Inser / Balayer en coupant (*Cross-cut / Slash / Scratch*).
+* **Narani So / Narani Sogi ([평행 서기](../audio/termes/평행-서기.m4a)) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Main droite (*Right*).
+* **Opun Sonkut ([엎은 손끝](../audio/termes/엎은-손끝.m4a)) :** Piqué de la main plat (*Flat fingertip* — la paume de la main ouverte pointe vers le sol).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, de la gorge ou du cou).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
+* **Gutgi / Ghutgi ([긋기](../audio/termes/긋기.m4a)) :** Trancher / Inser / Balayer en coupant (*Cross-cut / Slash / Scratch*).
 
 ---
 
@@ -26,7 +26,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Gutgi*)** | **Incision horizontale/circulaire de l'extérieur vers l'intérieur** : la main balaie le plan supérieur en griffant/tranchant la cible de manière incisive. |
 | **Zone ciblée / Hauteur** | **Niveau haut (*Nopunde*)** : les yeux, la gorge ou la carotide de l'adversaire. |
 | **Main de réaction (*Bandae Son*)** | Le poing gauche (main opposée) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
 
 ---
 

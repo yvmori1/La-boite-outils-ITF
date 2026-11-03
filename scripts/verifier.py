@@ -40,10 +40,20 @@ GRAPHIES = [
     ("Guburyo", ["Goobooryo", "Goburyo"]),
     ("서기", ["소기"]),
     ("mouvement de vague", ["onde de choc (*Sine Wave*)"]),
+    # hangul fautifs (voir les notes du glossaire coréen-français)
+    ("낮은데", ["낮인데", "나중데", "낮운데"]),
+    ("높은데", ["높인데", "높운데"]),
+    ("엎은", ["엎운", "오픈손끝"]),
+    ("추켜", ["추교"]), ("그 자리 돌기", ["구자리돌기"]), ("구자", ["굿자"]),
+    ("앞차기", ["압차기"]), ("걷는", ["건눈"]), ("뚫기", ["툴기"]),
+    ("뛰며", ["뛰묘"]), ("쓸어차기", ["수로차기"]),
 ]
+# le glossaire cite à dessein les graphies fautives qu'il a corrigées
+EXCEPTIONS_GRAPHIES = {"Theorie/glossaire-coreen-francais.md"}
 
 LIEN_MD = re.compile(r"\[[^\]]*\]\(([^)#]+\.md)(?:#[^)]*)?\)")
-LIEN_AUDIO = re.compile(r"\[[^\]]*\]\((\.\./audio/[^)]+)\)")
+# « audio/ » depuis la racine, « ../audio/ » depuis un dossier
+LIEN_AUDIO = re.compile(r"\[[^\]]*\]\(((?:\.\./)*audio/[^)]+)\)")
 
 
 def documents():
@@ -133,7 +143,9 @@ def controle_graphies():
     for reference, variantes in GRAPHIES:
         for variante in variantes:
             porteurs = [str(p.relative_to(RACINE)) for p in documents()
-                        if variante.lower() in p.read_text(
+                        if p.relative_to(RACINE).as_posix()
+                        not in EXCEPTIONS_GRAPHIES
+                        and variante.lower() in p.read_text(
                             encoding="utf-8", errors="ignore").lower()]
             if porteurs:
                 ecarts.append(f"« {variante} » au lieu de « {reference} » : "

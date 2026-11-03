@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 등주먹 옆뒤 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.m4a)
 
-Le **Annun So Orun Dung Joomuk Yopdwi Taerigi** (앉은 서 오른 등주먹 옆뒤 때리기) est la **frappe latérale-arrière avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist side-rear strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Dung Joomuk Yopdwi Taerigi** ([앉은 서 오른 등주먹 옆뒤 때리기](../audio/Techniques/Annun-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.m4a)) est la **frappe latérale-arrière avec le revers du poing droit en posture du cavalier** (*Sitting stance right back fist side-rear strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque cinglante utilise l'effet de ressort du coude pour projeter le revers du poing droit (*Dung Joomuk*) vers un adversaire situé dans un angle mort : la **diagonale arrière-droite** (environ 135° par rapport à l'axe frontal).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Dung Joomuk (등주먹) :** Revers du poing (*Back fist*).
-* **Yopdwi (옆뒤) :** Latéral-arrière / Oblique arrière (*Side-rear* — contraction de *Yop* = côté et *Dwi/Dwit* = arrière).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Back fist*).
+* **Yopdwi ([옆뒤](../audio/termes/옆뒤.m4a)) :** Latéral-arrière / Oblique arrière (*Side-rear* — contraction de *Yop* = côté et *Dwi/Dwit* = arrière).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

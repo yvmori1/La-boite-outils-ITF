@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [높은데 뒤차 지르기](../audio/Techniques/Nopunde-Dwitcha-Jirugi.m4a)
 
-Le **Nopunde Dwitcha Jirugi** (높은데 뒤차 지르기) est une technique d'attaque arrière rectiligne, ultra-puissante et transperçante.
+Le **Nopunde Dwitcha Jirugi** ([높은데 뒤차 지르기](../audio/Techniques/Nopunde-Dwitcha-Jirugi.m4a)) est une technique d'attaque arrière rectiligne, ultra-puissante et transperçante.
 
 Elle se traduit par : **Coup de pied arrière perçant au niveau haut** (*High Back Piercing Kick*).
 
@@ -10,9 +10,9 @@ Elle se traduit par : **Coup de pied arrière perçant au niveau haut** (*High B
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (visage, arête du nez, menton). |
-| **Dwitcha** | 뒤차 | Coup de pied arrière | Direction de l'attaque vers l'arrière (*Dwit* = arrière). |
-| **Jirugi** | 지르기 | Perçant / Coup direct | Poussée rectiligne (effet de piston/pénétration). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (visage, arête du nez, menton). |
+| **Dwitcha** | [뒤차](../audio/termes/뒤차.m4a) | Coup de pied arrière | Direction de l'attaque vers l'arrière (*Dwit* = arrière). |
+| **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Perçant / Coup direct | Poussée rectiligne (effet de piston/pénétration). |
 
 ## 2. Exécution et principes biomécaniques
 

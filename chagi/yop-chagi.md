@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [옆차기](../audio/chagi/yop-chagi.m4a)
 
-Le **Yop Chagi** (옆차기) est le **coup de pied latéral** fondamental et emblématique du Taekwon-Do (ITF).
+Le **Yop Chagi** ([옆차기](../audio/chagi/yop-chagi.m4a)) est le **coup de pied latéral** fondamental et emblématique du Taekwon-Do (ITF).
 
 Considéré comme l'une des armes les plus puissantes, rigides et perforantes de l'arsenal des membres inférieurs, il utilise toute la chaîne musculaire des fessiers et des hanches pour transpercer la garde adverse.
 
@@ -12,10 +12,10 @@ Considéré comme l'une des armes les plus puissantes, rigides et perforantes de
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Yop** | 옆 | Côté / Latéral | Orientation de la trajectoire (exécutée vers le côté du corps). |
-| **Chagi** | 차기 | Coup de pied | Technique d'attaque portée avec la jambe. |
+| **Yop** | [옆](../audio/grammaire/Yop.m4a) | Côté / Latéral | Orientation de la trajectoire (exécutée vers le côté du corps). |
+| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Technique d'attaque portée avec la jambe. |
 
-*(Note : Lorsqu'il est exécuté sous sa forme perçante et rectiligne complète en ITF, on l'appelle souvent **Yopcha Jirugi** - 옆차 지르기).*
+*(Note : Lorsqu'il est exécuté sous sa forme perçante et rectiligne complète en ITF, on l'appelle souvent **Yopcha Jirugi** - [옆차 지르기](../audio/termes/옆차-지르기.m4a)).*
 
 ---
 
@@ -35,7 +35,7 @@ Le *Yop Chagi* repose sur une trajectoire rectiligne (effet de piston) poussée 
 
 
 3. **L'impact et la surface de frappe :**
-* L'impact principal s'effectue avec le **tranchant extérieur du pied** (**Balkal** - 발칼) ou la base du talon (**Balkal-Dupchi** / **Dwit Chook**).
+* L'impact principal s'effectue avec le **tranchant extérieur du pied** (**Balkal** - [발칼](../audio/grammaire/Balkal.m4a)) ou la base du talon (**Balkal-Dupchi** / **Dwit Chook**).
 * Les orteils doivent rester rigoureusement tirés vers le bas pour éviter toute blessure ou fracture lors du choc.
 
 

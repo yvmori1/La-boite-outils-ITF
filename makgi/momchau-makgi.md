@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [멈춰 막기](../audio/makgi/momchau-makgi.m4a)
 
-Le **Momchau Makgi** (멈춰 막기) est le **blocage d'arrêt / blocage d'interception** (*Checking block* ou *Stopping block*) en TaeKwon-Do ITF.
+Le **Momchau Makgi** ([멈춰 막기](../audio/makgi/momchau-makgi.m4a)) est le **blocage d'arrêt / blocage d'interception** (*Checking block* ou *Stopping block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Momchau (멈춰) :** Stopper, immobiliser, bloquer net (du verbe *momchuda*, 멈추다 = s'arrêter / stopper).
-* **Makgi (막기) :** Blocage / Défense.
+* **Momchau ([멈춰](../audio/termes/멈춰.m4a)) :** Stopper, immobiliser, bloquer net (du verbe *momchuda*, [멈추다](../audio/termes/멈추다.m4a) = s'arrêter / stopper).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Contrairement aux blocages classiques qui percutent ou dévient une attaque lorsqu'elle arrive à maturité, le **Momchau Makgi** est un blocage proactif (*Jamming*) : il vient **intercepter et étouffer le coup adverse au départ ou à mi-course**, avant que l'attaquant n'ait pu développer sa vitesse et sa force maximales.
 
@@ -26,9 +26,9 @@ Le concept du *Momchau Makgi* repose sur la physique de l'impact :
 
 Le *Momchau Makgi* peut s'exécuter avec différentes armes naturelles selon la zone ciblée :
 
-* **Palmok Momchau Makgi (팔목 멈춰 막기) :** Interception avec l'avant-bras (*Bakat Palmok* ou *An Palmok*) contre un bras ou une jambe arrivant de face ou de côté.
-* **Sonkal Momchau Makgi (손칼 멈춰 막기) :** Interception tranchante avec le bord externe de la main pour cueillir une articulation.
-* **Najunde Momchau Makgi (낮인데 멈춰 막기) :** Blocage d'arrêt en section basse (souvent combiné avec le tranchant du pied ou la paume pour intercepter la montée d'un genou adverse).
+* **Palmok Momchau Makgi ([팔목 멈춰 막기](../audio/termes/팔목-멈춰-막기.m4a)) :** Interception avec l'avant-bras (*Bakat Palmok* ou *An Palmok*) contre un bras ou une jambe arrivant de face ou de côté.
+* **Sonkal Momchau Makgi ([손칼 멈춰 막기](../audio/termes/손칼-멈춰-막기.m4a)) :** Interception tranchante avec le bord externe de la main pour cueillir une articulation.
+* **Najunde Momchau Makgi ([낮은데 멈춰 막기](../audio/termes/낮은데-멈춰-막기.m4a)) :** Blocage d'arrêt en section basse (souvent combiné avec le tranchant du pied ou la paume pour intercepter la montée d'un genou adverse).
 
 ---
 

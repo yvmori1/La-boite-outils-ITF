@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 바로 뒤집어 지르기](../audio/Techniques/Niunja-So-Baro-Dwijibo-Jirugi.m4a)
 
-Le **Niunja So Baro Dwijibo Jirugi** (ㄴ자 서 바로 뒤집어 지르기) est le **coup de poing retourné direct (paume vers le haut) en posture en L (du même côté)** (*L-stance obverse upset punch*) en TaeKwon-Do ITF.
+Le **Niunja So Baro Dwijibo Jirugi** ([ㄴ자 서 바로 뒤집어 지르기](../audio/Techniques/Niunja-So-Baro-Dwijibo-Jirugi.m4a)) est le **coup de poing retourné direct (paume vers le haut) en posture en L (du même côté)** (*L-stance obverse upset punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à trajectoire légèrement ascendante et pénétrante utilise les deux premières jointures du poing fermé (**Ap Joomuk**) pour s'infiltrer sous la garde de l'adversaire et frapper le plexus solaire, l'estomac ou le bas-ventre. L'indication **Baro** (direct) signifie que la frappe est exécutée par le bras situé **du même côté que la jambe arrière** (la jambe qui porte 70% du poids et définit le nom de la posture en L).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Baro (바로) :** Direct / Du même côté (*Obverse* — s'exécute avec la main située du côté de la jambe arrière).
-* **Dwijibo (뒤집어) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — s'exécute avec la main située du côté de la jambe arrière).
+* **Dwijibo ([뒤집어](../audio/termes/뒤집어.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

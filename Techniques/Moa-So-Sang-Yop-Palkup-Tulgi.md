@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [모아서 쌍 옆 팔굽 찌르기](../audio/Techniques/Moa-So-Sang-Yop-Palkup-Tulgi.m4a)
 
-Le **Moa So Sang Yop Palkup Tulgi** (모아서 쌍 옆 팔굽 찌르기) est le **coup de coude pénétration latéral double / simultané en posture pieds joints** (*Closed stance twin side elbow thrust*) en TaeKwon-Do ITF.
+Le **Moa So Sang Yop Palkup Tulgi** ([모아서 쌍 옆 팔굽 찌르기](../audio/Techniques/Moa-So-Sang-Yop-Palkup-Tulgi.m4a)) est le **coup de coude pénétration latéral double / simultané en posture pieds joints** (*Closed stance twin side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque et de dégagement bilatérale et symétrique utilise simultanément la pointe des deux coudes (**Sang Yop Palkup**) pour frapper ou transpercer de manière explosive deux cibles situées directement sur les flancs droit et gauche (niveau moyen / *Kaunde* — côtes, plexus solaire ou foie), le tout ancré dans la stabilité centrale de la posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Sang (쌍) :** Double / Paire / Simultané (*Twin / Pair*).
-* **Yop (옆) :** Côté / Latéral (*Side*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
-* **Tulgi / Tulgi (찌르기) :** Pénétration / Piqué / Percée (*Thrust*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Simultané (*Twin / Pair*).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
+* **Tulgi / Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pénétration / Piqué / Percée (*Thrust*).
 
 ---
 
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Yop Tulgi*)** | **Rectiligne et divergente vers les côtés (180°)** : les deux coudes se projettent horizontalement vers l'extérieur dans l'axe des épaules. |
 | **Zone ciblée / Hauteur** | Généralement le **niveau moyen (*Kaunde*)** : les côtes flottantes, le plexus solaire ou les flancs de deux adversaires encerclant le pratiquant. |
 | **Placement des poings** | Les deux poings sont fermés, ramenés près du torse/poitrine lors de l'armement, puis plaqués contre les flancs/la poitrine à l'impact, paumes orientées vers le haut ou le corps. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
 
 ---
 

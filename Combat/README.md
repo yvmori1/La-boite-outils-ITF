@@ -2,8 +2,8 @@
 
 Le Taekwon-Do se compose de cinq volets si étroitement liés qu'on ne peut
 isoler l'un des autres : les mouvements fondamentaux, les formes (*Tul*), le
-conditionnement (*Dallyon* — 단련), le combat (*Matsogi* — 맞서기) et
-l'autodéfense (*Hosinsul* — 호신술). Cette section réunit les trois volets qui
+conditionnement (*Dallyon* — [단련](../audio/combats/Dallyon.m4a)), le combat (*Matsogi* — [맞서기](../audio/combats/Matsogi.m4a)) et
+l'autodéfense (*Hosinsul* — [호신술](../audio/combats/Hosinsul.m4a)). Cette section réunit les trois volets qui
 mettent la technique à l'épreuve : face à un partenaire, face à une agression
 réelle, et face à une cible dure.
 

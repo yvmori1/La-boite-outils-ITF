@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [밖으로 차기](../audio/chagi/bakuro-chagi.m4a)
 
-Le **Bakuro Chagi** (밖으로 차기) est le **coup de pied vers l'extérieur** (*Outward kick* ou *Outward crescent kick*) en TaeKwon-Do ITF.
+Le **Bakuro Chagi** ([밖으로 차기](../audio/chagi/bakuro-chagi.m4a)) est le **coup de pied vers l'extérieur** (*Outward kick* ou *Outward crescent kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Bakuro (밖으로) :** Vers l'extérieur (du mot *bakk*, 밖 = extérieur, suivi de la particule de direction *-uro*).
-* **Chagi (차기) :** Coup de pied.
+* **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (du mot *bakk*, [밖](../audio/termes/밖.m4a) = extérieur, suivi de la particule de direction *-uro*).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 C'est l'exact pendant inverse du *Anuro Chagi* : au lieu d'amener la jambe de l'extérieur vers l'intérieur, le **Bakuro Chagi** monte d'abord en croisant la ligne médiane du corps (vers l'intérieur) pour ensuite **balayer vigoureusement vers l'extérieur** en décrivant un arc de cercle.
 
@@ -15,8 +15,8 @@ C'est l'exact pendant inverse du *Anuro Chagi* : au lieu d'amener la jambe de l'
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Balkal (chant externe du pied - 발칼) :** C'est la surface de frappe tranchante principale.
-* **Dwitchuk (talon - 뒤축) :** Utilisé pour impacter avec plus de masse osseuse.
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** C'est la surface de frappe tranchante principale.
+* **Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** Utilisé pour impacter avec plus de masse osseuse.
 * **Les cibles privilégiées :**
 * **Section haute (*Nopunde*) :** La tempe, la joue, le menton de l'adversaire.
 * **Chasse de garde :** Percuter le poignet ou l'avant-bras de l'adversaire de l'intérieur vers l'extérieur pour dégager complètement son visage ou sa poitrine.

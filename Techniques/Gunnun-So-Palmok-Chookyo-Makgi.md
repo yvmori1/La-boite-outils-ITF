@@ -1,21 +1,21 @@
 # Gunnun So Palmok Chookyo Makgi
 
-> 🔊 **Prononciation :** [건눈 서 팔목 추교 막기](../audio/Techniques/Gunnun-So-Palmok-Chookyo-Makgi.m4a)
+> 🔊 **Prononciation :** [걷는 서 팔목 추켜 막기](../audio/Techniques/Gunnun-So-Palmok-Chookyo-Makgi.m4a)
 
-Le **Gunnun So Palmok Chookyo Makgi** (건눈 서 팔목 추교 막기 — couramment retranscrit **Gunnun Sogi Palmok Chookyo Makgi**) est le **blocage haut remontant de l'avant-bras en posture de marche** (*Rising block in walking stance*) en TaeKwon-Do ITF.
+Le **Gunnun So Palmok Chookyo Makgi** ([걷는 서 팔목 추켜 막기](../audio/Techniques/Gunnun-So-Palmok-Chookyo-Makgi.m4a) — couramment retranscrit **Gunnun Sogi Palmok Chookyo Makgi**) est le **blocage haut remontant de l'avant-bras en posture de marche** (*Rising block in walking stance*) en TaeKwon-Do ITF.
 
 C'est le blocage haut fondamental par excellence du programme ITF, conçu pour intercepter, dévier et stopper les attaques descendantes ou directes visant la tête et le visage.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Sogi (건눈 서기) :** Posture de marche (*Walking stance*).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — le blocage utilise précisément le **Bakat Palmok**, le tranchant externe de l'avant-bras).
-* **Chookyo (추교) :** Remontant / Ascendant (*Rising*).
-* **Makgi (막기) :** Blocage / Défense.
+* **Gunnun So / Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance*).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — le blocage utilise précisément le **Bakat Palmok**, le tranchant externe de l'avant-bras).
+* **Chookyo ([추켜](../audio/termes/추켜.m4a)) :** Remontant / Ascendant (*Rising*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 
-## 1. La posture de base : *Gunnun Sogi* (건눈 서기)
+## 1. La posture de base : *Gunnun Sogi* ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a))
 
 La force du blocage repose sur l'ancrage solide de la posture de marche :
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [사선 서 쌍 손바닥 눌러 막기](../audio/Techniques/Sasun-So-Sang-Sonbadak-Noollo-Makgi.m4a)
 
-Le **Sasun So Sang Sonbadak Noollo Makgi** (사선 서 쌍 손바닥 눌러 막기) est une technique défensive avancée et très stable du Taekwon-Do (ITF).
+Le **Sasun So Sang Sonbadak Noollo Makgi** ([사선 서 쌍 손바닥 눌러 막기](../audio/Techniques/Sasun-So-Sang-Sonbadak-Noollo-Makgi.m4a)) est une technique défensive avancée et très stable du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage pressant double avec les paumes de mains en position diagonale**.
 
@@ -12,11 +12,11 @@ Elle se traduit par : **Blocage pressant double avec les paumes de mains en posi
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Sasun So (Sogi)** | 사선 서기 | Position diagonale | Posture de jambe décalée offrant un angle d'esquive et une assise stable. |
-| **Sang** | 쌍 | Double / Jumeau | Indique une exécution simultanée avec les deux mains. |
-| **Sonbadak** | 손바닥 | Paume de la main | Surface de contact (la base de la paume). |
-| **Noollo** | 눌러 | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser vers le bas). |
-| **Makgi** | 막기 | Blocage / Défense | Action de neutraliser ou stopper une attaque. |
+| **Sasun So (Sogi)** | [사선 서기](../audio/grammaire/Sasun-Sogi.m4a) | Position diagonale | Posture de jambe décalée offrant un angle d'esquive et une assise stable. |
+| **Sang** | [쌍](../audio/termes/쌍.m4a) | Double / Jumeau | Indique une exécution simultanée avec les deux mains. |
+| **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base de la paume). |
+| **Noollo** | [눌러](../audio/grammaire/Nullo.m4a) | Pressant / Écrasant | Mouvement descendant appuyé (de *Nullo*, presser vers le bas). |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser ou stopper une attaque. |
 
 ---
 

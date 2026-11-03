@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [헤쳐 막기](../audio/makgi/hechyo-makgi.m4a)
 
-Le **Hechyo Makgi** (헤쳐 막기 — couramment retranscrit **Heutcho Makgi** ou *Hech'yo Makgi*) est le **blocage écarté / blocage en coin** (*Wedging block*) en TaeKwon-Do ITF.
+Le **Hechyo Makgi** ([헤쳐 막기](../audio/makgi/hechyo-makgi.m4a) — couramment retranscrit **Heutcho Makgi** ou *Hech'yo Makgi*) est le **blocage écarté / blocage en coin** (*Wedging block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Hechyo / Heutcho (헤쳐) :** Écarter, disperser, fendre, se frayer un chemin (du verbe *hechida*, 헤치다 = écarter / ouvrir un passage / fendre).
-* **Makgi (막기) :** Blocage / Défense.
+* **Hechyo / Heutcho ([헤쳐](../audio/termes/헤쳐.m4a)) :** Écarter, disperser, fendre, se frayer un chemin (du verbe *hechida*, [헤치다](../audio/termes/헤치다.m4a) = écarter / ouvrir un passage / fendre).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Le **Hechyo Makgi** est une technique défensive double fondamentale dans laquelle les deux bras s'élancent simultanément de l'intérieur vers l'extérieur pour **fendre, écarter ou casser** une attaque double ou une saisie à deux mains.
 

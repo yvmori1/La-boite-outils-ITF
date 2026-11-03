@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Orun-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)
 
-Le **Orun Niunja So Sonkal Kaunde Daebi Makgi** (오른 ㄴ자 서 손칼 가운데 대비 막기) est la posture défensive par excellence et l'une des techniques les plus fondamentales du Taekwon-Do (ITF).
+Le **Orun Niunja So Sonkal Kaunde Daebi Makgi** ([오른 ㄴ자 서 손칼 가운데 대비 막기](../audio/Techniques/Orun-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.m4a)) est la posture défensive par excellence et l'une des techniques les plus fondamentales du Taekwon-Do (ITF).
 
 Elle se traduit par : **Blocage de garde moyen au tranchant de la main en position L droite**.
 
@@ -12,12 +12,12 @@ Elle se traduit par : **Blocage de garde moyen au tranchant de la main en positi
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique la position L droite (le pied droit est à l'arrière et porte 70 % du poids). |
-| **Niunja So (Sogi)** | ㄴ자 서기 | Position en L (*L-Stance*) | Posture stable où les pieds forment la lettre coréenne « ㄴ » (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
-| **Sonkal** | 손칼 | Tranchant de la main | Surface de blocage (le bord extérieur des deux mains, de la base du petit doigt au poignet). |
-| **Kaunde** | 가운데 | Niveau moyen | Hauteur d'exécution (au niveau de la poitrine / du plexus solaire). |
-| **Daebi** | 대비 | Garde / Protection | Action où les deux mains travaillent de concert pour former un bouclier défensif double. |
-| **Makgi** | 막기 | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position L droite (le pied droit est à l'arrière et porte 70 % du poids). |
+| **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture stable où les pieds forment la lettre coréenne « [ㄴ](../audio/termes/ㄴ.m4a) » (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
+| **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Surface de blocage (le bord extérieur des deux mains, de la base du petit doigt au poignet). |
+| **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur d'exécution (au niveau de la poitrine / du plexus solaire). |
+| **Daebi** | [대비](../audio/termes/대비.m4a) | Garde / Protection | Action où les deux mains travaillent de concert pour former un bouclier défensif double. |
+| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
 
 ---
 

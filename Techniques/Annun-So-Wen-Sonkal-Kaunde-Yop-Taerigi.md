@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [앉은 서 왼 손칼 가운데 옆 때리기](../audio/Techniques/Annun-So-Wen-Sonkal-Kaunde-Yop-Taerigi.m4a)
 
-Le **Annun So Wen Sonkal Kaunde Yop Taerigi** (앉은 서 왼 손칼 가운데 옆 때리기) est la **frappe latérale moyenne cinglante au tranchant de la main gauche en posture du cavalier** (*Sitting stance left knife-hand middle side strike*) en TaeKwon-Do ITF.
+Le **Annun So Wen Sonkal Kaunde Yop Taerigi** ([앉은 서 왼 손칼 가운데 옆 때리기](../audio/Techniques/Annun-So-Wen-Sonkal-Kaunde-Yop-Taerigi.m4a)) est la **frappe latérale moyenne cinglante au tranchant de la main gauche en posture du cavalier** (*Sitting stance left knife-hand middle side strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque tranchante et percutante utilise le tranchant extérieur de la main ouverte (*Sonkal*) pour délivrer un coup cinglant à l'horizontale sur le flanc gauche (*Yop*) au niveau moyen (*Kaunde* : côtes flottantes, foie, plexus latéral ou bras adverse).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Wen (왼) :** Gauche / Côté gauche (*Left*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — côté extérieur/auriculaire).
-* **Kaunde (가운데) :** Niveau moyen (hauteur des côtes, du thorax ou du plexus).
-* **Yop (옆) :** Latéral / Sur le côté à 90° (*Side*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — côté extérieur/auriculaire).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur des côtes, du thorax ou du plexus).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 앞팔굽 때리기](../audio/Techniques/Annun-So-Orun-Ap-Palkup-Taerigi.m4a)
 
-Le **Annun So Orun Ap Palkup Taerigi** (앉은 서 오른 앞팔굽 때리기) est le **coup de coude frontal droit en percussion en posture du cavalier** (*Sitting stance right front elbow strike*) en TaeKwon-Do ITF.
+Le **Annun So Orun Ap Palkup Taerigi** ([앉은 서 오른 앞팔굽 때리기](../audio/Techniques/Annun-So-Orun-Ap-Palkup-Taerigi.m4a)) est le **coup de coude frontal droit en percussion en posture du cavalier** (*Sitting stance right front elbow strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque dévastatrice à très courte distance utilise la pointe osseuse du coude droit selon une trajectoire en arc circulaire, propulsée par la rotation du haut du corps et ancrée dans la stabilité de la posture du cavalier (*Annun Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Ap Palkup (앞 팔굽) :** Coude frontal (*Front elbow*).
-* **Taerigi (때리기) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Ap Palkup ([앞 팔굽](../audio/termes/앞-팔굽.m4a)) :** Coude frontal (*Front elbow*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 
@@ -22,7 +22,7 @@ Sa décomposition linguistique est la suivante :
 | **Arme naturelle** | **Orun Palkup** (La pointe osseuse de l'olécrâne du coude droit). |
 | **Main de soutien (*Sonbadak Dae*)** | La paume de la main gauche (*Sonbadak*) vient accueillir ou presser le poing droit au moment précis de l'impact pour sceller la structure et démultiplier la force. |
 | **Trajectoire** | Circulaire / Arquée de la droite vers l'axe central du corps. |
-| **Cible prioritaire** | La **mâchoire / le menton** (*G턱*), le **nez** (*Injoung*) ou le **plexus solaire** de l'adversaire placé directement devant soi. |
+| **Cible prioritaire** | La **mâchoire / le menton** (*G[턱](../audio/termes/턱.m4a)*), le **nez** (*Injoung*) ou le **plexus solaire** de l'adversaire placé directement devant soi. |
 | **Posture de base** | **Annun Sogi** (Pieds parallèles espacés de 1,5 largeur d'épaules, genoux fléchis poussés vers l'extérieur, poids 50/50). |
 
 ---

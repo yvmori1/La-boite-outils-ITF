@@ -2,18 +2,18 @@
 
 > 🔊 **Prononciation :** [뒤축 부시기](../audio/chagi/dwitchuk-busigi.m4a)
 
-Le **Dwitchuk Busigi** (뒤축 부시기) est le **coup de pied arrière fouetté** en TaeKwon-Do ITF.
+Le **Dwitchuk Busigi** ([뒤축 부시기](../audio/chagi/dwitchuk-busigi.m4a)) est le **coup de pied arrière fouetté** en TaeKwon-Do ITF.
 
 Pour bien le maîtriser, il faut comprendre la différence fondamentale entre les deux catégories de frappes en ITF :
 
-* **Jirugi (지르기) :** Une poussée perçante et pénétrante (effet piston), où la masse du corps et les hanches s'engagent profondément.
-* **Busigi (부시기) :** Une frappe **fouettée** (*snap*), basée sur la vitesse d'extrémité de la jambe et la libération explosive de l'articulation du genou, suivie d'un retour instantané.
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Une poussée perçante et pénétrante (effet piston), où la masse du corps et les hanches s'engagent profondément.
+* **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Une frappe **fouettée** (*snap*), basée sur la vitesse d'extrémité de la jambe et la libération explosive de l'articulation du genou, suivie d'un retour instantané.
 
 ---
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Dwitchuk (뒤축) :** La zone d'impact est le dessous / la base du talon.
+* **Dwitchuk ([뒤축](../audio/termes/뒤축.m4a)) :** La zone d'impact est le dessous / la base du talon.
 * **Armement de la cheville :** La cheville est verrouillée en flexion à 90°, les orteils tirés vers le haut (vers le tibia) pour dégager complètement la masse osseuse du talon et éviter toute blessure au niveau des orteils.
 
 ---

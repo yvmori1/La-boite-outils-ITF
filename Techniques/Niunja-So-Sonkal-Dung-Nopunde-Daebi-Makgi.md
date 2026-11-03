@@ -1,18 +1,18 @@
 # Niunja So Sonkal Dung Nopunde Daebi Makgi
 
-> 🔊 **Prononciation :** [ㄴ자 서 손칼등 높인데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Nopunde-Daebi-Makgi.m4a)
+> 🔊 **Prononciation :** [ㄴ자 서 손칼등 높은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Nopunde-Daebi-Makgi.m4a)
 
-Le **Niunja So Sonkal Dung Nopunde Daebi Makgi** (ㄴ자 서 손칼등 높인데 대비 막기) est le **blocage de garde haut au revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand high guarding block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Dung Nopunde Daebi Makgi** ([ㄴ자 서 손칼등 높은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Nopunde-Daebi-Makgi.m4a)) est le **blocage de garde haut au revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand high guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le revers du tranchant des deux mains ouvertes (**Sonkal Dung** — le côté du pouce et de la base de l'index) pour créer une garde haute (visage, tempe, tête) contre des attaques puissantes, tout en bénéficiant de la stabilité en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sonkal Dung (손칼등) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux, du visage ou de la tempe).
-* **Daebi (대비) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou de la tempe).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [비틀어 차기](../audio/chagi/bituro-chagi.m4a)
 
-Le **Bituro Chagi** (비틀어 차기) est le **coup de pied vrillé** (*Twisting kick*) en TaeKwon-Do ITF.
+Le **Bituro Chagi** ([비틀어 차기](../audio/chagi/bituro-chagi.m4a)) est le **coup de pied vrillé** (*Twisting kick*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Bituro (비틀어) :** Vriller, tordre, torsader (du verbe *biteulda*, 비틀다).
-* **Chagi (차기) :** Coup de pied.
+* **Bituro ([비틀어](../audio/grammaire/Bituro.m4a)) :** Vriller, tordre, torsader (du verbe *biteulda*, [비틀다](../audio/termes/비틀다.m4a)).
+* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
 
 C'est l'une des techniques les plus déconcertantes du TaeKwon-Do. Elle repose sur une feinte mécanique : l'armement initial fait croire à un coup de pied frontal (*Ap Chagi*) ou vers l'intérieur (*Anuro Chagi*), mais au dernier moment, la jambe se vrille et s'ouvre de manière explosive vers l'extérieur pour contourner la garde.
 
@@ -15,8 +15,8 @@ C'est l'une des techniques les plus déconcertantes du TaeKwon-Do. Elle repose s
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Apkumchi (bol du pied - 앞꿈치) :** C'est la surface de frappe principale pour pénétrer avec précision une zone précise.
-* **Baldong (coup-de-pied / dessus du pied - 발등) :** Utilisé parfois pour cingler les zones molles du visage ou de la tête.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** C'est la surface de frappe principale pour pénétrer avec précision une zone précise.
+* **Baldong (coup-de-pied / dessus du pied - [발등](../audio/grammaire/Baldong.m4a)) :** Utilisé parfois pour cingler les zones molles du visage ou de la tête.
 * **Les cibles privilégiées :**
 * **Section haute (*Nopunde*) :** La tempe, la joue, la mâchoire (contourne la garde de face).
 * **Section moyenne (*Kaunde*) :** Le plexus solaire ou les côtes flottantes.

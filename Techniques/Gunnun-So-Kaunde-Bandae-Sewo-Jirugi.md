@@ -1,16 +1,18 @@
 # Gunnun So Kaunde Bandae Sewo Jirugi
 
-Le **Gunnun So Kaunde Bandae Sewo Jirugi** (걷는 서 가운데 반대 세워 지르기) est le **coup de poing vertical moyen inversé en posture de marche** (*Walking stance middle reverse vertical punch*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 가운데 반대 세워 지르기](../audio/Techniques/Gunnun-So-Kaunde-Bandae-Sewo-Jirugi.m4a)
+
+Le **Gunnun So Kaunde Bandae Sewo Jirugi** ([걷는 서 가운데 반대 세워 지르기](../audio/Techniques/Gunnun-So-Kaunde-Bandae-Sewo-Jirugi.m4a)) est le **coup de poing vertical moyen inversé en posture de marche** (*Walking stance middle reverse vertical punch*) en TaeKwon-Do ITF.
 
 Coup de poing direct dont le poing arrive **vertical** (**Sewo**, dressé), pouce vers le haut, au lieu d'être tourné paume vers le bas. Il est exécuté par la main du côté de la jambe arrière, souvent en glissant le pied avant.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Sewo (세워) :** Vertical / dressé (*Vertical*).
-* **Jirugi (지르기) :** Coup de poing (*Punch*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Sewo ([세워](../audio/termes/세워.m4a)) :** Vertical / dressé (*Vertical*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---
 

@@ -1,19 +1,19 @@
 # Moa So Sang Inji Joomuk Nopunde Bandal Jirugi
 
-> 🔊 **Prononciation :** [모아 서 쌍 인지 주먹 높인데 반달 지르기](../audio/Techniques/Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.m4a)
+> 🔊 **Prononciation :** [모아 서 쌍 인지 주먹 높은데 반달 지르기](../audio/Techniques/Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.m4a)
 
-Le **Moa So Sang Inji Joomuk Nopunde Bandal Jirugi** (모아 서 쌍 인지 주먹 높인데 반달 지르기) est le **double coup de poing en croissant au niveau haut avec les jointures saillantes de l'index en posture pieds joints** (*Close stance twin forefinger knuckle fist high crescent punch*) en TaeKwon-Do ITF.
+Le **Moa So Sang Inji Joomuk Nopunde Bandal Jirugi** ([모아 서 쌍 인지 주먹 높은데 반달 지르기](../audio/Techniques/Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.m4a)) est le **double coup de poing en croissant au niveau haut avec les jointures saillantes de l'index en posture pieds joints** (*Close stance twin forefinger knuckle fist high crescent punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque bilatérale et très spécialisée projette simultanément les deux poings selon des trajectoires en arc de cercle (*Bandal*) au niveau haut (*Nopunde*). Elle utilise la surface très restreinte et acérée de la seconde articulation de l'index (**Inji Joomuk**) pour pénétrer à travers la garde et frapper des points vitaux latéraux du visage (les tempes ou les angles de la mâchoire).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Close stance* — pieds totalement collés, poids réparti à 50/50).
-* **Sang (쌍) :** Double / Jumelé (*Twin* — les deux poings agissent simultanément).
-* **Inji Joomuk (인지 주먹) :** Poing avec l'index saillant (*Forefinger knuckle fist* — la deuxième articulation de l'index est pliée et ressort du poing fermé, soutenue par le pouce).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur de la tempe ou des yeux).
-* **Bandal (반달) :** Croissant / Demi-lune (*Crescent* — trajectoire en arc de cercle).
-* **Jirugi (지르기) :** Coup de poing direct / perçant (*Punch*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Close stance* — pieds totalement collés, poids réparti à 50/50).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumelé (*Twin* — les deux poings agissent simultanément).
+* **Inji Joomuk ([인지 주먹](../audio/termes/인지-주먹.m4a)) :** Poing avec l'index saillant (*Forefinger knuckle fist* — la deuxième articulation de l'index est pliée et ressort du poing fermé, soutenue par le pouce).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la tempe ou des yeux).
+* **Bandal ([반달](../audio/termes/반달.m4a)) :** Croissant / Demi-lune (*Crescent* — trajectoire en arc de cercle).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / perçant (*Punch*).
 
 ---
 

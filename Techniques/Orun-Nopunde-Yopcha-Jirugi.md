@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 높은데 옆차 지르기](../audio/Techniques/Orun-Nopunde-Yopcha-Jirugi.m4a)
 
-Le **Orun Nopunde Yopcha Jirugi** (오른 높은데 옆차 지르기) est l'une des techniques d'attaque des membres inférieurs les plus emblématiques et puissantes du Taekwon-Do (ITF).
+Le **Orun Nopunde Yopcha Jirugi** ([오른 높은데 옆차 지르기](../audio/Techniques/Orun-Nopunde-Yopcha-Jirugi.m4a)) est l'une des techniques d'attaque des membres inférieurs les plus emblématiques et puissantes du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied latéral perçant du pied droit au niveau haut**.
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Coup de pied latéral perçant du pied droit au niveau h
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit | Indique que la frappe est exécutée avec la jambe droite. |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (au niveau du visage ou des yeux de l'exécutant). |
-| **Yopcha** | 옆차 | Coup de pied latéral | Trajectoire d'attaque de côté (*Yop* = côté, *Cha* = coup de pied). |
-| **Jirugi** | 지르기 | Perçant / Poussée directe | Mouvement d'enfoncement rectiligne (comme un coup de poing direct). |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit | Indique que la frappe est exécutée avec la jambe droite. |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du visage ou des yeux de l'exécutant). |
+| **Yopcha** | [옆차](../audio/termes/옆차.m4a) | Coup de pied latéral | Trajectoire d'attaque de côté (*Yop* = côté, *Cha* = coup de pied). |
+| **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Perçant / Poussée directe | Mouvement d'enfoncement rectiligne (comme un coup de poing direct). |
 
 ---
 

@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [모아서 쌍 팔굽 수평 찌르기](../audio/Techniques/Moa-So-Sang-Palkup-Soopyong-Tulgi.m4a)
 
-Le **Moa So Sang Palkup Soopyong Tulgi** (모아서 쌍 팔굽 수평 찌르기) est le **coup de coude horizontal double / simultané en posture pieds joints** (*Closed stance twin elbow horizontal thrust*) en TaeKwon-Do ITF.
+Le **Moa So Sang Palkup Soopyong Tulgi** ([모아서 쌍 팔굽 수평 찌르기](../audio/Techniques/Moa-So-Sang-Palkup-Soopyong-Tulgi.m4a)) est le **coup de coude horizontal double / simultané en posture pieds joints** (*Closed stance twin elbow horizontal thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque bilatérale et symétrique à très courte portée utilise la pointe ou la face latérale des deux coudes (**Sang Palkup**) pour frapper de manière percutante et pénétrante dans un plan strictement horizontal (**Soopyong**). Elle vise généralement les côtes flottantes, le plexus solaire ou la poitrine de deux agresseurs situés sur les côtés ou d'un adversaire de face en corps-à-corps, le tout ancré dans la compacité de la posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Moa So / Moa Sogi (모아 서기) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
-* **Sang (쌍) :** Double / Paire / Simultané (*Twin / Pair*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
-* **Soopyong / Supyeong (수평) :** Horizontal / Dans le plan horizontal (*Horizontal*).
-* **Tulgi / Tulgi (찌르기) :** Pénétration / Piqué / Percée (*Thrust*).
+* **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
+* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Simultané (*Twin / Pair*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
+* **Soopyong / Supyeong ([수평](../audio/termes/수평.m4a)) :** Horizontal / Dans le plan horizontal (*Horizontal*).
+* **Tulgi / Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pénétration / Piqué / Percée (*Thrust*).
 
 ---
 
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Soopyong*)** | **Strictement horizontale** : les avant-bras restent parallèles au sol pendant toute la phase de déploiement et d'impact. |
 | **Zone ciblée / Hauteur** | Généralement le **niveau moyen (*Kaunde*)** : plexus solaire, thorax ou côtes flottantes. |
 | **Placement des mains** | Les poings sont fermés (ou les mains plaquées sur la poitrine/flancs selon la variante du patron), les avant-bras pliés fermement contre le torse. |
-| **Orientation du buste** | De face (*정면 - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
 
 ---
 

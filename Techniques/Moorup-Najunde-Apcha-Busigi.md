@@ -1,18 +1,18 @@
 # Moorup Najunde Apcha Busigi
 
-> 🔊 **Prononciation :** [무릎 낮인데 앞차 부시기](../audio/Techniques/Moorup-Najunde-Apcha-Busigi.m4a)
+> 🔊 **Prononciation :** [무릎 낮은데 앞차 부시기](../audio/Techniques/Moorup-Najunde-Apcha-Busigi.m4a)
 
-Le **Moorup Najunde Ap Cha Busigi** (무릎 낮인데 앞차 부시기) est le **coup de pied direct fouetté bas avec action du genou** (*Knee low front snap kick*) exécuté au **mouvement 19 du patron Choong-Jang Tul** (2ᵉ Dan) en TaeKwon-Do ITF.
+Le **Moorup Najunde Ap Cha Busigi** ([무릎 낮은데 앞차 부시기](../audio/Techniques/Moorup-Najunde-Apcha-Busigi.m4a)) est le **coup de pied direct fouetté bas avec action du genou** (*Knee low front snap kick*) exécuté au **mouvement 19 du patron Choong-Jang Tul** (2ᵉ Dan) en TaeKwon-Do ITF.
 
 Cette technique combinée de corps-à-corps associe la montée explosive du genou (**Moorup**) à la détente fouettée de la jambe inférieure vers le niveau bas (**Najunde** — l'aine ou le bas-ventre) avec le bol du pied (**Ap Chook**), le tout accompagné d'une traction des mains vers le bas.
 
 Sa décomposition linguistique est la suivante :
 
-* **Moorup (무릎) :** Genou (action d'armer et d'impacter/pousser avec le genou).
-* **Najunde (낮인데) :** Niveau bas (au-dessous de la ceinture / aine, bas-ventre).
-* **Ap (앞) :** Avant / Frontal.
-* **Cha / Chagi (차 / 차기) :** Coup de pied.
-* **Busigi (부시기) :** Fouetté / Snap.
+* **Moorup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou (action d'armer et d'impacter/pousser avec le genou).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (au-dessous de la ceinture / aine, bas-ventre).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
+* **Cha / Chagi ([차](../audio/termes/차.m4a) / [차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / Snap.
 
 ---
 

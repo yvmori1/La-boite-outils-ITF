@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [앉은 서 안팔목 가운데 헤쳐막기](../audio/Techniques/Annun-So-Palmok-Kaunde-Hechyo-Makgi.m4a)
 
-Le **Annun So An Palmok Kaunde Hechyo Makgi** (앉은 서 안팔목 가운데 헤쳐막기) est le **double blocage écarté moyen avec l'avant-bras intérieur en posture du cavalier** (*Sitting stance inner forearm middle wedging block*) en TaeKwon-Do ITF.
+Le **Annun So An Palmok Kaunde Hechyo Makgi** ([앉은 서 안팔목 가운데 헤쳐막기](../audio/Techniques/Annun-So-Palmok-Kaunde-Hechyo-Makgi.m4a)) est le **double blocage écarté moyen avec l'avant-bras intérieur en posture du cavalier** (*Sitting stance inner forearm middle wedging block*) en TaeKwon-Do ITF.
 
 C'est une technique défensive symétrique et puissante conçue pour **se dégager d'une double saisie** ou **écarter deux attaques simultanées** au niveau du buste.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **An Palmok (안팔목) :** Avant-bras intérieur (côté pouce).
-* **Kaunde (가운데) :** Niveau moyen (plexus / poitrine / épaules).
-* **Hechyo Makgi (헤쳐막기) :** Blocage écarté / en coin (*Wedging block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (côté pouce).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus / poitrine / épaules).
+* **Hechyo Makgi ([헤쳐막기](../audio/grammaire/Heetchyo-Makgi.m4a)) :** Blocage écarté / en coin (*Wedging block*).
 
 ---
 

@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [앉은 서 오른 주먹 가운데 지르기](../audio/Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.m4a)
 
-Le **Annun So Orun Joomuk Kaunde Jirugi** (앉은 서 오른 주먹 가운데 지르기) est le **coup de poing direct moyen droit en posture du cavalier** (*Sitting stance right forefist middle punch*) en TaeKwon-Do ITF.
+Le **Annun So Orun Joomuk Kaunde Jirugi** ([앉은 서 오른 주먹 가운데 지르기](../audio/Techniques/Annun-So-Orun-Joomuk-Kaunde-Jirugi.m4a)) est le **coup de poing direct moyen droit en posture du cavalier** (*Sitting stance right forefist middle punch*) en TaeKwon-Do ITF.
 
 C'est l'un des coups de poing de base les plus pratiqués en TaeKwon-Do. Il exécute une frappe rectiligne en piston visant le plexus solaire (*Kaunde*) depuis une posture hyper-stable (*Annun Sogi*), en exploitant au maximum la force de réaction du bras opposé.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Orun (오른) :** Droit / Côté droit (*Right*).
-* **Joomuk / Ap Joomuk (주먹 / 앞주먹) :** Poing / Devant du poing (*Forefist*).
-* **Kaunde (가운데) :** Niveau moyen (plexus solaire / thorax / abdomen).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
+* **Joomuk / Ap Joomuk ([주먹](../audio/grammaire/Joomuk.m4a) / [앞주먹](../audio/grammaire/Ap-Joomuk.m4a)) :** Poing / Devant du poing (*Forefist*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax / abdomen).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

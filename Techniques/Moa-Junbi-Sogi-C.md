@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-C.m4a)
 
-Le **Moa Junbi Sogi C** (모아 준비 서기 C) est une posture de préparation fermée rituelle et martiale du Taekwon-Do (ITF).
+Le **Moa Junbi Sogi C** ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) C) est une posture de préparation fermée rituelle et martiale du Taekwon-Do (ITF).
 
 Elle se traduit par : **Position fermée de préparation "C"** (*Closed Ready Stance C*).
 
@@ -14,9 +14,9 @@ C'est une posture de recentrage, de contrôle mental et d'accumulation d'énergi
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Moa** | 모아 | Fermé / Joint | Indique que les pieds sont parfaitement collés l'un contre l'autre. |
-| **Junbi** | 준비 | Préparation | Posture d'attente, d'éveil et d'harmonisation de la respiration. |
-| **Sogi** | 서기 | Position / Posture | Posture générale du corps. |
+| **Moa** | [모아](../audio/termes/모아.m4a) | Fermé / Joint | Indique que les pieds sont parfaitement collés l'un contre l'autre. |
+| **Junbi** | [준비](../audio/termes/준비.m4a) | Préparation | Posture d'attente, d'éveil et d'harmonisation de la respiration. |
+| **Sogi** | [서기](../audio/termes/서기.m4a) | Position / Posture | Posture générale du corps. |
 | **C** | C | Type C | Spécifie la position et la forme des mains (**deux mains ouvertes superposées**). |
 
 ---

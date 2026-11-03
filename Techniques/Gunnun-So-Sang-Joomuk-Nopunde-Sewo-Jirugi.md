@@ -1,18 +1,18 @@
 # Gunnun So Sang Joomuk Nopunde Sewo Jirugi
 
-> 🔊 **Prononciation :** [걷는 서 쌍 주먹 높인데 세워 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.m4a)
+> 🔊 **Prononciation :** [걷는 서 쌍 주먹 높은데 세워 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.m4a)
 
-Le **Gunnun So Sang Joomuk Nopunde Sewo Jirugi** (걷는 서 쌍 주먹 높인데 세워 지르기) est le **double coup de poing vertical haut en posture de marche** (*Walking stance twin fist high vertical punch*) en TaeKwon-Do ITF.
+Le **Gunnun So Sang Joomuk Nopunde Sewo Jirugi** ([걷는 서 쌍 주먹 높은데 세워 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.m4a)) est le **double coup de poing vertical haut en posture de marche** (*Walking stance twin fist high vertical punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque bilatérale et simultanée projette les deux poings à la vertical au niveau de la tête de l'adversaire (*Nopunde*). L'utilisation de la tenue verticale des poings (*Sewo Jirugi*) permet d'insérer les frappes à travers la garde ou de cibler simultanément les deux côtés du visage (tempes, mâchoires, oreilles).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sang Joomuk (쌍 주먹) :** Poings jumelés / Double poing (*Twin fists* — les deux poings frappent en même temps).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux / du visage).
-* **Sewo (세워) :** Vertical (*Vertical* — les poings restent dressés verticalement, paumes se faisant face).
-* **Jirugi (지르기) :** Coup de poing direct en piston (*Punch*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sang Joomuk ([쌍 주먹](../audio/termes/쌍-주먹.m4a)) :** Poings jumelés / Double poing (*Twin fists* — les deux poings frappent en même temps).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
+* **Sewo ([세워](../audio/termes/세워.m4a)) :** Vertical (*Vertical* — les poings restent dressés verticalement, paumes se faisant face).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---
 

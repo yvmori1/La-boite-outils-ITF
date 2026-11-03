@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [돌려차기](../audio/chagi/dollyo-chagi.m4a)
 
-Le coup de pied circulaire, appelé **Dollyo Chagi** (돌려차기) en TaeKwon-Do ITF, est l'une des techniques d'attaque les plus puissantes et les plus couramment utilisées, tant dans les formes (*Tul*) qu'en combat libre (*Matsogi*).
+Le coup de pied circulaire, appelé **Dollyo Chagi** ([돌려차기](../audio/chagi/dollyo-chagi.m4a)) en TaeKwon-Do ITF, est l'une des techniques d'attaque les plus puissantes et les plus couramment utilisées, tant dans les formes (*Tul*) qu'en combat libre (*Matsogi*).
 
 Contrairement à la version du taekwondo WT (plutôt axée sur le piquage rapide avec l'instep pour le plastron), le *Dollyo Chagi* de style ITF met un fort accent sur la puissance de perforation, la rotation complète des hanches et la précision de la surface de frappe.
 
@@ -12,8 +12,8 @@ Contrairement à la version du taekwondo WT (plutôt axée sur le piquage rapide
 
 En TaeKwon-Do ITF, deux surfaces d'impact sont principalement utilisées selon le contexte :
 
-* **Apkumchi (bol du pied - 앞꿈치) :** C'est la surface traditionnelle **privilégiée dans l'ITF** (systématiquement exigée dans les *Tul*). Les orteils doivent être tirés vers le haut et l'arrière pour frapper avec la base sous les orteils. Elle permet une pénétration maximale de la force sur des cibles précises (tempe, mâchoire, côtes flottantes).
-* **Baldung (le dessus du pied / coup de pied - 발등) :** Davantage utilisé en combat libre (*Matsogi*) pour toucher rapidement à longue distance ou à la tête, grâce à sa plus grande surface de contact.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** C'est la surface traditionnelle **privilégiée dans l'ITF** (systématiquement exigée dans les *Tul*). Les orteils doivent être tirés vers le haut et l'arrière pour frapper avec la base sous les orteils. Elle permet une pénétration maximale de la force sur des cibles précises (tempe, mâchoire, côtes flottantes).
+* **Baldung (le dessus du pied / coup de pied - [발등](../audio/grammaire/Baldong.m4a)) :** Davantage utilisé en combat libre (*Matsogi*) pour toucher rapidement à longue distance ou à la tête, grâce à sa plus grande surface de contact.
 
 ---
 

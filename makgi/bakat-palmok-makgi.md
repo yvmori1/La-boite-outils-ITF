@@ -2,13 +2,13 @@
 
 > 🔊 **Prononciation :** [바깥 팔목 막기](../audio/makgi/bakat-palmok-makgi.m4a)
 
-Le **Bakat Palmok Makgi** (바깥 팔목 막기) est le **blocage avec le tranchant externe de l'avant-bras** (*Outer forearm block*) en TaeKwon-Do ITF.
+Le **Bakat Palmok Makgi** ([바깥 팔목 막기](../audio/makgi/bakat-palmok-makgi.m4a)) est le **blocage avec le tranchant externe de l'avant-bras** (*Outer forearm block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Bakat (바깥) :** Extérieur / Tranchant externe (côté du petit doigt / ulna).
-* **Palmok (팔목) :** Avant-bras (*Pal* = bras, *Mok* = articulation/cou).
-* **Makgi (막기) :** Blocage / Défense.
+* **Bakat ([바깥](../audio/termes/바깥.m4a)) :** Extérieur / Tranchant externe (côté du petit doigt / ulna).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Pal* = bras, *Mok* = articulation/cou).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 C'est l'un des blocages les plus fondamentaux, rigides et fréquemment enseignés du TaeKwon-Do ITF. Il oppose une structure osseuse particulièrement dure et dense contre le membre adverse pour intercepter, stopper ou détruire une frappe.
 

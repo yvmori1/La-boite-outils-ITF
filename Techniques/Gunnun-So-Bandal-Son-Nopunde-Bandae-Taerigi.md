@@ -1,18 +1,18 @@
 # Gunnun So Bandal Son Nopunde Bandae Taerigi
 
-> 🔊 **Prononciation :** [걷는 서 반달손 높인데 반대 때리기](../audio/Techniques/Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.m4a)
+> 🔊 **Prononciation :** [걷는 서 반달손 높은데 반대 때리기](../audio/Techniques/Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.m4a)
 
-Le **Gunnun So Bandal Son Nopunde Bandae Taerigi** (걷는 서 반달손 높인데 반대 때리기) est le **coup cinglant haut inversé avec la main en arc de cercle (croissant de lune) en posture de marche** (*Walking stance crescent-hand high reverse strike*) en TaeKwon-Do ITF.
+Le **Gunnun So Bandal Son Nopunde Bandae Taerigi** ([걷는 서 반달손 높은데 반대 때리기](../audio/Techniques/Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.m4a)) est le **coup cinglant haut inversé avec la main en arc de cercle (croissant de lune) en posture de marche** (*Walking stance crescent-hand high reverse strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque très spécifique utilise la cavité arrondie formée entre le pouce et l'index (**Bandal Son**) pour frapper ou crocheter des zones cylindriques du visage ou du cou (principalement la pomme d'Adam, le larynx ou la mâchoire). L'indication **Bandae** (inversé) signifie que la frappe est délivrée par la main **opposée à la jambe avant**.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Bandal Son (반달손) :** Main en croissant de l'arc de cercle / demi-lune (*Crescent hand* / *Arc hand* — l'arc formé par la courbure du pouce et de l'index).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur de la gorge, du menton ou du cou).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main **du côté de la jambe arrière** / opposée à la jambe avant).
-* **Taerigi (때리기) :** Coup percutant / Cinglant (*Strike*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Bandal Son ([반달손](../audio/grammaire/Bandalson.m4a)) :** Main en croissant de l'arc de cercle / demi-lune (*Crescent hand* / *Arc hand* — l'arc formé par la courbure du pouce et de l'index).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la gorge, du menton ou du cou).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main **du côté de la jambe arrière** / opposée à la jambe avant).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant (*Strike*).
 
 ---
 

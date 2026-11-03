@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 높은데 반대 돌려 걸어차기](../audio/Techniques/Orun-Nopunde-Bandae-Dollyo-Gorochagi.m4a)
 
-Le **Orun Nopunde Bandae Dollyo Gorochagi** (오른 높은데 반대 돌려 걸어차기) est une technique d'attaque spectaculaire, rapide et extrêmement dévastatrice du Taekwon-Do (ITF).
+Le **Orun Nopunde Bandae Dollyo Gorochagi** ([오른 높은데 반대 돌려 걸어차기](../audio/Techniques/Orun-Nopunde-Bandae-Dollyo-Gorochagi.m4a)) est une technique d'attaque spectaculaire, rapide et extrêmement dévastatrice du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de pied crocheté retourné circulaire du pied droit au niveau haut**.
 
@@ -12,11 +12,11 @@ Elle se traduit par : **Coup de pied crocheté retourné circulaire du pied droi
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit | Indique que la frappe est exécutée avec la jambe droite. |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (au niveau de la tête, du visage ou de la tempe). |
-| **Bandae** | 반대 | Reverse / Retourné | Rotation du corps initiée par le dos (mouvement inversé). |
-| **Dollyo** | 돌려 | Circulaire / Tournant | Trajectoire en arc de cercle de la rotation du corps. |
-| **Gorochagi** | 걸어차기 | Coup de pied crocheté | Action de fouetter et crocheter la cible (*Goro* = accrocher/crocheter, *Chagi* = coup de pied). |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit | Indique que la frappe est exécutée avec la jambe droite. |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau de la tête, du visage ou de la tempe). |
+| **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Reverse / Retourné | Rotation du corps initiée par le dos (mouvement inversé). |
+| **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire / Tournant | Trajectoire en arc de cercle de la rotation du corps. |
+| **Gorochagi** | [걸어차기](../audio/grammaire/Goro-Chagi.m4a) | Coup de pied crocheté | Action de fouetter et crocheter la cible (*Goro* = accrocher/crocheter, *Chagi* = coup de pied). |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)
 
-La **Niunja Sogi** (ㄴ자 서기) est la posture en L du Taekwon-Do (ITF). C'est l'une des positions les plus fréquemment utilisées, particulièrement adaptée à la défense, au contre-combat et au travail de garde.
+La **Niunja Sogi** ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) est la posture en L du Taekwon-Do (ITF). C'est l'une des positions les plus fréquemment utilisées, particulièrement adaptée à la défense, au contre-combat et au travail de garde.
 
 Elle se traduit par : **Position en L** (*L-Stance*).
 
@@ -12,8 +12,8 @@ Elle se traduit par : **Position en L** (*L-Stance*).
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Niunja** | ㄴ자 | Lettre « ㄴ » (Nieuen) | Fait référence à la forme en « L » dessinée au sol par l'alignement des deux pieds. |
-| **Sogi** | 서기 | Position / Posture | Posture générale du corps et ancrage des jambes. |
+| **Niunja** | [ㄴ자](../audio/termes/ㄴ자.m4a) | Lettre « [ㄴ](../audio/termes/ㄴ.m4a) » (Nieuen) | Fait référence à la forme en « L » dessinée au sol par l'alignement des deux pieds. |
+| **Sogi** | [서기](../audio/termes/서기.m4a) | Position / Posture | Posture générale du corps et ancrage des jambes. |
 
 ---
 

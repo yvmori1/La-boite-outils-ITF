@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [돌리며 막기](../audio/makgi/dollimyo-makgi.m4a)
 
-Le **Dollimyo Makgi** (돌리며 막기) est le **blocage circulaire / blocage en cuillère** (*Scooping block* ou *Circular block*) en TaeKwon-Do ITF.
+Le **Dollimyo Makgi** ([돌리며 막기](../audio/makgi/dollimyo-makgi.m4a)) est le **blocage circulaire / blocage en cuillère** (*Scooping block* ou *Circular block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Dollimyo (돌리며) :** En tournant / En décrivant un cercle (du verbe *dollida*, 돌리다 = faire tourner/circuler, avec la désinence *-myeo* indiquant une action continue et fluide).
-* **Makgi (막기) :** Blocage / Défense.
+* **Dollimyo ([돌리며](../audio/termes/돌리며.m4a)) :** En tournant / En décrivant un cercle (du verbe *dollida*, [돌리다](../audio/termes/돌리다.m4a) = faire tourner/circuler, avec la désinence *-myeo* indiquant une action continue et fluide).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Ce blocage se distingue par sa **trajectoire circulaire continue et enveloppante**. Plutôt que d'opposer une force directe contre l'attaque adverse, le *Dollimyo Makgi* vient passer sous la frappe, la "ramasser" et la dévier en formant un cercle pour détruire l'équilibre de l'attaquant.
 
@@ -17,8 +17,8 @@ Ce blocage se distingue par sa **trajectoire circulaire continue et enveloppante
 
 Selon la variante et la cible interceptée, le *Dollimyo Makgi* s'exécute principalement avec deux armes naturelles :
 
-* **Sonbadak (paume de la main - 손바닥) :** Utilisé pour la version en cuillère (*Sonbadak Dollimyo Makgi*), idéal pour cueillir le dessous d'un pied ou d'une cheville.
-* **An Palmok (tranchant interne de l'avant-bras - 안팔목) :** Utilisé pour la version circulaire (*An Palmok Dollimyo Makgi*), permettant de dévier de grosses frappes (coups de poing ou coups de pied moyens).
+* **Sonbadak (paume de la main - [손바닥](../audio/grammaire/Sonbadak.m4a)) :** Utilisé pour la version en cuillère (*Sonbadak Dollimyo Makgi*), idéal pour cueillir le dessous d'un pied ou d'une cheville.
+* **An Palmok (tranchant interne de l'avant-bras - [안팔목](../audio/grammaire/An-Palmok.m4a)) :** Utilisé pour la version circulaire (*An Palmok Dollimyo Makgi*), permettant de dévier de grosses frappes (coups de poing ou coups de pied moyens).
 
 ---
 

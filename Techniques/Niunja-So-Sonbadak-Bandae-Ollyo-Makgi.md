@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손바닥 반대 올려 막기](../audio/Techniques/Niunja-So-Sonbadak-Bandae-Ollyo-Makgi.m4a)
 
-Le **Niunja So Sonbadak Bandae Ollyo Makgi** (ㄴ자 서 손바닥 반대 올려 막기) est le **blocage montant inversé avec la paume de la main en posture en L** (*L-stance reverse palm rising block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonbadak Bandae Ollyo Makgi** ([ㄴ자 서 손바닥 반대 올려 막기](../audio/Techniques/Niunja-So-Sonbadak-Bandae-Ollyo-Makgi.m4a)) est le **blocage montant inversé avec la paume de la main en posture en L** (*L-stance reverse palm rising block*) en TaeKwon-Do ITF.
 
 Cette technique défensive très spécifique utilise la surface charnue de la paume de la main (**Sonbadak**) dans un mouvement ascendant (**Ollyo**) pour dévier, soulever ou intercepter une frappe descendante ou directe (comme un coup de poing, une attaque de main ou une tentative de saisie) dirigée vers la poitrine ou le visage. L'indication **Bandae** (inversée) précise que le blocage est exécuté par la main située **du côté de la jambe avant** (opposée à la jambe arrière qui définit la posture).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
-* **Ollyo (올려) :** Ascendant / Montant / En levant (*Rising / Upward*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Ascendant / Montant / En levant (*Rising / Upward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

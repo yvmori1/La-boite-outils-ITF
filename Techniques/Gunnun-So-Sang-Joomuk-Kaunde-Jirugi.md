@@ -1,15 +1,17 @@
 # Gunnun So Sang Joomuk Kaunde Jirugi
 
-Le **Gunnun So Sang Joomuk Kaunde Jirugi** (걷는 서 쌍주먹 가운데 지르기) est le **coup de poing moyen avec les poings jumelés en posture de marche** (*Walking stance middle punch with a twin fist*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 쌍주먹 가운데 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Kaunde-Jirugi.m4a)
+
+Le **Gunnun So Sang Joomuk Kaunde Jirugi** ([걷는 서 쌍주먹 가운데 지르기](../audio/Techniques/Gunnun-So-Sang-Joomuk-Kaunde-Jirugi.m4a)) est le **coup de poing moyen avec les poings jumelés en posture de marche** (*Walking stance middle punch with a twin fist*) en TaeKwon-Do ITF.
 
 Les deux poings (**Sang Joomuk**) frappent en même temps, côte à côte, au niveau moyen. La force des deux bras et celle de la chute de masse se concentrent sur une seule cible.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sang Joomuk (쌍주먹) :** Poings jumelés (*Twin fist*).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Jirugi (지르기) :** Coup de poing (*Punch*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sang Joomuk ([쌍주먹](../audio/termes/쌍주먹.m4a)) :** Poings jumelés (*Twin fist*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---
 

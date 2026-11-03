@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 등 주먹 높은데 옆 때리기](../audio/Techniques/Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)
 
-Le **Orun Dung Joomuk Nopunde Yop Taerigi** (오른 등 주먹 높은데 옆 때리기) est une technique d'attaque latérale explosive, rapide et fustigeante du Taekwon-Do (ITF).
+Le **Orun Dung Joomuk Nopunde Yop Taerigi** ([오른 등 주먹 높은데 옆 때리기](../audio/Techniques/Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.m4a)) est une technique d'attaque latérale explosive, rapide et fustigeante du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe latérale du revers du poing droit au niveau haut**.
 
@@ -12,11 +12,11 @@ Elle se traduit par : **Frappe latérale du revers du poing droit au niveau haut
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique que la frappe est exécutée avec le poing droit. |
-| **Dung Joomuk** | 등 주먹 | Revers du poing | Surface d'impact (la partie dorsale du poing, sur la zone des deux premières phalanges). |
-| **Nopunde** | 높은데 | Niveau haut | Hauteur de la cible (au niveau du visage, de la tempe ou des yeux). |
-| **Yop** | 옆 | Latéral / De côté | Direction de l'attaque (exécutée vers le côté du corps). |
-| **Taerigi** | 때리기 | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique que la frappe est exécutée avec le poing droit. |
+| **Dung Joomuk** | [등 주먹](../audio/termes/등-주먹.m4a) | Revers du poing | Surface d'impact (la partie dorsale du poing, sur la zone des deux premières phalanges). |
+| **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du visage, de la tempe ou des yeux). |
+| **Yop** | [옆](../audio/grammaire/Yop.m4a) | Latéral / De côté | Direction de l'attaque (exécutée vers le côté du corps). |
+| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
 
 ---
 

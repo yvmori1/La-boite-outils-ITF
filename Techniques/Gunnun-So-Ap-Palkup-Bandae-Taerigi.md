@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [걷는 서 앞 팔굽 반대 때리기](../audio/Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.m4a)
 
-Le **Gunnun So Ap Palkup Bandae Taerigi** (걷는 서 앞 팔굽 반대 때리기) est le **coup de coude frontal inversé en posture de marche** (*Walking stance reverse front elbow strike*) en TaeKwon-Do ITF.
+Le **Gunnun So Ap Palkup Bandae Taerigi** ([걷는 서 앞 팔굽 반대 때리기](../audio/Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.m4a)) est le **coup de coude frontal inversé en posture de marche** (*Walking stance reverse front elbow strike*) en TaeKwon-Do ITF.
 
 Cette technique de frappe percutante à très courte distance utilise la masse osseuse d'un des leviers les plus puissants du corps humain : le coude (**Palkup**). L'indication **Bandae** (inversé) signifie que le coup de coude est délivré par le bras **opposé à la jambe avant** (ex: jambe gauche devant, coup de coude du bras droit).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Ap (앞) :** Avant / Frontal (*Front*).
-* **Palkup / Palgup (팔굽) :** Coude (*Elbow*).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe avant**).
-* **Taerigi (때리기) :** Coup percutant / Cinglant (*Strike*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
+* **Palkup / Palgup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe avant**).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant (*Strike*).
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 주먹 뒤집어 지르기](../audio/Techniques/Orun-Joomuk-Dwijibo-Jirigi.m4a)
 
-Le **Orun Joomuk Dwijibo Jirigi** (오른 주먹 뒤집어 지르기) — parfois orthographié *Dwijibon Jirugi* — est une technique d'attaque directe et courte du Taekwon-Do (ITF).
+Le **Orun Joomuk Dwijibo Jirigi** ([오른 주먹 뒤집어 지르기](../audio/Techniques/Orun-Joomuk-Dwijibo-Jirigi.m4a)) — parfois orthographié *Dwijibon Jirugi* — est une technique d'attaque directe et courte du Taekwon-Do (ITF).
 
 Elle se traduit par : **Coup de poing direct retourné (paume vers le haut) du poing droit**.
 
@@ -12,10 +12,10 @@ Elle se traduit par : **Coup de poing direct retourné (paume vers le haut) du p
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique que la frappe est exécutée avec le bras droit. |
-| **Joomuk** | 주먹 | Poing | Zone d'impact (utilisation des deux premières phalanges / *Ap Joomuk*). |
-| **Dwijibo** | 뒤집어 | Retourné / Inverse | Signifie que le poing finit sa course **paume orientée vers le haut** (*Upset Punch*). |
-| **Jirigi / Jirugi** | 지르기 | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante. |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique que la frappe est exécutée avec le bras droit. |
+| **Joomuk** | [주먹](../audio/grammaire/Joomuk.m4a) | Poing | Zone d'impact (utilisation des deux premières phalanges / *Ap Joomuk*). |
+| **Dwijibo** | [뒤집어](../audio/termes/뒤집어.m4a) | Retourné / Inverse | Signifie que le poing finit sa course **paume orientée vers le haut** (*Upset Punch*). |
+| **Jirigi / Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Coup de poing direct | Trajectoire d'enfoncement rectiligne et perçante. |
 
 ---
 

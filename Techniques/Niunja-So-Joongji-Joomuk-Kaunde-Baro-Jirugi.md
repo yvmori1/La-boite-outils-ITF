@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 중지주먹 가운데 바로 지르기](../audio/Techniques/Niunja-So-Joongji-Joomuk-Kaunde-Baro-Jirugi.m4a)
 
-Le **Niunja So Joongji Joomuk Kaunde Baro Jirugi** (ㄴ자 서 중지주먹 가운데 바로 지르기) est le **coup de poing direct moyen avec le poing à majeur sortant en posture en L (du même côté)** (*L-stance middle knuckle-fist / middle-finger fist punch*) en TaeKwon-Do ITF.
+Le **Niunja So Joongji Joomuk Kaunde Baro Jirugi** ([ㄴ자 서 중지주먹 가운데 바로 지르기](../audio/Techniques/Niunja-So-Joongji-Joomuk-Kaunde-Baro-Jirugi.m4a)) est le **coup de poing direct moyen avec le poing à majeur sortant en posture en L (du même côté)** (*L-stance middle knuckle-fist / middle-finger fist punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque très spécifique et chirurgicale utilise la saillie de l'articulation du majeur (**Joongji Joomuk**) pour concentrer toute la force de pénétration sur une surface minuscule. Elle vise une cible vitale au niveau moyen (**Kaunde** — principalement le plexus solaire), en exécutant le coup du même côté que la jambe arrière (**Baro**), tout en tirant parti de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Joongji Joomuk (중지주먹) :** Poing à majeur sortant (*Middle-finger knuckle fist* — le poing est fermé, mais la deuxième articulation du majeur est projetée vers l'extérieur et verrouillée par le pouce).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
-* **Baro (바로) :** Direct / Du même côté (*Direct / Obverse* — la frappe est exécutée avec le bras situé **du même côté que la jambe arrière**).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Joongji Joomuk ([중지주먹](../audio/termes/중지주먹.m4a)) :** Poing à majeur sortant (*Middle-finger knuckle fist* — le poing est fermé, mais la deuxième articulation du majeur est projetée vers l'extérieur et verrouillée par le pouce).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Direct / Obverse* — la frappe est exécutée avec le bras situé **du même côté que la jambe arrière**).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

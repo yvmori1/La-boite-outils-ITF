@@ -1,6 +1,6 @@
 # Les systèmes de combat (Matsogi Goosong)
 
-Le combat (*Matsogi* — 맞서기) est l'application physique des techniques
+Le combat (*Matsogi* — [맞서기](../audio/combats/Matsogi.m4a)) est l'application physique des techniques
 d'attaque et de défense apprises dans les formes et les mouvements
 fondamentaux, contre un ou plusieurs adversaires réels, dans des situations
 variées. Il développe l'esprit combatif et le courage, éduque le regard,

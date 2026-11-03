@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 등주먹 반대 내려 때리기](../audio/Techniques/Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.m4a)
 
-Le **Niunja So Dung Joomuk Bandae Naeryo Taerigi** (ㄴ자 서 등주먹 반대 내려 때리기) est le **coup cinglant descendant inversé avec le revers du poing en posture en L** (*L-stance reverse backfist downward strike*) en TaeKwon-Do ITF.
+Le **Niunja So Dung Joomuk Bandae Naeryo Taerigi** ([ㄴ자 서 등주먹 반대 내려 때리기](../audio/Techniques/Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.m4a)) est le **coup cinglant descendant inversé avec le revers du poing en posture en L** (*L-stance reverse backfist downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque puissante et lourde utilise le revers du poing fermé (**Dung Joomuk**) dans une trajectoire verticale du haut vers le bas (**Naeryo**) pour écraser des cibles sensibles (clavicule, arête du nez, tête ou épaule de l'adversaire). L'indication **Bandae** (inversée) précise que la frappe est exécutée par le bras situé **du côté de la jambe avant** (opposé à la jambe arrière qui définit la posture).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Dung Joomuk (등주먹) :** Revers du poing fermé (*Backfist* — la surface dorsale des deux premières jointures de l'index et du majeur).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi (때리기) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing fermé (*Backfist* — la surface dorsale des deux premières jointures de l'index et du majeur).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

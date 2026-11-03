@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [걷는 서 손바닥 반대 눌러 막기](../audio/Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.m4a)
 
-Le **Gunnun So Sonbadak Bandae Noollo Makgi** (걷는 서 손바닥 반대 눌러 막기) est le **blocage descendant en pression avec la paume de la main (inversé) en posture de marche** (*Walking stance palm reverse pressing block*) en TaeKwon-Do ITF.
+Le **Gunnun So Sonbadak Bandae Noollo Makgi** ([걷는 서 손바닥 반대 눌러 막기](../audio/Techniques/Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.m4a)) est le **blocage descendant en pression avec la paume de la main (inversé) en posture de marche** (*Walking stance palm reverse pressing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive fluide et technique utilise la surface souple mais ferme du talon de la paume (**Sonbadak**) pour appuyer, écraser ou dévier une attaque basse venant de l'adversaire (comme un coup de pied direct *Ap Chagi*). L'indication **Bandae** (inversé) signifie que le blocage est exécuté par la main **opposée à la jambe avant** (ex: jambe gauche en avant, paume droite qui bloque).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm of the hand* — plus précisément le talon de la paume).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec la main **opposée à la jambe avant**).
-* **Noollo / Nullo (눌러) :** En pression / Presser vers le bas (*Pressing / Downward pressing*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand* — plus précisément le talon de la paume).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main **opposée à la jambe avant**).
+* **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** En pression / Presser vers le bas (*Pressing / Downward pressing*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

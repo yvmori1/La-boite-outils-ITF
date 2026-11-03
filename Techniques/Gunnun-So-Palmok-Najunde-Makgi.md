@@ -1,21 +1,21 @@
 # Gunnun So Palmok Najunde Makgi
 
-> 🔊 **Prononciation :** [건눈 서 팔목 낮은데 막기](../audio/Techniques/Gunnun-So-Palmok-Najunde-Makgi.m4a)
+> 🔊 **Prononciation :** [걷는 서 팔목 낮은데 막기](../audio/Techniques/Gunnun-So-Palmok-Najunde-Makgi.m4a)
 
-Le **Gunnun So Palmok Najunde Makgi** (건눈 서 팔목 낮은데 막기 — souvent retranscrit **Gunnun Sogi Bakat Palmok Najunde Makgi**) est le **blocage bas avec l'avant-bras en posture de marche** en TaeKwon-Do ITF.
+Le **Gunnun So Palmok Najunde Makgi** ([걷는 서 팔목 낮은데 막기](../audio/Techniques/Gunnun-So-Palmok-Najunde-Makgi.m4a) — souvent retranscrit **Gunnun Sogi Bakat Palmok Najunde Makgi**) est le **blocage bas avec l'avant-bras en posture de marche** en TaeKwon-Do ITF.
 
 C'est **le premier blocage absolu** enseigné dans le programme ITF (dès la ceinture blanche / 10ᵉ Keup). Il constitue la défense fondamentale contre toute attaque dirigée vers la partie inférieure du corps.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Sogi (건눈 서기) :** Posture de marche (*Walking stance*).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — par défaut, c'est le **Bakat Palmok**, le tranchant extérieur de l'avant-bras, qui est engagé).
-* **Najunde (낮은데) :** Niveau bas (*Low level* — zone sous la ceinture : bas-ventre, inguinaux, cuisses).
-* **Makgi (막기) :** Blocage / Défense.
+* **Gunnun So / Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance*).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — par défaut, c'est le **Bakat Palmok**, le tranchant extérieur de l'avant-bras, qui est engagé).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — zone sous la ceinture : bas-ventre, inguinaux, cuisses).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 ---
 
-## 1. La posture de base : *Gunnun Sogi* (건눈 서기)
+## 1. La posture de base : *Gunnun Sogi* ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a))
 
 Le blocage bas tire sa puissance de l'ancrage de la posture de marche :
 

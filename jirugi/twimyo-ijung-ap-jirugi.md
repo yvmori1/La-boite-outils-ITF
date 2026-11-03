@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [뛰며 이중 앞 지르기](../audio/jirugi/twimyo-ijung-ap-jirugi.m4a)
 
-Le **Twimyo Ijung Ap Jirugi** (뛰며 이중 앞 지르기 — retranscrit **Twimyo I-Joong Ap Jirugi**) est le **double coup de poing direct frontal sauté** (*Flying double front punch*) en TaeKwon-Do ITF.
+Le **Twimyo Ijung Ap Jirugi** ([뛰며 이중 앞 지르기](../audio/jirugi/twimyo-ijung-ap-jirugi.m4a) — retranscrit **Twimyo I-Joong Ap Jirugi**) est le **double coup de poing direct frontal sauté** (*Flying double front punch*) en TaeKwon-Do ITF.
 
 Cette technique acrobatique consiste à s'élever dans les airs pour délivrer deux coups de poing directs consécutifs vers l'avant (généralement bras gauche puis bras droit, ou inversement) avant de retomber au sol.
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** En sautant / Volant (*Jumping / Flying*).
-* **Ijung / I-joong (이중 / 2중) :** Double / Consécutif (*Double / Consecutive*).
-* **Ap (앞) :** Avant / Frontal (*Front*).
-* **Jirugi (지르기) :** Coup de poing direct (*Punch*).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Jumping / Flying*).
+* **Ijung / I-joong ([이중](../audio/termes/이중.m4a) / 2[중](../audio/termes/중.m4a)) :** Double / Consécutif (*Double / Consecutive*).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct (*Punch*).
 
 > 💡 **Distinction clé (*Ijung* vs *Sang*) :**
 > * **Twimyo Sang Jirugi :** Coup de poing **simultané** des deux bras en sautant (les deux poings frappent en même temps).

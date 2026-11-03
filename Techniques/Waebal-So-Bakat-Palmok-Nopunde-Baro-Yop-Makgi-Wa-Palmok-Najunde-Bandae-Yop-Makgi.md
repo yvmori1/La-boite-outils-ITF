@@ -1,23 +1,23 @@
 # Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi
 
-> 🔊 **Prononciation :** [외발 서 바깥 팔목 높인데 바로 옆 막기 와 팔목 낮은데 반대 옆 막기](../audio/Techniques/Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.m4a)
+> 🔊 **Prononciation :** [외발 서 바깥 팔목 높은데 바로 옆 막기 와 팔목 낮은데 반대 옆 막기](../audio/Techniques/Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.m4a)
 
-Le **Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi** (외발 서 바깥 팔목 높인데 바로 옆 막기 와 팔목 낮은데 반대 옆 막기) est le **double blocage latéral aux avant-bras — haut extérieur direct et bas inversé — en posture sur une seule jambe** (*One-leg stance outer forearm high obverse side block and forearm low reverse side block*) en TaeKwon-Do ITF.
+Le **Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi** ([외발 서 바깥 팔목 높은데 바로 옆 막기 와 팔목 낮은데 반대 옆 막기](../audio/Techniques/Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.m4a)) est le **double blocage latéral aux avant-bras — haut extérieur direct et bas inversé — en posture sur une seule jambe** (*One-leg stance outer forearm high obverse side block and forearm low reverse side block*) en TaeKwon-Do ITF.
 
 Cette technique défensive combinée hautement spécialisée dresse une double barrière protectrice sur le flanc. Elle permet de contrer simultanément une attaque haute (au visage) et une attaque basse (au bas-ventre ou aux jambes) arrivant de côté à 90°, tout en retirant la jambe avant du sol pour esquiver un balayage.
 
 Sa décomposition linguistique est la suivante :
 
-* **Waebal So / Waebal Sogi (외발 서기) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
-* **Bakat Palmok (바깥 팔목) :** Extérieur de l'avant-bras (*Outer forearm*).
-* **Nopunde (높인데) :** Niveau haut (*High level* — hauteur des yeux / du visage).
-* **Baro (바로) :** Direct (*Obverse* — s'exécute avec le bras du **même côté que la jambe d'appui**).
-* **Yop Makgi (옆 막기) :** Blocage latéral (*Side block* — dirigé vers le côté à 90°).
-* **Wa (와) :** Et / Simultanément (*And / Simultaneously*).
-* **Palmok (팔목) :** Avant-bras (*Forearm*).
-* **Najunde (낮은데) :** Niveau bas (*Low level* — hauteur du bas-ventre / aine).
-* **Bandae (반대) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).
-* **Yop Makgi (옆 막기) :** Blocage latéral (*Side block*).
+* **Waebal So / Waebal Sogi ([외발 서기](../audio/Techniques/Waebal-Sogi.m4a)) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (*Outer forearm*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct (*Obverse* — s'exécute avec le bras du **même côté que la jambe d'appui**).
+* **Yop Makgi ([옆 막기](../audio/makgi/yop-makgi.m4a)) :** Blocage latéral (*Side block* — dirigé vers le côté à 90°).
+* **Wa ([와](../audio/termes/와.m4a)) :** Et / Simultanément (*And / Simultaneously*).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — hauteur du bas-ventre / aine).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).
+* **Yop Makgi ([옆 막기](../audio/makgi/yop-makgi.m4a)) :** Blocage latéral (*Side block*).
 
 ---
 

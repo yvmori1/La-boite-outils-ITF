@@ -1,18 +1,18 @@
 # Annun So Sonkal Najunde A-Bang Daebi Makgi
 
-> 🔊 **Prononciation :** [앉은 서 손칼 낮운데](../audio/Techniques/Annun-So-Sonkal-Najunde-A-Bang-Daebi-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 손칼 낮은데](../audio/Techniques/Annun-So-Sonkal-Najunde-A-Bang-Daebi-Makgi.m4a)
 
-Le **Annun So Sonkal Najunde A-Bang Daebi Makgi** (앉은 서 손칼 낮운데 A방 대비 막기) est le **blocage de garde bas en forme de "A" au tranchant de la main en posture du cavalier** (*Sitting stance knife-hand low A-shape guarding block*) en TaeKwon-Do ITF.
+Le **Annun So Sonkal Najunde A-Bang Daebi Makgi** ([앉은 서 손칼 낮은데](../audio/Techniques/Annun-So-Sonkal-Najunde-A-Bang-Daebi-Makgi.m4a) A[방 대비 막기](../audio/termes/방-대비-막기.m4a)) est le **blocage de garde bas en forme de "A" au tranchant de la main en posture du cavalier** (*Sitting stance knife-hand low A-shape guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive combinée utilise le tranchant extérieur des deux mains ouvertes (*Sonkal*) pour former une structure de protection étagée en forme de triangle ou de lettre **"A"** (*A-shape / A-frame*), sécurisant efficacement le bas du corps (bas-ventre, cuisses, flancs) contre des attaques descendantes ou obliques.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi (앉은 서) :** Posture du cavalier (*Sitting stance*).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — côté extérieur/auriculaire).
-* **Najunde (낮운데) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
-* **A-Bang / A-shape (A방 / A자) :** En forme de "A" / cadre triangulaire en "A" (*A-shape / A-frame*).
-* **Daebi Makgi (대비 막기) :** Blocage de garde / protection synergique des deux mains (*Guarding block*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — côté extérieur/auriculaire).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
+* **A-Bang / A-shape (A[방](../audio/termes/방.m4a) / A[자](../audio/termes/자.m4a)) :** En forme de "A" / cadre triangulaire en "A" (*A-shape / A-frame*).
+* **Daebi Makgi ([대비 막기](../audio/termes/대비-막기.m4a)) :** Blocage de garde / protection synergique des deux mains (*Guarding block*).
 
 ---
 

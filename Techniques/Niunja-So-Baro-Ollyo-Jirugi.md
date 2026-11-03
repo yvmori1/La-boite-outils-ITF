@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 바로 올려 지르기](../audio/Techniques/Niunja-So-Baro-Ollyo-Jirugi.m4a)
 
-Le **Niunja So Baro Ollyo Jirugi** (ㄴ자 서 바로 올려 지르기) est le **coup de poing uppercut direct en posture en L (du même côté)** (*L-stance obverse rising punch / uppercut*) en TaeKwon-Do ITF.
+Le **Niunja So Baro Ollyo Jirugi** ([ㄴ자 서 바로 올려 지르기](../audio/Techniques/Niunja-So-Baro-Ollyo-Jirugi.m4a)) est le **coup de poing uppercut direct en posture en L (du même côté)** (*L-stance obverse rising punch / uppercut*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à trajectoire verticale ascendante (**Ollyo**) utilise les deux premières jointures du poing fermé (**Ap Joomuk**) pour frapper sous le menton, à la gorge ou au plexus solaire de l'adversaire. L'indication **Baro** (direct) indique que la frappe est exécutée avec le bras situé **du même côté que la jambe arrière** (qui définit la posture).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Baro (바로) :** Direct / Du même côté (*Obverse* — s'exécute avec la main du côté de la jambe arrière).
-* **Ollyo (올려) :** Ascendant / Montant (*Rising / Upward*).
-* **Jirugi (지르기) :** Coup de poing direct / Pénétration (*Punch*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — s'exécute avec la main du côté de la jambe arrière).
+* **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Ascendant / Montant (*Rising / Upward*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
 

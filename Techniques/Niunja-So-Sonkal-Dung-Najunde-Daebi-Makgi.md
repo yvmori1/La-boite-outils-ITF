@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 손칼등 낮은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Najunde-Daebi-Makgi.m4a)
 
-Le **Niunja So Sonkal Dung Najunde Daebi Makgi** (ㄴ자 서 손칼등 낮은데 대비 막기) est le **blocage de garde bas au revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand low guarding block*) en TaeKwon-Do ITF.
+Le **Niunja So Sonkal Dung Najunde Daebi Makgi** ([ㄴ자 서 손칼등 낮은데 대비 막기](../audio/Techniques/Niunja-So-Sonkal-Dung-Najunde-Daebi-Makgi.m4a)) est le **blocage de garde bas au revers du tranchant de la main en posture en L** (*L-stance reverse knife-hand low guarding block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale utilise le revers du tranchant des deux mains ouvertes (**Sonkal Dung** — la tranche osseuse située entre la base de l'index et le pouce fléchi) pour créer un écran de protection bas (bas-ventre, aine, cuisses) contre des attaques descendantes ou basses, tout en profitant du profil réduit et du retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Sonkal Dung (손칼등) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
-* **Najunde (낮인데) :** Niveau bas (*Low level* — au-dessous de la ceinture/au niveau du bas-ventre).
-* **Daebi (대비) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/au niveau du bas-ventre).
+* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

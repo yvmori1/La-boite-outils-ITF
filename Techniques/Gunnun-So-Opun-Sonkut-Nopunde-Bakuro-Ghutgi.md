@@ -1,16 +1,18 @@
 # Gunnun So Opun Sonkut Nopunde Bakuro Ghutgi
 
-Le **Gunnun So Opun Sonkut Nopunde Bakuro Ghutgi** (걷는 서 엎은손끝 높은데 밖으로 긋기) est le **cisaillage horizontal haut vers l'extérieur du bout des doigts en posture de marche** (*Walking stance high outward cross-cut with a flat fingertip*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 엎은손끝 높은데 밖으로 긋기](../audio/Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.m4a)
+
+Le **Gunnun So Opun Sonkut Nopunde Bakuro Ghutgi** ([걷는 서 엎은손끝 높은데 밖으로 긋기](../audio/Techniques/Gunnun-So-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.m4a)) est le **cisaillage horizontal haut vers l'extérieur du bout des doigts en posture de marche** (*Walking stance high outward cross-cut with a flat fingertip*) en TaeKwon-Do ITF.
 
 Le **Ghutgi** n'est pas une pique : c'est un geste qui balaie et entaille, de l'intérieur vers l'extérieur, le bout des doigts à plat passant devant les yeux de l'adversaire.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Opun Sonkut (엎은손끝) :** Bout des doigts à plat, paume vers le sol (*Flat fingertip*).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Bakuro (밖으로) :** Vers l'extérieur (*Outward*).
-* **Ghutgi (긋기) :** Cisaillage / entaille (*Cross-cut*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Opun Sonkut ([엎은손끝](../audio/grammaire/Opun-Sonkut.m4a)) :** Bout des doigts à plat, paume vers le sol (*Flat fingertip*).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (*Outward*).
+* **Ghutgi ([긋기](../audio/termes/긋기.m4a)) :** Cisaillage / entaille (*Cross-cut*).
 
 ---
 

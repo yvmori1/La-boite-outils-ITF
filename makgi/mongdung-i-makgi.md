@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [몽둥이 막기](../audio/makgi/mongdung-i-makgi.m4a)
 
-Le **Mongdung-i Makgi** (몽둥이 막기 — retranscrit **Mongdug-I Makgi** ou *Mongdugi Makgi*) est le **blocage / défense contre une attaque au bâton** (*Defense against a stick/club*) en TaeKwon-Do ITF.
+Le **Mongdung-i Makgi** ([몽둥이 막기](../audio/makgi/mongdung-i-makgi.m4a) — retranscrit **Mongdug-I Makgi** ou *Mongdugi Makgi*) est le **blocage / défense contre une attaque au bâton** (*Defense against a stick/club*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Mongdung-i / Mongdugi (몽둥이) :** Bâton, gourdin, matraque, club.
-* **Makgi (막기) :** Blocage / Défense.
+* **Mongdung-i / Mongdugi ([몽둥이](../audio/termes/몽둥이.m4a)) :** Bâton, gourdin, matraque, club.
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Il ne s'agit pas d'un blocage isolé contre un coup à mains nues, mais d'une **technique défensive spécialisée de Self-Défense (*Hosinsul*) et de formes avancées**, conçue spécifiquement pour intercepter, bloquer et neutraliser une attaque armée d'un bâton ou d'un objet contondant.
 

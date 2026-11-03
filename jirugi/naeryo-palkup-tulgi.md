@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [내려 팔굽 찌르기](../audio/jirugi/naeryo-palkup-tulgi.m4a)
 
-Le **Naeryo Palkup Tulgi** (내려 팔굽 찌르기) est la **pique descendante du coude** (*Downward elbow thrust*) en TaeKwon-Do ITF.
+Le **Naeryo Palkup Tulgi** ([내려 팔굽 찌르기](../audio/jirugi/naeryo-palkup-tulgi.m4a)) est la **pique descendante du coude** (*Downward elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à très courte distance utilise la gravité et l'abaissement lourd du centre de gravité pour enfoncer verticalement la pointe du coude sur une cible située plus bas que les épaules.
 
 Sa décomposition linguistique est la suivante :
 
-* **Naeryo (내려) :** Descendant / De haut en bas (*Downward*).
-* **Palkup (팔굽) :** Coude (*Elbow*).
-* **Tulgi (찌르기) :** Pique / Poussée perforante (*Thrust*).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / De haut en bas (*Downward*).
+* **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée perforante (*Thrust*).
 
 > 💡 **Nuance (*Tulgi* vs *Taerigi*) :**
 > * **Naeryo Palkup Taerigi :** Le coude suit une trajectoire en arc/fouetté descendant (type hache).

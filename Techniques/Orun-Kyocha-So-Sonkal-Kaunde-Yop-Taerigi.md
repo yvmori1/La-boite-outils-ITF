@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [오른 교차 서 손칼 가운데 옆 때리기](../audio/Techniques/Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.m4a)
 
-Le **Orun Kyocha So Sonkal Kaunde Yop Taerigi** (오른 교차 서 손칼 가운데 옆 때리기) est une technique d'attaque latérale dynamique et compacte du Taekwon-Do (ITF).
+Le **Orun Kyocha So Sonkal Kaunde Yop Taerigi** ([오른 교차 서 손칼 가운데 옆 때리기](../audio/Techniques/Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.m4a)) est une technique d'attaque latérale dynamique et compacte du Taekwon-Do (ITF).
 
 Elle se traduit par : **Frappe latérale du tranchant de la main au niveau moyen en position croisée droite**.
 
@@ -12,12 +12,12 @@ Elle se traduit par : **Frappe latérale du tranchant de la main au niveau moyen
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Orun** | 오른 | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
-| **Kyocha So (Sogi)** | 교차 서기 | Position croisée (*X-Stance*) | Posture où les jambes se croisent, les genoux étant serrés pour assurer la stabilité. |
-| **Sonkal** | 손칼 | Tranchant de la main | Surface de frappe (le bord extérieur de la main, de la base du petit doigt au poignet). |
-| **Kaunde** | 가운데 | Niveau moyen | Hauteur de la cible (au niveau de la poitrine / du plexus solaire). |
-| **Yop** | 옆 | Latéral / De côté | Direction de l'attaque (exécutée vers le côté du corps). |
-| **Taerigi** | 때리기 | Frappe / Coup | Mouvement d'attaque fustigeant ou circulaire (différent d'une poussée directe *Jirugi*). |
+| **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
+| **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture où les jambes se croisent, les genoux étant serrés pour assurer la stabilité. |
+| **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Surface de frappe (le bord extérieur de la main, de la base du petit doigt au poignet). |
+| **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur de la cible (au niveau de la poitrine / du plexus solaire). |
+| **Yop** | [옆](../audio/grammaire/Yop.m4a) | Latéral / De côté | Direction de l'attaque (exécutée vers le côté du corps). |
+| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement d'attaque fustigeant ou circulaire (différent d'une poussée directe *Jirugi*). |
 
 ---
 

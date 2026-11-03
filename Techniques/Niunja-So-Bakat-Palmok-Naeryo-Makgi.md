@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [ㄴ자 서 바깥 팔목 내려 막기](../audio/Techniques/Niunja-So-Bakat-Palmok-Naeryo-Makgi.m4a)
 
-Le **Niunja So Bakat Palmok Naeryo Makgi** (ㄴ자 서 바깥 팔목 내려 막기) est le **blocage descendant à l'avant-bras extérieur en posture en L** (*L-stance outer forearm downward block*) en TaeKwon-Do ITF.
+Le **Niunja So Bakat Palmok Naeryo Makgi** ([ㄴ자 서 바깥 팔목 내려 막기](../audio/Techniques/Niunja-So-Bakat-Palmok-Naeryo-Makgi.m4a)) est le **blocage descendant à l'avant-bras extérieur en posture en L** (*L-stance outer forearm downward block*) en TaeKwon-Do ITF.
 
 Cette technique défensive lourde utilise la surface osseuse extérieure de l'avant-bras (**Bakat Palmok**) dans une trajectoire verticale du haut vers le bas (**Naeryo**) pour écraser, intercepter ou dévier une attaque puissante venant du bas ou de face (comme un coup de pied direct *Ap Chagi*, un coup de genou ou une poussée), tout en profitant du profil réduit et de l'assise en retrait de la posture en L (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi (ㄴ자 서기) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Bakat Palmok (바깥 팔목) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
-* **Makgi (막기) :** Blocage / Parade (*Block*).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

@@ -2,16 +2,16 @@
 
 > 🔊 **Prononciation :** [왼 가운데 옆차 찌르기](../audio/Techniques/Wen-Kaunde-Yopcha-Tulgi.m4a)
 
-Le **Wen Kaunde Yopcha Tulgi** (왼 가운데 옆차 찌르기) est le **coup de pied latéral enfonçant/poussant moyen de la jambe gauche** (*Left middle side thrusting kick*) en TaeKwon-Do ITF.
+Le **Wen Kaunde Yopcha Tulgi** ([왼 가운데 옆차 찌르기](../audio/Techniques/Wen-Kaunde-Yopcha-Tulgi.m4a)) est le **coup de pied latéral enfonçant/poussant moyen de la jambe gauche** (*Left middle side thrusting kick*) en TaeKwon-Do ITF.
 
-Cette technique fondamentale de frappe rectiligne projette le tranchant du pied ou le talon gauche au niveau du buste de l'adversaire (*Kaunde*). La nuance du terme **Tulgi** (찌르기 — poussée / enfoncement en piston) met l'accent sur une pénétration profonde et continue de la masse corporelle, conçue pour transpercer la garde ou repousser violemment l'agresseur, par opposition à un simple impact sec.
+Cette technique fondamentale de frappe rectiligne projette le tranchant du pied ou le talon gauche au niveau du buste de l'adversaire (*Kaunde*). La nuance du terme **Tulgi** ([찌르기](../audio/termes/찌르기.m4a) — poussée / enfoncement en piston) met l'accent sur une pénétration profonde et continue de la masse corporelle, conçue pour transpercer la garde ou repousser violemment l'agresseur, par opposition à un simple impact sec.
 
 Sa décomposition linguistique est la suivante :
 
-* **Wen (왼) :** Gauche (*Left*).
-* **Kaunde (가운데) :** Niveau moyen (*Middle level* — hauteur du thorax, du plexus solaire ou des côtes).
-* **Yopcha / Yop Chagi (옆차 / 옆차기) :** Coup de pied latéral (*Side kick*).
-* **Tulgi (찌르기) :** Enfonçant / Poussant / Pique en piston (*Thrusting*).
+* **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du thorax, du plexus solaire ou des côtes).
+* **Yopcha / Yop Chagi ([옆차](../audio/termes/옆차.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Enfonçant / Poussant / Pique en piston (*Thrusting*).
 
 ---
 

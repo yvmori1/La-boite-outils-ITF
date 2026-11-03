@@ -2,15 +2,15 @@
 
 > 🔊 **Prononciation :** [걷는 준비 서기](../audio/Techniques/Gunnun-Junbi-Sogi.m4a)
 
-Le **Gunnun Junbi Sogi** (걷는 준비 서기) est la **posture préparatoire en marche** (*Walking ready stance*) en TaeKwon-Do ITF.
+Le **Gunnun Junbi Sogi** ([걷는 준비 서기](../audio/Techniques/Gunnun-Junbi-Sogi.m4a)) est la **posture préparatoire en marche** (*Walking ready stance*) en TaeKwon-Do ITF.
 
 Cette posture combine la stabilité dynamique et la polyvalence de la position de marche (*Gunnun Sogi*) avec une mise en condition d'attente (*Junbi*). Elle sert de base de départ ou de transition pour déclencher immédiatement des attaques puissantes en avancée (coups de poing directs, piques) ou des blocages majeurs avec l'engagement complet de la masse corporelle vers l'avant.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun (걷는) :** En marche / De marche (*Walking*).
-* **Junbi (준비) :** Préparation / Prêt (*Ready*).
-* **Sogi (서기) :** Posture / Position debout (*Stance*).
+* **Gunnun ([걷는](../audio/termes/걷는.m4a)) :** En marche / De marche (*Walking*).
+* **Junbi ([준비](../audio/termes/준비.m4a)) :** Préparation / Prêt (*Ready*).
+* **Sogi ([서기](../audio/termes/서기.m4a)) :** Posture / Position debout (*Stance*).
 
 ---
 

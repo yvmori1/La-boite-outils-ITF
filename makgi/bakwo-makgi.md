@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [바꿔 막기](../audio/makgi/bakwo-makgi.m4a)
 
-Le **Bakwo Makgi** (바꿔 막기 — fréquemment retranscrit *Baggwo Makgi* ou *Bakuio Makgi*) est le **blocage en échange / blocage alterné** (*Exchange block*) en TaeKwon-Do ITF.
+Le **Bakwo Makgi** ([바꿔 막기](../audio/makgi/bakwo-makgi.m4a) — fréquemment retranscrit *Baggwo Makgi* ou *Bakuio Makgi*) est le **blocage en échange / blocage alterné** (*Exchange block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Bakwo / Baggwo (바꿔) :** Échanger / Permuter / Changer (du verbe *bakuida*, 바꾸다 = changer / remplacer).
-* **Makgi (막기) :** Blocage / Défense.
+* **Bakwo / Baggwo ([바꿔](../audio/termes/바꿔.m4a)) :** Échanger / Permuter / Changer (du verbe *bakuida*, [바꾸다](../audio/termes/바꾸다.m4a) = changer / remplacer).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
 
 Ce terme désigne un concept défensif où **les deux bras permutent leurs rôles ou leurs positions de garde** dans un enchaînement fluide et rapide. Il est utilisé pour parer deux frappes rapprochées, s'adapter à une feinte adverse ou libérer un bras saisi sans avoir à modifier la posture des jambes.
 

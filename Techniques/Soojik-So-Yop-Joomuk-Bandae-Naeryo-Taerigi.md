@@ -2,17 +2,17 @@
 
 > 🔊 **Prononciation :** [수직 서 옆 주먹 반대 내려 때리기](../audio/Techniques/Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.m4a)
 
-Le **Soojik So Yop Joomuk Bandae Naeryo Taerigi** (수직 서 옆 주먹 반대 내려 때리기) est le **coup percutant descendant inversé du côté du poing en posture verticale** (*Vertical stance side fist reverse downward strike*) en TaeKwon-Do ITF.
+Le **Soojik So Yop Joomuk Bandae Naeryo Taerigi** ([수직 서 옆 주먹 반대 내려 때리기](../audio/Techniques/Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.m4a)) est le **coup percutant descendant inversé du côté du poing en posture verticale** (*Vertical stance side fist reverse downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque percutante du haut vers le bas exploite l'effet de pesanteur et la masse osseuse du côté du poing (**Yop Joomuk**). Exécutée en posture verticale (**Soojik Sogi**), elle permet de délivrer une frappe de marteau puissante sur des cibles hautes ou moyennes (clavicule, arête du nez, épaule ou membre supérieur de l'adversaire).
 
 Sa décomposition linguistique est la suivante :
 
-* **Soojik So / Soojik Sogi (수직 서기) :** Posture verticale (*Vertical stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, jambes quasi tendues, distance d'une largeur d'épaules en longueur).
-* **Yop Joomuk (옆 주먹) :** Poing latéral / Côté du poing (*Side fist* — la tranche extérieure du poing fermement serré, côté auriculaire/marteau).
-* **Bandae (반대) :** Inversé (*Reverse* — frappe exécutée par le bras **opposé à la jambe arrière** / du même côté que la jambe avant).
-* **Naeryo (내려) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi (때리기) :** Coup percutant / Cinglant (*Strike*).
+* **Soojik So / Soojik Sogi ([수직 서기](../audio/grammaire/Soojik-Sogi.m4a)) :** Posture verticale (*Vertical stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, jambes quasi tendues, distance d'une largeur d'épaules en longueur).
+* **Yop Joomuk ([옆 주먹](../audio/termes/옆-주먹.m4a)) :** Poing latéral / Côté du poing (*Side fist* — la tranche extérieure du poing fermement serré, côté auriculaire/marteau).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — frappe exécutée par le bras **opposé à la jambe arrière** / du même côté que la jambe avant).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant (*Strike*).
 
 ---
 

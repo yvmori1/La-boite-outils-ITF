@@ -2,21 +2,21 @@
 
 > 🔊 **Prononciation :** [뛰며 옆차 지르기](../audio/chagi/twimyo-yopcha-jirugi.m4a)
 
-Le **Twimyo Yopcha Jirugi** (뛰며 옆차 지르기) est le **coup de pied latéral perçant sauté** (ou *Flying side piercing kick*).
+Le **Twimyo Yopcha Jirugi** ([뛰며 옆차 지르기](../audio/Techniques/Twimyo-Yopcha-Jirugi.m4a)) est le **coup de pied latéral perçant sauté** (ou *Flying side piercing kick*).
 
 C'est la **technique la plus emblématique et symbolique du TaeKwon-Do ITF**, rendue célèbre à travers le monde par le Général Choi Hong Hi et représentée sur de nombreux logos officiels de la discipline.
 
 Sa décomposition linguistique est la suivante :
 
-* **Twimyo (뛰며) :** Sauté / En suspension.
-* **Yopcha / Yop (옆차 / 옆) :** Latéral / Sur le côté.
-* **Jirugi (지르기) :** Perçant / Pénétrant (effet piston).
+* **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension.
+* **Yopcha / Yop ([옆차](../audio/termes/옆차.m4a) / [옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté.
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Pénétrant (effet piston).
 
 ---
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Balkal (chant externe du pied - 발칼) :** C'est l'arme naturelle exclusive de la technique.
+* **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** C'est l'arme naturelle exclusive de la technique.
 * **Orientation du pied :** En l'air, le pied frappeur est verrouillé de profil : le bord extérieur (*Balkal*) est tranchant comme une lame, les orteils sont fortement tirés vers le bas et le talon est poussé vers l'avant.
 * **Danger à éviter :** Frapper avec la plante du pied au lieu du chant externe réduit la pénétration de la frappe et risque de désaxer la cheville en l'air.
 

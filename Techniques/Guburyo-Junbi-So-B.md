@@ -2,7 +2,7 @@
 
 > 🔊 **Prononciation :** [구부려 준비 서기](../audio/Techniques/Guburyo-Junbi-So-B.m4a)
 
-Le **Gojung So / Guburyo Junbi So B** (구부려 준비 서기 B) est la **posture préparatoire fléchie sur une jambe — Variante B** (*Bending ready stance B*) en TaeKwon-Do ITF.
+Le **Gojung So / Guburyo Junbi So B** ([구부려 준비 서기](../audio/Techniques/Guburyo-Junbi-So-B.m4a) B) est la **posture préparatoire fléchie sur une jambe — Variante B** (*Bending ready stance B*) en TaeKwon-Do ITF.
 
 Cette posture d'attente et d'armement hautement stratégique place 100% du poids du corps sur une seule jambe fortement fléchie, tandis que la jambe libre est rétractée et armée. Elle sert de tremplin explosif pour déclencher des coups de pied puissants (notamment le coup de pied latéral perçant *Yop Cha Jirugi* ou le coup de pied essuie-glace/crocheté) tout en maintenant une garde hermétique.
 
@@ -13,9 +13,9 @@ La différence fondamentale entre la **Variante A** et la **Variante B** réside
 
 Sa décomposition linguistique est la suivante :
 
-* **Guburyo / Gubhyeo (구부려 / 굽혀) :** Fléchi / Plié (*Bending / Bent*).
-* **Junbi (준비) :** Préparation / Prêt (*Ready*).
-* **So / Sogi (서 / 서기) :** Posture / Position debout (*Stance*).
+* **Guburyo / Gubhyeo ([구부려](../audio/termes/구부려.m4a) / [굽혀](../audio/termes/굽혀.m4a)) :** Fléchi / Plié (*Bending / Bent*).
+* **Junbi ([준비](../audio/termes/준비.m4a)) :** Préparation / Prêt (*Ready*).
+* **So / Sogi ([서](../audio/termes/서.m4a) / [서기](../audio/termes/서기.m4a)) :** Posture / Position debout (*Stance*).
 * **B :** Deuxième variante officielle de la posture.
 
 ---
