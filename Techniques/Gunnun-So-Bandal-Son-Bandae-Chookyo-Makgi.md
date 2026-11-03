@@ -1,16 +1,18 @@
 # Gunnun So Bandal Son Bandae Chookyo Makgi
 
-Le **Gunnun So Bandal Son Bandae Chookyo Makgi** (걷는 서 반달손 반대 추켜 막기) est le **blocage montant inversé avec la main arquée en posture de marche** (*Walking stance arc-hand reverse rising block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 반달손 반대 추켜 막기](../audio/Techniques/Gunnun-So-Bandal-Son-Bandae-Chookyo-Makgi.m4a)
+
+Le **Gunnun So Bandal Son Bandae Chookyo Makgi** ([걷는 서 반달손 반대 추켜 막기](../audio/Techniques/Gunnun-So-Bandal-Son-Bandae-Chookyo-Makgi.m4a)) est le **blocage montant inversé avec la main arquée en posture de marche** (*Walking stance arc-hand reverse rising block*) en TaeKwon-Do ITF.
 
 La main arquée monte au-dessus du front pour soulever une attaque haute, par exemple un coup de poing descendant ou une saisie à la gorge.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Bandal Son (반달손) :** Main arquée (*Arc-hand* — creux entre le pouce et l'index).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Chookyo (추켜) :** Montant (*Rising*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Bandal Son ([반달손](../audio/grammaire/Bandalson.m4a)) :** Main arquée (*Arc-hand* — creux entre le pouce et l'index).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Chookyo ([추켜](../audio/termes/추켜.m4a)) :** Montant (*Rising*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

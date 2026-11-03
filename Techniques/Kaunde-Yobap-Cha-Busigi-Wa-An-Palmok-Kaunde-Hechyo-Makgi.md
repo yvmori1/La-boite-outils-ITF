@@ -1,17 +1,19 @@
 # Kaunde Yobap Cha Busigi Wa An Palmok Kaunde Hechyo Makgi
 
-Le **Kaunde Yobap Cha Busigi Wa An Palmok Kaunde Hechyo Makgi** (가운데 옆앞차 부시기 와 안팔목 가운데 헤쳐 막기) est le **coup de pied avant fouetté latéral moyen combiné à un blocage en écartement moyen à l'avant-bras intérieur** (*Middle side front snap kick and inner forearm middle wedging block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 옆앞차 부시기 와 안팔목 가운데 헤쳐 막기](../audio/Techniques/Kaunde-Yobap-Cha-Busigi-Wa-An-Palmok-Kaunde-Hechyo-Makgi.m4a)
+
+Le **Kaunde Yobap Cha Busigi Wa An Palmok Kaunde Hechyo Makgi** ([가운데 옆앞차 부시기 와 안팔목 가운데 헤쳐 막기](../audio/Techniques/Kaunde-Yobap-Cha-Busigi-Wa-An-Palmok-Kaunde-Hechyo-Makgi.m4a)) est le **coup de pied avant fouetté latéral moyen combiné à un blocage en écartement moyen à l'avant-bras intérieur** (*Middle side front snap kick and inner forearm middle wedging block*) en TaeKwon-Do ITF.
 
 Le coup de pied et le blocage partent au même instant : pendant que les bras écartent une saisie, la jambe frappe en diagonale vers l'avant-côté.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yobap Cha Busigi (옆앞차 부시기) :** Coup de pied avant fouetté latéral (*Side front snap kick*).
-* **Wa (와) :** Et (*And* — les deux techniques sont exécutées en même temps).
-* **An Palmok (안팔목) :** Avant-bras intérieur (*Inner forearm* — côté pouce).
-* **Hechyo (헤쳐) :** En écartement (*Wedging* — les deux bras s'écartent).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Yobap Cha Busigi ([옆앞차 부시기](../audio/termes/옆앞차-부시기.m4a)) :** Coup de pied avant fouetté latéral (*Side front snap kick*).
+* **Wa ([와](../audio/termes/와.m4a)) :** Et (*And* — les deux techniques sont exécutées en même temps).
+* **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (*Inner forearm* — côté pouce).
+* **Hechyo ([헤쳐](../audio/termes/헤쳐.m4a)) :** En écartement (*Wedging* — les deux bras s'écartent).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

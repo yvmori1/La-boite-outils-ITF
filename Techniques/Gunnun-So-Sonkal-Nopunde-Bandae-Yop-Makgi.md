@@ -1,17 +1,19 @@
 # Gunnun So Sonkal Nopunde Bandae Yop Makgi
 
-Le **Gunnun So Sonkal Nopunde Bandae Yop Makgi** (걷는 서 손칼 높은데 반대 옆 막기) est le **blocage latéral haut inversé avec le tranchant de la main en posture de marche** (*Walking stance knife-hand high reverse side block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손칼 높은데 반대 옆 막기](../audio/Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Yop-Makgi.m4a)
+
+Le **Gunnun So Sonkal Nopunde Bandae Yop Makgi** ([걷는 서 손칼 높은데 반대 옆 막기](../audio/Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Yop-Makgi.m4a)) est le **blocage latéral haut inversé avec le tranchant de la main en posture de marche** (*Walking stance knife-hand high reverse side block*) en TaeKwon-Do ITF.
 
 Le tranchant de la main du côté de la jambe arrière bloque sur le côté une attaque haute.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Yop (옆) :** Latéral (*Side*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral (*Side*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

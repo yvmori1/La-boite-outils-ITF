@@ -1,13 +1,15 @@
 # Kaunde Golcho Chagi
 
-Le **Kaunde Golcho Chagi** (가운데 걸쳐차기) est le **coup de pied crocheté moyen** (*Middle hooking kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 걸쳐차기](../audio/Techniques/Kaunde-Golcho-Chagi.m4a)
+
+Le **Kaunde Golcho Chagi** ([가운데 걸쳐차기](../audio/Techniques/Kaunde-Golcho-Chagi.m4a)) est le **coup de pied crocheté moyen** (*Middle hooking kick*) en TaeKwon-Do ITF.
 
 Coup de pied qui accroche le bras ou la jambe adverse avec le côté du cou-de-pied, selon la même méthode que le blocage crocheté de la main. Dans Juche, il sert de premier temps à un double coup de pied de la même jambe.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Golcho Chagi (걸쳐차기) :** Coup de pied crocheté (*Hooking kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Golcho Chagi ([걸쳐차기](../audio/termes/걸쳐차기.m4a)) :** Coup de pied crocheté (*Hooking kick*).
 
 ---
 

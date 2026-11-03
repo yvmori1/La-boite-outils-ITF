@@ -1,16 +1,18 @@
 # Gunnun So Sonbadak Kaunde Golcho Makgi
 
-Le **Gunnun So Sonbadak Kaunde Golcho Makgi** (걷는 서 손바닥 가운데 걸쳐 막기) est le **blocage crocheté moyen avec la paume en posture de marche** (*Walking stance palm middle hooking block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 가운데 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Kaunde-Golcho-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Kaunde Golcho Makgi** ([걷는 서 손바닥 가운데 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Kaunde-Golcho-Makgi.m4a)) est le **blocage crocheté moyen avec la paume en posture de marche** (*Walking stance palm middle hooking block*) en TaeKwon-Do ITF.
 
 La paume accroche le poignet ou le bras adverse au niveau moyen et le tire vers soi, pour préparer une saisie ou un contre.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Golcho (걸쳐) :** Crocheté (*Hooking*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Golcho ([걸쳐](../audio/termes/걸쳐.m4a)) :** Crocheté (*Hooking*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

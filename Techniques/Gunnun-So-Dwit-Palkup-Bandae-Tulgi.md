@@ -1,15 +1,17 @@
 # Gunnun So Dwit Palkup Bandae Tulgi
 
-La **Gunnun So Dwit Palkup Bandae Tulgi** (걷는 서 뒤팔굽 반대 찌르기) est la **pique inversée avec l'arrière du coude en posture de marche** (*Walking stance back elbow reverse thrust*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 뒤팔굽 반대 찌르기](../audio/Techniques/Gunnun-So-Dwit-Palkup-Bandae-Tulgi.m4a)
+
+La **Gunnun So Dwit Palkup Bandae Tulgi** ([걷는 서 뒤팔굽 반대 찌르기](../audio/Techniques/Gunnun-So-Dwit-Palkup-Bandae-Tulgi.m4a)) est la **pique inversée avec l'arrière du coude en posture de marche** (*Walking stance back elbow reverse thrust*) en TaeKwon-Do ITF.
 
 Le coude du côté de la jambe arrière pique droit vers l'arrière, l'autre main poussant le poing pour ajouter de la force.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Dwit Palkup (뒤팔굽) :** Arrière du coude (*Back elbow*).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Tulgi (찌르기) :** Pique / poussée pénétrante (*Thrust*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Dwit Palkup ([뒤팔굽](../audio/termes/뒤팔굽.m4a)) :** Arrière du coude (*Back elbow*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / poussée pénétrante (*Thrust*).
 
 ---
 

@@ -1,15 +1,17 @@
 # Gunnun So Kyocha Joomuk Chookyo Makgi
 
-Le **Gunnun So Kyocha Joomuk Chookyo Makgi** (걷는 서 교차주먹 추켜 막기) est le **blocage montant avec les poings croisés en posture de marche** (*Walking stance X-fist rising block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 교차주먹 추켜 막기](../audio/Techniques/Gunnun-So-Kyocha-Joomuk-Chookyo-Makgi.m4a)
+
+Le **Gunnun So Kyocha Joomuk Chookyo Makgi** ([걷는 서 교차주먹 추켜 막기](../audio/Techniques/Gunnun-So-Kyocha-Joomuk-Chookyo-Makgi.m4a)) est le **blocage montant avec les poings croisés en posture de marche** (*Walking stance X-fist rising block*) en TaeKwon-Do ITF.
 
 Les deux poings, croisés aux poignets, montent au-dessus du front pour arrêter une attaque descendante, comme un coup de bâton.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Kyocha Joomuk (교차주먹) :** Poings croisés (*X-fist* — les deux poings croisés aux poignets).
-* **Chookyo (추켜) :** Montant (*Rising*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Kyocha Joomuk ([교차주먹](../audio/termes/교차주먹.m4a)) :** Poings croisés (*X-fist* — les deux poings croisés aux poignets).
+* **Chookyo ([추켜](../audio/termes/추켜.m4a)) :** Montant (*Rising*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

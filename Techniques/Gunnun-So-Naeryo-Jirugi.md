@@ -1,14 +1,16 @@
 # Gunnun So Naeryo Jirugi
 
-Le **Gunnun So Naeryo Jirugi** (걷는 서 내려 지르기) est le **coup de poing descendant en posture de marche** (*Walking stance downward punch*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 내려 지르기](../audio/Techniques/Gunnun-So-Naeryo-Jirugi.m4a)
+
+Le **Gunnun So Naeryo Jirugi** ([걷는 서 내려 지르기](../audio/Techniques/Gunnun-So-Naeryo-Jirugi.m4a)) est le **coup de poing descendant en posture de marche** (*Walking stance downward punch*) en TaeKwon-Do ITF.
 
 Coup de poing porté du haut vers le bas, vers un adversaire au sol ou penché, souvent en glissant le pied avant.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Naeryo (내려) :** Descendant (*Downward*).
-* **Jirugi (지르기) :** Coup de poing (*Punch*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant (*Downward*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---
 

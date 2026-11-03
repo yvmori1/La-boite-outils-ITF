@@ -1,15 +1,17 @@
 # Gunnun So Kyocha Joomuk Naeryo Makgi
 
-Le **Gunnun So Kyocha Joomuk Naeryo Makgi** (걷는 서 교차주먹 내려 막기) est le **blocage descendant avec les poings croisés en posture de marche** (*Walking stance X-fist downward block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 교차주먹 내려 막기](../audio/Techniques/Gunnun-So-Kyocha-Joomuk-Naeryo-Makgi.m4a)
+
+Le **Gunnun So Kyocha Joomuk Naeryo Makgi** ([걷는 서 교차주먹 내려 막기](../audio/Techniques/Gunnun-So-Kyocha-Joomuk-Naeryo-Makgi.m4a)) est le **blocage descendant avec les poings croisés en posture de marche** (*Walking stance X-fist downward block*) en TaeKwon-Do ITF.
 
 Les poings croisés descendent pour « faire tomber » le poing, le pied ou l'arme qui vise le plexus ou plus bas ; dans Eui-Am, on abaisse en même temps le pied qui vient de frapper.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Kyocha Joomuk (교차주먹) :** Poings croisés (*X-fist* — les deux poings croisés aux poignets).
-* **Naeryo (내려) :** Descendant (*Downward*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Kyocha Joomuk ([교차주먹](../audio/termes/교차주먹.m4a)) :** Poings croisés (*X-fist* — les deux poings croisés aux poignets).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant (*Downward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

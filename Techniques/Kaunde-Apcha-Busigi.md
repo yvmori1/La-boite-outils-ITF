@@ -1,13 +1,15 @@
 # Kaunde Apcha Busigi
 
-Le **Kaunde Apcha Busigi** (가운데 앞차 부시기) est le **coup de pied avant fouetté moyen** (*Middle front snap kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 앞차 부시기](../audio/Techniques/Kaunde-Apcha-Busigi.m4a)
+
+Le **Kaunde Apcha Busigi** ([가운데 앞차 부시기](../audio/Techniques/Kaunde-Apcha-Busigi.m4a)) est le **coup de pied avant fouetté moyen** (*Middle front snap kick*) en TaeKwon-Do ITF.
 
 Coup de pied de base : le genou monte, la jambe se détend droit devant et revient aussitôt. On frappe avec la balle du pied.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Apcha Busigi (앞차 부시기) :** Coup de pied avant fouetté (*Front snap kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Apcha Busigi ([앞차 부시기](../audio/chagi/apcha-busigi.m4a)) :** Coup de pied avant fouetté (*Front snap kick*).
 
 ---
 

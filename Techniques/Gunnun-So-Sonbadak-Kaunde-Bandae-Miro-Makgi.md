@@ -1,17 +1,19 @@
 # Gunnun So Sonbadak Kaunde Bandae Miro Makgi
 
-Le **Gunnun So Sonbadak Kaunde Bandae Miro Makgi** (걷는 서 손바닥 가운데 반대 밀어 막기) est le **blocage poussé moyen inversé avec la paume en posture de marche** (*Walking stance palm middle reverse pushing block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 가운데 반대 밀어 막기](../audio/Techniques/Gunnun-So-Sonbadak-Kaunde-Bandae-Miro-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Kaunde Bandae Miro Makgi** ([걷는 서 손바닥 가운데 반대 밀어 막기](../audio/Techniques/Gunnun-So-Sonbadak-Kaunde-Bandae-Miro-Makgi.m4a)) est le **blocage poussé moyen inversé avec la paume en posture de marche** (*Walking stance palm middle reverse pushing block*) en TaeKwon-Do ITF.
 
 La paume du côté de la jambe arrière repousse l'adversaire d'une pression continue, sans choc brusque, pour le déséquilibrer. En posture de marche, le blocage poussé est normalement inversé.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Miro (밀어) :** Poussé (*Pushing* — pression continue, sans choc).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Miro ([밀어](../audio/termes/밀어.m4a)) :** Poussé (*Pushing* — pression continue, sans choc).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

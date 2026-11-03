@@ -1,13 +1,15 @@
 # Kaunde Yopcha Milgi
 
-Le **Kaunde Yopcha Milgi** (가운데 옆차 밀기) est le **coup de pied latéral poussant moyen** (*Middle side pushing kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 옆차 밀기](../audio/Techniques/Kaunde-Yopcha-Milgi.m4a)
+
+Le **Kaunde Yopcha Milgi** ([가운데 옆차 밀기](../audio/Techniques/Kaunde-Yopcha-Milgi.m4a)) est le **coup de pied latéral poussant moyen** (*Middle side pushing kick*) en TaeKwon-Do ITF.
 
 Variante du coup de pied latéral perçant qui ne compte que sur le poids du corps, sans accélération : le tranchant du pied repousse l'adversaire au lieu de le percer. L'autre pied passe vivement au-delà de l'endroit où se trouvait le pied qui frappe.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yopcha Milgi (옆차 밀기) :** Coup de pied latéral poussant (*Side pushing kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Yopcha Milgi ([옆차 밀기](../audio/termes/옆차-밀기.m4a)) :** Coup de pied latéral poussant (*Side pushing kick*).
 
 ---
 

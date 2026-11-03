@@ -1,13 +1,15 @@
 # Kaunde Yopcha Jirugi
 
-Le **Kaunde Yopcha Jirugi** (가운데 옆차 지르기) est le **coup de pied latéral perçant moyen** (*Middle side piercing kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 옆차 지르기](../audio/Techniques/Kaunde-Yopcha-Jirugi.m4a)
+
+Le **Kaunde Yopcha Jirugi** ([가운데 옆차 지르기](../audio/Techniques/Kaunde-Yopcha-Jirugi.m4a)) est le **coup de pied latéral perçant moyen** (*Middle side piercing kick*) en TaeKwon-Do ITF.
 
 Le coup de pied le plus fréquent des formes : la jambe se détend en ligne droite sur le côté et perce avec le tranchant du pied.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yopcha Jirugi (옆차 지르기) :** Coup de pied latéral perçant (*Side piercing kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Yopcha Jirugi ([옆차 지르기](../audio/termes/옆차-지르기.m4a)) :** Coup de pied latéral perçant (*Side piercing kick*).
 
 ---
 

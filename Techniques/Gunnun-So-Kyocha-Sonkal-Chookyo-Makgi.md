@@ -1,15 +1,17 @@
 # Gunnun So Kyocha Sonkal Chookyo Makgi
 
-Le **Gunnun So Kyocha Sonkal Chookyo Makgi** (걷는 서 교차손칼 추켜 막기) est le **blocage montant avec les tranchants des mains croisées en posture de marche** (*Walking stance X-knife-hand rising block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 교차손칼 추켜 막기](../audio/Techniques/Gunnun-So-Kyocha-Sonkal-Chookyo-Makgi.m4a)
+
+Le **Gunnun So Kyocha Sonkal Chookyo Makgi** ([걷는 서 교차손칼 추켜 막기](../audio/Techniques/Gunnun-So-Kyocha-Sonkal-Chookyo-Makgi.m4a)) est le **blocage montant avec les tranchants des mains croisées en posture de marche** (*Walking stance X-knife-hand rising block*) en TaeKwon-Do ITF.
 
 Même geste que le blocage montant aux poings croisés, mais mains ouvertes : les tranchants croisés permettent de saisir le bras ou l'arme adverse aussitôt après le blocage.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Kyocha Sonkal (교차손칼) :** Tranchants de main croisés (*X-knife-hand*).
-* **Chookyo (추켜) :** Montant (*Rising*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Kyocha Sonkal ([교차손칼](../audio/termes/교차손칼.m4a)) :** Tranchants de main croisés (*X-knife-hand*).
+* **Chookyo ([추켜](../audio/termes/추켜.m4a)) :** Montant (*Rising*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -1,13 +1,15 @@
 # Kaunde Dollyo Chagi
 
-Le **Kaunde Dollyo Chagi** (가운데 돌려차기) est le **coup de pied circulaire moyen** (*Middle turning kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 돌려차기](../audio/Techniques/Kaunde-Dollyo-Chagi.m4a)
+
+Le **Kaunde Dollyo Chagi** ([가운데 돌려차기](../audio/Techniques/Kaunde-Dollyo-Chagi.m4a)) est le **coup de pied circulaire moyen** (*Middle turning kick*) en TaeKwon-Do ITF.
 
 La jambe arrive de côté en arc horizontal et frappe avec la balle du pied ; la hanche pivote complètement.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Dollyo Chagi (돌려차기) :** Coup de pied circulaire (*Turning kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Dollyo Chagi ([돌려차기](../audio/chagi/dollyo-chagi.m4a)) :** Coup de pied circulaire (*Turning kick*).
 
 ---
 

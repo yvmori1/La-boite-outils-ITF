@@ -1,17 +1,19 @@
 # Gunnun So Sonbadak Kaunde Bandae Golcho Makgi
 
-Le **Gunnun So Sonbadak Kaunde Bandae Golcho Makgi** (걷는 서 손바닥 가운데 반대 걸쳐 막기) est le **blocage crocheté moyen inversé avec la paume en posture de marche** (*Walking stance palm middle reverse hooking block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 가운데 반대 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Kaunde-Bandae-Golcho-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Kaunde Bandae Golcho Makgi** ([걷는 서 손바닥 가운데 반대 걸쳐 막기](../audio/Techniques/Gunnun-So-Sonbadak-Kaunde-Bandae-Golcho-Makgi.m4a)) est le **blocage crocheté moyen inversé avec la paume en posture de marche** (*Walking stance palm middle reverse hooking block*) en TaeKwon-Do ITF.
 
 Blocage crocheté de la paume exécuté par la main du côté de la jambe arrière, juste après un premier blocage crocheté de l'autre main.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Golcho (걸쳐) :** Crocheté (*Hooking*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Golcho ([걸쳐](../audio/termes/걸쳐.m4a)) :** Crocheté (*Hooking*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

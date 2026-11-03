@@ -1,17 +1,19 @@
 # Gunnun So Sonkal Nopunde Bandae Ap Taerigi
 
-La **Gunnun So Sonkal Nopunde Bandae Ap Taerigi** (걷는 서 손칼 높은데 반대 앞 때리기) est la **frappe frontale haute inversée avec le tranchant de la main en posture de marche** (*Walking stance knife-hand high reverse front strike*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손칼 높은데 반대 앞 때리기](../audio/Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Ap-Taerigi.m4a)
+
+La **Gunnun So Sonkal Nopunde Bandae Ap Taerigi** ([걷는 서 손칼 높은데 반대 앞 때리기](../audio/Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Ap-Taerigi.m4a)) est la **frappe frontale haute inversée avec le tranchant de la main en posture de marche** (*Walking stance knife-hand high reverse front strike*) en TaeKwon-Do ITF.
 
 Le tranchant de la main du côté de la jambe arrière frappe droit devant au niveau haut.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Ap (앞) :** Avant / frontal (*Front*).
-* **Taerigi (때리기) :** Frappe (*Strike*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / frontal (*Front*).
+* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
 
 ---
 

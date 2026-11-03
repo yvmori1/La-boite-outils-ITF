@@ -1,13 +1,15 @@
 # Kaunde Bandae Dollyo Chagi
 
-Le **Kaunde Bandae Dollyo Chagi** (가운데 반대 돌려차기) est le **coup de pied circulaire inversé moyen** (*Middle reverse turning kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 반대 돌려차기](../audio/Techniques/Kaunde-Bandae-Dollyo-Chagi.m4a)
+
+Le **Kaunde Bandae Dollyo Chagi** ([가운데 반대 돌려차기](../audio/Techniques/Kaunde-Bandae-Dollyo-Chagi.m4a)) est le **coup de pied circulaire inversé moyen** (*Middle reverse turning kick*) en TaeKwon-Do ITF.
 
 Le corps pivote vers l'arrière et la jambe balaie en arc, de l'intérieur vers l'extérieur ; on frappe avec le dessous du talon.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bandae Dollyo Chagi (반대 돌려차기) :** Coup de pied circulaire inversé (*Reverse turning kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bandae Dollyo Chagi ([반대 돌려차기](../audio/grammaire/Bandae-Dollyo-Chagi.m4a)) :** Coup de pied circulaire inversé (*Reverse turning kick*).
 
 ---
 

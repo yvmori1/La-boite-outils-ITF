@@ -1,17 +1,19 @@
 # Gunnun So Sonkal Najunde Bandae Bakuro Makgi
 
-Le **Gunnun So Sonkal Najunde Bandae Bakuro Makgi** (걷는 서 손칼 낮은데 반대 바깥으로 막기) est le **blocage extérieur bas inversé avec le tranchant de la main en posture de marche** (*Walking stance knife-hand low reverse outward block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손칼 낮은데 반대 바깥으로 막기](../audio/Techniques/Gunnun-So-Sonkal-Najunde-Bandae-Bakuro-Makgi.m4a)
+
+Le **Gunnun So Sonkal Najunde Bandae Bakuro Makgi** ([걷는 서 손칼 낮은데 반대 바깥으로 막기](../audio/Techniques/Gunnun-So-Sonkal-Najunde-Bandae-Bakuro-Makgi.m4a)) est le **blocage extérieur bas inversé avec le tranchant de la main en posture de marche** (*Walking stance knife-hand low reverse outward block*) en TaeKwon-Do ITF.
 
 Le tranchant de la main du côté de la jambe arrière chasse vers l'extérieur une attaque basse.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
-* **Najunde (낮은데) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Bakuro (바깥으로) :** Vers l'extérieur (*Outward*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur (*Outward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

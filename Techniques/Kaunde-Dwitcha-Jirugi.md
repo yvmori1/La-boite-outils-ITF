@@ -1,13 +1,15 @@
 # Kaunde Dwitcha Jirugi
 
-Le **Kaunde Dwitcha Jirugi** (가운데 뒤차 지르기) est le **coup de pied arrière perçant moyen** (*Middle back piercing kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 뒤차 지르기](../audio/Techniques/Kaunde-Dwitcha-Jirugi.m4a)
+
+Le **Kaunde Dwitcha Jirugi** ([가운데 뒤차 지르기](../audio/Techniques/Kaunde-Dwitcha-Jirugi.m4a)) est le **coup de pied arrière perçant moyen** (*Middle back piercing kick*) en TaeKwon-Do ITF.
 
 La jambe part en ligne droite vers l'arrière, comme une ruade, et frappe avec le talon ; la tête tourne d'abord pour voir la cible.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Dwitcha Jirugi (뒤차 지르기) :** Coup de pied arrière perçant (*Back piercing kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Dwitcha Jirugi ([뒤차 지르기](../audio/chagi/dwit-cha-jirugi.m4a)) :** Coup de pied arrière perçant (*Back piercing kick*).
 
 ---
 

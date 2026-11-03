@@ -1,15 +1,17 @@
 # Gunnun So Nopunde Doo Bandalson Makgi
 
-Le **Gunnun So Nopunde Doo Bandalson Makgi** (걷는 서 높은데 두 반달손 막기) est le **double blocage haut avec les mains arquées en posture de marche** (*Walking stance high double arc-hand block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 높은데 두 반달손 막기](../audio/Techniques/Gunnun-So-Nopunde-Doo-Bandalson-Makgi.m4a)
+
+Le **Gunnun So Nopunde Doo Bandalson Makgi** ([걷는 서 높은데 두 반달손 막기](../audio/Techniques/Gunnun-So-Nopunde-Doo-Bandalson-Makgi.m4a)) est le **double blocage haut avec les mains arquées en posture de marche** (*Walking stance high double arc-hand block*) en TaeKwon-Do ITF.
 
 Version haute du double blocage des mains arquées, contre une attaque coordonnée vers le visage et la poitrine : les deux mains montent à hauteur des yeux et l'on regarde à travers. En posture de marche, il s'exécute en inversé, buste de semi-face.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Doo Bandalson (두 반달손) :** Double main arquée (*Double arc-hand* — les deux mains arquées agissent ensemble).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Doo Bandalson ([두 반달손](../audio/termes/두-반달손.m4a)) :** Double main arquée (*Double arc-hand* — les deux mains arquées agissent ensemble).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

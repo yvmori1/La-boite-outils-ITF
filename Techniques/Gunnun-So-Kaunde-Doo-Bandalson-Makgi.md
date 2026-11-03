@@ -1,15 +1,17 @@
 # Gunnun So Kaunde Doo Bandalson Makgi
 
-Le **Gunnun So Kaunde Doo Bandalson Makgi** (걷는 서 가운데 두 반달손 막기) est le **double blocage moyen avec les mains arquées en posture de marche** (*Walking stance middle double arc-hand block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 가운데 두 반달손 막기](../audio/Techniques/Gunnun-So-Kaunde-Doo-Bandalson-Makgi.m4a)
+
+Le **Gunnun So Kaunde Doo Bandalson Makgi** ([걷는 서 가운데 두 반달손 막기](../audio/Techniques/Gunnun-So-Kaunde-Doo-Bandalson-Makgi.m4a)) est le **double blocage moyen avec les mains arquées en posture de marche** (*Walking stance middle double arc-hand block*) en TaeKwon-Do ITF.
 
 Les deux mains arquées s'avancent ensemble, l'une devant l'autre, pour arrêter une attaque coordonnée vers la poitrine et le visage ; on regarde à travers les mains. En posture de marche, il s'exécute en inversé, buste de semi-face.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Doo Bandalson (두 반달손) :** Double main arquée (*Double arc-hand* — les deux mains arquées agissent ensemble).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Doo Bandalson ([두 반달손](../audio/termes/두-반달손.m4a)) :** Double main arquée (*Double arc-hand* — les deux mains arquées agissent ensemble).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -1,13 +1,15 @@
 # Kaunde Bandal Chagi
 
-Le **Kaunde Bandal Chagi** (가운데 반달차기) est le **coup de pied semi-circulaire moyen** (*Middle crescent kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 반달차기](../audio/Techniques/Kaunde-Bandal-Chagi.m4a)
+
+Le **Kaunde Bandal Chagi** ([가운데 반달차기](../audio/Techniques/Kaunde-Bandal-Chagi.m4a)) est le **coup de pied semi-circulaire moyen** (*Middle crescent kick*) en TaeKwon-Do ITF.
 
 Coup de pied qui sert surtout à bloquer : la plante du pied décrit une demi-lune et chasse le bras ou la jambe qui attaque au niveau moyen ou plus bas, puis reste disponible pour contre-attaquer. Dans les formes, elle vient frapper la paume tendue.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bandal Chagi (반달차기) :** Coup de pied semi-circulaire (*Crescent kick* — trajectoire en demi-lune).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bandal Chagi ([반달차기](../audio/chagi/bandal-chagi.m4a)) :** Coup de pied semi-circulaire (*Crescent kick* — trajectoire en demi-lune).
 
 ---
 

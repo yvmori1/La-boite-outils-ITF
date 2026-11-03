@@ -1,17 +1,19 @@
 # Gunnun So Palmok Kaunde Bandae Ap Makgi
 
-Le **Gunnun So Palmok Kaunde Bandae Ap Makgi** (걷는 서 팔목 가운데 반대 앞 막기) est le **blocage frontal moyen inversé avec l'avant-bras en posture de marche** (*Walking stance forearm middle reverse front block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 팔목 가운데 반대 앞 막기](../audio/Techniques/Gunnun-So-Palmok-Kaunde-Bandae-Ap-Makgi.m4a)
+
+Le **Gunnun So Palmok Kaunde Bandae Ap Makgi** ([걷는 서 팔목 가운데 반대 앞 막기](../audio/Techniques/Gunnun-So-Palmok-Kaunde-Bandae-Ap-Makgi.m4a)) est le **blocage frontal moyen inversé avec l'avant-bras en posture de marche** (*Walking stance forearm middle reverse front block*) en TaeKwon-Do ITF.
 
 L'avant-bras du côté de la jambe arrière se dresse devant le plexus pour arrêter une attaque moyenne venant de face.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — l'avant-bras extérieur, par défaut).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Ap (앞) :** Avant / frontal (*Front*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — l'avant-bras extérieur, par défaut).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / frontal (*Front*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -1,16 +1,18 @@
 # Gunnun So An Palmok Kaunde Yop Makgi
 
-Le **Gunnun So An Palmok Kaunde Yop Makgi** (걷는 서 안팔목 가운데 옆 막기) est le **blocage latéral moyen avec l'avant-bras intérieur en posture de marche** (*Walking stance inner forearm middle side block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 안팔목 가운데 옆 막기](../audio/Techniques/Gunnun-So-An-Palmok-Kaunde-Yop-Makgi.m4a)
+
+Le **Gunnun So An Palmok Kaunde Yop Makgi** ([걷는 서 안팔목 가운데 옆 막기](../audio/Techniques/Gunnun-So-An-Palmok-Kaunde-Yop-Makgi.m4a)) est le **blocage latéral moyen avec l'avant-bras intérieur en posture de marche** (*Walking stance inner forearm middle side block*) en TaeKwon-Do ITF.
 
 Blocage fondamental de l'avant-bras intérieur : le bras part de l'extérieur et ramène l'attaque vers la ligne centrale. C'est le blocage moyen du Saju Makgi.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **An Palmok (안팔목) :** Avant-bras intérieur (*Inner forearm* — côté pouce).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yop (옆) :** Latéral (*Side*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (*Inner forearm* — côté pouce).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral (*Side*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

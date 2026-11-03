@@ -1,21 +1,23 @@
 # Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi
 
-Le **Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi** (걷는 서 손칼 가운데 바로 바깥으로 막기 와 팔목 낮은데 반대 막기) est le **blocage extérieur moyen au tranchant de la main combiné à un blocage bas à l'avant-bras, en posture de marche** (*Walking stance knife-hand middle obverse outward block and forearm low reverse block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손칼 가운데 바로 바깥으로 막기 와 팔목 낮은데 반대 막기](../audio/Techniques/Gunnun-So-Sonkal-Kaunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.m4a)
+
+Le **Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi** ([걷는 서 손칼 가운데 바로 바깥으로 막기 와 팔목 낮은데 반대 막기](../audio/Techniques/Gunnun-So-Sonkal-Kaunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.m4a)) est le **blocage extérieur moyen au tranchant de la main combiné à un blocage bas à l'avant-bras, en posture de marche** (*Walking stance knife-hand middle obverse outward block and forearm low reverse block*) en TaeKwon-Do ITF.
 
 Deux blocages simultanés : la main du côté de la jambe avant repousse vers l'extérieur une attaque moyenne avec le tranchant, pendant que l'autre bras bloque une attaque basse avec l'avant-bras.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Baro (바로) :** Direct (*Obverse* — la main qui agit est celle du côté de la jambe **avant**).
-* **Bakuro (바깥으로) :** Vers l'extérieur (*Outward*).
-* **Makgi (막기) :** Blocage (*Block*).
-* **Wa (와) :** Et (*And* — les deux techniques sont exécutées en même temps).
-* **Palmok (팔목) :** Avant-bras (*Forearm* — l'avant-bras extérieur, par défaut).
-* **Najunde (낮은데) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct (*Obverse* — la main qui agit est celle du côté de la jambe **avant**).
+* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur (*Outward*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Wa ([와](../audio/termes/와.m4a)) :** Et (*And* — les deux techniques sont exécutées en même temps).
+* **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — l'avant-bras extérieur, par défaut).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 
 ---
 

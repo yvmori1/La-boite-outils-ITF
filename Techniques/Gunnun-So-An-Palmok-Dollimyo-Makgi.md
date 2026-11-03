@@ -1,15 +1,17 @@
 # Gunnun So An Palmok Dollimyo Makgi
 
-Le **Gunnun So An Palmok Dollimyo Makgi** (걷는 서 안팔목 돌리며 막기) est le **blocage circulaire avec l'avant-bras intérieur en posture de marche** (*Walking stance inner forearm circular block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 안팔목 돌리며 막기](../audio/Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.m4a)
+
+Le **Gunnun So An Palmok Dollimyo Makgi** ([걷는 서 안팔목 돌리며 막기](../audio/Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.m4a)) est le **blocage circulaire avec l'avant-bras intérieur en posture de marche** (*Walking stance inner forearm circular block*) en TaeKwon-Do ITF.
 
 L'avant-bras intérieur décrit un grand cercle de bas en haut devant le corps pour arrêter une attaque combinée du poing et du pied : il cueille la jambe qui frappe, puis remonte pour finir à hauteur d'épaule. La posture de marche est la plus adaptée à ce blocage.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **An Palmok (안팔목) :** Avant-bras intérieur (*Inner forearm* — côté pouce).
-* **Dollimyo (돌리며) :** En tournant / circulaire (*Circular*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (*Inner forearm* — côté pouce).
+* **Dollimyo ([돌리며](../audio/termes/돌리며.m4a)) :** En tournant / circulaire (*Circular*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

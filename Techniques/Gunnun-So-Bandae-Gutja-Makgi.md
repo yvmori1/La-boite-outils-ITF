@@ -1,15 +1,17 @@
 # Gunnun So Bandae Gutja Makgi
 
-Le **Gunnun So Bandae Gutja Makgi** (걷는 서 반대 구자 막기) est le **blocage en forme de 9 inversé en posture de marche** (*Walking stance reverse 9-shape block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 반대 구자 막기](../audio/Techniques/Gunnun-So-Bandae-Gutja-Makgi.m4a)
+
+Le **Gunnun So Bandae Gutja Makgi** ([걷는 서 반대 구자 막기](../audio/Techniques/Gunnun-So-Bandae-Gutja-Makgi.m4a)) est le **blocage en forme de 9 inversé en posture de marche** (*Walking stance reverse 9-shape block*) en TaeKwon-Do ITF.
 
 Blocage des deux avant-bras qui dessinent un 9 : il sert à briser l'articulation du coude, le poignet ou la cheville, ou à bloquer une attaque combinée du poing et du pied vers le plexus et le bas-ventre. En posture de marche, il s'exécute normalement en inversé. On le dit droit quand l'avant-bras droit est le plus bas.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Gutja (구자) :** En forme de 9 (*9-shape* — de *Gu*, « neuf »).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Gutja ([구자](../audio/termes/구자.m4a)) :** En forme de 9 (*9-shape* — de *Gu*, « neuf »).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

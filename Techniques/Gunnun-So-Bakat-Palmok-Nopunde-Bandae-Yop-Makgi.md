@@ -1,17 +1,19 @@
 # Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi
 
-Le **Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi** (걷는 서 바깥팔목 높은데 반대 옆 막기) est le **blocage latéral haut inversé avec l'avant-bras extérieur en posture de marche** (*Walking stance outer forearm high reverse side block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 바깥팔목 높은데 반대 옆 막기](../audio/Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Bandae-Yop-Makgi.m4a)
+
+Le **Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi** ([걷는 서 바깥팔목 높은데 반대 옆 막기](../audio/Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Bandae-Yop-Makgi.m4a)) est le **blocage latéral haut inversé avec l'avant-bras extérieur en posture de marche** (*Walking stance outer forearm high reverse side block*) en TaeKwon-Do ITF.
 
 Blocage latéral haut de l'avant-bras extérieur, exécuté par la main du côté de la jambe arrière.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Bakat Palmok (바깥팔목) :** Avant-bras extérieur (*Outer forearm* — côté petit doigt).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Yop (옆) :** Latéral (*Side*).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras extérieur (*Outer forearm* — côté petit doigt).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral (*Side*).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

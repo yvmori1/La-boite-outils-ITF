@@ -1,15 +1,17 @@
 # Gunnun So Bandae Naeryo Jirugi
 
-Le **Gunnun So Bandae Naeryo Jirugi** (걷는 서 반대 내려 지르기) est le **coup de poing descendant inversé en posture de marche** (*Walking stance reverse downward punch*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 반대 내려 지르기](../audio/Techniques/Gunnun-So-Bandae-Naeryo-Jirugi.m4a)
+
+Le **Gunnun So Bandae Naeryo Jirugi** ([걷는 서 반대 내려 지르기](../audio/Techniques/Gunnun-So-Bandae-Naeryo-Jirugi.m4a)) est le **coup de poing descendant inversé en posture de marche** (*Walking stance reverse downward punch*) en TaeKwon-Do ITF.
 
 Coup de poing porté du haut vers le bas, avec le poing du côté de la jambe arrière, vers un adversaire au sol ou plié en deux.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Naeryo (내려) :** Descendant (*Downward*).
-* **Jirugi (지르기) :** Coup de poing (*Punch*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant (*Downward*).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---
 

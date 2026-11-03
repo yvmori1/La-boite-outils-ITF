@@ -1,13 +1,15 @@
 # Kaunde Bituro Chagi
 
-Le **Kaunde Bituro Chagi** (가운데 비틀어차기) est le **coup de pied vrillé moyen** (*Middle twisting kick*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [가운데 비틀어차기](../audio/Techniques/Kaunde-Bituro-Chagi.m4a)
+
+Le **Kaunde Bituro Chagi** ([가운데 비틀어차기](../audio/Techniques/Kaunde-Bituro-Chagi.m4a)) est le **coup de pied vrillé moyen** (*Middle twisting kick*) en TaeKwon-Do ITF.
 
 La jambe part de face puis vrille vers l'extérieur au moment de l'impact, pour atteindre une cible placée de biais.
 
 Sa décomposition linguistique est la suivante :
 
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Bituro Chagi (비틀어차기) :** Coup de pied vrillé (*Twisting kick*).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Bituro Chagi ([비틀어차기](../audio/grammaire/Bituro-Chagi.m4a)) :** Coup de pied vrillé (*Twisting kick*).
 
 ---
 

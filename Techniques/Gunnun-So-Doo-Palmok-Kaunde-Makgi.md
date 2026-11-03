@@ -1,15 +1,17 @@
 # Gunnun So Doo Palmok Kaunde Makgi
 
-Le **Gunnun So Doo Palmok Kaunde Makgi** (걷는 서 두팔목 가운데 막기) est le **blocage moyen avec le double avant-bras en posture de marche** (*Walking stance double forearm middle block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 두팔목 가운데 막기](../audio/Techniques/Gunnun-So-Doo-Palmok-Kaunde-Makgi.m4a)
+
+Le **Gunnun So Doo Palmok Kaunde Makgi** ([걷는 서 두팔목 가운데 막기](../audio/Techniques/Gunnun-So-Doo-Palmok-Kaunde-Makgi.m4a)) est le **blocage moyen avec le double avant-bras en posture de marche** (*Walking stance double forearm middle block*) en TaeKwon-Do ITF.
 
 Un avant-bras bloque l'attaque au niveau moyen tandis que l'autre, ramené contre lui, le renforce. Le bras de soutien permet aussi d'enchaîner aussitôt un second blocage.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Doo Palmok (두팔목) :** Double avant-bras (*Double forearm* — un bras bloque, l'autre le soutient).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Doo Palmok ([두팔목](../audio/termes/두팔목.m4a)) :** Double avant-bras (*Double forearm* — un bras bloque, l'autre le soutient).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

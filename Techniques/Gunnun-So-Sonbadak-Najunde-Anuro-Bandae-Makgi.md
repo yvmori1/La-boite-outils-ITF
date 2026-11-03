@@ -1,17 +1,19 @@
 # Gunnun So Sonbadak Najunde Anuro Bandae Makgi
 
-Le **Gunnun So Sonbadak Najunde Anuro Bandae Makgi** (걷는 서 손바닥 낮은데 안으로 반대 막기) est le **blocage intérieur bas inversé avec la paume en posture de marche** (*Walking stance palm low reverse inward block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손바닥 낮은데 안으로 반대 막기](../audio/Techniques/Gunnun-So-Sonbadak-Najunde-Anuro-Bandae-Makgi.m4a)
+
+Le **Gunnun So Sonbadak Najunde Anuro Bandae Makgi** ([걷는 서 손바닥 낮은데 안으로 반대 막기](../audio/Techniques/Gunnun-So-Sonbadak-Najunde-Anuro-Bandae-Makgi.m4a)) est le **blocage intérieur bas inversé avec la paume en posture de marche** (*Walking stance palm low reverse inward block*) en TaeKwon-Do ITF.
 
 La paume du côté de la jambe arrière balaie vers l'intérieur une attaque basse, pendant que l'autre poing protège l'épaule opposée.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonbadak (손바닥) :** Paume de la main (*Palm*).
-* **Najunde (낮은데) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
-* **Anuro (안으로) :** Vers l'intérieur (*Inward*).
-* **Bandae (반대) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
+* **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (*Inward*).
+* **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

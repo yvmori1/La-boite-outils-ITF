@@ -1,15 +1,17 @@
 # Gunnun So Sonkal Najunde Makgi
 
-Le **Gunnun So Sonkal Najunde Makgi** (걷는 서 손칼 낮은데 막기) est le **blocage bas avec le tranchant de la main en posture de marche** (*Walking stance knife-hand low block*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 손칼 낮은데 막기](../audio/Techniques/Gunnun-So-Sonkal-Najunde-Makgi.m4a)
+
+Le **Gunnun So Sonkal Najunde Makgi** ([걷는 서 손칼 낮은데 막기](../audio/Techniques/Gunnun-So-Sonkal-Najunde-Makgi.m4a)) est le **blocage bas avec le tranchant de la main en posture de marche** (*Walking stance knife-hand low block*) en TaeKwon-Do ITF.
 
 Blocage bas fondamental au tranchant de la main, par la main du côté de la jambe avant. C'est le blocage bas du Saju Makgi.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sonkal (손칼) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
-* **Najunde (낮은데) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
-* **Makgi (막기) :** Blocage (*Block*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
+* **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
+* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
 
 ---
 

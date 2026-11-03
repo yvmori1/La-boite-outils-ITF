@@ -1,15 +1,17 @@
 # Gunnun So Joomuk Nopunde Jirugi
 
-Le **Gunnun So Joomuk Nopunde Jirugi** (걷는 서 주먹 높은데 지르기) est le **coup de poing haut en posture de marche** (*Walking stance high punch*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 주먹 높은데 지르기](../audio/Techniques/Gunnun-So-Joomuk-Nopunde-Jirugi.m4a)
+
+Le **Gunnun So Joomuk Nopunde Jirugi** ([걷는 서 주먹 높은데 지르기](../audio/Techniques/Gunnun-So-Joomuk-Nopunde-Jirugi.m4a)) est le **coup de poing haut en posture de marche** (*Walking stance high punch*) en TaeKwon-Do ITF.
 
 Coup de poing direct au niveau haut, par le poing du côté de la jambe avant (*Baro*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Joomuk (주먹) :** Poing (*Fist* — l'avant du poing, *Ap Joomuk*, par défaut).
-* **Nopunde (높은데) :** Niveau haut (*High section* — hauteur des yeux).
-* **Jirugi (지르기) :** Coup de poing (*Punch*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing (*Fist* — l'avant du poing, *Ap Joomuk*, par défaut).
+* **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
+* **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---
 

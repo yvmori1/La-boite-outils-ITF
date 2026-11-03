@@ -1,15 +1,17 @@
 # Gunnun So Sun Sonkut Kaunde Tulgi
 
-La **Gunnun So Sun Sonkut Kaunde Tulgi** (걷는 서 선손끝 가운데 찌르기) est la **pique verticale moyenne avec le bout des doigts en posture de marche** (*Walking stance straight fingertip middle thrust*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [걷는 서 선손끝 가운데 찌르기](../audio/Techniques/Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.m4a)
+
+La **Gunnun So Sun Sonkut Kaunde Tulgi** ([걷는 서 선손끝 가운데 찌르기](../audio/Techniques/Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.m4a)) est la **pique verticale moyenne avec le bout des doigts en posture de marche** (*Walking stance straight fingertip middle thrust*) en TaeKwon-Do ITF.
 
 La main verticale, pouce en haut, pique le plexus avec le bout des doigts ; l'autre main, posée sous le coude, vient de presser la garde adverse.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun So / Gunnun Sogi (걷는 서기) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sun Sonkut (선손끝) :** Bout des doigts vertical (*Straight fingertip* — main verticale, pouce en haut).
-* **Kaunde (가운데) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Tulgi (찌르기) :** Pique / poussée pénétrante (*Thrust*).
+* **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
+* **Sun Sonkut ([선손끝](../audio/grammaire/Sun-Sonkut.m4a)) :** Bout des doigts vertical (*Straight fingertip* — main verticale, pouce en haut).
+* **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
+* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / poussée pénétrante (*Thrust*).
 
 ---
 
