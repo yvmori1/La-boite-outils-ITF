@@ -39,6 +39,7 @@ contenu se trouve désormais.
 ## Combat et arbitrage
 
 * [Combats.md](Combats.md) — guide pédagogique du combat (*Matsogi*) : typologie des assauts, prise de mesure (*Gori Jajil*), système de points, code des pénalités et gestuelle de l'arbitre central. Chaque terme coréen y est lié à sa prononciation.
+* [../Combat/README.md](../Combat/README.md) — la section consacrée au combat, à l'autodéfense et à la casse, qui complète ce guide.
 
 ## Progression et examens
 
