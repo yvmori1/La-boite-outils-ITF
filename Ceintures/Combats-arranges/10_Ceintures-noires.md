@@ -22,4 +22,4 @@ Les techniques employées doivent venir des formes et des mouvements fondamentau
 
 ---
 
-Source : programme de session de l'école de Blainville (combats arrangés de la FQTI). Les principes du combat préarrangé, la prise de mesure et le rôle de chaque type de combat sont expliqués dans [Les systèmes de combat](../../Combat/systemes-de-combat.md) et [La prise de mesure](../../Combat/prise-de-mesure.md).
+Les principes du combat préarrangé, la prise de mesure et le rôle de chaque type de combat sont expliqués dans [Les systèmes de combat](../../Combat/systemes-de-combat.md) et [La prise de mesure](../../Combat/prise-de-mesure.md).

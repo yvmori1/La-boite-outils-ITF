@@ -3,7 +3,7 @@
 Commandements, déroulement d'un combat, zones de cible, barème des points,
 avertissements, fautes, disqualifications et gestuelle de l'arbitre, d'après le
 règlement officiel de compétition de l'ITF, **version 2026-1**. Les sources
-complètes sont en fin de page.
+sont réunies dans la [bibliographie](../Bibliographie.md).
 
 Les types de combat sont décrits dans [Les systèmes de combat](systemes-de-combat.md),
 la prise de mesure des combats préarrangés dans [La prise de mesure](prise-de-mesure.md),
@@ -387,11 +387,3 @@ précise alors la raison :
 | Technique incorrecte | Blocage vers l'intérieur de l'avant-bras extérieur. |
 | Perte d'équilibre | Les deux mains tendues, paumes vers le sol, en fléchissant les genoux. |
 | Absence de blocage de garde | Blocage de garde moyen de l'avant-bras, en position en L. |
-
----
-
-## Sources
-
-* [Official ITF Rules of Competition, version 2026-1](https://itftkd.sport/wp-content/uploads/2026/01/Official-ITF-Rules-of-Competition-Version-2026-1.pdf) — articles T3 à T42 (officiels, protections, aire, terminologie, combat), annexe 1 (procédure de pointage), annexe 3 (procédures et signaux des arbitres) et glossaire (contact léger, appuyé et excessif).
-* *Umpire's Procedures and Signals*, annexe 3 officielle des règles d'arbitrage de l'ITF, en vigueur depuis le 1er janvier 2015 — photographies des signaux de l'arbitre central, du président du jury et des juges de coin.
-* *Encyclopédie du Taekwon-Do*, général Choi Hong Hi — typologie des combats et terminologie coréenne.

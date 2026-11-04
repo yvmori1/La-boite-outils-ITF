@@ -171,8 +171,3 @@ blocage. Il se fait progressivement, sous la direction de l'instructeur.
 
 * [Exigences par grade](progression.md) — le nombre de planches à chaque examen, par sexe et par âge.
 * [Le combat libre](combat-libre.md#le-combat-en-compétition-kyong-gi) — la place de la casse dans la compétition.
-
-## Sources
-
-* Général Choi Hong Hi, *Condensed Encyclopedia of Taekwon-Do*, 1999 — chapitres *Training Aids*, *Competition* et *Samples of Breaking Techniques*.
-* [Official ITF Rules of Competition, version 2026-1](https://itftkd.sport/wp-content/uploads/2026/01/Official-ITF-Rules-of-Competition-Version-2026-1.pdf) — articles T43 à T48 et annexe 6 (planches et hauteurs).

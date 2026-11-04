@@ -149,7 +149,6 @@ lequel.
         - [C. Blocages (Makgi)](#c-blocages-makgi)
         - [D. Frappes et attaques (Jirugi / Taerigi / Tulgi)](#d-frappes-et-attaques-jirugi--taerigi--tulgi)
     - [Annexe B — Distances de saut dans les formes](#annexe-b--distances-de-saut-dans-les-formes)
-        - [Sources](#sources)
 
 ---
 
@@ -1786,8 +1785,3 @@ manuel. « Sur place » signifie que le saut se fait sans déplacement au sol.
 | Se-Jong | 7 | X-stance backfist strike | 1 position de marche |
 | | 14 | X-stance double forearm block | 1 position de marche |
 | Tong-Il | 47 | X-stance X-fist pressing block | 1 position de marche |
-
-### Sources
-
-* D'après *Flying and Jumping Distances*, document du GM Paul McPhail.
-* Complété par les informations reçues lors des différents IIC.

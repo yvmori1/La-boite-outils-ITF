@@ -30,7 +30,7 @@ Les règles complètes de construction sont expliquées dans la [partie III du m
 * [Combat, casse et autodéfense](#combat-casse-et-autodéfense)
 * [La théorie de la puissance](#la-théorie-de-la-puissance)
 * [Les formes (Tul)](#les-formes-tul)
-* [Notes sur les sources](#notes-sur-les-sources)
+* [Notes sur les graphies](#notes-sur-les-graphies)
 
 ## L'art et ses valeurs
 
@@ -393,9 +393,9 @@ Le nom de chaque forme rend hommage à une figure ou à un événement de l'hist
 | [**Se-Jong**](../tul/se-jong.md) | [세종](../audio/tul/se-jong.m4a) | Se-Jong | Le roi Se-Jong le Grand, inventeur du hangul ; 5e Dan. |
 | [**Tong-Il**](../tul/tong-il.md) | [통일](../audio/tul/tong-il.m4a) | Unification | La réunification de la Corée ; 6e Dan. |
 
-## Notes sur les sources
+## Notes sur les graphies
 
-Ce glossaire a été établi à partir du lexique trilingue, de la grammaire ITF et du manuel du site, recoupés avec l'*Encyclopédie condensée* du général Choi (1999). Quelques graphies des sources ont été corrigées ou harmonisées :
+Quelques graphies des sources ont été corrigées ou harmonisées :
 
 * **Tulgi** s'écrit [뚫기](../audio/grammaire/Tulgi.m4a) (« percer »), comme dans les fiches des formes ; certaines sources donnent [찌르기](../audio/termes/찌르기.m4a).
 * **Opun Sonkut** s'écrit [엎은손끝](../audio/grammaire/Opun-Sonkut.m4a) (« main retournée vers le bas ») ; une source donnait [오픈손끝](../audio/termes/오픈손끝.m4a), simple transcription de l'anglais *open*.

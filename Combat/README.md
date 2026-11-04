@@ -53,11 +53,3 @@ cesse aux mouvements de base, même au plus haut niveau.
 * [Partie VII du manuel](../Theorie/manuel-taekwon-do.md#partie-vii--lautodéfense-hosinsul) — le programme d'autodéfense de la FQTI, technique par technique.
 * [Partie II du manuel](../Theorie/manuel-taekwon-do.md#partie-ii--les-principes-physiques) — la théorie de la puissance, qui explique la casse.
 * [../Theorie/programme-session.md](../Theorie/programme-session.md) — exercices de combat sportif semaine par semaine.
-
-## Sources
-
-* Général Choi Hong Hi, *Condensed Encyclopedia of Taekwon-Do*, 1999 — chapitres *Sparring*, *Self-Defence Techniques*, *Vital Spots*, *Training Aids*, *Competition* et *Samples of Breaking Techniques*.
-* *Notes de Taekwon-Do ITF*, 2011, partie 6 — programme d'autodéfense de la FQTI.
-* *Notes TKD, livre 1* — composition du Taekwon-Do et règlements du dojang.
-* [Official ITF Rules of Competition, version 2026-1](https://itftkd.sport/wp-content/uploads/2026/01/Official-ITF-Rules-of-Competition-Version-2026-1.pdf) — règlement d'arbitrage, barème des points et des sanctions, épreuves de casse et de combat libre préarrangé.
-* Fiches d'étude de grade de ce dépôt ([../Ceintures/](../Ceintures/README.md)).

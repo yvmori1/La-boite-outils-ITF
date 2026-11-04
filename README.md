@@ -43,6 +43,8 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 **Si vous préparez un combat ou un arbitrage** → [Combat/arbitrage.md](Combat/arbitrage.md) : commandements de l'arbitre, barème des points et des pénalités ; la prise de mesure est dans [Combat/prise-de-mesure.md](Combat/prise-de-mesure.md).
 
+**Si vous cherchez une source** → la [bibliographie](Bibliographie.md) réunit les ouvrages et documents sur lesquels s'appuie le site, avec les pages qui les utilisent.
+
 ---
 
 ## Convention de nommage

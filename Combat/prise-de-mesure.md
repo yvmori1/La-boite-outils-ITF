@@ -101,7 +101,3 @@ justesse de la mesure sur deux critères stricts.
 
 * [Les systèmes de combat](systemes-de-combat.md) — les combats à trois, deux et un pas, et leurs principes de base.
 * [Règlement et arbitrage](arbitrage.md) — commandements, points et pénalités.
-
-## Sources
-
-* *Encyclopédie du Taekwon-Do*, général Choi Hong Hi — prise de mesure et combats préarrangés.
