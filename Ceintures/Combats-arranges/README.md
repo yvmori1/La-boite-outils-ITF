@@ -31,7 +31,3 @@ La théorie de ces exercices (principes, rôle de chaque format, combat semi-lib
 * **Distance** : le placement de l'attaquant par rapport à son partenaire ; la mesure de la distance est détaillée dans [La prise de mesure](../../Combat/prise-de-mesure.md).
 * **Préparation** : la position que l'attaquant prend avant d'attaquer.
 * Les liens mènent à la fiche de chaque technique, avec sa prononciation coréenne.
-
----
-
-Source : programme de session de l'école de Blainville (combats arrangés de la FQTI), parties 2 et 3.
