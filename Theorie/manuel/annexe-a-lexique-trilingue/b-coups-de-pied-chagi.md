@@ -18,7 +18,7 @@
 | Coup de pied circulaire inversé sauté      | flying reverse turning kick  | Twimyo bandae dollyo chagi  | [뛰며 반대 돌려차기](../../../audio/chagi/twimyo-bandae-dollyo-chagi.m4a)          |
 | Coup de pied latéral tranchant sauté       | flying side piercing kick    | Twimyo yopcha jirugi        | [뛰며 옆차 지르기](../../../audio/Techniques/Twimyo-Yopcha-Jirugi.m4a)             |
 | Double coup de pied sauté                  | flying two directions kick   | Twimyo sangband chagi       | [뛰며 쌍방차기](../../../audio/chagi/twimyo-sangband-chagi.m4a)                    |
-| Coup de pied sauté pénétrant               | flying thrusting kick        | Twimyo cha tulgi | 뛰며 차 뚫기 |
+| Coup de pied sauté pénétrant               | flying thrusting kick        | Twimyo cha tulgi | [뛰며 차 뚫기](../../../audio/grammaire/뛰며-차-뚫기.m4a) |
 | Coup de pied avant                         | front kick                   | Ap chagi | [앞차기](../../../audio/chagi/ap-chagi.m4a) |
 | Coup de pied avant soulevé                 | front rising kick            | Apcha olligi                | [앞차 올리기](../../../audio/chagi/apcha-olligi.m4a)                               |
 | Coup de pied du talon                      | front heel kick              | Kumchi ollyo chagi          | [꿈치 올려차기](../../../audio/chagi/kumchi-ollyo-chagi.m4a)                       |
@@ -40,7 +40,7 @@
 | Coup de pied latéral                       | side kick                    | Yop chagi | [옆차기](../../../audio/chagi/yop-chagi.m4a) |
 | Coup de pied latéral tranchant             | side piercing kick           | Yopcha jirugi               | [옆차지르기](../../../audio/chagi/yop-cha-jirugi.m4a)                              |
 | Coup de pied latéral avec poussée          | side pushing kick            | Yop-cha milgi               | [옆차밀기](../../../audio/chagi/yop-cha-milgi.m4a)                                 |
-| Coup de pied latéral pénétrant             | side thrusting kick          | Yopcha tulgi | 옆차뚫기 |
+| Coup de pied latéral pénétrant             | side thrusting kick          | Yopcha tulgi | [옆차뚫기](../../../audio/grammaire/옆차뚫기.m4a) |
 | Coup de pied chassé                        | sliding kick                 | Mikulgi chagi               | [미끌기 차기](../../../audio/chagi/mikulgi-chagi.m4a)                              |
 | Croc-en-jambe                              | sweeping kick                | Suroh chagi | [쓸어차기](../../../audio/grammaire/Suroh-Chagi.m4a) |
 | Coup de pied circulaire                    | turning kick                 | Dollyo chagi                | [돌려차기](../../../audio/chagi/dollyo-chagi.m4a)                                  |
