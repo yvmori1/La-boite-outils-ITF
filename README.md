@@ -11,6 +11,18 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 ---
 
+## Sur le site
+
+Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
+
+* **Prononciation** — un clic sur un mot en hangul fait entendre sa prononciation, sans quitter la page.
+* **Traduction au survol** — survoler (ou toucher) un terme coréen souligné en pointillé affiche sa traduction.
+* **Mode révision** — chaque examen théorique propose « Je savais / À revoir » après chaque corrigé, tient le score et permet de ne revoir que les questions ratées.
+* **Impression et PDF** — le bouton « Imprimer / PDF » des fiches d'examen imprime la page, corrigés dépliés, ou l'enregistre en PDF.
+* **Hors ligne** — [hors-ligne.zip](https://outils.hosinsul.ca/hors-ligne.zip) contient tout le site, audio compris : décompresser, puis ouvrir `index.html`.
+
+---
+
 ## Index des répertoires
 
 | Répertoire | Contenu | Fiches |
