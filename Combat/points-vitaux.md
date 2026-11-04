@@ -52,7 +52,7 @@ vital le plus accessible.
 
 Le corps est aussi divisé en lignes verticales : la **ligne du plexus**
 (au centre), la **ligne de la poitrine** et la **ligne de l'épaule**. Voir la
-[partie III du manuel](../Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques)
+[partie III du manuel](../Theorie/manuel/partie-3-grammaire-des-techniques/README.md)
 pour la place du niveau dans le nom d'une technique.
 
 ---
@@ -142,7 +142,7 @@ blocage doit être placé au bon endroit, avec l'outil de blocage approprié, si
 le défenseur est touché.
 
 Les armes naturelles et leurs cibles sont décrites dans la
-[partie III du manuel](../Theorie/manuel-taekwon-do.md#12-les-armes-naturelles-jook-bang).
+[partie III du manuel](../Theorie/manuel/partie-3-grammaire-des-techniques/12-les-armes-naturelles-jook-bang.md).
 
 ## Voir aussi
 

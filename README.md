@@ -29,15 +29,15 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 ## Comment s'y retrouver
 
-**Si vous cherchez la théorie** → tout est réuni dans [Theorie/manuel-taekwon-do.md](Theorie/manuel-taekwon-do.md) : l'art et sa voie, les principes de puissance, la grammaire des techniques, les positions, le répertoire technique, les formes, l'autodéfense, puis le lexique trilingue et les distances de saut en annexe.
+**Si vous cherchez la théorie** → tout est réuni dans le [manuel](Theorie/manuel/README.md), découpé en une page par chapitre : l'art et sa voie, les principes de puissance, la grammaire des techniques, les positions, le répertoire technique, les formes, l'autodéfense, puis le lexique trilingue et les distances de saut en annexe.
 
 **Si vous préparez un passage de grade** → commencez par [Ceintures/README.md](Ceintures/README.md), qui donne pour chaque grade la théorie, les formes, le lexique et les exigences physiques.
 
 **Si vous cherchez une technique précise** → l'index du répertoire correspondant ([chagi](chagi/README.md), [makgi](makgi/README.md), [jirugi](jirugi/README.md)) classe les fiches par famille de mouvement, avec le nom français en regard du nom coréen.
 
-**Si vous cherchez un terme coréen** → le [glossaire coréen-français](Theorie/glossaire-coreen-francais.md) (chaque mot avec son hangul, sa traduction et une courte définition), l'[annexe A du manuel](Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) (français – anglais – coréen, avec la prononciation) et sa [partie III](Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) pour les règles de construction des noms de techniques.
+**Si vous cherchez un terme coréen** → le [glossaire coréen-français](Theorie/glossaire/README.md) (chaque mot avec son hangul, sa traduction et une courte définition), l'[annexe A du manuel](Theorie/manuel/annexe-a-lexique-trilingue/README.md) (français – anglais – coréen, avec la prononciation) et sa [partie III](Theorie/manuel/partie-3-grammaire-des-techniques/README.md) pour les règles de construction des noms de techniques.
 
-**Si vous travaillez une forme** → [tul/README.md](tul/README.md) mène à la fiche de chaque forme (mouvement par mouvement) ; la [partie VI du manuel](Theorie/manuel-taekwon-do.md#partie-vi--les-formes-tul) en donne le sens et l'histoire.
+**Si vous travaillez une forme** → [tul/README.md](tul/README.md) mène à la fiche de chaque forme (mouvement par mouvement) ; la [partie VI du manuel](Theorie/manuel/partie-6-formes-tul/README.md) en donne le sens et l'histoire.
 
 **Si vous travaillez le combat, l'autodéfense ou la casse** → [Combat/README.md](Combat/README.md) : systèmes de combat, conseils pour le combat libre, autodéfense, points vitaux, casse, et un récapitulatif des exigences de chaque examen.
 
@@ -53,4 +53,4 @@ Un nom de technique ITF se lit dans l'ordre : **position → surface de frappe �
 
 > *Gunnun So Bakat Palmok Nopunde Yop Makgi* = en position de marche, avec l'avant-bras externe, au niveau haut, blocage latéral.
 
-Les fiches de [Techniques](Techniques/README.md) suivent cette construction complète ; celles de [chagi](chagi/README.md), [makgi](makgi/README.md) et [jirugi](jirugi/README.md) isolent un seul élément du vocabulaire. La règle est détaillée dans la [partie III du manuel](Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques).
+Les fiches de [Techniques](Techniques/README.md) suivent cette construction complète ; celles de [chagi](chagi/README.md), [makgi](makgi/README.md) et [jirugi](jirugi/README.md) isolent un seul élément du vocabulaire. La règle est détaillée dans la [partie III du manuel](Theorie/manuel/partie-3-grammaire-des-techniques/README.md).

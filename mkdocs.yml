@@ -22,6 +22,9 @@ theme:
     - navigation.tracking
     - navigation.indexes
     - navigation.top
+    # liens « Précédent / Suivant » en bas de page : on lit le manuel découpé
+    # chapitre après chapitre
+    - navigation.footer
     - toc.follow
     - search.suggest
     - search.highlight
@@ -52,6 +55,13 @@ plugins:
   - redirects:
       redirect_maps:
         Theorie/Combats.md: Combat/arbitrage.md
+        # Les longs documents de Theorie/ découpés en sous-pages : l'ancienne
+        # page mène au sommaire, et docs/assets/anciennes-ancres.js envoie
+        # l'ancre éventuelle (#...) vers la sous-page qui la contient.
+        Theorie/manuel-taekwon-do.md: Theorie/manuel/README.md
+        Theorie/examens-theoriques-taekwondo.md: Theorie/examens/README.md
+        Theorie/glossaire-coreen-francais.md: Theorie/glossaire/README.md
+        Theorie/programme-session.md: Theorie/programme-session/README.md
 
 # Date de la dernière mise à jour sur la page d'accueil.
 hooks:
@@ -85,6 +95,7 @@ markdown_extensions:
 
 extra_javascript:
   - assets/mathjax.js
+  - assets/anciennes-ancres.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 # Signale les liens internes cassés pendant la construction, sans la bloquer.

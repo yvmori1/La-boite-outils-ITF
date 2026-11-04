@@ -50,6 +50,6 @@ cesse aux mouvements de base, même au plus haut niveau.
 
 ## Voir aussi
 
-* [Partie VII du manuel](../Theorie/manuel-taekwon-do.md#partie-vii--lautodéfense-hosinsul) — le programme d'autodéfense de la FQTI, technique par technique.
-* [Partie II du manuel](../Theorie/manuel-taekwon-do.md#partie-ii--les-principes-physiques) — la théorie de la puissance, qui explique la casse.
-* [../Theorie/programme-session.md](../Theorie/programme-session.md) — exercices de combat sportif semaine par semaine.
+* [Partie VII du manuel](../Theorie/manuel/partie-7-autodefense-hosinsul.md) — le programme d'autodéfense de la FQTI, technique par technique.
+* [Partie II du manuel](../Theorie/manuel/partie-2-principes-physiques/README.md) — la théorie de la puissance, qui explique la casse.
+* [../Theorie/programme-session/README.md](../Theorie/programme-session/README.md) — exercices de combat sportif semaine par semaine.

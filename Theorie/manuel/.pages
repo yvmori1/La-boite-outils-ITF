@@ -1,0 +1,13 @@
+# Ordre et titres des parties du manuel. Dans chaque partie, les chapitres
+# suivent l'ordre de leur numéro (préfixe du nom de fichier).
+nav:
+  - README.md
+  - "Partie I — L'art et sa voie": partie-1-art-et-voie
+  - "Partie II — Les principes physiques": partie-2-principes-physiques
+  - "Partie III — La grammaire des techniques": partie-3-grammaire-des-techniques
+  - "Partie IV — Les positions (Sogi)": partie-4-positions-sogi
+  - "Partie V — Le répertoire technique": partie-5-repertoire-technique
+  - "Partie VI — Les formes (Tul)": partie-6-formes-tul
+  - "Partie VII — L'autodéfense (Hosinsul)": partie-7-autodefense-hosinsul.md
+  - "Annexe A — Lexique trilingue": annexe-a-lexique-trilingue
+  - "Annexe B — Distances de saut": annexe-b-distances-de-saut.md

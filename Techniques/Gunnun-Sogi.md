@@ -54,4 +54,4 @@ Elle se traduit par : **Position de marche** (*Walking stance*).
 * **Genou avant trop ou pas assez fléchi :** la rotule doit être à l'aplomb du talon.
 * **Talon arrière décollé :** la jambe arrière doit rester tendue, le talon au sol.
 
-Voir aussi : [16.9 Position de marche (Gunnun Sogi)](../Theorie/manuel-taekwon-do.md#169-position-de-marche-gunnun-sogi) dans le manuel.
+Voir aussi : [16.9 Position de marche (Gunnun Sogi)](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md#169-position-de-marche-gunnun-sogi) dans le manuel.

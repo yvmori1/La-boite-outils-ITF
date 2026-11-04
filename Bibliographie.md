@@ -13,7 +13,7 @@ consultées.
     * [La casse (Kyokpa)](Combat/kyokpa.md) : chapitres *Training Aids*, *Competition* et *Samples of Breaking Techniques*.
     * [Règlement et arbitrage](Combat/arbitrage.md) : typologie des combats et terminologie coréenne.
     * [La prise de mesure](Combat/prise-de-mesure.md) : prise de mesure et combats préarrangés.
-    * [Glossaire coréen-français](Theorie/glossaire-coreen-francais.md) : recoupement des graphies du lexique trilingue, de la grammaire ITF et du manuel du site.
+    * [Glossaire coréen-français](Theorie/glossaire/README.md) : recoupement des graphies du lexique trilingue, de la grammaire ITF et du manuel du site.
 
 ## Règlements de l'ITF
 
@@ -36,4 +36,4 @@ consultées.
 ## Autres documents
 
 * GM Paul McPhail, *Flying and Jumping Distances*.
-    * [Manuel, annexe B — Distances de saut dans les formes](Theorie/manuel-taekwon-do.md#annexe-b--distances-de-saut-dans-les-formes), complétée par les informations reçues lors des différents IIC (*International Instructor Courses*).
+    * [Manuel, annexe B — Distances de saut dans les formes](Theorie/manuel/annexe-b-distances-de-saut.md), complétée par les informations reçues lors des différents IIC (*International Instructor Courses*).

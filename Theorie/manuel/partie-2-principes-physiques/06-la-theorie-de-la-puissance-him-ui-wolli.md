@@ -1,0 +1,13 @@
+# 6. La théorie de la puissance (Him Ui Wolli)
+
+Le secret de la force dévastatrice du Taekwon-Do réside dans l'application mathématique et scientifique des principes de la physique newtonienne. Un entraînement scientifique permet d'exploiter 100% de son potentiel corporel.
+
+| Facteur | Description |
+| --- | --- |
+| **Force de Réaction (Bandong Ryok)** | Loi d'action-réaction de Newton. La force d'impact est démultipliée en combinant la force du coup avec la force d'impulsion de l'adversaire qui fonce vers soi. De plus, lors d'un coup de poing droit, le retrait simultané et vigoureux du poing gauche à la hanche génère une force de réaction interne optimale. |
+| **Concentration (Jip Joong)** | Appliquer la force d'impact sur la plus petite surface possible (tranchant externe de la main, jointures) pour maximiser la pression. La force doit être déployée de manière fluide puis concentrée à l'extrême au moment de l'impact. Les cuisses et l'abdomen (gros muscles lents) se contractent immédiatement avant les mains et les pieds. |
+| **Équilibre (Kyun Hyung)** | L'équilibre assure la stabilité nécessaire pour qu'un coup soit puissant et efficace. Le centre de gravité doit être aligné au milieu des deux jambes ou au centre du pied d'appui. **Le talon du pied arrière ne doit jamais quitter le sol au moment de l'impact** pour sceller la puissance. |
+| **Contrôle de la Respiration (Hohup Jojul)** | Une expiration sèche au moment de l'impact tend l'abdomen, rigidifie le corps pour encaisser un éventuel contre-coup et décuple la force de frappe. Il ne faut jamais inhaler pendant l'exécution d'un blocage ou d'une attaque, sous peine de perdre sa puissance. |
+| **Masse (Zilyang)** | L'énergie cinétique maximale est obtenue en projetant la masse du corps par une rotation des hanches. De plus, l'adepte utilise l'action de ressort du genou (mouvement de vague) : monter légèrement le corps au début de la technique pour le descendre brusquement au moment de l'impact. |
+| **Vitesse (Sokdo)** | La vitesse est le facteur le plus déterminant de la puissance. Selon la formule de l'énergie cinétique ($E = (1/2)mv^2$), si la masse est multipliée par 3, la puissance est multipliée par 3 ; mais si la vitesse est multipliée par 3, la puissance est multipliée par 9. |
+| **Vitesse et Réflexes (Sokdo wa Baung)** | L'étude strobo-photographique menée au MIT en 1973 a démontré que la vitesse d'exécution d'un coup de pied de côté ou avant sauté est plus rapide que le temps de réflexe humain le plus rapide (2/10 de seconde). Il est donc physiologiquement impossible de parer ces attaques si on attend le départ du coup ; l'adepte doit anticiper en fixant continuellement les yeux de son adversaire. |
