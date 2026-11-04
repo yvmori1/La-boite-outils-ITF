@@ -1,0 +1,24 @@
+# Ordre et titres du menu Formes.
+# Les exercices fondamentaux n'affichent que leur nom coréen romanisé ;
+# les autres formes gardent le titre de leur fiche.
+nav:
+  - README.md
+  - choi-yong.md
+  - chon-ji.md
+  - choong-jang.md
+  - choong-moo.md
+  - dan-gun.md
+  - do-san.md
+  - eui-am.md
+  - ge-baek.md
+  - hwa-rang.md
+  - joong-gun.md
+  - juche.md
+  - ko-dang.md
+  - kwang-gae.md
+  - moon-moo.md
+  - po-eun.md
+  - SAJU JIRUGI: saju-jirugi.md
+  - SAJU MAKGI: saju-makgi.md
+  - SAJU TULGI: saju-tulgi.md
+  - ...
