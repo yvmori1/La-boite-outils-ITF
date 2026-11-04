@@ -1,4 +1,4 @@
-# Recueil d'Examens Théoriques Officiels de Passage de Niveau (ITF)
+# Recueil d'Examens Théoriques par Niveau
 
 ## Taekwon-Do ITF — Du 10e Gup (Ceinture Blanche) au 6e Dan (Ceinture Noire)
 
