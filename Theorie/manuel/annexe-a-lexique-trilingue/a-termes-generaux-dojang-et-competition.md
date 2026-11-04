@@ -59,7 +59,7 @@
 | Prêt!                                     | ready!                              | -                   | -                                                       |
 | Marqueur des points                       | recorder                            | -                   | -                                                       |
 | Arbitre                                   | referee                             | -                   | -                                                       |
-| Repos!                                    | relax!                              | Swiyo               | [쉬어](../../../audio/lexique/Swiyo.m4a)                      |
+| Repos!                                    | relax!                              | Swiyo               | [쉬어](../../../audio/grammaire/Swiyo.m4a)                      |
 | Période de repos                          | rest period                         | -                   | -                                                       |
 | Plateau; surface de combat                | ring                                | -                   | -                                                       |
 | Tableau des résultats                     | score-board                         | -                   | -                                                       |
