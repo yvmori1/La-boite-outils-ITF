@@ -1,0 +1,23 @@
+# Ordre et titres du menu Requis Examen.
+# Les fiches de grade s'affichent sans le préfixe « FICHE D'ÉTUDE : » ;
+# le titre en haut de chaque page reste inchangé.
+nav:
+  - README.md
+  - 00_Intro.md
+  - "Ceinture Blanche (10e Gup)": 01_Blanche.md
+  - "Ceinture Blanche I / Barre Jaune (9e Gup)": 02_Blanche_I.md
+  - "Ceinture Jaune (8e Gup)": 03_Jaune.md
+  - "Ceinture Jaune I / Barre Verte (7e Gup)": 04_Jaune_I.md
+  - "Ceinture Verte (6e Gup)": 05_Verte.md
+  - "Ceinture Verte I / Barre Bleue (5e Gup)": 06_Verte_I.md
+  - "Ceinture Bleue (4e Gup)": 07_Bleu.md
+  - "Ceinture Bleue I / Barre Rouge (3e Gup)": 08_Bleu_I.md
+  - "Ceinture Rouge (2e Gup)": 09_Rouge.md
+  - "Ceinture Rouge I / Barre Noire (1er Gup)": 10_Rouge_I.md
+  - "CEINTURE NOIRE — 1er Degré (Dan)": 11_Noire_I.md
+  - "CEINTURE NOIRE — 2e Degré (Dan)": 12_Noire_II.md
+  - "CEINTURE NOIRE — 3e Degré (Dan)": 13_Noire_III.md
+  - "CEINTURE NOIRE — 4e Degré (Dan)": 14_Noire_IV.md
+  - "CEINTURE NOIRE — 5e Degré (Dan)": 15_Noire_V.md
+  - "CEINTURE NOIRE — 6e Degré (Dan)": 16_Noire_VI.md
+  - ...
