@@ -94,6 +94,6 @@ Un nom de blocage se construit en combinant quatre éléments : **surface** (*Pa
 
 ## Voir aussi
 
-* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#partie-iii--la-grammaire-des-techniques) — partie III du manuel : les règles de construction des noms de blocages.
+* [../Theorie/manuel/partie-3-grammaire-des-techniques/README.md](../Theorie/manuel/partie-3-grammaire-des-techniques/README.md) — partie III du manuel : les règles de construction des noms de blocages.
 * [../Techniques/README.md](../Techniques/README.md) — blocages combinés à une position.
-* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) — annexe A du manuel : le vocabulaire coréen.
+* [../Theorie/manuel/annexe-a-lexique-trilingue/README.md](../Theorie/manuel/annexe-a-lexique-trilingue/README.md) — annexe A du manuel : le vocabulaire coréen.

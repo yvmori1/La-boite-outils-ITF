@@ -29,10 +29,10 @@ trompe que lui-même.
 ## 2. La casse et la théorie de la puissance
 
 Réussir une casse, c'est appliquer la
-[théorie de la puissance](../Theorie/manuel-taekwon-do.md#6-la-théorie-de-la-puissance-him-ui-wolli) :
+[théorie de la puissance](../Theorie/manuel/partie-2-principes-physiques/06-la-theorie-de-la-puissance-him-ui-wolli.md) :
 la masse du corps mise en mouvement, la vitesse, la concentration de toute la
 force sur une petite surface au point de focalisation, l'équilibre, la
-respiration et le [mouvement de vague](../Theorie/manuel-taekwon-do.md#7-le-mouvement-de-vague).
+respiration et le [mouvement de vague](../Theorie/manuel/partie-2-principes-physiques/07-le-mouvement-de-vague.md).
 Pour les candidats de 40 ans et plus, les examens mettent d'ailleurs l'accent
 sur la précision et l'usage de la gravité plutôt que sur la force brute.
 

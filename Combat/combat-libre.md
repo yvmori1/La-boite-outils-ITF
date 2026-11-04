@@ -150,7 +150,7 @@ règlement 2026 sont détaillés dans
 
 ## À l'entraînement
 
-Le [programme de session](../Theorie/programme-session.md) propose, semaine
+Le [programme de session](../Theorie/programme-session/README.md) propose, semaine
 par semaine, des techniques de combat sportif (déplacements, feintes, switch,
 contres) et des exercices de fin de cours (*finishers*) par niveau de ceinture.
 

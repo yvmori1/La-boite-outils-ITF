@@ -1,0 +1,8 @@
+# Titres courts du menu ; le titre complet reste en tête de chaque page.
+nav:
+  - README.md
+  - "1er Dan → 2e Dan": 01-1er-dan.md
+  - "2e Dan → 3e Dan": 02-2e-dan.md
+  - "3e Dan → 4e Dan": 03-3e-dan.md
+  - "4e Dan → 5e Dan": 04-4e-dan.md
+  - "5e Dan → 6e Dan": 05-5e-dan.md

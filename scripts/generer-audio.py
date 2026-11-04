@@ -66,9 +66,10 @@ DEBIT = 130
 # Documents de fond dont chaque hangul devient un lien de prononciation, avec le
 # sous-dossier d'audio qui leur est propre ; un motif glob en désigne plusieurs.
 # Celui du manuel reste « grammaire », nom de la fiche d'origine : le renommer
-# perdrait les enregistrements déjà liés.
+# perdrait les enregistrements déjà liés. Le manuel est découpé en sous-pages,
+# d'où le motif récursif.
 DOCUMENTS = {
-    "manuel": ("Theorie/manuel-taekwon-do.md", "grammaire"),
+    "manuel": ("Theorie/manuel/**/*.md", "grammaire"),
     "combats": ("Combat/*.md", "combats"),
 }
 
@@ -367,6 +368,8 @@ LIEN_AUDIO = re.compile(
 # rangent leurs nouveaux enregistrements dans audio/termes/.
 DOSSIERS_PUBLIES = ("", "Ceintures", "tul", "chagi", "makgi", "jirugi",
                     "Techniques", "Combat", "Theorie", "images", "images/sogi")
+# dossiers publiés parcourus avec leurs sous-dossiers (pages découpées)
+DOSSIERS_RECURSIFS = {"Theorie"}
 SOUS_DOSSIER_TERMES = "termes"
 # documents produits par un autre script : les lier ici ferait diverger leur
 # générateur, qui les réécrirait sans les liens à chaque passage
@@ -527,7 +530,8 @@ attente = collections.Counter()
 def documents_publies():
     """Tous les documents Markdown du site, dans l'ordre du dépôt."""
     for dossier in DOSSIERS_PUBLIES:
-        for md in sorted((RACINE / dossier).glob("*.md")):
+        motif = "**/*.md" if dossier in DOSSIERS_RECURSIFS else "*.md"
+        for md in sorted((RACINE / dossier).glob(motif)):
             if md.relative_to(RACINE).as_posix() not in GENERES:
                 yield md
 
@@ -585,7 +589,7 @@ def main():
     p.add_argument("--debit", type=int, default=DEBIT,
                    help=f"mots par minute (défaut : {DEBIT})")
     p.add_argument("--manuel", action="store_true",
-                   help="lie les hangul de Theorie/manuel-taekwon-do.md")
+                   help="lie les hangul des pages de Theorie/manuel/")
     p.add_argument("--lexique", "--grammaire", dest="manuel",
                    action="store_true",
                    help="ancien nom de --manuel (fiches fusionnées au manuel)")

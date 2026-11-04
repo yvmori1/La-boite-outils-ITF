@@ -1,0 +1,13 @@
+# Titres courts du menu ; le titre complet reste en tête de chaque page.
+nav:
+  - README.md
+  - "10e Gup → 9e Gup": 01-10e-gup.md
+  - "9e Gup → 8e Gup": 02-9e-gup.md
+  - "8e Gup → 7e Gup": 03-8e-gup.md
+  - "7e Gup → 6e Gup": 04-7e-gup.md
+  - "6e Gup → 5e Gup": 05-6e-gup.md
+  - "5e Gup → 4e Gup": 06-5e-gup.md
+  - "4e Gup → 3e Gup": 07-4e-gup.md
+  - "3e Gup → 2e Gup": 08-3e-gup.md
+  - "2e Gup → 1er Gup": 09-2e-gup.md
+  - "1er Gup → 1er Dan": 10-1er-gup.md

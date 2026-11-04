@@ -50,7 +50,8 @@ GRAPHIES = [
 ]
 IGNORES = {".git", "site", "venv", ".venv", "audio", "scripts", "docs"}
 # le glossaire cite à dessein les graphies fautives qu'il a corrigées
-EXCEPTIONS = {"Theorie/glossaire-coreen-francais.md"}
+# (tout le dossier du glossaire, découpé en une page par thème)
+EXCEPTIONS = ("Theorie/glossaire/",)
 
 
 def lancer(script, options, ecrire):
@@ -71,6 +72,10 @@ def compte_reel(dossier):
     if dossier == "images":
         return len([f for f in d.iterdir()
                     if f.suffix.lower() in (".png", ".svg", ".gif", ".jpg")])
+    if dossier == "Theorie":
+        # un document découpé en sous-pages compte pour un : son dossier
+        return len([f for f in d.iterdir()
+                    if f.is_dir() or (f.suffix == ".md" and f.name != "README.md")])
     return len([f for f in d.glob("*.md") if f.name != "README.md"])
 
 
@@ -98,7 +103,7 @@ def graphies(ecrire):
     corriges = []
     for p in sorted(RACINE.rglob("*.md")):
         if any(part in IGNORES for part in p.parts) \
-                or p.relative_to(RACINE).as_posix() in EXCEPTIONS:
+                or p.relative_to(RACINE).as_posix().startswith(EXCEPTIONS):
             continue
         t = p.read_text(encoding="utf-8", errors="ignore")
         nouveau = t

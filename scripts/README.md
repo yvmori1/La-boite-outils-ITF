@@ -36,7 +36,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
-| [generer-manuel.py](generer-manuel.py) | Assemble `Theorie/manuel-taekwon-do.md` à partir des quatre fiches de fond |
+| [generer-manuel.py](generer-manuel.py) | Hors service : assemblait l'ancien manuel d'un seul tenant |
 | [formater-markdown.py](formater-markdown.py) | Met les listes en forme pour qu'elles s'affichent pareil sur GitHub et sur le site |
 
 ### maintenir.py
@@ -97,7 +97,7 @@ exacte n'existe pas, il pointe vers l'explication la plus proche.
 
 ```sh
 python3 scripts/generer-audio.py --write            # fiches
-python3 scripts/generer-audio.py --manuel --write   # Theorie/manuel-taekwon-do.md
+python3 scripts/generer-audio.py --manuel --write   # pages de Theorie/manuel/
 python3 scripts/generer-audio.py --combats --write  # pages de Combat/
 python3 scripts/generer-audio.py --reparer --write  # audio manquants
 python3 scripts/generer-audio.py --tout --write     # chaque hangul du site
@@ -142,7 +142,7 @@ python3 scripts/generer-sogi.py --write --only niunja-sogi
 ```
 
 Dessine, vue de dessus, la position des pieds des 21 positions de la
-[partie IV du manuel](../Theorie/manuel-taekwon-do.md#partie-iv--les-positions-sogi) — *Palja Sogi* donnant
+[partie IV du manuel](../Theorie/manuel/partie-4-positions-sogi/README.md) — *Palja Sogi* donnant
 deux schémas, intérieur et extérieur. Voir [../images/sogi/](../images/sogi/README.md).
 
 Chaque pied est posé par un repère nommé — talon, talon interne, gros orteil,
@@ -166,10 +166,12 @@ lorsqu'une mesure change.
 
 ### generer-manuel.py — hors service
 
-Ce script assemblait [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md) à partir de quatre fiches de théorie —
-`Genes.md`, `grammaire-itf.md`, `mouvement_de_vagues.md` et `Lexique.md`. Ces
-quatre fiches ayant été fusionnées dans le manuel puis supprimées, **il ne peut
-plus s'exécuter** : le manuel est désormais entretenu directement.
+Ce script assemblait l'ancien `Theorie/manuel-taekwon-do.md`, d'un seul tenant, à
+partir de quatre fiches de théorie — `Genes.md`, `grammaire-itf.md`,
+`mouvement_de_vagues.md` et `Lexique.md`. Ces quatre fiches ayant été fusionnées
+dans le manuel puis supprimées, **il ne peut plus s'exécuter** : le manuel est
+désormais entretenu directement, découpé en une page par chapitre dans
+[../Theorie/manuel/](../Theorie/manuel/README.md).
 
 Le fichier est conservé pour mémoire de la façon dont le manuel a été composé —
 l'ordre des parties, et le dictionnaire `FUSIONS` qui note, passage par passage,

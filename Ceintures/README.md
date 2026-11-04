@@ -51,6 +51,6 @@ Les fiches sont cumulatives : un grade suppose la maîtrise de tous les précéd
 ## Voir aussi
 
 * [../tul/README.md](../tul/README.md) — exécution détaillée, mouvement par mouvement, de toutes les formes citées ci-dessus.
-* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#conditions-et-temps-requis-au-passage-de-grade) — conditions, délais et heures de pratique entre deux grades.
-* [../Theorie/examens-theoriques-taekwondo.md](../Theorie/examens-theoriques-taekwondo.md) — questionnaires théoriques par grade.
-* [../Theorie/manuel-taekwon-do.md](../Theorie/manuel-taekwon-do.md#annexe-a--lexique-trilingue) — annexe A du manuel : le vocabulaire coréen à connaître, avec sa prononciation.
+* [../Theorie/manuel/partie-1-art-et-voie/05-le-dobok-et-les-ceintures.md](../Theorie/manuel/partie-1-art-et-voie/05-le-dobok-et-les-ceintures.md#conditions-et-temps-requis-au-passage-de-grade) — conditions, délais et heures de pratique entre deux grades.
+* [../Theorie/examens/README.md](../Theorie/examens/README.md) — questionnaires théoriques par grade.
+* [../Theorie/manuel/annexe-a-lexique-trilingue/README.md](../Theorie/manuel/annexe-a-lexique-trilingue/README.md) — annexe A du manuel : le vocabulaire coréen à connaître, avec sa prononciation.

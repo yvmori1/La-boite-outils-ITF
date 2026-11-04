@@ -49,7 +49,8 @@ GRAPHIES = [
     ("뛰며", ["뛰묘"]), ("쓸어차기", ["수로차기"]),
 ]
 # le glossaire cite à dessein les graphies fautives qu'il a corrigées
-EXCEPTIONS_GRAPHIES = {"Theorie/glossaire-coreen-francais.md"}
+# (tout le dossier du glossaire, découpé en une page par thème)
+EXCEPTIONS_GRAPHIES = ("Theorie/glossaire/",)
 
 LIEN_MD = re.compile(r"\[[^\]]*\]\(([^)#]+\.md)(?:#[^)]*)?\)")
 # « audio/ » depuis la racine, « ../audio/ » depuis un dossier
@@ -105,6 +106,10 @@ def compte_reel(dossier):
     if dossier == "images":
         return len([f for f in d.iterdir()
                     if f.suffix.lower() in (".png", ".svg", ".gif", ".jpg")])
+    if dossier == "Theorie":
+        # un document découpé en sous-pages compte pour un : son dossier
+        return len([f for f in d.iterdir()
+                    if f.is_dir() or (f.suffix == ".md" and f.name != "README.md")])
     return len([f for f in d.glob("*.md") if f.name != "README.md"])
 
 
@@ -143,8 +148,8 @@ def controle_graphies():
     for reference, variantes in GRAPHIES:
         for variante in variantes:
             porteurs = [str(p.relative_to(RACINE)) for p in documents()
-                        if p.relative_to(RACINE).as_posix()
-                        not in EXCEPTIONS_GRAPHIES
+                        if not p.relative_to(RACINE).as_posix()
+                        .startswith(EXCEPTIONS_GRAPHIES)
                         and variante.lower() in p.read_text(
                             encoding="utf-8", errors="ignore").lower()]
             if porteurs:
