@@ -36,6 +36,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
+| [generer-icones.py](generer-icones.py) | Dessine les icônes de l'application iPhone et iPad dans `docs/assets/icones/` (demande Pillow) |
 | [generer-manuel.py](generer-manuel.py) | Hors service : assemblait l'ancien manuel d'un seul tenant |
 | [formater-markdown.py](formater-markdown.py) | Met les listes en forme pour qu'elles s'affichent pareil sur GitHub et sur le site |
 

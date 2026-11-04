@@ -25,3 +25,14 @@ a[href$=".m4a"].audio-en-cours::after { content: " 🔊"; }
 
 /* Schémas de positions en vignette dans les tableaux (glossaire) */
 .md-typeset table img[src*="images/sogi/"] { width: 130px; max-width: none; }
+
+/* Application installable : avis de téléchargement hors ligne (assets/pwa.js) */
+.pwa-avis {
+  position: fixed; left: 50%; transform: translateX(-50%);
+  bottom: calc(1rem + env(safe-area-inset-bottom)); z-index: 10;
+  max-width: calc(100% - 2rem); padding: .5em 1em; border-radius: .3rem;
+  background: var(--md-default-fg-color); color: var(--md-default-bg-color);
+  font-size: .7rem; box-shadow: var(--md-shadow-z2);
+}
+.pwa-avis[hidden] { display: none; }
+@media print { .pwa-avis, #pwa-etat { display: none !important; } }

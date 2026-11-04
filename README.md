@@ -19,6 +19,7 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 * **Traduction au survol** — survoler (ou toucher) un terme coréen souligné en pointillé affiche sa traduction.
 * **Mode révision** — chaque examen théorique propose « Je savais / À revoir » après chaque corrigé, tient le score et permet de ne revoir que les questions ratées.
 * **Impression et PDF** — le bouton « Imprimer / PDF » des fiches d'examen imprime la page, corrigés dépliés, ou l'enregistre en PDF.
+* **Application iPhone et iPad** — le site s'installe sur l'écran d'accueil depuis Safari et fonctionne ensuite sans connexion, audio compris : voir [Application iPhone et iPad](Application.md).
 * **Hors ligne** — [hors-ligne.zip](https://outils.hosinsul.ca/hors-ligne.zip) contient tout le site, audio compris : décompresser, puis ouvrir `index.html`.
 
 ---
