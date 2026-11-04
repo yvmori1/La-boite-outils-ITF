@@ -15,7 +15,7 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 | Répertoire | Contenu | Fiches |
 | :--- | :--- | :--- |
-| [Ceintures](Ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
+| [Requis Examen](Ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
 | [tul](tul/README.md) | Les formes (Tul) et exercices fondamentaux, mouvement par mouvement | 28 |
 | [chagi](chagi/README.md) | Les coups de pied — [차기](audio/termes/차기.m4a) | 48 |
 | [makgi](makgi/README.md) | Les blocages — [막기](audio/termes/막기.m4a) | 44 |
