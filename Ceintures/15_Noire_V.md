@@ -1,9 +1,7 @@
 # FICHE D'ÉTUDE : CEINTURE NOIRE — 5e Degré (Dan)
 
-CEINTURE NOIRE — 5e Degré (Dan)
-
-* **Temps d'attente minimum et Heures :** Minimum de cinq ans (60 mois / 5 ans) d'attente active depuis l'obtention du 5e Dan ITF.
-* **Signification du Grade :** Le sommet technique et de dévouement pédagogique avant le rang de Maître (Sahyun). Exige une thèse approfondie de 20 pages.
+* **Temps d'attente minimum et Heures :** Minimum de cinq ans (60 mois / 5 ans) d'attente active depuis l'obtention du 5e Dan ITF, avant de se présenter au 6e Dan.
+* **Signification du Grade :** Instructeur international confirmé (Sabum). Le pratiquant approfondit son enseignement et prépare le 6e Dan, dernier degré avant le rang de Maître. Le passage au 6e Dan exige une thèse approfondie de 20 pages.
 
 ---
 

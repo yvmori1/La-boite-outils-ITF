@@ -13,7 +13,7 @@
 
 ## Liste Détaillée des Mouvements
 
-### Posture de départ : Position de préparation fermée C (Closed Ready Stance C / Moa Junbi Sogi C).
+### Posture de départ : position de préparation fermée C (*Moa Junbi Sogi C*).
 
 1. Déplacer le pied droit vers AC pour former une position assise vers AD tout en exécutant un blocage pressant moyen vers AD avec la paume gauche ([Annun So Sonbadak Kaunde Miro Makgi](../Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.md)).
 2. Exécuter un coup de poing moyen vers AD avec le poing droit tout en maintenant la position assise ([Annun So Kaunde Bandae Jirugi](../Techniques/Annun-So-Kaunde-Bandae-Jirugi.md)).

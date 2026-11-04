@@ -1,10 +1,7 @@
 # FICHE D'ÉTUDE : CEINTURE NOIRE — 1er Degré (Dan)
 
-CEINTURE NOIRE — 1er Degré (Dan)
-
-* **Temps d'attente minimum et Heures :** Minimum d'un an et demi (18 mois / 1.5 an) d'attente active depuis l'obtention du 1er Dan ITF.
-* **Signification du Grade :** L'opposé de la ceinture blanche; symbolise la maturité et la maîtrise technique du Taekwon-Do. C'est également le début d'un nouveau cycle d'apprentissage.
-* **Signification du Grade :** Le développement de l'expertise technique et théorique. Le candidat approfondit sa compréhension de l'Encyclopédie.
+* **Temps d'attente minimum et Heures :** Minimum d'un an et demi (18 mois / 1,5 an) d'attente active depuis l'obtention du 1er Dan ITF, avant de se présenter au 2e Dan.
+* **Signification du Grade :** L'opposé de la ceinture blanche ; symbolise la maturité et la maîtrise technique du Taekwon-Do. C'est aussi le début d'un nouveau cycle d'apprentissage : le pratiquant développe son expertise technique et théorique et approfondit sa compréhension de l'Encyclopédie.
 
 ---
 

@@ -1,8 +1,6 @@
 # FICHE D'ÉTUDE : CEINTURE NOIRE — 2e Degré (Dan)
 
-CEINTURE NOIRE — 2e Degré (Dan)
-
-* **Temps d'attente minimum et Heures :** Minimum de deux ans (24 mois / 2 ans) d'attente active depuis l'obtention du 2e Dan ITF.
+* **Temps d'attente minimum et Heures :** Minimum de deux ans (24 mois / 2 ans) d'attente active depuis l'obtention du 2e Dan ITF, avant de se présenter au 3e Dan.
 * **Signification du Grade :** L'acquisition d'une rigueur absolue et de l'esprit d'indépendance de l'adepte.
 
 ---

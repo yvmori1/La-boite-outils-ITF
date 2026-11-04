@@ -37,6 +37,8 @@ Les fiches sont cumulatives : un grade suppose la maîtrise de tous les précéd
 
 ## Grades Dan (ceinture noire)
 
+Chaque fiche Dan s'adresse au titulaire du degré : elle donne les formes de ce degré et les exigences pour se présenter au degré suivant.
+
 | Fiche | Degré | Formes du niveau |
 | :--- | :--- | :--- |
 | [11_Noire_I.md](11_Noire_I.md) | 1er Dan | Kwang-Gae, Po-Eun, Ge-Baek |

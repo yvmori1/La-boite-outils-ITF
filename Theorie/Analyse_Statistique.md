@@ -1,98 +1,99 @@
-# Analyse Statistique et Stratégique des Formes du Taekwon-Do ITF
+# Analyse statistique des formes
 
-De la Théorie à la Maîtrise (Loi 20/80)
+Combien de fois chaque position et chaque technique revient-elle dans les formes du Taekwon-Do ITF ? Cette page répond par des comptes, tirés des fiches de [tul](../tul/README.md) du site.
 
-## 1. Introduction à l'Architecture Technique du Style Chang-Hun
+## Méthode
 
-Le Taekwon-Do ITF, tel que codifié par le Général Choi Hong Hi, ne doit pas être perçu comme une simple chorégraphie, mais comme une architecture systémique rigoureuse. En tant que Grand Maître, j'analyse les 24 Tuls non pas comme des suites de mouvements, mais comme une base de données stratégique optimisée pour l'efficacité biomécanique. L'analyse fréquentielle de ce répertoire révèle une intention claire : chaque mouvement est un vecteur de force calculé.La progression, du 10e Gup au 6e Dan, n'est pas une simple montée en complexité, mais une accumulation statistique de solutions motrices. Dès les exercices fondamentaux comme  *Saju Jirugi*  et  *Saju Makgi* , le système établit la domination de structures spécifiques qui serviront de piliers à l'ensemble du syllabus. La maîtrise commence par l'identification chirurgicale de ce noyau technique — les 20 % de techniques qui génèrent 80 % de l'efficacité en forme. Cette rationalisation débute impérativement par la science des positions, fondation de toute puissance.
+Chaque mouvement des 28 fiches de formes (les 24 tuls, Ko-Dang et les trois exercices Saju) renvoie par un lien à la fiche de sa technique. Le script `scripts/statistiques-formes.py` compte le nom coréen porté par ces liens : **1 048 techniques nommées** pour 1 030 mouvements (un mouvement peut en enchaîner deux). Le côté (*Wen*, *Orun*) est ignoré ; tout le reste du nom distingue les techniques.
 
-## 2. Analyse Quantitative des Positions (Sogi)
+Les chiffres décrivent donc les fiches du site, pas un relevé officiel de l'ITF. Ils changent si une fiche de forme est corrigée : il suffit alors de relancer le script.
 
-Dans le système ITF, la position ( *Sogi* ) est l'unité de mesure de la stabilité dynamique. Elle est le moteur de la Force de Réaction et le garant de l'équilibre. Une analyse des 24 Tuls démontre une hiérarchie stricte des postures selon leur utilité tactique.
+## 1. Les positions (Sogi)
 
-### Tableau de Fréquence — Les Positions (Sogi)
+| Position | Occurrences | Part |
+| :--- | ---: | ---: |
+| Gunnun Sogi (marche) | 371 | 35,4 % |
+| Niunja Sogi (en L) | 216 | 20,6 % |
+| Sans position nommée | 202 | 19,3 % |
+| Annun Sogi (assise) | 125 | 11,9 % |
+| Dwitbal Sogi (pied arrière) | 33 | 3,1 % |
+| Kyocha Sogi (croisée) | 30 | 2,9 % |
+| Moa Sogi (fermée) | 18 | 1,7 % |
+| Gojung Sogi (fixe) | 16 | 1,5 % |
+| Narani Sogi (parallèle) | 13 | 1,2 % |
+| Waebal Sogi (sur une jambe) | 10 | 1,0 % |
+| Nachuo Sogi (basse) | 9 | 0,9 % |
+| Sasun Sogi (diagonale) | 3 | 0,3 % |
+| Soojik Sogi (verticale) | 2 | 0,2 % |
 
-| Position (Sogi)              | Fréquence | Utilisation Stratégique et Biomécanique                                 |
-| ---------------------------- | --------- | ----------------------------------------------------------------------- |
-| Gunnun Sogi  (Marche)        | Critique  | Génération de puissance par onde sinusoïdale (Sine Wave).               |
-| Niunja Sogi  (En L)          | Critique  | Pivot tactique, transition défense-attaque (70% du poids arrière).      |
-| Moa Sogi  (Fermée)           | Haute     | Présente dans presque toutes les postures de préparation (A, B, C, D).  |
-| Annun Sogi  (Assise)         | Moyenne   | Stabilité latérale et renforcement des adducteurs ( Yul-Gok ).          |
-| Dwitbal Sogi  (Pied arrière) | Moyenne   | Esquive et préparation balistique ( Joong-Gun ,  Choi-Yong ).           |
-| Gojung Sogi  (Fixe)          | Moyenne   | Stabilité lors de glissements offensifs puissants ( Won-Hyo  \#3, \#6). |
-| Kyocha Sogi  (En X)          | Basse     | Atterrissage de saut et changement d'angle ( Do-San ,  Joong-Gun ).     |
+Trois positions portent près de 70 % des techniques : la position de marche (*Gunnun Sogi*), la position en L (*Niunja Sogi*) et la position assise (*Annun Sogi*). La ligne « Sans position nommée » regroupe surtout les coups de pied, dont le nom n'indique pas de position, et les techniques qui gardent la position du mouvement précédent.
 
-### Évaluation des Différenciateurs
+*Chon-Ji* montre cette répartition dès le 9e Gup : ses huit premiers mouvements se font en position de marche, les suivants alternent la position en L pour les blocages et la position de marche pour les coups de poing.
 
-L'omniprésence de la  **Gunnun Sogi**  (Position de marche) dès le premier mouvement de  *Saju Jirugi*  et de  *Chon-Ji*  n'est pas un hasard : elle est le vecteur primaire de la puissance linéaire. Cependant, observez la transition critique dans  *Chon-Ji*  : après huit mouvements en  *Gunnun Sogi* , le système introduit la  **Niunja Sogi**  (mouvements 9 à 16). Ce passage marque l'évolution du pratiquant d'une force brute vers une mobilité tactique. La position en L devient alors le "refuge tactique" dominant pour les blocages de garde, permettant une économie de mouvement indispensable à la survie.
+## 2. Les grandes familles de techniques
 
-## 3. Cartographie des Techniques d'Attaque (Jirugi, Taerigi, Tulgi)
+| Famille | Occurrences | Part |
+| :--- | ---: | ---: |
+| Blocages | 424 | 40,5 % |
+| Attaques de la main et du coude | 423 | 40,4 % |
+| Coups de pied | 151 | 14,4 % |
+| Positions seules (préparation) | 32 | 3,1 % |
+| Autres (sauts, saisies, déplacements) | 18 | 1,7 % |
 
-La sélection de l'outil d'attaque est une science de précision biomécanique. Chaque frappe dans les Tuls est calibrée pour un transfert d'énergie maximal vers une cible vitale spécifique.
+Blocages et attaques de la main s'équilibrent presque exactement. Les coups de pied ne représentent qu'un septième des techniques des formes, alors qu'ils dominent le combat libre.
 
-### Tableau de Fréquence — Attaques de Main
+## 3. Les attaques de la main et du coude
 
-| Technique                    | Type                    | Fréquence | Remarque Technique                                        |
-| ---------------------------- | ----------------------- | --------- | --------------------------------------------------------- |
-| Kaunde Jirugi                | Poing Moyen             | Absolue   | Le ""Gold Standard"" de la synchronisation hanche-impact. |
-| Nopunde Jirugi               | Poing Haut              | Haute     | Ciblage de la zone haute ( Dan-Gun  \#2).                 |
-| Sonkal Bakuro Taerigi        | Tranchant (Ext.)        | Haute     | Frappe latérale de puissance ( Dan-Gun  \#18).            |
-| Sonkal Nopunde Anuro Taerigi | Tranchant (Int.)        | Moyenne   | Trajectoire convergente spécifique ( Won-Hyo  \#2).       |
-| Sun Sonkut Tulgi             | Pique (Bout des doigts) | Moyenne   | Précision sur les points mous ( Do-San  \#6).             |
+| Attaques de la main et du coude | Occurrences | Part |
+| :--- | ---: | ---: |
+| Gunnun so kaunde jirugi | 42 | 4,0 % |
+| Gunnun so kaunde bandae jirugi | 34 | 3,2 % |
+| Gunnun so nopunde jirugi | 18 | 1,7 % |
+| Annun so joomuk kaunde jirugi | 18 | 1,7 % |
+| Niunja so kaunde baro jirugi | 14 | 1,3 % |
+| Niunja so yop palkup tulgi | 13 | 1,2 % |
+| Niunja so sonkal kaunde bakuro taerigi | 10 | 1,0 % |
+| Gunnun so sang joomuk nopunde sewo jirugi | 10 | 1,0 % |
 
-### Analyse "So What?"
+Le coup de poing moyen en position de marche (*Gunnun So Kaunde Jirugi*), avant ou inversé, est de loin l'attaque la plus fréquente : on le retrouve dans presque toutes les formes, de *Saju Jirugi* à *Tong-Il*.
 
-Le  **Kaunde Jirugi**  n'est pas une simple frappe ; c'est l'étalon biomécanique du style Chang-Hun. Il impose la coordination parfaite entre le pivot de la hanche, l'onde sinusoïdale et l'instant de l'impact ( *Kitcho* ). Même lorsque le syllabus se complexifie avec des piques ( *Tulgi* ) ou des attaques en main ouverte, le  *Kaunde Jirugi*  demeure le socle sur lequel repose la structure de l'expert. Ignorer sa perfection, c'est condamner l'ensemble de son arsenal à l'inefficacité.
+## 4. Les blocages
 
-## 4. Analyse Systémique des Blocages et de la Protection (Makgi)
+| Blocages | Occurrences | Part |
+| :--- | ---: | ---: |
+| Niunja so sonkal kaunde daebi makgi | 42 | 4,0 % |
+| Niunja so palmok kaunde daebi makgi | 24 | 2,3 % |
+| Gunnun so an palmok dollimyo makgi | 14 | 1,3 % |
+| Gunnun so palmok najunde makgi | 13 | 1,2 % |
+| Annun so bakat palmok san makgi | 13 | 1,2 % |
+| Gunnun so palmok chookyo makgi | 12 | 1,1 % |
+| Niunja so sonkal najunde daebi makgi | 10 | 1,0 % |
+| Gunnun so bakat palmok nopunde yop makgi | 10 | 1,0 % |
 
-La philosophie défensive de l'ITF transforme le blocage ( *Makgi* ) en une interception offensive. Nous ne bloquons pas pour absorber, mais pour briser la structure adverse.
+Le blocage de garde moyen en position en L, du tranchant de la main (*Sonkal Daebi Makgi*) ou de l'avant-bras (*Palmok Daebi Makgi*), est le blocage le plus répété des formes.
 
-### Tableau de Fréquence — Les Blocages
+## 5. Les coups de pied
 
-| Blocage (Makgi)        | Niveau   | Fréquence | Contextualisation Source                                   |
-| ---------------------- | -------- | --------- | ---------------------------------------------------------- |
-| Palmok Najunde Makgi   | Bas      | Critique  | Fondement de la protection basse ( Saju Jirugi ).          |
-| Sonkal Daebi Makgi     | Moyen    | Haute     | Garde tactique standard en position en L ( Dan-Gun  \#1).  |
-| An Palmok Kaunde Makgi | Moyen    | Haute     | Blocage intérieur, pilier de la défense ( Chon-Ji  \#9).   |
-| Palmok Chookyo Makgi   | Haut     | Haute     | Protection ascendant contre frappe haute ( Dan-Gun  \#14). |
-| Kyocha Joomuk Makgi    | Variable | Moyenne   | Blocage en X, absorption de puissance ( Joong-Gun  \#13).  |
+| Coups de pied | Occurrences | Part |
+| :--- | ---: | ---: |
+| Kaunde yopcha jirugi | 28 | 2,7 % |
+| Nopunde yopcha jirugi | 13 | 1,2 % |
+| Nopunde bandae dollyo gorochagi | 10 | 1,0 % |
+| Kaunde apcha busigi | 10 | 1,0 % |
+| Najunde apcha busigi | 10 | 1,0 % |
+| Kaunde dollyo chagi | 7 | 0,7 % |
+| Nopunde dollyo chagi | 6 | 0,6 % |
+| Kaunde dwitcha jirugi | 6 | 0,6 % |
 
-### Synthèse Stratégique
+Le coup de pied latéral perçant (*Yopcha Jirugi*) est le plus fréquent, suivi du coup de pied avant (*Apcha Busigi*). Le coup de pied circulaire (*Dollyo Chagi*), très présent en combat, reste rare dans les formes.
 
-Le système privilégie les blocages de l'avant-bras ( **Palmok** ) pour leur robustesse structurelle, tandis que le tranchant de la main ( **Sonkal** ) est réservé aux gardes de transition ( *Daebi Makgi* ). Le  *Palmok Najunde Makgi*  est la base de toute force descendante. L'analyse des formes supérieures montre que le système favorise l'économie de mouvement : un blocage réussi doit positionner le pratiquant pour une contre-attaque immédiate sans réajustement de la base.
+## 6. Un petit noyau, un long répertoire
 
-## 5. Dynamique des Coups de Pied (Chagi)
+Les 1 048 techniques nommées correspondent à **303 techniques distinctes**. Les 42 plus fréquentes (14 %) couvrent la moitié des occurrences ; il en faut 151 (50 %) pour atteindre 80 %.
 
-Le Taekwon-Do ITF est synonyme de supériorité balistique des membres inférieurs. Les Tuls introduisent ces techniques comme des vecteurs de pénétration plus que de simples percussions.
+La « loi des 20/80 » ne s'applique donc pas aux formes : un noyau d'une quarantaine de techniques en fait la moitié, mais le reste du répertoire est très étalé, et chaque forme supérieure apporte des techniques qu'on ne retrouve presque nulle part ailleurs. Travailler ce noyau avec soin est utile, sans dispenser d'apprendre le reste.
 
-### Tableau de Fréquence — Les Coups de Pied
+## Voir aussi
 
-| Coup de Pied (Chagi) | Fréquence | Caractéristique Tactique                                      |
-| -------------------- | --------- | ------------------------------------------------------------- |
-| Apcha Busigi         | Haute     | Rapidité et percussion frontale ( Do-San  \#14).              |
-| Yopcha Jirugi        | Haute     | Pénétration linéaire et puissance maximale ( Won-Hyo  \#8).   |
-| Dollyo Chagi         | Moyenne   | Attaque circulaire, contournement de garde ( Hwa-Rang  \#18). |
-| Dwitcha Jirugi       | Basse     | Contre-attaque de puissance aveugle ( Choong-Moo  \#15).      |
-
-### Évaluation de l'Efficacité
-
-Contrairement au combat de compétition sportif, l'analyse fréquentielle des Tuls valorise le  **Yopcha Jirugi**  (Coup de pied de côté) au détriment du circulaire. Cela révèle la préférence du style pour les attaques linéaires de puissance capables de briser une garde, plutôt que pour la simple touche. Le coup de pied de côté, tel qu'enseigné dans  *Won-Hyo*  ou  *Yul-Gok* , exige une stabilité parfaite de la jambe d'appui, renforçant ainsi la structure globale du combattant.
-
-## 6. La Loi du 20/80 appliquée à la Maîtrise (Loi de Pareto)
-
-En tant qu'analyste, j'identifie le  **"Noyau de Maîtrise"**  : les 15 éléments qui constituent l'ADN du style Chang-Hun. Maîtriser ces 20 % permet de répondre à 80 % des situations de combat.
-
-### Le Noyau de Maîtrise (Core 15)
-
-1. **5 Positions :**  Gunnun, Niunja, Annun, Moa, Dwitbal.  
-2. **5 Blocages :**  Palmok Najunde, Sonkal Daebi, Palmok Chookyo, An Palmok Kaunde, Kyocha Joomuk.  
-3. **5 Attaques :**  Kaunde Jirugi, Nopunde Jirugi, Sonkal Taerigi (Bakuro), Sun Sonkut Tulgi, Dung Joomuk Taerigi.
-
-### Directives d'Entraînement
-
-Un instructeur sérieux doit consacrer 80 % du temps de pratique à la perfection millimétrée de ces 15 éléments. La maîtrise absolue de ce noyau permet une "transférabilité mécanique" : une hanche qui pivote parfaitement pour un  *Kaunde Jirugi*  générera naturellement la puissance nécessaire pour un  *Sun Sonkut Tulgi* . L'expert ne collectionne pas les techniques ; il les distille jusqu'à l'excellence.
-
-## 7. Conclusion : Synthèse de l'Expert
-
-L'analyse statistique des formes du Taekwon-Do ITF prouve que notre art est une science de l'optimisation. Ce n'est pas un système d'accumulation, mais de distillation. Chaque Tul est une leçon de stratégie où la répétition des structures fondamentales (le 20 %) est la clé de la domination technique. J'exhorte les instructeurs à revenir systématiquement au Manuel Technique Officiel. La rigueur dans l'analyse des sources est la seule voie pour préserver l'intégrité et l'efficacité de l'École Chang-Hun. La maîtrise n'est pas le fruit du hasard, mais celui d'une analyse froide et d'une pratique acharnée des fondamentaux. Taekwon.  
+* [Les formes une à une](manuel/partie-6-formes-tul/24-les-formes-une-a-une.md) — sens et histoire de chaque forme.
+* [Techniques](../Techniques/README.md) — la fiche de chacune des techniques citées.
