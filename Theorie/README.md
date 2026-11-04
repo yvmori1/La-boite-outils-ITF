@@ -48,7 +48,7 @@ le manuel, au [chapitre 5](manuel/partie-1-art-et-voie/05-le-dobok-et-les-ceintu
 ## Enseignement et analyse
 
 * [Programme de session](programme-session/README.md) — programme de session (H25) du Club de Taekwon-Do de Blainville : [plan de cours sur 12 semaines](programme-session/01-plan-de-cours.md) et [exigences des examens](programme-session/02-exigences-des-examens.md), adultes et enfants.
-* [Analyse statistique des formes](Analyse_Statistique.md) — fréquence des techniques, répartition par famille, tendances par grade.
+* [Analyse statistique des formes](Analyse_Statistique.md) — fréquence des positions et des techniques dans les formes, répartition par famille.
 
 ## Fiches versées au manuel
 

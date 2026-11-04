@@ -16,7 +16,7 @@
 
 ## Origine et contexte historique
 
-* **Contexte socio-philosophique :** Conçu à l'origine sous le nom de *Ko-Dang* (en l'honneur de Cho Man-Shik), ce Tul fut renommé *Juche* par le Général Choi pour exprimer l'esprit d'indépendance nationale totale et de souveraineté de la Corée face à l'influence culturelle et politique des grandes puissances mondiales (États-Unis, URSS, Chine).
+* **Contexte :** *Juche* a remplacé *Ko-Dang* au programme du 2e Dan dans les années 1980. Ce n'est pas un simple changement de nom : ce sont deux formes différentes. *Ko-Dang*, dédiée au patriote Cho Man-Shik, compte 39 mouvements ; *Juche* en compte 45. Certaines écoles enseignent encore *Ko-Dang* (voir [sa fiche](ko-dang.md)).
 
 ## Liste Détaillée des Mouvements
 

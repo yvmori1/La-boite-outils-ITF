@@ -1,9 +1,7 @@
-# FICHE D'ÉTUDE :CEINTURE NOIRE — 3e Degré (Dan)
+# FICHE D'ÉTUDE : CEINTURE NOIRE — 3e Degré (Dan)
 
-CEINTURE NOIRE — 3e Degré (Dan)
-
-* **Temps d'attente minimum et Heures :** Minimum de trois ans (36 mois / 3 ans) d'attente active depuis l'obtention du 3e Dan ITF.
-* **Signification du Grade :** Le grade de Sabum (Instructeur International). Le candidat franchit un seuil de responsabilité morale et pédagogique majeure, collabore activement et enseigne officiellement.
+* **Temps d'attente minimum et Heures :** Minimum de trois ans (36 mois / 3 ans) d'attente active depuis l'obtention du 3e Dan ITF, avant de se présenter au 4e Dan.
+* **Signification du Grade :** Le dernier degré avant le titre de Sabum (instructeur international), décerné au 4e Dan. Le candidat franchit un seuil de responsabilité morale et pédagogique majeure, collabore activement et enseigne officiellement.
 
 ---
 

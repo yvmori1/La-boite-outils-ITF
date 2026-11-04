@@ -1,4 +1,4 @@
-# SAJU TULGI (EXERCICE FONDAMENTAL — QUATRE DIRECTIONS ATTAQUE)
+# SAJU TULGI (EXERCICE FONDAMENTAL — QUATRE DIRECTIONS PIQUE)
 
 > 🔊 **Prononciation :** [사주 뚫기](../audio/tul/saju-tulgi.m4a)
 
@@ -17,7 +17,7 @@
 
 ## Liste Détaillée des Mouvements
 
-### Posture de départ : **Moa Junbi Sogi C** Position fermée « C » (Close Ready Stance C / Moa Sogi C / [모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) C) face à D.
+### Posture de départ : position de préparation fermée C (*Moa Junbi Sogi C*, [모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-C.m4a) C) face à D.
 
 1. Pivoter à 180° vers la gauche, reculer le pied droit en position en L à droite face à C. Bloquer/frapper avec le coude droit latéralement.
 **→ ([Orun Niunja So Orun Yop Palkup Tulgi](../Techniques/Niunja-So-Yop-Palkup-Tulgi.md))**

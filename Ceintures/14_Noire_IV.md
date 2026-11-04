@@ -1,8 +1,6 @@
-# FICHE D'ÉTUDE :CEINTURE NOIRE — 4e Degré (Dan)
+# FICHE D'ÉTUDE : CEINTURE NOIRE — 4e Degré (Dan)
 
- CEINTURE NOIRE — 4e Degré (Dan)
-
-* **Temps d'attente minimum et Heures :** Minimum de quatre ans (48 mois / 4 ans) d'attente active depuis l'obtention du 4e Dan ITF.
+* **Temps d'attente minimum et Heures :** Minimum de quatre ans (48 mois / 4 ans) d'attente active depuis l'obtention du 4e Dan ITF, avant de se présenter au 5e Dan.
 * **Signification du Grade :** L'entrée dans l'excellence académique. Le candidat rédige et soutient une thèse académique majeure sur le Taekwon-Do.
 
 ---

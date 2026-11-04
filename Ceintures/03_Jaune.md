@@ -75,7 +75,7 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
 
-* **Réponse :** Elle comporte **21 mouvements** et s'exécute sur le diagramme en **I (I-Stance / Hanja ou lettre majuscule I)**.
+* **Réponse :** Elle comporte **21 mouvements** et s'exécute sur le diagramme en **I (Hanja ou lettre majuscule I)**.
 
 </details>
 

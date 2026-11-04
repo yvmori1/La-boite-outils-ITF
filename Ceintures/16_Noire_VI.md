@@ -1,7 +1,7 @@
 # FICHE D'ÉTUDE : CEINTURE NOIRE — 6e Degré (Dan)
 
-* **Temps d'attente minimum et Heures :** Minimum de cinq ans (72 mois / 6 ans) d'attente active depuis l'obtention du 6e Dan ITF.
-* **Signification du Grade :** Le sommet technique et de dévouement pédagogique avant le rang de Maître (Sahyun). Exige une thèse approfondie de 20 pages.
+* **Temps d'attente minimum et Heures :** Minimum de six ans (72 mois / 6 ans) d'attente active depuis l'obtention du 6e Dan ITF, avant de se présenter au 7e Dan.
+* **Signification du Grade :** Le dernier degré avant le rang de Maître (Sahyun, 7e Dan). Le passage au 7e Dan exige une thèse approfondie de 20 pages.
 
 ---
 

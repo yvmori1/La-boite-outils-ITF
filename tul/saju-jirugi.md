@@ -19,7 +19,7 @@
 
 ## Liste Détaillée des Mouvements
 
-### Posture de départ : Position parallèle de préparation (Parallel Ready Stance / Narani Junbi Sogi).
+### Posture de départ : position parallèle de préparation (*Narani Junbi Sogi*).
 
 1. Avancer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit ([Gunnun So Kaunde Jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md)).
 2. Déplacer le pied droit vers A pour former une position de marche gauche vers B tout en exécutant un blocage bas vers B avec l'avant-bras gauche ([Gunnun So Palmok Najunde Makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md)).
@@ -29,4 +29,4 @@
 6. Déplacer le pied droit vers B pour former une position de marche gauche vers A tout en exécutant un blocage bas vers A avec l'avant-bras gauche ([Gunnun So Palmok Najunde Makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md)).
 7. Avancer le pied droit vers A pour former une position de marche droite vers A tout en exécutant un coup de poing moyen vers A avec le poing droit ([Gunnun So Kaunde Jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md)).
 
-### FIN : Ramener le pied droit vers l'arrière en posture de départ (Ready Posture).
+### FIN : ramener le pied droit vers l'arrière à la posture de départ.
