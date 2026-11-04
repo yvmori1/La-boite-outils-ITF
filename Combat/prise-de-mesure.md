@@ -60,7 +60,7 @@ directe — poing, tranchant de la main, pique des doigts ou coup de pied — en
 seul pas décisif, en position de marche (*Gunnun Sogi*) ou en position en L
 (*Niunja Sogi*). À ce niveau avancé, la mesure visible au pied s'efface : les
 pratiquants se placent directement à une distance d'un pas, en garde de combat
-(*Matsogi Junbi Sogi*), et l'évaluation porte sur leur capacité à estimer la
+(*Matsogi Junbi Sogi*, [맞서기 준비](../audio/combats/Matsogi-Junbi.m4a)), et l'évaluation porte sur leur capacité à estimer la
 distance juste (*Gori*) à l'œil, sans repère géométrique préalable. Les repères
 ci-dessous restent la référence de l'apprentissage.
 

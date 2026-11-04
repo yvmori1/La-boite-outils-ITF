@@ -7,7 +7,7 @@ Diagrammes et schémas référencés par les fiches du dépôt : **diagrammes de
 ## Positions (*Sogi*)
 
 Les schémas cotés des 21 positions, générés par
-[../scripts/generer-sogi.py](../scripts/generer-sogi.py), sont dans
+[scripts/generer-sogi.py](https://github.com/yvmori1/La-boite-outils-ITF/blob/main/scripts/generer-sogi.py), sont dans
 [sogi/](sogi/README.md) : ce sont eux que référence désormais la partie IV du
 [manuel](../Theorie/manuel/partie-4-positions-sogi/README.md). Les images ci-dessous sont les schémas d'origine, conservés
 pour mémoire.
