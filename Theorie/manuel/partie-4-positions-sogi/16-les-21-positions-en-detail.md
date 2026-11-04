@@ -1,6 +1,6 @@
 # 16. Les 21 positions en détail
 
-Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du poids et le schéma d'alignement coté. Les schémas sont générés par [../scripts/generer-sogi.py](../../../scripts/generer-sogi.py) ; les longueurs y sont exprimées en largeurs d'épaule.
+Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du poids et le schéma d'alignement coté. Les schémas sont générés par [scripts/generer-sogi.py](https://github.com/yvmori1/La-boite-outils-ITF/blob/main/scripts/generer-sogi.py) ; les longueurs y sont exprimées en largeurs d'épaule.
 
 ## 16.1 Position d'attente (Junbi Sogi)
 
