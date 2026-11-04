@@ -13,7 +13,7 @@ Aucun App Store ni compte n'est nécessaire.
 3. Choisir **Sur l'écran d'accueil** (faire défiler la liste au besoin), puis **Ajouter**.
 4. Ouvrir l'application **Outils ITF** depuis l'écran d'accueil, **connecté au Wi-Fi**.
 
-Au premier lancement, l'application enregistre le site entier sur l'appareil, ce qui prend quelques minutes (environ 40 Mo à télécharger, 180 Mo d'espace occupé). Un avis en bas de l'écran suit l'avancement. Si l'application est fermée avant la fin, le téléchargement reprend au lancement suivant.
+Au premier lancement, l'application enregistre le site entier sur l'appareil, ce qui prend une minute ou deux (environ 15 Mo à télécharger, 35 Mo d'espace occupé). Un avis en bas de l'écran suit l'avancement. Si l'application est fermée avant la fin, le téléchargement reprend au lancement suivant.
 
 !!! note "Safari et l'application sont séparés"
     L'application installée garde ses propres fichiers, distincts de ceux de Safari : c'est **depuis l'application** qu'il faut faire le premier téléchargement.
