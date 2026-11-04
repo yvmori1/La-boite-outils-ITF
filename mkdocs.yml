@@ -80,6 +80,9 @@ hooks:
   # Traduction des termes coréens au survol : charge includes/infobulles.md
   # dans l'extension abbr (fichier produit par scripts/generer-infobulles.py).
   - hooks/infobulles.py
+  # Application installable (iPhone, iPad) utilisable hors ligne : manifeste,
+  # balises Apple et liste des fichiers pour le service worker (docs/sw.js).
+  - hooks/pwa.py
 
 markdown_extensions:
   - abbr
@@ -116,6 +119,7 @@ extra_javascript:
   - assets/audio.js
   - assets/quiz.js
   - assets/impression.js
+  - assets/pwa.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 # Signale les liens internes cassés pendant la construction, sans la bloquer.
