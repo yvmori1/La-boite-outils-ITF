@@ -12,6 +12,10 @@ copyright: La boîte à outils ITF
 # des liens symboliques vers ces dossiers, plus les fichiers propres au site.
 docs_dir: docs
 site_dir: site
+# Version hors ligne (zip téléchargeable) : le déploiement reconstruit le site
+# avec HORS_LIGNE=true, ce qui active le greffon « offline » et des adresses
+# en .html lisibles sans serveur.
+use_directory_urls: !ENV [ADRESSES_DOSSIERS, true]
 
 theme:
   name: material
@@ -30,6 +34,8 @@ theme:
     - search.highlight
     - search.share
     - content.action.edit
+    # traduction des termes coréens au survol (voir includes/infobulles.md)
+    - content.tooltips
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -49,6 +55,9 @@ theme:
 plugins:
   - search:
       lang: fr
+  # Version hors ligne : désactivé sauf quand HORS_LIGNE=true.
+  - offline:
+      enabled: !ENV [HORS_LIGNE, false]
   # Lit docs/.pages pour l'ordre et les titres des sections du menu.
   - awesome-pages
   # Garde valides les anciennes adresses des pages déplacées.
@@ -66,6 +75,11 @@ plugins:
 # Date de la dernière mise à jour sur la page d'accueil.
 hooks:
   - hooks/date_mise_a_jour.py
+  # Variantes de romanisation (Dolyo, Chirugi…) dans l'index de recherche.
+  - hooks/recherche_variantes.py
+  # Traduction des termes coréens au survol : charge includes/infobulles.md
+  # dans l'extension abbr (fichier produit par scripts/generer-infobulles.py).
+  - hooks/infobulles.py
 
 markdown_extensions:
   - abbr
@@ -93,9 +107,15 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+extra_css:
+  - assets/site.css
+
 extra_javascript:
   - assets/mathjax.js
   - assets/anciennes-ancres.js
+  - assets/audio.js
+  - assets/quiz.js
+  - assets/impression.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 # Signale les liens internes cassés pendant la construction, sans la bloquer.

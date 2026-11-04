@@ -35,6 +35,18 @@ jobs:
       - name: Construire le site
         run: mkdocs build
 
+      # Copie du site lisible sans connexion (au dojang, par exemple) :
+      # pages en .html, recherche intégrée, audio compris. Publiée en
+      # hors-ligne.zip à la racine du site.
+      - name: Construire la version hors ligne
+        env:
+          HORS_LIGNE: "true"
+          ADRESSES_DOSSIERS: "false"
+        run: |
+          mkdocs build --site-dir /tmp/hors-ligne
+          rm -f /tmp/hors-ligne/CNAME
+          (cd /tmp/hors-ligne && zip -qr "$GITHUB_WORKSPACE/site/hors-ligne.zip" .)
+
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v5
 

@@ -10,7 +10,7 @@
   1. index de Techniques/           (les fiches ont pu changer)
   2. compteurs du README racine     (d'après le contenu réel des dossiers)
   3. graphies normalisées           (variantes sans ambiguïté)
-  4. liens des formes vers les fiches
+  4. liens des formes vers les fiches, puis infobulles du glossaire
   5. prononciations et liens audio  (fiches, manuel, pages de Combat/)
   6. réparation des audio manquants
   7. mise en forme Markdown         (listes lisibles sur GitHub et le site)
@@ -130,6 +130,8 @@ def main():
         ("compteurs du README", lambda: compteurs(args.write)),
         ("graphies normalisées", lambda: graphies(args.write)),
         ("liens des formes", lambda: lancer("lier-mouvements.py", [], args.write)),
+        ("infobulles du glossaire",
+         lambda: lancer("generer-infobulles.py", [], args.write)),
     ]
     if not args.sans_audio:
         # hors macOS, pas de synthèse : on lie seulement les hangul dont

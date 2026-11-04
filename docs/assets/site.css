@@ -1,0 +1,24 @@
+/* Lien audio en cours de lecture */
+a[href$=".m4a"].audio-en-cours { font-weight: 700; }
+a[href$=".m4a"].audio-en-cours::after { content: " 🔊"; }
+
+/* Mode révision des examens */
+.quiz-choix .md-button { padding: .3em .9em; margin: .2em 0; font-size: .7rem; }
+.quiz-choix .md-button[aria-pressed="true"].quiz-ok {
+  background: #2e7d32; border-color: #2e7d32; color: #fff;
+}
+.quiz-choix .md-button[aria-pressed="true"].quiz-ko {
+  background: #c62828; border-color: #c62828; color: #fff;
+}
+.quiz-bandeau .md-button { padding: .3em .9em; font-size: .7rem; margin: .2em 0; }
+.quiz-score { font-weight: 700; }
+
+/* Bouton d'impression */
+.bouton-imprimer { padding: .3em .9em; font-size: .7rem; margin-bottom: 1em; }
+
+@media print {
+  .bouton-imprimer, .quiz-bandeau, .quiz-choix, .md-content__button,
+  .md-source-file, .md-footer, .headerlink { display: none !important; }
+  details { border: none; box-shadow: none; }
+  a[href$=".m4a"] { color: inherit; text-decoration: none; }
+}
