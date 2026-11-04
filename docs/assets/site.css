@@ -22,3 +22,6 @@ a[href$=".m4a"].audio-en-cours::after { content: " 🔊"; }
   details { border: none; box-shadow: none; }
   a[href$=".m4a"] { color: inherit; text-decoration: none; }
 }
+
+/* Schémas de positions en vignette dans les tableaux (glossaire) */
+.md-typeset table img[src*="images/sogi/"] { width: 130px; max-width: none; }
