@@ -177,3 +177,16 @@ désormais entretenu directement, découpé en une page par chapitre dans
 Le fichier est conservé pour mémoire de la façon dont le manuel a été composé —
 l'ordre des parties, et le dictionnaire `FUSIONS` qui note, passage par passage,
 pourquoi deux versions d'un même contenu ont été refondues en une.
+
+### telechargements.py — téléchargements de hors-ligne.zip
+
+Chaque publication du site dépose `hors-ligne.zip` dans une Release GitHub, dont
+GitHub compte les téléchargements. Ce script les additionne, Release par Release :
+
+```sh
+python3 scripts/telechargements.py
+```
+
+Les visites, les clics sur les liens du zip et les installations de
+l'application sont comptés à part, par GoatCounter
+(<https://hosinsul.goatcounter.com>, voir `docs/assets/statistiques.js`).
