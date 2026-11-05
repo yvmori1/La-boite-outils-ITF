@@ -28,4 +28,4 @@ Au premier lancement, l'application enregistre le site entier sur l'appareil, ce
 * **Ordinateur (Chrome, Edge)** : icône d'installation dans la barre d'adresse.
 * Sans installer, le bouton ci-dessus, sur le site, enregistre aussi tout le site dans le navigateur.
 
-Pour une copie à décompresser sur un ordinateur, sans navigateur particulier, voir [hors-ligne.zip](https://outils.hosinsul.ca/hors-ligne.zip).
+Pour une copie à décompresser sur un ordinateur, sans navigateur particulier, voir [hors-ligne.zip](https://github.com/yvmori1/La-boite-outils-ITF/releases/latest/download/hors-ligne.zip).

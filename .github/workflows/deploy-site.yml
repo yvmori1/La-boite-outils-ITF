@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  # write : publier hors-ligne.zip dans une Release GitHub (compteur de
+  # téléchargements).
+  contents: write
   pages: write
   id-token: write
 
@@ -39,7 +41,8 @@ jobs:
 
       # Copie du site lisible sans connexion (au dojang, par exemple) :
       # pages en .html, recherche intégrée, audio compris. Publiée en
-      # hors-ligne.zip à la racine du site.
+      # hors-ligne.zip à la racine du site (anciens liens) et dans une
+      # Release GitHub (voir plus bas).
       - name: Construire la version hors ligne
         env:
           HORS_LIGNE: "true"
@@ -63,6 +66,25 @@ jobs:
             echo "dernier=false" >> "$GITHUB_OUTPUT"
             echo "::notice::main est passé à $tete : publication laissée à son propre déploiement."
           fi
+
+      # Une Release par publication, avec hors-ligne.zip en pièce jointe :
+      # GitHub compte les téléchargements de chaque pièce jointe. Le site
+      # renvoie à releases/latest/download/hors-ligne.zip, qui mène toujours
+      # à la plus récente. Les anciennes Releases sont gardées : les
+      # supprimer effacerait leurs compteurs. Total des téléchargements :
+      # python3 scripts/telechargements.py
+      - name: Publier hors-ligne.zip dans une Release GitHub
+        if: steps.dernier.outputs.dernier == 'true' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          etiquette="site-$(date -u +%Y-%m-%d-%H%M%S)-${GITHUB_SHA::7}"
+          gh release create "$etiquette" site/hors-ligne.zip \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$GITHUB_SHA" \
+            --title "Site du $(date -u '+%Y-%m-%d %H:%M') UTC" \
+            --notes "Copie hors ligne du site (outils.hosinsul.ca) : décompresser hors-ligne.zip, puis ouvrir index.html." \
+            --latest
 
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v6
