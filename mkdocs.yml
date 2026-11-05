@@ -19,6 +19,8 @@ use_directory_urls: !ENV [ADRESSES_DOSSIERS, true]
 
 theme:
   name: material
+  # overrides/partials/nav.html : menu principal partagé (hooks/menu_partage.py)
+  custom_dir: overrides
   language: fr
   features:
     - navigation.instant
@@ -83,6 +85,9 @@ hooks:
   # Application installable (iPhone, iPad) utilisable hors ligne : manifeste,
   # balises Apple et liste des fichiers pour le service worker (docs/sw.js).
   - hooks/pwa.py
+  # Menu principal écrit une fois dans assets/menu.html au lieu de chaque page
+  # (allège le site de 180 à environ 40 Mo).
+  - hooks/menu_partage.py
 
 markdown_extensions:
   - abbr
@@ -114,6 +119,7 @@ extra_css:
   - assets/site.css
 
 extra_javascript:
+  - assets/menu.js
   - assets/mathjax.js
   - assets/anciennes-ancres.js
   - assets/audio.js
