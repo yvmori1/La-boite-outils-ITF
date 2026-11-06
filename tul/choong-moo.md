@@ -34,7 +34,7 @@
 5. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 6. Tourner le visage vers C pour former une position de préparation pliée A gauche vers C.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 7. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
    *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 8. Abaisser le pied droit vers C pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.

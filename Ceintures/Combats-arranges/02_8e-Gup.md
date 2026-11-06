@@ -8,7 +8,7 @@ Par convention, la première attaque se fait du côté droit ; chaque combat se 
 
 | Étape | Technique |
 | :--- | :--- |
-| Distance | Déplacer le pied droit en [position en L](../../Techniques/Niunja-Sogi.md), entre les jambes du partenaire |
+| Distance | Déplacer le pied droit en [position en L](../../sogi/Niunja-Sogi.md), entre les jambes du partenaire |
 | Préparation | [Position de marche, blocage bas mains fermées](../../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md) |
 | Attaques 1 à 3 | Coup du tranchant de la main en position en L |
 | Défenses 1 à 3 | Reculer en exécutant un [double blocage moyen mains ouvertes en position en L](../../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) |

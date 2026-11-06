@@ -24,7 +24,7 @@ Par convention, la première attaque se fait du côté droit ; chaque combat se 
 | Attaque 1 | [Tranchant de la main descendant](../../jirugi/naeryo-taerigi.md) en position de marche |
 | Défense 1 | Blocage haut en position de marche |
 | Attaque 2 | [Coup de pied avant](../../Techniques/Kaunde-Apcha-Busigi.md) de la jambe arrière, puis reposer le pied en position de marche |
-| Défense 2 | [Position assise](../../Techniques/Annun-Sogi.md) et blocage bas main ouverte |
+| Défense 2 | [Position assise](../../sogi/Annun-Sogi.md) et blocage bas main ouverte |
 | Contre-attaque | [Coup de pied de côté](../../Techniques/Kaunde-Yopcha-Jirugi.md) de la jambe avant, puis tranchant de la main au cou en position assise |
 
 

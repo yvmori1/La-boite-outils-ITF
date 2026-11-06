@@ -23,7 +23,7 @@
 ### Posture de départ : position parallèle avec les mains vers le ciel
 
 1. Ramener le pied gauche vers le pied droit, pour former une position de préparation fermée B vers D, en amenant les deux mains en un mouvement circulaire.
-   *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
+   *([Moa junbi sogi B](../sogi/Moa-Junbi-Sogi-B.md))*
 2. Déplacer le pied gauche vers D, pour former une position de marche gauche vers D tout en exécutant un coup de poing renversé vers D avec le poing droit.
    *([Gunnun so bandae dwijibo jirugi](../Techniques/Gunnun-So-Bandae-Dwijibo-Jirugi.md))*
    > *Exécuter en mouvement lent.*

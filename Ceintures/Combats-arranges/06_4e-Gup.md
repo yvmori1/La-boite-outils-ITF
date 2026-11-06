@@ -8,16 +8,16 @@ Par convention, la première attaque se fait du côté droit ; chaque combat se 
 
 | Étape | Technique |
 | :--- | :--- |
-| Attaque | Coup de poing direct au niveau bas en [position en L](../../Techniques/Niunja-Sogi.md) |
+| Attaque | Coup de poing direct au niveau bas en [position en L](../../sogi/Niunja-Sogi.md) |
 | Défense | Reculer avec un [blocage de la paume vers le haut en position arrière rapprochée](../../Techniques/Dwitbal-So-Sonbadak-Ollyo-Makgi.md) |
-| Contre-attaque | [Coup de pied avant au niveau moyen](../../Techniques/Kaunde-Apcha-Busigi.md), puis double blocage moyen mains ouvertes en [position arrière rapprochée](../../Techniques/Dwitbal-Sogi.md) |
+| Contre-attaque | [Coup de pied avant au niveau moyen](../../Techniques/Kaunde-Apcha-Busigi.md), puis double blocage moyen mains ouvertes en [position arrière rapprochée](../../sogi/Dwitbal-Sogi.md) |
 
 ## Combat arrangé #11 — 1 pas de *Joong-Gun*
 
 | Étape | Technique |
 | :--- | :--- |
 | Attaque | [Coup de poing direct au niveau moyen en position de marche](../../Techniques/Gunnun-So-Kaunde-Jirugi.md) |
-| Défense | Reculer avec un blocage du tranchant de la main inversé en [position en L](../../Techniques/Niunja-Sogi.md) |
+| Défense | Reculer avec un blocage du tranchant de la main inversé en [position en L](../../sogi/Niunja-Sogi.md) |
 | Contre-attaque | Avancer la jambe arrière avec un [double coup de poing inversé au niveau bas en position de marche](../../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md) |
 
 

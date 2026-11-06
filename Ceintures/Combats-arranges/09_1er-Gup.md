@@ -10,7 +10,7 @@ Par convention, la première attaque se fait du côté droit ; chaque combat se 
 | :--- | :--- |
 | Attaque | [Coup du tranchant inversé au niveau haut en position de marche](../../Techniques/Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md) |
 | Défense | Esquiver vers l'arrière avec un [double blocage moyen mains ouvertes en position en L](../../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) |
-| Contre-attaque | [Coup de pied de côté sauté au niveau haut](../../Techniques/Twimyo-Yopcha-Jirugi.md), puis double blocage moyen mains ouvertes en position en L |
+| Contre-attaque | [Coup de pied de côté sauté au niveau haut](../../chagi/twimyo-yopcha-jirugi.md), puis double blocage moyen mains ouvertes en position en L |
 
 ## Combat arrangé #17 — 1 pas de *Choong-Moo*
 

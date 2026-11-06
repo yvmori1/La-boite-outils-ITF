@@ -22,7 +22,7 @@ Par convention, la première attaque se fait du côté droit ; chaque combat se 
 | Étape | Technique |
 | :--- | :--- |
 | Attaque | En position fixe, [coup de poing direct](../../Techniques/Gunnun-So-Kaunde-Jirugi.md) |
-| Défense | Esquive latérale (déplacement) en [position d'attente sur une jambe](../../Techniques/Waebal-Sogi.md) |
+| Défense | Esquive latérale (déplacement) en [position d'attente sur une jambe](../../sogi/Waebal-Sogi.md) |
 | Contre-attaque | [Coup de pied de côté](../../Techniques/Kaunde-Yopcha-Jirugi.md), puis [double blocage poings fermés en position en L](../../Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) |
 
 

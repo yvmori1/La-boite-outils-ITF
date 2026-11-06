@@ -17,8 +17,8 @@ Par convention, la première attaque se fait du côté droit ; chaque combat se 
 | Étape | Technique |
 | :--- | :--- |
 | Attaque | [Coup de poing direct au niveau moyen en position de marche](../../Techniques/Gunnun-So-Kaunde-Jirugi.md) |
-| Défense | Se déplacer de côté, à l'intérieur de l'adversaire, avec un blocage haut en [position pieds joints](../../Techniques/Moa-Sogi.md) |
-| Contre-attaque | Avancer la jambe en frappant d'un coup de poing opposé au niveau moyen en [position en L](../../Techniques/Niunja-Sogi.md) |
+| Défense | Se déplacer de côté, à l'intérieur de l'adversaire, avec un blocage haut en [position pieds joints](../../sogi/Moa-Sogi.md) |
+| Contre-attaque | Avancer la jambe en frappant d'un coup de poing opposé au niveau moyen en [position en L](../../sogi/Niunja-Sogi.md) |
 
 
 ---

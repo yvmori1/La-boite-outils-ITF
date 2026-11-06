@@ -31,7 +31,7 @@ import urllib.parse
 RACINE = pathlib.Path(__file__).resolve().parents[1]
 SCRIPTS = RACINE / "scripts"
 AUDIO = RACINE / "audio"
-DOSSIERS_FICHES = ("Techniques", "chagi", "jirugi", "makgi", "tul",
+DOSSIERS_FICHES = ("Techniques", "sogi", "chagi", "jirugi", "makgi", "tul",
                    "Ceintures", "Theorie")
 IGNORES = {".git", "site", "venv", ".venv", "node_modules", "audio"}
 

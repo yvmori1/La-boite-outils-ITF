@@ -39,7 +39,7 @@
 7. Exécuter un double blocage haut des mains arquées vers AD tout en regardant à travers, en maintenant une position de marche gauche vers D.
    *([Gunnun so nopunde doo bandalson makgi](../Techniques/Gunnun-So-Nopunde-Doo-Bandalson-Makgi.md))*
 8. Tourner le visage vers D tout en formant une position de préparation pliée A droite vers D.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 9. Abaisser le pied gauche vers AD pour former une position assise vers AC tout en exécutant un blocage en levant vers AC avec la paume gauche.
    *([Annun so wen sonbadak duro makgi](../Techniques/Annun-So-Wen-Sonbadak-Duro-Makgi.md))*
 10. Exécuter un coup de poing moyen vers AC avec le poing droit tout en maintenant une position assise vers AC.

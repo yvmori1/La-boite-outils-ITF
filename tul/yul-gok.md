@@ -23,14 +23,14 @@
 ### Posture de départ : position parallèle de préparation
 
 1. Déplacer le pied gauche vers B pour former une position assise vers D tout en étendant le poing gauche vers D horizontalement.
-   *([Annun sogi](../Techniques/Annun-Sogi.md))*
+   *([Annun sogi](../sogi/Annun-Sogi.md))*
 2. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position assise vers D.
    *([Annun so orun joomuk kaunde ap jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Ap-Jirugi.md))*
 3. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position assise vers D.
    *([Annun so wen joomuk kaunde ap jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md))*
    > *Exécuter 2 et 3 en mouvement rapide.*
 4. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position assise vers D tout en étendant le poing droit vers D horizontalement.
-   *([Annun sogi](../Techniques/Annun-Sogi.md))*
+   *([Annun sogi](../sogi/Annun-Sogi.md))*
 5. Exécuter un coup de poing moyen vers D avec le poing gauche tout en maintenant une position assise vers D.
    *([Annun so wen joomuk kaunde ap jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md))*
 6. Exécuter un coup de poing moyen vers D avec le poing droit tout en maintenant une position assise vers D.
@@ -71,13 +71,13 @@
 21. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde jirugi](../Techniques/Gunnun-So-Kaunde-Jirugi.md))*
 22. Tourner le visage vers D pour former une position de préparation pliée A droite vers D.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 23. Exécuter un coup de pied latéral perçant moyen vers D avec le pied gauche.
    *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 24. Abaisser le pied gauche vers D pour former une position de marche gauche vers D tout en frappant la paume gauche avec le coude droit.
    *([Gunnun so ap palkup bandae taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md))*
 25. Tourner le visage vers C pour former une position de préparation pliée A gauche vers C.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 26. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
    *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 27. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en frappant la paume droite avec le coude gauche.

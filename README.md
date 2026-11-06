@@ -30,10 +30,11 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 | :--- | :--- | :--- |
 | [Requis Examen](Ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
 | [tul](tul/README.md) | Les formes (Tul) et exercices fondamentaux, mouvement par mouvement | 28 |
+| [sogi](sogi/README.md) | Les positions d'appui et de préparation — [서기](audio/termes/sogi.m4a) | 12 |
 | [chagi](chagi/README.md) | Les coups de pied — [차기](audio/termes/chagi.m4a) | 48 |
 | [makgi](makgi/README.md) | Les blocages — [막기](audio/termes/makgi.m4a) | 44 |
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — [지르기](audio/grammaire/Jirugi.m4a) | 21 |
-| [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 354 |
+| [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 333 |
 | [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 8 |
 | [Theorie](Theorie/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 5 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 41 |
@@ -46,7 +47,7 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 
 **Si vous préparez un passage de grade** → commencez par [Ceintures/README.md](Ceintures/README.md), qui donne pour chaque grade la théorie, les formes, le lexique et les exigences physiques.
 
-**Si vous cherchez une technique précise** → l'index du répertoire correspondant ([chagi](chagi/README.md), [makgi](makgi/README.md), [jirugi](jirugi/README.md)) classe les fiches par famille de mouvement, avec le nom français en regard du nom coréen.
+**Si vous cherchez une technique précise** → l'index du répertoire correspondant ([sogi](sogi/README.md), [chagi](chagi/README.md), [makgi](makgi/README.md), [jirugi](jirugi/README.md)) classe les fiches par famille de mouvement, avec le nom français en regard du nom coréen.
 
 **Si vous cherchez un terme coréen** → le [glossaire coréen-français](Theorie/glossaire/README.md) (chaque mot avec son hangul, sa traduction et une courte définition), l'[annexe A du manuel](Theorie/manuel/annexe-a-lexique-trilingue/README.md) (français – anglais – coréen, avec la prononciation) et sa [partie III](Theorie/manuel/partie-3-grammaire-des-techniques/README.md) pour les règles de construction des noms de techniques.
 

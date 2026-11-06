@@ -23,7 +23,7 @@
 ### Posture de départ : position parallèle de préparation
 
 1. Tourner le visage vers B tout en formant une position de préparation pliée A droite vers B.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
    > *Exécuter en mouvement lent.*
 2. Exécuter un coup de pied latéral perçant haut vers B avec le pied gauche.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -47,7 +47,7 @@
    *([Waebal so sonkal najunde baro yop makgi](../makgi/yop-makgi.md) wa [sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
    > *Exécuter en mouvement lent.*
 10. Abaisser le pied gauche vers le pied droit puis tourner le visage vers A tout en formant une position de préparation pliée A gauche vers A.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
    > *Exécuter en mouvement lent.*
 11. Exécuter un coup de pied latéral perçant haut vers A avec le pied droit.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
@@ -71,14 +71,14 @@
    *([Waebal so sonkal najunde baro yop makgi](../makgi/yop-makgi.md) wa [sonkal nopunde bandae yop makgi](../makgi/yop-makgi.md))*
    > *Exécuter en mouvement lent.*
 19. Tourner le visage vers C tout en formant une position de préparation pliée B gauche vers D.
-   *([Guburyo junbi sogi B](../Techniques/Guburyo-Junbi-Sogi-B.md))*
+   *([Guburyo junbi sogi B](../sogi/Guburyo-Junbi-Sogi-B.md))*
 20. Exécuter un coup de pied arrière perçant haut vers C avec le pied droit.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
    > *Exécuter en mouvement lent.*
 21. Abaisser le pied droit vers C pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.
    *([Gunnun so kaunde bandae jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
 22. Tourner le visage vers C tout en formant une position de préparation pliée B droite vers D.
-   *([Guburyo junbi sogi B](../Techniques/Guburyo-Junbi-Sogi-B.md))*
+   *([Guburyo junbi sogi B](../sogi/Guburyo-Junbi-Sogi-B.md))*
 23. Exécuter un coup de pied arrière perçant haut vers C avec le pied gauche.
    *([Nopunde dwitcha jirugi](../chagi/dwit-cha-jirugi.md))*
    > *Exécuter en mouvement lent.*

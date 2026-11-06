@@ -92,7 +92,7 @@
 33. Exécuter un coup de poing moyen vers B avec le poing gauche tout en maintenant une position parallèle vers B.
    *([Narani so wen joomuk kaunde jirugi](../Techniques/Narani-So-Wen-Joomuk-Kaunde-Jirugi.md))*
 34. Tourner le visage vers A tout en formant une position de préparation pliée A gauche vers A.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 35. Exécuter un coup de pied latéral perçant moyen vers A avec le pied droit pour former un blocage de garde de l'avant-bras.
    *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 36. Abaisser le pied droit vers A en mouvement sauté pour former une position en X droite vers AD tout en exécutant une frappe latérale haute vers A avec le revers du poing droit et en amenant la pulpe des doigts de la main gauche vers le côté du poing droit.
@@ -107,7 +107,7 @@
 40. Exécuter un coup de poing moyen vers A avec le poing droit tout en maintenant une position parallèle vers A.
    *([Narani so orun joomuk kaunde jirugi](../Techniques/Narani-So-Orun-Joomuk-Kaunde-Jirugi.md))*
 41. Tourner le visage vers B tout en formant une position de préparation pliée A droite vers B.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 42. Exécuter un coup de pied latéral perçant moyen vers B avec le pied gauche pour former un blocage de garde de l'avant-bras.
    *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
 43. Abaisser le pied gauche vers B en mouvement sauté pour former une position en X gauche vers BD tout en exécutant une frappe latérale haute vers B avec le revers du poing gauche et en amenant la pulpe des doigts de la main droite vers le côté du poing gauche.

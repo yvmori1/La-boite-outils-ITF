@@ -31,7 +31,7 @@
 5. Ramener le pied gauche vers le pied droit, puis déplacer le pied droit vers E pour former une position assise vers D tout en exécutant une frappe moyenne vers E avec le tranchant de la main droite.
    *([Annun so orun sonkal kaunde yop taerigi](../Techniques/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md))*
 6. Ramener le pied droit vers le pied gauche, pour former une position de préparation fermée B vers D.
-   *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
+   *([Moa junbi sogi B](../sogi/Moa-Junbi-Sogi-B.md))*
 7. Sauter vers D pour former une position en X gauche vers DG tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche, en amenant la pulpe des doigts de la main droite vers le côté du poing gauche.
    *(Twigi, [wen kyocha so dung joomuk nopunde baro yop taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md))*
    > *Distance de saut : 1 position de marche.*
@@ -51,7 +51,7 @@
    *(Twigi, [wen kyocha so doo palmok nopunde makgi](../Techniques/Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md))*
    > *Distance de saut : 1 position de marche.*
 15. Déplacer le pied droit vers F pour former une position assise vers C tout en étendant le poing droit horizontalement vers C.
-   *([Annun sogi](../Techniques/Annun-Sogi.md))*
+   *([Annun sogi](../sogi/Annun-Sogi.md))*
    > *Exécuter en mouvement lent.*
 16. Exécuter une frappe frontale vers C avec le revers du poing gauche tout en maintenant une position assise vers C.
    *([Annun so wen dung joomuk ap taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.md))*

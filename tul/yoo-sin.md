@@ -19,7 +19,7 @@
 ### Posture de départ : position de préparation du guerrier B
 
 1. Déplacer le pied gauche vers B pour former une position assise vers D tout en étendant les deux coudes sur les côtés horizontalement.
-   *([Annun sogi](../Techniques/Annun-Sogi.md))*
+   *([Annun sogi](../sogi/Annun-Sogi.md))*
 2. Exécuter un coup de poing en angle vers C avec le poing gauche tout en glissant vers A, en maintenant une position assise vers D.
    *([Annun so wen joomuk C-bang giokja jirugi](../Techniques/Annun-So-Wen-Joomuk-C-Bang-Giokja-Jirugi.md))*
 3. Exécuter un coup de poing en angle vers C avec le poing droit tout en glissant vers B, en maintenant une position assise vers D.
@@ -105,7 +105,7 @@
 39. Déplacer le pied gauche sur la ligne CD, puis tourner dans le sens anti-horaire, en pivotant avec le pied gauche pour former une position en L droite vers C tout en exécutant un blocage haut vers C avec le revers de la main gauche.
    *([Niunja so sonkal dung nopunde yop makgi](../makgi/nopunde-yop-makgi.md))*
 40. Ramener le pied droit vers le pied gauche pour former une position de préparation fermée C vers C.
-   *([Moa junbi sogi C](../Techniques/Moa-Junbi-Sogi-C.md))*
+   *([Moa junbi sogi C](../sogi/Moa-Junbi-Sogi-C.md))*
 41. Déplacer le pied droit vers CF en un mouvement étampé pour former une position de marche droite vers CF tout en exécutant un coup de poing renversé vers CF avec les poings jumelés.
    *([Gunnun so sang joomuk dwijibo jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md))*
 42. Ramener le pied droit vers le pied gauche, puis déplacer le pied gauche vers CE en un mouvement étampé, pour former une position de marche gauche vers CE tout en exécutant un coup de poing renversé vers CE avec les poings jumelés.
@@ -151,11 +151,11 @@
 60. Abaisser le pied droit vers C, pour former une position assise vers A tout en exécutant un blocage en forme de 9 droit.
    *([Annun so orun gutja makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md))*
 61. Changer la position des mains tout en maintenant une position assise vers A.
-   *([Annun sogi](../Techniques/Annun-Sogi.md))*
+   *([Annun sogi](../sogi/Annun-Sogi.md))*
 62. Déplacer le pied gauche vers C, en tournant dans le sens horaire pour former une position assise vers B tout en exécutant un blocage en forme de 9 droit.
    *([Annun so orun gutja makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md))*
 63. Changer la position des mains tout en maintenant une position assise vers B.
-   *([Annun sogi](../Techniques/Annun-Sogi.md))*
+   *([Annun sogi](../sogi/Annun-Sogi.md))*
 64. Exécuter une frappe descendante vers D avec le côté du poing droit tout en formant une position verticale gauche vers D, en tirant le pied gauche.
    *([Soojik so yop joomuk bandae naeryo taerigi](../jirugi/naeryo-taerigi.md))*
 65. Déplacer le pied droit vers A pour former une position de marche gauche vers B tout en exécutant un coup de poing vertical haut vers B avec les poings jumelés.

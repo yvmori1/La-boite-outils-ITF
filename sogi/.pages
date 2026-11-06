@@ -1,0 +1,19 @@
+# Fichier produit par scripts/generer-menus.py : ne pas modifier à la
+# main. L'ordre suit le sommaire (README.md) de la section.
+nav:
+  - README.md
+  - "Positions d'appui":
+    - Gunnun-Sogi.md
+    - Niunja-Sogi.md
+    - Annun-Sogi.md
+    - Dwitbal-Sogi.md
+    - Kyocha-Sogi.md
+    - Moa-Sogi.md
+    - Waebal-Sogi.md
+  - Positions de préparation (Junbi Sogi):
+    - Gunnun-Junbi-Sogi.md
+    - Moa-Junbi-Sogi-B.md
+    - Moa-Junbi-Sogi-C.md
+    - Guburyo-Junbi-Sogi-A.md
+    - Guburyo-Junbi-Sogi-B.md
+  - ...

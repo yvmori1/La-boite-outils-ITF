@@ -84,7 +84,7 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 | [twimyo-bandae-dollyo-chagi.md](twimyo-bandae-dollyo-chagi.md) | Coup de pied circulaire inversé sauté |
 | [twimyo-yopcha-jirugi.md](twimyo-yopcha-jirugi.md) | Coup de pied latéral perçant sauté |
 | [twimyo-cha-tulgi.md](twimyo-cha-tulgi.md) | Coup de pied sauté avec vrille |
-| [twimyo-sangband-chagi.md](twimyo-sangband-chagi.md) | Coup de pied sauté simultané |
+| [twimyo-sangbang-chagi.md](twimyo-sangbang-chagi.md) | Coup de pied sauté simultané |
 | [twio-nomo-chagi.md](twio-nomo-chagi.md) | Coup de pied latéral sauté par-dessus obstacle |
 
 ## 8. Coups de pied composés et tactiques
@@ -97,7 +97,7 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 | [sangbal-chagi.md](sangbal-chagi.md) | Coup de pied simultané |
 | [japgo-chagi.md](japgo-chagi.md) | Coup de pied avec saisie |
 | [mikulgi-chagi.md](mikulgi-chagi.md) | Coup de pied glissé |
-| [ihamyo-bandae-dollyo-chagi.md](ihamyo-bandae-dollyo-chagi.md) | Coup de pied circulaire inversé en esquive |
+| [pihamyo-bandae-dollyo-chagi.md](pihamyo-bandae-dollyo-chagi.md) | Coup de pied circulaire inversé en esquive |
 
 ---
 

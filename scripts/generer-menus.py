@@ -21,7 +21,7 @@ import re
 import sys
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
-SECTIONS = ("chagi", "makgi", "jirugi")
+SECTIONS = ("sogi", "chagi", "makgi", "jirugi", "Techniques")
 EN_TETE = "Fiches transversales"
 IGNORES = ("Voir aussi",)
 LIEN = re.compile(r"\]\(([^)/#\s]+\.md)(?:#[^)]*)?\)")
