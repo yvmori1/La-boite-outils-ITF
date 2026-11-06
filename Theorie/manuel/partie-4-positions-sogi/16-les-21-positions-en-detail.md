@@ -61,7 +61,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 ## 16.6 Position parallèle (Narani Sogi)
 
 * **Nomenclature coréenne :** *Narani Sogi / [나란히 서기](../../../audio/grammaire/Narani-Sogi.m4a)*.
-* **Largeur :** Les pieds sont écartés d'**une largeur d'épaule** entre les gros orteils.
+* **Largeur :** Les pieds sont écartés d'**une largeur d'épaule**, mesurée entre les bords extérieurs des pieds.
 * **Orientation :** Les pieds sont strictement parallèles, les orteils pointant droit devant (0°).
 * **Poids :** Réparti à 50% sur le pied gauche, 50% sur le pied droit.
 * **Schéma d'alignement :**
@@ -83,7 +83,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 ## 16.8 Position assise (Annun Sogi)
 
 * **Nomenclature coréenne :** *Annun Sogi / [앉은 서기](../../../audio/grammaire/Annun-Sogi.m4a)*.
-* **Largeur :** **Une largeur et demie d'épaule** mesurée de centre à centre de chaque pied.
+* **Largeur :** **Une largeur et demie d'épaule** mesurée entre les gros orteils.
 * **Orientation :** Les pieds sont strictement parallèles, les orteils pointant vers l'avant (0°).
 * **Genoux :** Forcer puissamment les genoux vers l'extérieur.
 * **Poids et Posture :** Poids réparti à 50% sur chaque jambe, abdomen contracté et tendu pour assurer une stabilité maximale lors des mouvements latéraux.
@@ -113,8 +113,8 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 ## 16.10 Position en « L » (Niunja Sogi)
 
 * **Nomenclature coréenne :** *Niunja Sogi / [ㄴ자 서기](../../../audio/grammaire/Niunja-Sogi.m4a)*.
-* **Longueur :** **Une largeur et demie d'épaule** mesurée entre le gros orteil du pied avant et le petit orteil du pied arrière.
-* **Alignement et décalage :** Les pieds forment presque un angle droit (90°). Les orteils de chaque pied pointent à environ **15 degrés vers l'intérieur**. Le talon du pied avant est décalé et placé à environ **2,5 cm en avant** de la ligne du talon du pied arrière pour assurer la stabilité latérale.
+* **Longueur :** **Une largeur et demie d'épaule** mesurée du tranchant du pied arrière (*Balkal*) aux orteils du pied avant.
+* **Alignement et décalage :** Les pieds forment presque un angle droit (90°). Les orteils de chaque pied pointent à environ **15 degrés vers l'intérieur**. Le talon du pied avant dépasse d'environ **2,5 cm** le talon du pied arrière, vers l'extérieur, pour une meilleure stabilité.
 * **Poids :** Réparti à **70% sur la jambe arrière** et **30% sur la jambe avant**.
 * **Flexion :**
     * Jambe arrière : Fléchie jusqu'à ce que la rotule forme une ligne verticale droite avec les orteils. Conserver la hanche parfaitement alignée avec la jointure interne du genou arrière.
@@ -138,7 +138,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 ## 16.12 Position sur une jambe (Waebal Sogi)
 
 * **Nomenclature coréenne :** *Waebal Sogi / [외발 서기](../../../audio/grammaire/Waebal-Sogi.m4a)*.
-* **Exécution :** Étirer complètement la jambe d'appui immobile au sol. Placer le tranchant externe du pied de la jambe relevée directement **sur la rotule** (ou dans le creux poplité) du genou de support.
+* **Exécution :** Étirer complètement la jambe d'appui immobile au sol. Placer le tranchant inversé du pied relevé (*Balkal Dung*, bord interne) **contre l'articulation du genou** de support, ou le cou-de-pied dans le creux poplité.
 * **Poids :** 100% sur la jambe d'appui, 0% sur la jambe pliée.
 * **Usage :** Exercices d'équilibre, mais aussi techniques d'attaque et de défense sur un seul appui.
 * **Schéma d'alignement :**
@@ -168,9 +168,9 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 
 * **Nomenclature coréenne :** *Dwitbal Sogi / [뒷발 서기](../../../audio/grammaire/Dwitbal-Sogi.m4a)*.
 * **Longueur :** Écartement très court d'**une largeur d'épaule** mesurée entre les deux petits orteils.
-* **Alignement :** Les genoux sont fléchis. Le talon du pied arrière est positionné en ligne droite verticale directement derrière le talon du pied avant.
+* **Alignement :** Les genoux sont fléchis. Le talon du pied arrière est placé légèrement au-delà du talon du pied avant.
 * **Orientation :**
-    * Pied arrière : À plat au sol. Les orteils pointent vers l'intérieur à **35 degrés**, et le genou arrière doit impérativement **pointer légèrement vers l'intérieur**.
+    * Pied arrière : À plat au sol. Les orteils pointent à environ **15 degrés vers l'intérieur**, et le genou arrière doit impérativement **pointer légèrement vers l'intérieur**.
     * Pied avant : Talon décollé du sol, le pied ne fait que **frôler le sol avec la plante**. Les orteils pointent vers l'intérieur à **25 degrés**.
 * **Poids :** Presque 100% sur la jambe arrière fléchie (le pied avant restant libre pour frapper instantanément ou ajuster la distance).
 * **Schéma d'alignement :**

@@ -408,6 +408,18 @@ def position(slug, titre, sous_titre=None):
     return deco
 
 
+def _xmin(pied):
+    return min(p[0] for p in pied.points())
+
+
+def _ymin(pied):
+    return min(p[1] for p in pied.points())
+
+
+def _ymax(pied):
+    return max(p[1] for p in pied.points())
+
+
 def _avancer(pied, repere, cible):
     """Décale un pied pour amener l'ordonnée d'un de ses repères sur `cible`."""
     return pied.decaler(0.0, cible - pied.rp(repere)[1])
@@ -426,13 +438,15 @@ def _junbi(s):
 
 @position("narani-sogi", "Narani Sogi", "position parallèle")
 def _narani(s):
-    g = s.pied("G", at=(-EPAULE / 2, PIED_L), repere="gros-orteil")
-    d = s.pied("D", at=(EPAULE / 2, PIED_L), repere="gros-orteil")
-    s.cote_h(PIED_L + 6, -EPAULE / 2, EPAULE / 2,
-             L_EPAULE + "\n(gros orteil à gros orteil)",
-             ext=(PIED_L, PIED_L + 8))
+    # Encyclopédie p. 65 : le croquis cote une largeur d'épaule entre les
+    # bords extérieurs des pieds, orteils droit devant.
+    g = s.pied("G", at=(-EPAULE / 2, 0), repere="externe")
+    d = s.pied("D", at=(EPAULE / 2, 0), repere="externe")
+    s.cote_h(-13, -EPAULE / 2, EPAULE / 2, L_EPAULE + "\n(bords extérieurs)",
+             ext=(-15, 1), dessous=True)
     s.poids(g, "50 %")
     s.poids(d, "50 %")
+    s.texte((0, PIED_L + 5), "Pieds parallèles (0°)")
 
 
 @position("narani-junbi-sogi", "Narani Junbi Sogi", "position d'attente parallèle")
@@ -474,14 +488,15 @@ def _kyong_ye(s):
 
 @position("annun-sogi", "Annun Sogi", "position assise (du cavalier)")
 def _annun(s):
-    g = s.pied("G", at=(-EPAULE_15 / 2, 0), repere="centre")
-    d = s.pied("D", at=(EPAULE_15 / 2, 0), repere="centre")
-    s.cote_h(-23, -EPAULE_15 / 2, EPAULE_15 / 2,
-             L_EPAULE_15 + "\n(de centre à centre)", ext=(-25, -12.5),
-             dessous=True)
+    # Encyclopédie p. 72 : une largeur d'épaule et demie entre les gros orteils.
+    g = s.pied("G", at=(-EPAULE_15 / 2, PIED_L), repere="gros-orteil")
+    d = s.pied("D", at=(EPAULE_15 / 2, PIED_L), repere="gros-orteil")
+    yo = g.rp("gros-orteil")[1]
+    s.cote_h(yo + 6, -EPAULE_15 / 2, EPAULE_15 / 2,
+             L_EPAULE_15 + "\n(gros orteil à gros orteil)", ext=(yo, yo + 8))
     s.poids(g, "50 %")
     s.poids(d, "50 %")
-    s.texte((0, PIED_L + 8), "Genoux forcés vers l'extérieur")
+    s.texte((0, -12), "Orteils droit devant,\ngenoux forcés vers l'extérieur")
 
 
 @position("gunnun-sogi", "Gunnun Sogi", "position de marche — pied gauche avant")
@@ -506,17 +521,21 @@ def _nachuo(s):
 
 @position("niunja-sogi", "Niunja Sogi", "position en « L » — pied gauche avant")
 def _niunja(s):
+    # Encyclopédie p. 69 : 1 1/2 largeur d'épaule du tranchant du pied
+    # arrière aux orteils du pied avant ; talon avant 2,5 cm au-delà du talon
+    # arrière ; orteils des deux pieds rentrés d'environ 15°.
     d = s.pied("D", at=(0, 0), angle=-75, repere="talon")
-    g = s.pied("G", at=(-2.5, 0), angle=-15, repere="gros-orteil")
-    _avancer(g, "gros-orteil", d.rp("petit-orteil")[1] + EPAULE_15)
-    y0, y1 = d.rp("petit-orteil")[1], g.rp("gros-orteil")[1]
-    s.cote_v(20, y0, y1,
-             L_EPAULE_15 + "\n(petit orteil arrière →\ngros orteil avant)",
-             ext=(-12, 22))
-    s.cote_h(y0 - 12, -2.5, 0,
-             "Gros orteil avant à 2,5 cm\nà l'extérieur du talon arrière",
-             ext=(y0 - 14, 2), dessous=True)
-    s.ligne((-2.5, y0 - 14), (-2.5, y1))
+    xt = _xmin(d)
+    g = s.pied("G", at=(xt - 2.5, 0), angle=-15, repere="talon")
+    _avancer(g, "orteils", _ymin(d) + EPAULE_15)
+    y0, y1 = _ymin(d), _ymax(g)
+    s.cote_v(24, y0, y1,
+             L_EPAULE_15 + "\n(tranchant du pied arrière\n→ orteils du pied avant)",
+             ext=(xt - 12, 26))
+    s.cote_h(y0 - 12, xt - 2.5, xt,
+             "Talon avant 2,5 cm au-delà\ndu talon arrière",
+             ext=(y0 - 14, y0), dessous=True)
+    s.ligne((xt - 2.5, y0 - 14), (xt - 2.5, g.rp("talon")[1]))
     s.poids(g, "30 %")
     s.poids(d, "70 %")
     s.texte((0, y1 + 8), "Pieds à ~90°, orteils rentrés de 15°")
@@ -524,8 +543,10 @@ def _niunja(s):
 
 @position("gojung-sogi", "Gojung Sogi", "position fixe — pied gauche avant")
 def _gojung(s):
+    # Encyclopédie p. 71 : placement de Niunja Sogi, 1 1/2 largeur d'épaule
+    # entre les gros orteils, poids réparti également.
     d = s.pied("D", at=(0, 0), angle=-75, repere="talon")
-    g = s.pied("G", at=(-2.5, 0), angle=-15, repere="gros-orteil")
+    g = s.pied("G", at=(_xmin(d) - 2.5, 0), angle=-15, repere="talon")
     _avancer(g, "gros-orteil", d.rp("gros-orteil")[1] + EPAULE_15)
     y0, y1 = d.rp("gros-orteil")[1], g.rp("gros-orteil")[1]
     s.cote_v(20, y0, y1, L_EPAULE_15 + "\n(gros orteil à gros orteil)",
@@ -538,31 +559,40 @@ def _gojung(s):
 @position("dwitbal-sogi", "Dwitbal Sogi",
           "position arrière rapprochée — pied gauche avant")
 def _dwitbal(s):
-    d = s.pied("D", at=(0, 0), angle=-35, repere="talon")
-    g = s.pied("G", at=(0, 0), angle=-25, repere="centre", appui="plante")
+    # Encyclopédie p. 77 : une largeur d'épaule entre les petits orteils ;
+    # orteils du pied avant rentrés d'environ 25°, du pied arrière d'environ
+    # 15° ; talon arrière légèrement au-delà du talon avant ; l'essentiel du
+    # poids sur le pied arrière.
+    d = s.pied("D", at=(0, 0), angle=-75, repere="talon")
+    xt = _xmin(d)
+    g = s.pied("G", at=(xt + 2.5, 0), angle=-25, repere="talon", appui="plante")
     _avancer(g, "petit-orteil", d.rp("petit-orteil")[1] + EPAULE)
     y0, y1 = d.rp("petit-orteil")[1], g.rp("petit-orteil")[1]
-    s.cote_v(22, y0, y1, L_EPAULE + "\n(petit orteil\nà petit orteil)",
-             ext=(-14, 24))
-    s.ligne((0, y0 - 8), (0, y1 + 8))
-    s.note(g.rp("talon"), (-34, y1 * 0.6),
+    s.cote_v(30, y0, y1, L_EPAULE + "\n(petit orteil\nà petit orteil)",
+             ext=(xt - 4, 32))
+    s.ligne((xt, y0 - 10), (xt, g.rp("talon")[1] + 4))
+    s.note(g.rp("talon"), (-34, (y0 + y1) / 2 - 4),
            "Talon avant décollé :\nappui sur la plante", courbe=0.25)
-    s.angle(d.rp("talon"), 55, 90, PIED_L + 5, "35°", rayons=PIED_L + 11)
-    s.poids(g, "0 %")
-    s.poids(d, "~100 %")
-    s.texte((0, -22), "Pied avant centré sur l'axe du talon arrière")
+    s.texte((g.rp("orteils")[0] + 4, _ymax(g) + 4), "très peu de poids",
+            taille=T_COTE, ha="left", va="bottom")
+    s.poids(d, "l'essentiel\ndu poids")
+    s.texte((6, y0 - 18), "Orteils rentrés : avant ~25°, arrière ~15°\n"
+                          "Talon arrière légèrement au-delà du talon avant")
 
 
 @position("soojik-sogi", "Soojik Sogi", "position verticale — pied gauche avant")
 def _soojik(s):
     # comme en position en L : pieds presque à angle droit, orteils des deux
     # pieds rentrés d'environ 15° (Encyclopédie condensée, position verticale)
-    d = s.pied("D", at=(PIED_l / 2 + 1, 0), angle=-75, repere="talon")
-    g = s.pied("G", at=(-PIED_l / 2 - 1, 0), angle=-15, repere="centre")
+    # (Encyclopédie p. 77). Le texte ne fixe pas le décalage latéral : le
+    # croquis place le pied avant au droit du talon arrière.
+    d = s.pied("D", at=(0, 0), angle=-75, repere="talon")
+    xt = _xmin(d)
+    g = s.pied("G", at=(xt + 2.5, 0), angle=-15, repere="talon")
     _avancer(g, "gros-orteil", d.rp("gros-orteil")[1] + EPAULE)
     y0, y1 = d.rp("gros-orteil")[1], g.rp("gros-orteil")[1]
-    s.cote_v(42, y0, y1, L_EPAULE + "\n(gros orteil à gros orteil)",
-             ext=(-14, 44))
+    s.cote_v(30, y0, y1, L_EPAULE + "\n(gros orteil à gros orteil)",
+             ext=(xt - 4, 32))
     s.poids(g, "40 %")
     s.poids(d, "60 %")
     s.texte((0, y1 + 8), "Pieds à ~90°, orteils rentrés de 15°")
@@ -570,12 +600,17 @@ def _soojik(s):
 
 @position("sasun-sogi", "Sasun Sogi", "position en diagonale — pied gauche avant")
 def _sasun(s):
-    d = s.pied("D", at=(EPAULE_15 / 2, 0), repere="centre")
-    g = s.pied("G", at=(-EPAULE_15 / 2, 0), repere="centre")
+    # Encyclopédie p. 74 : écart de Annun Sogi (gros orteil à gros orteil),
+    # talon avant sur la ligne des orteils arrière.
+    d = s.pied("D", at=(EPAULE_15 / 2, PIED_L), repere="gros-orteil")
+    g = s.pied("G", at=(-EPAULE_15 / 2, PIED_L), repere="gros-orteil")
     _avancer(g, "talon", d.rp("orteils")[1])
-    s.cote_h(-23, -EPAULE_15 / 2, EPAULE_15 / 2,
-             L_EPAULE_15 + "\n(dimensions de Annun Sogi)", ext=(-25, -12.5),
-             dessous=True)
+    yo = g.rp("gros-orteil")[1]
+    s.cote_h(yo + 6, -EPAULE_15 / 2, EPAULE_15 / 2,
+             L_EPAULE_15 + "\n(gros orteil à gros orteil)",
+             ext=(d.rp("gros-orteil")[1], yo + 8))
+    s.poids(g, "50 %")
+    s.poids(d, "50 %")
     s.ligne((-EPAULE_15 / 2 - 8, d.rp("orteils")[1]),
             (EPAULE_15 / 2 + 8, d.rp("orteils")[1]))
     s.note(g.rp("talon"), (-EPAULE_15 / 2 - 26, d.rp("orteils")[1] + 8),
@@ -585,18 +620,21 @@ def _sasun(s):
 @position("oguryo-sogi", "Oguryo Sogi", "position accroupie")
 def _oguryo(s):
     _sasun(s)
-    s.texte((0, PIED_L + 22),
-            "Appuis de Sasun Sogi\nGenoux fléchis vers l'intérieur")
+    s.texte((0, -14),
+            "Appuis de Sasun Sogi (écart variable)\nGenoux fléchis vers l'intérieur")
 
 
 @position("kyocha-sogi", "Kyocha Sogi", "position en « X »")
 def _kyocha(s):
+    # Encyclopédie p. 75 : le pied libre croise devant le pied d'appui et
+    # ne touche le sol que du bol du pied ; tout le poids sur le pied d'appui.
     g = s.pied("G", at=(0, 0), repere="talon")
-    d = s.pied("D", at=(-9, 0), repere="plante-avant", appui="plante")
-    s.note(g.rp("centre"), (24, PIED_L + 6),
-           "Pied d'appui à plat :\n100 % du poids", courbe=0.25)
-    s.note(d.rp("orteils"), (-30, -12),
-           "Pied croisé : plante seule,\n0 % du poids", courbe=0.25)
+    d = s.pied("D", at=(-PIED_l - 1, 0.4 * PIED_L), repere="talon",
+               appui="plante")
+    s.note(g.rp("centre"), (24, PIED_L * 0.4),
+           "Pied d'appui à plat :\ntout le poids", courbe=-0.25)
+    s.note(d.rp("plante-avant"), (-30, PIED_L * 1.6),
+           "Pied croisé devant :\nbol du pied seul", courbe=-0.25)
 
 
 @position("waebal-sogi", "Waebal Sogi", "position sur une jambe — appui droit")
@@ -605,8 +643,8 @@ def _waebal(s):
     s.pied("G", at=(-20, 0), repere="centre", appui="leve")
     s.note(d.rp("centre"), (26, PIED_L + 4),
            "Jambe d'appui tendue :\n100 % du poids", courbe=0.25)
-    s.texte((-20, -16), "Pied relevé (0 %), parallèle\nau pied d'appui :\n"
-                        "tranchant externe sur la rotule", couleur=GRIS)
+    s.texte((-20, -18), "Pied relevé (0 %) : tranchant\ninterne contre le genou d'appui,\n"
+                        "ou cou-de-pied dans le creux\npoplité", couleur=GRIS)
 
 
 @position("guburyo-sogi", "Guburyo Sogi", "position fléchie — appui droit")
@@ -631,9 +669,9 @@ def _an_palja(s):
     d = s.pied("D", at=(EPAULE / 2, 0), angle=15, repere="centre")
     s.cote_h(-22, -EPAULE / 2, EPAULE / 2, L_EPAULE, ext=(-24, -12),
              dessous=True)
-    s.angle(d.rp("talon"), 90, 105, PIED_L + 5, "15°", rayons=PIED_L + 11)
-    s.angle(g.rp("talon"), 75, 90, PIED_L + 5, "15°", rayons=PIED_L + 11)
-    s.texte((0, PIED_L + 8), "Orteils pointés vers l'intérieur")
+    s.poids(g, "50 %")
+    s.poids(d, "50 %")
+    s.texte((0, PIED_L + 8), "Orteils légèrement tournés vers l'intérieur")
 
 
 @position("bakat-palja-sogi", "Bakat Palja Sogi", "position ouverte vers l'extérieur")
