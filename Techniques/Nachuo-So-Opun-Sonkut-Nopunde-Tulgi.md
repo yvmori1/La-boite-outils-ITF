@@ -73,6 +73,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Nachuo Sogi](../sogi/Nachuo-Sogi.md)
 * **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md)
 
 <!-- /fiches-liees -->

@@ -68,3 +68,11 @@ Sa décomposition linguistique est la suivante :
 * **Tourner la paume sur le côté ou vers le haut :** Ne pas maintenir la paume tournée vers le sol (**Opun**).
 * **Jambe arrière fléchie :** Relâcher le genou de la jambe arrière au lieu de maintenir la jambe arrière tendue et verrouillée.
 * **Lever le talon arrière :** Décoller le talon du pied arrière du sol lors de la descente du bassin en *Nachuo Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Nachuo Sogi](../sogi/Nachuo-Sogi.md)
+
+<!-- /fiches-liees -->

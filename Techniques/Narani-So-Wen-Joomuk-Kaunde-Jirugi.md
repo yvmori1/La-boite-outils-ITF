@@ -72,6 +72,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Narani Sogi](../sogi/Narani-Sogi.md)
 * **Dans les formes :** [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md)
 
 <!-- /fiches-liees -->

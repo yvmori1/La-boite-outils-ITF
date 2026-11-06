@@ -15,6 +15,11 @@ Une fiche par position d'appui et par position de préparation : placement des p
 | [Kyocha-Sogi.md](Kyocha-Sogi.md) | Position en « X » | [kyocha-sogi.png](../images/sogi/kyocha-sogi.png) |
 | [Moa-Sogi.md](Moa-Sogi.md) | Position rapprochée | [moa-sogi.png](../images/sogi/moa-sogi.png) |
 | [Waebal-Sogi.md](Waebal-Sogi.md) | Position sur une jambe | [waebal-sogi.png](../images/sogi/waebal-sogi.png) |
+| [Gojung-Sogi.md](Gojung-Sogi.md) | Position fixe | [gojung-sogi.png](../images/sogi/gojung-sogi.png) |
+| [Narani-Sogi.md](Narani-Sogi.md) | Position parallèle | [narani-sogi.png](../images/sogi/narani-sogi.png) |
+| [Nachuo-Sogi.md](Nachuo-Sogi.md) | Position basse | [nachuo-sogi.png](../images/sogi/nachuo-sogi.png) |
+| [Sasun-Sogi.md](Sasun-Sogi.md) | Position en diagonale | [sasun-sogi.png](../images/sogi/sasun-sogi.png) |
+| [Soojik-Sogi.md](Soojik-Sogi.md) | Position verticale | [soojik-sogi.png](../images/sogi/soojik-sogi.png) |
 
 ## Positions de préparation (*Junbi Sogi*)
 

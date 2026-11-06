@@ -63,6 +63,7 @@ Cette technique permet d'ériger un bouclier montant au-dessus de la tête tout 
 
 ## Fiches liées
 
+* **Position :** [Sasun Sogi](../sogi/Sasun-Sogi.md)
 * **Geste de base :** [Blocage soulevé (Chookyo Makgi)](../makgi/chookyo-makgi.md)
 
 <!-- /fiches-liees -->

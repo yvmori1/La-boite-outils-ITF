@@ -76,6 +76,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Narani Sogi](../sogi/Narani-Sogi.md)
 * **Dans les formes :** [Juche](../tul/juche.md)
 
 <!-- /fiches-liees -->

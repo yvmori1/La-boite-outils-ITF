@@ -62,6 +62,7 @@ Cette technique associe la géométrie particulière de la position diagonale à
 
 ## Fiches liées
 
+* **Position :** [Sasun Sogi](../sogi/Sasun-Sogi.md)
 * **Dans les formes :** [Se-Jong](../tul/se-jong.md)
 
 <!-- /fiches-liees -->
