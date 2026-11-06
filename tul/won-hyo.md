@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/won-hyo.png) | WON-HYO fut le moine célèbre qui introduisit le bouddhisme sous la dynastie Silla en l'an 686. |
+| ![**I**](../images/tul/won-hyo.png) | WON-HYO fut le moine célèbre qui introduisit le bouddhisme sous la dynastie Silla en l'an 686. |
 
 [WON-HYO](https://vimeo.com/107541045)
 

@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**王**](../images/se-jong.png) | SE-JONG est nommé d'après le plus grand roi de l'histoire coréenne, Se-Jong le Grand, qui inventa l'alphabet coréen (Hangul) en 1443, et qui était également un météorologue réputé. Le diagramme (王) représente le Roi, tandis que les 24 mouvements correspondent aux 24 lettres de cet alphabet national. |
+| ![**王**](../images/tul/se-jong.png) | SE-JONG est nommé d'après le plus grand roi de l'histoire coréenne, Se-Jong le Grand, qui inventa l'alphabet coréen (Hangul) en 1443, et qui était également un météorologue réputé. Le diagramme (王) représente le Roi, tandis que les 24 mouvements correspondent aux 24 lettres de cet alphabet national. |
 
 ## Origine et contexte historique
 

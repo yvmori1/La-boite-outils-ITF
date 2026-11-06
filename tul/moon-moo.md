@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**士**](../images/moon-moo.png) | Moon-Moo rend hommage au 30e roi de la dynastie Silla. Selon son vœu, son corps fut immergé en mer près de Dae Wang Am (le rocher du grand roi) pour que son âme défende à jamais la Corée contre les invasions maritimes japonaises. Les 61 mouvements symbolisent l'an 661 apr. J.-C., lorsqu'il accéda au trône. |
+| ![**士**](../images/tul/moon-moo.png) | Moon-Moo rend hommage au 30e roi de la dynastie Silla. Selon son vœu, son corps fut immergé en mer près de Dae Wang Am (le rocher du grand roi) pour que son âme défende à jamais la Corée contre les invasions maritimes japonaises. Les 61 mouvements symbolisent l'an 661 apr. J.-C., lorsqu'il accéda au trône. |
 
 [MOON-MOO](https://youtu.be/kJGzK_pHiU0?si=EjTYeeye13y92tbJ)
 

@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**—**](../images/po-eun.png) | PO-EUN est le pseudonyme de l'érudit Chong Mong-Chu (1400), un sujet loyal et poète célèbre dont le poème 'Je ne servirais pas un second maître même si je devais être crucifié cent fois' est connu de tous les Coréens. Il fut également un pionnier dans le domaine de la physique. Le diagramme (-) symbolise sa loyauté sans faille envers son roi et son pays vers la fin de la dynastie Koryo. Le Tul entier s'exécute sur une ligne droite horizontale. |
+| ![**—**](../images/tul/po-eun.png) | PO-EUN est le pseudonyme de l'érudit Chong Mong-Chu (1400), un sujet loyal et poète célèbre dont le poème 'Je ne servirais pas un second maître même si je devais être crucifié cent fois' est connu de tous les Coréens. Il fut également un pionnier dans le domaine de la physique. Le diagramme (-) symbolise sa loyauté sans faille envers son roi et son pays vers la fin de la dynastie Koryo. Le Tul entier s'exécute sur une ligne droite horizontale. |
 
 [PO-EUN](https://vimeo.com/132836099)
 

@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**\|**](../images/eui-am.png) | EUI-AM est le pseudonyme de Son Byong Hi, leader du mouvement d'indépendance de la Corée du 1er mars 1919. Les 45 mouvements rappellent son âge lorsqu'il changea le nom de Dong Hak (culture orientale) en Chondo Kyo (religion de la voie céleste) en 1905. Le diagramme symbolise son esprit indomptable. |
+| ![**\|**](../images/tul/eui-am.png) | EUI-AM est le pseudonyme de Son Byong Hi, leader du mouvement d'indépendance de la Corée du 1er mars 1919. Les 45 mouvements rappellent son âge lorsqu'il changea le nom de Dong Hak (culture orientale) en Chondo Kyo (religion de la voie céleste) en 1905. Le diagramme symbolise son esprit indomptable. |
 
 [EUI-AM](https://vimeo.com/133457472)
 

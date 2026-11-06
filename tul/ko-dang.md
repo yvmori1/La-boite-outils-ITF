@@ -9,7 +9,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/ko-dang.png) | KO-DANG est le pseudonyme du patriote Cho Man Shik, qui a dédié sa vie au mouvement d'indépendance de la Corée et à l'éducation de son peuple. Les 39 mouvements correspondent au nombre de ses emprisonnements et à la latitude (39e) de son lieu de naissance. |
+| ![**I**](../images/tul/ko-dang.png) | KO-DANG est le pseudonyme du patriote Cho Man Shik, qui a dédié sa vie au mouvement d'indépendance de la Corée et à l'éducation de son peuple. Les 39 mouvements correspondent au nombre de ses emprisonnements et à la latitude (39e) de son lieu de naissance. |
 
 ## Liste Détaillée des Mouvements
 

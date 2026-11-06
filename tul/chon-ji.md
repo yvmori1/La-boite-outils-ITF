@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**+**](../images/chon-ji.png) | CHON-JI signifie littéralement 'Le Ciel et la Terre'. En Orient, il est interprété comme la création du monde ou le début de l'histoire humaine. C'est pourquoi c'est la première forme pratiquée par le débutant. Ce Tul est composé de deux parties similaires : l'une représentant le Ciel (les 8 premiers mouvements en positions de marche avec blocages bas et coups de poing) et l'autre la Terre (les mouvements suivants en positions en L avec blocages moyens et coups de poing en position de marche). |
+| ![**+**](../images/tul/chon-ji.png) | CHON-JI signifie littéralement 'Le Ciel et la Terre'. En Orient, il est interprété comme la création du monde ou le début de l'histoire humaine. C'est pourquoi c'est la première forme pratiquée par le débutant. Ce Tul est composé de deux parties similaires : l'une représentant le Ciel (les 8 premiers mouvements en positions de marche avec blocages bas et coups de poing) et l'autre la Terre (les mouvements suivants en positions en L avec blocages moyens et coups de poing en position de marche). |
 
 [CHON-JI](https://vimeo.com/113653580)
 

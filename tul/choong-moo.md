@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/choong-moo.png) | CHOONG-MOO est le nom posthume donné au grand amiral Yi Soon-Sin de la dynastie Yi. Il a conçu le premier navire de guerre blindé (Kobukson) en 1592, précurseur du sous-marin moderne. La forme se termine par une attaque de la main gauche pour symboliser sa mort regrettable au combat avant d'avoir pu exprimer pleinement son potentiel au roi. |
+| ![**I**](../images/tul/choong-moo.png) | CHOONG-MOO est le nom posthume donné au grand amiral Yi Soon-Sin de la dynastie Yi. Il a conçu le premier navire de guerre blindé (Kobukson) en 1592, précurseur du sous-marin moderne. La forme se termine par une attaque de la main gauche pour symboliser sa mort regrettable au combat avant d'avoir pu exprimer pleinement son potentiel au roi. |
 
 [CHOONG-MOO](https://vimeo.com/106885318)
 

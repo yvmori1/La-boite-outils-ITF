@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/choong-jang.png) | CHOONG-JANG est le pseudonyme donné au général Kim Duk Ryang de la dynastie Yi (XIVe siècle). La forme se termine par une attaque de la main gauche pour symboliser sa mort tragique en prison à l'âge de 27 ans, avant d'avoir pu exprimer pleinement tout son potentiel. |
+| ![**I**](../images/tul/choong-jang.png) | CHOONG-JANG est le pseudonyme donné au général Kim Duk Ryang de la dynastie Yi (XIVe siècle). La forme se termine par une attaque de la main gauche pour symboliser sa mort tragique en prison à l'âge de 27 ans, avant d'avoir pu exprimer pleinement tout son potentiel. |
 
 [CHOONG-JANG]()
 

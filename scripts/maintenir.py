@@ -71,7 +71,8 @@ def compte_reel(dossier):
     if not d.is_dir():
         return None
     if dossier == "images":
-        return len([f for f in d.iterdir()
+        # images/ et ses diagrammes de formes (images/tul/) ; les schémas sogi/ à part
+        return len([f for f in [*d.iterdir(), *(d / "tul").glob("*")]
                     if f.suffix.lower() in (".png", ".svg", ".gif", ".jpg")])
     if dossier == "Theorie":
         # un document découpé en sous-pages compte pour un : son dossier

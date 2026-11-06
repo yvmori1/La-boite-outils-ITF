@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/hwa-rang.png) | HWA-RANG est nommé d'après le groupe de jeunes guerriers d'élite Hwa-Rang, originaire de la dynastie Silla au début du VIIe siècle. Les 29 mouvements font référence à la 29e division d'infanterie de l'armée coréenne, où le Taekwon-Do s'est développé jusqu'à sa pleine maturité. |
+| ![**I**](../images/tul/hwa-rang.png) | HWA-RANG est nommé d'après le groupe de jeunes guerriers d'élite Hwa-Rang, originaire de la dynastie Silla au début du VIIe siècle. Les 29 mouvements font référence à la 29e division d'infanterie de l'armée coréenne, où le Taekwon-Do s'est développé jusqu'à sa pleine maturité. |
 
 [HWA-RANG](https://vimeo.com/100918421)
 

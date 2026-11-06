@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/do-san.png) | DO-SAN est le pseudonyme du patriote Ahn Chang-Ho (1878-1938). Les 24 mouvements représentent toute sa vie qu'il a consacrée à l'avancement de l'éducation en Corée et à son mouvement d'indépendance. |
+| ![**I**](../images/tul/do-san.png) | DO-SAN est le pseudonyme du patriote Ahn Chang-Ho (1878-1938). Les 24 mouvements représentent toute sa vie qu'il a consacrée à l'avancement de l'éducation en Corée et à son mouvement d'indépendance. |
 
 [DO-SAN](https://vimeo.com/109846979)
 

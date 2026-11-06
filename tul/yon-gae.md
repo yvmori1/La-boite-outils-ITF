@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/yon-gae.png) | YON-GAE est nommé d'après le célèbre général Yon Gae Somoon de la dynastie Koguryo. Les 49 mouvements représentent l'année 649 apr. J.-C., lorsqu'il détruisit l'armée impériale chinoise des Tang forte de près de 300 000 soldats à Ansi Sung, les obligeant à battre en retraite et à quitter la Corée. |
+| ![**I**](../images/tul/yon-gae.png) | YON-GAE est nommé d'après le célèbre général Yon Gae Somoon de la dynastie Koguryo. Les 49 mouvements représentent l'année 649 apr. J.-C., lorsqu'il détruisit l'armée impériale chinoise des Tang forte de près de 300 000 soldats à Ansi Sung, les obligeant à battre en retraite et à quitter la Corée. |
 
 [YON-GAE](https://youtu.be/wpGFNOtmwcE?si=dPkUQNtz1e8xhWKF)
 

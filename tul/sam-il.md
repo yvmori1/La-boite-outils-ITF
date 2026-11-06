@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**士**](../images/sam-il.png) | SAM-IL désigne la date historique du mouvement d'indépendance de la Corée qui débuta dans tout le pays le 1er mars 1919. Les 33 mouvements du Tul représentent les 33 patriotes qui ont planifié et dirigé ce soulèvement national. |
+| ![**士**](../images/tul/sam-il.png) | SAM-IL désigne la date historique du mouvement d'indépendance de la Corée qui débuta dans tout le pays le 1er mars 1919. Les 33 mouvements du Tul représentent les 33 patriotes qui ont planifié et dirigé ce soulèvement national. |
 
 [SAM-IL](https://youtu.be/BqMGIy6aO1k?si=btpwTEl-PGoAw7sN)
 

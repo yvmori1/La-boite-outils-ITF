@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**\|**](../images/tong-il.png) | TONG-IL exprime la résolution et la volonté inébranlable d'unifier la Corée, divisée de force depuis l'année 1945. Le diagramme (\|) symbolise le peuple coréen homogène, uni et indivisible. |
+| ![**\|**](../images/tul/tong-il.png) | TONG-IL exprime la résolution et la volonté inébranlable d'unifier la Corée, divisée de force depuis l'année 1945. Le diagramme (\|) symbolise le peuple coréen homogène, uni et indivisible. |
 
 ## Origine et contexte historique
 

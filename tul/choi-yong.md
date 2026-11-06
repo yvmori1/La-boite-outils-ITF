@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/choi-yong.png) | CHOI-YONG est nommé d'après le général Choi Yong, premier ministre et commandant en chef des forces armées sous la dynastie Koryo au XIVe siècle. Il était hautement respecté pour sa loyauté absolue, son patriotisme et sa profonde humilité. Il fut exécuté par son subordonné, le général Yi Sung Gae, qui devint plus tard le premier roi de la dynastie Yi. |
+| ![**I**](../images/tul/choi-yong.png) | CHOI-YONG est nommé d'après le général Choi Yong, premier ministre et commandant en chef des forces armées sous la dynastie Koryo au XIVe siècle. Il était hautement respecté pour sa loyauté absolue, son patriotisme et sa profonde humilité. Il fut exécuté par son subordonné, le général Yi Sung Gae, qui devint plus tard le premier roi de la dynastie Yi. |
 
 [CHOI-YONG](https://youtu.be/utktT20XLW0?si=MEq_GSCyrUjBIiFG)
 
