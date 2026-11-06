@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/dan-gun.png) | DAN-GUN est nommé d'après le saint Dan-Gun, le fondateur légendaire de la Corée en l'an 2333 avant J.-C. |
+| ![**I**](../images/tul/dan-gun.png) | DAN-GUN est nommé d'après le saint Dan-Gun, le fondateur légendaire de la Corée en l'an 2333 avant J.-C. |
 
 [DAN-GUN](https://vimeo.com/108059486)
 

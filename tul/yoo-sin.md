@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**士**](../images/yoo-sin.png) | YOO-SIN est nommé d'après le général Kim Yoo Sin, commandant en chef de la dynastie Silla. Les 68 mouvements font référence à l'année 668 apr. J.-C., date à laquelle il unifia la Corée. La posture de départ simule un sabre dégainé du côté droit plutôt que gauche, symbolisant l'erreur tragique de Yoo Sin d'avoir suivi les ordres de son roi d'allier des forces étrangères (les Tang chinois) contre sa propre nation. |
+| ![**士**](../images/tul/yoo-sin.png) | YOO-SIN est nommé d'après le général Kim Yoo Sin, commandant en chef de la dynastie Silla. Les 68 mouvements font référence à l'année 668 apr. J.-C., date à laquelle il unifia la Corée. La posture de départ simule un sabre dégainé du côté droit plutôt que gauche, symbolisant l'erreur tragique de Yoo Sin d'avoir suivi les ordres de son roi d'allier des forces étrangères (les Tang chinois) contre sa propre nation. |
 
 [YOO-SIN](https://youtu.be/JOAeFLPXgFc?si=ENMVuJWWswqnYmFY)
 

@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**I**](../images/joong-gun.png) | JOONG-GUN est nommé d'après le patriote Ahn Joong-Gun qui assassina Hiro-Bumi Ito, le premier gouverneur général japonais de la Corée, connu pour avoir été le principal artisan de la fusion Corée-Japon. Les 32 mouvements de ce Tul représentent l'âge de M. Ahn lorsqu'il fut exécuté à la prison de Lui-Shung en 1910. |
+| ![**I**](../images/tul/joong-gun.png) | JOONG-GUN est nommé d'après le patriote Ahn Joong-Gun qui assassina Hiro-Bumi Ito, le premier gouverneur général japonais de la Corée, connu pour avoir été le principal artisan de la fusion Corée-Japon. Les 32 mouvements de ce Tul représentent l'âge de M. Ahn lorsqu'il fut exécuté à la prison de Lui-Shung en 1910. |
 
 [JOONG-GUN](https://vimeo.com/95926168)
 

@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**士**](../images/kwang-gae.png) | KWANG-GAE porte le nom de Kwang-Gae-Toh-Wang, le 19e roi de la dynastie Koguryo, qui a reconquis tous les territoires perdus de la Mandchourie. Le diagramme symbolise l'expansion et la récupération des territoires, et ses 39 mouvements correspondent aux deux premiers chiffres de l'an 391 apr. J.-C., l'année de son couronnement. |
+| ![**士**](../images/tul/kwang-gae.png) | KWANG-GAE porte le nom de Kwang-Gae-Toh-Wang, le 19e roi de la dynastie Koguryo, qui a reconquis tous les territoires perdus de la Mandchourie. Le diagramme symbolise l'expansion et la récupération des territoires, et ses 39 mouvements correspondent aux deux premiers chiffres de l'an 391 apr. J.-C., l'année de son couronnement. |
 
 [KWANG-GAE](https://vimeo.com/133453588)
 

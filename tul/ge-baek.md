@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**\|**](../images/ge-baek.png) | GE-BAEK est nommé d'après Ge-Baek, un grand général de la dynastie Baek Je (660 apr. J.-C.). Le diagramme représente sa discipline militaire sévère et rigoureuse. |
+| ![**\|**](../images/tul/ge-baek.png) | GE-BAEK est nommé d'après Ge-Baek, un grand général de la dynastie Baek Je (660 apr. J.-C.). Le diagramme représente sa discipline militaire sévère et rigoureuse. |
 
 [GE-BAEK](https://vimeo.com/132834004)
 

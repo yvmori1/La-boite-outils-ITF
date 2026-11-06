@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**山 / ⛰**](../images/juche.png) | JUCHE est l'idée philosophique selon laquelle l'homme est le maître de tout et décide de tout ; autrement dit, que l'homme est le maître de son destin. Cette idée tire ses racines historiques du Mont Baekdu, symbole de la force du peuple coréen. Le diagramme représente ce mont sacré. |
+| ![**山 / ⛰**](../images/tul/juche.png) | JUCHE est l'idée philosophique selon laquelle l'homme est le maître de tout et décide de tout ; autrement dit, que l'homme est le maître de son destin. Cette idée tire ses racines historiques du Mont Baekdu, symbole de la force du peuple coréen. Le diagramme représente ce mont sacré. |
 
 [JUCHE](https://youtu.be/ipD-SQHzNmY?si=UahIY9-TPVKZVkrd)
 

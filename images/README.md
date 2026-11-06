@@ -23,30 +23,32 @@ Les schémas cotés des 21 positions, générés par
 
 Dans l'ordre de progression des grades. Voir [../tul/README.md](../tul/README.md).
 
+Tracés au sol avec la position de départ des pieds et les points A à H, dans le dossier `images/tul/`. Images en niveaux de gris (8 teintes, PNG optimisé, 600 px de large, environ 9 Ko chacune).
+
 | Image | Forme | Grade |
 | :--- | :--- | :--- |
-| [chon-ji.png](chon-ji.png) | Chon-Ji | 9e Gup |
-| [dan-gun.png](dan-gun.png) | Dan-Gun | 8e Gup |
-| [do-san.png](do-san.png) | Do-San | 7e Gup |
-| [won-hyo.png](won-hyo.png) | Won-Hyo | 6e Gup |
-| [yul-gok.png](yul-gok.png) | Yul-Gok | 5e Gup |
-| [joong-gun.png](joong-gun.png) | Joong-Gun | 4e Gup |
-| [toi-gye.png](toi-gye.png) | Toi-Gye | 3e Gup |
-| [hwa-rang.png](hwa-rang.png) | Hwa-Rang | 2e Gup |
-| [choong-moo.png](choong-moo.png) | Choong-Moo | 1er Gup |
-| [kwang-gae.png](kwang-gae.png) | Kwang-Gae | 1er Dan |
-| [po-eun.png](po-eun.png) | Po-Eun | 1er Dan |
-| [ge-baek.png](ge-baek.png) | Ge-Baek | 1er Dan |
-| [eui-am.png](eui-am.png) | Eui-Am | 2e Dan |
-| [choong-jang.png](choong-jang.png) | Choong-Jang | 2e Dan |
-| [juche.png](juche.png) | Juche | 2e Dan |
-| [ko-dang.png](ko-dang.png) | Ko-Dang | 2e Dan (alternative) |
-| [sam-il.png](sam-il.png) | Sam-Il | 3e Dan |
-| [yoo-sin.png](yoo-sin.png) | Yoo-Sin | 3e Dan |
-| [choi-yong.png](choi-yong.png) | Choi-Yong | 3e Dan |
-| [yon-gae.png](yon-gae.png) | Yon-Gae | 4e Dan |
-| [ul-ji.png](ul-ji.png) | Ul-Ji | 4e Dan |
-| [moon-moo.png](moon-moo.png) | Moon-Moo | 4e Dan |
-| [so-san.png](so-san.png) | So-San | 5e Dan |
-| [se-jong.png](se-jong.png) | Se-Jong | 5e Dan |
-| [tong-il.png](tong-il.png) | Tong-Il | 6e Dan |
+| [tul/chon-ji.png](tul/chon-ji.png) | Chon-Ji | 9e Gup |
+| [tul/dan-gun.png](tul/dan-gun.png) | Dan-Gun | 8e Gup |
+| [tul/do-san.png](tul/do-san.png) | Do-San | 7e Gup |
+| [tul/won-hyo.png](tul/won-hyo.png) | Won-Hyo | 6e Gup |
+| [tul/yul-gok.png](tul/yul-gok.png) | Yul-Gok | 5e Gup |
+| [tul/joong-gun.png](tul/joong-gun.png) | Joong-Gun | 4e Gup |
+| [tul/toi-gye.png](tul/toi-gye.png) | Toi-Gye | 3e Gup |
+| [tul/hwa-rang.png](tul/hwa-rang.png) | Hwa-Rang | 2e Gup |
+| [tul/choong-moo.png](tul/choong-moo.png) | Choong-Moo | 1er Gup |
+| [tul/kwang-gae.png](tul/kwang-gae.png) | Kwang-Gae | 1er Dan |
+| [tul/po-eun.png](tul/po-eun.png) | Po-Eun | 1er Dan |
+| [tul/ge-baek.png](tul/ge-baek.png) | Ge-Baek | 1er Dan |
+| [tul/eui-am.png](tul/eui-am.png) | Eui-Am | 2e Dan |
+| [tul/choong-jang.png](tul/choong-jang.png) | Choong-Jang | 2e Dan |
+| [tul/juche.png](tul/juche.png) | Juche | 2e Dan |
+| [tul/ko-dang.png](tul/ko-dang.png) | Ko-Dang | 2e Dan (alternative) |
+| [tul/sam-il.png](tul/sam-il.png) | Sam-Il | 3e Dan |
+| [tul/yoo-sin.png](tul/yoo-sin.png) | Yoo-Sin | 3e Dan |
+| [tul/choi-yong.png](tul/choi-yong.png) | Choi-Yong | 3e Dan |
+| [tul/yon-gae.png](tul/yon-gae.png) | Yon-Gae | 4e Dan |
+| [tul/ul-ji.png](tul/ul-ji.png) | Ul-Ji | 4e Dan |
+| [tul/moon-moo.png](tul/moon-moo.png) | Moon-Moo | 4e Dan |
+| [tul/so-san.png](tul/so-san.png) | So-San | 5e Dan |
+| [tul/se-jong.png](tul/se-jong.png) | Se-Jong | 5e Dan |
+| [tul/tong-il.png](tul/tong-il.png) | Tong-Il | 6e Dan |

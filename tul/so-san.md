@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**士**](../images/so-san.png) | SO-SAN est le pseudonyme du moine célèbre Choi Hyong Ung (1520-1604) de la dynastie Yi. Les 72 mouvements font référence à son âge lorsqu'il organisa un corps d'élite de moines-soldats, avec l'aide de son élève Sa Myunh Dang, afin de repousser les pirates japonais qui s'étaient emparés de la quasi-totalité de la péninsule coréenne en 1592. |
+| ![**士**](../images/tul/so-san.png) | SO-SAN est le pseudonyme du moine célèbre Choi Hyong Ung (1520-1604) de la dynastie Yi. Les 72 mouvements font référence à son âge lorsqu'il organisa un corps d'élite de moines-soldats, avec l'aide de son élève Sa Myunh Dang, afin de repousser les pirates japonais qui s'étaient emparés de la quasi-totalité de la péninsule coréenne en 1592. |
 
 ## Origine et contexte historique
 

@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**士**](../images/yul-gok.png) | YUL-GOK est le pseudonyme du grand philosophe et érudit Yi I (1536-1584), surnommé le 'Confucius de la Corée'. Les 38 mouvements de ce Tul se rapportent à son lieu de naissance situé sur le 38e degré de latitude, et le diagramme représente l'érudit (lettré). |
+| ![**士**](../images/tul/yul-gok.png) | YUL-GOK est le pseudonyme du grand philosophe et érudit Yi I (1536-1584), surnommé le 'Confucius de la Corée'. Les 38 mouvements de ce Tul se rapportent à son lieu de naissance situé sur le 38e degré de latitude, et le diagramme représente l'érudit (lettré). |
 
 [YUL-GOK](https://vimeo.com/106753098)
 

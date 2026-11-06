@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**士**](../images/toi-gye.png) | TOI-GYE est le nom de plume du célèbre érudit Yi Hwang (XVIe siècle), une autorité reconnue sur le néo-confucianisme. Les 37 mouvements se rapportent à son lieu de naissance situé sur le 37e degré de latitude, et le diagramme représente l'érudit (lettré). |
+| ![**士**](../images/tul/toi-gye.png) | TOI-GYE est le nom de plume du célèbre érudit Yi Hwang (XVIe siècle), une autorité reconnue sur le néo-confucianisme. Les 37 mouvements se rapportent à son lieu de naissance situé sur le 37e degré de latitude, et le diagramme représente l'érudit (lettré). |
 
 [TOI-GYE](https://vimeo.com/96867780)
 

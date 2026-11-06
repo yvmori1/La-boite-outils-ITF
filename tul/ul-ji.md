@@ -10,7 +10,7 @@
 
 | Diagramme | Description |
 | ------ | ------ |
-| ![**Hanja pour le nom de famille (Moon-Dok)**](../images/ul-ji.png) | UL-JI est nommé d'après le général Ul-Ji Moon Dok qui défendit la Corée avec succès en 612 apr. J.-C. contre un million de soldats chinois de la dynastie Sui, dirigés par Yang Je. En employant des tactiques de guérilla d'usure de type harcèlement rapide, Ul-Ji parvint à décimer une grande partie des forces ennemies. Le diagramme représente son nom de famille. Les 42 mouvements correspondent à l'âge du Général Choi Hong Hi lorsqu'il créa ce Tul. |
+| ![**Hanja pour le nom de famille (Moon-Dok)**](../images/tul/ul-ji.png) | UL-JI est nommé d'après le général Ul-Ji Moon Dok qui défendit la Corée avec succès en 612 apr. J.-C. contre un million de soldats chinois de la dynastie Sui, dirigés par Yang Je. En employant des tactiques de guérilla d'usure de type harcèlement rapide, Ul-Ji parvint à décimer une grande partie des forces ennemies. Le diagramme représente son nom de famille. Les 42 mouvements correspondent à l'âge du Général Choi Hong Hi lorsqu'il créa ce Tul. |
 
 [UL-JI](https://youtu.be/714ULIHB2JU?si=pFTkQQyt-kemMtTy)
 
