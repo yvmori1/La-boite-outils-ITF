@@ -63,3 +63,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec le plat de la main ou des phalanges :** Ne pas verrouiller le poing et impacter avec le plat des doigts au lieu des grosses jointures (*Dung Joomuk*).
 * **Oublier le tirage de réaction :** Laisser flotter la main gauche au lieu de la ramener fermement à la hanche (*Heori*).
 * **Déstabiliser la posture *Annun Sogi* :** Laisser les genoux se fermer ou le bassin basculer vers l'avant sous l'impulsion du coup.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

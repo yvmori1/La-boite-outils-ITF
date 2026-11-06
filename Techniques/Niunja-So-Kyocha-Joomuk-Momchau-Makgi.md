@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Poings mous ou mal fermés :** Relâcher les poignets, risquant une entorse grave lors de l'impact contre un coup de pied lourd.
 * **Absence d'effet d'arrêt (*Momchau*) :** Laisser reculer ou fléchir les bras sous le choc au lieu de maintenir le cadre rigide en « X ».
 * **Mauvaise répartition du poids :** Ne pas maintenir 70% du poids du corps sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage d'arrêt (Momchau Makgi)](../makgi/momchau-makgi.md)
+
+<!-- /fiches-liees -->

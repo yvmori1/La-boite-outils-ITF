@@ -87,3 +87,13 @@ C'est l'un des blocages en posture en L les plus fréquemment étudiés :
 * **Confondre *An Palmok* et *Bakat Palmok* :** Utiliser l'extérieur du bras au lieu de l'intérieur (côté pouce).
 * **Buste complètement de face :** Ouvrir les épaules de face au lieu de conserver la position de trois-quarts (*Half-facing*).
 * **Coudes collés au corps ou bras tendu :** Ne pas conserver l'angle de flexion naturel du coude (~110°), ce qui détruit la capacité d'absorption du blocage.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage avec l'avant-bras intérieur (An Palmok Makgi)](../makgi/an-palmok-makgi.md), [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md)
+
+<!-- /fiches-liees -->

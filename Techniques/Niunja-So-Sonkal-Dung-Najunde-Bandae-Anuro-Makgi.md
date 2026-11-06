@@ -70,3 +70,12 @@ Sa décomposition linguistique est la suivante :
 * **Trajectoire directe au lieu d'intérieure :** Pousser le bras de haut en bas au lieu de décrire un mouvement circulaire venant de l'extérieur vers l'intérieur (**Anuro**).
 * **Confondre avec le blocage de garde (*Daebi Makgi*) :** Laisser le second bras devant la poitrine au lieu de le tirer sèchement à la hanche (*Heori*).
 * **Mauvaise répartition du poids :** Ne pas maintenir 70% de la masse sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage vers l'intérieur (Anuro Makgi)](../makgi/anuro-makgi.md)
+
+<!-- /fiches-liees -->

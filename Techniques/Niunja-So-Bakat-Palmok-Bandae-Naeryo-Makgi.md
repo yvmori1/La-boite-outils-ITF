@@ -71,3 +71,12 @@ Sa décomposition linguistique est la suivante :
 * **Armement trop bas :** Ne pas monter le poing d'armement au-dessus de l'épaule, ce qui élimine la puissance gravitationnelle de la chute de masse.
 * **S'incliner vers l'avant :** Pencher le buste pour accompagner la descente du bras au lieu de maintenir le dos droit et d'abaisser le bassin en *Niunja Sogi*.
 * **Mauvaise répartition du poids :** Ne pas conserver 70% du poids du corps ancré sur la jambe arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage descendant (Naeryo Makgi)](../makgi/naeryo-makgi.md)
+
+<!-- /fiches-liees -->

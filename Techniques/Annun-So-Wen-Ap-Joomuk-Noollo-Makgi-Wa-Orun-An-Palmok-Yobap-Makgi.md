@@ -78,3 +78,12 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise arme naturelle à gauche :** Pousser avec la paume (*Sonbadak*) au lieu d'utiliser le devant du poing fermé (*Ap Joomuk*).
 * **Erreur de tranche à droite :** Utiliser la tranche extérieure de l'avant-bras (*Bakat Palmok*) au lieu de la tranche interne (*An Palmok*).
 * **Perte d'ancrage en *Annun Sogi* :** Tendre les jambes ou laisser les genoux s'effondrer vers l'intérieur sous la pression du blocage descendant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

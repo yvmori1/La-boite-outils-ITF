@@ -74,3 +74,12 @@ Selon le contexte tactique, deux armes naturelles sont principalement utilisées
 * **Trop pivoter le pied d'appui :** Tourner le pied d'appui à 180° transforme involontairement la technique en un *Dollyo Chagi*, plus lent à armer.
 * **Ne pas fléchir le genou :** Lancer la jambe complètement tendue crée un balayage lourd au lieu d'une frappe fouettée.
 * **Monter le genou trop au centre :** Si le genou monte strictement dans l'axe frontal, la trajectoire devient celle d'un *Ap Chagi* et perd son angle d'attaque en demi-lune.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Kaunde Bandal Chagi](../Techniques/Kaunde-Bandal-Chagi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

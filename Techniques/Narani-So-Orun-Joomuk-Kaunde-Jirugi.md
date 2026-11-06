@@ -67,3 +67,11 @@ Sa décomposition linguistique est la suivante :
 * **Rotation précoce du poing :** Pivoter le poing au début de la trajectoire au lieu de déclencher le vrillage de 180° au tout dernier instant avant l'impact.
 * **Crispation de l'épaule :** Monter la clavicule ou crisper le trapèze droit au lieu de garder l'épaule basse et relâchée.
 * **Genoux verrouillés :** Garder les jambes raides à l'impact, ce qui annule le transfert de poids de la *Sine Wave*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

@@ -70,3 +70,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre les niveaux (*Kaunde* vs *Nopunde*) :** Frapper à la hauteur du visage au lieu de stabiliser la main au niveau du thorax/des côtes (*Kaunde*).
 * **Pousser au lieu de fouetter :** Tendre le bras en ligne droite au lieu d'exploiter la charnière du coude et le fouetté du poignet (*Taerigi*).
 * **Tourner les pieds :** Laisser décoller les talons ou pivoter les pieds au lieu de maintenir le parallélisme rigoureux d'*Annun Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Po-Eun](../tul/po-eun.md), [Eui-Am](../tul/eui-am.md)
+
+<!-- /fiches-liees -->

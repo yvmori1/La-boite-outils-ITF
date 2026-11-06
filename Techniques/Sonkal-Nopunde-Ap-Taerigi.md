@@ -57,3 +57,11 @@ Contrairement aux frappes de tranchant vers l'extérieur (*Bakuro Taerigi*) ou v
 * **Oubli de la vague (*Sine Wave*) :** Porter le coup de manière "plate", sans synchroniser l'impact avec la descente finale du poids du corps.
 
 > **Point clé :** La puissance du *Sonkal Nopunde Ap Taerigi* ne provient pas de la force brute du bras, mais de la vitesse de fouetté au dernier instant, parfaitement synchronisée avec la descente du corps et la réaction de la hanche opposée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

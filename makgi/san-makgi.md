@@ -74,3 +74,12 @@ Le *San Makgi* apparaît dans plusieurs formes emblématiques du programme des c
 * **Avant-bras trop écartés ou trop collés :** Perdre l'angle à 90° au niveau du coude, ce qui fragilise la structure contre un choc latéral.
 * **Tête rentrée dans les épaules :** Crisper le cou et hausser les épaules, réduisant la mobilité et la vision.
 * **Désynchronisation des bras :** Lever un bras avant l'autre au lieu d'obtenir un verrouillage parfaitement simultané.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Bakat Palmok San Makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md), [Annun So Orun Bakat Palmok San Makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-San-Makgi.md), [Annun So Sonkal Dung San Makgi](../Techniques/Annun-So-Sonkal-Dung-San-Makgi.md), [Annun So Wen Bakat Palmok San Makgi](../Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.md), [Gunnun So Sonkal San Makgi](../Techniques/Gunnun-So-Sonkal-San-Makgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

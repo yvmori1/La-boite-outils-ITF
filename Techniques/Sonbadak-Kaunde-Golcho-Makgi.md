@@ -53,3 +53,11 @@ Contrairement aux blocages percutants ou durs (comme un blocage avec le tranchan
 * **Oubli de la vague (*Sine Wave*) :** Réaliser le blocage de manière "plate" et purely musculaire, sans utiliser le poids du corps lors de la descente finale.
 
 > **Point clé :** La puissance du *Sonbadak Kaunde Golcho Makgi* ne réside pas dans la force d'impact, mais dans le **timing** et la **fluidité** : il s'agit de dévier la force de l'adversaire tout en préparant instantanément la riposte.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Juche](../tul/juche.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

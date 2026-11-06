@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Pousser la frappe (*Jirugi*) :** Tendre le bras en ligne droite au lieu de maintenir un mouvement cinglant en arc de cercle (*Taerigi*).
 * **Frapper hors du niveau moyen :** Monter la main à la hauteur des yeux (*Nopunde*) au lieu de stabiliser la frappe au niveau des épaules/du tronc (*Kaunde*).
 * **Tourner les pieds :** Faire pivoter les talons vers la droite sous l'effet de l'élan au lieu de garder les deux plantes de pieds strictement parallèles face à l'avant en *Annun Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Po-Eun](../tul/po-eun.md), [Eui-Am](../tul/eui-am.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

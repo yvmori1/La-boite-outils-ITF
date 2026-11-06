@@ -69,3 +69,11 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Baro* et *Bandae* :** Frapper avec le bras du côté de la jambe arrière au lieu du bras de la jambe avant.
 * **Armement trop bas :** Ne pas monter la main au-dessus des yeux/de la tête à l'armement, réduisant considérablement la force de chute de la frappe.
 * **Pencher le buste :** Casser la colonne vertébrale vers l'avant au lieu de garder le buste droit et aligné en semi-profil (*Han Momtong*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Frappe vers la bas (Naeryo Taerigi)](../jirugi/naeryo-taerigi.md)
+
+<!-- /fiches-liees -->

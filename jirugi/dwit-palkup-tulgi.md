@@ -71,3 +71,12 @@ On retrouve le coup de coude arrière dans plusieurs *Tul* de niveau intermédia
 * **Se pencher vers l'avant :** Casser le buste vers l'avant pour compenser le mouvement du coude, ce qui déséquilibre la posture et réduit la force de pénétration.
 * **Écarter le coude du corps :** Faire un grand arc de cercle vers l'extérieur au lieu de maintenir une trajectoire rectiligne rasant les côtes.
 * **Oublier d'engager la hanche :** Utiliser uniquement les muscles du bras sans reculer ou pivoter la hanche pour accompagner le mouvement de vague.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Orun Dwit Palkup Tulgi](../Techniques/Annun-So-Orun-Dwit-Palkup-Tulgi.md), [Annun So Wen Dwit Palkup Tulgi](../Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.md), [Gunnun So Dwit Palkup Bandae Tulgi](../Techniques/Gunnun-So-Dwit-Palkup-Bandae-Tulgi.md), [Sasun So Dwit Palkup Tulgi](../Techniques/Sasun-So-Dwit-Palkup-Tulgi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

@@ -71,3 +71,12 @@ On retrouve les techniques de blocage descendant dans plusieurs formes officiell
 * **Ne pas armer assez haut :** Démarrer le blocage au niveau de la poitrine au lieu de l'épaule/visage, ce qui élimine l'effet de pesanteur et réduit considérablement la force d'impact.
 * **Tendre le coude complètement (Verrouillage à 180°) :** Tendre entièrement le bras en fin de parcours, ce qui expose l'articulation du coude à une hyper-extension douloureuse si le coup adverse est lourd.
 * **Écarter le bras du corps :** Descendre le bras en faisant un grand arc vers l'extérieur au lieu de suivre la ligne centrale du corps, laissant le torse découvert pendant la trajectoire.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Dwitbal So Euhkallin Sonbadak Naeryo Makgi](../Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md), [Dwitbal So Sonbadak Bandae Naeryo Makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md), [Gunnun So Kyocha Joomuk Naeryo Makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Naeryo-Makgi.md), [Niunja So Bakat Palmok Bandae Naeryo Makgi](../Techniques/Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.md), [Niunja So Bakat Palmok Naeryo Makgi](../Techniques/Niunja-So-Bakat-Palmok-Naeryo-Makgi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

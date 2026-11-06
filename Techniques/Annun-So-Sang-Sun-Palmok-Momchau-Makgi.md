@@ -65,3 +65,13 @@ Sa décomposition linguistique est la suivante :
 * **Écarter les coudes :** Laisser un espace trop large entre les deux avant-bras, ce qui permet à l'attaque adverse de s'infiltrer au centre.
 * **Absence d'effet stoppeur (*Momchau*) :** Bloquer de manière passive sans imprimer le verrouillage sec (*Snap*) au moment du contact.
 * **Relâcher l'*Annun Sogi* :** Tendre les jambes à l'impact au lieu de maintenir la flexion basse des genoux poussés vers l'extérieur.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage d'arrêt (Momchau Makgi)](../makgi/momchau-makgi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

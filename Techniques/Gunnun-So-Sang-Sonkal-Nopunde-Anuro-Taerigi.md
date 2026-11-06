@@ -68,3 +68,12 @@ Dans Ko-Dang, la frappe double conclut un coup de pied de côté frontal : le pi
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Sang Sonkal Soopyong Taerigi](Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Aplatir le cadre en "D" :** Garder les bras totalement tendus et rigides au lieu de conserver la légère courbure angulaire nécessaire à la structure en "D".
 * **Confondre *Sonkal* et *Sonkal Dung* :** Orienter le tranchant interne (côté pouce) vers l'attaque au lieu du tranchant extérieur (côté auriculaire).
 * **Déformer l'*Annun Sogi* :** Laisser les genoux s'affaisser vers l'intérieur lors de la redescente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

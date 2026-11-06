@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre l'orientation de la paume :** Frapper paume sur le côté (*Sun Sonkut*) ou paume vers le haut (*Dwijibun Sonkut*) au lieu de finir paume vers le bas (**Opun**).
 * **Viser une zone dure :** Pointer les doigts vers le front ou le sternum au lieu de cibler la gorge ou les yeux, risquant de se briser la main.
 * **Buste penché vers l'avant :** Casser la colonne vertébrale pour aller chercher de la portée au lieu d'utiliser la progression du pas en *Gunnun Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md), [Choi-Yong](../tul/choi-yong.md)
+
+<!-- /fiches-liees -->

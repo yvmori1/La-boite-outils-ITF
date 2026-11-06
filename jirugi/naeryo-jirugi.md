@@ -74,3 +74,12 @@ On retrouve le coup de poing descendant dans plusieurs formes avancées du progr
 * **Confondre avec un coup de poing direct moyen/bas (*Dung Jirugi / Kaunde Jirugi*) :** Lancer le poing horizontalement vers le bas au lieu d'avoir une vraie trajectoire descendante axiale.
 * **Négliger la rotation du poignet :** Arriver la paume sur le côté au lieu d'achever la rotation complète d'**Ap Joomuk**.
 * **Frapper "jambes tendues" :** Rester haut sur ses jambes, ce qui prive la frappe du transfert de masse apporté par le mouvement de vague descendant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So Bandae Naeryo Jirugi](../Techniques/Gunnun-So-Bandae-Naeryo-Jirugi.md), [Gunnun So Naeryo Jirugi](../Techniques/Gunnun-So-Naeryo-Jirugi.md)
+* **Dans les formes :** [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

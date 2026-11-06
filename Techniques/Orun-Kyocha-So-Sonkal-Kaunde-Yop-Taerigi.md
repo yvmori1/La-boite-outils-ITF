@@ -58,3 +58,11 @@ Cette technique associe le verrouillage du bas du corps en position croisée à 
 * **Relâchement de la main :** Laisser les doigts écartés ou le poignet mou. Les quatre doigts doivent être fermement collés et le poignet rigide pour transmettre l'onde de choc.
 
 > **Point clé :** La puissance du *Orun Kyocha So Sonkal Kaunde Yop Taerigi* repose sur la compression du bas du corps (genoux serrés en position croisée) synchronisée avec l'ouverture explosive du bras en frappe latérale.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,13 @@ Sa décomposition linguistique est la suivante :
 * **Bras arrière trop éloigné ou trop collé :** Laisser le bras arrière s'écarter du thorax ou au contraire le plaquer contre le corps, ce qui supprime son rôle d'amortisseur.
 * **Bras avant trop tendu :** Verrouiller le coude du bras avant, ce qui affaiblit sa structure et le rend vulnérable à une casse ou une déviation.
 * **Erreur de niveau (*Kaunde* vs *Nopunde*) :** Placer le poing avant trop haut (au niveau des yeux) au lieu de le maintenir à hauteur de l'épaule/du thorax (*Kaunde*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Geste de base :** [Blocage de garde des avant-bras (Palmok Daebi Makgi)](../makgi/palmok-daebi-makgi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Choi-Yong](../tul/choi-yong.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

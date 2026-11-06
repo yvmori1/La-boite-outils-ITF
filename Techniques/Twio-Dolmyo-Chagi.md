@@ -66,3 +66,11 @@ Sa décomposition linguistique est la suivante :
 * **Lancer la frappe trop tôt ou trop tard :** Déclencher la jambe pendant la montée ou la descente au lieu d'impacter au point d'apogée du saut.
 * **Ne pas réarmer la jambe :** Laisser tomber la jambe raide après l'impact, provoquant une chute lourde ou une perte d'équilibre à l'atterrissage.
 * **Réception rigide :** Atterrir les jambes tendues au sol, ce qui nuit aux articulations des genoux et des chevilles.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

@@ -73,3 +73,12 @@ C'est l'un des mouvements phares enseignés dès les premières ceintures :
 * **Avant-bras horizontal :** Mettre le bras parallèle au sol, ce qui supprime l'angle de glissement et vous fait encaisser la totalité du choc osseux (*Bone-to-bone*).
 * **Armement trop haut :** Démarrer le mouvement au niveau des épaules au lieu d'armer en bas, réduisant l'amplitude et la puissance d'impulsion de l'onde de choc.
 * **Masquer sa propre vision :** Bloquer trop bas devant les yeux au lieu de dégager la ligne de vue sous le bras.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So Bandal Son Bandae Chookyo Makgi](../Techniques/Gunnun-So-Bandal-Son-Bandae-Chookyo-Makgi.md), [Gunnun So Kyocha Joomuk Chookyo Makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Chookyo-Makgi.md), [Gunnun So Kyocha Sonkal Chookyo Makgi](../Techniques/Gunnun-So-Kyocha-Sonkal-Chookyo-Makgi.md), [Gunnun So Palmok Bandae Chookyo Makgi](../Techniques/Gunnun-So-Palmok-Bandae-Chookyo-Makgi.md), [Gunnun So Palmok Chookyo Makgi](../Techniques/Gunnun-So-Palmok-Chookyo-Makgi.md), [Gunnun So Sonkal Bandae Chookyo Makgi](../Techniques/Gunnun-So-Sonkal-Bandae-Chookyo-Makgi.md), [Gunnun So Sonkal Chookyo Makgi](../Techniques/Gunnun-So-Sonkal-Chookyo-Makgi.md), [Sasun So Sang Sonbadak Chookyo Makgi](../Techniques/Sasun-So-Sang-Sonbadak-Chookyo-Makgi.md)
+* **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Do-San](../tul/do-san.md), [Joong-Gun](../tul/joong-gun.md), [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

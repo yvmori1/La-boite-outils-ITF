@@ -72,3 +72,11 @@ Dans la séquence de **Choong-Jang Tul** (juste après la saisie ou le blocage d
 * **Oublier la traction des bras :** Ne pas simuler la saisie/traction (*Japgi*), ce qui enlève la force de réaction (*Reaction Force*).
 * **Orteils pointés :** Ne pas dresser les orteils vers le haut, ce qui expose les orteils à des fractures au contact.
 * **Ne pas replier la jambe :** Laisser tomber la jambe tendue après le fouetté au lieu de réarmer le genou sous contrôle.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de genou fouetté avant (Moorup Apcha Busigi)](../chagi/moorup-apcha-busigi.md)
+
+<!-- /fiches-liees -->

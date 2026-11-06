@@ -71,3 +71,12 @@ On retrouve des mouvements en parallélisme dans les formes intermédiaires et a
 * **Asymétrie des bras :** Laisser un bras plus avancé ou plus haut que l'autre, ce qui détruit le parallélisme et crée une faille dans la protection.
 * **Écarter les coudes en "V" :** Laisser les coudes s'ouvrir vers l'extérieur, ce qui transforme la technique en un blocage écarté (*Heutcho*) au lieu de maintenir les lignes parallèles.
 * **Désynchronisation de l'impact :** Faire arriver un bras légèrement avant l'autre au lieu de verrouiller les deux membres au même instant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So An Palmok Narani Makgi](../Techniques/Annun-So-An-Palmok-Narani-Makgi.md), [Waebal So Bakat Palmok Narani Makgi](../Techniques/Waebal-So-Bakat-Palmok-Narani-Makgi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

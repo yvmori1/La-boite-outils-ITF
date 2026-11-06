@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Angle incorrect :** Bloquer complètement de face (*Ap*) ou complètement sur le côté (*Yop*) au lieu de viser la diagonale exacte à 45° (*Yobap*).
 * **Confondre *An Palmok* et *Bakat Palmok* :** Présenter l'extérieur de l'avant-bras (côté petit doigt) au lieu de l'intérieur (côté pouce).
 * **Rester jambes raides :** Verrouiller les genoux en position haute au lieu d'utiliser la flexion des genoux pour coupler la chute de masse à l'impact du blocage.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md)
+
+<!-- /fiches-liees -->

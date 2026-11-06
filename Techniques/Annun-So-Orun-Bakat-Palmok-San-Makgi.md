@@ -64,3 +64,13 @@ Sa décomposition linguistique est la suivante :
 * **Poing droit hors hauteur :** Placer le poing au niveau des épaules (*Kaunde*) au lieu de le maintenir au niveau de la tempe/tête (*Nopunde*).
 * **Déformer l'*Annun Sogi* :** Laisser les pointes de pieds s'ouvrir vers l'extérieur ou fermer les genoux vers l'intérieur.
 * **Inverser la rotation :** Présenter l'intérieur de l'avant-bras (*An Palmok*) au lieu de la tranche extérieure (*Bakat Palmok*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage en "W" (San Makgi)](../makgi/san-makgi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

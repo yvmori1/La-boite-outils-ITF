@@ -74,3 +74,12 @@ Les mouvements en *Bandae* sont introduits dès les toutes premières formes :
 * **Confondre *Bandae* (Inversé) et *Baro* (Direct) :** Bloquer avec le bras du même côté que la jambe avant au lieu du bras opposé.
 * **Bloquer sans engager la hanche :** Conserver les épaules totalement de profil au lieu de laisser la hanche arrière accompagner le blocage vers l'avant.
 * **Déséquilibre de la posture :** Laisser le buste pencher en arrière à cause du mouvement de torsion opposé.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi](../Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md), [Gunnun So Palmok Najunde Bandae Makgi](../Techniques/Gunnun-So-Palmok-Najunde-Bandae-Makgi.md), [Gunnun So Sonbadak Najunde Anuro Bandae Makgi](../Techniques/Gunnun-So-Sonbadak-Najunde-Anuro-Bandae-Makgi.md), [Niunja So Dung Joomuk Baro Yopdwi Taerigi Wa Palmok Najunde Bandae Makgi](../Techniques/Niunja-So-Dung-Joomuk-Baro-Yopdwi-Taerigi-Wa-Palmok-Najunde-Bandae-Makgi.md), [Niunja So Palmok Najunde Bandae Makgi](../Techniques/Niunja-So-Palmok-Najunde-Bandae-Makgi.md), [Niunja So Sonkal Najunde Bandae Makgi](../Techniques/Niunja-So-Sonkal-Najunde-Bandae-Makgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md), [Kwang-Gae](../tul/kwang-gae.md), [Eui-Am](../tul/eui-am.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

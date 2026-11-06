@@ -69,3 +69,13 @@ Sa décomposition linguistique est la suivante :
 * **Pouces décollés ou doigts écartés :** Relâcher la tension du *Sonkal*, ce qui expose le pouce et les doigts à des fractures lors du contact.
 * **Talon avant écrasé :** Poser le talon du pied avant à plat au sol au lieu de le maintenir décollé sur le bol du pied (*Ap Kumchi*).
 * **Bras arrière trop éloigné du plexus :** Laisser la main arrière flotter loin du corps au lieu de la maintenir à 2-3 cm du thorax pour protéger le centre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Geste de base :** [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md)
+
+<!-- /fiches-liees -->

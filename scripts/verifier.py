@@ -14,10 +14,11 @@ Contrôles effectués :
   4. fiches vides
   5. compteurs du README racine
   6. Techniques/README.md à jour
-  7. menus des sections (.pages) à jour de leur sommaire
-  8. graphies concurrentes d'un même terme
-  9. couverture des liens dans les formes
- 10. mise en forme Markdown compatible GitHub et MkDocs
+  7. blocs « Fiches liées » à jour
+  8. menus des sections (.pages) à jour de leur sommaire
+  9. graphies concurrentes d'un même terme
+ 10. couverture des liens dans les formes
+ 11. mise en forme Markdown compatible GitHub et MkDocs
 """
 
 import argparse
@@ -182,6 +183,8 @@ CONTROLES = [
     ("compteurs du README racine", controle_compteurs, True),
     ("index Techniques à jour",
      lambda: controle_generateur("generer-index-techniques.py"), True),
+    ("fiches liées à jour",
+     lambda: controle_generateur("generer-voir-aussi.py"), True),
     ("menus des sections à jour",
      lambda: controle_generateur("generer-menus.py"), True),
     ("graphies concurrentes", controle_graphies, True),

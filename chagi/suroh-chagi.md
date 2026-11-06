@@ -61,3 +61,12 @@ En self-défense (*Hosinsul*), cette technique permet d'amener un agresseur au s
 * **Mauvais timing :** Tenter de balayer un adversaire qui a ses deux pieds fermement ancrés et son centre de gravité très bas, ce qui risque de bloquer votre propre pied.
 * **Ne pas engager le haut du corps :** Tenter le balayage uniquement avec la jambe sans créer de dynamique avec les bras ou le buste.
 * **Se mettre en déséquilibre :** Pencher le haut du corps en arrière au lieu de rester gainé sur sa propre jambe d'appui.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Yop Bal Badak Suroh Chagi](../Techniques/Yop-Bal-Badak-Suroh-Chagi.md)
+* **Dans les formes :** [Sam-Il](../tul/sam-il.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

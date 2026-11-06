@@ -71,3 +71,12 @@ Sa décomposition linguistique est la suivante :
 * **Doigts relâchés :** Laisser les doigts écartés ou mous au lieu de les maintenir fermement joints et incurvés.
 * **Poids mal réparti :** Surcharger la jambe avant (ex: 60/40), détruisant l'esquive de la posture *Dwitbal Sogi*.
 * **Talon avant écrasé :** Poser le talon du pied avant à plat sur le sol au lieu de le maintenir décollé sur le bol du pied (*Ap Kumchi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

@@ -70,3 +70,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Taerigi* (fouetté) et *Jirugi* (piston) :** Pousser le poing en ligne droite au lieu d'utiliser l'articulation du coude pour décocher un fouetté sec.
 * **Talon arrière posé à plat :** Placer le talon du pied arrière (droit) au sol, ce qui déstabilise la posture *Kyocha Sogi*.
 * **Genoux trop écartés :** Ne pas presser les genoux l'un contre l'autre, détruisant l'ancrage et la compacité de la posture.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+
+<!-- /fiches-liees -->

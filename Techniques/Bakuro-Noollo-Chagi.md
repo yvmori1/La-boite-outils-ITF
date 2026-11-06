@@ -61,3 +61,11 @@ Sa décomposition linguistique est la suivante :
 * **Armer trop à l'extérieur :** Faire partir le pied directement du côté sans passer par l'axe central, ce qui supprime le mouvement *Bakuro* (de l'intérieur vers l'extérieur).
 * **Tendre la jambe d'appui :** Conserver la jambe de terre rigide, ce qui empêche d'utiliser la gravité pour écraser la cible et détruit l'équilibre.
 * **Buste penché en arrière :** Basculer excessivement le haut du corps vers l'arrière pour lever la jambe, réduisant la force de poussée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Doigts mous ou cassés vers l'avant :** Ne pas maintenir la tension des doigts ou les laisser flotter vers l'avant, risquant de se faire plier ou casser les doigts au choc.
 * **Désynchronisation des bras :** Déployer une main avant l'autre au lieu de libérer une poussée parfaitement simultanée (*Sang*).
 * **Mauvaise répartition du poids :** Ne pas charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

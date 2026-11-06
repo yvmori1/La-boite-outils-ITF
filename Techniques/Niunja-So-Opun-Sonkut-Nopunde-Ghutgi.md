@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Ghutgi* (coup transversal/écorchure) et *Tulgi* (poussée directe/estoc) :** Effectuer une poussée droite vers l'avant au lieu d'un mouvement de balayage transversal.
 * **Paume mal orientée :** Tourner la paume sur le côté au lieu de la maintenir fermement vers le sol (**Opun**).
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de conserver 70% du poids ancré sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

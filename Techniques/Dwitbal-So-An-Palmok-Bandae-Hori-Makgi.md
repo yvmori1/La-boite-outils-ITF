@@ -68,3 +68,13 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *An Palmok* et *Bakat Palmok* :** Effectuer le blocage avec l'extérieur de l'avant-bras (côté auriculaire) au lieu de l'intérieur (côté pouce).
 * **Erreur de hauteur (*Hori*) :** Bloquer trop haut (au niveau de la poitrine) ou trop bas (sous les genoux) au lieu de stabiliser la trajectoire au niveau de la ceinture.
 * **Buste penché vers l'avant :** Incliner le haut du corps pour compenser la flexion de la jambe arrière, au lieu de maintenir la colonne vertebrale bien verticale.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Geste de base :** [Blocage au niveau de la taille (Hori Makgi)](../makgi/hori-makgi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

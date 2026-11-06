@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Pousser au lieu de fouetter :** Tendre le bras de manière rigide comme un piston au lieu d'exploiter le fouetté dynamique du coude et du poignet (*Taerigi*).
 * **Erreur de hauteur :** Laisser tomber le bras au niveau moyen (*Kaunde*) au lieu de maintenir la frappe au niveau haut du visage (*Nopunde*).
 * **Verrouiller le coude en hyper-extension :** Tendre complètement le coude à l'impact, ce qui fragilise l'articulation et absorbe inutilement une partie du choc.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Joong-Gun](../tul/joong-gun.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Ko-Dang](../tul/ko-dang.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

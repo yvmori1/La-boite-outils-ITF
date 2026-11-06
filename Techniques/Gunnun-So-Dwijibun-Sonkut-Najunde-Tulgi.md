@@ -58,3 +58,12 @@ Cette technique associe la puissance de poussée de la position en marche à la 
 * **Pouce mal positionné :** Laisser le pouce décollé au lieu de le plaquer contre le côté de la paume, l'exposant à une luxation lors du choc.
 
 > **Point clé :** La force du *Gunnun So Dwijibun Sonkut Najunde Tulgi* réside dans sa trajectoire en glissade paume vers le haut, qui permet d'infiltrer la garde basse pour impacter les points vitaux du bas-ventre avec le bout des doigts.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md)
+
+<!-- /fiches-liees -->

@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Écrase le talon avant :** Poser le talon du pied avant à plat sur le sol au lieu de le maintenir légèrement surélevé sur le bol du pied.
 * **Frapper au niveau moyen (*Kaunde*) :** Diriger le coup vers le thorax au lieu du visage (*Nopunde*), réduisant l'efficacité de l'arme *Joongji Joomuk* conçue pour les zones molles/vitables de la tête.
 * **Confondre *Bandae* et *Baro* :** Frapper avec le bras du même côté que la jambe avant au lieu du bras opposé.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Dans les formes :** [Choi-Yong](../tul/choi-yong.md)
+
+<!-- /fiches-liees -->

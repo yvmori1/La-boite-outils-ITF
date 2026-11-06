@@ -78,3 +78,12 @@ La pique à deux doigts est introduite à un niveau avancé du programme :
 * **Doigts mous ou mal verrouillés :** Ne pas maintenir l'index et le majeur en tension maximale avant et pendant l'impact.
 * **Poignet cassé :** Relâcher l'alignement poignet/avant-bras, ce qui absorbe la force au détriment de la précision et risque de tordre l'articulation.
 * **Pouce non verrouillé :** Laisser le pouce flotter ou ouvert, affaiblissant la structure interne de la main d'attaque.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So Doo Songarak Nopunde Bandae Tulgi](../Techniques/Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

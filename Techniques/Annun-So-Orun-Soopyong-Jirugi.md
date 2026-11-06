@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Casser le poignet :** Ne pas aligner le dos de la main avec l'avant-bras au moment de la vrille finale, risquant d'entorse à l'impact.
 * **Tendre complètement le coude :** Verrouiller l'articulation du coude en hyperextension (180°), ce qui transmet l'onde de choc dans l'épaule au lieu de la diffuser dans la cible.
 * **Déformer l'*Annun Sogi* :** Laisser les genoux s'effondrer vers l'intérieur ou le bassin basculer en avant au moment de la descente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

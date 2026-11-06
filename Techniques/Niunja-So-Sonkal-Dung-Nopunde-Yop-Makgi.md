@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer trop bas :** S'arrêter au niveau de la poitrine (niveau moyen = *Kaunde*) au lieu de monter à hauteur des yeux (*Nopunde*).
 * **Trop ouvrir le bras vers l'arrière :** Dépasser la ligne latérale du corps, ce qui ouvre la garde et détruit l'alignement de l'épaule.
 * **Mauvaise répartition du poids :** Ne pas charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage latéral haut (Nopunde Yop Makgi)](../makgi/nopunde-yop-makgi.md)
+
+<!-- /fiches-liees -->

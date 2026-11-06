@@ -56,3 +56,11 @@ Cette technique utilise la pointe du coude comme une pointe de lance propulsée 
 * **Inaction du bras de réaction :** Laisser la main opposée inactive, ce qui empêche le verrouillage de la ceinture scapulaire et diminue la puissance de pénétration.
 
 > **Point clé :** La spécificité du *Sasun So Dwit Palkup Tulgi* réside dans son mouvement de **poussée perforante** (*Tulgi*) : la pointe du coude doit transpercer la cible en ligne droite vers l'arrière, soutenue par la stabilité de la position *Sasun Sogi* et le poids du corps engagé dans la vague.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Pique de coude arrière (Dwit Palkup Tulgi)](../jirugi/dwit-palkup-tulgi.md)
+
+<!-- /fiches-liees -->

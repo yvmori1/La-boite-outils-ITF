@@ -57,3 +57,11 @@ Sa décomposition linguistique est la suivante :
 * **Confondre avec le coup de pied vrillé :** la courbe va vers l'extérieur et la surface est le côté du cou-de-pied.
 
 Voir aussi : [Kaunde Yopcha Goro Chagi](Kaunde-Yopcha-Goro-Chagi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

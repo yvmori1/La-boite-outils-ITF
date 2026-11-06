@@ -55,3 +55,12 @@ En TaeKwon-Do ITF, la posture *Moa Sogi* sert très souvent de position de dépa
 * **Pieds en "V" :** Ouvrir les pointes de pieds vers l'extérieur (position de canard) au lieu de maintenir les bords intérieurs parallèles et joints.
 * **Bassin cassé / Dos voûté :** Relâcher la posture dorsale ou basculer les fesses vers l'arrière au lieu de maintenir une colonne vertébrale bien droite.
 * **Hyper-extension des genoux :** Verrouiller exagérément les rotules vers l'arrière, ce qui nuit à la circulation et à la réactivité.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques dans cette position :** 14 fiches, classées dans [Techniques](../Techniques/README.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

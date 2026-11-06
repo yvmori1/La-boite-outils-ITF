@@ -56,3 +56,12 @@ Cette technique privilégie la déviation circulaire et le déséquilibre de l'a
 * **Buste penché vers l'avant :** Se casser au niveau de la taille pour aller chercher la jambe adverse, au lieu d'utiliser le fléchissement des genoux et la vague (*Sine Wave*).
 
 > **Point clé :** Le *Niunja So Sonbadak Bandae Duro Makgi* s'appuie sur la fluidité d'un **mouvement ascendant en cuillère** pour capter l'attaque par en dessous et renverser le centre de gravité de l'adversaire.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

@@ -72,3 +72,12 @@ Dans une posture symétrique comme la posture du cavalier (*Annun Sogi*), où le
 * **Genoux qui rentrent vers l'intérieur :** Laisser les genoux s'effondrer vers le centre lors de la rotation du buste, ce qui détruit la structure de l'*Annun Sogi*.
 * **Oublier le bras de réaction :** Laisser flotter la main opposée au lieu de la ramener fermement à la hanche (*Heori*).
 * **Décoller les talons :** Soulever les talons pendant l'onde de choc au lieu de maintenir les plantes de pieds à plat au sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

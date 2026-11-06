@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper face à la cible :** Ne pas tourner le corps complètement de profil en l'air, ce qui transforme la technique en un coup frontal sauté inefficace.
 * **Déclencher la frappe pendant la redescente :** Frapper après avoir dépassé l'*Apex* du saut, perdant ainsi l'inertie ascensionnelle.
 * **Atterrissage les jambes raides :** Risque très élevé de blessure grave aux genoux ou aux chevilles lors de la réception au sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi](../Techniques/Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

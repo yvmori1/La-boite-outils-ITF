@@ -66,3 +66,11 @@ Sa décomposition linguistique est la suivante :
 * **Désynchronisation des bras :** Impacter avec une main avant l'autre au lieu d'obtenir un seul claquement sonore et visuel parfaitement simultané (**Sang**).
 * **Décoller les talons ou verrouiller les genoux :** Tendre exagérément les jambes en fin de course, ce qui annule l'effet d'absorption de la chute de masse (*Sine Wave*).
 * **Épaules montées :** Crisper les trapèzes pendant le croisement des bras au lieu de garder les épaules basses et détendues.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

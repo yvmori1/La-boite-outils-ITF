@@ -70,3 +70,12 @@ Sa décomposition linguistique est la suivante :
 * **Mouvement rigide sans fouetté :** Pousser le bras de façon rectiligne au lieu d'utiliser l'effet de charnière du coude et le snap du poignet.
 * **Frapper avec les jointures avant :** Impacter avec l'avant du poing (*Ap Joomuk*) au lieu d'orienter le dos du poing (**Dung Joomuk**).
 * **Perdre l'ancrage latéral :** Croiser les pieds au sol en *Gunnun Sogi*, ce qui ruine l'équilibre et empêche la rotation de la hanche arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

@@ -65,3 +65,13 @@ Sa décomposition linguistique est la suivante :
 * **Impact avec la pointe des doigts :** Laisser les doigts en première ligne au lieu de pousser avec la base charnue de la paume (*Sonbadak*), risquant d'entorse aux doigts.
 * **Tendre complètement le coude :** Verrouiller le bras en extension maximale (180°), ce qui retire toute capacité d'absorption et détruit la structure de poussée.
 * **Déformer l'*Annun Sogi* :** Laisser le bassin pencher vers l'avant sous l'effort de la poussée au lieu de garder le buste vertical et les genoux bien ouverts.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage poussée (Miro Makgi)](../makgi/miro-makgi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

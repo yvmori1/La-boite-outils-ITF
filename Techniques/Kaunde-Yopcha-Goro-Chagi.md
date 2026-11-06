@@ -64,3 +64,11 @@ Chaque crochet est suivi d'un cisaillage du bout des doigts au niveau haut en po
 * **Talon d'appui décollé :** la jambe d'appui doit rester ancrée pour pivoter.
 
 Voir aussi : [Coup de pied crocheté (Dollyo Goro Chagi)](../chagi/dollyo-goro-chagi.md) · [Coup de pied de côté (Yop Chagi)](../chagi/yop-chagi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

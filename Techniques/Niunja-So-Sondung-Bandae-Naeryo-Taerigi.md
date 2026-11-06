@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Mouvement rigide sans chute de masse :** Donner un coup d'épaule sans utiliser la poussée des jambes et la descente du bassin en *Niunja Sogi*.
 * **Confondre *Baro* et *Bandae* :** Frapper avec la main située du côté de la jambe arrière au lieu de la main du côté de la jambe avant.
 * **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de maintenir le ratio 70% arrière / 30% avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Frappe vers la bas (Naeryo Taerigi)](../jirugi/naeryo-taerigi.md)
+
+<!-- /fiches-liees -->

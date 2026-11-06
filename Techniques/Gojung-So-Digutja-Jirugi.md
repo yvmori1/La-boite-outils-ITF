@@ -69,3 +69,11 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise répartition du poids :** Mettre plus de poids sur la jambe arrière (confondre avec *Niunja Sogi*) ou sur la jambe avant (confondre avec *Gunnun Sogi*) au lieu de maintenir le strict 50/50 du *Gojung Sogi*.
 * **Oublier la double vrille des poignets :** Arriver avec les poings de profil ou mal verrouillés au lieu de sceller la rotation finale à 180°.
 * **Genoux relâchés vers l'extérieur :** Ne pas maintenir la tension des genoux fléchis vers l'intérieur en *Gojung Sogi*, ce qui fragilise les appuis au sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

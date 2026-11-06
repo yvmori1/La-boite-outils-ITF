@@ -92,3 +92,13 @@ C'est l'un des mouvements les plus célèbres du programme des ceintures de coul
 * **Frapper "bras tendu" :** Amener tout le bras rigide depuis l'épaule au lieu de fouetter l'avant-bras autour de l'articulation du coude.
 * **Dépasser la ligne latérale (*Over-swing*) :** Envoyer le poing trop loin derrière soi, ce qui casse l'alignement des épaules et déséquilibre le buste.
 * **Perdre la largeur de la posture :** Croiser les pieds sur une seule ligne lors du déplacement en posture de marche, détruisant la stabilité au moment de l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

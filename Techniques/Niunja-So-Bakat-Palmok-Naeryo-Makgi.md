@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Poing mou ou mal fermé :** Ne pas verrouiller le poing, ce qui relâche la tension musculaire de l'avant-bras (**Bakat Palmok**).
 * **S'incliner vers l'avant :** Pencher le buste pour accompagner la descente du bras au lieu de garder le dos droit et de laisser descendre le bassin en *Niunja Sogi*.
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de conserver 70% du poids sur la jambe arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage descendant (Naeryo Makgi)](../makgi/naeryo-makgi.md)
+
+<!-- /fiches-liees -->

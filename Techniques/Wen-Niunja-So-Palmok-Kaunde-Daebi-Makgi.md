@@ -71,3 +71,13 @@ Sa décomposition linguistique est la suivante :
 * **Poing avant trop haut :** Monter le poing avant au niveau des yeux (*Nopunde*) au lieu de le maintenir à la hauteur des épaules (*Kaunde*).
 * **Bras arrière trop distant ou plaqué :** Placer le poing arrière trop loin du corps ou, au contraire, plaquer l'avant-bras contre le plexus (ce qui transmet la force de l'impact directement aux organes).
 * **Déséquilibre de la posture :** Charger la jambe avant au lieu de conserver la clé de répartition 70% arrière / 30% avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde des avant-bras (Palmok Daebi Makgi)](../makgi/palmok-daebi-makgi.md)
+* **Dans les formes :** [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

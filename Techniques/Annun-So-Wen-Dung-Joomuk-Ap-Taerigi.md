@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec le plat des doigts :** Percuter avec les phalanges inférieures au lieu d'impacter fermement avec la zone des grosses jointures du revers du poing (*Dung Joomuk*).
 * **Dépasser l'axe central :** Laisser le poing gauche partir trop loin vers la gauche au lieu de le stabiliser strictement devant le centre du visage (*Ap*).
 * **Relâcher la flexion des genoux :** Tendre les jambes ou laisser les genoux s'effondrer vers l'intérieur lors de la redescente en *Annun Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

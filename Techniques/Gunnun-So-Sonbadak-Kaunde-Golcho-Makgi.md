@@ -67,3 +67,12 @@ Dans Yul-Gok, deux blocages crochetés se suivent, d'abord *Baro* puis *Bandae*,
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Sonbadak Kaunde Golcho Makgi](Sonbadak-Kaunde-Golcho-Makgi.md), [Gunnun So Sonbadak Kaunde Bandae Golcho Makgi](Gunnun-So-Sonbadak-Kaunde-Bandae-Golcho-Makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md)
+
+<!-- /fiches-liees -->

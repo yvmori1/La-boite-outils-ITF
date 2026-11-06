@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Vriller le poing trop tôt :** Pivoter la main dès le départ du mouvement au lieu de conserver la paume vers le haut jusqu'au déclenchement final (*Snap*).
 * **Frapper avec les petites jointures :** Ne pas aligner le poing correctement, risquant d'impacter avec les phalanges de l'annulaire et de l'auriculaire (risque de fracture du boxeur).
 * **Négliger le retrait de la main opposée :** Laisser le bras droit revenir mollement à la hanche au lieu d'imprimer un tirage sec et rapide.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md), [Juche](../tul/juche.md), [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

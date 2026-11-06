@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer le pied d'appui :** Ne pas faire pivoter le pied de terre, ce qui verrouille la hanche et empêche la jambe de traverser l'axe central.
 * **Armer directement au centre :** Faire monter le genou devant la poitrine au lieu de passer par l'extérieur, transformant le coup en un simple coup de pied direct.
 * **Jambe tombante :** Laisser tomber la jambe tendue après la frappe au lieu de fléchir le genou (*Kopurigi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied vertical / dressé (Sewo Chagi)](../chagi/sewo-chagi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

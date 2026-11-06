@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Pouce décollé :** Laisser le pouce ressortir du côté de la main, ce qui fragilise la structure et expose le pouce à une blessure.
 * **Lancer le bras trop en arrière :** Dépasser la ligne du profil de l'adversaire, ce qui déséquilibre le buste et expose le thorax.
 * **Mauvaise répartition du poids :** Ne pas charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

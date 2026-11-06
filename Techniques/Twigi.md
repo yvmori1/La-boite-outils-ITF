@@ -60,3 +60,11 @@ Pour réussir un saut efficace et sécurisé en TaeKwon-Do, quatre phases doiven
 * **Atterrir les jambes tendues :** Ne pas absorber l'impact par la flexion des genoux à la réception, risquant de traumatiser les chevilles, genoux et vertèbres.
 * **Sauter sans gainer le tronc :** Laisser le dos s'affaisser ou s'avachir en l'air, ce qui détruit la hauteur du saut et le contrôle de la frappe.
 * **Faire du bruit à l'atterrissage :** Frapper le sol lourdement avec les talons au lieu d'amortir en silence sur la plante des pieds.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Ge-Baek](../tul/ge-baek.md), [Ul-Ji](../tul/ul-ji.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

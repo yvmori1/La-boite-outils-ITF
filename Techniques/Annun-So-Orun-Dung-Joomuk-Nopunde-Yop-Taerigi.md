@@ -67,3 +67,13 @@ Sa décomposition linguistique est la suivante :
 * **Frapper en dessous du niveau haut :** Stabiliser le poing au niveau des épaules (*Kaunde*) au lieu de maintenir scrupuleusement la hauteur des yeux/tempes (*Nopunde*).
 * **Tourner les pieds :** Laisser les pieds pivoter vers la droite au lieu de maintenir les deux plantes de pieds strictement parallèles face à l'avant en *Annun Sogi*.
 * **Oublier le coup d'œil :** Frapper sur le côté sans tourner la tête pour regarder la cible avant et pendant l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md)
+
+<!-- /fiches-liees -->

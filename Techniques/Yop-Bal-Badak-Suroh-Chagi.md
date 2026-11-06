@@ -64,3 +64,11 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec le tranchant du pied (*Balkal*) :** Ne pas orienter la plante du pied (*Bal Badak*), réduisant la surface de contact et risquant de rater la cheville.
 * **Jambe d'appui trop tendue :** Rester haut sur la jambe d'appui, ce qui provoque une perte d'équilibre dès que le pied rencontre la résistance de la cheville adverse.
 * **Interrompre le mouvement à l'impact :** Stopper l'effort au premier contact au lieu d'exécuter un traversant circulaire complet pour emporter la jambe de l'agresseur.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied balayé (Suroh Chagi)](../chagi/suroh-chagi.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer trop haut :** S'arrêter au niveau de la poitrine (niveau moyen = *Kaunde*) au lieu de descendre la main avant sous la ceinture (*Najunde*).
 * **Main arrière collée au thorax :** Plaquer la main de protection contre la poitrine au lieu de maintenir une distance d'absorption de 2 à 3 cm.
 * **Erreur de répartition de poids :** Charger la jambe avant au lieu de conserver 70% du poids ancré sur la jambe arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde au niveau bas (Najunde Daebi Makgi)](../makgi/najunde-daebi-makgi.md)
+
+<!-- /fiches-liees -->

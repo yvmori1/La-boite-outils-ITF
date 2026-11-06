@@ -51,3 +51,12 @@ Sa décomposition linguistique est la suivante :
 * **Épaules crispées :** Monter les épaules vers les oreilles en levant les mains, ce qui bloque la respiration diaphragmatique.
 * **Mains molles :** Relâcher les doigts au lieu de maintenir une structure de main active (*Sonkal*).
 * **Casser la nuque :** Pencher la tête en arrière pour regarder les mains au lieu de garder le regard droit vers l'horizon.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

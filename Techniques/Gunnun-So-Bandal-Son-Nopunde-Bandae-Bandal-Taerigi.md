@@ -69,3 +69,12 @@ Les deux frappes encadrent une poussée descendante du coude en position arrièr
 * **Confondre *Baro* et *Bandae* :** agir avec la main du côté de la jambe avant, ce qui change la technique.
 
 Voir aussi : [Coup de main arquée (Bandal Son Taerigi)](../jirugi/bandol-son-taerigi.md) · [Gunnun So Bandal Son Nopunde Bandae Taerigi](Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

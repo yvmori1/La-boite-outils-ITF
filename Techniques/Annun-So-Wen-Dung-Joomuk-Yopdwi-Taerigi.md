@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre l'angle (*Yop* vs *Dwi* vs *Yopdwi*) :** Frapper strictement sur le côté à 90° (*Yop*) ou plein arrière à 180° (*Dwi*) au lieu d'atteindre la diagonale exacte à ~135° (*Yopdwi*).
 * **Pousser la frappe :** Tendre le bras en ligne droite rigide au lieu d'utiliser l'effet de fouet de la charnière du coude (*Taerigi*).
 * **Pivoter les pieds :** Deconnecter les plantes de pieds du sol ou tourner les talons sous l'effet de la rotation du haut du corps, détruisant la posture *Annun Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

@@ -67,3 +67,13 @@ Sa décomposition linguistique est la suivante :
 * **Oublier le coup d'œil (*Siseon*) :** Pousser le coude vers l'arrière sans regarder par-dessus l'épaule droite pour viser la cible.
 * **Décoller le coude du corps :** Écarter le coude vers l'extérieur pendant la poussée, ce qui dévie la trajectoire et fait perdre toute la force de levier.
 * **Déformer l'*Annun Sogi* :** Laisser les pieds pivoter ou les genoux s'effondrer vers l'intérieur sous l'impulsion du recul du bras.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Pique de coude arrière (Dwit Palkup Tulgi)](../jirugi/dwit-palkup-tulgi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

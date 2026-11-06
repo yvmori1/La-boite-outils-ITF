@@ -54,3 +54,11 @@ Cette technique repose sur l'alignement parfait de la chaîne musculaire du memb
 * **Oubli du re-armement :** Laisser tomber la jambe directement après l'impact au lieu de ramener le genou, s'exposant ainsi à une saisie de jambe ou un balayage.
 
 > **Point clé :** La réussite du *Orun Nopunde Yopcha Jirugi* réside dans le verrouillage du tranchant du pied (*Balkal*) et la poussée rectiligne de la hanche : le pied ne doit pas "balayer" le vide, mais transpercer la cible.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied latéral perçant (Yop Cha Jirugi)](../chagi/yop-cha-jirugi.md)
+
+<!-- /fiches-liees -->

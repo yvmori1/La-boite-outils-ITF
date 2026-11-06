@@ -67,3 +67,11 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec les orteils ou la plante du pied :** Ne pas armer la cheville pour sortir la base dure du talon (**Dwitkumchi**).
 * **Pencher le buste trop bas :** Laisser tomber la tête vers le sol, ce qui désaligne la colonne vertébrale, ruine l'équilibre et empêche la rétraction rapide.
 * **Oublier de réarmer la jambe :** Laisser tomber la jambe gauche de façon lourde après la frappe au lieu de la replier vivement vers la poitrine.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied arrière tranchant](../chagi/dwit-cha-jirugi.md)
+
+<!-- /fiches-liees -->

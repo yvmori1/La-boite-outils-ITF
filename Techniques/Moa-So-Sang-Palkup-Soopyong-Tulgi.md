@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Coudes inclinés :** Laisser chuter ou monter les coudes au lieu de maintenir une trajectoire strictement parallèle au sol (**Soopyong**).
 * **Écartement des pieds :** Décoller les talons ou laisser un espace entre les pieds au lieu de sceller le *Moa Sogi*.
 * **Épaules montées :** Crisper les trapèzes pendant la projection des coudes au lieu de garder les épaules basses et détendues.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

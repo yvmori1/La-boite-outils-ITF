@@ -71,3 +71,13 @@ Sa décomposition linguistique est la suivante :
 * **Doigts écartés ou mous :** Laisser les doigts relâchés au lieu de les maintenir joints et gainés, ce qui expose la main à des blessures à l'impact.
 * **Coudes tendus au maximum :** Verrouiller complètement l'articulation du coude en fin de poussée, détruisant la capacité d'absorption du bras.
 * **Perte d'ancrage en *Annun Sogi* :** Tendre les jambes ou basculer le buste vers l'arrière pendant la poussée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage poussée (Miro Makgi)](../makgi/miro-makgi.md)
+* **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md)
+
+<!-- /fiches-liees -->

@@ -72,3 +72,13 @@ Le *San Makgi* apparaît dans plusieurs formes avancées du programme ITF, notam
 * **Poings trop écartés ou trop proches :** Perdre la symétrie du "W", ce qui affaiblit la structure osseuse d'un des deux côtés.
 * **Pieds qui s'ouvrent vers l'extérieur :** Perdre le parallélisme des pieds en *Annun Sogi*, ce qui détruit la stabilité latérale du bassin.
 * **Confondre *Bakat Palmok* et *An Palmok* :** Effectuer la rotation des poignets à l'inverse et présenter l'intérieur des bras au lieu de la face extérieure osseuse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage en "W" (San Makgi)](../makgi/san-makgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

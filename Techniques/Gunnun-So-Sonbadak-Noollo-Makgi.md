@@ -67,3 +67,12 @@ Deux pressions en avançant, après deux poussées du coude en reculant : le pra
 * **Talon arrière décollé :** la jambe arrière doit rester tendue, le talon au sol, pour transmettre la poussée du sol.
 
 Voir aussi : [Gunnun So Sonbadak Bandae Noollo Makgi](Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md) · [Blocage pressant (Noollo Makgi)](../makgi/nullo-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

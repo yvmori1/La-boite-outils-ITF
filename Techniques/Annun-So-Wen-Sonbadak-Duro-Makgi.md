@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper l'attaque au lieu de la cueillir :** Percuter la jambe adverse de face au lieu d'effectuer un mouvement fluide qui passe dessous pour la soulever (*Duro*).
 * **Tendre complètement le bras :** Tendre le coude gauche en fin de mouvement au lieu de conserver une légère flexion structurelle pour absorber la charge.
 * **Déformer l'*Annun Sogi* :** Tendre les jambes ou basculer le buste en arrière sous le poids du membre adverse soulevé.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Yoo-Sin](../tul/yoo-sin.md), [Moon-Moo](../tul/moon-moo.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Paumes orientées vers le haut ou de côté :** Oublier la rotation finale du poignet (les deux paumes doivent obligatoirement finir orientées vers le sol à l'impact).
 * **Désynchronisation des bras :** Frapper avec un bras avant l'autre au lieu de libérer une frappe parfaitement simultanée (*Sang*).
 * **Perdre la largeur d'épaules :** Aligner les deux pieds sur un même rail au sol en *Gunnun Sogi*, détruisant l'équilibre latéral.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ Le mouvement 10 se fait lentement, après un pas croisé et un demi-tour : il ap
 * **Talon arrière décollé :** la jambe arrière doit rester tendue, le talon au sol, pour transmettre la poussée du sol.
 
 Voir aussi : [Dwitbal So Sonbadak Bandae Ollyo Makgi](Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md) · [Gunnun So Sang Sonbadak Ollyo Makgi](Gunnun-So-Sang-Sonbadak-Ollyo-Makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md)
+
+<!-- /fiches-liees -->

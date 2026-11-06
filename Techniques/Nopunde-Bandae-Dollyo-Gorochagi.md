@@ -40,3 +40,11 @@ Elle se traduit par : **Coup de pied crocheté inversé au niveau haut** (*High 
 * **Manque de pivot de la jambe d'appui :** Bloquer la cheville d'appui, ce qui empêche les hanches de tourner librement.
 
 > **Point clé :** Le *Nopunde Bandae Dollyo Gorochagi* repose sur la vitesse du **repliement fouetté du genou** (*Gorochagi*) à la fin de la rotation du corps.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied crocheté inversé (Bandae Dollyo Goro Chagi)](../chagi/bandae-dollyo-goro-chagi.md)
+
+<!-- /fiches-liees -->

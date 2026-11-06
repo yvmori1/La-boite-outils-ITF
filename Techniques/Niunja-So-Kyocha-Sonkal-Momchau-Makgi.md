@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Doigts mous ou pouces décollés :** Relâcher la tension de la main ouverte, ce qui expose les doigts à de graves entorses au contact du pied ou du membre adverse.
 * **Absence d'effet d'arrêt (*Momchau*) :** Laisser les bras céder sous l'impact au lieu de verrouiller la posture pour stopper la frappe net.
 * **Mauvaise répartition du poids :** Ne pas maintenir 70% du poids du corps sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage d'arrêt (Momchau Makgi)](../makgi/momchau-makgi.md)
+
+<!-- /fiches-liees -->

@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Croisement incorrect à l'armement :** Ne pas croiser les bras devant le thorax, ce qui transforme le mouvement en un simple écartement de bras sans puissance d'impulsion.
 * **Pieds qui s'ouvrent en "canard" :** Laisser les pointes de pieds s'écarter vers l'extérieur en *Annun Sogi*, ce qui déstabilise le bassin.
 * **Hauteur incorrecte (*Nopunde* au lieu de *Kaunde*) :** Monter les poings au-dessus du niveau des yeux au lieu de les maintenir à hauteur des épaules/du thorax.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage d'arret (Hechyo Makgi)](../makgi/hechyo-makgi.md)
+
+<!-- /fiches-liees -->

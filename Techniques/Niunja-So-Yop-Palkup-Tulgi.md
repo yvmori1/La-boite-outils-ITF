@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise répartition de la posture :** Répartir le poids 50/50 au lieu de charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
 * **Pencher le buste :** Incliner le torse du côté opposé pour essayer de gagner de la portée, ce qui détruit l'alignement de la colonne vertébrale et l'équilibre.
 * **Coudre trop haut ou trop bas :** Ne pas maintenir l'avant-bras parallèle au sol à l'impact, dispersant la force de pénétration.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Saju Tulgi](../tul/saju-tulgi.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Jang](../tul/choong-jang.md), [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

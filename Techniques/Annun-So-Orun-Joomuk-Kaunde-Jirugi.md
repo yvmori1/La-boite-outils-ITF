@@ -74,3 +74,12 @@ Dans la nomenclature de l'ITF :
 * **Cassure du poignet :** Ne pas aligner le dos de la main avec l'avant-bras au moment de la vrille finale.
 * **Genoux passifs :** Rester jambes tendues au lieu d'effectuer la redescente de masse (*Sine Wave*) au moment précis où le coup porte.
 * **Négliger le bras de réaction :** Lancer le poing droit sans ramener vigoureusement le poing gauche à la hanche.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Po-Eun](../tul/po-eun.md), [Ge-Baek](../tul/ge-baek.md), [Juche](../tul/juche.md), [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

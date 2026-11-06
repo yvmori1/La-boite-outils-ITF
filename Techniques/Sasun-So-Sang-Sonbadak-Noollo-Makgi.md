@@ -57,3 +57,11 @@ Cette technique associe la géométrie particulière de la position diagonale à
 * **Absence de transfert de poids (*Sine Wave*) :** Presser uniquement avec la force des bras, sans utiliser la descente du bassin au moment de la frappe.
 
 > **Point clé :** La force du *Sasun So Sang Sonbadak Noollo Makgi* réside dans l'utilisation combinée de l'angle d'esquive de la position *Sasun Sogi* et de la masse du corps projetée vers le bas pour écraser l'attaque adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

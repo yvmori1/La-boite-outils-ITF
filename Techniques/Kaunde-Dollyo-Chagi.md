@@ -69,3 +69,12 @@ La technique revient **7 fois** dans 5 formes :
 * **Ne pas pivoter le pied d'appui :** la hanche reste bloquée.
 
 Voir aussi : [Nopunde Dollyo Chagi](Nopunde-Dollyo-Chagi.md), [Coup de pied circulaire (Dollyo Chagi)](../chagi/dollyo-chagi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied circulaire (Dollyo Chagi)](../chagi/dollyo-chagi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

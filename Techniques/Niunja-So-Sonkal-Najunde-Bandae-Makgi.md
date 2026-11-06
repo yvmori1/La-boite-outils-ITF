@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Doigts mous ou pouce non verrouillé :** Relâcher la tension de la main ouverte, risquant de se luxer ou casser les doigts au contact de la jambe adverse.
 * **Bloquer trop haut :** S'arrêter au niveau du plexus (niveau moyen) au lieu de descendre la main sous le niveau de la ceinture.
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de maintenir 70% de la masse sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md)
+
+<!-- /fiches-liees -->

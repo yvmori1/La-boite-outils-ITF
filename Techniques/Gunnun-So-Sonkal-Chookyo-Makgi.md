@@ -70,3 +70,13 @@ Sa décomposition linguistique est la suivante :
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Sonkal Bandae Chookyo Makgi](Gunnun-So-Sonkal-Bandae-Chookyo-Makgi.md), [Blocage soulevé (Chookyo Makgi)](../makgi/chookyo-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage soulevé (Chookyo Makgi)](../makgi/chookyo-makgi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md), [Choi-Yong](../tul/choi-yong.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

@@ -75,3 +75,12 @@ On retrouve cette mécanique de poussée latérale dans les formes officielles d
 * **Déclencher un impact sec :** Donner un coup qui claque au lieu d'engager le poids du corps dans une poussée prolongée.
 * **Ne pas pivoter le pied d'appui :** Bloquer la cheville au sol face à l'adversaire, ce qui empêche d'engager les hanches de côté et détruit la force de poussée.
 * **S'effondrer le buste vers l'arrière :** Pencher exagérément le haut du corps du côté opposé, ce qui annule le transfert de masse vers la cible.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Kaunde Yopcha Milgi](../Techniques/Kaunde-Yopcha-Milgi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

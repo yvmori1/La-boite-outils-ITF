@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Baro* et *Bandae* :** Bloquer avec le bras de la jambe porteuse avant au lieu d'utiliser le bras de la jambe arrière.
 * **Talon arrière posé à plat :** Poser le talon du pied arrière au sol, ce qui annule la mobilité et la répartition 90/10 de la posture *Kyocha Sogi*.
 * **Jambes tendues :** Ne pas fléchir les genoux à l'impact, ce qui rend la posture croisée instable et empêche l'absorption de la chute de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Blocage frontal (Ap Makgi)](../makgi/ap-makgi.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ On retrouve cette technique dans plusieurs formes (*Tul*) supérieures de l'ITF 
 * **Tourner la tête trop tard :** Déclencher la frappe sans regarder la cible par-dessus l'épaule, ce qui détruit la précision et l'équilibre.
 * **Ne pas dépasser la cible :** Déclencher le crochetage trop tôt, faisant passer le talon devant le visage sans le toucher.
 * **Casser le buste vers le sol :** Pencher la tête et le haut du corps vers le bas au moment de la rotation, ce qui fait chuter la jambe de frappe et détruit la portée haut (*Nopunde*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Nopunde Bandae Dollyo Gorochagi](../Techniques/Nopunde-Bandae-Dollyo-Gorochagi.md), [Orun Nopunde Bandae Dollyo Gorochagi](../Techniques/Orun-Nopunde-Bandae-Dollyo-Gorochagi.md), [Wen Nopunde Bandae Dollyo Gorochagi](../Techniques/Wen-Nopunde-Bandae-Dollyo-Gorochagi.md)
+* **Dans les formes :** [Juche](../tul/juche.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

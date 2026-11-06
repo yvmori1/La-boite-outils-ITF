@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Baro* et *Bandae* :** Bloquer avec le bras du côté de la jambe arrière au lieu d'utiliser le bras de la jambe porteuse avant.
 * **Jambes tendues :** Ne pas fléchir les genoux à l'impact, ce qui rend la posture croisée instable et empêche l'absorption de la *Sine Wave*.
 * **Bloquer trop loin sur le côté :** Sortir le bras du corps au lieu de maintenir un blocage frontal (*Ap Makgi*) protégeant le bas-ventre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Blocage frontal (Ap Makgi)](../makgi/ap-makgi.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Tourner la paume à la verticale :** Perdre la position *Opun* (paume vers le bas) et présenter la tranche de la main (*Sonkal*).
 * **Dépasser l'alignement de l'épaule (*Over-swing*) :** Ouvrir le bras trop loin vers la droite, ce qui déséquilibre le buste et découvre entièrement la poitrine.
 * **Doigts écartés ou mou :** Ne pas maintenir les doigts rigides et le majeur légèrement fléchi, ce qui risque de tordre les articulations à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

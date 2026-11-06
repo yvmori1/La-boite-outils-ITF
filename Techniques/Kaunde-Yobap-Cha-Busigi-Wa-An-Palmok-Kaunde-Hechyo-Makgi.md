@@ -59,3 +59,12 @@ Sa décomposition linguistique est la suivante :
 * **Écarter trop large :** les poings s'arrêtent à la largeur des épaules.
 
 Voir aussi : [Kaunde Yobap Cha Busigi](Kaunde-Yobap-Cha-Busigi.md), [Blocage d'arret (Hechyo Makgi)](../makgi/hechyo-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Blocage d'arret (Hechyo Makgi)](../makgi/hechyo-makgi.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

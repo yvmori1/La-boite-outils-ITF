@@ -57,3 +57,11 @@ Cette technique combine la descente du centre de gravité en position croisée �
 * **Désynchronisation de la vague (*Sine Wave*) :** Délivrer le coup de poing sans l'associer à la descente finale du poids du corps dans la posture.
 
 > **Point clé :** La puissance du *Orun Kyocha So Najunde Bandae Jirugi* provient de l'action combinée du verrouillage des genoux en position croisée, de la descente du bassin et de la rotation explosive du poing opposé (*Ap Joomuk*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+
+<!-- /fiches-liees -->

@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise hauteur :** Placer l'avant-bras trop haut (niveau de la gorge/visage) ou trop bas (niveau de la ceinture) au lieu de protéger précisément le plexus solaire (*Kaunde*).
 * **Bras trop tendu ou trop collé :** Tendre le coude à 180° (qui détruit l'effet de ressort) ou coller l'avant-bras contre le sternum (ce qui transmet l'onde de choc directement au corps).
 * **Déformer l'*Annun Sogi* :** Laisser les genoux s'effondrer vers l'intérieur lors du blocage au lieu de les maintenir poussés vers l'extérieur.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage frontal (Ap Makgi)](../makgi/ap-makgi.md)
+
+<!-- /fiches-liees -->

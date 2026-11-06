@@ -73,3 +73,12 @@ Les blocages latéraux sont essentiels dans la géométrie des *Tul* ITF :
 * **Oublier de tourner la tête :** Bloquer sur le côté tout en continuant de regarder devant soi, ce qui détruit l'alignement cervical et la précision.
 * **Dépasser la ligne latérale :** Envoyer le bras trop loin vers l'arrière, ce qui étire inutilement l'épaule et déséquilibre le buste.
 * **Verrouiller le coude à 180° :** Tendre complètement le bras, risquant une blessure à l'articulation en cas d'impact lourd.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [An Palmok Kaunde Yop Makgi](../Techniques/An-Palmok-Kaunde-Yop-Makgi.md), [Annun So Orun Sonkal Najunde Yop Makgi](../Techniques/Annun-So-Orun-Sonkal-Najunde-Yop-Makgi.md), [Annun So Wen Sonkal Najunde Yop Makgi](../Techniques/Annun-So-Wen-Sonkal-Najunde-Yop-Makgi.md), [Gunnun So An Palmok Kaunde Yop Makgi](../Techniques/Gunnun-So-An-Palmok-Kaunde-Yop-Makgi.md), [Gunnun So Sonkal Dung Kaunde Bandae Yop Makgi](../Techniques/Gunnun-So-Sonkal-Dung-Kaunde-Bandae-Yop-Makgi.md), [Niunja So An Palmok Kaunde Yop Makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Yop-Makgi.md), [Niunja So Palmok Najunde Yop Makgi](../Techniques/Niunja-So-Palmok-Najunde-Yop-Makgi.md)
+* **Dans les formes :** [Saju Makgi](../tul/saju-makgi.md), [Chon-Ji](../tul/chon-ji.md), [Yul-Gok](../tul/yul-gok.md), [Choong-Moo](../tul/choong-moo.md), [Ko-Dang](../tul/ko-dang.md), [Yoo-Sin](../tul/yoo-sin.md), [Moon-Moo](../tul/moon-moo.md), [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

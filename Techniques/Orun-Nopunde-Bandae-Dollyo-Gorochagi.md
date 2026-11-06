@@ -57,3 +57,11 @@ Cette technique associe la force centrifuge d'une rotation par le dos à un foue
 * **Affaissement du buste :** Pencher excessivement le torse vers le sol pour chercher de la hauteur, ce qui annule la force de contraction des ischios-jambiers et fessiers lors du crochetage.
 
 > **Point clé :** Tout le secret du *Orun Nopunde Bandae Dollyo Gorochagi* réside dans le **décalage du crochetage** : la jambe s'ouvre comme pour rater la cible, puis le genou se replie de manière explosive pour ramener le talon directement dans le visage de l'adversaire.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied crocheté inversé (Bandae Dollyo Goro Chagi)](../chagi/bandae-dollyo-goro-chagi.md)
+
+<!-- /fiches-liees -->

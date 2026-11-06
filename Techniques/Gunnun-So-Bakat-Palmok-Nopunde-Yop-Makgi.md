@@ -88,3 +88,13 @@ On retrouve ce blocage dans plusieurs formes clés du programme ITF :
 * **Niveau trop bas :** Stopper l'avant-bras à hauteur d'épaule (ce qui en fait un *Kaunde Makgi*) au lieu de le monter à la hauteur des yeux/tempes (*Nopunde*).
 * **Coude trop fermé ou trop tendu :** Casser l'angle du coude sous 90° (affaiblissant la résistance à l'impact) ou tendre le bras à 180° (risquant la déboîtement du coude).
 * **Perdre la largeur de posture :** Réduire la largeur d'épaules entre les deux pieds lors du pivot latéral, compromettant l'équilibre au moment de recevoir le choc.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage latéral haut (Nopunde Yop Makgi)](../makgi/nopunde-yop-makgi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Yul-Gok](../tul/yul-gok.md), [Ko-Dang](../tul/ko-dang.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

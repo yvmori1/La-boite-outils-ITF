@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Perdre la forme en "C" (*C-Bang*) :** Désynchroniser le bras droit de soutien, ce qui défait la structure encadrée en **[ㄷ](../audio/termes/digeut.m4a)**.
 * **Casser le poignet :** Ne pas aligner le poing gauche avec l'avant-bras à l'impact, risquant une entorse du poignet lors du choc en angle.
 * **Relâcher l'*Annun Sogi* :** Laisser les genoux rentrer vers l'intérieur ou basculer le buste vers l'avant lors de la redescente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

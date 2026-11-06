@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Pencher excessivement le buste :** Casser le dos vers l'avant au lieu d'utiliser la redescente verticale des genoux et du bassin pour pousser le coude vers le bas.
 * **Charger la jambe avant :** Transférer du poids sur le pied avant (ex: 60/40), ce qui annule la répartition caractéristique 95/5 de la posture du pied arrière.
 * **Confondre *Tulgi* et *Taerigi* :** Frapper d'un mouvement circulaire fouetté (*Taerigi*) au lieu de pousser/percer en ligne directe vers le bas (*Tulgi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md), [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

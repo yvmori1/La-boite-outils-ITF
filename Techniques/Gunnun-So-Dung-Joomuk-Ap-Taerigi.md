@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Ne pas fixer le coude :** Laisser tomber ou dévier le coude pendant la trajectoire au lieu de s'en servir comme axe de rotation.
 * **Perdre la largeur d'épaules :** Aligner les deux pieds sur une même ligne au sol en *Gunnun Sogi*, ruinant la stabilité latérale.
 * **Armement trop bas :** Ne pas monter le poing près du pectoral/aisselle opposé lors de la préparation.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

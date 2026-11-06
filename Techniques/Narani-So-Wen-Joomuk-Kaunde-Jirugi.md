@@ -67,3 +67,11 @@ Sa décomposition linguistique est la suivante :
 * **Armement / Rotation précoce :** Tourner le poing trop tôt pendant la trajectoire au lieu de déclencher la rotation de 180° au tout dernier millième de seconde.
 * **Épaules crispées ou levées :** Monopoliser la force des épaules au lieu de laisser couler le mouvement depuis la hanche et le tirage de réaction du bras droit.
 * **Verrouillage raide des genoux :** Garder les jambes complètement tendues à l'impact, ce qui annule l'effet de transfert de masse de la *Sine Wave*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

@@ -71,3 +71,12 @@ On retrouve des blocages et balayages au niveau de la taille dans de nombreuses 
 * **Mauvaise hauteur :** Monter le bras au niveau de la poitrine (ce qui en fait un *Kaunde Makgi*) ou le descendre au niveau des cuisses (ce qui en fait un *Najunde Makgi*).
 * **Écarter le coude du buste :** Laisser un espace trop grand entre le coude et le flanc, ce qui affaiblit la structure et laisse passer la frappe.
 * **Ne pas engager les hanches :** Réaliser le blocage uniquement avec la force du bras sans utiliser la rotation des hanches et le mouvement de vague (*Sine Wave*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Dwitbal So An Palmok Bandae Hori Makgi](../Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

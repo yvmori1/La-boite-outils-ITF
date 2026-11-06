@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Perdre la forme du "C" :** Écarter trop les bras ou les désynchroniser, ce qui détruit la structure de protection de garde (*Daebi*).
 * **Confondre *Sonkal* et *Sonkal Dung* :** Orienter le tranchant extérieur (côté petit doigt) vers l'attaque au lieu du tranchant interne (côté pouce/index).
 * **Déformer l'*Annun Sogi* :** Laisser les genoux rentrer vers l'intérieur ou les talons se décoller au moment de la chute de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

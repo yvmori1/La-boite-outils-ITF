@@ -55,3 +55,12 @@ Cette technique associe l'ancrage arrière de la position en L à la puissance s
 * **Oubli de la vague (*Sine Wave*) :** Exécuter la frappe sans utiliser la descente de la masse corporelle lors du verrouillage final en position en L.
 
 > **Point clé :** La force du *Niunja So Doo Joomuk Najunde Jirugi* réside dans la **simultanéité de la frappe des deux poings** poussée par la descente du bassin sur la jambe arrière fléchie.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Sam-Il](../tul/sam-il.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

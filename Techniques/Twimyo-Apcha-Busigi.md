@@ -70,3 +70,11 @@ Sa décomposition linguistique est la suivante :
 * **Jambe passive pendante :** Laisser la jambe d'appui pendre molle sous le corps, alourdissant le saut et détruisant l'équilibre.
 * **Trajectoire poussée au lieu de fouettée :** Pousser la jambe en ligne droite (*Jirugi*) au lieu de décocher un fouetté sec à partir du genou (*Busigi*).
 * **Réception rigide :** Atterrir les jambes raides, risquant des blessures aux chevilles et aux genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied avant fouetté (Apcha Busigi)](../chagi/apcha-busigi.md)
+
+<!-- /fiches-liees -->

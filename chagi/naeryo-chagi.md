@@ -76,3 +76,11 @@ Selon la façon dont la garde de l'adversaire est organisée, l'armement peut em
 * **Laisser tomber la jambe sans contrôle :** Se laisser emporter par la gravité et fracasser son talon au sol après avoir raté la cible (risque de blessure et perte d'équilibre).
 * **Pencher le buste trop en arrière :** S'effondrer vers l'arrière au moment de la descente de la jambe, ce qui détruit l'engagement de la sangle abdominale et diminue la puissance d'impact.
 * **Garder la jambe d'appui raide :** Verrouiller le genou d'appui à l'impact empêche d'absorber le transfert de masse vertical.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

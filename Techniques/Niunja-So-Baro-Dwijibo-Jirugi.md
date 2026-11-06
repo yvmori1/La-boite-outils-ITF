@@ -68,3 +68,11 @@ Sa décomposition linguistique est la suivante :
 * **Transformer en uppercut vertical :** Monter le bras en grand arc circulaire au lieu de maintenir une poussée directe et légèrement inclinée.
 * **S'incliner vers l'avant :** Pencher le buste pour chercher de la portée au lieu de garder le dos droit et d'utiliser l'ancrage 70/30 de la posture en L (*Niunja Sogi*).
 * **Mauvaise répartition du poids :** Ne pas conserver 70% du poids du corps sur la jambe arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+
+<!-- /fiches-liees -->

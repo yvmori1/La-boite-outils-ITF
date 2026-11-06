@@ -68,3 +68,13 @@ Sa décomposition linguistique est la suivante :
 * **Tendre les coudes en hyper-extension :** Verrouiller complètement les articulations des coudes en fin de course descendante, ce qui détruit la capacité d'absorption de la force.
 * **Écrase le talon avant :** Poser le talon de la jambe avant à plat au lieu de le maintenir décollé sur le bol du pied (*Ap Kumchi*).
 * **Buste penché en avant :** Incliner le haut du corps vers l'avant pour chercher l'attaque au lieu de maintenir le buste droit et reculé sur la jambe arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Geste de base :** [Blocage descendant (Naeryo Makgi)](../makgi/naeryo-makgi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md)
+
+<!-- /fiches-liees -->

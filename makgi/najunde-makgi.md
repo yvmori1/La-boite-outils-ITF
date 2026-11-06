@@ -73,3 +73,12 @@ C'est la technique défensive la plus fondamentale de l'ITF, présente dès le p
 * **Bras trop tendu (coude verrouillé) :** Tendre complètement le coude à 180° au-dessus du genou, ce qui expose l'articulation du coude à une blessure en cas d'impact lourd.
 * **Coller l'avant-bras contre la cuisse :** Bloquer trop près de la jambe, de sorte que la frappe adverse pousse le bras contre votre propre cuisse.
 * **Bloquer en dehors de la ligne du corps :** Envoyer le bras trop loin sur le côté, laissant le bas-ventre totalement découvert.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi](../Techniques/Gunnun-So-An-Palmok-Kaunde-Baro-Bakuro-Makgi-Wa-Sonkal-Najunde-Bandae-Makgi.md), [Gunnun So Palmok Najunde Bandae Makgi](../Techniques/Gunnun-So-Palmok-Najunde-Bandae-Makgi.md), [Gunnun So Palmok Najunde Makgi](../Techniques/Gunnun-So-Palmok-Najunde-Makgi.md), [Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi](../Techniques/Gunnun-So-Sonkal-Kaunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md), [Gunnun So Sonkal Najunde Makgi](../Techniques/Gunnun-So-Sonkal-Najunde-Makgi.md), [Niunja So Bakat Palmok Najunde Makgi](../Techniques/Niunja-So-Bakat-Palmok-Najunde-Makgi.md), [Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi](../Techniques/Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md), [Niunja So Dung Joomuk Baro Yopdwi Taerigi Wa Palmok Najunde Bandae Makgi](../Techniques/Niunja-So-Dung-Joomuk-Baro-Yopdwi-Taerigi-Wa-Palmok-Najunde-Bandae-Makgi.md), [Niunja So Palmok Najunde Bandae Makgi](../Techniques/Niunja-So-Palmok-Najunde-Bandae-Makgi.md), [Niunja So Sonkal Najunde Bandae Makgi](../Techniques/Niunja-So-Sonkal-Najunde-Bandae-Makgi.md)
+* **Dans les formes :** [Saju Jirugi](../tul/saju-jirugi.md), [Saju Makgi](../tul/saju-makgi.md), [Chon-Ji](../tul/chon-ji.md), [Dan-Gun](../tul/dan-gun.md), [Hwa-Rang](../tul/hwa-rang.md), [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md), [Yoo-Sin](../tul/yoo-sin.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

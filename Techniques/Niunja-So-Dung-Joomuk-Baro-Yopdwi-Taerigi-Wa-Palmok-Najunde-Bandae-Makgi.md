@@ -74,3 +74,12 @@ Sa décomposition linguistique est la suivante :
 * **Oublier la direction *Yopdwi* :** Frapper directement vers l'arrière (*Dwi*) ou purement sur le côté (*Yop*) au lieu de viser l'angle diagonal latéral-arrière (*Yopdwi*).
 * **Hauteur du blocage bas incorrecte :** S'arrêter au niveau du plexus au lieu de descendre l'avant-bras sous le niveau de la ceinture.
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de conserver 70% du poids sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Tendre complètement le coude :** Verrouiller en hyper-extension l'articulation du coude à l'impact, ce qui cause des micro-traumatismes articulaires.
 * **Frapper trop bas :** S'arrêter au niveau de la poitrine (niveau moyen) au lieu d'élever la trajectoire à hauteur du visage/des yeux (*Nopunde*).
 * **Mauvaise répartition du poids :** Ne pas respecter le ratio 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+
+<!-- /fiches-liees -->

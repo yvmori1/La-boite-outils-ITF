@@ -67,3 +67,12 @@ On retrouve le *Yop Cha Tulgi* dans les formes (*Tul*) de ceinture noire :
 * **Confondre la trajectoire avec un coup de pied circulaire :** Ouvrir le genou sur le côté au lieu d'armer au centre, ce qui fait perdre l'effet de pique rectiligne.
 * **Oublier le réarmement :** Laisser tomber la jambe tendue après l'impact au lieu de la ramener vivement vers soi.
 * **Projet de hanche incomplet :** Ne pas pivoter le pied d'appui à 180°, ce qui bride la portée et la force de pénétration.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Orun Kaunde Yopcha Tulgi](../Techniques/Orun-Kaunde-Yopcha-Tulgi.md), [Wen Kaunde Yopcha Tulgi](../Techniques/Wen-Kaunde-Yopcha-Tulgi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

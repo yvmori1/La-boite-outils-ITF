@@ -73,3 +73,11 @@ Sa décomposition linguistique est la suivante :
 * **Absence de fouetté (*Snap*) :** Pousser le bras de manière raide au lieu d'utiliser la détente souple du coude et la rotation finale du poignet.
 * **Saut à plat sans hauteur :** Déclencher la frappe sans élever suffisamment le centre de gravité, supprimant l'avantage aérien de la technique.
 * **Réception rigide :** Atterrir les jambes tendues sans absorber le choc par la flexion des genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Doigts écartés ou relâchés :** Laisser les doigts mous, risquant de se les luxer ou de se les casser lors de la frappe.
 * **Pousser au lieu de fouetter :** Tendre le bras en ligne droite rigide sans exploiter l'effet de charnière du coude et le fouetté du poignet (*Taerigi*).
 * **Défaire la structure *Annun Sogi* :** Tendre les jambes ou laisser pivoter les pieds lors de la redescente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

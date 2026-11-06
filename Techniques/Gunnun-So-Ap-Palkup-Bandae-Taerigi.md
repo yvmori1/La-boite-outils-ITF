@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Oublier la main de soutien :** Laisser pendre la main opposée au lieu de la caler contre le poing de frappe pour renforcer la structure d'impact.
 * **Pencher le buste vers l'avant :** Casser l'alignement de la colonne vertébrale pour chercher de la portée au lieu d'utiliser l'avancée de la posture en *Gunnun Sogi*.
 * **Perdre la largeur d'épaules :** Aligner les deux pieds sur un même rail au sol, ruinant la stabilité nécessaire à la poussée du coude.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [Choi-Yong](../tul/choi-yong.md)
+
+<!-- /fiches-liees -->

@@ -65,3 +65,12 @@ Les deux frappes se suivent, en reculant puis en avançant : elles préparent le
 * **Bras tendu :** un coude verrouillé encaisse le choc à la place du poing.
 * **Pencher le buste :** la frappe vient de la chute de masse, pas du haut du corps.
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

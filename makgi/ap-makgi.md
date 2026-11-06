@@ -69,3 +69,12 @@ Le blocage frontal sous ses diverses formes est le premier blocage enseigné aux
 * **Ne pas faire pivoter le poignet (*Snap*) :** Bloquer avec le bras figé sans rotation finale, ce qui réduit considérablement l'absorption de choc.
 * **Armement trop large :** Reculer le coude exagérément vers l'arrière avant de bloquer, ce qui "télégraphie" le mouvement et le rend trop lent.
 * **Tendre complètement le coude :** Bloquer le bras à 180°, risquant d'endommager l'articulation du coude en cas d'impact lourd.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Orun Bakat Palmok Nopunde Ap Makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Ap-Makgi.md), [Annun So Orun Bakat Palmok Kaunde Ap Makgi](../Techniques/Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.md), [Gunnun So Bakat Palmok Nopunde Ap Makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Ap-Makgi.md), [Gunnun So Palmok Kaunde Bandae Ap Makgi](../Techniques/Gunnun-So-Palmok-Kaunde-Bandae-Ap-Makgi.md), [Gunnun So Palmok Nopunde Bandae Ap Makgi](../Techniques/Gunnun-So-Palmok-Nopunde-Bandae-Ap-Makgi.md), [Kyocha So Bakat Palmok Najunde Baro Ap Makgi](../Techniques/Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.md), [Kyocha So Sonkal Dung Najunde Bandae Ap Makgi](../Techniques/Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.md), [Moa So Orun Sonkal Najunde Ap Makgi](../Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Po-Eun](../tul/po-eun.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

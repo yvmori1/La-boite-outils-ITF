@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Poings trop écartés ou trop serrés :** Ne pas aligner l'écartement des poings avec la largeur de la tête adverse.
 * **Mauvaise posture de marche :** Alignement des deux pieds sur une même ligne droite au lieu de maintenir une largeur d'épaules, provoquant un déséquilibre latéral.
 * **Désynchronisation des bras :** Faire arriver un poing légèrement avant l'autre au lieu de sceller l'impact de manière strictement simultanée (*Sang Joomuk*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

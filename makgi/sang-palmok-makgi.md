@@ -73,3 +73,12 @@ Cette technique est omniprésente dans le programme de progression ITF :
 * **Désynchronisation des bras :** Faire arriver le bras haut avant le bras bas (ou inversement) au lieu d'obtenir un impact double parfaitement simultané.
 * **Poing haut trop près du visage :** Coller le bras haut contre la tête, ce qui fait que le coup adverse risque d'enfoncer le blocage et d'atteindre le visage.
 * **Casser les poignets :** Ne pas aligner les poignets avec les avant-bras, risquant de se blesser lors de la réception d'un coup puissant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Niunja So Sang Palmok Makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md)
+* **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Won-Hyo](../tul/won-hyo.md), [Hwa-Rang](../tul/hwa-rang.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

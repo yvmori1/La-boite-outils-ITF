@@ -68,3 +68,11 @@ Sa décomposition linguistique est la suivante :
 * **Impact avec le bord de la main :** Frapper avec la tranche du poing au lieu des deux grosses jointures (**Ap Joomuk**).
 * **Trajectoire circulaire :** Effectuer une frappe balayée ou un crochet au lieu d'un piston rectiligne direct (*Jirugi*).
 * **Verrouiller le coude en hyper-extension :** Tendre le bras de frappe jusqu'au blocage de l'articulation, ce qui fragilise le coude et dissipe une partie de l'énergie d'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Hwa-Rang](../tul/hwa-rang.md), [Choi-Yong](../tul/choi-yong.md)
+
+<!-- /fiches-liees -->

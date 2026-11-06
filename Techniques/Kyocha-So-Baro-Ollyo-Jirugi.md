@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Arc de cercle trop large :** Éloigner le poing du corps au lieu de maintenir une trajectoire verticale serrée le long du buste.
 * **Mains molles ou mauvaises jointures :** Ne pas verrouiller les deux premières jointures (**Ap Joomuk**) lors de l'impact sous le menton.
 * **Jambes tendues :** Rester les genoux verrouillés, ce qui annule la poussée des cuisses nécessaire à la frappe ascendante.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

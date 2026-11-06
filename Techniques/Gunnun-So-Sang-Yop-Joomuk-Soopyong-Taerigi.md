@@ -63,3 +63,12 @@ Premier mouvement d'Ul-Ji, exécuté en reculant d'un pas : les deux poings atte
 * **Frapper avec les jointures :** la surface utile est la tranche du poing.
 * **Bras tendus et verrouillés :** les coudes restent légèrement fléchis.
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

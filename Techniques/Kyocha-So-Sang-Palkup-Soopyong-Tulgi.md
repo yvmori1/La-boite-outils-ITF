@@ -56,3 +56,12 @@ Cette technique délivre une double poussée latérale ou vers l'extérieur en a
 * **Oubli de la vague (*Sine Wave*) :** Exécuter la double poussée uniquement avec la force du haut du corps sans synchroniser l'impact avec la descente du bassin.
 
 > **Point clé :** La puissance du *Kyocha So Sang Palkup Soopyong Tulgi* repose sur l'extension **simultanée et horizontale** des deux coudes, propulsée par le verrouillage instantané du bassin en position croisée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Pousser au lieu de fouetter :** Bloquer le coude et donner un coup rigide au lieu d'exploiter la charnière du coude et le *Snap* du poignet (*Taerigi*).
 * **Hyper-extension du coude :** Verrouiller complètement l'articulation du coude en fin de course, ce qui crée des micro-traumatismes.
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de maintenir le ratio strict 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

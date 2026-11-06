@@ -68,3 +68,11 @@ Sa décomposition linguistique est la suivante :
 * **Doigts écartés ou mous :** Relâcher la tension musculaire de la main, ce qui prive la pique de sa rigidité structurelle.
 * **Orientation de la paume incorrecte :** Finir la frappe avec la paume sur le côté au lieu de la verrouiller complètement vers le sol (**Opun**).
 * **Talon arrière qui décolle :** Décoller le talon de la jambe arrière sous l'effet de l'allongement de la posture, ce qui ruine l'ancrage et la transmission de force.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

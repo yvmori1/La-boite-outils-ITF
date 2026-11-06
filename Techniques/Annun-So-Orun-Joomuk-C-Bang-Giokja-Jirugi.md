@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Inclinez l'avant-bras :** Laisser le coude tomber vers le bas ou monter le poing trop haut, au lieu de maintenir l'avant-bras droit parfaitement horizontal.
 * **Confondre avec un crochet rond :** Exécuter une boucle circulaire molle au lieu d'une trajectoire encadrée et nette.
 * **Déformer l'*Annun Sogi* :** Laisser les genoux s'effondrer vers l'intérieur lors de la rotation du buste.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

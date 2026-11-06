@@ -59,3 +59,12 @@ Cette technique associe l'utilisation de la gravité à la détente fustigeante 
 * **Absence du fouetté de coude :** Garder le bras rigide et le laisser tomber comme un marteau au lieu de relâcher et verrouiller le coude au moment du choc.
 
 > **Point clé :** La puissance du *Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi* repose sur la combinaison de la **gravité**, de la descente du bassin en position croisée et du **fouetté vertical** du coude droit.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Frappe vers la bas (Naeryo Taerigi)](../jirugi/naeryo-taerigi.md)
+
+<!-- /fiches-liees -->

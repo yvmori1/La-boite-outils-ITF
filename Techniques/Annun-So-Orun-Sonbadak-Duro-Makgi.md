@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Impacter avec les doigts :** Frapper avec la pointe des doigts (*Sonkut*) au lieu d'utiliser la base charnue de la paume (*Sonbadak*), risquant de se tordre les articulations.
 * **Ne pas accompagner le mouvement du corps :** Compter uniquement sur la force du bras au lieu d'utiliser la chute de masse de la posture *Annun Sogi* pour soulever le poids du membre adverse.
 * **Garder la paume vers le sol :** Oublier d'orienter la paume vers le haut lors de la phase ascendante de la cuillère, ce qui empêche de cueillir le membre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Yoo-Sin](../tul/yoo-sin.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

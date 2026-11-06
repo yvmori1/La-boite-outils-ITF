@@ -67,3 +67,11 @@ Sa décomposition linguistique est la suivante :
 * **Trajectoire circulaire :** Balayer la jambe sur le côté (comme un coup de pied circulaire) au lieu de pousser en piston rectiligne (*Jirugi*).
 * **Casser la ligne du dos :** Pencher le haut du corps excessivement vers le sol pour compenser un manque de souplesse, désalignant la colonne et supprimant la force de poussée.
 * **Oublier de réarmer la jambe :** Laisser tomber la jambe gauche de manière molle après l'impact au lieu de la rétracter vivement (*Rechambering*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied latéral perçant (Yop Cha Jirugi)](../chagi/yop-cha-jirugi.md)
+
+<!-- /fiches-liees -->

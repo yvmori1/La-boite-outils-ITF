@@ -1,5 +1,7 @@
 # FICHE D'ÉTUDE : CEINTURE NOIRE — 5e Degré (Dan)
 
+> **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-noires/05-5e-dan.md) · [combat, autodéfense et casse](../Combat/progression.md#5e-et-6e-dan--5e--6e) · [combats arrangés](Combats-arranges/10_Ceintures-noires.md)
+
 * **Temps d'attente minimum et Heures :** Minimum de cinq ans (60 mois / 5 ans) d'attente active depuis l'obtention du 5e Dan ITF, avant de se présenter au 6e Dan.
 * **Signification du Grade :** Instructeur international confirmé (Sabum). Le pratiquant approfondit son enseignement et prépare le 6e Dan, dernier degré avant le rang de Maître. Le passage au 6e Dan exige une thèse approfondie de 20 pages.
 

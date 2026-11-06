@@ -68,3 +68,11 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise répartition du poids :** Charger une jambe plus que l'autre (ex: 70/30) au lieu de maintenir le strict 50/50 de la posture *Gojung Sogi*.
 * **Manquer le soutien de la paume :** Laisser la main opposée flotter au lieu d'adosser sa paume contre le poing de frappe pour sceller la structure.
 * **Soulever un talon :** Décoller le talon de l'un des pieds pendant la poussée latérale, détruisant l'ancrage au sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

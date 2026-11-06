@@ -72,3 +72,12 @@ Cette technique supérieure est enseignée dans les formes de ceintures noires (
 * **Déformer la géométrie du "9" :** Écarter trop les coudes ou arrondir les angles, ce qui détruit la structure osseuse du blocage et dissipe sa force d'absorption.
 * **Désynchronisation des bras :** Faire arriver le bras haut avant le bras bas (ou inversement) au lieu d'obtenir un verrouillage strictement simultané.
 * **Négliger le mouvement de vague (*Sine Wave*) :** Bloquer uniquement avec la force des bras sans engager la redescente du centre de gravité.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Orun Gutja Makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md), [Annun So Wen Gutja Makgi](../Techniques/Annun-So-Wen-Gutja-Makgi.md), [Gunnun So Bandae Gutja Makgi](../Techniques/Gunnun-So-Bandae-Gutja-Makgi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

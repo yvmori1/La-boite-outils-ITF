@@ -83,3 +83,11 @@ Sa décomposition linguistique est la suivante :
 * **Doigts relâchés :** Ne pas maintenir la tension des mains ouvertes (*Sonkal* et *Sonbadak*), exposant les doigts à des entorses ou fractures.
 * **Mauvaise répartition du poids :** Faire basculer le corps vers l'avant lors de la poussée au lieu de conserver le strict 50/50 du *Gojung Sogi*.
 * **Oublier la trajectoire *Bakuro* :** Pousser avec les deux mains vers l'avant au lieu de bien effectuer un balayage circulaire vers l'extérieur avec le bras avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md), [Blocage direct (Baro Makgi)](../makgi/baro-makgi.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Bakat Palmok* et *An Palmok* :** Frapper avec la tranche extérieure de l'avant-bras (côté petit doigt) au lieu d'impacter avec la tranche interne (côté pouce).
 * **Oublier le coup d'œil (*Siseon*) :** Garder le regard fixé droit devant alors que la technique s'exécute sur l'angle latéral-frontal.
 * **Perdre la flexion en *Annun Sogi* :** Tendre les jambes ou laisser s'affaisser les genoux vers l'intérieur au moment de la redescente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

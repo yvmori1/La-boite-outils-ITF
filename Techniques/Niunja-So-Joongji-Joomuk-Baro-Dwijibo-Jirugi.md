@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Baro* et *Bandae* :** Frapper avec la main de la jambe avant au lieu d'utiliser la main située du côté de la jambe arrière.
 * **Trajectoire trop haute :** Monter au niveau du visage au lieu de maintenir la frappe au niveau moyen/abdomen.
 * **Mauvaise répartition du poids :** Ne pas conserver 70% du poids du corps sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

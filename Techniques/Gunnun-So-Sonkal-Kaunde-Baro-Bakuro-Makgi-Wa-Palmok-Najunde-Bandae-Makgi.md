@@ -68,3 +68,13 @@ Sa décomposition linguistique est la suivante :
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi](Gunnun-So-An-Palmok-Kaunde-Baro-Bakuro-Makgi-Wa-Sonkal-Najunde-Bandae-Makgi.md), [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md), [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

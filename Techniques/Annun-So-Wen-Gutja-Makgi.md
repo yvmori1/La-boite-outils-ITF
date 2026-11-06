@@ -66,3 +66,13 @@ Sa décomposition linguistique est la suivante :
 * **Oublier le coup d'œil (*Siseon*) :** Regarder droit devant au lieu de pivoter la tête vers la gauche (*Wen*).
 * **Désynchronisation des bras :** Verrouiller un bras avant l'autre au lieu d'arrêter les deux avant-bras exactement à la même fraction de seconde.
 * **Relâcher les poings :** Laisser les mains s'ouvrir au lieu de maintenir les poings fermement scellés (*Bakat Palmok*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage en forme de "9" (Gut-Ja Makgi)](../makgi/gutja-makgi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

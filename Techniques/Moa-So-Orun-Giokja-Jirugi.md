@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Pieds mal collés :** Décoller les talons ou laisser un espace entre les pieds au lieu de maintenir un *Moa Sogi* strict.
 * **Épaule droite levée :** Crisper l'épaule droite vers l'oreille au lieu de la garder basse et relâchée lors de la poussée du bras.
 * **Tourner le bassin :** Laisser pivoter les hanches lors du coup de poing au lieu de maintenir l'alignement frontal de la posture *Moa Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md)
+
+<!-- /fiches-liees -->

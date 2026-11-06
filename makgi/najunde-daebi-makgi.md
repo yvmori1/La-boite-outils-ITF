@@ -82,3 +82,12 @@ On retrouve cette garde basse travaillée dans les formes de niveau intermédiai
 * **Coller le bras avant sur la cuisse :** Bloquer trop près de la jambe, de sorte que la frappe adverse vient écraser le bras contre la cuisse.
 * **Se pencher en avant :** Casser le buste vers l'avant pour atteindre le niveau bas, ce qui détruit l'équilibre et expose la nuque.
 * **Désynchronisation :** Faire arriver le bras avant bien avant le bras arrière au lieu de verrouiller les deux bras en même temps.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Niunja So Sonkal Dung Najunde Daebi Makgi](../Techniques/Niunja-So-Sonkal-Dung-Najunde-Daebi-Makgi.md), [Niunja So Sonkal Najunde Daebi Makgi](../Techniques/Niunja-So-Sonkal-Najunde-Daebi-Makgi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

@@ -80,3 +80,12 @@ C'est l'une des techniques les plus récurrentes du programme ITF :
 * **Doigts écartés :** Écarter les quatre autres doigts au lieu de les maintenir fermement joints et incurvés.
 * **Main de garde trop près du corps :** Coller la main secondaire contre le nombril au lieu de la maintenir à quelques centimètres devant le plexus solaire.
 * **Coudes trop ouverts :** Écarter le coude du bras bloqueur vers l'extérieur, ce qui affaiblit la structure osseuse de protection et découvre le flanc.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Niunja So Sang Sonkal Makgi](../Techniques/Niunja-So-Sang-Sonkal-Makgi.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Choong-Moo](../tul/choong-moo.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

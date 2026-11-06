@@ -67,3 +67,11 @@ Sa décomposition linguistique est la suivante :
 * **Cheville molle / Mauvaise arme naturelle :** Ne pas fléchir la cheville pour présenter le tranchant (**Balkal**), risquant de frapper avec les orteils et de se blesser.
 * **Casser la ligne du corps :** Pencher le haut du corps exagérément vers le sol, ce qui désaligne la colonne et réduit la pénétration de la frappe.
 * **Abandonner la jambe après l'impact :** Laisser tomber la jambe gauche de manière lourde au lieu de la replier vivement vers le buste (*Rechambering*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied latéral pénétrant (Yop Cha Tulgi)](../chagi/yop-cha-tulgi.md)
+
+<!-- /fiches-liees -->

@@ -74,3 +74,12 @@ Les blocages *Baro* sont omniprésents dès le début de l'apprentissage :
 * **Confondre *Baro* et *Bandae* :** Bloquer avec le bras opposé à la jambe avant lors des exercices commandés ou des formes.
 * **Pivoter exagérément les épaules :** Tourner le buste de profil au lieu de maintenir les épaules dans l'angle correct de la posture (*Full facing* ou *Half facing*).
 * **Désynchronisation pied/main :** Stopper le bras de blocage avant ou après la pose du pied avant au sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi](../Techniques/Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

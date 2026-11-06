@@ -64,3 +64,12 @@ Sa décomposition linguistique est la suivante :
 * **Pouce flottant :** Ne pas plaquer le pouce fermement contre la paume, le laissant exposé à des traumatismes à l'impact.
 * **Perdre la forme en "A" :** Mettre les deux bras totalement parallèles ou trop écartés, ce qui détruit la structure angulaire triangulaire (*A-Bang*).
 * **Coller les bras au corps :** Exécuter le blocage trop près des cuisses, transmettant l'onde de choc de l'attaque directement à vos propres jambes.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

@@ -71,3 +71,12 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer trop loin devant :** Éloigner exagérément la paume du corps, ce qui vide la garde et empêche de pousser efficacement vers le haut.
 * **Frapper au lieu de dévier :** Transformer le blocage en frappe directe avec la paume (*Sonbadak Taerigi*) au lieu de maintenir une trajectoire ascendante de parade (*Ollyo Makgi*).
 * **Mauvaise répartition du poids :** Ne pas maintenir 70% du poids ancré sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

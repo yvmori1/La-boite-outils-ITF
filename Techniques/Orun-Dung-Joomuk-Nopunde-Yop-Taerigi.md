@@ -55,3 +55,12 @@ Cette technique s'appuie sur la souplesse du coude pour délivrer un coup de fou
 * **Absence du bras de réaction :** Ne pas tirer vivement le bras opposé à la hanche, privant le mouvement de l'effet d'action-réaction.
 
 > **Point clé :** La puissance du *Orun Dung Joomuk Nopunde Yop Taerigi* repose sur l'effet de **fouet du coude droit** synchronisé avec le rappel du bras de réaction et la descente du poids du corps dans la vague.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md)
+
+<!-- /fiches-liees -->

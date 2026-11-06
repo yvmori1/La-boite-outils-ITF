@@ -57,3 +57,12 @@ Sa décomposition linguistique est la suivante :
 * **Lancer la jambe tendue :** le genou se plie avant de se détendre.
 
 Voir aussi : [Nopunde Bandae Dollyo Chagi](Nopunde-Bandae-Dollyo-Chagi.md), [Pihamyo Bandae Dollyo Chagi](../chagi/pihamyo-bandae-dollyo-chagi.md), [Coup de pied circulaire inversé (Bandae Dollyo Chagi)](../chagi/bandae-dollyo-chagi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied circulaire inversé (Bandae Dollyo Chagi)](../chagi/bandae-dollyo-chagi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md)
+
+<!-- /fiches-liees -->

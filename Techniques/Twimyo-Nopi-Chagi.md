@@ -70,3 +70,11 @@ Sa décomposition linguistique est la suivante :
 * **Laisser pendre la jambe passive :** Ne pas replier la jambe libre sous le bassin, ce qui alourdit le corps et réduit la hauteur du saut.
 * **Déclencher la frappe trop tôt :** Lancer le coup de pied pendant la phase d'ascension au lieu d'impacter à l'apogée du saut.
 * **Réception les jambes tendues :** Ne pas fléchir les genoux à l'atterrissage, provoquant des traumatismes articulaires importants.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

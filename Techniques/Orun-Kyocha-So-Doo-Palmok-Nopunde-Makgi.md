@@ -57,3 +57,11 @@ Cette technique utilise la structure de renfort du double avant-bras pour créer
 * **Absence de vague (*Sine Wave*) :** Bloquer uniquement avec la force des bras, sans synchroniser l'impact avec la descente de la masse corporelle.
 
 > **Point clé :** La force du *Orun Kyocha So Doo Palmok Nopunde Makgi* repose sur l'effet de triangle rigide formé par le bras de renfort adossé au coude principal, soutenu par l'abaissement du centre de gravité en position croisée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+
+<!-- /fiches-liees -->

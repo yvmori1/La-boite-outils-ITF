@@ -74,3 +74,12 @@ C'est probablement la hauteur de blocage la plus représentée dans l'ensemble d
 * **Casser le poignet :** Ne pas aligner le poing fermé avec l'avant-bras à l'impact, risquant une entorse du poignet lors d'un choc lourd.
 * **Coller le coude aux côtes :** Bloquer trop près du corps, ce qui fait que la force de la frappe adverse enfonce le bras et touche le buste.
 * **Dépasser la ligne des épaules :** Envoyer le bras de blocage trop loin sur le côté, ce qui découvre totalement le plexus solaire et l'autre flanc.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So Doo Palmok Kaunde Makgi](../Techniques/Gunnun-So-Doo-Palmok-Kaunde-Makgi.md), [Niunja So An Palmok Kaunde Makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md), [Niunja So Sonkal Dung Kaunde Makgi](../Techniques/Niunja-So-Sonkal-Dung-Kaunde-Makgi.md), [Niunja So Sonkal Kaunde Makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Makgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Ko-Dang](../tul/ko-dang.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

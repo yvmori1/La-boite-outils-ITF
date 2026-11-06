@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Ap* (devant), *Yop* (côté) et *Yobap* (diagonale) :** Placer le bras droit purement devant ou purement sur le côté au lieu de viser la diagonale exacte à 45°.
 * **Confondre *An Palmok* et *Bakat Palmok* :** Bloquer avec l'extérieur de l'avant-bras (côté petit doigt) au lieu de l'intérieur (côté pouce).
 * **Garder les genoux verrouillés :** Rester les jambes raides en *Moa Sogi*, ce qui détruit l'effet d'absorption de la chute de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md)
+
+<!-- /fiches-liees -->

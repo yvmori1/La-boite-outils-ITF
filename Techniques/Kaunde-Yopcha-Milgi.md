@@ -58,3 +58,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec la plante :** la seule surface est le tranchant du pied.
 
 Voir aussi : [Kaunde Yopcha Jirugi](Kaunde-Yopcha-Jirugi.md), [Coup de pied latéral poussant (Yop Cha Milgi)](../chagi/yop-cha-milgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied latéral poussant (Yop Cha Milgi)](../chagi/yop-cha-milgi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Buste trop de face :** Tourner les épaules complètement de face (*Jeongmyon*) au lieu de maintenir le semi-profil à 45° (*Han Momtong*).
 * **Pieds mal alignés :** Ouvrir les pieds à angle droit strict ou vers l'extérieur au lieu de les placer presque à angle droit, orteils rentrés d'environ 15°, ou trop écarter la largeur de la posture.
 * **Absence de rotation du poing :** Negliger la vrille finale de 180° du poing (**Ap Joomuk**) au moment de la pénétration.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

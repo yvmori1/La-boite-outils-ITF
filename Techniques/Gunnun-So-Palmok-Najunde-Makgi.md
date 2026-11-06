@@ -88,3 +88,13 @@ C'est la première technique défensive enseignée dans l'école ITF :
 * **Bras trop relevé :** Laisser l'avant-bras au niveau de la ceinture, ce qui laisse le bas-ventre totalement découvert.
 * **Absence d'armement croisé :** Descendre le bras directement depuis le flanc sans passer par l'épaule opposée, supprimant toute la force de levier et de rotation.
 * **Pierdre la largeur de la posture :** Réduire la largeur d'épaules entre les pieds lors du déplacement, compromettant l'équilibre latéral au moment du choc.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md)
+* **Dans les formes :** [Saju Jirugi](../tul/saju-jirugi.md), [Chon-Ji](../tul/chon-ji.md), [Dan-Gun](../tul/dan-gun.md), [Hwa-Rang](../tul/hwa-rang.md), [Ge-Baek](../tul/ge-baek.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

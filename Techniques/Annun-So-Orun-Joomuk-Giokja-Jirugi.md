@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Inliner l'avant-bras :** Laisser le coude tomber vers le bas ou le poing monter au-dessus de la ligne des épaules, au lieu de maintenir l'avant-bras strictement horizontal.
 * **Faire un crochet circulaire :** Arrondir la trajectoire au lieu de conserver un déplacement angulaire net (*Giokja*).
 * **Déformer l'*Annun Sogi* :** Laisser les genoux s'effondrer vers l'intérieur lors de la rotation du haut du corps.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

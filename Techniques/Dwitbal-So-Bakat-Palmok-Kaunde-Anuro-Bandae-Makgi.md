@@ -69,3 +69,13 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Bakat Palmok* et *An Palmok* :** Percuter avec la face interne de l'avant-bras (côté pouce) au lieu de la bordure externe (côté auriculaire).
 * **Dépasser la ligne centrale :** Chasser le bras de blocage trop loin sur le côté opposé, ce qui vous découvre complètement en cas de deuxième attaque.
 * **Écrase le talon avant :** Poser le talon du pied avant à plat sur le sol au lieu de le maintenir légèrement surélevé.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Geste de base :** [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md), [Blocage vers l'intérieur (Anuro Makgi)](../makgi/anuro-makgi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

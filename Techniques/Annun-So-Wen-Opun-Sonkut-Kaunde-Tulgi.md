@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre les orientations de main (*Opun* vs *Sun* vs *Dwejibun*) :** Finir la frappe paume de côté (*Sun*) ou paume vers le haut (*Dwejibun*) au lieu de maintenir la paume stricte vers le sol (*Opun*).
 * **Pouce flottant ou mal placé :** Laisser le pouce décollé au lieu de le replier fermement le long du bord de la paume, l'exposant à une luxation lors du choc.
 * **Casser le poignet :** Ne pas maintenir une ligne droite rigide entre le dos de la main et l'avant-bras au moment du contact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

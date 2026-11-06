@@ -55,3 +55,12 @@ Sa décomposition linguistique est la suivante :
 * **Bouger les mains :** elles gardent la position du mouvement précédent.
 
 Voir aussi : [Najunde Bituro Chagi](Najunde-Bituro-Chagi.md), [Nopunde Bituro Chagi](Nopunde-Bituro-Chagi.md), [Coup de pied vrillé (Bituro Chagi)](../chagi/bituro-chagi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied vrillé (Bituro Chagi)](../chagi/bituro-chagi.md)
+* **Dans les formes :** [Sam-Il](../tul/sam-il.md)
+
+<!-- /fiches-liees -->

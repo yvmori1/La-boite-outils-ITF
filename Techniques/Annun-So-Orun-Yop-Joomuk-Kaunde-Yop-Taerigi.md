@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Poignet instable :** Ne pas verrouiller fermement l'articulation du poignet à l'impact, ce qui risque de faire tordre le poignet sous la force de l'onde de choc.
 * **Pouce mal placé :** Ne pas replier et plaquer fermement le pouce sur le côté du poing, ce qui expôse le pouce à une entorse lors de la percussion.
 * **Tourner les pieds :** Laisser les pieds pivoter sous l'effet de l'élan au lieu de conserver les plantes de pieds strictement parallèles en *Annun Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

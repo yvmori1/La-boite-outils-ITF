@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Pieds mal collés :** Décoller les talons ou laisser un espace entre les pieds au lieu de maintenir un *Moa Sogi* strict.
 * **Casser le poignet :** Ne pas maintenir le poignet droit rigide et aligné dans le prolongement de l'avant-bras.
 * **Bloquer trop loin du corps :** Tendre exagérément le bras vers l'avant au lieu d'arrêter la parade au niveau bas juste au-dessus des cuisses/bas-ventre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Geste de base :** [Blocage frontal (Ap Makgi)](../makgi/ap-makgi.md)
+
+<!-- /fiches-liees -->

@@ -77,3 +77,12 @@ On retrouve les techniques de frappe verticale dans plusieurs formes de ceinture
 * **Tourner le pied à l'horizontale :** Laisser le pied pivoter sur le côté, ce qui transforme la technique en un simple coup de pied circulaire (*Dollyo Chagi*) et perd le principe de tranchant vertical.
 * **Armer la cheville de manière molle :** Ne pas verrouiller les orteils et la cheville à l'impact, risquant de se tordre les orteils lors du passage de la garde.
 * **S'incliner trop en arrière :** Pencher le haut du corps en arrière pour compenser la montée de la jambe, ce qui supprime la force de pénétration vers l'avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Bakuro Sewo Chagi](../Techniques/Bakuro-Sewo-Chagi.md), [Balkal Dung Anuro Sewo Chagi](../Techniques/Balkal-Dung-Anuro-Sewo-Chagi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

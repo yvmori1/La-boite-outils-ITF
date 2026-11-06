@@ -68,3 +68,12 @@ Dans Eui-Am, le coup de poing en croissant suit immédiatement un coup de pied d
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Coup de poing en croissant (Bandal Jirugi)](../jirugi/bandol-jirugi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md)
+
+<!-- /fiches-liees -->

@@ -70,3 +70,12 @@ On retrouve le *Doo Bandalson Makgi* dans les formes avancées de ceintures noir
 * **Pouces lâches :** Ne pas gainer les pouces, ce qui détruit la structure en "C" et expose à de graves entorses ou fractures lors de l'impact.
 * **Désynchronisation des bras :** Faire arriver une main avant l'autre, ce qui annule la puissance globale de l'onde de choc et gâche l'effet de pince.
 * **Écarter les coudes exagérément :** Ouvrir trop largement les bras, ce qui découvre totalement le centre du buste et le plexus solaire face à une attaque directe.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So Kaunde Doo Bandalson Makgi](../Techniques/Gunnun-So-Kaunde-Doo-Bandalson-Makgi.md), [Gunnun So Nopunde Doo Bandalson Makgi](../Techniques/Gunnun-So-Nopunde-Doo-Bandalson-Makgi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

@@ -87,3 +87,13 @@ C'est l'une des techniques défensives majeures de la progression des ceintures 
 * **Bras plat à l'horizontale :** Ne pas incliner l'avant-bras à 45°, ce qui absorbe le choc de plein fouet au lieu de le faire glisser.
 * **Masquer la vision :** Placer le bras ou le coude directement devant les yeux, coupant totalement le champ visuel.
 * **Armer depuis le haut :** Ne pas démarrer le mouvement depuis le bas du bassin, ce qui prive le blocage de toute sa vitesse ascendante.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage soulevé (Chookyo Makgi)](../makgi/chookyo-makgi.md)
+* **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Do-San](../tul/do-san.md), [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

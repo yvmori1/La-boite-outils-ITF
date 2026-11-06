@@ -57,3 +57,11 @@ Cette technique repose sur l'alignement de la chaîne articulaire pour transperc
 * **Oubli du réarmement du genou :** Laisser tomber la jambe directement après l'impact au lieu de réarmer le genou, ce qui expose à un balayage ou une contre-attaque.
 
 > **Point clé :** La spécificité du *Orun Kaunde Yopcha Tulgi* réside dans l'effet de **poussée perforante** (*Tulgi*) au niveau du buste, propulsé par l'engagement direct de la hanche et le verrouillage du tranchant du pied (*Balkal*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied latéral pénétrant (Yop Cha Tulgi)](../chagi/yop-cha-tulgi.md)
+
+<!-- /fiches-liees -->

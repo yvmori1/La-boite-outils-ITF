@@ -71,3 +71,12 @@ On retrouve cette mécanique de balayage entrant dans plusieurs formes du progra
 * **Dépasser l'axe central (*Center line*) :** Balayer le bras trop loin de l'autre côté du corps, ce qui dissipe la force d'impact et découvre votre propre flanc.
 * **Armement trop court :** Démarrer le mouvement près de la poitrine au lieu de l'armer loin à l'extérieur, ce qui prive le blocage de sa force centrifuge.
 * **Absence de rotation du poignet :** Conserver le bras figé sans exécuter le pivot final (*Snap*) au moment du contact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi](../Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md), [Gunnun So Sonbadak Najunde Anuro Bandae Makgi](../Techniques/Gunnun-So-Sonbadak-Najunde-Anuro-Bandae-Makgi.md), [Gunnun So Sonkal Dung Najunde Bandae Anuro Makgi](../Techniques/Gunnun-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md), [Gunnun So Sonkal Najunde Bandae Anuro Makgi](../Techniques/Gunnun-So-Sonkal-Najunde-Bandae-Anuro-Makgi.md), [Niunja So Sonkal Dung Najunde Bandae Anuro Makgi](../Techniques/Niunja-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

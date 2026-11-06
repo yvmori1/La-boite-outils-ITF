@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Pieds alignés sur la même ligne :** Perdre la largeur d'épaules en *Gunnun Sogi*, ce qui ruine l'équilibre latéral au moment du choc.
 * **Bras principal collé au visage :** Bloquer trop près du corps au lieu de maintenir une distance de sécurité pour intercepter la frappe en avant du visage.
 * **Coudes relâchés :** Ne pas verrouiller les articulations au moment de l'impact, rendant le blocage mou.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Joong-Gun](../tul/joong-gun.md), [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

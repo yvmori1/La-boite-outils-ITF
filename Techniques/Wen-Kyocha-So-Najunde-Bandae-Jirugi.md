@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Genoux trop écartés :** Ne pas presser les genoux l'un contre l'autre, ce qui détruit le verrouillage du bassin et fragilise la base d'impact.
 * **Hauteur de frappe incorrecte :** Frapper au niveau moyen (*Kaunde*) ou au visage (*Nopunde*) au lieu de viser précisément le niveau bas (*Najunde*).
 * **Pencher le buste vers l'avant :** S'incliner exagérément vers le sol pour atteindre le niveau bas au lieu d'abaisser le centre de gravité par la flexion des genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

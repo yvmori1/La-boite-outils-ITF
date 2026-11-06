@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper vers l'avant au lieu du côté :** Confondre le *Yop Jirugi* (coup de poing latéral à 90°) avec un coup de poing frontal (*Ap Jirugi*).
 * **Casser l'alignement du poignet :** Tordre le poignet au moment du choc latéral au lieu de le maintenir aligné avec l'avant-bras.
 * **Buste penché :** Pencher le torse à l'opposé de la frappe pour compenser l'extension du bras, ce qui détruit l'équilibre et la structure de la posture.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Eui-Am](../tul/eui-am.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

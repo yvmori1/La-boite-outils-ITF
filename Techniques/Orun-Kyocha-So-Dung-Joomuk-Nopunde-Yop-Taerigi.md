@@ -59,3 +59,12 @@ Cette technique associe l'ancrage réactif d'un déplacement croisé à la vites
 * **Oubli du snapping du poignet :** Laisser le poignet mou au moment du contact, ce qui dissipe l'onde de choc au lieu de la transmettre à la cible.
 
 > **Point clé :** La puissance du *Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi* provient de la détente explosive du coude synchronisée avec l'abaissement instantané du bassin en position croisée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+
+<!-- /fiches-liees -->

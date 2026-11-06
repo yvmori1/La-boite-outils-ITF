@@ -80,3 +80,13 @@ Dans Won-Hyo et Toi-Gye, les blocages circulaires s'enchaînent par paires, souv
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Blocage circulaire (Dollimyo Makgi)](../makgi/dollimyo-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage circulaire (Dollimyo Makgi)](../makgi/dollimyo-makgi.md)
+* **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Toi-Gye](../tul/toi-gye.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

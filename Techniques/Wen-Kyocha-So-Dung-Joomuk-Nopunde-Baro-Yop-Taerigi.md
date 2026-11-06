@@ -71,3 +71,13 @@ Sa décomposition linguistique est la suivante :
 * **Talon arrière posé à plat :** Placer le talon du pied arrière (droit) au sol, ce qui supprime la mobilité et détruit la structure du *Kyocha Sogi*.
 * **Pousser au lieu de fouetter :** Pousser le poing en ligne droite au lieu d'utiliser l'articulation du coude pour décocher un fouetté sec (*Taerigi*).
 * **Genoux trop écartés :** Ne pas presser les genoux l'un contre l'autre, ce qui déstabilise la base au moment de l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+* **Dans les formes :** [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

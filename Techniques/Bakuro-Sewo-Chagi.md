@@ -63,3 +63,12 @@ Sa décomposition linguistique est la suivante :
 * **Armement trop large :** Faire partir la jambe directement par le côté au lieu de monter le long de l'axe central avant d'ouvrir vers l'extérieur (*Bakuro*).
 * **Manque de souplesse dynamique :** Compenser le manque d'élévation en penchant excessivement le buste en arrière, ce qui détruit l'équilibre et l'ancrage du pied d'appui.
 * **Oublier le retrait (*Kopurigi*) :** Laisser tomber la jambe tendue après la frappe au lieu de replier le genou, ce qui expose à des contre-attaques ou des balayages.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied vertical / dressé (Sewo Chagi)](../chagi/sewo-chagi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

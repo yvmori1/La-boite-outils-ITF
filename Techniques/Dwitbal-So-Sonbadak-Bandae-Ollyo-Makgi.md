@@ -70,3 +70,12 @@ Sa décomposition linguistique est la suivante :
 * **Poids mal réparti :** Charger la jambe avant (ex: 60/40), neutralisant l'effet d'esquive de la posture *Dwitbal Sogi*.
 * **Talon avant posé :** Écraser le talon du pied avant à plat sur le sol au lieu de le maintenir décollé sur le bol du pied (*Ap Kumchi*).
 * **Confondre *Bandae* et *Baro* :** Utiliser la main du même côté que la jambe avant au lieu du bras opposé.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Sam-Il](../tul/sam-il.md)
+
+<!-- /fiches-liees -->
