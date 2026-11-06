@@ -27,7 +27,7 @@ en sept parties et deux annexes.
 | [VII — L'autodéfense](manuel/partie-7-autodefense-hosinsul.md) | Programme de la FQTI, grade par grade |
 | [Annexe A](manuel/annexe-a-lexique-trilingue/README.md) | Lexique trilingue français – anglais – coréen |
 | [Annexe B](manuel/annexe-b-distances-de-saut.md) | Distances de saut dans les formes |
-| [Annexe C](manuel/annexe-c-types-de-mouvements.md) | Types de mouvements : rapide, lent, connecté, continu |
+| [Annexe C](manuel/annexe-c-types-de-mouvements.md) | Types de mouvements : normal, rapide, lent, connecté, continu |
 
 ## Le glossaire
 
