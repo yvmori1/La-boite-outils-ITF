@@ -522,20 +522,23 @@ def _nachuo(s):
 @position("niunja-sogi", "Niunja Sogi", "position en « L » — pied gauche avant")
 def _niunja(s):
     # Encyclopédie p. 69 : 1 1/2 largeur d'épaule du tranchant du pied
-    # arrière aux orteils du pied avant ; talon avant 2,5 cm au-delà du talon
-    # arrière ; orteils des deux pieds rentrés d'environ 15°.
+    # arrière aux orteils du pied avant ; orteils des deux pieds rentrés
+    # d'environ 15°. Décalage latéral : le gros orteil du pied avant est placé
+    # 2,5 cm au-delà du talon arrière (choix d'Yves, 2026-11-06 ; le texte
+    # anglais de la p. 69 parle du talon avant, mais les croquis p. 69 et 71
+    # montrent le pied avant nettement plus à l'extérieur, comme ici).
     d = s.pied("D", at=(0, 0), angle=-75, repere="talon")
     xt = _xmin(d)
-    g = s.pied("G", at=(xt - 2.5, 0), angle=-15, repere="talon")
+    g = s.pied("G", at=(xt - 2.5, 0), angle=-15, repere="gros-orteil")
     _avancer(g, "orteils", _ymin(d) + EPAULE_15)
     y0, y1 = _ymin(d), _ymax(g)
     s.cote_v(24, y0, y1,
              L_EPAULE_15 + "\n(tranchant du pied arrière\n→ orteils du pied avant)",
              ext=(xt - 12, 26))
     s.cote_h(y0 - 12, xt - 2.5, xt,
-             "Talon avant 2,5 cm au-delà\ndu talon arrière",
+             "Gros orteil avant 2,5 cm\nau-delà du talon arrière",
              ext=(y0 - 14, y0), dessous=True)
-    s.ligne((xt - 2.5, y0 - 14), (xt - 2.5, g.rp("talon")[1]))
+    s.ligne((xt - 2.5, y0 - 14), (xt - 2.5, g.rp("gros-orteil")[1]))
     s.poids(g, "30 %")
     s.poids(d, "70 %")
     s.texte((0, y1 + 8), "Pieds à ~90°, orteils rentrés de 15°")
@@ -546,7 +549,7 @@ def _gojung(s):
     # Encyclopédie p. 71 : placement de Niunja Sogi, 1 1/2 largeur d'épaule
     # entre les gros orteils, poids réparti également.
     d = s.pied("D", at=(0, 0), angle=-75, repere="talon")
-    g = s.pied("G", at=(_xmin(d) - 2.5, 0), angle=-15, repere="talon")
+    g = s.pied("G", at=(_xmin(d) - 2.5, 0), angle=-15, repere="gros-orteil")
     _avancer(g, "gros-orteil", d.rp("gros-orteil")[1] + EPAULE_15)
     y0, y1 = d.rp("gros-orteil")[1], g.rp("gros-orteil")[1]
     s.cote_v(20, y0, y1, L_EPAULE_15 + "\n(gros orteil à gros orteil)",

@@ -28,7 +28,7 @@ La position en L est conçue pour offrir un excellent compromis entre protection
     * **30 % du poids du corps** repose sur la jambe avant.
 2. **La position et l'orientation des pieds :**
     * **Longueur :** Environ **1,5 largeur d'épaules**, mesurée du tranchant du pied arrière aux orteils du pied avant. Les deux pieds forment presque un angle droit.
-    * **Largeur :** Le talon du pied avant dépasse le talon du pied arrière d'environ **2,5 cm**, pour une meilleure stabilité.
+    * **Largeur :** Le gros orteil du pied avant se place environ **2,5 cm au-delà du talon du pied arrière**, vers l'extérieur, pour une meilleure stabilité.
     * **Pied arrière :** Presque perpendiculaire à la ligne d'attaque, orteils tournés d'environ **15° vers l'intérieur**, pour former la base du « L ».
     * **Pied avant :** Pointe vers l'avant, orteils tournés d'environ **15° vers l'intérieur**.
 3. **La flexion des jambes et le buste :**

@@ -14,7 +14,7 @@ C'est une variante de la position en L (*Niunja Sogi*) dans laquelle le poids es
 
 | Caractéristique | Norme technique ITF |
 | --- | --- |
-| **Placement des pieds** | Comme en position en L : les pieds forment presque un angle droit, les orteils des deux pieds tournés d'environ **15° vers l'intérieur**, le talon avant dépassant légèrement le talon arrière. |
+| **Placement des pieds** | Comme en position en L : les pieds forment presque un angle droit, les orteils des deux pieds tournés d'environ **15° vers l'intérieur**, le gros orteil avant placé environ 2,5 cm au-delà du talon arrière. |
 | **Longueur** | **Une largeur d'épaules et demie**, mesurée entre les gros orteils des deux pieds. |
 | **Répartition du poids** | **50 % / 50 %**, également sur les deux jambes (contre 70 / 30 en position en L). |
 | **Position des genoux** | Les deux genoux sont fléchis, sans excès, et ne rentrent pas vers l'intérieur. |
