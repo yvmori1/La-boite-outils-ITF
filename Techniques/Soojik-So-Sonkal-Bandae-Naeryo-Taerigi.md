@@ -74,6 +74,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Soojik Sogi](../sogi/Soojik-Sogi.md)
 * **Geste de base :** [Frappe vers la bas (Naeryo Taerigi)](../jirugi/naeryo-taerigi.md)
 
 <!-- /fiches-liees -->

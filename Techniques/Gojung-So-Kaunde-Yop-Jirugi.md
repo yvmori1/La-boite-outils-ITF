@@ -73,6 +73,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
 * **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Hwa-Rang](../tul/hwa-rang.md), [Choi-Yong](../tul/choi-yong.md)
 
 <!-- /fiches-liees -->

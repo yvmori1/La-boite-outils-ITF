@@ -73,6 +73,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
 * **Geste de base :** [Blocage de garde des avant-bras (Palmok Daebi Makgi)](../makgi/palmok-daebi-makgi.md)
 
 <!-- /fiches-liees -->
