@@ -8,21 +8,8 @@ Diagrammes et schémas référencés par les fiches du dépôt : **diagrammes de
 
 Les schémas cotés des 21 positions, générés par
 [scripts/generer-sogi.py](https://github.com/yvmori1/La-boite-outils-ITF/blob/main/scripts/generer-sogi.py), sont dans
-[sogi/](sogi/README.md) : ce sont eux que référence désormais la partie IV du
-[manuel](../Theorie/manuel/partie-4-positions-sogi/README.md). Les images ci-dessous sont les schémas d'origine, conservés
-pour mémoire.
-
-| Image | Position |
-| :--- | :--- |
-| [narani-junbi-sogi.png](narani-junbi-sogi.png) | Position de préparation parallèle |
-| [gunnun-sogi.png](gunnun-sogi.png) | Position de marche |
-| [niunja-sogi.png](niunja-sogi.png) | Position en « L » |
-| [annun-sogi (annun-sogi.png)](annun-sogi.png) | Position assise / du cavalier |
-| [dwitbal-sogi.png](dwitbal-sogi.png) | Position sur la jambe arrière |
-| [moa-sogi.png](moa-sogi.png) | Position pieds joints |
-| [palja-sogi.png](palja-sogi.png) | Position en « 8 » ouverte |
-| [sasun-sogi.png](sasun-sogi.png) | Position diagonale |
-| [soojik-sogi.png](soojik-sogi.png) | Position verticale |
+[sogi/](sogi/README.md) : ce sont eux que référence la partie IV du
+[manuel](../Theorie/manuel/partie-4-positions-sogi/README.md).
 
 ## Exercices fondamentaux
 
