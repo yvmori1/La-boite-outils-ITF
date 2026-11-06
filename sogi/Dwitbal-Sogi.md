@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 
 | Caractéristique | Norme technique ITF |
 | --- | --- |
-| **Répartition du poids** | **95% sur la jambe arrière / 5% sur la jambe avant** (la jambe arrière porte la quasi-totalité de la masse du corps). |
+| **Répartition du poids** | **95% sur la jambe arrière / 5% sur la jambe avant** (la jambe arrière porte la quasi-totalité de la masse du corps). L'Encyclopédie ne chiffre pas cette répartition : elle demande de porter **l'essentiel du poids** sur le pied arrière. |
 | **Longueur de la posture** | **1 largeur d'épaules** (mesurée entre les petits orteils des deux pieds). |
 | **Orientation du pied arrière** | Tourné à environ **15° vers l'intérieur** par rapport à la perpendiculaire. |
 | **Orientation du pied avant** | Pointé légèrement vers l'intérieur (environ **25°**) sur la ligne d'attaque. |
