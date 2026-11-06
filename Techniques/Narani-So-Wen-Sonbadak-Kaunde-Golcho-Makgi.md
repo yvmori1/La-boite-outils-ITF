@@ -66,3 +66,11 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec la paume au lieu de crocheter :** Donner une frappe directe (*Paiyo / Sonbadak Taerigi*) au lieu d'effectuer un mouvement circulaire continu de déviation (*Golcho*).
 * **Doigts écartés ou mous :** Ne pas maintenir les 4 doigts bien serrés et le pouce rabattu, ce qui expose les doigts à de graves entorses ou fractures au contact du poing/pied adverse.
 * **Tendre complètement le coude :** Verrouiller le bras gauche en extension complète, ce qui détruit la flexibilité nécessaire au crochetage et à la saisie.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Narani Sogi](../sogi/Narani-Sogi.md)
+
+<!-- /fiches-liees -->

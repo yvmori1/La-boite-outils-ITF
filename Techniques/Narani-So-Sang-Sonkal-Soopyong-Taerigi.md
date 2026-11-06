@@ -71,6 +71,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Narani Sogi](../sogi/Narani-Sogi.md)
 * **Dans les formes :** [So-San](../tul/so-san.md)
 
 <!-- /fiches-liees -->

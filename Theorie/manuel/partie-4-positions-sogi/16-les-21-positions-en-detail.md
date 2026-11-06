@@ -200,7 +200,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 
 * **Nomenclature coréenne :** *Soojik Sogi / [수직 서기](../../../audio/grammaire/Soojik-Sogi.m4a)*.
 * **Longueur :** Écartement d'**une largeur d'épaule** mesurée entre les deux gros orteils.
-* **Orientation :** Le pied avant pointe vers l'avant, orteils rentrés de **15 degrés**. Le pied arrière est ouvert à **90 degrés**, orteils vers le côté.
+* **Orientation :** Comme en position en L, les pieds forment presque un angle droit, et les orteils des **deux pieds** pointent à environ **15 degrés vers l'intérieur**.
 * **Jambes :** Les deux jambes sont maintenues **parfaitement droites et tendues** (sans aucune flexion des genoux).
 * **Poids :** Réparti à **60% sur la jambe arrière** et **40% sur la jambe avant**.
 * **Schéma d'alignement :**

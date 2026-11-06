@@ -66,3 +66,11 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec la paume au lieu de crocheter :** Donner un coup direct (*Sonbadak Taerigi*) au lieu d'exécuter une trajectoire circulaire continue de déviation (*Golcho*).
 * **Doigts écartés ou mous :** Ne pas maintenir les 4 doigts bien serrés et le pouce plaqué, ce qui expose la main à des blessures au contact du membre adverse.
 * **Tendre complètement le coude :** Verrouiller le bras droit en extension complète, ce qui détruit la flexibilité nécessaire pour contrôler ou saisir la frappe.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Narani Sogi](../sogi/Narani-Sogi.md)
+
+<!-- /fiches-liees -->

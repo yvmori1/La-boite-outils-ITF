@@ -61,6 +61,7 @@ Cette technique utilise la pointe du coude comme une pointe de lance propulsée 
 
 ## Fiches liées
 
+* **Position :** [Sasun Sogi](../sogi/Sasun-Sogi.md)
 * **Geste de base :** [Pique de coude arrière (Dwit Palkup Tulgi)](../jirugi/dwit-palkup-tulgi.md)
 
 <!-- /fiches-liees -->

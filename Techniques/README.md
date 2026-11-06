@@ -322,6 +322,8 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](../sogi/Dwitbal-Sogi.m
 
 ## 5. Position fixe (*Gojung So*)
 
+La posture elle-même est décrite dans [Gojung-Sogi.md](../sogi/Gojung-Sogi.md).
+
 | Fiche | Technique |
 | :--- | :--- |
 | [Gojung-So-Digutja-Jirugi.md](Gojung-So-Digutja-Jirugi.md) | Coup de poing double en forme de « [ㄷ](../audio/termes/digeut.m4a) » (U / C) |
@@ -387,6 +389,8 @@ La posture elle-même est décrite dans [Moa-Sogi.md](../sogi/Moa-Sogi.md).
 
 ## 8. Position basse (*Nachuo So*)
 
+La posture elle-même est décrite dans [Nachuo-Sogi.md](../sogi/Nachuo-Sogi.md).
+
 | Fiche | Technique |
 | :--- | :--- |
 | [Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md](Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md) | Pénétration haute inversée au piqué de la main plat (paume vers le bas) en posture basse |
@@ -411,6 +415,8 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](../sogi/Waebal-Sogi.md)
 
 ## 10. Position verticale (*Soojik So*)
 
+La posture elle-même est décrite dans [Soojik-Sogi.md](../sogi/Soojik-Sogi.md).
+
 | Fiche | Technique |
 | :--- | :--- |
 | [Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md](Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md) | Coup percutant descendant inversé au tranchant de la main en posture verticale |
@@ -419,6 +425,8 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](../sogi/Waebal-Sogi.md)
 ---
 
 ## 11. Position en diagonale (*Sasun So*)
+
+La posture elle-même est décrite dans [Sasun-Sogi.md](../sogi/Sasun-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -429,6 +437,8 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](../sogi/Waebal-Sogi.md)
 ---
 
 ## 12. Position parallèle (*Narani So*)
+
+La posture elle-même est décrite dans [Narani-Sogi.md](../sogi/Narani-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |

@@ -73,6 +73,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
 * **Dans les formes :** [Se-Jong](../tul/se-jong.md)
 
 <!-- /fiches-liees -->

@@ -74,6 +74,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Choong-Moo](../tul/choong-moo.md), [Sam-Il](../tul/sam-il.md)
 
 <!-- /fiches-liees -->

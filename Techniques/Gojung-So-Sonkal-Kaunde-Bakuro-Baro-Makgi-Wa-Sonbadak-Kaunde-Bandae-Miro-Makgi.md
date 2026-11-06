@@ -88,6 +88,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
 * **Geste de base :** [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md), [Blocage direct (Baro Makgi)](../makgi/baro-makgi.md)
 
 <!-- /fiches-liees -->

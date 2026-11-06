@@ -55,3 +55,11 @@ Cette technique associe la stabilité maximale de la position fixe à une struct
 * **Oubli de la vague (*Sine Wave*) :** Exécuter le blocage de manière rigide sans synchroniser le verrouillage des bras avec la descente du centre de gravité.
 
 > **Point clé :** La force du *Orun Gojung So Digutja Makgi* réside dans le verrouillage rigide et parallèle des deux avant-bras en forme de « [ㄷ](../audio/termes/digeut.m4a) », ancrés par la stabilité parfaitement équilibrée (50/50) de la position *Gojung Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
+
+<!-- /fiches-liees -->

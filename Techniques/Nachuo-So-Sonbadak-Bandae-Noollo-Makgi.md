@@ -62,6 +62,7 @@ Cette technique utilise la gravité et l'ancrage profond de la position basse po
 
 ## Fiches liées
 
+* **Position :** [Nachuo Sogi](../sogi/Nachuo-Sogi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Kwang-Gae](../tul/kwang-gae.md)
 
 <!-- /fiches-liees -->
