@@ -1,16 +1,18 @@
 # Ordre et titres des sections du menu latéral.
 # Toute fiche ajoutée dans un dossier apparaît automatiquement dans sa section.
+# images/ n'est plus une entrée du menu : ses pages restent publiées et
+# accessibles par les liens des fiches.
 nav:
   - README.md
   - Requis Examen: Ceintures
   - Formes (tul): tul
   - Coups de pied (chagi): chagi
   - Blocages (makgi): makgi
-  - Frappes de la main (jirugi): jirugi
+  - Frappes du bras (jirugi): jirugi
   - Techniques
   - Combat et autodéfense: Combat
   - Théorie: Theorie
-  - Images: images
-  - Bibliographie.md
-  - Application iPhone et iPad: Application.md
-  - Confidentialité: Confidentialite.md
+  - À propos:
+    - Bibliographie.md
+    - Application iPhone et iPad: Application.md
+    - Confidentialité: Confidentialite.md

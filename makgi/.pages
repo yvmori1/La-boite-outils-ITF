@@ -1,0 +1,57 @@
+# Fichier produit par scripts/generer-menus.py : ne pas modifier à la
+# main. L'ordre suit le sommaire (README.md) de la section.
+nav:
+  - README.md
+  - Niveaux et zones:
+    - najunde-makgi.md
+    - kaunde-makgi.md
+    - nopunde-yop-makgi.md
+    - hori-makgi.md
+  - Directions et orientations:
+    - ap-makgi.md
+    - yop-makgi.md
+    - yopap-makgi.md
+    - an-makgi.md
+    - anuro-makgi.md
+    - bakuro-makgi.md
+    - naeryo-makgi.md
+    - chookyo-makgi.md
+  - "Modalités d'exécution":
+    - baro-makgi.md
+    - bandae-makgi.md
+    - bakwo-makgi.md
+  - Surfaces de blocage:
+    - an-palmok-makgi.md
+    - bakat-palmok-makgi.md
+    - sonkal-dung-makgi.md
+    - sonbadak-makgi.md
+    - sonmok-makgi.md
+    - sonmok-dung-makgi.md
+    - bandalson-makgi.md
+  - Blocages de garde (Daebi):
+    - palmok-daebi-makgi.md
+    - sonkal-daebi-makgi.md
+    - najunde-daebi-makgi.md
+  - Blocages doubles et simultanés:
+    - sang-palmok-makgi.md
+    - sang-sonkal-makgi.md
+    - doo-bandalson-makgi.md
+    - doo-sonbadak-makgi.md
+    - sang-sonbadak-makgi.md
+    - narani-makgi.md
+  - Blocages en forme géométrique:
+    - san-makgi.md
+    - mongdung-i-makgi.md
+    - mongdung-i-japgi.md
+    - gutja-makgi.md
+    - kyocha-joomuk-makgi.md
+  - Actions particulières:
+    - nullo-makgi.md
+    - miro-makgi.md
+    - momchau-makgi.md
+    - hechyo-makgi.md
+    - dollimyo-makgi.md
+    - deuro-makgi.md
+    - golcho-sonbadak-makgi.md
+    - butjaba-makgi.md
+  - ...

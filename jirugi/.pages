@@ -1,0 +1,31 @@
+# Fichier produit par scripts/generer-menus.py : ne pas modifier à la
+# main. L'ordre suit le sommaire (README.md) de la section.
+nav:
+  - README.md
+  - Coups de poing perçants (Jirugi):
+    - bandol-jirugi.md
+    - naeryo-jirugi.md
+    - kiokja-jirugi.md
+    - yonsok-jirugi.md
+    - twimyo-ijung-ap-jirugi.md
+  - Frappes du poing (Joomuk Taerigi):
+    - ap-joomuk-taerigi.md
+    - dung-joomuk-taerigi.md
+    - dung-joomuk-yop-taerigi.md
+    - ikwon-taerigi.md
+    - Inji-joomuk-taerigi.md
+  - Frappes de la main ouverte:
+    - sondung-taerigi.md
+    - bandol-son-taerigi.md
+    - sasun-taerigi.md
+    - naeryo-taerigi.md
+  - Piques de doigts (Sonkut Tulgi):
+    - apun-sonkut-tulgi.md
+    - doo-songarak-tulgi.md
+    - homi-sunkut-tulgi.md
+  - Coups de coude (Palkup):
+    - dwit-palkup-tulgi.md
+    - naeryo-palkup-tulgi.md
+    - sang-yop-palkup-tulgi.md
+    - sang-scopyong-palkup-tulgi.md
+  - ...

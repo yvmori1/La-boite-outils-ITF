@@ -1,24 +1,43 @@
-# Ordre et titres du menu Formes.
+# Ordre et titres du menu Formes : l'ordre du programme, groupé par grade.
 # Les exercices fondamentaux n'affichent que leur nom coréen romanisé ;
-# les autres formes gardent le titre de leur fiche.
+# les autres formes gardent le titre de leur fiche. Ko-Dang, forme distincte
+# de Juche, est rangée à côté d'elle (2e Dan).
 nav:
   - README.md
-  - choi-yong.md
-  - chon-ji.md
-  - choong-jang.md
-  - choong-moo.md
-  - dan-gun.md
-  - do-san.md
-  - eui-am.md
-  - ge-baek.md
-  - hwa-rang.md
-  - joong-gun.md
-  - juche.md
-  - ko-dang.md
-  - kwang-gae.md
-  - moon-moo.md
-  - po-eun.md
-  - SAJU JIRUGI: saju-jirugi.md
-  - SAJU MAKGI: saju-makgi.md
-  - SAJU TULGI: saju-tulgi.md
+  - Exercices fondamentaux (Saju):
+    - SAJU JIRUGI: saju-jirugi.md
+    - SAJU MAKGI: saju-makgi.md
+    - SAJU TULGI: saju-tulgi.md
+  - Ceintures de couleur (Gup):
+    - chon-ji.md
+    - dan-gun.md
+    - do-san.md
+    - won-hyo.md
+    - yul-gok.md
+    - joong-gun.md
+    - toi-gye.md
+    - hwa-rang.md
+    - choong-moo.md
+  - 1er Dan:
+    - kwang-gae.md
+    - po-eun.md
+    - ge-baek.md
+  - 2e Dan:
+    - eui-am.md
+    - choong-jang.md
+    - juche.md
+    - ko-dang.md
+  - 3e Dan:
+    - sam-il.md
+    - yoo-sin.md
+    - choi-yong.md
+  - 4e Dan:
+    - yon-gae.md
+    - ul-ji.md
+    - moon-moo.md
+  - 5e Dan:
+    - so-san.md
+    - se-jong.md
+  - 6e Dan:
+    - tong-il.md
   - ...
