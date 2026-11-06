@@ -114,7 +114,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 
 * **Nomenclature coréenne :** *Niunja Sogi / [ㄴ자 서기](../../../audio/grammaire/Niunja-Sogi.m4a)*.
 * **Longueur :** **Une largeur et demie d'épaule** mesurée du tranchant du pied arrière (*Balkal*) aux orteils du pied avant.
-* **Alignement et décalage :** Les pieds forment presque un angle droit (90°). Les orteils de chaque pied pointent à environ **15 degrés vers l'intérieur**. Le talon du pied avant dépasse d'environ **2,5 cm** le talon du pied arrière, vers l'extérieur, pour une meilleure stabilité.
+* **Alignement et décalage :** Les pieds forment presque un angle droit (90°). Les orteils de chaque pied pointent à environ **15 degrés vers l'intérieur**. Le gros orteil du pied avant se place environ **2,5 cm au-delà du talon du pied arrière**, vers l'extérieur, pour une meilleure stabilité.
 * **Poids :** Réparti à **70% sur la jambe arrière** et **30% sur la jambe avant**.
 * **Flexion :**
     * Jambe arrière : Fléchie jusqu'à ce que la rotule forme une ligne verticale droite avec les orteils. Conserver la hanche parfaitement alignée avec la jointure interne du genou arrière.
