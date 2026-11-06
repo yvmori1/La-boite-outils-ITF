@@ -8,8 +8,8 @@ Cette position offre une base ultra-stable, ancrée et équilibrée. Elle est in
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun ([앉은](../audio/termes/앉은.m4a)) :** Assis (*Sitting* — du verbe *Antda* [[앉다](../audio/termes/앉다.m4a)], s'asseoir).
-* **Sogi ([서기](../audio/termes/서기.m4a)) :** Posture / Position debout (*Stance*).
+* **Annun ([앉은](../audio/termes/annun.m4a)) :** Assis (*Sitting* — du verbe *Antda* [[앉다](../audio/termes/anda.m4a)], s'asseoir).
+* **Sogi ([서기](../audio/termes/sogi.m4a)) :** Posture / Position debout (*Stance*).
 
 ---
 

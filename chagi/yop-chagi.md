@@ -13,9 +13,9 @@ Considéré comme l'une des armes les plus puissantes, rigides et perforantes de
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Yop** | [옆](../audio/grammaire/Yop.m4a) | Côté / Latéral | Orientation de la trajectoire (exécutée vers le côté du corps). |
-| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Technique d'attaque portée avec la jambe. |
+| **Chagi** | [차기](../audio/termes/chagi.m4a) | Coup de pied | Technique d'attaque portée avec la jambe. |
 
-*(Note : Lorsqu'il est exécuté sous sa forme perçante et rectiligne complète en ITF, on l'appelle souvent **Yopcha Jirugi** - [옆차 지르기](../audio/termes/옆차-지르기.m4a)).*
+*(Note : Lorsqu'il est exécuté sous sa forme perçante et rectiligne complète en ITF, on l'appelle souvent **Yopcha Jirugi** - [옆차 지르기](../audio/termes/yopcha-jirugi.m4a)).*
 
 ---
 

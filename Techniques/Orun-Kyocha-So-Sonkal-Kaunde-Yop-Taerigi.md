@@ -17,7 +17,7 @@ Elle se traduit par : **Frappe latérale du tranchant de la main au niveau moyen
 | **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Surface de frappe (le bord extérieur de la main, de la base du petit doigt au poignet). |
 | **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur de la cible (au niveau de la poitrine / du plexus solaire). |
 | **Yop** | [옆](../audio/grammaire/Yop.m4a) | Latéral / De côté | Direction de l'attaque (exécutée vers le côté du corps). |
-| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement d'attaque fustigeant ou circulaire (différent d'une poussée directe *Jirugi*). |
+| **Taerigi** | [때리기](../audio/termes/taerigi.m4a) | Frappe / Coup | Mouvement d'attaque fustigeant ou circulaire (différent d'une poussée directe *Jirugi*). |
 
 ---
 

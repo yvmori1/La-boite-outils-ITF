@@ -9,9 +9,9 @@ Ce coup de pied part comme un coup de pied de côté (*Yopcha*) : genou armé de
 Sa décomposition linguistique est la suivante :
 
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yopcha ([옆차](../audio/termes/옆차.m4a)) :** Coup de pied de côté (*Side kick*).
+* **Yopcha ([옆차](../audio/termes/yopcha.m4a)) :** Coup de pied de côté (*Side kick*).
 * **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / accroché (*Hooking*).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

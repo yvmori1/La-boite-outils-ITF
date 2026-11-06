@@ -1,8 +1,8 @@
 # Gunnun So Dwijibun Sonkut Bandae Najunde Tulgi
 
-> 🔊 **Prononciation :** [걷는 서 뒤집은손끝 반대 낮은데 찌르기](../audio/Techniques/Gunnun-So-Dwijibun-Sonkut-Bandae-Najunde-Tulgi.m4a)
+> 🔊 **Prononciation :** [걷는 서 뒤집은손끝 반대 낮은데 뚫기](../audio/Techniques/Gunnun-So-Dwijibun-Sonkut-Bandae-Najunde-Tulgi.m4a)
 
-La **Gunnun So Dwijibun Sonkut Bandae Najunde Tulgi** ([걷는 서 뒤집은손끝 반대 낮은데 찌르기](../audio/Techniques/Gunnun-So-Dwijibun-Sonkut-Bandae-Najunde-Tulgi.m4a)) est la **pique basse inversée avec le bout des doigts renversé en posture de marche** (*Walking stance upset fingertip reverse low thrust*) en TaeKwon-Do ITF.
+La **Gunnun So Dwijibun Sonkut Bandae Najunde Tulgi** ([걷는 서 뒤집은손끝 반대 낮은데 뚫기](../audio/Techniques/Gunnun-So-Dwijibun-Sonkut-Bandae-Najunde-Tulgi.m4a)) est la **pique basse inversée avec le bout des doigts renversé en posture de marche** (*Walking stance upset fingertip reverse low thrust*) en TaeKwon-Do ITF.
 
 Le bout des doigts, paume vers le haut, pique au niveau bas avec la main du côté de la jambe arrière.
 
@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Dwijibun Sonkut ([뒤집은손끝](../audio/grammaire/Dwijibun-Sonkut.m4a)) :** Bout des doigts renversé (*Upset fingertip* — paume vers le haut).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
-* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / poussée pénétrante (*Thrust*).
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / poussée pénétrante (*Thrust*).
 
 ---
 

@@ -1,16 +1,16 @@
 # Pique à deux doigts (Doo Songarak Tulgi)
 
-> 🔊 **Prononciation :** [두 손가락 찌르기](../audio/jirugi/doo-songarak-tulgi.m4a)
+> 🔊 **Prononciation :** [두 손가락 뚫기](../audio/jirugi/doo-songarak-tulgi.m4a)
 
-Le **Doo Songarak Tulgi** ([두 손가락 찌르기](../audio/jirugi/doo-songarak-tulgi.m4a) — couramment retranscrit **Du Songarak Tulgi**) est la **pique à deux doigts** (*Two-finger thrust*) en TaeKwon-Do ITF.
+Le **Doo Songarak Tulgi** ([두 손가락 뚫기](../audio/jirugi/doo-songarak-tulgi.m4a) — couramment retranscrit **Du Songarak Tulgi**) est la **pique à deux doigts** (*Two-finger thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à main ouverte hautement spécialisée est conçue pour cibler des zones molles d'une extrême vulnérabilité, où la force physique brute de l'adversaire importe peu.
 
 Sa décomposition linguistique est la suivante :
 
-* **Doo / Du ([두](../audio/termes/두.m4a)) :** Deux (2).
-* **Songarak ([손가락](../audio/termes/손가락.m4a)) :** Doigt / Doigts.
-* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée pénétrante (*Thrust*).
+* **Doo / Du ([두](../audio/termes/doo.m4a)) :** Deux (2).
+* **Songarak ([손가락](../audio/termes/songarak.m4a)) :** Doigt / Doigts.
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée pénétrante (*Thrust*).
 
 ---
 

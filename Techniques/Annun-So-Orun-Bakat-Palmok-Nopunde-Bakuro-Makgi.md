@@ -8,12 +8,12 @@ Contrairement au blocage frontal (*Ap Makgi*) qui monte en ligne droite sur l'ax
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras extérieur (côté petit doigt / ulna).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur des yeux / tempe).
-* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur (*Outward*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Bakuro ([바깥으로](../audio/termes/bakuro.m4a)) :** Vers l'extérieur (*Outward*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

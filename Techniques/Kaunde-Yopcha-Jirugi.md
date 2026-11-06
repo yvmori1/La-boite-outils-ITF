@@ -9,7 +9,7 @@ Le coup de pied le plus fréquent des formes : la jambe se détend en ligne droi
 Sa décomposition linguistique est la suivante :
 
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yopcha Jirugi ([옆차 지르기](../audio/termes/옆차-지르기.m4a)) :** Coup de pied latéral perçant (*Side piercing kick*).
+* **Yopcha Jirugi ([옆차 지르기](../audio/termes/yopcha-jirugi.m4a)) :** Coup de pied latéral perçant (*Side piercing kick*).
 
 ---
 

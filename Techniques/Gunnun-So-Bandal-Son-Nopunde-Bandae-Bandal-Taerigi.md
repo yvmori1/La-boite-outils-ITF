@@ -12,8 +12,8 @@ Sa décomposition linguistique est la suivante :
 * **Bandal Son ([반달손](../audio/grammaire/Bandalson.m4a)) :** Main arquée (*Arc-hand* — creux entre le pouce et l'index).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Bandal ([반달](../audio/termes/반달.m4a)) :** En croissant (*Crescent* — trajectoire en arc).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
+* **Bandal ([반달](../audio/termes/bandal.m4a)) :** En croissant (*Crescent* — trajectoire en arc).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe (*Strike*).
 
 ---
 

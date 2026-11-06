@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, de la tempe ou de la tête).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

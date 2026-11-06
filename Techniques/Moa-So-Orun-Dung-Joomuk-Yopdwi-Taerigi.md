@@ -1,8 +1,8 @@
 # Moa So Orun Dung Joomuk Yopdwi Taerigi
 
-> 🔊 **Prononciation :** [모아서 오른 등주먹 옆뒤 때리기](../audio/Techniques/Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.m4a)
+> 🔊 **Prononciation :** [모아 서 오른 등주먹 옆뒤 때리기](../audio/Techniques/Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.m4a)
 
-Le **Moa So Orun Dung Joomuk Yopdwi Taerigi** ([모아서 오른 등주먹 옆뒤 때리기](../audio/Techniques/Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.m4a)) est le **coup percutant latéral-arrière au revers du poing droit en posture pieds joints** (*Closed stance right backfist side-rear strike*) en TaeKwon-Do ITF.
+Le **Moa So Orun Dung Joomuk Yopdwi Taerigi** ([모아 서 오른 등주먹 옆뒤 때리기](../audio/Techniques/Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.m4a)) est le **coup percutant latéral-arrière au revers du poing droit en posture pieds joints** (*Closed stance right backfist side-rear strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque fouettée et imprévisible est le pendant symétrique exact de la version gauche (*Wen*). Elle utilise le revers du poing droit (**Orun Dung Joomuk**) pour frapper une cible située dans l'angle intermédiaire arrière-latéral (environ 135° par rapport à l'axe frontal), tout en maintenant le verrouillage central et l'équilibre de la posture pieds joints (**Moa Sogi**).
 
@@ -11,8 +11,8 @@ Sa décomposition linguistique est la suivante :
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist* — le dessus des deux premières jointures du poing).
-* **Yopdwi ([옆뒤](../audio/termes/옆뒤.m4a)) :** Latéral-arrière / Diagonale arrière-côté (*Side-rear* — zone à mi-chemin entre le côté et l'arrière).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Fouetté (*Strike*).
+* **Yopdwi ([옆뒤](../audio/termes/yopdwi.m4a)) :** Latéral-arrière / Diagonale arrière-côté (*Side-rear* — zone à mi-chemin entre le côté et l'arrière).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup percutant / Fouetté (*Strike*).
 
 ---
 

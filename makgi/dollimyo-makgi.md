@@ -6,8 +6,8 @@ Le **Dollimyo Makgi** ([돌리며 막기](../audio/makgi/dollimyo-makgi.m4a)) es
 
 Sa décomposition linguistique est la suivante :
 
-* **Dollimyo ([돌리며](../audio/termes/돌리며.m4a)) :** En tournant / En décrivant un cercle (du verbe *dollida*, [돌리다](../audio/termes/돌리다.m4a) = faire tourner/circuler, avec la désinence *-myeo* indiquant une action continue et fluide).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Dollimyo ([돌리며](../audio/termes/dollimyo.m4a)) :** En tournant / En décrivant un cercle (du verbe *dollida*, [돌리다](../audio/termes/dolrida.m4a) = faire tourner/circuler, avec la désinence *-myeo* indiquant une action continue et fluide).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Ce blocage se distingue par sa **trajectoire circulaire continue et enveloppante**. Plutôt que d'opposer une force directe contre l'attaque adverse, le *Dollimyo Makgi* vient passer sous la frappe, la "ramasser" et la dévier en formant un cercle pour détruire l'équilibre de l'attaquant.
 

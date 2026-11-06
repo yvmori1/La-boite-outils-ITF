@@ -8,7 +8,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Moorup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou.
 * **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / De bas en haut (du verbe *ollida*, monter).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied / Frappe de jambe.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied / Frappe de jambe.
 
 Alors que le *Moorup Apcha Busigi* possède une trajectoire fouettée orientée vers l'avant, le **Moorup Ollyo Chagi** privilégie une **trajectoire strictement verticale**, projetant la pointe du genou directement du sol vers le ciel pour percuter les cibles situées directement au-dessus du niveau de départ.
 

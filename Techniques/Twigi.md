@@ -8,7 +8,7 @@ Alors que les termes *Twimyo* ([뛰며](../audio/grammaire/Twimyo.m4a)) et *Twio
 
 Sa décomposition linguistique est la suivante :
 
-* **Twida ([뛰다](../audio/termes/뛰다.m4a)) :** Verbe signifiant sauter, bondir ou courir.
+* **Twida ([뛰다](../audio/termes/ttwida.m4a)) :** Verbe signifiant sauter, bondir ou courir.
 * **-Gi ([기](../audio/combats/Ki.m4a)) :** Suffixe de nominalisation qui transforme le verbe en nom verbal (*Le saut / L'action de sauter*).
 
 ---

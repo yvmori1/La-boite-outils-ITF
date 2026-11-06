@@ -8,7 +8,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral.
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Face. *(En coréen, le rassemblement des deux forme le composé **Yopap / Yobap**, désignant la direction diagonale à 45° entre la face et le côté).*
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Là où le *Ap Makgi* cible l'axe frontal pur (0°) et le *Yop Makgi* l'axe latéral pur (90°), le **Yobap Makgi** est exécuté dans un **angle diagonal intermédiaire d'environ 45°**. C'est la réponse idéale aux attaques arrivant en biais ou lorsque le corps est positionné de trois-quarts par rapport à l'agresseur.
 

@@ -13,11 +13,11 @@ Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position L dro
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position L droite (le pied droit est à l'arrière et porte 70 % du poids). |
-| **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture où les pieds forment un « [ㄴ](../audio/termes/ㄴ.m4a) » (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
+| **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture où les pieds forment un « [ㄴ](../audio/termes/nieun.m4a) » (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
 | **Palmok** | [팔목](../audio/grammaire/Palmok.m4a) | Avant-bras | Zone de blocage (utilisation de l'extérieur des avant-bras avec les **poings fermés**). |
 | **Kaunde** | [가운데](../audio/grammaire/Kaunde.m4a) | Niveau moyen | Hauteur d'exécution (au niveau de la poitrine / du plexus solaire). |
-| **Daebi** | [대비](../audio/termes/대비.m4a) | Garde / Protection | Action de couverture où les deux bras travaillent ensemble pour former un bouclier. |
-| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
+| **Daebi** | [대비](../audio/termes/daebi.m4a) | Garde / Protection | Action de couverture où les deux bras travaillent ensemble pour former un bouclier. |
+| **Makgi** | [막기](../audio/termes/makgi.m4a) | Blocage / Défense | Action de neutraliser, dévier ou stopper une attaque. |
 
 ---
 

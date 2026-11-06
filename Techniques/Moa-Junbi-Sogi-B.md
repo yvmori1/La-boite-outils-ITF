@@ -14,9 +14,9 @@ C'est une posture d'attente, de concentration et de recentrage mental exécutée
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Moa** | [모아](../audio/termes/모아.m4a) | Fermé / Joint | Indique que les pieds sont parfaitement collés l'un contre l'autre. |
-| **Junbi** | [준비](../audio/termes/준비.m4a) | Préparation | Posture d'attente, d'éveil et d'harmonisation de la respiration. |
-| **Sogi** | [서기](../audio/termes/서기.m4a) | Position / Posture | Posture générale du corps. |
+| **Moa** | [모아](../audio/termes/moa.m4a) | Fermé / Joint | Indique que les pieds sont parfaitement collés l'un contre l'autre. |
+| **Junbi** | [준비](../audio/termes/junbi.m4a) | Préparation | Posture d'attente, d'éveil et d'harmonisation de la respiration. |
+| **Sogi** | [서기](../audio/termes/sogi.m4a) | Position / Posture | Posture générale du corps. |
 | **B** | B | Type B | Spécifie la position et la hauteur des mains (au niveau de la ceinture / l'abdomen). |
 
 ---

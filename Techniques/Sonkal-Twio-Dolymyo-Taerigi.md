@@ -14,8 +14,8 @@ Elle se traduit par : **Frappe du tranchant de la main en sautant et en tournant
 | --- | --- | --- | --- |
 | **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Surface d'impact (bord extérieur de la main, de la base du petit doigt au poignet). |
 | **Twio** | [뛰어](../audio/grammaire/Twio.m4a) | En sautant | Indique une exécution en phase aérienne (sans aucun contact avec le sol). |
-| **Dolymyo** | [돌며](../audio/termes/돌며.m4a) | En tournant | Mouvement de rotation du corps autour de son axe vertical pendant le saut. |
-| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement d'attaque circulaire ou fustigeant (différent d'une poussée directe *Jirugi*). |
+| **Dolymyo** | [돌며](../audio/termes/dolmyo.m4a) | En tournant | Mouvement de rotation du corps autour de son axe vertical pendant le saut. |
+| **Taerigi** | [때리기](../audio/termes/taerigi.m4a) | Frappe / Coup | Mouvement d'attaque circulaire ou fustigeant (différent d'une poussée directe *Jirugi*). |
 
 ---
 

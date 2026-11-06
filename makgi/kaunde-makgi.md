@@ -9,7 +9,7 @@ Le **Kaunde Makgi** ([가운데 막기](../audio/makgi/kaunde-makgi.m4a) — ret
 Sa décomposition linguistique est la suivante :
 
 * **Kaujunde / Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen / Section médiane (zone du corps comprise entre la ligne des épaules/clavicules et le nombril/la ceinture).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Ce blocage est la clé de voûte de la défense du buste. Il est conçu pour intercepter, dévier ou stopper toutes les attaques visant les organes vitaux du tronc (plexus solaire, cœur, foie, côtes flottantes et estomac).
 

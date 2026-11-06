@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / frontal (*Front*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

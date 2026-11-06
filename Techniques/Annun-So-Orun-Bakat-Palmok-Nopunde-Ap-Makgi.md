@@ -8,12 +8,12 @@ Cette technique défensive vise à intercepter ou dévier frontalement une attaq
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras extérieur (côté petit doigt / ulna).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur des yeux / du visage).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Vers l'avant (*Front*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

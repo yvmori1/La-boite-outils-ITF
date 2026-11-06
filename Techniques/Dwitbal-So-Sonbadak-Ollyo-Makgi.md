@@ -10,10 +10,10 @@ Cette technique défensive rapide intercepte ou dévie vers le haut (*Ollyo*) un
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/dwitbal-so.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
 * **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / Vers le haut (*Upward / Rising*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

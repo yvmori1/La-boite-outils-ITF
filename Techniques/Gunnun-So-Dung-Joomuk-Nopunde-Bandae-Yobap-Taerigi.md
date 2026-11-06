@@ -9,11 +9,11 @@ Cette technique d'attaque fouettée et circulaire utilise le dos / revers du poi
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Dung Joomuk ([등 주먹](../audio/termes/등-주먹.m4a)) :** Revers du poing / Dos du poing (*Backfist*).
+* **Dung Joomuk ([등 주먹](../audio/termes/dung-joomuk.m4a)) :** Revers du poing / Dos du poing (*Backfist*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage, de la tempe ou de la mâchoire).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière).
-* **Yobap / Yop-Ap ([옆앞](../audio/termes/옆앞.m4a)) :** Côté-avant / Diagonale de biais (*Side-front* — trajectoire oblique à 45°).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Yobap / Yop-Ap ([옆앞](../audio/termes/yobap.m4a)) :** Côté-avant / Diagonale de biais (*Side-front* — trajectoire oblique à 45°).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

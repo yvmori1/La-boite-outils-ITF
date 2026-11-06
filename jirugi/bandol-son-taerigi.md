@@ -6,9 +6,9 @@ Le **Bandol Son Taerigi** ([반돌 손 때리기](../audio/jirugi/bandol-son-tae
 
 Sa décomposition linguistique est la suivante :
 
-* **Bandol ([반돌](../audio/termes/반돌.m4a)) :** Demi-rotation / Arc de cercle (*Ban* = demi / moitié, *Dol* = tourner / rotation).
+* **Bandol ([반돌](../audio/termes/bandol.m4a)) :** Demi-rotation / Arc de cercle (*Ban* = demi / moitié, *Dol* = tourner / rotation).
 * **Son ([손](../audio/grammaire/Son.m4a)) :** Main.
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en courbe (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe / Percussion cinglante en courbe (*Strike*).
 
 À la différence des coups de poing directs (*Jirugi*) ou des piques linéaires (*Tulgi*), le **Bandol Son Taerigi** suit une **trajectoire courbe et fluide en demi-cercle**. Il combine la puissance centrifuge de la hanche avec un fouetté précis du bras pour contourner les obstacles et percuter les cibles situées sur les flancs ou le profil de l'adversaire.
 

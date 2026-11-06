@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — zone osseuse de blocage située près du poignet).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre et de la cuisse).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

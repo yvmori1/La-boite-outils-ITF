@@ -1,18 +1,18 @@
 # Gojung So Kyocha Sonkal Momchau Makgi
 
-> 🔊 **Prononciation :** [고정 서 교차 손칼 멈추 막기](../audio/Techniques/Gojung-So-Kyocha-Sonkal-Momchau-Makgi.m4a)
+> 🔊 **Prononciation :** [고정 서 교차 손칼 멈춰 막기](../audio/Techniques/Gojung-So-Kyocha-Sonkal-Momchau-Makgi.m4a)
 
-Le **Gojung So Kyocha Sonkal Momchau Makgi** ([고정 서 교차 손칼 멈추 막기](../audio/Techniques/Gojung-So-Kyocha-Sonkal-Momchau-Makgi.m4a)) est le **blocage d'arrêt croisé avec le tranchant des mains en posture fixe** (*Fixed stance X-knife-hand checking / stopping block*) en TaeKwon-Do ITF.
+Le **Gojung So Kyocha Sonkal Momchau Makgi** ([고정 서 교차 손칼 멈춰 막기](../audio/Techniques/Gojung-So-Kyocha-Sonkal-Momchau-Makgi.m4a)) est le **blocage d'arrêt croisé avec le tranchant des mains en posture fixe** (*Fixed stance X-knife-hand checking / stopping block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à deux mains combine la stabilité lourde de la posture fixe (*Gojung Sogi*) avec la structure renforcée du croisement en X des tranchants de mains (*Kyocha Sonkal*). Son rôle spécifique de blocage d'arrêt (*Momchau Makgi*) consiste à couper net, stopper ou coincer la trajectoire d'une attaque directe puissante (comme un coup de pied direct *Ap Chagi* ou une frappe descendante) au moment précis de son déclenchement.
 
 Sa décomposition linguistique est la suivante :
 
 * **Gojung So / Gojung Sogi ([고정 서기](../audio/grammaire/Gojung-Sogi.m4a)) :** Posture fixe (*Fixed stance* — répartition du poids 50% / 50%).
-* **Kyocha ([교차](../audio/termes/교차.m4a)) :** Croisé / En X (*Crossed / X-*).
+* **Kyocha ([교차](../audio/termes/kyocha.m4a)) :** Croisé / En X (*Crossed / X-*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire).
-* **Momchau / Momchum ([멈추](../audio/termes/멈추.m4a) / [멈춤](../audio/termes/멈춤.m4a)) :** D'arrêt / Stopper / Bloquer net (*Checking / Stopping*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Momchau ([멈춰](../audio/termes/momchau.m4a)) :** D'arrêt / Stopper / Bloquer net (*Checking / Stopping*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

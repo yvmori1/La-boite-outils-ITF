@@ -15,7 +15,7 @@ Elle se traduit par : **Frappe du tranchant de la main vers l'avant au niveau ha
 | **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Zone d'impact (le bord extérieur de la main, de la base du petit doigt au poignet). |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du visage ou des yeux de l'exécutant). |
 | **Ap** | [앞](../audio/grammaire/Ap.m4a) | Avant / Frontal | Direction de l'attaque (droite devant soi, sur l'axe central). |
-| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté (différent d'une poussée directe *Jirugi*). |
+| **Taerigi** | [때리기](../audio/termes/taerigi.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté (différent d'une poussée directe *Jirugi*). |
 
 ---
 

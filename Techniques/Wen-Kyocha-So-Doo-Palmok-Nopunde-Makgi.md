@@ -10,9 +10,9 @@ Sa décomposition linguistique est la suivante :
 
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
 * **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
-* **Doo Palmok ([두 팔목](../audio/termes/두-팔목.m4a)) :** Double avant-bras (*Double forearm* — l'avant-bras principal de blocage est renforcé par le second bras).
+* **Doo Palmok ([두 팔목](../audio/termes/doo-palmok.m4a)) :** Double avant-bras (*Double forearm* — l'avant-bras principal de blocage est renforcé par le second bras).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage / de la tête).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

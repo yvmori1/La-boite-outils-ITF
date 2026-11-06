@@ -8,11 +8,11 @@ Cette technique d'attaque rapide et fouettée utilise le revers du poing (*Dung 
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist* — la surface supérieure des jointures de l'index et du majeur).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Directement vers l'avant (*Front*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

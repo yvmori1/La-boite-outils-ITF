@@ -9,11 +9,11 @@ Cette technique défensive combinée hautement spécialisée dresse une double b
 Sa décomposition linguistique est la suivante :
 
 * **Waebal So / Waebal Sogi ([외발 서기](../audio/Techniques/Waebal-Sogi.m4a)) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
-* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (*Outer forearm*).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/bakat-palmok.m4a)) :** Extérieur de l'avant-bras (*Outer forearm*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct (*Obverse* — s'exécute avec le bras du **même côté que la jambe d'appui**).
 * **Yop Makgi ([옆 막기](../audio/makgi/yop-makgi.m4a)) :** Blocage latéral (*Side block* — dirigé vers le côté à 90°).
-* **Wa ([와](../audio/termes/와.m4a)) :** Et / Simultanément (*And / Simultaneously*).
+* **Wa ([와](../audio/termes/wa.m4a)) :** Et / Simultanément (*And / Simultaneously*).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — hauteur du bas-ventre / aine).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).

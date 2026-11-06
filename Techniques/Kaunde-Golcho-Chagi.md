@@ -9,7 +9,7 @@ Coup de pied qui accroche le bras ou la jambe adverse avec le côté du cou-de-p
 Sa décomposition linguistique est la suivante :
 
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Golcho Chagi ([걸쳐차기](../audio/termes/걸쳐차기.m4a)) :** Coup de pied crocheté (*Hooking kick*).
+* **Golcho Chagi ([걸쳐차기](../audio/termes/golcho-chagi.m4a)) :** Coup de pied crocheté (*Hooking kick*).
 
 ---
 

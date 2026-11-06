@@ -1,18 +1,18 @@
 # Annun So Orun Dwit Palkup Tulgi
 
-> 🔊 **Prononciation :** [앉은 서 오른 뒤 팔굽 찌르기](../audio/Techniques/Annun-So-Orun-Dwit-Palkup-Tulgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 오른 뒤 팔굽 뚫기](../audio/Techniques/Annun-So-Orun-Dwit-Palkup-Tulgi.m4a)
 
-Le **Annun So Orun Dwit Palkup Tulgi** ([앉은 서 오른 뒤 팔굽 찌르기](../audio/Techniques/Annun-So-Orun-Dwit-Palkup-Tulgi.m4a)) est la **pique / poussée du coude arrière droit en posture du cavalier** (*Sitting stance right rear elbow thrust*) en TaeKwon-Do ITF.
+Le **Annun So Orun Dwit Palkup Tulgi** ([앉은 서 오른 뒤 팔굽 뚫기](../audio/Techniques/Annun-So-Orun-Dwit-Palkup-Tulgi.m4a)) est la **pique / poussée du coude arrière droit en posture du cavalier** (*Sitting stance right rear elbow thrust*) en TaeKwon-Do ITF.
 
 Contrairement aux percussions en arc de cercle (*Taerigi*), une technique de type **Tulgi** (pique / poussée) s'exécute en **ligne droite axiale comme un piston**, enfonçant la pointe du coude droit (*Dwit Palkup*) directement vers un adversaire situé immédiatement derrière soi.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
-* **Dwit ([뒤](../audio/termes/뒤.m4a)) :** Arrière / Vers l'arrière (*Rear*).
+* **Dwit ([뒤](../audio/termes/dwi.m4a)) :** Arrière / Vers l'arrière (*Rear*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée axiale rectiligne (*Thrust*).
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée axiale rectiligne (*Thrust*).
 
 ---
 

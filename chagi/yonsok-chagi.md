@@ -7,7 +7,7 @@ Le **Yonsok Chagi** ([연속차기](../audio/chagi/yonsok-chagi.m4a)) désigne l
 Sa décomposition linguistique est simple :
 
 * **Yonsok ([연속](../audio/grammaire/Yonsok.m4a)) :** Consécutif, en chaîne, à la suite.
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 En règle générale et selon la définition stricte de l'Encyclopédie de l'ITF, le *Yonsok Chagi* consiste à délivrer **au moins deux coups de pied à la suite avec la même jambe sans poser le pied au sol** entre les frappes. C'est une démonstration ultime de contrôle d'équilibre, de gainage et de vitesse de réarmement.
 

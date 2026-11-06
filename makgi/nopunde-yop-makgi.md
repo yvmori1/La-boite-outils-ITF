@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (zone comprise entre le nez/les yeux et le sommet du crâne).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral.
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Ce blocage est conçu pour protéger le côté de la tête, la tempe, la joue ou la mâchoire contre toute attaque circulaire ou latérale venant frapper par le flanc.
 

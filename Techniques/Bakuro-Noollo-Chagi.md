@@ -9,8 +9,8 @@ Cette technique défensive et disruptive utilise la plante du pied ou le talon (
 Sa décomposition linguistique est la suivante :
 
 * **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (mouvement mené de l'axe central vers l'extérieur).
-* **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser / Écraser / Pousser vers le bas (du verbe *Nureuda* [[누르다](../audio/termes/누르다.m4a)], appuyer).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser / Écraser / Pousser vers le bas (du verbe *Nureuda* [[누르다](../audio/termes/nureuda.m4a)], appuyer).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

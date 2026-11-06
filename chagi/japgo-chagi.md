@@ -6,8 +6,8 @@ Le **Japgo Chagi** ([잡고차기](../audio/chagi/japgo-chagi.m4a)) est le **cou
 
 Sa décomposition linguistique est la suivante :
 
-* **Japgo ([잡고](../audio/termes/잡고.m4a)) :** Attraper, saisir et maintenir (du verbe *japda*, [잡다](../audio/termes/잡다.m4a)).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Japgo ([잡고](../audio/termes/japgo.m4a)) :** Attraper, saisir et maintenir (du verbe *japda*, [잡다](../audio/termes/japda.m4a)).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Ce n'est pas un coup de pied spécifique en soi (comme un *Ap Chagi* ou un *Yop Chagi*), mais plutôt un **mode d'exécution tactique** où vous saisissez une partie du corps de l'adversaire (poignet, col, revers, nuque, épaule) avec une ou deux mains avant ou pendant le déclenchement du coup de pied.
 

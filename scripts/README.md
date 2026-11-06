@@ -35,6 +35,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `Techniques/README.md` |
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
+| [romanisation.py](romanisation.py) | Nom de fichier romanisé d'un hangul (utilisé par `generer-audio.py`) |
 | [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
 | [generer-icones.py](generer-icones.py) | Dessine les icônes de l'application iPhone et iPad dans `docs/assets/icones/` (demande Pillow) |
 | [generer-manuel.py](generer-manuel.py) | Hors service : assemblait l'ancien manuel d'un seul tenant |
@@ -108,7 +109,8 @@ python3 scripts/generer-audio.py --tout --write     # chaque hangul du site
 d'une fiche, d'un README, du glossaire, du manuel ou de Combat/ devient un lien
 vers sa prononciation (sauf le titre « # » de la page, les blocs de code et ce
 qui est déjà un lien). Les nouveaux enregistrements hors manuel et Combat/ vont
-dans `audio/termes/`, nommés d'après le hangul. C'est ce que lance
+dans `audio/termes/`, sous le nom romanisé du hangul (`yopcha-tulgi.m4a`,
+voir [romanisation.py](romanisation.py)). C'est ce que lance
 `maintenir.py`.
 
 Hors macOS, `--sans-synthese` ne lie que les hangul dont l'audio existe déjà et

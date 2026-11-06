@@ -6,9 +6,9 @@ Le **Sang Sonkal Makgi** ([쌍손칼 막기](../audio/makgi/sang-sonkal-makgi.m4
 
 Sa décomposition linguistique est la suivante :
 
-* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Pair / Jumeau.
+* **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Pair / Jumeau.
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant externe de la main (*Son* = main, *Kal* = couteau).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 C'est l'un des blocages à mains ouvertes les plus fondamentaux et les plus élégants du TaeKwon-Do ITF. Contrairement à un blocage à poing fermé, l'utilisation des mains ouvertes permet d'absorber l'impact tout en restant prêt à **saisir**, **dévier** ou **riposter instantanément**.
 

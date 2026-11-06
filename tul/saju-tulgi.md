@@ -46,5 +46,5 @@
 | **Position de départ** | *Moa Junbi Sogi C* | [모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) C | Posture fermée de préparation C |
 | **Côté droit** | *Orun* | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite |
 | **Côté gauche** | *Wen* | [왼](../audio/grammaire/Wen.m4a) | Gauche |
-| **Posture en L** | *Niunja So* | [ㄴ자 서](../audio/termes/ㄴ자-서.m4a) | Position en L (70 % du poids sur la jambe arrière) |
-| **Coup de coude latéral** | *Yop Palkup Tulgi* | [옆 팔꿈치 찌르기](../audio/termes/옆-팔꿈치-찌르기.m4a) | Pique/poussée latérale du coude |
+| **Posture en L** | *Niunja So* | [ㄴ자 서](../audio/termes/niunja-so.m4a) | Position en L (70 % du poids sur la jambe arrière) |
+| **Coup de coude latéral** | *Yop Palkup Tulgi* | [옆 팔굽 뚫기](../audio/grammaire/yop-palkup-tulgi.m4a) | Pique/poussée latérale du coude |

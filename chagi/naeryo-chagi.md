@@ -7,7 +7,7 @@ Le **Naeryo Chagi** ([내려차기](../audio/chagi/naeryo-chagi.m4a)) est le **c
 Sa décomposition linguistique est la suivante :
 
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant, vers le bas (du verbe *naerida*, descendre).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 C'est une technique verticale d'une grande puissance de percussion, qui utilise la gravité et la contraction brutale de la sangle abdominale et des fessiers pour faire s'abattre le talon sur l'adversaire, à la manière d'une hache fendant du bois.
 
@@ -15,7 +15,7 @@ C'est une technique verticale d'une grande puissance de percussion, qui utilise 
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Dwitchuk (dessous du talon - [뒤축](../audio/termes/뒤축.m4a)) :** C'est la surface de frappe principale et la plus dévastatrice.
+* **Dwitchuk (dessous du talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** C'est la surface de frappe principale et la plus dévastatrice.
 * **Plante du pied / Plat du pied (*Gyocha*) :** Parfois utilisée en compétition pour toucher le plastron ou le casque avec de la vitesse et de la surface.
 * **Position de la cheville :** La cheville est verrouillée en flexion à 90°, les orteils tirés vers le haut pour dégager la masse osseuse du talon.
 

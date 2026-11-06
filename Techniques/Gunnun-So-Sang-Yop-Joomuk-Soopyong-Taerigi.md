@@ -9,10 +9,10 @@ Les deux poings frappent en même temps, à l'horizontale (**Soopyong**), avec l
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / jumelé (*Twin*).
+* **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / jumelé (*Twin*).
 * **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Côté du poing (*Side fist* — tranche côté petit doigt).
-* **Soopyong ([수평](../audio/termes/수평.m4a)) :** Horizontal (*Horizontal*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
+* **Soopyong ([수평](../audio/termes/soopyong.m4a)) :** Horizontal (*Horizontal*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe (*Strike*).
 
 ---
 

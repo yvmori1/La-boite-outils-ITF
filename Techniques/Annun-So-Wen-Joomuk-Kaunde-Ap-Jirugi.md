@@ -8,7 +8,7 @@ C'est l'un des mouvements fondamentaux les plus emblématiques du TaeKwon-Do. Il
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Joomuk / Ap Joomuk ([주먹](../audio/grammaire/Joomuk.m4a) / [앞주먹](../audio/grammaire/Ap-Joomuk.m4a)) :** Poing / Devant du poing (*Forefist* — les jointures de l'index et du majeur).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / poitrine).

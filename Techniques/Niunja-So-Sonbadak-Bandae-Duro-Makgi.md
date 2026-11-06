@@ -15,8 +15,8 @@ Elle se traduit par : **Blocage relevé (en cuillère) inversé à la paume de l
 | **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture stable (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
 | **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact / blocage (la paume ouverte). |
 | **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que le blocage est exécuté avec la **main opposée à la jambe avant**. |
-| **Duro / Deuro** | [들어](../audio/termes/들어.m4a) | Relevé / Soulevé (*Scooping*) | Mouvement ascendant en cuillère pour lever le membre adverse (du verbe *Deulda*, soulever). |
-| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de neutraliser, dévier ou écarter une attaque. |
+| **Duro / Deuro** | [들어](../audio/termes/duro.m4a) | Relevé / Soulevé (*Scooping*) | Mouvement ascendant en cuillère pour lever le membre adverse (du verbe *Deulda*, soulever). |
+| **Makgi** | [막기](../audio/termes/makgi.m4a) | Blocage / Défense | Action de neutraliser, dévier ou écarter une attaque. |
 
 ---
 

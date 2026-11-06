@@ -8,10 +8,10 @@ Cette technique d'attaque circulaire et tranchante projette la jambe vers l'ext�
 
 Sa décomposition linguistique est la suivante :
 
-* **Balkal Dung / Balkaldung ([발칼등](../audio/termes/발칼등.m4a)) :** Contre-tranchant du pied / Tranchant interne (*Reverse footsword* — bord intérieur du pied, le long de la voûte plantaire et du gros orteil).
+* **Balkal Dung / Balkaldung ([발칼등](../audio/termes/balkal-dung.m4a)) :** Contre-tranchant du pied / Tranchant interne (*Reverse footsword* — bord intérieur du pied, le long de la voûte plantaire et du gros orteil).
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (*Inward* — mouvement mené de l'extérieur vers la ligne centrale).
-* **Sewo / Seweo ([세워](../audio/termes/세워.m4a)) :** Vertical / Dressé (du verbe *Seowoda* [[세우다](../audio/termes/세우다.m4a)], maintenir droit).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Sewo / Seweo ([세워](../audio/termes/sewo.m4a)) :** Vertical / Dressé (du verbe *Seowoda* [[세우다](../audio/termes/seuda.m4a)], maintenir droit).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

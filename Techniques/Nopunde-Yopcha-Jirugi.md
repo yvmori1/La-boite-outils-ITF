@@ -11,7 +11,7 @@ Elle se traduit par : **Coup de pied latéral perçant au niveau haut** (*High S
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (tempe, mâchoire, visage). |
-| **Yopcha** | [옆차](../audio/termes/옆차.m4a) | Coup de pied latéral | Trajectoire d'attaque portée vers le côté du corps. |
+| **Yopcha** | [옆차](../audio/termes/yopcha.m4a) | Coup de pied latéral | Trajectoire d'attaque portée vers le côté du corps. |
 | **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Perçant / Coup direct | Poussée rectiligne et transperçante. |
 
 ## 2. Exécution et principes biomécaniques

@@ -10,21 +10,21 @@ Surfaces du corps qui frappent ou bloquent. Détail et photos dans la [partie II
 | **Dung Joomuk** | [등주먹](../../audio/grammaire/Dung-Joomuk.m4a) | Revers du poing | Dos des deux premières articulations ; frappes cinglantes. |
 | **Yop Joomuk** | [옆주먹](../../audio/grammaire/Yop-Joomuk.m4a) | Côté du poing, poing marteau | Bord du poing côté petit doigt. |
 | **Pyun Joomuk** | [편주먹](../../audio/grammaire/Pyun-Joomuk.m4a) | Poing plat | Doigts repliés à la deuxième phalange ; vise les zones molles. |
-| **Ghin Joomuk** | [긴주먹](../../audio/termes/긴주먹.m4a) | Poing long | Poing semi-fermé qui allonge la portée de la frappe. |
-| **Inji Joomuk** | [인지주먹](../../audio/termes/인지주먹.m4a) | Poing à phalange de l'index | Deuxième phalange de l'index ressortie. |
-| **Joongji Joomuk** | [중지주먹](../../audio/termes/중지주먹.m4a) | Poing à phalange du majeur | Deuxième phalange du majeur ressortie. |
+| **Ghin Joomuk** | [긴주먹](../../audio/termes/ghin-joomuk.m4a) | Poing long | Poing semi-fermé qui allonge la portée de la frappe. |
+| **Inji Joomuk** | [인지주먹](../../audio/termes/inji-joomuk.m4a) | Poing à phalange de l'index | Deuxième phalange de l'index ressortie. |
+| **Joongji Joomuk** | [중지주먹](../../audio/termes/joongji-joomuk.m4a) | Poing à phalange du majeur | Deuxième phalange du majeur ressortie. |
 | **Sonkal** | [손칼](../../audio/grammaire/Sonkal.m4a) | Tranchant de la main | « Couteau de main » : bord externe de la main ouverte, côté petit doigt. |
 | **Sonkal Dung** | [손칼등](../../audio/grammaire/Sonkal-Dung.m4a) | Tranchant inversé de la main | Bord interne, côté index, pouce replié dans la paume. |
-| **Sonkut** | [손끝](../../audio/termes/손끝.m4a) | Bout des doigts | Arme des piques (Tulgi). |
+| **Sonkut** | [손끝](../../audio/termes/sonkut.m4a) | Bout des doigts | Arme des piques (Tulgi). |
 | **Sun Sonkut** | [선손끝](../../audio/grammaire/Sun-Sonkut.m4a) | Pique de main verticale | Bout des doigts, main tenue sur la tranche. |
 | **Opun Sonkut** | [엎은손끝](../../audio/grammaire/Opun-Sonkut.m4a) | Pique de main à plat | Bout des doigts, paume vers le sol. |
 | **Dwijibun Sonkut** | [뒤집은손끝](../../audio/grammaire/Dwijibun-Sonkut.m4a) | Pique de main retournée | Bout des doigts, paume vers le haut. |
-| **Homi Sonkut** | [호미손끝](../../audio/termes/호미손끝.m4a) | Pique de main angulaire | Doigts pliés en forme de houe (Homi). |
+| **Homi Sonkut** | [호미손끝](../../audio/termes/homi-sonkut.m4a) | Pique de main angulaire | Doigts pliés en forme de houe (Homi). |
 | **Sonbadak** | [손바닥](../../audio/grammaire/Sonbadak.m4a) | Paume | Surface intérieure de la main ; sert à dévier, presser ou frapper. |
-| **Sondung** | [손등](../../audio/termes/손등.m4a) | Dos de la main | Surface extérieure de la main ouverte. |
+| **Sondung** | [손등](../../audio/termes/sondung.m4a) | Dos de la main | Surface extérieure de la main ouverte. |
 | **Bandalson** | [반달손](../../audio/grammaire/Bandalson.m4a) | Main en arc | Espace entre le pouce et l'index, en forme de demi-lune (Bandal). |
-| **Songarak** | [손가락](../../audio/termes/손가락.m4a) | Doigt | Dans Doo Songarak (deux doigts) ou Songarak Joomuk. |
-| **Sonmok** | [손목](../../audio/termes/손목.m4a) | Poignet | Dans Sonmok Dung (dos du poignet plié). |
+| **Songarak** | [손가락](../../audio/termes/songarak.m4a) | Doigt | Dans Doo Songarak (deux doigts) ou Songarak Joomuk. |
+| **Sonmok** | [손목](../../audio/termes/sonmok.m4a) | Poignet | Dans Sonmok Dung (dos du poignet plié). |
 | **Palmok** | [팔목](../../audio/grammaire/Palmok.m4a) | Avant-bras | Racine des noms de surfaces de l'avant-bras. |
 | **An Palmok** | [안팔목](../../audio/grammaire/An-Palmok.m4a) | Avant-bras intérieur | Face côté petit doigt. |
 | **Bakat Palmok** | [바깥팔목](../../audio/grammaire/Bakat-Palmok.m4a) | Avant-bras extérieur | Face côté pouce. |

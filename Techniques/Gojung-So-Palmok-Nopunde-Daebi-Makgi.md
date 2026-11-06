@@ -11,8 +11,8 @@ Sa décomposition linguistique est la suivante :
 * **Gojung So / Gojung Sogi ([고정 서기](../audio/grammaire/Gojung-Sogi.m4a)) :** Posture fixe (*Fixed stance* — répartition du poids 50% / 50%).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
-* **Daebi ([대비](../audio/termes/대비.m4a)) :** De garde / Protection (*Guarding*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Daebi ([대비](../audio/termes/daebi.m4a)) :** De garde / Protection (*Guarding*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

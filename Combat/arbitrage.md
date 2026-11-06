@@ -28,15 +28,15 @@ règlement les fixe à l'article T16. La romanisation est celle du règlement.
 | :--- | :--- | :--- |
 | **Charyot** | [차렷](../audio/lexique/Charyot.m4a) | Attention — garde-à-vous. |
 | **Kyong Ye** | [경례](../audio/combats/Kyong-ye.m4a) | Saluez. |
-| **Junbi** | [준비](../audio/termes/준비.m4a) | Prêts — position d'attente. |
+| **Junbi** | [준비](../audio/termes/junbi.m4a) | Prêts — position d'attente. |
 | **Sijak** | [시작](../audio/combats/Si-jak.m4a) | Commencez. |
-| **Haechyo** | [헤쳐](../audio/termes/헤쳐.m4a) | Séparez — arrêt du combat, chacun reste sur place. |
+| **Haechyo** | [헤쳐](../audio/termes/hechyo.m4a) | Séparez — arrêt du combat, chacun reste sur place. |
 | **Gaesok** | [계속](../audio/combats/Gye-sok.m4a) | Continuez. |
 | **Goman** | [그만](../audio/combats/Goman.m4a) | Fin. |
 | **Baro** | [바로](../audio/grammaire/Baro.m4a) | Revenez — retour à la position de départ. |
 | **Shiot** | [쉬어](../audio/grammaire/Swiyo.m4a) | Repos. |
-| **Ju Ui Hanna** | [주의](../audio/combats/Ju-ui.m4a) [하나](../audio/termes/하나.m4a) | Un avertissement. |
-| **Gam Jum Hanna** | [감점](../audio/combats/Gam-jung.m4a) [하나](../audio/termes/하나.m4a) | Une faute — un point retiré. |
+| **Ju Ui Hanna** | [주의](../audio/combats/Ju-ui.m4a) [하나](../audio/termes/hana.m4a) | Un avertissement. |
+| **Gam Jum Hanna** | [감점](../audio/combats/Gam-jung.m4a) [하나](../audio/termes/hana.m4a) | Une faute — un point retiré. |
 | **Sil Kyuk** | [실격](../audio/combats/Sil-kyuk.m4a) | Disqualification. |
 | **Hong** | [홍](../audio/combats/Hong.m4a) | Rouge. |
 | **Chong** | [청](../audio/combats/Chong.m4a) | Bleu. |

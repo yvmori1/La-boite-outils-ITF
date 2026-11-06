@@ -9,10 +9,10 @@ Cette technique défensive bilatérale utilise le croisement des deux poignets (
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Kyocha ([교차](../audio/termes/교차.m4a)) :** Croisé / En X (*Crossed*).
+* **Kyocha ([교차](../audio/termes/kyocha.m4a)) :** Croisé / En X (*Crossed*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poings (*Fists*).
 * **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** En pression / Presser vers le bas (*Pressing / Downward pressing*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

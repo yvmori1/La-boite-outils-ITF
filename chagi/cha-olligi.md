@@ -6,8 +6,8 @@ Le **Cha Olligi** ([차 올리기](../audio/chagi/cha-olligi.m4a)) est le **coup
 
 Sa décomposition linguistique est la suivante :
 
-* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied / Frappe de jambe.
-* **Olligi ([올리기](../audio/grammaire/Olligi.m4a)) :** Lever / Monter de bas en haut (du verbe *ollida*, [올리다](../audio/termes/올리다.m4a)).
+* **Cha ([차](../audio/termes/cha.m4a)) :** Coup de pied / Frappe de jambe.
+* **Olligi ([올리기](../audio/grammaire/Olligi.m4a)) :** Lever / Monter de bas en haut (du verbe *ollida*, [올리다](../audio/termes/olrida.m4a)).
 
 Contrairement aux autres techniques de pied (*Busigi*, *Jirugi*, *Chagi*) qui sont des frappes offensives visant à impacter ou pénétrer une cible, le **Cha Olligi** est avant tout un **exercice d'assouplissement dynamique, d'échauffement et de conditionnement**.
 
@@ -48,9 +48,9 @@ La différence majeure entre un coup de pied de frappe et un *Cha Olligi* résid
 Le terme *Cha Olligi* se décline selon la trajectoire de l'élévation :
 
 * **Apcha Olligi ([앞차 올리기](../audio/chagi/apcha-olligi.m4a)) :** Élévation axiale droite vers l'avant (étire les ischio-jambiers).
-* **Yopcha Olligi ([옆차 올리기](../audio/termes/옆차-올리기.m4a)) :** Élévation latérale sur le côté (ouvre les adducteurs et les hanches).
-* **Anuro Cha Olligi ([안으로 차 올리기](../audio/termes/안으로-차-올리기.m4a)) :** Élévation circulaire de l'extérieur vers l'intérieur.
-* **Bakuro Cha Olligi ([밖으로 차 올리기](../audio/termes/밖으로-차-올리기.m4a)) :** Élévation circulaire de l'intérieur vers l'extérieur.
+* **Yopcha Olligi ([옆차 올리기](../audio/termes/yopcha-olligi.m4a)) :** Élévation latérale sur le côté (ouvre les adducteurs et les hanches).
+* **Anuro Cha Olligi ([안으로 차 올리기](../audio/termes/anuro-cha-olligi.m4a)) :** Élévation circulaire de l'extérieur vers l'intérieur.
+* **Bakuro Cha Olligi ([밖으로 차 올리기](../audio/termes/bakuro-cha-olligi.m4a)) :** Élévation circulaire de l'intérieur vers l'extérieur.
 
 ---
 

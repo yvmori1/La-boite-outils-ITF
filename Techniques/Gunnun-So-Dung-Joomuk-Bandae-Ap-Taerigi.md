@@ -13,10 +13,10 @@ Elle se traduit par : **Frappe frontale inversée du revers du poing en position
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Gunnun So (Sogi)** | [걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a) | Position en marche (*Walking Stance*) | Posture allongée et stable (1,5 largeur d'épaules de long, 1 de large, poids réparti à **50/50**). |
-| **Dung Joomuk** | [등 주먹](../audio/termes/등-주먹.m4a) | Revers du poing | Surface d'impact (la partie dorsale du poing, au niveau des deux premières phalanges). |
+| **Dung Joomuk** | [등 주먹](../audio/termes/dung-joomuk.m4a) | Revers du poing | Surface d'impact (la partie dorsale du poing, au niveau des deux premières phalanges). |
 | **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Reverse | Signifie que la frappe est exécutée avec la **main opposée au pied avant** (ex. pied droit devant, main gauche qui frappe). |
 | **Ap** | [앞](../audio/grammaire/Ap.m4a) | Frontal / Vers l'avant | Direction de l'attaque (droite devant soi, sur l'axe central). |
-| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
+| **Taerigi** | [때리기](../audio/termes/taerigi.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
 
 ---
 

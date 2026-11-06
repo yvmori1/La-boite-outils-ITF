@@ -1,18 +1,18 @@
 # Annun So Wen Dwit Palkup Tulgi
 
-> 🔊 **Prononciation :** [앉은 서 왼 뒤 팔굽 찌르기](../audio/Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 왼 뒤 팔굽 뚫기](../audio/Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.m4a)
 
-Le **Annun So Wen Dwit Palkup Tulgi** ([앉은 서 왼 뒤 팔굽 찌르기](../audio/Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.m4a)) est le **coup de coude arrière perçant gauche en posture du cavalier** (*Sitting stance left rear elbow thrust*) en TaeKwon-Do ITF.
+Le **Annun So Wen Dwit Palkup Tulgi** ([앉은 서 왼 뒤 팔굽 뚫기](../audio/Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.m4a)) est le **coup de coude arrière perçant gauche en posture du cavalier** (*Sitting stance left rear elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque à très courte distance utilise la pointe osseuse du coude gauche (*Palkup*) pour exécuter une pénétration directe en piston (*Tulgi*) vers un adversaire situé directement derrière soi (*Dwit*), tout en exploitant la stabilité et la puissance d'ancrage de la posture du cavalier (*Annun Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
-* **Dwit ([뒤](../audio/termes/뒤.m4a)) :** Arrière / Derrière (*Rear*).
+* **Dwit ([뒤](../audio/termes/dwi.m4a)) :** Arrière / Derrière (*Rear*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Coup perçant / Estocade en piston (*Thrust*).
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a)) :** Coup perçant / Estocade en piston (*Thrust*).
 
 ---
 

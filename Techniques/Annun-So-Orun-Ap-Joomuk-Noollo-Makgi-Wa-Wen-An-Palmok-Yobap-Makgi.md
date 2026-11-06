@@ -8,10 +8,10 @@ Cette technique complexe consiste à exécuter en même temps deux actions défe
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
-* **Orun Ap Joomuk Noollo Makgi ([오른 앞주먹 눌러막기](../audio/termes/오른-앞주먹-눌러막기.m4a)) :** Blocage en pression descendant du poing droit (*Right forefist pressing block*).
-* **Wa ([와](../audio/termes/와.m4a)) :** Et (*And*).
-* **Wen An Palmok Yobap Makgi ([왼 안팔목 옆앞막기](../audio/termes/왼-안팔목-옆앞막기.m4a)) :** Blocage latéral-avant (oblique à 45°) de l'avant-bras intérieur gauche (*Left inner forearm side-front block*).
+* **Annun So ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Orun Ap Joomuk Noollo Makgi ([오른 앞주먹 눌러막기](../audio/termes/orun-ap-joomuk-noollo-makgi.m4a)) :** Blocage en pression descendant du poing droit (*Right forefist pressing block*).
+* **Wa ([와](../audio/termes/wa.m4a)) :** Et (*And*).
+* **Wen An Palmok Yobap Makgi ([왼 안팔목 옆앞막기](../audio/termes/wen-an-palmok-yobap-makgi.m4a)) :** Blocage latéral-avant (oblique à 45°) de l'avant-bras intérieur gauche (*Left inner forearm side-front block*).
 
 ---
 

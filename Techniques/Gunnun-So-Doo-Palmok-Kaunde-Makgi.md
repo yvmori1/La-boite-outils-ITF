@@ -9,9 +9,9 @@ Un avant-bras bloque l'attaque au niveau moyen tandis que l'autre, ramené contr
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Doo Palmok ([두팔목](../audio/termes/두팔목.m4a)) :** Double avant-bras (*Double forearm* — un bras bloque, l'autre le soutient).
+* **Doo Palmok ([두팔목](../audio/termes/doo-palmok.m4a)) :** Double avant-bras (*Double forearm* — un bras bloque, l'autre le soutient).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

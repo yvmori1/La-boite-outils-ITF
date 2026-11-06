@@ -13,9 +13,9 @@ Pour rappel, la distinction entre la **Variante A** et la **Variante B** se situ
 
 Sa décomposition linguistique est la suivante :
 
-* **Guburyo / Gubhyeo ([구부려](../audio/termes/구부려.m4a)) :** Fléchi / Plié (*Bending / Bent*).
-* **Junbi ([준비](../audio/termes/준비.m4a)) :** Préparation / Prêt (*Ready*).
-* **So / Sogi ([서기](../audio/termes/서기.m4a) / [서](../audio/termes/서.m4a)) :** Posture / Position debout (*Stance*).
+* **Guburyo / Gubhyeo ([구부려](../audio/termes/guburyo.m4a)) :** Fléchi / Plié (*Bending / Bent*).
+* **Junbi ([준비](../audio/termes/junbi.m4a)) :** Préparation / Prêt (*Ready*).
+* **So / Sogi ([서기](../audio/termes/sogi.m4a) / [서](../audio/termes/so.m4a)) :** Posture / Position debout (*Stance*).
 * **B :** Seconde variante officielle de la posture.
 
 ---

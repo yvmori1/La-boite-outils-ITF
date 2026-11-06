@@ -8,10 +8,10 @@ Cette technique spectaculaire et très puissante consiste à lever simultanémen
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras extérieur (côté petit doigt / ulna).
-* **San ([산](../audio/termes/산.m4a)) :** Montagne / Forme en "W" (*Mountain / W-shape*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **San ([산](../audio/termes/san.m4a)) :** Montagne / Forme en "W" (*Mountain / W-shape*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

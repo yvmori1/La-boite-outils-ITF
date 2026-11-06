@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / aine, bas-ventre, cuisses).
 * **Bituro ([비틀어](../audio/grammaire/Bituro.m4a)) :** Tordu / Vrillé / Tordre (*Twisting* — désaxe de la jambe vers l'extérieur).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
 * **Nopi ([높이](../audio/grammaire/Nopai.m4a)) :** En hauteur / Haut (*High*).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

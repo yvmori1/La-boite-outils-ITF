@@ -8,13 +8,13 @@ Cette technique défensive contrôlée utilise la paume de la main gauche (*Sonb
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (hauteur du plexus solaire ou du thorax).
-* **Yobap / Yop Ap ([옆앞](../audio/termes/옆앞.m4a)) :** Latéral-frontal / Diagonale avant-côté à 45° (*Side front*).
-* **Miro ([밀어](../audio/termes/밀어.m4a)) :** En poussant / Pression contrôlée (*Pushing*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Yobap / Yop Ap ([옆앞](../audio/termes/yobap.m4a)) :** Latéral-frontal / Diagonale avant-côté à 45° (*Side front*).
+* **Miro ([밀어](../audio/termes/miro.m4a)) :** En poussant / Pression contrôlée (*Pushing*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
 * **Bal Badak ([발바닥](../audio/grammaire/Balbadak.m4a)) :** Plante du pied / Dessous du pied (*Sole of the foot*).
 * **Suroh / Ssuro ([쓸어](../audio/grammaire/Suroh.m4a)) :** Balayer / Faucher / Gratter (*Sweeping / Scraping*).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

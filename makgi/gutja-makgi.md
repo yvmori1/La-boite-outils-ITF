@@ -1,15 +1,15 @@
 # Blocage en forme de "9" (Gut-Ja Makgi)
 
-> 🔊 **Prononciation :** [ㄱ자 막기](../audio/makgi/gutja-makgi.m4a)
+> 🔊 **Prononciation :** [구자 막기](../audio/makgi/gutja-makgi.m4a)
 
-Le **Gutja Makgi** ([ㄱ자 막기](../audio/makgi/gutja-makgi.m4a) — parfois retranscrit *Gut-ja Makgi* ou *Giyeok-ja Makgi*) est le **blocage en forme de "9"** (*9-shape block*) en TaeKwon-Do ITF.
+Le **Gutja Makgi** ([구자 막기](../audio/makgi/gutja-makgi.m4a) — parfois retranscrit *Gut-ja Makgi* ou *Giyeok-ja Makgi*) est le **blocage en forme de "9"** (*9-shape block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Gutja ([ㄱ자](../audio/termes/ㄱ자.m4a)) :** En forme de la lettre coréenne **Giyeok ([ㄱ](../audio/termes/ㄱ.m4a))** (qui rappelle la silhouette du chiffre **9** ou un angle droit parfait).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Gutja ([구자](../audio/termes/gutja.m4a)) :** En forme de la lettre coréenne **Giyeok ([ㄱ](../audio/termes/giyeok.m4a))** (qui rappelle la silhouette du chiffre **9** ou un angle droit parfait).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
-C'est une technique défensive double complexe et avancée où les deux bras s'articulent simultanément pour dessiner la silhouette géométrique du chiffre **9** (ou de la lettre **[ㄱ](../audio/termes/ㄱ.m4a)**), créant ainsi une double barrière de protection à deux hauteurs et angles différents.
+C'est une technique défensive double complexe et avancée où les deux bras s'articulent simultanément pour dessiner la silhouette géométrique du chiffre **9** (ou de la lettre **[ㄱ](../audio/termes/giyeok.m4a)**), créant ainsi une double barrière de protection à deux hauteurs et angles différents.
 
 ---
 

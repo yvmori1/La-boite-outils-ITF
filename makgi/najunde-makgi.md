@@ -7,7 +7,7 @@ Le **Najunde Makgi** ([낮은데 막기](../audio/makgi/najunde-makgi.m4a)) est 
 Sa décomposition linguistique est la suivante :
 
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (toute la zone située sous le nombril et la ceinture jusqu'aux cuisses).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 C'est l'un des premiers mouvements enseignés en TaeKwon-Do. Il s'agit du blocage fondamental destiné à protéger le bas-ventre, les organes génitaux, la vessie et le haut des cuisses contre les attaques descendantes ou directes venant du bas (comme un coup de pied frontal *Ap Chagi* ou un coup de poing bas).
 

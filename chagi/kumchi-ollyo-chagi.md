@@ -6,9 +6,9 @@ Le **Kumchi Ollyo Chagi** ([꿈치 올려차기](../audio/chagi/kumchi-ollyo-cha
 
 Sa décomposition linguistique est la suivante :
 
-* **Kumchi ([꿈치](../audio/termes/꿈치.m4a)) :** Le talon ou le bol du pied (faisant référence à *Apkumchi* pour le bol du pied ou *Dwitchuk* pour le dessous du talon).
+* **Kumchi ([꿈치](../audio/termes/kumchi.m4a)) :** Le talon ou le bol du pied (faisant référence à *Apkumchi* pour le bol du pied ou *Dwitchuk* pour le dessous du talon).
 * **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Montant / De bas en haut (du verbe *ollida*, monter).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Contrairement au *Apcha Olligi* qui est un exercice d'assouplissement jambe tendue, le **Kumchi Ollyo Chagi** est une **technique d'attaque percutante et explosive** portée de bas en haut, spécifiquement conçue pour cueillir le menton ou la mâchoire de l'adversaire.
 
@@ -16,7 +16,7 @@ Contrairement au *Apcha Olligi* qui est un exercice d'assouplissement jambe tend
 
 ## 1. La surface d'impact et la cible (*Jook Bang*)
 
-* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) ou Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** La frappe s'effectue avec la partie dure située sous les orteils ou la base du talon.
+* **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) ou Dwitchuk (talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** La frappe s'effectue avec la partie dure située sous les orteils ou la base du talon.
 * **La cible privilégiée :** Le dessous du menton ou la mâchoire de l'adversaire.
 * **Orientation du pied :** La cheville est verrouillée en flexion et les **orteils sont tirés vers l'arrière** pour dégager la zone de frappe et éviter de se casser les orteils sous l'impact.
 

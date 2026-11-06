@@ -8,8 +8,8 @@ Sa décomposition linguistique est la suivante :
 
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé / En sens inverse.
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Circulaire / Tournant.
-* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, [걸다](../audio/termes/걸다.m4a)).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, [걸다](../audio/termes/geolda.m4a)).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Cette technique spectaculaire et dévastatrice combine une rotation complète du corps par le dos avec un **mouvement de crochet sec et circulaire du talon**, venant cueillir la cible depuis son angle mort.
 
@@ -17,7 +17,7 @@ Cette technique spectaculaire et dévastatrice combine une rotation complète du
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Dwitchuk (arrière / dessous du talon - [뒤축](../audio/termes/뒤축.m4a)) :** C'est la surface de percussion privilégiée. L'impact est délivré avec la masse osseuse dure du talon.
+* **Dwitchuk (arrière / dessous du talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** C'est la surface de percussion privilégiée. L'impact est délivré avec la masse osseuse dure du talon.
 * **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** Utilisée parfois en compétition pour assurer une zone de contact plus large au casque.
 * **Orientation du pied :** La cheville est fermement verrouillée en flexion à 90° et les orteils sont fortement tirés vers le haut/l'arrière pour dégager le talon à l'impact.
 

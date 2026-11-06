@@ -10,8 +10,8 @@ Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
-* **Dollimyo ([돌리며](../audio/termes/돌리며.m4a)) :** En tournant / circulaire (*Circular*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Dollimyo ([돌리며](../audio/termes/dollimyo.m4a)) :** En tournant / circulaire (*Circular*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

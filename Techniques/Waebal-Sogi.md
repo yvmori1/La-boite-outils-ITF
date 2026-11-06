@@ -8,9 +8,9 @@ Cette posture unilatérale place 100% de la masse corporelle sur une seule jambe
 
 Sa décomposition linguistique est la suivante :
 
-* **Wae ([외](../audio/termes/외.m4a)) :** Unique / Un seul / Seul (*Single*).
-* **Bal ([발](../audio/termes/발.m4a)) :** Pied / Jambe (*Foot / Leg*).
-* **So / Sogi ([서](../audio/termes/서.m4a) / [서기](../audio/termes/서기.m4a)) :** Posture / Position debout (*Stance*).
+* **Wae ([외](../audio/termes/oe.m4a)) :** Unique / Un seul / Seul (*Single*).
+* **Bal ([발](../audio/termes/bal.m4a)) :** Pied / Jambe (*Foot / Leg*).
+* **So / Sogi ([서](../audio/termes/so.m4a) / [서기](../audio/termes/sogi.m4a)) :** Posture / Position debout (*Stance*).
 
 ---
 

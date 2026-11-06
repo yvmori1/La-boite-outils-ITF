@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand* — plus précisément le talon de la paume).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main **opposée à la jambe avant**).
 * **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** En pression / Presser vers le bas (*Pressing / Downward pressing*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

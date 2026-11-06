@@ -6,8 +6,8 @@ Le **Suroh Chagi** ([쓸어 차기](../audio/chagi/suroh-chagi.m4a) — parfois 
 
 Sa décomposition linguistique est la suivante :
 
-* **Suroh / Seuro ([쓸어](../audio/grammaire/Suroh.m4a)) :** Balayer, essuyer, faucher (du verbe *sseulda*, [쓸다](../audio/termes/쓸다.m4a) = balayer / raser).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Suroh / Seuro ([쓸어](../audio/grammaire/Suroh.m4a)) :** Balayer, essuyer, faucher (du verbe *sseulda*, [쓸다](../audio/termes/sseulda.m4a) = balayer / raser).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Contrairement aux frappes d'impact direct qui visent la destruction ou le K.O., le **Suroh Chagi** est une technique de rupture d'équilibre. Il consiste à exécuter un mouvement rasant le long du sol pour **faucher la cheville, le talon ou la jambe d'appui de l'adversaire** afin de le faire chuter ou de détruire sa posture.
 

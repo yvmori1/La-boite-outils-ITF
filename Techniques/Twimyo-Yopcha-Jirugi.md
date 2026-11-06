@@ -9,7 +9,7 @@ Considéré comme la technique reine et l'une des images les plus emblématiques
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
-* **Yopcha / Yop Chagi ([옆차](../audio/termes/옆차.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
+* **Yopcha / Yop Chagi ([옆차](../audio/termes/yopcha.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Pique en piston (*Piercing / Thrust*).
 
 ---

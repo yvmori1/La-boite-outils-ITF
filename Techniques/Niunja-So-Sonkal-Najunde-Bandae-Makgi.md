@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte, du petit doigt au poignet).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/niveau du bas-ventre).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

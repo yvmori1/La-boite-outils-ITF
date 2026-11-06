@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Waebal So / Waebal Sogi ([외발 서기](../audio/Techniques/Waebal-Sogi.m4a)) :** Posture sur une seule jambe (*One-leg stance* — 100% de la masse sur la jambe d'appui tendue).
 * **Dungpalmok ([등팔목](../audio/grammaire/Dung-Palmok.m4a)) :** Revers / Dos de l'avant-bras (*Back forearm* — la surface supérieure/extérieure de l'avant-bras).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

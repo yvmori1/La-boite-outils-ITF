@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — bas-ventre / aine).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct (*Obverse* — s'exécute avec le bras du **même côté que la jambe d'appui**).
 * **Yop Makgi ([옆 막기](../audio/makgi/yop-makgi.m4a)) :** Blocage latéral (*Side block* — exécuté vers le côté à 90°).
-* **Wa ([와](../audio/termes/와.m4a)) :** Et / Simultanément (*And / Simultaneously*).
+* **Wa ([와](../audio/termes/wa.m4a)) :** Et / Simultanément (*And / Simultaneously*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage / des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec le bras **opposé à la jambe d'appui**).

@@ -1,8 +1,8 @@
 # Gojung So Yop Palkup Tulgi
 
-> 🔊 **Prononciation :** [고정 서 옆 팔굽 찌르기](../audio/Techniques/Gojung-So-Yop-Palkup-Tulgi.m4a)
+> 🔊 **Prononciation :** [고정 서 옆 팔굽 뚫기](../audio/Techniques/Gojung-So-Yop-Palkup-Tulgi.m4a)
 
-Le **Gojung So Yop Palkup Tulgi** ([고정 서 옆 팔굽 찌르기](../audio/Techniques/Gojung-So-Yop-Palkup-Tulgi.m4a)) est la **pique latérale du coude en posture fixe** (*Fixed stance side elbow thrust*) en TaeKwon-Do ITF.
+Le **Gojung So Yop Palkup Tulgi** ([고정 서 옆 팔굽 뚫기](../audio/Techniques/Gojung-So-Yop-Palkup-Tulgi.m4a)) est la **pique latérale du coude en posture fixe** (*Fixed stance side elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque dévastatrice à très courte distance utilise la pointe osseuse du coude (*Palkup*) pour exécuter une poussée rectiligne en piston (*Tulgi*) vers le côté à 90° (*Yop*). Son exécution depuis la posture fixe (*Gojung Sogi*) offre une base d'ancrage particulièrement lourde et équilibrée à 50/50, idéale pour maximiser la transmission de force latérale sans risquer d'être déséquilibré.
 
@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Gojung So / Gojung Sogi ([고정 서기](../audio/grammaire/Gojung-Sogi.m4a)) :** Posture fixe (*Fixed stance* — répartition du poids 50% / 50%).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi ([찌르기](../audio/termes/찌르기.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Transpercement direct en piston (*Thrust*).
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a) / [뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Transpercement direct en piston (*Thrust*).
 
 ---
 

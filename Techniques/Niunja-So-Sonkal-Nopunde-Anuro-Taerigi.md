@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire de la main ouverte).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage, du cou ou de la tempe).
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

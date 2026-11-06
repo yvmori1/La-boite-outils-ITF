@@ -12,8 +12,8 @@ Sa décomposition linguistique est la suivante :
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Golcho ([걸쳐](../audio/termes/걸쳐.m4a)) :** Crocheté (*Hooking*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Golcho ([걸쳐](../audio/termes/golcho.m4a)) :** Crocheté (*Hooking*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

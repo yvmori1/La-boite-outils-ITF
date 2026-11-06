@@ -1,18 +1,18 @@
 # Gunnun So Doo Songarak Nopunde Bandae Tulgi
 
-> 🔊 **Prononciation :** [걷는 서 두손가락 높은데 반대 찌르기](../audio/Techniques/Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.m4a)
+> 🔊 **Prononciation :** [걷는 서 두손가락 높은데 반대 뚫기](../audio/Techniques/Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.m4a)
 
-La **Gunnun So Doo Songarak Nopunde Bandae Tulgi** ([걷는 서 두손가락 높은데 반대 찌르기](../audio/Techniques/Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.m4a)) est la **pique haute inversée avec deux doigts en posture de marche** (*Walking stance two-finger high reverse thrust*) en TaeKwon-Do ITF.
+La **Gunnun So Doo Songarak Nopunde Bandae Tulgi** ([걷는 서 두손가락 높은데 반대 뚫기](../audio/Techniques/Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.m4a)) est la **pique haute inversée avec deux doigts en posture de marche** (*Walking stance two-finger high reverse thrust*) en TaeKwon-Do ITF.
 
 L'index et le majeur, écartés en V, piquent vers les yeux avec la main du côté de la jambe arrière.
 
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Doo Songarak ([두손가락](../audio/termes/두손가락.m4a)) :** Deux doigts (*Two-finger* — index et majeur écartés en V).
+* **Doo Songarak ([두손가락](../audio/termes/doo-songarak.m4a)) :** Deux doigts (*Two-finger* — index et majeur écartés en V).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / poussée pénétrante (*Thrust*).
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / poussée pénétrante (*Thrust*).
 
 ---
 

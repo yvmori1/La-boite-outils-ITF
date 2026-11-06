@@ -7,7 +7,7 @@ Le **Anuro Makgi** ([안으로 막기](../audio/makgi/anuro-makgi.m4a)) est le *
 Sa décomposition linguistique est la suivante :
 
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur / Direction allant de l'extérieur vers l'axe central (du mot *An* = intérieur, avec le suffixe directionnel *-uro* = vers).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Contrairement aux blocages qui chassent les attaques vers l'extérieur (*Bakuro Makgi*), le **Anuro Makgi** utilise un grand arc de cercle entrant pour venir **rabattre la frappe adverse vers la ligne centrale du corps** (*Center line*).
 

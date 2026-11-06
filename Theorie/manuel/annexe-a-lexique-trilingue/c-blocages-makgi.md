@@ -24,14 +24,14 @@
 | Blocage bas                          | low block                 | Najunde makgi         | [낮은데 막기](../../../audio/makgi/najunde-makgi.m4a)               |
 | Défense basse                        | low guarding block        | Najunde daebi makgi   | [낮은데 대비 막기](../../../audio/makgi/najunde-daebi-makgi.m4a)    |
 | Blocage moyen                        | middle block              | Kaunde makgi          | [가운데 막기](../../../audio/makgi/kaunde-makgi.m4a)                |
-| Blocage en "9"                       | nine shape block          | Gutja makgi | [구자 막기](../../../audio/grammaire/구자-막기.m4a) |
+| Blocage en "9"                       | nine shape block          | Gutja makgi | [구자 막기](../../../audio/grammaire/gutja-makgi.m4a) |
 | Blocage même côté                    | obverse block             | Baro makgi            | [바로 막기](../../../audio/makgi/baro-makgi.m4a)                    |
 | Blocage de l'avant-bras externe      | outer forearm block       | Bakat palmok makgi    | [바깥 팔목 막기](../../../audio/makgi/bakat-palmok-makgi.m4a)       |
 | Blocage de l'extérieur               | outside block             | Bakat makgi           | [바깥 막기](../../../audio/lexique/Bakat-makgi.m4a)                 |
 | Blocage vers l'extérieur             | outward block             | Bakwo makgi           | [바꿔 막기](../../../audio/makgi/bakwo-makgi.m4a)                   |
 | Blocage parallèle                    | parallel block            | Narani makgi          | [나란히 막기](../../../audio/makgi/narani-makgi.m4a)                |
 | Blocage avec pression                | pressing block            | Nullo makgi           | [눌러 막기](../../../audio/makgi/nullo-makgi.m4a)                   |
-| Blocage avec poussée                 | pushing block             | Miro makgi | [밀어 막기](../../../audio/grammaire/밀어-막기.m4a) |
+| Blocage avec poussée                 | pushing block             | Miro makgi | [밀어 막기](../../../audio/grammaire/miro-makgi.m4a) |
 | Blocage contraire                    | reverse block             | Bandae makgi          | [반대 막기](../../../audio/makgi/bandae-makgi.m4a)                  |
 | Blocage du tranchant de main inversé | reverse knife-hand block  | Sonkal dung makgi     | [손칼등 막기](../../../audio/makgi/sonkal-dung-makgi.m4a)           |
 | Blocage soulevé                      | rising block              | Chookyo makgi         | [추켜 막기](../../../audio/makgi/chookyo-makgi.m4a)                 |

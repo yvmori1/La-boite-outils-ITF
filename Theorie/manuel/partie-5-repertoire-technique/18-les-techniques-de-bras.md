@@ -9,7 +9,7 @@
 * **Naeryo Jirugi ([내려지르기](../../../audio/grammaire/Naeryo-Jirugi.m4a)) :** Coup de poing direct de haut en bas.
 * **Dwijibo Jirugi ([뒤집어지르기](../../../audio/grammaire/Dwijibo-Jirugi.m4a)) :** Coup de poing retourné (corps de face, paume vers le haut).
 * **Digutja Jirugi ([디귿자지르기](../../../audio/grammaire/Digutja-Jirugi.m4a)) :** Coup de poing en U (une main au visage, une main au tronc simultanément).
-* **Kiokja Jirugi ([기억자지르기](../../../audio/grammaire/Kiokja-Jirugi.m4a)) :** Coup de poing à angle droit.
+* **Kiokja Jirugi ([기역자지르기](../../../audio/grammaire/Kiokja-Jirugi.m4a)) :** Coup de poing à angle droit.
 * **Sewo Jirugi ([세워지르기](../../../audio/grammaire/Sewo-Jirugi.m4a)) :** Coup de poing vertical.
 
 ## 2. Les Frappes Percutantes et Cinglantes (Taerigi)

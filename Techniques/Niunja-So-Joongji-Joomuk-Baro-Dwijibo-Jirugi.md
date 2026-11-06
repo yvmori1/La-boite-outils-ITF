@@ -9,9 +9,9 @@ Cette technique d'attaque chirurgicale et ascendante utilise l'articulation sail
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Joongji Joomuk ([중지주먹](../audio/termes/중지주먹.m4a)) :** Poing à majeur sortant (*Middle-finger knuckle fist* — poing fermé dont la deuxième articulation du majeur est projetée vers l'extérieur et verrouillée par le pouce).
+* **Joongji Joomuk ([중지주먹](../audio/termes/joongji-joomuk.m4a)) :** Poing à majeur sortant (*Middle-finger knuckle fist* — poing fermé dont la deuxième articulation du majeur est projetée vers l'extérieur et verrouillée par le pouce).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Direct / Obverse* — la frappe est exécutée par le bras du côté de la jambe arrière).
-* **Dwijibo ([뒤집어](../audio/termes/뒤집어.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over*).
+* **Dwijibo ([뒤집어](../audio/termes/dwijibo.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---

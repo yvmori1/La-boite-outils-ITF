@@ -40,7 +40,7 @@ décalé ; il est détaillé grade par grade dans
 
 ---
 
-## 2. Le combat préarrangé (Yaksok Matsogi — [약속 맞서기](../audio/grammaire/약속-맞서기.m4a))
+## 2. Le combat préarrangé (Yaksok Matsogi — [약속 맞서기](../audio/grammaire/yaksok-matseogi.m4a))
 
 Le nombre de pas, la cible et l'arme d'attaque sont convenus d'avance entre les
 deux partenaires. Les enchaînements de l'*Encyclopédie* ne sont que des

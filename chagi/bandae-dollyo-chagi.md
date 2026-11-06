@@ -8,7 +8,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé / En sens inverse.
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Circulaire / Tournant.
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Contrairement aux coups de pied circulaires classiques qui arrivent de l'extérieur vers l'intérieur de la garde, le **Bandae Dollyo Chagi** s'exécute par une **rotation arrière complète (par le dos)** pour délivrer un balayage circulaire puissant avec le talon ou la plante du pied.
 
@@ -16,7 +16,7 @@ Contrairement aux coups de pied circulaires classiques qui arrivent de l'extéri
 
 ## 1. La surface d'impact et les cibles (*Jook Bang*)
 
-* **Dwitchuk (arrière / base du talon - [뒤축](../audio/termes/뒤축.m4a)) :** C'est l'arme naturelle principale. La dureté de l'os du talon combinée à l'énergie cinétique de la rotation en fait l'une des frappes les plus destructrices du TaeKwon-Do.
+* **Dwitchuk (arrière / base du talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** C'est l'arme naturelle principale. La dureté de l'os du talon combinée à l'énergie cinétique de la rotation en fait l'une des frappes les plus destructrices du TaeKwon-Do.
 * **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** Utilisée pour une frappe plus large, notamment lors des combats de compétition (*Matsogi*).
 * **La cible privilégiée :** La section haute (**Nopunde**) : le visage, le menton, la tempe ou la mâchoire.
 

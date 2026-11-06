@@ -7,7 +7,7 @@ Le **Anuro Chagi** ([안으로 차기](../audio/chagi/anuro-chagi.m4a)) est le *
 Sa décomposition linguistique est la suivante :
 
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (du mot *an*, intérieur, suivi de la particule de direction *-uro*).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Cette technique effectue une trajectoire circulaire en arc de cercle en montant vers l'extérieur pour venir **balayer la cible de l'extérieur vers l'intérieur**, en croisant la ligne médiane du corps.
 

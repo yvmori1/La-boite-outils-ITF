@@ -6,8 +6,8 @@ Le **Butjaba Makgi** ([붙잡아 막기](../audio/makgi/butjaba-makgi.m4a)) est 
 
 Sa décomposition linguistique est la suivante :
 
-* **Butjaba ([붙잡아](../audio/termes/붙잡아.m4a)) :** Saisir, attraper, maintenir, agripper (du verbe *butjabda*, [붙잡다](../audio/termes/붙잡다.m4a) = saisir / tenir fermement).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Butjaba ([붙잡아](../audio/termes/butjaba.m4a)) :** Saisir, attraper, maintenir, agripper (du verbe *butjabda*, [붙잡다](../audio/termes/butjapda.m4a) = saisir / tenir fermement).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Le **Butjaba Makgi** est une technique hybride où l'action défensive ne cherche pas à repousser ou percuter le membre adverse, mais à **l'intercepter et le verrouiller immédiatement dans une prise fermée**.
 

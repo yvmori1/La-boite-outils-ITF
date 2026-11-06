@@ -13,10 +13,10 @@ Elle se traduit par : **Blocage montant double avec les paumes de mains en posit
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Sasun So (Sogi)** | [사선 서기](../audio/grammaire/Sasun-Sogi.m4a) | Position diagonale | Posture de jambes décalée en diagonale, offrant un angle d'esquive et une assise stable. |
-| **Sang** | [쌍](../audio/termes/쌍.m4a) | Double / Jumeau | Indique une exécution simultanée avec les deux mains. |
+| **Sang** | [쌍](../audio/termes/sang.m4a) | Double / Jumeau | Indique une exécution simultanée avec les deux mains. |
 | **Sonbadak** | [손바닥](../audio/grammaire/Sonbadak.m4a) | Paume de la main | Surface de contact (la base ferme de la paume). |
-| **Chookyo** | [추켜](../audio/termes/추켜.m4a) | Montant / En élévation | Mouvement ascendant destiné à intercepter une attaque venant du haut. |
-| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de dévier ou stopper une attaque. |
+| **Chookyo** | [추켜](../audio/termes/chookyo.m4a) | Montant / En élévation | Mouvement ascendant destiné à intercepter une attaque venant du haut. |
+| **Makgi** | [막기](../audio/termes/makgi.m4a) | Blocage / Défense | Action de dévier ou stopper une attaque. |
 
 ---
 

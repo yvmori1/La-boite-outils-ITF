@@ -7,7 +7,7 @@ Le **Yop Makgi** ([옆 막기](../audio/makgi/yop-makgi.m4a)) est le **blocage l
 Sa décomposition linguistique est la suivante :
 
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (indique une orientation ou une trajectoire dirigée vers le flanc).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Contrairement aux blocages exécutés vers l'avant (*Ap Makgi*), le **Yop Makgi** est conçu pour intercepter une attaque venant **sur le côté du corps** (à 90° par rapport à l'axe frontal) ou pour bloquer tout en présentant une posture de profil (*Niunja Sogi*, *Annun Sogi* ou *Guburyo Sogi*).
 

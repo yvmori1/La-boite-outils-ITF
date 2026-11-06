@@ -7,8 +7,8 @@ Le **Yop Cha Milgi** ([옆차밀기](../audio/chagi/yop-cha-milgi.m4a) — parfo
 Sa décomposition linguistique est la suivante :
 
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral.
-* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied / Frappe de jambe.
-* **Milgi ([밀기](../audio/grammaire/Milgi.m4a)) :** Pousser / Action de poussée (du verbe *milda*, [밀다](../audio/termes/밀다.m4a)).
+* **Cha ([차](../audio/termes/cha.m4a)) :** Coup de pied / Frappe de jambe.
+* **Milgi ([밀기](../audio/grammaire/Milgi.m4a)) :** Pousser / Action de poussée (du verbe *milda*, [밀다](../audio/termes/milda.m4a)).
 
 Contrairement au *Yop Cha Jirugi* qui recherche une pénétration explosive et perçante pour impacter les organes vitaux, le **Yop Cha Milgi** utilise la mécanique latérale pour **repousser l'adversaire de côté**, briser son centre de gravité ou le dégager de sa trajectoire d'attaque.
 

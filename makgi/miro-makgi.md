@@ -1,13 +1,13 @@
 # Blocage poussée (Miro Makgi)
 
-> 🔊 **Prononciation :** [미뤄 막기](../audio/makgi/miro-makgi.m4a)
+> 🔊 **Prononciation :** [밀어 막기](../audio/makgi/miro-makgi.m4a)
 
-Le **Miro Makgi** ([미뤄 막기](../audio/makgi/miro-makgi.m4a)) est le **blocage en poussée / blocage poussé** (*Pushing block*) en TaeKwon-Do ITF.
+Le **Miro Makgi** ([밀어 막기](../audio/makgi/miro-makgi.m4a)) est le **blocage en poussée / blocage poussé** (*Pushing block*) en TaeKwon-Do ITF.
 
 Sa décomposition linguistique est la suivante :
 
-* **Miro ([미뤄](../audio/termes/미뤄.m4a)) :** Pousser, repousser, éloigner (du verbe *miruda*, [미루다](../audio/termes/미루다.m4a) / *milda*, [밀다](../audio/termes/밀다.m4a) = pousser).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Miro ([밀어](../audio/termes/miro.m4a)) :** Pousser, repousser, éloigner (du verbe *miruda*, [미루다](../audio/termes/miruda.m4a) / *milda*, [밀다](../audio/termes/milda.m4a) = pousser).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Contrairement aux blocages percutants (*Snap*) qui cherchent un choc dur et immédiat, le **Miro Makgi** utilise une **force de poussée fluide, lourde et continue** pour intercepter l'attaque, dévier le membre de l'adversaire et détruire son alignement corporel ou son équilibre.
 

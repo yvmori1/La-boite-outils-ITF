@@ -14,9 +14,9 @@ Elle se traduit par : **Blocage au niveau haut au double avant-bras en position 
 | --- | --- | --- | --- |
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
 | **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et serrés. |
-| **Doo Palmok** | [두 팔목](../audio/termes/두-팔목.m4a) | Double avant-bras | Technique où le bras principal de blocage est renforcé par le second bras appuyé au coude (*Doo* = deux). |
+| **Doo Palmok** | [두 팔목](../audio/termes/doo-palmok.m4a) | Double avant-bras | Technique où le bras principal de blocage est renforcé par le second bras appuyé au coude (*Doo* = deux). |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur d'exécution (au niveau de la tête, des yeux ou du front). |
-| **Makgi** | [막기](../audio/termes/막기.m4a) | Blocage / Défense | Action de stopper, neutraliser ou dévier une attaque. |
+| **Makgi** | [막기](../audio/termes/makgi.m4a) | Blocage / Défense | Action de stopper, neutraliser ou dévier une attaque. |
 
 ---
 

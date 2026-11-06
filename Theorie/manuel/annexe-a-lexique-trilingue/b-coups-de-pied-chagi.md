@@ -18,14 +18,14 @@
 | Coup de pied circulaire inversé sauté      | flying reverse turning kick  | Twimyo bandae dollyo chagi  | [뛰며 반대 돌려차기](../../../audio/chagi/twimyo-bandae-dollyo-chagi.m4a)          |
 | Coup de pied latéral tranchant sauté       | flying side piercing kick    | Twimyo yopcha jirugi        | [뛰며 옆차 지르기](../../../audio/Techniques/Twimyo-Yopcha-Jirugi.m4a)             |
 | Double coup de pied sauté                  | flying two directions kick   | Twimyo sangband chagi       | [뛰며 쌍방차기](../../../audio/chagi/twimyo-sangband-chagi.m4a)                    |
-| Coup de pied sauté pénétrant               | flying thrusting kick        | Twimyo cha tulgi | [뛰며 차 뚫기](../../../audio/grammaire/뛰며-차-뚫기.m4a) |
+| Coup de pied sauté pénétrant               | flying thrusting kick        | Twimyo cha tulgi | [뛰며 차 뚫기](../../../audio/grammaire/twimyo-cha-tulgi.m4a) |
 | Coup de pied avant                         | front kick                   | Ap chagi | [앞차기](../../../audio/chagi/ap-chagi.m4a) |
 | Coup de pied avant soulevé                 | front rising kick            | Apcha olligi                | [앞차 올리기](../../../audio/chagi/apcha-olligi.m4a)                               |
 | Coup de pied du talon                      | front heel kick              | Kumchi ollyo chagi          | [꿈치 올려차기](../../../audio/chagi/kumchi-ollyo-chagi.m4a)                       |
 | Coup de pied avant fouetté                 | front snap kick              | Apcha busigi                | [앞차 부시기](../../../audio/chagi/apcha-busigi.m4a)                               |
 | Coup de pied saisie                        | grasping kick                | Japgo chagi                 | [잡고차기](../../../audio/chagi/japgo-chagi.m4a)                                   |
 | Coup de pied en hauteur                    | high kick                    | Nopunde chagi               | [높은데 차기](../../../audio/chagi/nopunde-chagi.m4a)                              |
-| Coup de pied crocheté                      | hooking kick                 | Dollyo goro chagi | [돌려 걸어차기](../../../audio/termes/돌려-걸어차기.m4a) |
+| Coup de pied crocheté                      | hooking kick                 | Dollyo goro chagi | [돌려 걸어차기](../../../audio/termes/dollyo-gorochagi.m4a) |
 | Coup de pied vers l'intérieur              | inward kick                  | Anuro chagi                 | [안으로 차기](../../../audio/chagi/anuro-chagi.m4a)                                |
 | Coup de genou fouetté avant                | knee low front snap kick     | Moorup apcha busigi         | [무릎 앞차부시기](../../../audio/chagi/moorup-apcha-busigi.m4a)                    |
 | Coup de genou remontant                    | knee upward kick             | Moorup ollyo chagi          | [무릎 올려차기](../../../audio/chagi/moorup-ollyo-chagi.m4a)                       |
@@ -40,7 +40,7 @@
 | Coup de pied latéral                       | side kick                    | Yop chagi | [옆차기](../../../audio/chagi/yop-chagi.m4a) |
 | Coup de pied latéral tranchant             | side piercing kick           | Yopcha jirugi               | [옆차지르기](../../../audio/chagi/yop-cha-jirugi.m4a)                              |
 | Coup de pied latéral avec poussée          | side pushing kick            | Yop-cha milgi               | [옆차밀기](../../../audio/chagi/yop-cha-milgi.m4a)                                 |
-| Coup de pied latéral pénétrant             | side thrusting kick          | Yopcha tulgi | [옆차뚫기](../../../audio/grammaire/옆차뚫기.m4a) |
+| Coup de pied latéral pénétrant             | side thrusting kick          | Yopcha tulgi | [옆차뚫기](../../../audio/grammaire/yopcha-tulgi.m4a) |
 | Coup de pied chassé                        | sliding kick                 | Mikulgi chagi               | [미끌기 차기](../../../audio/chagi/mikulgi-chagi.m4a)                              |
 | Croc-en-jambe                              | sweeping kick                | Suroh chagi | [쓸어차기](../../../audio/grammaire/Suroh-Chagi.m4a) |
 | Coup de pied circulaire                    | turning kick                 | Dollyo chagi                | [돌려차기](../../../audio/chagi/dollyo-chagi.m4a)                                  |

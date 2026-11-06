@@ -14,7 +14,7 @@ Elle se traduit par : **Coup de pied latéral perçant du pied droit au niveau h
 | --- | --- | --- | --- |
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit | Indique que la frappe est exécutée avec la jambe droite. |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du visage ou des yeux de l'exécutant). |
-| **Yopcha** | [옆차](../audio/termes/옆차.m4a) | Coup de pied latéral | Trajectoire d'attaque de côté (*Yop* = côté, *Cha* = coup de pied). |
+| **Yopcha** | [옆차](../audio/termes/yopcha.m4a) | Coup de pied latéral | Trajectoire d'attaque de côté (*Yop* = côté, *Cha* = coup de pied). |
 | **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Perçant / Poussée directe | Mouvement d'enfoncement rectiligne (comme un coup de poing direct). |
 
 ---

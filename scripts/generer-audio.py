@@ -38,7 +38,9 @@ Avec --tout, ce même traitement s'étend à chaque document publié du site : l
 fiches (au-delà de leur ligne de prononciation), les README, le glossaire, le
 manuel et Combat/. Le manuel et Combat/ gardent leur sous-dossier d'audio ; les
 autres documents rangent leurs nouveaux enregistrements dans audio/termes/,
-sous le nom du hangul lui-même — un nom qui ne peut désigner qu'un seul texte.
+sous le nom romanisé du hangul (scripts/romanisation.py : « 옆차 뚫기 » donne
+yopcha-tulgi.m4a) ; si ce nom dit déjà un autre texte, un suffixe -2, -3… le
+distingue.
 Le titre de la page (« # … »), les blocs de code et tout ce qui est déjà pris
 dans un lien ne sont jamais retouchés.
 
@@ -54,6 +56,8 @@ import pathlib
 import re
 import subprocess
 import sys
+
+from romanisation import romaniser
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
 AUDIO = RACINE / "audio"
@@ -428,9 +432,19 @@ def index_par_hangul():
 
 
 def nom_de_fichier(texte):
-    """Le hangul lui-même, espaces changés en tirets (sinon le lien Markdown
-    s'arrêterait au premier espace de l'adresse)."""
-    return re.sub(r"\s+", "-", texte)
+    """Le nom romanisé du hangul : ASCII en minuscules, mots liés par des tirets
+    (« 옆차 뚫기 » -> « yopcha-tulgi »)."""
+    return romaniser(texte)
+
+
+def nom_libre(sous_dossier, base, texte, utilises):
+    """Premier nom « base », « base-2 », « base-3 »… qui ne dit pas déjà un
+    autre texte : un même fichier ne doit jamais prononcer deux hangul."""
+    audio, k = f"{sous_dossier}/{base}.m4a", 2
+    while utilises.get(audio, texte) != texte or (
+            audio not in utilises and (AUDIO / audio).exists()):
+        audio, k = f"{sous_dossier}/{base}-{k}.m4a", k + 1
+    return audio
 
 
 def lier_document(chemin, sous_dossier, args, index=None, nom_hangul=False):
@@ -441,8 +455,9 @@ def lier_document(chemin, sous_dossier, args, index=None, nom_hangul=False):
     code. Avec --sans-synthese, seul un hangul dont l'audio existe déjà est lié ;
     les autres sont comptés « en attente » et seront liés sur macOS.
 
-    nom_hangul : le nouvel enregistrement est nommé d'après le hangul, et non
-    d'après la romanisation qui le précède — un nom sûr, sans collision.
+    nom_hangul : le nouvel enregistrement est nommé d'après la romanisation du
+    hangul lui-même, et non d'après le terme romanisé qui le précède dans le
+    texte, qui peut désigner autre chose.
     """
     contenu = chemin.read_text(encoding="utf-8")
     index = index_par_hangul() if index is None else index
@@ -477,7 +492,10 @@ def lier_document(chemin, sous_dossier, args, index=None, nom_hangul=False):
                 if utilises.get(audio, texte) != texte:
                     # la romanisation désigne déjà un autre hangul : un même
                     # fichier ne doit jamais dire deux textes différents
-                    audio = f"{sous_dossier}/{nom_de_fichier(texte)}.m4a"
+                    audio = nom_libre(sous_dossier, nom_de_fichier(texte),
+                                      texte, utilises)
+                elif nom_hangul:
+                    audio = nom_libre(sous_dossier, base, texte, utilises)
                 nature = "propre"
             cible = AUDIO / audio
             if not cible.exists():
