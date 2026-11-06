@@ -15,7 +15,7 @@ C'est une position courte, jambes tendues, le poids légèrement porté sur la j
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Longueur** | **Une largeur d'épaule**, mesurée entre les gros orteils, le pied déplacé vers l'avant ou sur le côté. |
-| **Orientation des pieds** | Orteils des **deux pieds** tournés d'environ **15° vers l'intérieur**. |
+| **Orientation des pieds** | Comme en position en L : les pieds forment **presque un angle droit**, les orteils des **deux pieds** tournés d'environ **15° vers l'intérieur**. |
 | **Répartition du poids** | **60 % sur la jambe arrière**, **40 % sur la jambe avant**. |
 | **Position des genoux** | Les deux jambes **tendues**. |
 | **Orientation du buste** | Toujours **de trois quarts** (*Hanmom*), en attaque comme en défense. |
@@ -25,7 +25,7 @@ C'est une position courte, jambes tendues, le poids légèrement porté sur la j
 ## 2. Décomposition de l'exécution
 
 1. **Le déplacement :** Déplacer un pied vers l'avant ou sur le côté, à une largeur d'épaule entre les gros orteils.
-2. **L'orientation :** Rentrer légèrement les orteils des deux pieds, d'environ 15°.
+2. **L'orientation :** Placer les pieds presque à angle droit, les orteils des deux pieds rentrés d'environ 15°.
 3. **La répartition :** Porter un peu plus de poids sur la jambe arrière (60 %) que sur la jambe avant (40 %).
 4. **Le verrouillage :** Tendre les deux jambes, buste de trois quarts.
 

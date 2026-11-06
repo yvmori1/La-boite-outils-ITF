@@ -555,16 +555,17 @@ def _dwitbal(s):
 
 @position("soojik-sogi", "Soojik Sogi", "position verticale — pied gauche avant")
 def _soojik(s):
-    d = s.pied("D", at=(PIED_l / 2 + 1, 0), angle=-90, repere="talon")
+    # comme en position en L : pieds presque à angle droit, orteils des deux
+    # pieds rentrés d'environ 15° (Encyclopédie condensée, position verticale)
+    d = s.pied("D", at=(PIED_l / 2 + 1, 0), angle=-75, repere="talon")
     g = s.pied("G", at=(-PIED_l / 2 - 1, 0), angle=-15, repere="centre")
     _avancer(g, "gros-orteil", d.rp("gros-orteil")[1] + EPAULE)
     y0, y1 = d.rp("gros-orteil")[1], g.rp("gros-orteil")[1]
     s.cote_v(42, y0, y1, L_EPAULE + "\n(gros orteil à gros orteil)",
              ext=(-14, 44))
-    s.angle(d.rp("talon"), 0, 90, 19, "90°", rayons=27)
     s.poids(g, "40 %")
     s.poids(d, "60 %")
-    s.texte((0, y1 + 8), "Pied avant rentré de 15°\nPied arrière à 90°")
+    s.texte((0, y1 + 8), "Pieds à ~90°, orteils rentrés de 15°")
 
 
 @position("sasun-sogi", "Sasun Sogi", "position en diagonale — pied gauche avant")
