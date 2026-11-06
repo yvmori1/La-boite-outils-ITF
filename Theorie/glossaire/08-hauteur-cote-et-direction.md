@@ -14,21 +14,21 @@ Ces mots précisent où va la technique. Ils se combinent librement : *Nopunde B
 | **Orun** | [오른](../../audio/grammaire/Orun.m4a) | Droit | Précise le membre qui agit. |
 | **Ap** | [앞](../../audio/grammaire/Ap.m4a) | Avant, de face | Vers l'avant. |
 | **Yop** | [옆](../../audio/grammaire/Yop.m4a) | Côté, latéral | Vers le côté. |
-| **Dwit** | [뒤](../../audio/termes/뒤.m4a) | Arrière | Vers l'arrière (Dwit Chagi, Dwit Palkup). |
-| **Wi** | [위](../../audio/termes/위.m4a) | Haut, dessus | Dans Wi Palkup, coup de coude montant. |
-| **Mit** | [밑](../../audio/termes/밑.m4a) | Dessous | Dans Mit Palmok, Mit Joomuk. |
-| **An** | [안](../../audio/termes/안.m4a) | Intérieur | Dans An Palmok, An Makgi. |
-| **Bakat** | [바깥](../../audio/termes/바깥.m4a) | Extérieur | Dans Bakat Palmok, Bakat Makgi. |
+| **Dwit** | [뒤](../../audio/termes/dwi.m4a) | Arrière | Vers l'arrière (Dwit Chagi, Dwit Palkup). |
+| **Wi** | [위](../../audio/termes/wi.m4a) | Haut, dessus | Dans Wi Palkup, coup de coude montant. |
+| **Mit** | [밑](../../audio/termes/mit.m4a) | Dessous | Dans Mit Palmok, Mit Joomuk. |
+| **An** | [안](../../audio/termes/an.m4a) | Intérieur | Dans An Palmok, An Makgi. |
+| **Bakat** | [바깥](../../audio/termes/bakat.m4a) | Extérieur | Dans Bakat Palmok, Bakat Makgi. |
 | **Anuro** | [안으로](../../audio/grammaire/Anuro.m4a) | Vers l'intérieur | Trajectoire de l'extérieur vers l'axe du corps. |
 | **Bakuro** | [밖으로](../../audio/grammaire/Bakuro.m4a) | Vers l'extérieur | Trajectoire de l'axe du corps vers l'extérieur. |
 | **Ollyo** | [올려](../../audio/grammaire/Ollyo.m4a) | Montant | Trajectoire de bas en haut. |
 | **Naeryo** | [내려](../../audio/grammaire/Naeryo.m4a) | Descendant | Trajectoire de haut en bas. |
 | **Dollyo** | [돌려](../../audio/grammaire/Dollyo.m4a) | Circulaire | Trajectoire courbe vers la cible. |
-| **Sewo** | [세워](../../audio/termes/세워.m4a) | Vertical | Poing ou pied tenu à la verticale. |
-| **Dwijibo** | [뒤집어](../../audio/termes/뒤집어.m4a) | Retourné | Poing tourné paume vers le haut. |
-| **Soopyong** | [수평](../../audio/termes/수평.m4a) | Horizontal | Avant-bras ou coude tenus à l'horizontale. |
-| **Sasun** | [사선](../../audio/termes/사선.m4a) | Diagonal | Trajectoire en biais. |
-| **Yobap** | [옆앞](../../audio/termes/옆앞.m4a) | De biais avant | Entre l'avant et le côté. |
-| **Narani** | [나란히](../../audio/termes/나란히.m4a) | Parallèle | Deux membres agissant côte à côte. |
-| **Kyocha** | [교차](../../audio/termes/교차.m4a) | Croisé | Deux poignets ou deux jambes croisés en X. |
-| **Saju** | [사주](../../audio/termes/사주.m4a) | Quatre directions | Exercice exécuté vers les quatre points cardinaux. |
+| **Sewo** | [세워](../../audio/termes/sewo.m4a) | Vertical | Poing ou pied tenu à la verticale. |
+| **Dwijibo** | [뒤집어](../../audio/termes/dwijibo.m4a) | Retourné | Poing tourné paume vers le haut. |
+| **Soopyong** | [수평](../../audio/termes/soopyong.m4a) | Horizontal | Avant-bras ou coude tenus à l'horizontale. |
+| **Sasun** | [사선](../../audio/termes/sasun.m4a) | Diagonal | Trajectoire en biais. |
+| **Yobap** | [옆앞](../../audio/termes/yobap.m4a) | De biais avant | Entre l'avant et le côté. |
+| **Narani** | [나란히](../../audio/termes/narani.m4a) | Parallèle | Deux membres agissant côte à côte. |
+| **Kyocha** | [교차](../../audio/termes/kyocha.m4a) | Croisé | Deux poignets ou deux jambes croisés en X. |
+| **Saju** | [사주](../../audio/termes/saju.m4a) | Quatre directions | Exercice exécuté vers les quatre points cardinaux. |

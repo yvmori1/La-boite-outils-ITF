@@ -8,7 +8,7 @@ C'est une technique défensive symétrique et puissante conçue pour **se dégag
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (côté pouce).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus / poitrine / épaules).
 * **Hechyo Makgi ([헤쳐막기](../audio/grammaire/Heetchyo-Makgi.m4a)) :** Blocage écarté / en coin (*Wedging block*).

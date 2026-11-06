@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Bakat Palmok ([바깥팔목](../audio/grammaire/Bakat-Palmok.m4a)) :** Avant-bras extérieur (*Outer forearm* — côté petit doigt).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / frontal (*Front*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

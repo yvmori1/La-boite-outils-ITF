@@ -13,7 +13,7 @@ Elle se traduit par : **Coup de pied circulaire inversé au niveau haut** (*High
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (visage, tempe, mâchoire). |
 | **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inversé / Sens opposé | Indique la rotation du corps en sens inverse de la jambe de frappe. |
 | **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire / Tournant | Trajectoire courbe de l'attaque. |
-| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Technique d'attaque exécutée avec la jambe. |
+| **Chagi** | [차기](../audio/termes/chagi.m4a) | Coup de pied | Technique d'attaque exécutée avec la jambe. |
 
 ## 2. Exécution et principes biomécaniques
 

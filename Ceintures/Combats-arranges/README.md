@@ -1,4 +1,4 @@
-# Combats arrangés (Yaksok Matsogi — [약속 맞서기](../../audio/grammaire/약속-맞서기.m4a))
+# Combats arrangés (Yaksok Matsogi — [약속 맞서기](../../audio/grammaire/yaksok-matseogi.m4a))
 
 Les combats arrangés, ou préarrangés, appliquent à deux les mouvements des formes : l'attaque, la défense et la contre-attaque sont convenues d'avance. Ils servent à perfectionner les positions, le jugement de la distance, le synchronisme et la vitesse. Chaque grade de couleur apprend ses combats arrangés numérotés, tirés de la forme du niveau ; chaque fiche de grade renvoie à la page de son niveau.
 

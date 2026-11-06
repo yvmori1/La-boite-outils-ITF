@@ -1,18 +1,18 @@
 # Annun So Sonbadak Kaunde Miro Makgi
 
-> 🔊 **Prononciation :** [앉은 서 손바닥 가운데 미로 막기](../audio/Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 손바닥 가운데 밀어 막기](../audio/Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.m4a)
 
-Le **Annun So Sonbadak Kaunde Miro Makgi** ([앉은 서 손바닥 가운데 미로 막기](../audio/Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.m4a)) est le **blocage poussant moyen avec la paume de la main en posture du cavalier** (*Sitting stance palm middle pushing block*) en TaeKwon-Do ITF.
+Le **Annun So Sonbadak Kaunde Miro Makgi** ([앉은 서 손바닥 가운데 밀어 막기](../audio/Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.m4a)) est le **blocage poussant moyen avec la paume de la main en posture du cavalier** (*Sitting stance palm middle pushing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive contrôlée ne cherche pas à percuter ni à casser brutalement l'attaque adverse, mais à l'**intercepter et la pousser en douceur mais avec fermeté** (*Miro*) au niveau moyen (*Kaunde*) pour altérer la trajectoire de l'agresseur et rompre son alignement.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (plexus solaire / thorax).
-* **Miro ([미로](../audio/termes/미로.m4a)) :** Poussant / Action de pousser (*Pushing*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Miro ([밀어](../audio/termes/miro.m4a)) :** Poussant / Action de pousser (*Pushing*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

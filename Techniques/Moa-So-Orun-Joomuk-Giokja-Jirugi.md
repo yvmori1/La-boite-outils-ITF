@@ -1,17 +1,17 @@
 # Moa So Orun Joomuk Giokja Jirugi
 
-> 🔊 **Prononciation :** [모아서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Moa-So-Orun-Joomuk-Giokja-Jirugi.m4a)
+> 🔊 **Prononciation :** [모아 서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Moa-So-Orun-Joomuk-Giokja-Jirugi.m4a)
 
-Le **Moa So Orun Joomuk Giokja Jirugi** ([모아서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Moa-So-Orun-Joomuk-Giokja-Jirugi.m4a)) est le **coup de poing direct en "L" / d'angle (en équerre) du poing droit en posture pieds joints** (*Closed stance right fist angle punch*) en TaeKwon-Do ITF.
+Le **Moa So Orun Joomuk Giokja Jirugi** ([모아 서 오른 주먹 ㄱ자 지르기](../audio/Techniques/Moa-So-Orun-Joomuk-Giokja-Jirugi.m4a)) est le **coup de poing direct en "L" / d'angle (en équerre) du poing droit en posture pieds joints** (*Closed stance right fist angle punch*) en TaeKwon-Do ITF.
 
-Cette technique d'attaque à moyenne portée utilise les deux premières jointures du poing droit (**Ap Joomuk**) pour frapper le côté de la poitrine, le flanc ou la mâchoire d'un adversaire. La particularité vient de la forme du bras frappant, dont le coude est fléchi pour former un angle droit précis à 90° (en forme de la lettre coréenne **Giok - [ㄱ](../audio/termes/ㄱ.m4a)**), le tout ancré dans la compacité de la posture pieds joints (**Moa Sogi**).
+Cette technique d'attaque à moyenne portée utilise les deux premières jointures du poing droit (**Ap Joomuk**) pour frapper le côté de la poitrine, le flanc ou la mâchoire d'un adversaire. La particularité vient de la forme du bras frappant, dont le coude est fléchi pour former un angle droit précis à 90° (en forme de la lettre coréenne **Giok - [ㄱ](../audio/termes/giyeok.m4a)**), le tout ancré dans la compacité de la posture pieds joints (**Moa Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Closed stance* — pieds collés côte à côte, poids réparti à 50/50).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
-* **Giokja / Giok-ja ([ㄱ자](../audio/termes/ㄱ자.m4a)) :** En forme de la lettre "Giok" ([ㄱ](../audio/termes/ㄱ.m4a)) / En équerre / En forme de "L" / Angle à 90°.
+* **Giokja / Giok-ja ([ㄱ자](../audio/termes/kiokja.m4a)) :** En forme de la lettre "Giok" ([ㄱ](../audio/termes/giyeok.m4a)) / En équerre / En forme de "L" / Angle à 90°.
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Forme du bras (*Giokja*)** | Le bras droit forme un **angle droit parfait d'environ 90°** au niveau du coude. L'avant-bras passe horizontalement devant la poitrine pour ramener le poing vers le profil opposé ou le centre. |
 | **Zone ciblée / Hauteur** | Généralement le **niveau moyen (*Kaunde*)** : poitrine, côtes, ou le haut de la poitrine/mâchoire. |
 | **Main de réaction (*Bandae Son*)** | Le poing gauche (main opposée) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*) ou de semi-profil selon la trajectoire dans le patron. |
+| **Orientation du buste** | De face (*[정면](../audio/termes/jeongmyeon.m4a) - Jungmyeon*) ou de semi-profil selon la trajectoire dans le patron. |
 
 ---
 
@@ -44,7 +44,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 3 : La Trajectoire en Angle et le Verrouillage (*Snap*)
 
-1. **Déploiement en "[ㄱ](../audio/termes/ㄱ.m4a)" (*Giokja*) :** Le poing droit est propulsé vers l'avant puis s'incurve horizontalement, le coude se verrouillant à un angle de 90°.
+1. **Déploiement en "[ㄱ](../audio/termes/giyeok.m4a)" (*Giokja*) :** Le poing droit est propulsé vers l'avant puis s'incurve horizontalement, le coude se verrouillant à un angle de 90°.
 2. **Impact (**Ap Joomuk**) :** Le poing droit termine son parcours devant le thorax/poitrine opposée, la paume tournée vers le bas ou vers soi selon l'angle précis requis.
 3. **Tirage de réaction :** Le poing gauche est tiré violemment à la hanche gauche (*Heori*).
 4. **Expiration (*Kihap*) :** Une expulsion d'air brève scelle le verrouillage de la frappe et le gainage abdominal.

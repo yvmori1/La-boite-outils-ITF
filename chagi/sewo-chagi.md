@@ -6,8 +6,8 @@ Le **Sewo Chagi** ([세워 차기](../audio/chagi/sewo-chagi.m4a)) est le **coup
 
 Sa décomposition linguistique est la suivante :
 
-* **Sewo ([세워](../audio/termes/세워.m4a)) :** Dressé, vertical, debout (du verbe *seuda*, [세우다](../audio/termes/세우다.m4a) = dresser, mettre debout).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Sewo ([세워](../audio/termes/sewo.m4a)) :** Dressé, vertical, debout (du verbe *seuda*, [세우다](../audio/termes/seuda.m4a) = dresser, mettre debout).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 La particularité fondamentale du **Sewo Chagi** réside dans l'orientation du pied à l'impact : le pied est maintenu **strictement à la verticale** (la pointe des orteils orientée vers le haut), ce qui permet à la frappe de se glisser dans des interstices très étroits, par exemple au milieu d'une garde adverse totalement fermée de face.
 
@@ -17,7 +17,7 @@ La particularité fondamentale du **Sewo Chagi** réside dans l'orientation du p
 
 Le *Sewo Chagi* se décline selon la direction de sa trajectoire verticale :
 
-### A. Anuro Sewo Chagi ([안으로 세워 차기](../audio/termes/안으로-세워-차기.m4a)) — Coup de pied vertical vers l'intérieur
+### A. Anuro Sewo Chagi ([안으로 세워 차기](../audio/termes/anuro-sewo-chagi.m4a)) — Coup de pied vertical vers l'intérieur
 
 * **Trajectoire :** La jambe s'élève et décoche une frappe verticale en se déplaçant de l'extérieur vers l'intérieur du corps.
 * **Arme naturelle :** **Balbadak** (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) ou **Apkumchi** (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)).

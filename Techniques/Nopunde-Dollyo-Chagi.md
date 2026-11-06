@@ -12,7 +12,7 @@ Il se traduit par : **Coup de pied circulaire au niveau haut** (*High Turning Ki
 | --- | --- | --- | --- |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (tempe, mâchoire, visage). |
 | **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire / Tournant | Trajectoire en arc de cercle de l'extérieur vers l'intérieur. |
-| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Technique d'attaque des membres inférieurs. |
+| **Chagi** | [차기](../audio/termes/chagi.m4a) | Coup de pied | Technique d'attaque des membres inférieurs. |
 
 ## 2. Exécution et principes biomécaniques
 

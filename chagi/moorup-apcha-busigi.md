@@ -8,7 +8,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Moorup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou.
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
-* **Cha ([차](../audio/termes/차.m4a)) :** Coup / Frappe de jambe.
+* **Cha ([차](../audio/termes/cha.m4a)) :** Coup / Frappe de jambe.
 * **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / *Snap* (mouvement sec et explosif).
 
 Cette technique de percussion dévastatrice est conçue pour le combat rapproché (*In-fighting*). Elle utilise la pointe osseuse du genou pour délivrer une frappe à la fois ascendante et perçante à très courte distance.

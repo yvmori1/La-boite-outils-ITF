@@ -1,17 +1,17 @@
 # Double coup de coude horizontal perçant (Sang Soopyeong Palkup Tulgi)
 
-> 🔊 **Prononciation :** [쌍 수평 팔굽 찌르기](../audio/jirugi/sang-scopyong-palkup-tulgi.m4a)
+> 🔊 **Prononciation :** [쌍 수평 팔굽 뚫기](../audio/jirugi/sang-scopyong-palkup-tulgi.m4a)
 
-Le **Sang Soopyeong Palkup Tulgi** ([쌍 수평 팔굽 찌르기](../audio/jirugi/sang-scopyong-palkup-tulgi.m4a) — souvent orthographié ou retranscrit **Sang Sopyong Palkup Tulgi**) est le **double coup de coude horizontal perçant** (*Twin horizontal elbow thrust*) en TaeKwon-Do ITF.
+Le **Sang Soopyeong Palkup Tulgi** ([쌍 수평 팔굽 뚫기](../audio/jirugi/sang-scopyong-palkup-tulgi.m4a) — souvent orthographié ou retranscrit **Sang Sopyong Palkup Tulgi**) est le **double coup de coude horizontal perçant** (*Twin horizontal elbow thrust*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque rapprochée simultanée utilise la rigidité des deux coudes projetés sur un plan strictement horizontal pour perforer la garde adverse ou frapper deux cibles de profil/face à très courte distance.
 
 Sa décomposition linguistique est la suivante :
 
-* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Jumeau (*Twin*).
-* **Soopyeong ([수평](../audio/termes/수평.m4a)) :** Horizontal (*Horizontal / Level*).
+* **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Paire / Jumeau (*Twin*).
+* **Soopyeong ([수평](../audio/termes/soopyong.m4a)) :** Horizontal (*Horizontal / Level*).
 * **Palkup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
-* **Tulgi ([찌르기](../audio/termes/찌르기.m4a)) :** Pique / Poussée perforante (*Thrust*).
+* **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée perforante (*Thrust*).
 
 > 💡 **Nuance essentielle (*Tulgi* vs *Taerigi*) :**
 > Le terme **Tulgi** (pique/poussée) indique que la trajectoire des coudes est **rectiligne et perforante**, projetant la pointe du coude vers l'avant ou le côté comme une lance. Ce n'est pas un mouvement circulaire ou fouetté (*Taerigi*).

@@ -9,11 +9,11 @@ Le coup de pied et le blocage partent au même instant : pendant que les bras é
 Sa décomposition linguistique est la suivante :
 
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yobap Cha Busigi ([옆앞차 부시기](../audio/termes/옆앞차-부시기.m4a)) :** Coup de pied avant fouetté latéral (*Side front snap kick*).
-* **Wa ([와](../audio/termes/와.m4a)) :** Et (*And* — les deux techniques sont exécutées en même temps).
+* **Yobap Cha Busigi ([옆앞차 부시기](../audio/termes/yobap-cha-busigi.m4a)) :** Coup de pied avant fouetté latéral (*Side front snap kick*).
+* **Wa ([와](../audio/termes/wa.m4a)) :** Et (*And* — les deux techniques sont exécutées en même temps).
 * **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Avant-bras intérieur (*Inner forearm* — côté pouce).
-* **Hechyo ([헤쳐](../audio/termes/헤쳐.m4a)) :** En écartement (*Wedging* — les deux bras s'écartent).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Hechyo ([헤쳐](../audio/termes/hechyo.m4a)) :** En écartement (*Wedging* — les deux bras s'écartent).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

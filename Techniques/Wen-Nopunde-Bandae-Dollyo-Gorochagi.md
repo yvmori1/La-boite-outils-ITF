@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la tête / du visage).
-* **Bandae Dollyo ([반대 돌려](../audio/termes/반대-돌려.m4a)) :** Tournant inversé / En rotation inverse (*Reverse turning*).
+* **Bandae Dollyo ([반대 돌려](../audio/termes/bandae-dollyo.m4a)) :** Tournant inversé / En rotation inverse (*Reverse turning*).
 * **Gorochagi / Goro Chagi ([걸어차기](../audio/grammaire/Goro-Chagi.m4a)) :** Coup de pied crocheté / accrochant (*Hook kick*).
 
 ---

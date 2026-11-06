@@ -6,8 +6,8 @@ Le **Deuro Makgi** ([들어 막기](../audio/lexique/Duro-makgi.m4a) — retrans
 
 Sa décomposition linguistique est la suivante :
 
-* **Deuro ([들어](../audio/termes/들어.m4a)) :** Soulever, lever, passer par-dessous pour relever (du verbe *deulda*, [들다](../audio/termes/들다.m4a) = lever / soulever).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Deuro ([들어](../audio/termes/duro.m4a)) :** Soulever, lever, passer par-dessous pour relever (du verbe *deulda*, [들다](../audio/termes/deulda.m4a) = lever / soulever).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 ---
 

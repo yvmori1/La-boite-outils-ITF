@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Moorup ([무릎](../audio/grammaire/Murup.m4a)) :** Genou (action d'armer et d'impacter/pousser avec le genou).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (au-dessous de la ceinture / aine, bas-ventre).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal.
-* **Cha / Chagi ([차](../audio/termes/차.m4a) / [차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Cha / Chagi ([차](../audio/termes/cha.m4a) / [차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 * **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / Snap.
 
 ---

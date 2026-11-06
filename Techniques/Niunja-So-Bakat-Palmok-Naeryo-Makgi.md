@@ -9,9 +9,9 @@ Cette technique défensive lourde utilise la surface osseuse extérieure de l'av
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Bakat Palmok ([바깥 팔목](../audio/termes/바깥-팔목.m4a)) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
+* **Bakat Palmok ([바깥 팔목](../audio/termes/bakat-palmok.m4a)) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

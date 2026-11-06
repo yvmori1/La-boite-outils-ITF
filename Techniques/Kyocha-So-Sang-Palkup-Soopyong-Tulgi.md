@@ -1,8 +1,8 @@
 # Kyocha So Sang Palkup Soopyong Tulgi
 
-> 🔊 **Prononciation :** [교차 서 쌍 팔꿈 수평 찌르기](../audio/Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.m4a)
+> 🔊 **Prononciation :** [교차 서 쌍 팔굽 수평 뚫기](../audio/Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.m4a)
 
-Le **Kyocha So Sang Palkup Soopyong Tulgi** ([교차 서 쌍 팔꿈 수평 찌르기](../audio/Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.m4a)) est une technique d'attaque double, puissante et hautement symétrique du Taekwon-Do (ITF).
+Le **Kyocha So Sang Palkup Soopyong Tulgi** ([교차 서 쌍 팔굽 수평 뚫기](../audio/Techniques/Kyocha-So-Sang-Palkup-Soopyong-Tulgi.m4a)) est une technique d'attaque double, puissante et hautement symétrique du Taekwon-Do (ITF).
 
 Elle se traduit par : **Poussée horizontale double des coudes en position croisée**.
 
@@ -13,10 +13,10 @@ Elle se traduit par : **Poussée horizontale double des coudes en position crois
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
 | **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et pressés. |
-| **Sang** | [쌍](../audio/termes/쌍.m4a) | Double / Jumeau (*Twin*) | Indique une action simultanée et symétrique des deux membres. |
-| **Palkup** | [팔꿈](../audio/termes/팔꿈.m4a) | Coude | Surface d'impact (la pointe rigide de l'articulation du coude). |
-| **Soopyong** | [수평](../audio/termes/수평.m4a) | Horizontal | Orientation de la trajectoire (parallèle au plan du sol). |
-| **Tulgi** | [찌르기](../audio/termes/찌르기.m4a) | Pique / Poussée | Mouvement de pénétration rectiligne et perforant. |
+| **Sang** | [쌍](../audio/termes/sang.m4a) | Double / Jumeau (*Twin*) | Indique une action simultanée et symétrique des deux membres. |
+| **Palkup** | [팔굽](../audio/grammaire/Palkup.m4a) | Coude | Surface d'impact (la pointe rigide de l'articulation du coude). |
+| **Soopyong** | [수평](../audio/termes/soopyong.m4a) | Horizontal | Orientation de la trajectoire (parallèle au plan du sol). |
+| **Tulgi** | [뚫기](../audio/grammaire/Tulgi.m4a) | Pique / Poussée | Mouvement de pénétration rectiligne et perforant. |
 
 ---
 

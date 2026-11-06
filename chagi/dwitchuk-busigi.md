@@ -13,7 +13,7 @@ Pour bien le maîtriser, il faut comprendre la différence fondamentale entre le
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Dwitchuk ([뒤축](../audio/termes/뒤축.m4a)) :** La zone d'impact est le dessous / la base du talon.
+* **Dwitchuk ([뒤축](../audio/termes/dwitchuk.m4a)) :** La zone d'impact est le dessous / la base du talon.
 * **Armement de la cheville :** La cheville est verrouillée en flexion à 90°, les orteils tirés vers le haut (vers le tibia) pour dégager complètement la masse osseuse du talon et éviter toute blessure au niveau des orteils.
 
 ---

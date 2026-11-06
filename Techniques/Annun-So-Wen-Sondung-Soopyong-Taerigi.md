@@ -8,11 +8,11 @@ Cette technique d'attaque rapide et fouettée utilise la surface du dos de la ma
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
-* **Sondung ([손등](../audio/termes/손등.m4a)) :** Dos de la main (*Back of the hand* — surface dorsale de la main ouverte).
-* **Soopyong / Supyong ([수평](../audio/termes/수평.m4a)) :** Horizontal / Sur le plan horizontal (*Horizontal*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Sondung ([손등](../audio/termes/sondung.m4a)) :** Dos de la main (*Back of the hand* — surface dorsale de la main ouverte).
+* **Soopyong / Supyong ([수평](../audio/termes/soopyong.m4a)) :** Horizontal / Sur le plan horizontal (*Horizontal*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 

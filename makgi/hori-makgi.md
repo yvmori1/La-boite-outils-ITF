@@ -6,8 +6,8 @@ Le **Hori Makgi** ([허리 막기](../audio/makgi/hori-makgi.m4a)) est le **bloc
 
 Sa décomposition linguistique est la suivante :
 
-* **Hori ([허리](../audio/termes/허리.m4a)) :** Taille / Hanche / Ligne de la ceinture (*Waist*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Hori ([허리](../audio/termes/hori.m4a)) :** Taille / Hanche / Ligne de la ceinture (*Waist*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 Là où le *Najunde Makgi* cible le niveau bas (bas-ventre/cuisses) et le *Kaunde Makgi* le niveau moyen (plexus/poitrine), le **Hori Makgi** concentre sa protection spécifiquement sur **la ligne médiane de la taille, la ceinture et les flancs** (zone des côtes flottantes et des reins).
 

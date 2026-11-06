@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — s'exécute avec la main située du côté de la jambe arrière).
-* **Dwijibo ([뒤집어](../audio/termes/뒤집어.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
+* **Dwijibo ([뒤집어](../audio/termes/dwijibo.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
 
 ---

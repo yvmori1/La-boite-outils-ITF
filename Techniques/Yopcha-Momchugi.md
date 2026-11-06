@@ -2,14 +2,14 @@
 
 > 🔊 **Prononciation :** [옆차 멈추기](../audio/Techniques/Yopcha-Momchugi.m4a)
 
-Le **Yopcha Momchugi** ([옆차 멈추기](../audio/Techniques/Yopcha-Momchugi.m4a) / [옆차기 멈추기](../audio/termes/옆차기-멈추기.m4a)) est le **coup de pied latéral d'arrêt / de contrôle** (*Side checking kick*) en TaeKwon-Do ITF.
+Le **Yopcha Momchugi** ([옆차 멈추기](../audio/Techniques/Yopcha-Momchugi.m4a) / [옆차기 멈추기](../audio/termes/yop-chagi-momchugi.m4a)) est le **coup de pied latéral d'arrêt / de contrôle** (*Side checking kick*) en TaeKwon-Do ITF.
 
 Contrairement au coup de pied latéral perçant classique (*Yop Cha Jirugi*) qui cherche à détruire la cible en traversant l'adversaire avec une pénétration maximale de la hanche, le **Yopcha Momchugi** est une technique défensive ou d'interception. Son but est de dresser un obstacle rigide (une « cale ») avec le tranchant du pied (*Balkal*) pour **stopper net l'avancée, la charge ou le déclenchement d'attaque** d'un agresseur.
 
 Sa décomposition linguistique est la suivante :
 
-* **Yopcha / Yop Chagi ([옆차](../audio/termes/옆차.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
-* **Momchugi / Momchum ([멈추기](../audio/termes/멈추기.m4a) / [멈춤](../audio/termes/멈춤.m4a)) :** Stopper / Arrêter / Bloquer net / Contrôler (*Checking / Stopping*).
+* **Yopcha / Yop Chagi ([옆차](../audio/termes/yopcha.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
+* **Momchugi / Momchum ([멈추기](../audio/termes/momchugi.m4a)) :** Stopper / Arrêter / Bloquer net / Contrôler (*Checking / Stopping*).
 
 ---
 

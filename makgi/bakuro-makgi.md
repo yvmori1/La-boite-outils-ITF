@@ -1,8 +1,8 @@
 # Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)
 
-> 🔊 **Prononciation :** [바깥 막기](../audio/makgi/bakuro-makgi.m4a)
+> 🔊 **Prononciation :** [바깥으로 막기](../audio/makgi/bakuro-makgi.m4a)
 
-Le **Bakat Makgi** ([바깥 막기](../audio/lexique/Bakat-makgi.m4a)) — couramment désigné sous sa forme directionnelle exacte **Bakuro Makgi** ([바깥으로 막기](../audio/termes/바깥으로-막기.m4a)) — est le **blocage de l'intérieur vers l'extérieur** (*Outward block*) en TaeKwon-Do ITF.
+Le **Bakat Makgi** ([바깥 막기](../audio/lexique/Bakat-makgi.m4a)) — couramment désigné sous sa forme directionnelle exacte **Bakuro Makgi** ([바깥으로 막기](../audio/termes/bakuro-makgi.m4a)) — est le **blocage de l'intérieur vers l'extérieur** (*Outward block*) en TaeKwon-Do ITF.
 
 Tout comme la distinction observée pour le *Anuro Makgi*, il existe une nuance théorique essentielle en ITF entre la surface utilisée et la direction du mouvement.
 
@@ -10,9 +10,9 @@ Tout comme la distinction observée pour le *Anuro Makgi*, il existe une nuance 
 
 ## 1. Nuance essentielle : *Bakat* (Surface) vs *Bakuro* (Direction)
 
-* **Bakat ([바깥](../audio/termes/바깥.m4a)) = Extérieur (La surface / l'outil) :**
+* **Bakat ([바깥](../audio/termes/bakat.m4a)) = Extérieur (La surface / l'outil) :**
 Désigne le tranchant externe de l'avant-bras (*Bakat Palmok* - côté du petit doigt).
-* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) = Vers l'extérieur (La direction du mouvement) :**
+* **Bakuro ([바깥으로](../audio/termes/bakuro.m4a)) = Vers l'extérieur (La direction du mouvement) :**
 Désigne la **trajectoire** du blocage : le bras démarre au centre ou devant le torse et s'élance **de la ligne centrale vers l'extérieur** (de dedans en dehors).
 
 > **En résumé :** Dans le jargon usuel des dojangs, *"Bakat Makgi"* désigne un **blocage chassant une attaque du centre vers l'extérieur du corps** (*Bakuro Makgi*).

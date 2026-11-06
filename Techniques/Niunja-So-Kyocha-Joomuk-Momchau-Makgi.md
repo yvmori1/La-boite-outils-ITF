@@ -9,10 +9,10 @@ Cette technique défensive bilatérale utilise le croisement rigide des deux poi
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Kyocha ([교차](../audio/termes/교차.m4a)) :** Croisé / En X (*X-shape / Cross*).
+* **Kyocha ([교차](../audio/termes/kyocha.m4a)) :** Croisé / En X (*X-shape / Cross*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
-* **Momchau ([멈춰](../audio/termes/멈춰.m4a)) :** Arrêt net / Stopper / Bloquer l'impulsion (*Checking / Stop*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Momchau ([멈춰](../audio/termes/momchau.m4a)) :** Arrêt net / Stopper / Bloquer l'impulsion (*Checking / Stop*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

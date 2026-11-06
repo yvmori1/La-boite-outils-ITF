@@ -6,8 +6,8 @@ Le **Nullo Chagi** ([눌러 차기](../audio/chagi/nullo-chagi.m4a) — souvent 
 
 Sa décomposition linguistique est la suivante :
 
-* **Nullo / Noolloo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser, appuyer, écraser vers le bas (du verbe *nureuda*, [눌르다](../audio/termes/눌르다.m4a) / [누르다](../audio/termes/누르다.m4a)).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Nullo / Noolloo ([눌러](../audio/grammaire/Nullo.m4a)) :** Presser, appuyer, écraser vers le bas (du verbe *nureuda*, [눌르다](../audio/termes/nulreuda.m4a) / [누르다](../audio/termes/nureuda.m4a)).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Contrairement aux coups de pied percutants ou fouettés (*Busigi*), le *Nullo Chagi* est une technique de contrainte physique et de destruction directe. Elle utilise le poids du corps et la force gravitationnelle pour **écraser une articulation, piétiner le coup de pied adverse ou stopper l'avancée d'un attaquant**.
 
@@ -15,7 +15,7 @@ Contrairement aux coups de pied percutants ou fouettés (*Busigi*), le *Nullo Ch
 
 ## 1. Les surfaces d'impact et les cibles (*Jook Bang*)
 
-* **Dwitchuk (base / dessous du talon - [뒤축](../audio/termes/뒤축.m4a)) :** L'arme naturelle principale pour transmettre une pression lourde et directe.
+* **Dwitchuk (base / dessous du talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** L'arme naturelle principale pour transmettre une pression lourde et directe.
 * **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** Utilisée pour une surface d'appui plus large lors de la pression sur une cuisse ou une garde.
 * **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Utilisé dans les variantes de pression latérale (*Yop Nullo Chagi*).
 * **Les cibles privilégiées :**

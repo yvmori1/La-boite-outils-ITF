@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe arrière / opposée à la jambe porteuse).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 
@@ -26,7 +26,7 @@ Sa décomposition linguistique est la suivante :
 | **Principe *Bandae* (Inversé)** | Le blocage est exécuté par le bras du côté de la **jambe arrière** (ex: jambe droite croisée devant + bras gauche qui bloque). |
 | **Trajectoire (*Ap Makgi*)** | **Descendante en arc de cercle le long du buste** pour se verrouiller au niveau bas (*Najunde*), la main s'arrêtant au-dessus de la cuisse/genou avant. |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé (jambe porteuse) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*) ou de semi-profil selon l'axe de l'esquive. |
+| **Orientation du buste** | De face (*[정면](../audio/termes/jeongmyeon.m4a) - Jungmyeon*) ou de semi-profil selon l'axe de l'esquive. |
 
 ---
 

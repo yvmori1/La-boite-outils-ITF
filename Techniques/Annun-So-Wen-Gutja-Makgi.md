@@ -1,17 +1,17 @@
 # Annun So Wen Gutja Makgi
 
-> 🔊 **Prononciation :** [앉은 서 왼](../audio/Techniques/Annun-So-Wen-Gutja-Makgi.m4a)
+> 🔊 **Prononciation :** [앉은 서 왼 구자 막기](../audio/Techniques/Annun-So-Wen-Gutja-Makgi.m4a)
 
-Le **Annun So Wen Gutja Makgi** ([앉은 서 왼](../audio/Techniques/Annun-So-Wen-Gutja-Makgi.m4a) 9[자 막기](../audio/termes/자-막기.m4a)) est le **blocage en forme de "9" gauche en posture du cavalier** (*Sitting stance left 9-shape block*) en TaeKwon-Do ITF.
+Le **Annun So Wen Gutja Makgi** ([앉은 서 왼 구자 막기](../audio/Techniques/Annun-So-Wen-Gutja-Makgi.m4a)) est le **blocage en forme de "9" gauche en posture du cavalier** (*Sitting stance left 9-shape block*) en TaeKwon-Do ITF.
 
 Cette technique défensive bilatérale complexe et fluide combine la protection simultanée du niveau haut (tête/visage) et du niveau bas (bas-ventre/flanc) sur un même côté. En étageant les deux bras dans des trajectoires arquées complémentaires, l'exécutant dessine la silhouette du chiffre **"9"** (*Gutja*), créant un double bouclier protecteur.
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left* — indique la direction du regard et du flanc d'exécution).
-* **Gutja / Guttja (9[자](../audio/termes/자.m4a)) :** En forme du chiffre "9" (*9-shape*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Gutja / Guttja (9[자](../audio/termes/ja.m4a)) :** En forme du chiffre "9" (*9-shape*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

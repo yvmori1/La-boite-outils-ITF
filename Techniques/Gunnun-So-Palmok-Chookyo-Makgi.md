@@ -10,8 +10,8 @@ Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance*).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — le blocage utilise précisément le **Bakat Palmok**, le tranchant externe de l'avant-bras).
-* **Chookyo ([추켜](../audio/termes/추켜.m4a)) :** Remontant / Ascendant (*Rising*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Chookyo ([추켜](../audio/termes/chookyo.m4a)) :** Remontant / Ascendant (*Rising*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 ---
 

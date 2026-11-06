@@ -14,8 +14,8 @@ Souvent considérée comme l'un des coups de contre-attaque les plus dévastateu
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Dwit** | [뒤](../audio/termes/뒤.m4a) | Arrière / Dos | Indique la direction de l'attaque portée vers l'arrière du corps. |
-| **Cha** | [차](../audio/termes/차.m4a) | Coup de pied | Action d'attaque avec le membre inférieur (forme combinée de *Chagi*). |
+| **Dwit** | [뒤](../audio/termes/dwi.m4a) | Arrière / Dos | Indique la direction de l'attaque portée vers l'arrière du corps. |
+| **Cha** | [차](../audio/termes/cha.m4a) | Coup de pied | Action d'attaque avec le membre inférieur (forme combinée de *Chagi*). |
 | **Jirugi** | [지르기](../audio/grammaire/Jirugi.m4a) | Perçant / Poussée directe | Trajectoire rectiligne d'enfoncement (effet de piston). |
 
 ---
@@ -33,7 +33,7 @@ Le *Dwit Cha Jirugi* tire sa force exceptionnelle du verrouillage des fessiers, 
     * La jambe se détend en ligne droite vers l'arrière, propulsée par la contraction explosive des fessiers et des extenseurs de la hanche.
     * Le buste s'incline naturellement vers l'avant pour équilibrer la poussée et allonger la portée.
 4. **L'impact et la surface de frappe :**
-    * L'impact s'effectue avec le **dessous du talon** (**Dwit Chook** - [뒤축](../audio/termes/뒤축.m4a) / **Balkal-Dupchi**).
+    * L'impact s'effectue avec le **dessous du talon** (**Dwit Chook** - [뒤축](../audio/termes/dwitchuk.m4a) / **Balkal-Dupchi**).
     * Les orteils pointent vers le sol (ou très légèrement inclinés de côté), la cheville étant fermement verrouillée.
 5. **Le réarmement et le retour :**
     * Après le choc, la jambe est ramenée vivement vers le genou d'appui (réarmée) avant de reposer au sol, évitant tout risque de balayage ou de saisie par l'adversaire.

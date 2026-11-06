@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Sewo ([세워](../audio/termes/세워.m4a)) :** Vertical / dressé (*Vertical*).
+* **Sewo ([세워](../audio/termes/sewo.m4a)) :** Vertical / dressé (*Vertical*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---

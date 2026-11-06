@@ -1,14 +1,14 @@
 # Narani So Orun Joomuk Kaunde Dollyo Jirugi
 
-> 🔊 **Prononciation :** [평행 서 오른 주먹 가운데 돌려 지르기](../audio/Techniques/Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.m4a)
+> 🔊 **Prononciation :** [나란히 서 오른 주먹 가운데 돌려 지르기](../audio/Techniques/Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.m4a)
 
-Le **Narani So Orun Joomuk Kaunde Dollyo Jirugi** ([평행 서 오른 주먹 가운데 돌려 지르기](../audio/Techniques/Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.m4a)) est le **coup de poing circulaire moyen du poing droit en posture pieds parallèles** (*Parallel stance right fist middle turning punch*) en TaeKwon-Do ITF.
+Le **Narani So Orun Joomuk Kaunde Dollyo Jirugi** ([나란히 서 오른 주먹 가운데 돌려 지르기](../audio/Techniques/Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.m4a)) est le **coup de poing circulaire moyen du poing droit en posture pieds parallèles** (*Parallel stance right fist middle turning punch*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque semi-circulaire est le pendant symétrique exact de la version gauche (*Wen*). Elle utilise les deux premières jointures du poing droit (**Ap Joomuk**) pour contourner la garde de l'adversaire et frapper des cibles vulnérables situées sur le profil de son buste ou au plexus solaire (niveau moyen / **Kaunde**), tout en maintenant une posture neutre et équilibrée de face (**Narani Sogi**).
 
 Sa décomposition linguistique est la suivante :
 
-* **Narani So / Narani Sogi ([평행 서기](../audio/termes/평행-서기.m4a)) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
+* **Narani So / Narani Sogi ([나란히 서기](../audio/grammaire/Narani-Sogi.m4a)) :** Posture pieds parallèles (*Parallel stance* — pieds écartés d'une largeur d'épaules, parallèles, poids réparti à 50/50).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Poing droit (*Right*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire, côtes ou flanc).
@@ -26,7 +26,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Dollyo*)** | **Arc de cercle latéral rentrant** : le poing droit s'écarte légèrement vers l'extérieur puis pivote vers l'intérieur pour impacter de profil. |
 | **Position du coude** | Le coude droit se lève à l'horizontale pendant la rotation pour former un angle d'environ 90° avec l'avant-bras au moment de l'impact. |
 | **Main de réaction (*Bandae Son*)** | Le poing gauche (main opposée) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*), réengagé par une légère rotation de la hanche. |
+| **Orientation du buste** | De face (*[정면](../audio/termes/jeongmyeon.m4a) - Jungmyeon*), réengagé par une légère rotation de la hanche. |
 
 ---
 

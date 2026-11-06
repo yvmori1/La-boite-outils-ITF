@@ -15,5 +15,5 @@ Le répertoire complet se trouve dans [les fiches de coups de pied](../../chagi/
 | **Bandal Chagi** | [반달차기](../../audio/chagi/bandal-chagi.m4a) | Coup de pied en croissant | Trajectoire en demi-lune. |
 | **Bituro Chagi** | [비틀어차기](../../audio/grammaire/Bituro-Chagi.m4a) | Coup de pied vrillé | Départ de face, ouverture en torsion à l'impact. |
 | **Suroh Chagi** | [쓸어차기](../../audio/grammaire/Suroh-Chagi.m4a) | Balayage | Faucher l'appui de l'adversaire. |
-| **Moorup Chagi** | [무릎차기](../../audio/termes/무릎차기.m4a) | Coup de genou | Frappe montante ou directe du genou. |
+| **Moorup Chagi** | [무릎차기](../../audio/termes/moorup-chagi.m4a) | Coup de genou | Frappe montante ou directe du genou. |
 | **Twimyo Chagi** | [뛰며차기](../../audio/chagi/twimyo-chagi.m4a) | Coup de pied sauté | Toute technique de pied exécutée en l'air. |

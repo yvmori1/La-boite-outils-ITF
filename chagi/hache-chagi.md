@@ -2,12 +2,12 @@
 
 > 🔊 **Prononciation :** [하체 차기](../audio/chagi/hache-chagi.m4a)
 
-Le **Hache Chagi** ([하체 차기](../audio/chagi/hache-chagi.m4a)) — souvent associé ou utilisé de manière interchangeable avec **Najunde Chagi** ([낮은데 차기](../audio/termes/낮은데-차기.m4a)) — est le **coup de pied bas / coup de pied aux membres inférieurs** (*Low kick*).
+Le **Hache Chagi** ([하체 차기](../audio/chagi/hache-chagi.m4a)) — souvent associé ou utilisé de manière interchangeable avec **Najunde Chagi** ([낮은데 차기](../audio/termes/najunde-chagi.m4a)) — est le **coup de pied bas / coup de pied aux membres inférieurs** (*Low kick*).
 
 Sa décomposition linguistique est la suivante :
 
-* **Hache ([하체](../audio/termes/하체.m4a)) :** Bas du corps, membres inférieurs (du hanja 下體 : *Ha* = bas, *Che* = corps).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Hache ([하체](../audio/termes/hache.m4a)) :** Bas du corps, membres inférieurs (du hanja 下體 : *Ha* = bas, *Che* = corps).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Alors que les coups de pied spectaculaires au visage marquent les esprits, le *Hache Chagi* constitue la fondation de la self-défense pragmatique et de la destruction des appuis adverses. Il vise à neutraliser la mobilité de l'adversaire en ciblant la structure osseuse ou musculaire de ses jambes.
 
@@ -19,7 +19,7 @@ Selon l'angle de frappe et la variante choisie (latérale, avant ou circulaire) 
 
 * **Balkal (chant externe du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Utilisé pour percuter le genou ou la cuisse (*Najunde Yopcha Jirugi*).
 * **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Pour une pénétration directe au niveau de la cuisse ou de l'aine.
-* **Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** Utilisé pour écraser l'articulation du genou (*Nullo Chagi*) ou le dessus du pied.
+* **Dwitchuk (talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** Utilisé pour écraser l'articulation du genou (*Nullo Chagi*) ou le dessus du pied.
 * **Les cibles privilégiées :**
 * Le nerf sciatique / le quadriceps (effet de béquille).
 * L'articulation du genou (face interne, externe ou rotule pour casser l'appui).

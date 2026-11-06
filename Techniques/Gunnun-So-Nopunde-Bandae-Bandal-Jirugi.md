@@ -11,7 +11,7 @@ Sa décomposition linguistique est la suivante :
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Bandal ([반달](../audio/termes/반달.m4a)) :** Croissant / demi-lune (*Crescent* — trajectoire en arc).
+* **Bandal ([반달](../audio/termes/bandal.m4a)) :** Croissant / demi-lune (*Crescent* — trajectoire en arc).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing (*Punch*).
 
 ---

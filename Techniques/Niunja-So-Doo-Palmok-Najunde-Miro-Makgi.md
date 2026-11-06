@@ -1,18 +1,18 @@
 # Niunja So Doo Palmok Najunde Miro Makgi
 
-> 🔊 **Prononciation :** [ㄴ자 서 두 팔목 낮은데 미로 막기](../audio/Techniques/Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.m4a)
+> 🔊 **Prononciation :** [ㄴ자 서 두 팔목 낮은데 밀어 막기](../audio/Techniques/Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.m4a)
 
-Le **Niunja So Doo Palmok Najunde Miro Makgi** ([ㄴ자 서 두 팔목 낮은데 미로 막기](../audio/Techniques/Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.m4a)) est le **blocage poussé bas au double avant-bras en posture en L** (*L-stance double forearm low pushing block*) en TaeKwon-Do ITF.
+Le **Niunja So Doo Palmok Najunde Miro Makgi** ([ㄴ자 서 두 팔목 낮은데 밀어 막기](../audio/Techniques/Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.m4a)) est le **blocage poussé bas au double avant-bras en posture en L** (*L-stance double forearm low pushing block*) en TaeKwon-Do ITF.
 
 Cette technique défensive à contrôle continu utilise l'action combinée des deux avant-bras (**Doo Palmok**) dans un mouvement de poussée appuyée (**Miro**) dirigé vers le niveau bas (**Najunde**). Contrairement aux blocages de percussion secs, elle vise à dévier, contrôler ou accompagner une attaque basse (coup de pied direct *Ap Chagi* ou tentative de saisie) pour casser la progression adverse tout en conservant une posture stable en retrait (*Niunja Sogi*).
 
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Doo Palmok ([두 팔목](../audio/termes/두-팔목.m4a)) :** Double avant-bras (*Double forearm* — le bras principal bloque et le bras secondaire vient renforcer la structure).
+* **Doo Palmok ([두 팔목](../audio/termes/doo-palmok.m4a)) :** Double avant-bras (*Double forearm* — le bras principal bloque et le bras secondaire vient renforcer la structure).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre et des cuisses).
-* **Miro ([미로](../audio/termes/미로.m4a)) :** Poussé / En poussant (*Pushing* — mouvement fluide et continu sans choc brusque).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Miro ([밀어](../audio/termes/miro.m4a)) :** Poussé / En poussant (*Pushing* — mouvement fluide et continu sans choc brusque).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

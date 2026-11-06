@@ -9,8 +9,8 @@ Cette technique acrobatique et hautement spectaculaire permet d'asséner simulta
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant / Volant (*Flying / Jumping*).
-* **Sangbang ([쌍방](../audio/termes/쌍방.m4a)) :** Deux directions / Deux côtés (*Twin directional / Both ways* — issu de *Sang* = paire/double et *Bang* = direction/côté).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Sangbang ([쌍방](../audio/termes/sang-bang.m4a)) :** Deux directions / Deux côtés (*Twin directional / Both ways* — issu de *Sang* = paire/double et *Bang* = direction/côté).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

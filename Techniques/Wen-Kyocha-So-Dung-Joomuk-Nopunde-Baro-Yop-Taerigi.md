@@ -14,7 +14,7 @@ Sa décomposition linguistique est la suivante :
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / de la tempe / de la mâchoire).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — la frappe est exécutée par le membre situé du même côté que la jambe avant, donc la **main gauche**).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté à 90° (*Side*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup cinglant / Frappe fouettée (*Strike*).
 
 ---
 

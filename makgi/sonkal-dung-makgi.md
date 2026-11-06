@@ -7,7 +7,7 @@ Le **Sonkal Dung Makgi** ([손칼등 막기](../audio/makgi/sonkal-dung-makgi.m4
 Sa décomposition linguistique est la suivante :
 
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Son* = main, *Kal* = couteau, *Dung* = dos/revers).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 À l'opposé du *Sonkal* classique (tranchant externe, côté du petit doigt), le **Sonkal Dung** utilise le **tranchant interne de la main**, situé sur l'arête osseuse allant de la base de l'index jusqu'à la première articulation du pouce.
 

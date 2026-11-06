@@ -9,10 +9,10 @@ Cette technique d'attaque précise utilise l'extrémité des doigts tendus (**So
 Sa décomposition linguistique est la suivante :
 
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
-* **Opun ([엎은](../audio/termes/엎은.m4a)) :** Paume vers le bas / À plat (*Flat / Palm down*).
-* **Sonkut ([손끝](../audio/termes/손끝.m4a)) :** Bout / Extrémité des doigts (*Fingertip*).
+* **Opun ([엎은](../audio/termes/opun.m4a)) :** Paume vers le bas / À plat (*Flat / Palm down*).
+* **Sonkut ([손끝](../audio/termes/sonkut.m4a)) :** Bout / Extrémité des doigts (*Fingertip*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou du cou).
-* **Ghutgi ([긋기](../audio/termes/긋기.m4a)) :** Coup transversal / Écorchure / Trajectoire d'estoc horizontale (*Cross-cut / Scratching strike*).
+* **Ghutgi ([긋기](../audio/termes/ghutgi.m4a)) :** Coup transversal / Écorchure / Trajectoire d'estoc horizontale (*Cross-cut / Scratching strike*).
 
 ---
 

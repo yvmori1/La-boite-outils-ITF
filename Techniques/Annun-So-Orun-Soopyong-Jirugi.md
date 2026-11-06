@@ -8,9 +8,9 @@ Cette technique d'attaque directe propulse le poing droit (*Orun Joomuk*) sur un
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
-* **Soopyong ([수평](../audio/termes/수평.m4a)) :** Horizontal (*Horizontal*).
+* **Soopyong ([수평](../audio/termes/soopyong.m4a)) :** Horizontal (*Horizontal*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---

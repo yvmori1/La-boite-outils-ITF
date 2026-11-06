@@ -11,8 +11,8 @@ Sa décomposition linguistique est la suivante :
 * **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/au niveau du bas-ventre).
-* **Daebi ([대비](../audio/termes/대비.m4a)) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Daebi ([대비](../audio/termes/daebi.m4a)) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 

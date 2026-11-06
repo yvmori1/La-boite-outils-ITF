@@ -9,9 +9,9 @@ Cette technique d'attaque bilatérale et simultanée projette les deux poings à
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sang Joomuk ([쌍 주먹](../audio/termes/쌍-주먹.m4a)) :** Poings jumelés / Double poing (*Twin fists* — les deux poings frappent en même temps).
+* **Sang Joomuk ([쌍 주먹](../audio/termes/sang-joomuk.m4a)) :** Poings jumelés / Double poing (*Twin fists* — les deux poings frappent en même temps).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux / du visage).
-* **Sewo ([세워](../audio/termes/세워.m4a)) :** Vertical (*Vertical* — les poings restent dressés verticalement, paumes se faisant face).
+* **Sewo ([세워](../audio/termes/sewo.m4a)) :** Vertical (*Vertical* — les poings restent dressés verticalement, paumes se faisant face).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).
 
 ---

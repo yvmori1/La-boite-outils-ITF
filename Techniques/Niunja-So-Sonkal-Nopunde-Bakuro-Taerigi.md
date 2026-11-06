@@ -15,8 +15,8 @@ Elle se traduit par : **Frappe vers l'extérieur au tranchant de la main au nive
 | **Niunja So (Sogi)** | [ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a) | Position en L (*L-Stance*) | Posture stable (70 % du poids sur la jambe arrière, 30 % sur la jambe avant). |
 | **Sonkal** | [손칼](../audio/grammaire/Sonkal.m4a) | Tranchant de la main | Surface d'impact (le bord extérieur de la main ouverte, du petit doigt au poignet). |
 | **Nopunde** | [높은데](../audio/grammaire/Nopunde.m4a) | Niveau haut | Hauteur de la cible (au niveau du cou, de la tempe ou du visage). |
-| **Bakuro / Bakkaturo** | [밖으로](../audio/grammaire/Bakuro.m4a) / [바깥으로](../audio/termes/바깥으로.m4a) | Vers l'extérieur | Trajectoire de la frappe allant de l'intérieur vers l'extérieur du corps. |
-| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
+| **Bakuro / Bakkaturo** | [밖으로](../audio/grammaire/Bakuro.m4a) / [바깥으로](../audio/termes/bakuro.m4a) | Vers l'extérieur | Trajectoire de la frappe allant de l'intérieur vers l'extérieur du corps. |
+| **Taerigi** | [때리기](../audio/termes/taerigi.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
 
 ---
 

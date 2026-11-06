@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing fermé (*Backfist* — la surface dorsale des deux premières jointures de l'index et du majeur).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou de la tempe).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

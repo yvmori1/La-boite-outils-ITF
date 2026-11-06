@@ -7,7 +7,7 @@ Le **Twimyo Chagi** ([뛰며차기](../audio/chagi/twimyo-chagi.m4a)) désigne l
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** En sautant, en bondissant, en suspension (du verbe *twida*, sauter).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 En TaeKwon-Do ITF, les techniques aériennes ne sont pas de simples acrobaties : ce sont des frappes militaires hautement fonctionnelles conçues pour atteindre des cibles surélevées, franchir un obstacle (*Twio Nomo*), passer par-dessus une garde, ou générer une force d'impact démultipliée par l'énergie cinétique du saut.
 

@@ -12,8 +12,8 @@ Elle se traduit par : **Position de marche** (*Walking stance*).
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Gunnun** | [걷는](../audio/termes/걷는.m4a) | Qui marche | La position reproduit un pas de marche allongé. |
-| **Sogi** | [서기](../audio/termes/서기.m4a) | Position / posture | Posture générale du corps et ancrage des jambes. |
+| **Gunnun** | [걷는](../audio/termes/gunnun.m4a) | Qui marche | La position reproduit un pas de marche allongé. |
+| **Sogi** | [서기](../audio/termes/sogi.m4a) | Position / posture | Posture générale du corps et ancrage des jambes. |
 
 ---
 

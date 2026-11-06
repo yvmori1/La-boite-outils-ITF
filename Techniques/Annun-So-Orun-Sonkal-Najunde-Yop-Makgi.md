@@ -8,12 +8,12 @@ Cette technique défensive rapide et tranchante utilise le bord extérieur de la
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — du côté du petit doigt, du poignet jusqu'à la première articulation de l'auriculaire).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (hauteur du bas-ventre, des cuisses ou de la ceinture).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Vers le côté (*Side*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

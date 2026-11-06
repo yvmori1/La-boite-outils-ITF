@@ -9,9 +9,9 @@ Le dessous du poing (**Mit Joomuk**, la face du petit doigt) frappe vers l'avant
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Mit Joomuk ([밑주먹](../audio/termes/밑주먹.m4a)) :** Dessous du poing (*Under fist*).
+* **Mit Joomuk ([밑주먹](../audio/termes/mit-joomuk.m4a)) :** Dessous du poing (*Under fist*).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / frontal (*Front*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe (*Strike*).
 
 ---
 

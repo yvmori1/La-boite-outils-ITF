@@ -9,10 +9,10 @@ Cette technique d'attaque bilatérale et très spécialisée projette simultané
 Sa décomposition linguistique est la suivante :
 
 * **Moa So / Moa Sogi ([모아 서기](../audio/Techniques/Moa-Sogi.m4a)) :** Posture pieds joints (*Close stance* — pieds totalement collés, poids réparti à 50/50).
-* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumelé (*Twin* — les deux poings agissent simultanément).
-* **Inji Joomuk ([인지 주먹](../audio/termes/인지-주먹.m4a)) :** Poing avec l'index saillant (*Forefinger knuckle fist* — la deuxième articulation de l'index est pliée et ressort du poing fermé, soutenue par le pouce).
+* **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Jumelé (*Twin* — les deux poings agissent simultanément).
+* **Inji Joomuk ([인지 주먹](../audio/termes/inji-joomuk.m4a)) :** Poing avec l'index saillant (*Forefinger knuckle fist* — la deuxième articulation de l'index est pliée et ressort du poing fermé, soutenue par le pouce).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la tempe ou des yeux).
-* **Bandal ([반달](../audio/termes/반달.m4a)) :** Croissant / Demi-lune (*Crescent* — trajectoire en arc de cercle).
+* **Bandal ([반달](../audio/termes/bandal.m4a)) :** Croissant / Demi-lune (*Crescent* — trajectoire en arc de cercle).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / perçant (*Punch*).
 
 ---

@@ -37,7 +37,7 @@ L'efficacité du transfert d'énergie cinétique à l'impact et la sécurité ar
 ## Membres inférieurs : pieds, chevilles, genoux
 
 * **Apkumchi ([앞꿈치](../../../audio/grammaire/Apkumchi.m4a)) — Bol du pied :** Coussinet charnu situé sous la base des orteils. Exige une flexion dorsale maximale de la cheville et des orteils pour éviter les fractures. Utilisé pour les coups fouettés de face (*Ap Cha Busigi*).
-* **Dwitchuk ([뒤축](../../../audio/termes/뒤축.m4a)) — Base / Dessous du talon :** Partie inférieure et plate de l'os du talon. Utilisé pour les poussées ou coups de côté en puissance (*Yop Cha Jirugi*).
+* **Dwitchuk ([뒤축](../../../audio/termes/dwitchuk.m4a)) — Base / Dessous du talon :** Partie inférieure et plate de l'os du talon. Utilisé pour les poussées ou coups de côté en puissance (*Yop Cha Jirugi*).
 * **Dwikumchi ([뒤꿈치](../../../audio/grammaire/Dwikumchi.m4a)) — Arrière du talon :** Face postérieure verticale du talon. Utilisé pour les coups directs vers l'arrière (*Dwit Chagi*).
 * **Balkal ([발칼](../../../audio/grammaire/Balkal.m4a)) — Tranchant externe du pied :** Bord extérieur du pied s'étendant du petit orteil jusqu'au talon, cheville verrouillée à 90°. C'est l'arme de destruction absolue pour le coup de pied latéral perçant (*Yop Cha Jirugi*).
 * **Balkal Anchae ([발칼안채](../../../audio/grammaire/Balkal-Anchae.m4a)) — Tranchant interne du pied :** Bord intérieur de la voûte plantaire, utilisé pour crocheter ou faucher (*Suroh Chagi*).

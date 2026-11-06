@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / frontal (*Front*).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant (*Downward*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe (*Strike*).
 
 ---
 

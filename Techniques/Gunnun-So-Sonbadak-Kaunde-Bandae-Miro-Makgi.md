@@ -12,8 +12,8 @@ Sa décomposition linguistique est la suivante :
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
-* **Miro ([밀어](../audio/termes/밀어.m4a)) :** Poussé (*Pushing* — pression continue, sans choc).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Miro ([밀어](../audio/termes/miro.m4a)) :** Poussé (*Pushing* — pression continue, sans choc).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

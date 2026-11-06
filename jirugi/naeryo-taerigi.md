@@ -9,7 +9,7 @@ Contrairement au *Naeryo Jirugi* (coup de poing piston descendant) ou au *Naeryo
 Sa décomposition linguistique est la suivante :
 
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / De haut en bas (*Downward*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 > 💡 **La nuance fondamentale du terme *Taerigi* :**
 > Contrairement à un coup de poing direct (*Jirugi*) qui avance en piston rectiligne, ou à une pique/poussée (*Tulgi*), le terme **Taerigi** implique un **mouvement en arc ou un effet de fouet** basé sur la détente réactive du coude et du poignet, démultiplié par la gravité.

@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing (*Backfist*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des tempes, des yeux ou du nez).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 ---
 
@@ -37,7 +37,7 @@ La frappe tire son ancrage et son transfert de masse de la posture de marche :
 * L'impact se concentre précisément sur la surface osseuse du **dos des deux grosses jointures** (index et majeur).
 
 * **Zone ciblée :**
-    * La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G[턱](../audio/termes/턱.m4a)*) ou l'**arête du nez** (*Injoung*) d'un adversaire situé sur le côté.
+    * La **tempe** (*Gwanja Noryeok*), la **mâchoire** (*G[턱](../audio/termes/teok.m4a)*) ou l'**arête du nez** (*Injoung*) d'un adversaire situé sur le côté.
 
 * **Hauteur d'arrêt :**
     * Le poing se fixe à la **hauteur des yeux / des tempes** (*Nopunde*).

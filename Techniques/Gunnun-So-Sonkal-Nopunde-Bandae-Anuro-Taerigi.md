@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur (*Inward*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe (*Strike*).
 
 ---
 

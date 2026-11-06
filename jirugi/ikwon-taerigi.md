@@ -6,8 +6,8 @@ Le **Ikwon Taerigi** ([이권 때리기](../audio/jirugi/ikwon-taerigi.m4a) — 
 
 Sa décomposition linguistique est la suivante :
 
-* **Ikwon ([이권](../audio/termes/이권.m4a) / 裏拳) :** Revers du poing (*I / Ri* = revers/intérieur, *Kwon* = poing).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
+* **Ikwon ([이권](../audio/termes/igwon.m4a) / 裏拳) :** Revers du poing (*I / Ri* = revers/intérieur, *Kwon* = poing).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Frappe / Percussion cinglante en fouet (*Strike*).
 
 > 💡 **Précision de terminologie ITF :**
 > Dans la nomenclature moderne du TaeKwon-Do ITF, cette technique est principalement appelée **Dung Joomuk Taerigi** ([등주먹 때리기](../audio/jirugi/dung-joomuk-taerigi.m4a)), le Général Choi Hong Hi ayant privilégié le terme pur coréen *Dung Joomuk* (dos du poing) par rapport au terme d'origine sinico-coréenne *Ikwon* (qui correspond au *Uraken* en arts martiaux japonais). Les deux termes désignent la même arme et la même frappe.

@@ -9,7 +9,7 @@ Variante du coup de pied latéral perçant qui ne compte que sur le poids du cor
 Sa décomposition linguistique est la suivante :
 
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
-* **Yopcha Milgi ([옆차 밀기](../audio/termes/옆차-밀기.m4a)) :** Coup de pied latéral poussant (*Side pushing kick*).
+* **Yopcha Milgi ([옆차 밀기](../audio/termes/yopcha-milgi.m4a)) :** Coup de pied latéral poussant (*Side pushing kick*).
 
 ---
 

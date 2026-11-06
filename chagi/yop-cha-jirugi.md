@@ -9,7 +9,7 @@ C'est probablement la technique la plus emblématique, la plus travaillée et la
 Sa décomposition linguistique est la suivante :
 
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral.
-* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied / Frappe de jambe.
+* **Cha ([차](../audio/termes/cha.m4a)) :** Coup de pied / Frappe de jambe.
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Poussée rectiligne directe (comme un coup de poing direct).
 
 ---

@@ -8,9 +8,9 @@ Cette posture offre une capacité d'esquive exceptionnelle par retrait de la mas
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwit ([뒷](../audio/termes/뒷.m4a)) :** Arrière (*Rear / Back*).
-* **Bal ([발](../audio/termes/발.m4a)) :** Pied (*Foot*).
-* **Sogi ([서기](../audio/termes/서기.m4a)) :** Posture / Position debout (*Stance*).
+* **Dwit ([뒷](../audio/termes/dwit.m4a)) :** Arrière (*Rear / Back*).
+* **Bal ([발](../audio/termes/bal.m4a)) :** Pied (*Foot*).
+* **Sogi ([서기](../audio/termes/sogi.m4a)) :** Posture / Position debout (*Stance*).
 
 ---
 

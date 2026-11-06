@@ -1,8 +1,8 @@
 # Moa So Wen Yop Joomuk Naeryo Taerigi
 
-> 🔊 **Prononciation :** [모아서 왼 옆주먹 내려 때리기](../audio/Techniques/Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.m4a)
+> 🔊 **Prononciation :** [모아 서 왼 옆주먹 내려 때리기](../audio/Techniques/Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.m4a)
 
-Le **Moa So Wen Yop Joomuk Naeryo Taerigi** ([모아서 왼 옆주먹 내려 때리기](../audio/Techniques/Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.m4a)) est le **coup percutant descendant avec le marteau du poing gauche en posture pieds joints** (*Closed stance left side fist downward strike*) en TaeKwon-Do ITF.
+Le **Moa So Wen Yop Joomuk Naeryo Taerigi** ([모아 서 왼 옆주먹 내려 때리기](../audio/Techniques/Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.m4a)) est le **coup percutant descendant avec le marteau du poing gauche en posture pieds joints** (*Closed stance left side fist downward strike*) en TaeKwon-Do ITF.
 
 Cette technique d'attaque puissante et descendante utilise la partie charnue du bas du poing gauche fermement fermé (**Yop Joomuk** ou *Side fist / Hammer fist*) pour s'abattre du haut vers le bas (**Naeryo**) sur une cible située au niveau moyen ou bas (comme la clavicule, le nez, la tête ou le bras de l'adversaire), le tout ancré dans la stabilité centrale de la posture pieds joints (**Moa Sogi**).
 
@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Poing gauche (*Left*).
 * **Yop Joomuk ([옆주먹](../audio/grammaire/Yop-Joomuk.m4a)) :** Marteau du poing / Côté du poing (*Side fist* — la tranche du poing fermé, du côté du petit doigt).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Fouetté (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup percutant / Fouetté (*Strike*).
 
 ---
 

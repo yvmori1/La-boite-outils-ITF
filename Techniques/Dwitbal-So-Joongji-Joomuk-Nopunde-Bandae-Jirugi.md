@@ -8,8 +8,8 @@ Cette technique d'attaque ultra-précise et chirurgicale utilise la saillie osse
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Joongji Joomuk ([중지 주먹](../audio/termes/중지-주먹.m4a)) :** Poing avec la jointure du majeur (*Middle knuckle fist*).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/dwitbal-so.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Joongji Joomuk ([중지 주먹](../audio/termes/joongji-joomuk.m4a)) :** Poing avec la jointure du majeur (*Middle knuckle fist*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage / des points vitaux de la tête).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inverse / Opposé (*Reverse* — le poing qui frappe est opposé à la jambe située à l'avant).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston (*Punch*).

@@ -8,11 +8,11 @@ Cette technique défensive lourde utilise la paume des deux mains (*Sang Sonbada
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
-* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumeau (*Twin / Pair* — les deux mains exécutent la même action simultanée en parallèle).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/dwitbal-so.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Jumeau (*Twin / Pair* — les deux mains exécutent la même action simultanée en parallèle).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand*).
 * **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Pressant / Écrasant / En appuyant (*Pressing*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

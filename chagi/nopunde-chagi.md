@@ -7,7 +7,7 @@ Le **Nopunde Chagi** ([높은데 차기](../audio/chagi/nopunde-chagi.m4a) — p
 Sa décomposition linguistique est la suivante :
 
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut, section haute (au-dessus de la ligne des épaules : cou, menton, visage, tempes, sommet du crâne).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 En TaeKwon-Do ITF, **Nopunde** n'est pas une mécanique de frappe spécifique (comme le *Dollyo Chagi* ou le *Yop Chagi*), mais un **indicateur de hauteur de cible**.
 

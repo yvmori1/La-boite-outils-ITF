@@ -12,9 +12,9 @@ Sa décomposition linguistique est la suivante :
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur, côté auriculaire).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle section* — hauteur des épaules).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct (*Obverse* — la main qui agit est celle du côté de la jambe **avant**).
-* **Bakuro ([바깥으로](../audio/termes/바깥으로.m4a)) :** Vers l'extérieur (*Outward*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
-* **Wa ([와](../audio/termes/와.m4a)) :** Et (*And* — les deux techniques sont exécutées en même temps).
+* **Bakuro ([바깥으로](../audio/termes/bakuro.m4a)) :** Vers l'extérieur (*Outward*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
+* **Wa ([와](../audio/termes/wa.m4a)) :** Et (*And* — les deux techniques sont exécutées en même temps).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — l'avant-bras extérieur, par défaut).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low section* — hauteur du nombril et en dessous).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — la main qui agit est celle du côté de la jambe **arrière**).

@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage / de la tête).
-* **Yopcha / Yop Chagi ([옆차](../audio/termes/옆차.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
+* **Yopcha / Yop Chagi ([옆차](../audio/termes/yopcha.m4a) / [옆차기](../audio/chagi/yop-chagi.m4a)) :** Coup de pied latéral (*Side kick*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Perçant / Pique en piston (*Piercing / Thrust*).
 
 ---

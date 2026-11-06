@@ -14,10 +14,10 @@ Elle se traduit par : **Frappe descendante directe du revers du poing en positio
 | --- | --- | --- | --- |
 | **Orun** | [오른](../audio/grammaire/Orun.m4a) | Droit / Droite | Indique la position croisée droite (le pied droit est croisé devant le pied gauche). |
 | **Kyocha So (Sogi)** | [교차 서기](../audio/Techniques/Kyocha-Sogi.m4a) | Position croisée (*X-Stance*) | Posture compacte où les jambes se croisent, genoux fléchis et serrés. |
-| **Dung Joomuk** | [등 주먹](../audio/termes/등-주먹.m4a) | Revers du poing | Surface d'impact (la partie dorsale du poing, sur la zone des deux premières phalanges). |
+| **Dung Joomuk** | [등 주먹](../audio/termes/dung-joomuk.m4a) | Revers du poing | Surface d'impact (la partie dorsale du poing, sur la zone des deux premières phalanges). |
 | **Baro** | [바로](../audio/grammaire/Baro.m4a) | Direct / Homologue | Signifie que la frappe est exécutée avec la **main du même côté que le pied avant** (ici, la **main droite**). |
 | **Naeryo** | [내려](../audio/grammaire/Naeryo.m4a) | Descendant | Mouvement exécuté de haut en bas (verticalement). |
-| **Taerigi** | [때리기](../audio/termes/때리기.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
+| **Taerigi** | [때리기](../audio/termes/taerigi.m4a) | Frappe / Coup | Mouvement fustigeant/fouetté basé sur la détente rapide de l'articulation du coude. |
 
 ---
 

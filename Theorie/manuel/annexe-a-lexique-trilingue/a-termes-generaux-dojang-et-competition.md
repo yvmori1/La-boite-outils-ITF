@@ -54,7 +54,7 @@
 | Blocage parfait                           | perfect block                       | -                   | -                                                       |
 | Persévérance                              | perseverance                        | In Nae              | [인내](../../../audio/lexique/In-Nae.m4a)                     |
 | Épreuve de puissance                      | power test                          | -                   | -                                                       |
-| Combat organisé                           | pre-arranged sparring               | Yaksok Matsogi      | [약속 맞서기](../../../audio/grammaire/약속-맞서기.m4a)                                            |
+| Combat organisé                           | pre-arranged sparring               | Yaksok Matsogi      | [약속 맞서기](../../../audio/grammaire/yaksok-matseogi.m4a)                                            |
 | Flexion des bras (au sol)                 | push up                             | -                   | -                                                       |
 | Prêt!                                     | ready!                              | -                   | -                                                       |
 | Marqueur des points                       | recorder                            | -                   | -                                                       |

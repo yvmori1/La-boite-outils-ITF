@@ -7,7 +7,7 @@ Le **Bandae Makgi** ([반대 막기](../audio/makgi/bandae-makgi.m4a)) est le **
 Sa décomposition linguistique est la suivante :
 
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé / Opposé / Côté opposé (indique que la technique est exécutée avec le bras **opposé à la jambe avancée**).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 En TaeKwon-Do ITF, la notion de **Bandae** est le pendant direct du concept de **Baro** (direct) :
 

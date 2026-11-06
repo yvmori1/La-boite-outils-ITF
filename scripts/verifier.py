@@ -47,6 +47,11 @@ GRAPHIES = [
     ("추켜", ["추교"]), ("그 자리 돌기", ["구자리돌기"]), ("구자", ["굿자"]),
     ("앞차기", ["압차기"]), ("걷는", ["건눈"]), ("뚫기", ["툴기"]),
     ("뛰며", ["뛰묘"]), ("쓸어차기", ["수로차기"]),
+    # le hangul doit dire le terme romanisé : Tulgi, Narani, Busigi, Miro…
+    ("뚫기", ["찌르기", "차틀기"]), ("나란히 서", ["평행 서"]),
+    ("부시기", ["부수기"]), ("밀어", ["미뤄"]), ("들어", ["들러"]),
+    ("팔굽", ["팔꿈"]), ("낮추어 서", ["낮추 서", "낮춰 서"]), ("뒤차", ["뒷차"]),
+    ("멈춰", ["멈춤막기"]), ("기역자", ["기억자"]),
 ]
 # le glossaire cite à dessein les graphies fautives qu'il a corrigées
 # (tout le dossier du glossaire, découpé en une page par thème)

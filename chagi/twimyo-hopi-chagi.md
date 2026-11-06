@@ -7,8 +7,8 @@ Le **Twimyo Hopi Chagi** ([뛰며 호피차기](../audio/chagi/twimyo-hopi-chagi
 Sa décomposition linguistique est la suivante :
 
 * **Twimyo ([뛰며](../audio/grammaire/Twimyo.m4a)) :** Sauté / En suspension (du verbe *twida*, sauter).
-* **Hopi ([호피](../audio/termes/호피.m4a)) :** Bondissant, en foulée bondissante (faisant référence à un bond dynamique ou à un transfert d'impulsion rapide d'une jambe sur l'autre en l'air).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Hopi ([호피](../audio/termes/hopi.m4a)) :** Bondissant, en foulée bondissante (faisant référence à un bond dynamique ou à un transfert d'impulsion rapide d'une jambe sur l'autre en l'air).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Cette technique repose sur un **bond propulsif initié par une jambe d'appel qui sert de feinte ou de tremplin**, suivi d'un ciseau aérien rapide (*switch*) pour porter la frappe avec la seconde jambe.
 
@@ -20,7 +20,7 @@ Selon la technique de frappe combinée au bond (souvent un *Ap Chagi*, un *Yop C
 
 * **Apkumchi (bol du pied - [앞꿈치](../audio/grammaire/Apkumchi.m4a)) :** Pour une frappe avant bondissante.
 * **Balkal (chant du pied - [발칼](../audio/grammaire/Balkal.m4a)) :** Pour un coup latéral bondissant.
-* **Dwitchuk (talon - [뒤축](../audio/termes/뒤축.m4a)) :** Pour une frappe perçante ou un coup arrière/inversé bondissant.
+* **Dwitchuk (talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** Pour une frappe perçante ou un coup arrière/inversé bondissant.
 
 ---
 

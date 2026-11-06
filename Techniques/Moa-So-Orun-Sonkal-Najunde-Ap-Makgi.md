@@ -1,8 +1,8 @@
 # Moa So Orun Sonkal Najunde Ap Makgi
 
-> 🔊 **Prononciation :** [모아서 오른 손칼 낮은데 앞 막기](../audio/Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.m4a)
+> 🔊 **Prononciation :** [모아 서 오른 손칼 낮은데 앞 막기](../audio/Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.m4a)
 
-Le **Moa So Orun Sonkal Najunde Ap Makgi** ([모아서 오른 손칼 낮은데 앞 막기](../audio/Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.m4a)) est le **blocage bas avant au tranchant de la main droite en posture pieds joints** (*Closed stance right knife-hand low front block*) en TaeKwon-Do ITF.
+Le **Moa So Orun Sonkal Najunde Ap Makgi** ([모아 서 오른 손칼 낮은데 앞 막기](../audio/Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.m4a)) est le **blocage bas avant au tranchant de la main droite en posture pieds joints** (*Closed stance right knife-hand low front block*) en TaeKwon-Do ITF.
 
 Cette technique défensive rapide et précise utilise le tranchant extérieur de la main droite (**Sonkal**) pour dévier ou intercepter une frappe basse arrivant de face (**Najunde Ap Makgi** — comme un coup de pied direct *Ap Chagi* ou une attaque au bas-ventre), tout en maintenant le verrouillage central et l'alignement de la posture pieds joints (**Moa Sogi**).
 
@@ -13,7 +13,7 @@ Sa décomposition linguistique est la suivante :
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — zone osseuse allant de la base du petit doigt jusqu'au poignet, quatre doigts serrés et pouce fléchi).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Arme naturelle** | **Orun Sonkal** (Le tranchant de la main droite ouverte. Les 4 doigts sont fermement tendus et collés, le pouce fléchi à la première articulation et plaqué contre la paume). |
 | **Trajectoire (*Ap Makgi*)** | **Descendante en arc de cercle le long du buste** pour se verrouiller au niveau bas (*Najunde*), la main droite s'arrêtant au-dessus du bas-ventre/cuisses. |
 | **Main de réaction (*Bandae Son*)** | Le poing gauche (main opposée) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
-| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/jeongmyeon.m4a) - Jungmyeon*). |
 
 ---
 

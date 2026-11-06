@@ -42,7 +42,9 @@ def termes():
                 continue
             if not re.fullmatch(r"[A-Za-z][A-Za-z' -]*", terme):
                 continue
-            texte = traduction.replace("*", "").replace("[", "").replace("]", "")
+            # un lien (audio ou autre) ne garde que son texte au survol
+            texte = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", traduction)
+            texte = texte.replace("*", "").replace("[", "").replace("]", "")
             if hangul:
                 texte += f" ({hangul})"
             for variante in {terme, terme.lower(), terme.capitalize()}:

@@ -6,9 +6,9 @@ Le **Bandalson Makgi** ([반달손 막기](../audio/makgi/bandalson-makgi.m4a)) 
 
 Sa décomposition linguistique est la suivante :
 
-* **Bandal ([반달](../audio/termes/반달.m4a)) :** Demi-lune / Croissant / Arc.
+* **Bandal ([반달](../audio/termes/bandal.m4a)) :** Demi-lune / Croissant / Arc.
 * **Son ([손](../audio/grammaire/Son.m4a)) :** Main.
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Défense.
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Défense.
 
 ---
 

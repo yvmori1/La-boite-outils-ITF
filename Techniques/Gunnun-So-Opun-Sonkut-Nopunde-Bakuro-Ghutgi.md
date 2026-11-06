@@ -12,7 +12,7 @@ Sa décomposition linguistique est la suivante :
 * **Opun Sonkut ([엎은손끝](../audio/grammaire/Opun-Sonkut.m4a)) :** Bout des doigts à plat, paume vers le sol (*Flat fingertip*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High section* — hauteur des yeux).
 * **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (*Outward*).
-* **Ghutgi ([긋기](../audio/termes/긋기.m4a)) :** Cisaillage / entaille (*Cross-cut*).
+* **Ghutgi ([긋기](../audio/termes/ghutgi.m4a)) :** Cisaillage / entaille (*Cross-cut*).
 
 ---
 

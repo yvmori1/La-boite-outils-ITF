@@ -7,8 +7,8 @@ Le **Dollyo Goro Chagi** ([돌려 걸어 차기](../audio/chagi/dollyo-goro-chag
 Sa décomposition linguistique est la suivante :
 
 * **Dollyo ([돌려](../audio/grammaire/Dollyo.m4a)) :** Tournant / Circulaire.
-* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, [걸다](../audio/termes/걸다.m4a)).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Goro ([걸어](../audio/grammaire/Goro.m4a)) :** Crocheté / Accrocher (du verbe *geolda*, [걸다](../audio/termes/geolda.m4a)).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Cette technique consiste à faire passer la jambe au-delà de la ligne de vision de l'adversaire avant de **crocheter brutalement le genou vers l'intérieur** dans un mouvement de fouet pour impacter le visage, la tempe ou le menton avec le talon.
 
@@ -16,7 +16,7 @@ Cette technique consiste à faire passer la jambe au-delà de la ligne de vision
 
 ## 1. La surface d'impact (*Jook Bang*)
 
-* **Dwitchuk (dessous / arrière du talon - [뒤축](../audio/termes/뒤축.m4a)) :** C'est l'arme privilégiée. Le talon percute la cible avec toute la force de rétraction de la jambe.
+* **Dwitchuk (dessous / arrière du talon - [뒤축](../audio/termes/dwitchuk.m4a)) :** C'est l'arme privilégiée. Le talon percute la cible avec toute la force de rétraction de la jambe.
 * **Balbadak (plante du pied - [발바닥](../audio/grammaire/Balbadak.m4a)) :** Utilisée parfois en compétition pour effectuer une frappe plus large et contrôlée au casque.
 * **Position de la cheville :** La cheville est fermement verrouillée en flexion, les orteils tirés vers soi pour dégager la masse osseuse du talon.
 

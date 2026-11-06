@@ -7,8 +7,8 @@ Le **Twio Nomo Chagi** ([뛰어 넘어 차기](../audio/chagi/twio-nomo-chagi.m4
 Sa décomposition linguistique est la suivante :
 
 * **Twio ([뛰어](../audio/grammaire/Twio.m4a)) :** En sautant / Volant (du verbe *twida*, sauter).
-* **Nomo / Normo ([넘어](../audio/termes/넘어.m4a)) :** Par-dessus / Franchir (du verbe *neomda*, [넘다](../audio/termes/넘다.m4a) = franchir, passer par-dessus un obstacle).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied.
+* **Nomo / Normo ([넘어](../audio/termes/neomeo.m4a)) :** Par-dessus / Franchir (du verbe *neomda*, [넘다](../audio/termes/neomda.m4a) = franchir, passer par-dessus un obstacle).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied.
 
 Cette technique combine une course d'élan, une trajectoire en parabole (hauteur et longueur) pour franchir un ou plusieurs obstacles (personnes, haie, bouclier), et la délivrance d'un coup de pied percutant au sommet du saut.
 

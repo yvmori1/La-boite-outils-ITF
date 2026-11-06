@@ -9,8 +9,8 @@ Cette technique d'attaque spectaculaire et tranchante projette la jambe vertical
 Sa décomposition linguistique est la suivante :
 
 * **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (mouvement mené du centre vers l'extérieur).
-* **Sewo / Seweo ([세워](../audio/termes/세워.m4a)) :** Vertical / Dressé (du verbe *Seowoda* [[세우다](../audio/termes/세우다.m4a)], dresser / maintenir droit).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Sewo / Seweo ([세워](../audio/termes/sewo.m4a)) :** Vertical / Dressé (du verbe *Seowoda* [[세우다](../audio/termes/seuda.m4a)], dresser / maintenir droit).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 ---
 

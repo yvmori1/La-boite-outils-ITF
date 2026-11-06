@@ -9,10 +9,10 @@ Cette technique d'attaque percutante du haut vers le bas exploite l'effet de pes
 Sa décomposition linguistique est la suivante :
 
 * **Soojik So / Soojik Sogi ([수직 서기](../audio/grammaire/Soojik-Sogi.m4a)) :** Posture verticale (*Vertical stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, jambes quasi tendues, distance d'une largeur d'épaules en longueur).
-* **Yop Joomuk ([옆 주먹](../audio/termes/옆-주먹.m4a)) :** Poing latéral / Côté du poing (*Side fist* — la tranche extérieure du poing fermement serré, côté auriculaire/marteau).
+* **Yop Joomuk ([옆 주먹](../audio/termes/yop-joomuk.m4a)) :** Poing latéral / Côté du poing (*Side fist* — la tranche extérieure du poing fermement serré, côté auriculaire/marteau).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — frappe exécutée par le bras **opposé à la jambe arrière** / du même côté que la jambe avant).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup percutant / Cinglant (*Strike*).
 
 ---
 

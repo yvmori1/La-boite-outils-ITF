@@ -9,9 +9,9 @@ Les poings croisés descendent pour « faire tomber » le poing, le pied ou l'ar
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — poids réparti 50/50, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Kyocha Joomuk ([교차주먹](../audio/termes/교차주먹.m4a)) :** Poings croisés (*X-fist* — les deux poings croisés aux poignets).
+* **Kyocha Joomuk ([교차주먹](../audio/termes/kyocha-joomuk.m4a)) :** Poings croisés (*X-fist* — les deux poings croisés aux poignets).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant (*Downward*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

@@ -8,9 +8,9 @@ Cette posture combine la stabilité dynamique et la polyvalence de la position d
 
 Sa décomposition linguistique est la suivante :
 
-* **Gunnun ([걷는](../audio/termes/걷는.m4a)) :** En marche / De marche (*Walking*).
-* **Junbi ([준비](../audio/termes/준비.m4a)) :** Préparation / Prêt (*Ready*).
-* **Sogi ([서기](../audio/termes/서기.m4a)) :** Posture / Position debout (*Stance*).
+* **Gunnun ([걷는](../audio/termes/gunnun.m4a)) :** En marche / De marche (*Walking*).
+* **Junbi ([준비](../audio/termes/junbi.m4a)) :** Préparation / Prêt (*Ready*).
+* **Sogi ([서기](../audio/termes/sogi.m4a)) :** Posture / Position debout (*Stance*).
 
 ---
 

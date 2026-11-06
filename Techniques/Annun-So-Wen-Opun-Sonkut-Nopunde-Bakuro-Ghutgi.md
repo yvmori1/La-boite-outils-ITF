@@ -8,12 +8,12 @@ Cette technique d'attaque chirurgicale et vicieuse utilise le bout des doigts de
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Position assise, dite du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Position assise, dite du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
-* **Opun Sonkut ([엎은 손끝](../audio/termes/엎은-손끝.m4a)) :** Bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
+* **Opun Sonkut ([엎은 손끝](../audio/termes/opun-sonkut.m4a)) :** Bout des doigts à plat (*Flat fingertip* — la paume est orientée à l'horizontale face au sol).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur des yeux / du visage).
 * **Bakuro ([밖으로](../audio/grammaire/Bakuro.m4a)) :** Vers l'extérieur (mouvement mené de l'intérieur vers l'extérieur).
-* **Ghutgi / Gutgi ([긋기](../audio/termes/긋기.m4a)) :** Cisaillage / coupure / tranchant (*Cutting / Slashing / Scraping* — action d'entailler ou fendre avec le bout des doigts).
+* **Ghutgi / Gutgi ([긋기](../audio/termes/ghutgi.m4a)) :** Cisaillage / coupure / tranchant (*Cutting / Slashing / Scraping* — action d'entailler ou fendre avec le bout des doigts).
 
 ---
 

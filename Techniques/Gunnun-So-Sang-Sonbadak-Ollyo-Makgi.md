@@ -9,10 +9,10 @@ Cette technique défensive à deux mains est exécutée au **mouvement 28 du pat
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules de long, 1 largeur d'épaules de large).
-* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Paire / Simultané (*Twin / Pair*).
+* **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Paire / Simultané (*Twin / Pair*).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm of the hand* — la partie charnue à la base de la main).
 * **Ollyo ([올려](../audio/grammaire/Ollyo.m4a)) :** Ascendant / Montant (*Upward / Rising*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage / Parade (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
 
 ---
 
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 | **Trajectoire (*Ollyo*)** | **Ascendante de bas en haut** : les mains montent ensemble depuis le bas du bassin jusqu'au niveau du thorax/visage. |
 | **Position des mains à l'impact** | Les paumes sont orientées vers le haut et l'extérieur/l'avant, formant un berceau défendant la ligne centrale. |
 | **Zone ciblée / Hauteur** | Généralement le **niveau moyen (*Kaunde*)** ou **haut (*Nopunde*)**. |
-| **Orientation du buste** | De face (*[정면](../audio/termes/정면.m4a) - Jungmyeon*). |
+| **Orientation du buste** | De face (*[정면](../audio/termes/jeongmyeon.m4a) - Jungmyeon*). |
 
 ---
 

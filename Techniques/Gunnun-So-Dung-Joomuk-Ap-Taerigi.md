@@ -9,9 +9,9 @@ Cette technique d'attaque rapide et fouettée utilise la surface du dos / revers
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Dung Joomuk ([등 주먹](../audio/termes/등-주먹.m4a)) :** Revers du poing / Dos du poing (*Backfist*).
+* **Dung Joomuk ([등 주먹](../audio/termes/dung-joomuk.m4a)) :** Revers du poing / Dos du poing (*Backfist*).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Frontal / Vers l'avant (*Front*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

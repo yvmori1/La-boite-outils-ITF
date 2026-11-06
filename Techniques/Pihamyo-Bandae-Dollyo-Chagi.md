@@ -12,10 +12,10 @@ Elle se traduit par : **Coup de pied retourné circulaire en esquivant**.
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Pihamyo** | [피하며](../audio/termes/피하며.m4a) | En esquivant / évitant | Action de décaler ou pencher le corps pour esquiver l'attaque adverse tout en lançant la frappe. |
+| **Pihamyo** | [피하며](../audio/termes/pihamyo.m4a) | En esquivant / évitant | Action de décaler ou pencher le corps pour esquiver l'attaque adverse tout en lançant la frappe. |
 | **Bandae** | [반대](../audio/grammaire/Bandae.m4a) | Inverse / Retourné | Indique la rotation inversée du corps (rotation par le dos). |
 | **Dollyo** | [돌려](../audio/grammaire/Dollyo.m4a) | Circulaire / Tournant | Trajectoire en arc de cercle de la jambe de frappe. |
-| **Chagi** | [차기](../audio/termes/차기.m4a) | Coup de pied | Technique d'attaque exécutée avec la jambe. |
+| **Chagi** | [차기](../audio/termes/chagi.m4a) | Coup de pied | Technique d'attaque exécutée avec la jambe. |
 
 ---
 

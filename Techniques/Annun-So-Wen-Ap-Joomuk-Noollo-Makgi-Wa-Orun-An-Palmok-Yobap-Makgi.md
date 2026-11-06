@@ -11,15 +11,15 @@ Cette forme combinée exécute en même temps deux blocages complémentaires dep
 
 Sa décomposition linguistique est la suivante :
 
-* **Annun So / Annun Sogi ([앉은 서](../audio/termes/앉은-서.m4a)) :** Posture du cavalier (*Sitting stance*).
+* **Annun So / Annun Sogi ([앉은 서](../audio/termes/annun-so.m4a)) :** Posture du cavalier (*Sitting stance*).
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche / Côté gauche (*Left*).
 * **Ap Joomuk ([앞주먹](../audio/grammaire/Ap-Joomuk.m4a)) :** Devant du poing (*Forefist*).
 * **Noollo ([눌러](../audio/grammaire/Nullo.m4a)) :** En pression vers le bas (*Pressing*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
-* **Wa ([와](../audio/termes/와.m4a)) :** Et / Combiné avec (*And*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
+* **Wa ([와](../audio/termes/wa.m4a)) :** Et / Combiné avec (*And*).
 * **Orun ([오른](../audio/grammaire/Orun.m4a)) :** Droit / Côté droit (*Right*).
 * **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Tranchant interne de l'avant-bras (*Inner forearm* — côté pouce/radius).
-* **Yobap / Yop Ap ([옆앞](../audio/termes/옆앞.m4a)) :** Latéral-frontal / Diagonale avant-côté à 45° (*Side front*).
+* **Yobap / Yop Ap ([옆앞](../audio/termes/yobap.m4a)) :** Latéral-frontal / Diagonale avant-côté à 45° (*Side front*).
 
 ---
 

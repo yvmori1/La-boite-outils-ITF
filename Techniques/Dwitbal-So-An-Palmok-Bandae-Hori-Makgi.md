@@ -8,11 +8,11 @@ Cette technique défensive réactive combine l'esquive et l'ancrage arrière de 
 
 Sa décomposition linguistique est la suivante :
 
-* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/뒷발-서.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
+* **Dwitbal So / Dwitbal Sogi ([뒷발 서](../audio/termes/dwitbal-so.m4a) / [뒷발 서기](../audio/Techniques/Dwitbal-Sogi.m4a)) :** Posture du pied arrière (*Rear foot stance* — 95% du poids sur la jambe arrière).
 * **An Palmok ([안팔목](../audio/grammaire/An-Palmok.m4a)) :** Intérieur de l'avant-bras (*Inner forearm* — côté du pouce / os du radius).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Reverse / Opposé (le bras qui bloque est opposé à la jambe située à l'avant).
-* **Hori ([허리](../audio/termes/허리.m4a)) :** Taille / Ceinture (*Waist / Belt*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Hori ([허리](../audio/termes/hori.m4a)) :** Taille / Ceinture (*Waist / Belt*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

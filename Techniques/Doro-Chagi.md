@@ -8,8 +8,8 @@ Cette technique dynamique repose sur une action d'extension suivie d'une **rétr
 
 Sa décomposition linguistique est la suivante :
 
-* **Doro ([도로](../audio/termes/도로.m4a)) :** De retour / En arrière / Revenir au point d'origine (*Returning / Back*).
-* **Chagi ([차기](../audio/termes/차기.m4a)) :** Coup de pied (*Kick*).
+* **Doro ([도로](../audio/termes/doro.m4a)) :** De retour / En arrière / Revenir au point d'origine (*Returning / Back*).
+* **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
 *(Note : Ne pas confondre avec **Dora Chagi** [[돌아 차기](../audio/chagi/dora-chagi.m4a)], qui désigne un coup de pied tournant/retourné sur soi-même).*
 

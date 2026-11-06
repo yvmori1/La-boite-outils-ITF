@@ -10,10 +10,10 @@ Sa décomposition linguistique est la suivante :
 
 * **Wen ([왼](../audio/grammaire/Wen.m4a)) :** Gauche (*Left* — indique que le **pied gauche croise devant** le pied droit).
 * **Kyocha So / Kyocha Sogi ([교차 서기](../audio/Techniques/Kyocha-Sogi.m4a)) :** Posture en X (*X-stance* — pieds croisés, genoux fléchis et serrés).
-* **Kyocha ([교차](../audio/termes/교차.m4a)) :** Croisé / En X (*Crossed*).
+* **Kyocha ([교차](../audio/termes/kyocha.m4a)) :** Croisé / En X (*Crossed*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poings (*Fists* — *Kyocha Joomuk* = poings croisés aux poignets).
 * **Noollo / Nullo ([눌러](../audio/grammaire/Nullo.m4a)) :** Pressant / Poussée vers le bas (*Pressing*).
-* **Makgi ([막기](../audio/termes/막기.m4a)) :** Blocage (*Block*).
+* **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage (*Block*).
 
 ---
 

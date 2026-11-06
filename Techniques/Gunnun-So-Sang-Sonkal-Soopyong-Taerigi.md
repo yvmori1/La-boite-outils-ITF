@@ -9,10 +9,10 @@ Cette technique d'attaque bilatérale et simultanée projette les deux mains ouv
 Sa décomposition linguistique est la suivante :
 
 * **Gunnun So / Gunnun Sogi ([걷는 서기](../audio/grammaire/Gunnun-Sogi.m4a)) :** Posture de marche (*Walking stance* — répartition 50/50 du poids, 1,5 largeur d'épaules en longueur, 1 largeur d'épaules en largeur).
-* **Sang ([쌍](../audio/termes/쌍.m4a)) :** Double / Jumelé (*Twin* — les deux bras agissent en même temps).
+* **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Jumelé (*Twin* — les deux bras agissent en même temps).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire de la main ouverte).
-* **Soopyong / Supyeong ([수평](../audio/termes/수평.m4a)) :** Horizontal / À l'horizontale (*Horizontal*).
-* **Taerigi ([때리기](../audio/termes/때리기.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
+* **Soopyong / Supyeong ([수평](../audio/termes/soopyong.m4a)) :** Horizontal / À l'horizontale (*Horizontal*).
+* **Taerigi ([때리기](../audio/termes/taerigi.m4a)) :** Coup percutant / Cinglant fouetté (*Strike*).
 
 ---
 

@@ -10,7 +10,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / aine, bas-ventre, vessie, cuisses).
 * **Ap ([앞](../audio/grammaire/Ap.m4a)) :** Avant / Frontal (*Front*).
-* **Cha ([차](../audio/termes/차.m4a)) :** Coup de pied (*Kick* — de *Chagi*).
+* **Cha ([차](../audio/termes/cha.m4a)) :** Coup de pied (*Kick* — de *Chagi*).
 * **Busigi ([부시기](../audio/grammaire/Busigi.m4a)) :** Fouetté / Casser / Percuter (*Snap*).
 
 ---

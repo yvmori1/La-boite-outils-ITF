@@ -12,8 +12,8 @@ Elle se traduit par : **Position en L** (*L-Stance*).
 
 | Terme | Hangeul | Traduction | Rôle dans la technique |
 | --- | --- | --- | --- |
-| **Niunja** | [ㄴ자](../audio/termes/ㄴ자.m4a) | Lettre « [ㄴ](../audio/termes/ㄴ.m4a) » (Nieuen) | Fait référence à la forme en « L » dessinée au sol par l'alignement des deux pieds. |
-| **Sogi** | [서기](../audio/termes/서기.m4a) | Position / Posture | Posture générale du corps et ancrage des jambes. |
+| **Niunja** | [ㄴ자](../audio/termes/niunja.m4a) | Lettre « [ㄴ](../audio/termes/nieun.m4a) » (Nieuen) | Fait référence à la forme en « L » dessinée au sol par l'alignement des deux pieds. |
+| **Sogi** | [서기](../audio/termes/sogi.m4a) | Position / Posture | Posture générale du corps et ancrage des jambes. |
 
 ---
 
