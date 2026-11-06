@@ -3,9 +3,9 @@
 Ce manuel réunit la théorie du Taekwon-Do ITF en un seul parcours : la doctrine
 et l'histoire de l'art, les principes physiques qui font la puissance, la
 grammaire qui permet de nommer et de comprendre chaque technique, les positions
-qui les portent, le répertoire technique, les formes, l'autodéfense, puis deux
-annexes de consultation — le lexique trilingue et les distances de saut des
-formes.
+qui les portent, le répertoire technique, les formes, l'autodéfense, puis trois
+annexes de consultation — le lexique trilingue, les distances de saut des
+formes et les types de mouvements.
 
 L'ordre est celui de l'apprentissage : ce qu'est l'art avant les techniques, les
 principes de puissance avant la grammaire qui les nomme, la grammaire avant les
@@ -56,3 +56,4 @@ lequel.
     * [C. Blocages (Makgi)](annexe-a-lexique-trilingue/c-blocages-makgi.md)
     * [D. Frappes et attaques (Jirugi / Taerigi / Tulgi)](annexe-a-lexique-trilingue/d-frappes-et-attaques-jirugi-taerigi-tulgi.md)
 * **[Annexe B — Distances de saut dans les formes](annexe-b-distances-de-saut.md)**
+* **[Annexe C — Types de mouvements](annexe-c-types-de-mouvements.md)**
