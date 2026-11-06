@@ -65,7 +65,7 @@
 19. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage poussée bas vers D avec le double avant-bras gauche.
    *([Niunja so doo palmok najunde miro makgi](../makgi/miro-makgi.md))*
 20. Étendre les deux mains vers le haut comme pour saisir la tête de l'adversaire tout en formant une position de marche gauche vers D, en glissant le pied gauche vers D.
-   *([gunnun sogi](../Techniques/Gunnun-Sogi.md))*
+   *([gunnun sogi](../sogi/Gunnun-Sogi.md))*
 21. Exécuter un coup de pied montant avec le genou droit tout en tirant les deux mains vers le bas.
    *([Moorup ollyo chagi](../chagi/moorup-ollyo-chagi.md))*
 22. Abaisser le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position en L droite vers C tout en exécutant un blocage de garde moyen vers C avec le tranchant de la main.

@@ -81,7 +81,7 @@
 26. Exécuter une frappe frontale vers A avec le revers du poing gauche tout en formant une position de marche droite vers A, en glissant le pied gauche.
    *([Gunnun so dung joomuk bandae ap taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md))*
 27. Déplacer le pied gauche vers D pour former une position de marche de préparation droite vers C.
-   *([Gunnun junbi sogi](../Techniques/Gunnun-Junbi-Sogi.md))*
+   *([Gunnun junbi sogi](../sogi/Gunnun-Junbi-Sogi.md))*
 28. Sauter pour exécuter un coup de pied avant fouetté sauté vers C avec le pied droit.
    *([Twimyo apcha busigi](../chagi/apcha-busigi.md))*
    > *Distance de saut : 1 position de marche.*
@@ -158,7 +158,7 @@
 61. Décaler vers D, en maintenant une position en L gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing gauche.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 62. Tourner dans le sens horaire tout en formant une position de préparation pliée A gauche vers C.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 63. Exécuter un coup de pied latéral perçant haut vers C avec le pied droit, en gardant les mains dans la position du mouvement 62.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 64. Abaisser le pied droit vers C, pour former une position de marche droite vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
@@ -170,7 +170,7 @@
 67. Décaler vers C, en maintenant une position en L droite vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
    *([Niunja so kaunde baro jirugi](../Techniques/Niunja-So-Kaunde-Baro-Jirugi.md))*
 68. Tourner dans le sens anti-horaire tout en formant une position de préparation pliée A droite vers C.
-   *([Guburyo junbi sogi A](../Techniques/Guburyo-Junbi-Sogi-A.md))*
+   *([Guburyo junbi sogi A](../sogi/Guburyo-Junbi-Sogi-A.md))*
 69. Exécuter un coup de pied latéral perçant haut vers D avec le pied gauche, en gardant les mains dans la position du mouvement 68.
    *([Nopunde yopcha jirugi](../chagi/yop-cha-jirugi.md))*
 70. Abaisser le pied gauche vers D pour former une position de marche gauche vers D tout en exécutant un coup de poing moyen vers D avec le poing droit.

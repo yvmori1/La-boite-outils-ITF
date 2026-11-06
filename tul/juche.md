@@ -47,7 +47,7 @@
 11. Déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec le tranchant de la main.
    *([Niunja so sonkal kaunde daebi makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
 12. Exécuter une frappe en vol vers A avec le tranchant de la main gauche tout en pivotant dans le sens anti-horaire puis atterrir vers A pour former une position en L droite vers A avec le bras gauche étendu.
-   *([Sonkal twio dolymyo taerigi](../Techniques/Sonkal-Twio-Dolymyo-Taerigi.md))*
+   *([Sonkal twio dolymyo taerigi](../Techniques/Sonkal-Twio-Dolmyo-Taerigi.md))*
    > *Distance de saut : 1 position en L.*
 13. Déplacer le pied droit vers A pour former une position assise vers D tout en exécutant un blocage parallèle avec l'avant-bras intérieur.
    *([Annun so an palmok narani makgi](../Techniques/Annun-So-An-Palmok-Narani-Makgi.md))*

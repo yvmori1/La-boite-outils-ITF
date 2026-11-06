@@ -2,7 +2,7 @@
 """Transforme le nom coréen de chaque mouvement des tuls en hyperlien.
 
 Parcourt les fiches de tul/ et remplace le nom coréen de chaque mouvement
-par un lien vers la fiche qui l'explique, cherchée dans Techniques/, makgi/,
+par un lien vers la fiche qui l'explique, cherchée dans Techniques/, sogi/, makgi/,
 jirugi/ et chagi/.
 
   python3 scripts/lier-mouvements.py              # essai à blanc, n'écrit rien
@@ -44,7 +44,7 @@ import sys
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
 TUL = RACINE / "tul"
-DOSSIERS_CIBLES = ("Techniques", "makgi", "jirugi", "chagi")
+DOSSIERS_CIBLES = ("Techniques", "sogi", "makgi", "jirugi", "chagi")
 HORS_INDEX = {"README.md", "Dans-les-formes.md", "nomenclature.md"}
 
 POSTURE = re.compile(

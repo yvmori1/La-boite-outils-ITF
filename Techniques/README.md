@@ -10,13 +10,13 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**354 fiches** au total.
+**333 fiches** au total.
 
 ---
 
 ## 1. Position de marche (*Gunnun So*)
 
-La posture elle-même est décrite dans [Gunnun-Sogi.md](Gunnun-Sogi.md).
+La posture elle-même est décrite dans [Gunnun-Sogi.md](../sogi/Gunnun-Sogi.md).
 
 ### 1.1 Coups de poing (*Jirugi*)
 
@@ -134,7 +134,7 @@ La posture elle-même est décrite dans [Gunnun-Sogi.md](Gunnun-Sogi.md).
 
 ## 2. Position en « L » (*Niunja So*)
 
-La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
+La posture elle-même est décrite dans [Niunja-Sogi.md](../sogi/Niunja-Sogi.md).
 
 ### 2.1 Coups de poing (*Jirugi*)
 
@@ -215,7 +215,7 @@ La posture elle-même est décrite dans [Niunja-Sogi.md](Niunja-Sogi.md).
 
 ## 3. Position assise (*Annun So*)
 
-La posture elle-même est décrite dans [Annun-Sogi.md](Annun-Sogi.md).
+La posture elle-même est décrite dans [Annun-Sogi.md](../sogi/Annun-Sogi.md).
 
 ### 3.1 Coups de poing (*Jirugi*)
 
@@ -299,7 +299,7 @@ La posture elle-même est décrite dans [Annun-Sogi.md](Annun-Sogi.md).
 
 ## 4. Position de pied arrière (*Dwitbal So*)
 
-La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
+La posture elle-même est décrite dans [Dwitbal-Sogi.md](../sogi/Dwitbal-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -337,7 +337,7 @@ La posture elle-même est décrite dans [Dwitbal-Sogi.md](Dwitbal-Sogi.md).
 
 ## 6. Position en « X » (*Kyocha So*)
 
-La posture elle-même est décrite dans [Kyocha-Sogi.md](Kyocha-Sogi.md).
+La posture elle-même est décrite dans [Kyocha-Sogi.md](../sogi/Kyocha-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -364,7 +364,7 @@ La posture elle-même est décrite dans [Kyocha-Sogi.md](Kyocha-Sogi.md).
 
 ## 7. Position rapprochée (*Moa So*)
 
-La posture elle-même est décrite dans [Moa-Sogi.md](Moa-Sogi.md).
+La posture elle-même est décrite dans [Moa-Sogi.md](../sogi/Moa-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -397,7 +397,7 @@ La posture elle-même est décrite dans [Moa-Sogi.md](Moa-Sogi.md).
 
 ## 9. Position sur une jambe (*Waebal So*)
 
-La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
+La posture elle-même est décrite dans [Waebal-Sogi.md](../sogi/Waebal-Sogi.md).
 
 | Fiche | Technique |
 | :--- | :--- |
@@ -443,15 +443,7 @@ La posture elle-même est décrite dans [Waebal-Sogi.md](Waebal-Sogi.md).
 
 ---
 
-## 13. Position *Junbi So*
-
-| Fiche | Technique |
-| :--- | :--- |
-| [Moa-Junbi-Sogi-C.md](Moa-Junbi-Sogi-C.md) | Moa Junbi Sogi C |
-
----
-
-## 14. Coups de pied (*Chagi*)
+## 13. Coups de pied (*Chagi*)
 
 Techniques de jambe nommées sans position d'appui imposée.
 
@@ -478,9 +470,6 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Wen-Kaunde-Yopcha-Tulgi.md](Wen-Kaunde-Yopcha-Tulgi.md) | Coup de pied latéral enfonçant/poussant moyen de la jambe gauche |
 | [Orun-Kaunde-Yopcha-Tulgi.md](Orun-Kaunde-Yopcha-Tulgi.md) | Orun Kaunde Yopcha Tulgi |
 | [Moorup-Najunde-Apcha-Busigi.md](Moorup-Najunde-Apcha-Busigi.md) | Coup de pied direct fouetté bas avec action du genou |
-| [Moorup-Ollyo-Chagi.md](Moorup-Ollyo-Chagi.md) | Coup de genou ascendant / montant |
-| [Naeryo-Chagi.md](Naeryo-Chagi.md) | Coup de pied descendant |
-| [Najunde-Ap-Cha-Busigi.md](Najunde-Ap-Cha-Busigi.md) | Coup de pied direct fouetté au niveau bas |
 | [Najunde-Apcha-Busigi.md](Najunde-Apcha-Busigi.md) | Coup de pied direct fouetté au niveau bas |
 | [Najunde-Bituro-Chagi.md](Najunde-Bituro-Chagi.md) | Coup de pied tordu / vrillé au niveau bas |
 | [Najunde-Yobap-Cha-Busigi.md](Najunde-Yobap-Cha-Busigi.md) | Coup de pied fouetté bas de biais (côté-avant) |
@@ -494,11 +483,8 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Nopunde-Yopcha-Jirugi.md](Nopunde-Yopcha-Jirugi.md) | Nopunde Yopcha Jirugi |
 | [Wen-Nopunde-Yopcha-Jirugi.md](Wen-Nopunde-Yopcha-Jirugi.md) | Coup de pied latéral perçant haut de la jambe gauche |
 | [Orun-Nopunde-Yopcha-Jirugi.md](Orun-Nopunde-Yopcha-Jirugi.md) | Orun Nopunde Yopcha Jirugi |
-| [Pihamyo-Bandae-Dollyo-Chagi.md](Pihamyo-Bandae-Dollyo-Chagi.md) | Pihamyo Bandae Dollyo Chagi |
 | [Twimyo-Apcha-Busigi.md](Twimyo-Apcha-Busigi.md) | Coup de pied direct fouetté sauté / volant |
 | [Twimyo-Nopi-Chagi.md](Twimyo-Nopi-Chagi.md) | Coup de pied sauté en hauteur / coup de pied volant haut |
-| [Twimyo-Sangbang-Chagi.md](Twimyo-Sangbang-Chagi.md) | Coup de pied double sauté dans deux directions / bidirectionnel |
-| [Twimyo-Yopcha-Jirugi.md](Twimyo-Yopcha-Jirugi.md) | Coup de pied latéral volant/sauté perçant |
 | [Twio-Dolmyo-Chagi.md](Twio-Dolmyo-Chagi.md) | Coup de pied sauté en rotation |
 | [Yop-Bal-Badak-Suroh-Chagi.md](Yop-Bal-Badak-Suroh-Chagi.md) | Coup de pied balayé latéral avec la plante du pied |
 | [Yop-Bituro-Chagi.md](Yop-Bituro-Chagi.md) | Coup de pied latéral en torsion |
@@ -506,20 +492,18 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 15. Sans position imposée
+## 14. Sans position imposée
 
 | Fiche | Technique |
 | :--- | :--- |
 | [An-Palmok-Kaunde-Yop-Makgi.md](An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen avec l'avant-bras intérieur |
 | [Dung-Joomuk-Nopunde-Yop-Taerigi.md](Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale haute cinglante avec le revers du poing |
 | [Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Orun Dung Joomuk Nopunde Yop Taerigi |
-| [Gunnun-Do-Dung-Joomuk-Ap-Taerigi.md](Gunnun-Do-Dung-Joomuk-Ap-Taerigi.md) | Coup cinglant frontal avec le revers du poing |
 | [Orun-Joomuk-Dwijibo-Jirigi.md](Orun-Joomuk-Dwijibo-Jirigi.md) | Orun Joomuk Dwijibo Jirigi |
 | [Joomuk-Nopunde-Jirugi.md](Joomuk-Nopunde-Jirugi.md) | Coup de poing direct au niveau haut |
 | [Sonbadak-Kaunde-Golcho-Makgi.md](Sonbadak-Kaunde-Golcho-Makgi.md) | Sonbadak Kaunde Golcho Makgi |
 | [Sonkal-Nopunde-Ap-Taerigi.md](Sonkal-Nopunde-Ap-Taerigi.md) | Sonkal Nopunde Ap Taerigi |
 | [Sonkal-Twio-Dolmyo-Taerigi.md](Sonkal-Twio-Dolmyo-Taerigi.md) | Sonkal Twio Dolmyo Taerigi |
-| [Sonkal-Twio-Dolymyo-Taerigi.md](Sonkal-Twio-Dolymyo-Taerigi.md) | Sonkal Twio Dolymyo Taerigi |
 | [Sun-Sonkut-Kaunde-Tulgi.md](Sun-Sonkut-Kaunde-Tulgi.md) | Pique verticale de l'extrémité des doigts au niveau moyen |
 | [Twigi.md](Twigi.md) | Twigi |
 | [Twimyo-Orun-Joomuk-Ap-Jirugi.md](Twimyo-Orun-Joomuk-Ap-Jirugi.md) | Coup de poing direct sauté/volant du poing droit vers l'avant |
@@ -528,29 +512,9 @@ Techniques de jambe nommées sans position d'appui imposée.
 
 ---
 
-## 16. Postures et positions de préparation
-
-Les positions d'appui et de préparation, décrites pour elles-mêmes.
-
-| Fiche | Technique |
-| :--- | :--- |
-| [Annun-Sogi.md](Annun-Sogi.md) | Posture du cavalier |
-| [Dwitbal-Sogi.md](Dwitbal-Sogi.md) | Posture du pied arrière |
-| [Guburyo-Junbi-So-B.md](Guburyo-Junbi-So-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
-| [Guburyo-Junbi-Sogi-A.md](Guburyo-Junbi-Sogi-A.md) | Posture préparatoire fléchie sur une jambe — Variante A |
-| [Guburyo-Junbi-Sogi-B.md](Guburyo-Junbi-Sogi-B.md) | Posture préparatoire fléchie sur une jambe — Variante B |
-| [Gunnun-Junbi-Sogi.md](Gunnun-Junbi-Sogi.md) | Posture préparatoire en marche |
-| [Gunnun-Sogi.md](Gunnun-Sogi.md) | Gunnun Sogi |
-| [Kyocha-Sogi.md](Kyocha-Sogi.md) | Posture croisée |
-| [Moa-Junbi-Sogi-B.md](Moa-Junbi-Sogi-B.md) | Moa Junbi Sogi B |
-| [Moa-Sogi.md](Moa-Sogi.md) | Posture pieds joints |
-| [Niunja-Sogi.md](Niunja-Sogi.md) | Niunja Sogi |
-| [Waebal-Sogi.md](Waebal-Sogi.md) | Posture sur une seule jambe |
-
----
-
 ## Voir aussi
 
+* [../sogi/README.md](../sogi/README.md) — les positions (*Sogi*) et positions de préparation, une fiche chacune.
 * [../Theorie/manuel/partie-4-positions-sogi/README.md](../Theorie/manuel/partie-4-positions-sogi/README.md) — partie IV du manuel : les 21 positions (*Sogi*), cotées et schématisées.
 * [../Theorie/manuel/partie-3-grammaire-des-techniques/README.md](../Theorie/manuel/partie-3-grammaire-des-techniques/README.md) — partie III du manuel : les règles complètes de nomenclature.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.

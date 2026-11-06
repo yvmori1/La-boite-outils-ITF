@@ -79,4 +79,4 @@ La technique revient **28 fois** dans 15 formes :
 * **Coup de pied en arc :** la trajectoire est rectiligne.
 * **Pied d'appui figé :** sans pivot, la hanche ne s'aligne pas.
 
-Voir aussi : [Nopunde Yopcha Jirugi](Nopunde-Yopcha-Jirugi.md), [Twimyo Yopcha Jirugi](Twimyo-Yopcha-Jirugi.md), [Coup de pied latéral perçant (Yop Cha Jirugi)](../chagi/yop-cha-jirugi.md).
+Voir aussi : [Nopunde Yopcha Jirugi](Nopunde-Yopcha-Jirugi.md), [Twimyo Yopcha Jirugi](../chagi/twimyo-yopcha-jirugi.md), [Coup de pied latéral perçant (Yop Cha Jirugi)](../chagi/yop-cha-jirugi.md).

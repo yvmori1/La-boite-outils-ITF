@@ -11,7 +11,7 @@
   python3 scripts/generer-audio.py --tout --sans-synthese --write
                                                    # hors macOS : réemploi seul
 
-Pour chaque fiche de Techniques/, chagi/, jirugi/, makgi/ et tul/ :
+Pour chaque fiche de Techniques/, sogi/, chagi/, jirugi/, makgi/ et tul/ :
 
   1. le hangul est lu dans la première phrase — « Le **Nom** (한글) est le… » ;
      pour les formes (tul/), il vient de la table NOMS_TUL ci-dessous ;
@@ -61,7 +61,7 @@ from romanisation import romaniser
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
 AUDIO = RACINE / "audio"
-DOSSIERS = ("Techniques", "chagi", "jirugi", "makgi", "tul")
+DOSSIERS = ("Techniques", "sogi", "chagi", "jirugi", "makgi", "tul")
 HORS_TRAITEMENT = {"README.md", "Dans-les-formes.md", "nomenclature.md"}
 
 VOIX = "Yuna"
@@ -370,7 +370,7 @@ LIEN_AUDIO = re.compile(
 # Documents publiés dont --tout lie chaque hangul : tous les dossiers du site.
 # Les documents de DOCUMENTS gardent leur sous-dossier d'audio ; les autres
 # rangent leurs nouveaux enregistrements dans audio/termes/.
-DOSSIERS_PUBLIES = ("", "Ceintures", "tul", "chagi", "makgi", "jirugi",
+DOSSIERS_PUBLIES = ("", "Ceintures", "tul", "sogi", "chagi", "makgi", "jirugi",
                     "Techniques", "Combat", "Theorie", "images", "images/sogi")
 # dossiers publiés parcourus avec leurs sous-dossiers (pages découpées)
 DOSSIERS_RECURSIFS = {"Theorie"}

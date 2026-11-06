@@ -6,7 +6,6 @@
 
 Chaque fiche est classée automatiquement d'après son nom de fichier :
 
-  * postures      -> « ...Sogi.md » ou « ...Junbi-So(gi).md »
   * position      -> le mot qui précède « -So- » (Wen-Kyocha-So-... -> kyocha)
   * coups de pied -> présence d'un mot de la famille chagi
   * le reste      -> sans position imposée
@@ -24,6 +23,8 @@ import sys
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
 DOSSIER = RACINE / "Techniques"
+# les positions elles-mêmes ont leur section (sogi/) : l'index y renvoie
+DOSSIER_POSITIONS = RACINE / "sogi"
 
 # libellé et ordre d'apparition des sections de position
 POSITIONS = [
@@ -83,12 +84,6 @@ def description(fiche):
     return (d[0].upper() + d[1:] if d else fiche.stem), True
 
 
-def posture(nom):
-    """La fiche décrit-elle une posture plutôt qu'une technique ?"""
-    base = nom[:-3].lower()
-    return base.endswith("sogi") or re.search(r"junbi-so(gi)?(-[ab])?$", base)
-
-
 def position(nom):
     """Slug de la position d'appui, ou None."""
     ms = mots(nom)
@@ -131,13 +126,13 @@ def construire():
     desc = {n: v[0] for n, v in brut.items()}
     incompletes = [n for n, v in brut.items() if not v[1]]
 
-    postures, kicks, autres = [], [], []
+    postures = [p.name for p in sorted(DOSSIER_POSITIONS.glob("*.md"))
+                if p.name != "README.md"]
+    kicks, autres = [], []
     par_position = collections.defaultdict(list)
     for p in fiches:
         n = p.name
-        if posture(n):
-            postures.append(n)
-        elif position(n):
+        if position(n):
             par_position[position(n)].append(n)
         elif chagi(n):
             kicks.append(n)
@@ -160,7 +155,7 @@ def construire():
         if fiche_posture:
             corps.append(
                 f"La posture elle-même est décrite dans "
-                f"[{fiche_posture}]({fiche_posture}).\n")
+                f"[{fiche_posture}](../sogi/{fiche_posture}).\n")
         if len(noms) > SEUIL_DECOUPAGE:
             for i, (cle, libelle) in enumerate(FAMILLES, 1):
                 sous = [x for x in noms if famille(x) == cle]
@@ -175,8 +170,6 @@ def construire():
         (kicks, "Coups de pied (*Chagi*)",
          "Techniques de jambe nommées sans position d'appui imposée.\n"),
         (autres, "Sans position imposée", None),
-        (postures, "Postures et positions de préparation",
-         "Les positions d'appui et de préparation, décrites pour elles-mêmes.\n"),
     ):
         if not noms:
             continue
@@ -206,12 +199,13 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 """
     pied = """## Voir aussi
 
+* [../sogi/README.md](../sogi/README.md) — les positions (*Sogi*) et positions de préparation, une fiche chacune.
 * [../Theorie/manuel/partie-4-positions-sogi/README.md](../Theorie/manuel/partie-4-positions-sogi/README.md) — partie IV du manuel : les 21 positions (*Sogi*), cotées et schématisées.
 * [../Theorie/manuel/partie-3-grammaire-des-techniques/README.md](../Theorie/manuel/partie-3-grammaire-des-techniques/README.md) — partie III du manuel : les règles complètes de nomenclature.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.
 """
     stats = {
-        "total": len(fiches), "postures": len(postures),
+        "total": len(fiches),
         "chagi": len(kicks), "autres": len(autres),
         "a_rediger": len(incompletes),
         **{s: len(par_position[s]) for s in slugs},

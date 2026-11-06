@@ -73,6 +73,31 @@ plugins:
         Theorie/examens-theoriques-taekwondo.md: Theorie/examens/README.md
         Theorie/glossaire-coreen-francais.md: Theorie/glossaire/README.md
         Theorie/programme-session.md: Theorie/programme-session/README.md
+        # Positions regroupées dans sogi/, fiches en double fusionnées et
+        # noms de fichiers corrigés (ancienne adresse -> fiche conservée).
+        Techniques/Annun-Sogi.md: sogi/Annun-Sogi.md
+        Techniques/Dwitbal-Sogi.md: sogi/Dwitbal-Sogi.md
+        Techniques/Guburyo-Junbi-Sogi-A.md: sogi/Guburyo-Junbi-Sogi-A.md
+        Techniques/Guburyo-Junbi-Sogi-B.md: sogi/Guburyo-Junbi-Sogi-B.md
+        Techniques/Gunnun-Junbi-Sogi.md: sogi/Gunnun-Junbi-Sogi.md
+        Techniques/Gunnun-Sogi.md: sogi/Gunnun-Sogi.md
+        Techniques/Kyocha-Sogi.md: sogi/Kyocha-Sogi.md
+        Techniques/Moa-Junbi-Sogi-B.md: sogi/Moa-Junbi-Sogi-B.md
+        Techniques/Moa-Junbi-Sogi-C.md: sogi/Moa-Junbi-Sogi-C.md
+        Techniques/Moa-Sogi.md: sogi/Moa-Sogi.md
+        Techniques/Niunja-Sogi.md: sogi/Niunja-Sogi.md
+        Techniques/Waebal-Sogi.md: sogi/Waebal-Sogi.md
+        chagi/ihamyo-bandae-dollyo-chagi.md: chagi/pihamyo-bandae-dollyo-chagi.md
+        chagi/twimyo-sangband-chagi.md: chagi/twimyo-sangbang-chagi.md
+        Techniques/Naeryo-Chagi.md: chagi/naeryo-chagi.md
+        Techniques/Moorup-Ollyo-Chagi.md: chagi/moorup-ollyo-chagi.md
+        Techniques/Twimyo-Yopcha-Jirugi.md: chagi/twimyo-yopcha-jirugi.md
+        Techniques/Pihamyo-Bandae-Dollyo-Chagi.md: chagi/pihamyo-bandae-dollyo-chagi.md
+        Techniques/Twimyo-Sangbang-Chagi.md: chagi/twimyo-sangbang-chagi.md
+        Techniques/Najunde-Ap-Cha-Busigi.md: Techniques/Najunde-Apcha-Busigi.md
+        Techniques/Sonkal-Twio-Dolymyo-Taerigi.md: Techniques/Sonkal-Twio-Dolmyo-Taerigi.md
+        Techniques/Guburyo-Junbi-So-B.md: sogi/Guburyo-Junbi-Sogi-B.md
+        Techniques/Gunnun-Do-Dung-Joomuk-Ap-Taerigi.md: Techniques/Gunnun-So-Dung-Joomuk-Ap-Taerigi.md
 
 # Date de la dernière mise à jour sur la page d'accueil.
 hooks:

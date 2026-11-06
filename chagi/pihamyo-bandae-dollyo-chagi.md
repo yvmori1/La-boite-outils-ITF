@@ -1,4 +1,4 @@
-# Coup de pied circulaire inversé en esquive (ihamyo Bandae Dollyo Chagi)
+# Coup de pied circulaire inversé en esquive (Pihamyo Bandae Dollyo Chagi)
 
 > 🔊 **Prononciation :** [피하며 반대 돌려차기](../audio/chagi/ihamyo-bandae-dollyo-chagi.m4a)
 

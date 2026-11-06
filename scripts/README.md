@@ -33,7 +33,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [maintenir.py](maintenir.py) | Enchaîne tous les autres dans l'ordre, puis contrôle |
 | [verifier.py](verifier.py) | Dix contrôles d'intégrité, n'écrit jamais |
 | [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `Techniques/README.md` |
-| [generer-menus.py](generer-menus.py) | Écrit le menu (`.pages`) de chagi, makgi et jirugi d'après leur sommaire |
+| [generer-menus.py](generer-menus.py) | Écrit le menu (`.pages`) de sogi, chagi, makgi, jirugi et Techniques d'après leur sommaire |
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [romanisation.py](romanisation.py) | Nom de fichier romanisé d'un hangul (utilisé par `generer-audio.py`) |

@@ -15,7 +15,7 @@ import pathlib
 import re
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
-LIEN = re.compile(r"\[([^\]]+)\]\(\.\./(?:Techniques|makgi|jirugi|chagi)/[^)]+\)")
+LIEN = re.compile(r"\[([^\]]+)\]\(\.\./(?:Techniques|sogi|makgi|jirugi|chagi)/[^)]+\)")
 POSITION = re.compile(
     r"\b(gunnun|niunja|annun|dwitbal|moa|kyocha|guburyo|nachuo|waebal|"
     r"soojik|sasun|gojung|narani)\s+so(gi)?\b")

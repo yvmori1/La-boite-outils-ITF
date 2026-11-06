@@ -44,7 +44,7 @@
 10. Ramener le pied gauche vers le pied droit, pour former une position fermée vers D, tout en piquant latéralement avec les deux coudes.
    *([Moa so sang yop palkup tulgi](../jirugi/sang-yop-palkup-tulgi.md))*
 11. Croiser le pied gauche par-dessus le pied droit, pour former une position en X droite vers D tout en tournant le visage vers A, en gardant les mains dans la position du mouvement 10.
-   *([Kyocha sogi](../Techniques/Kyocha-Sogi.md))*
+   *([Kyocha sogi](../sogi/Kyocha-Sogi.md))*
    > *Exécuter en mouvement rapide.*
 12. Exécuter un coup de pied latéral perçant moyen vers A avec le pied droit en gardant les mains dans la position du mouvement 11.
    *([Kaunde yopcha jirugi](../Techniques/Kaunde-Yopcha-Jirugi.md))*
@@ -62,7 +62,7 @@
 18. Atterrir vers B pour former une position de marche droite vers B tout en exécutant un blocage moyen vers B avec le double avant-bras droit.
    *([Gunnun so doo palmok kaunde makgi](../Techniques/Gunnun-So-Doo-Palmok-Kaunde-Makgi.md))*
 19. Ramener le pied gauche vers le pied droit pour former une position de préparation fermée B vers D.
-   *([Moa junbi sogi B](../Techniques/Moa-Junbi-Sogi-B.md))*
+   *([Moa junbi sogi B](../sogi/Moa-Junbi-Sogi-B.md))*
 20. Sauter vers D pour former une position en X droite vers BD tout en exécutant une frappe latérale haute vers B avec le revers du poing droit en amenant la pulpe des doigts de la main gauche vers le côté du poing droit.
    *([Twigi](../Techniques/Twigi.md), orun kyocha so dung joomuk nopunde baro yop taerigi)*
    > *Distance de saut : 1 position de marche.*
@@ -77,7 +77,7 @@
 25. Déplacer le pied gauche vers D en tournant dans le sens anti-horaire pour former une position assise vers A tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
    *([Annun so wen dung joomuk nopunde yop taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
 26. Déplacer le pied droit vers F en tournant dans le sens anti-horaire pour former une position de marche de préparation droite vers F.
-   *([Gunnun junbi sogi](../Techniques/Gunnun-Junbi-Sogi.md))*
+   *([Gunnun junbi sogi](../sogi/Gunnun-Junbi-Sogi.md))*
 27. Sauter pour exécuter un coup de pied haut sauté vers F avec le pied droit.
    *([Twimyo nopi chagi](../Techniques/Twimyo-Nopi-Chagi.md))*
    > *Distance de saut : atterrir 1 longueur de pied derrière la position initiale du pied avant, en position de marche.*
