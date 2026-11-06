@@ -28,8 +28,8 @@ Les pages citées sont celles de l'édition imprimée. Dans le PDF, **page du PD
 | [10-autodefense.md](10-autodefense.md) | Dégagements, attaques soudaines, chutes et projections, adversaire armé | 681-724 |
 | [11-grades-examens-competition-demonstration.md](11-grades-examens-competition-demonstration.md) | Composition, grades, examens, instructeurs, compétition, démonstration, biographie | 725-758 |
 
-## Points à trancher
+## À savoir
 
-- **Juche ou Ko-Dang** : la liste des sens des tuls et l'ordre par grade nomment Juche (2e Dan), mais la partie technique et le programme d'examen du 2e Dan donnent Ko-Dang (voir `08-tuls.md` et `11-grades-examens-competition-demonstration.md`).
+- **Juche et Ko-Dang** : Juche est la forme actuelle du 2e Dan et a remplacé Ko-Dang ; l'édition de 1999 nomme Juche dans la liste des sens mais décrit encore Ko-Dang dans la partie technique et l'examen du 2e Dan. Les deux sont gardés, Ko-Dang pour mémoire historique (voir `08-tuls.md`).
 - **Niunja Sogi** : l'Encyclopédie donne les orteils des deux pieds tournés d'environ 15° vers l'intérieur (p. 68), ce que plusieurs fiches du site contredisent encore.
 - **Règles de compétition** : celles du livre datent de 1999 ; le site suit le règlement ITF de 2026.

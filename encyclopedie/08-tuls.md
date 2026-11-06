@@ -44,7 +44,7 @@ Le nom, le nombre de mouvements et le diagramme de chaque tul renvoient à une f
 | Se-Jong | 24 | 王 | Le roi Se-Jong, inventeur de l'alphabet coréen (1443) et météorologue ; diagramme : le roi ; 24 pour les 24 lettres de l'alphabet. |
 | Tong-Il | 56 | I | La résolution de réunifier la Corée, divisée depuis 1945 ; diagramme : un peuple homogène. |
 
-**Écart à signaler** : la liste des sens (p. 526) décrit **Juche**, mais la partie technique (p. 566-569) donne à sa place le tul **Ko-Dang** (45 mouvements, position d'attente parallèle avec double coude latéral), sans texte d'interprétation. L'ordre des tuls par grade (p. 527) nomme lui aussi Juche.
+**Juche et Ko-Dang** : Juche est la forme actuelle du 2e Dan ; elle a remplacé **Ko-Dang**. Cette édition est à cheval entre les deux : la liste des sens (p. 526) et l'ordre par grade (p. 527) nomment déjà Juche, mais la partie technique (p. 566-569) décrit encore Ko-Dang (45 mouvements, position d'attente parallèle avec double coude latéral), sans texte d'interprétation. Le site garde les deux : Juche comme forme en vigueur, Ko-Dang pour mémoire historique (`tul/juche.md`, `tul/ko-dang.md`).
 
 ## Tuls par grade (p. 527)
 
@@ -92,7 +92,7 @@ Avant Chon-Ji, deux exercices fondamentaux préparent aux tuls :
 | Ge-Baek | 556-558 | Attente parallèle |
 | Eui-Am | 559-561 | Attente pieds joints D |
 | Choong-Jang | 562-565 | Attente pieds joints A |
-| Ko-Dang (à la place de Juche) | 566-569 | Position parallèle avec double coude latéral |
+| Ko-Dang (forme historique, remplacée par Juche) | 566-569 | Position parallèle avec double coude latéral |
 | Sam-Il | 570-571 | Attente pieds joints C |
 | Yoo-Sin | 572-575 | Attente du guerrier B (*Moosa Junbi Sogi B*) |
 | Choi-Yong | 576-578 | Attente pieds joints C |

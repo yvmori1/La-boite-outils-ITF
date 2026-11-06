@@ -85,7 +85,7 @@ La mise en page du tableau original est en partie brouillée dans le PDF ; les a
 | 5e Dan | So-San, Se-Jong | — | — |
 | 6e Dan | Tong-Il | — | — |
 
-Ici aussi, le programme du 2e Dan nomme **Ko-Dang** et non Juche (voir le chapitre 8). Le livre donne enfin trois exemples de fiches d'examen remplies (p. 730).
+Le programme du 2e Dan nomme encore **Ko-Dang**, la forme historique que Juche a remplacée (voir le chapitre 8). Le livre donne enfin trois exemples de fiches d'examen remplies (p. 730).
 
 ## Instructeurs et arbitres (p. 732)
 
