@@ -31,8 +31,9 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | Script | Rôle |
 | :--- | :--- |
 | [maintenir.py](maintenir.py) | Enchaîne tous les autres dans l'ordre, puis contrôle |
-| [verifier.py](verifier.py) | Neuf contrôles d'intégrité, n'écrit jamais |
+| [verifier.py](verifier.py) | Dix contrôles d'intégrité, n'écrit jamais |
 | [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `Techniques/README.md` |
+| [generer-menus.py](generer-menus.py) | Écrit le menu (`.pages`) de chagi, makgi et jirugi d'après leur sommaire |
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [romanisation.py](romanisation.py) | Nom de fichier romanisé d'un hangul (utilisé par `generer-audio.py`) |
@@ -47,14 +48,14 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 compteurs du README racine, normalisation des graphies (y compris les hangul
 fautifs relevés par le glossaire), liens des formes, prononciations
 de tout le site, réparation des audio manquants, index de `Techniques/` une
-seconde fois, mise en forme Markdown, contrôle final.
+seconde fois, menus des sections, mise en forme Markdown, contrôle final.
 
 `--sans-audio` saute la synthèse vocale, de loin l'étape la plus longue.
 
 ### verifier.py
 
 Liens Markdown morts · liens audio morts · fichiers audio orphelins · fiches
-vides · compteurs du README racine · index Techniques à jour ·
+vides · compteurs du README racine · index Techniques à jour · menus à jour ·
 graphies concurrentes · couverture des formes · mise en forme Markdown.
 
 Les graphies surveillées sont déclarées en tête du fichier (`GRAPHIES`) : une

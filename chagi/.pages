@@ -1,0 +1,61 @@
+# Fichier produit par scripts/generer-menus.py : ne pas modifier à la
+# main. L'ordre suit le sommaire (README.md) de la section.
+nav:
+  - README.md
+  - nomenclature.md
+  - Dans-les-formes.md
+  - Coups de pied avant et montants:
+    - ap-chagi.md
+    - apcha-busigi.md
+    - apcha-olligi.md
+    - cha-olligi.md
+    - kumchi-ollyo-chagi.md
+    - moorup-ollyo-chagi.md
+    - moorup-apcha-busigi.md
+  - "Coups de pied circulaires, crochetés et vrillés":
+    - dollyo-chagi.md
+    - bandal-chagi.md
+    - bandae-dollyo-chagi.md
+    - dollyo-goro-chagi.md
+    - bandae-dollyo-goro-chagi.md
+    - dora-chagi.md
+    - bituro-chagi.md
+    - anuro-chagi.md
+    - bakuro-chagi.md
+  - Coups de pied latéraux:
+    - yop-chagi.md
+    - yop-cha-jirugi.md
+    - yop-cha-milgi.md
+    - yop-cha-tulgi.md
+  - Coups de pied arrière:
+    - dwit-chagi.md
+    - dwit-cha-jirugi.md
+    - dwitchuk-busigi.md
+  - "Coups de pied descendants, pressants et poussants":
+    - naeryo-chagi.md
+    - nullo-chagi.md
+    - sewo-chagi.md
+    - opo-chagi.md
+    - cha-milgi.md
+    - suroh-chagi.md
+    - cha-momchugi.md
+  - Niveaux:
+    - nopunde-chagi.md
+    - hache-chagi.md
+  - Coups de pied sautés (Twimyo):
+    - twimyo-chagi.md
+    - twimyo-hopi-chagi.md
+    - twimyo-bandae-dollyo-chagi.md
+    - twimyo-yopcha-jirugi.md
+    - twimyo-cha-tulgi.md
+    - twimyo-sangband-chagi.md
+    - twio-nomo-chagi.md
+  - Coups de pied composés et tactiques:
+    - hon-shik-chagi.md
+    - yonsok-chagi.md
+    - ijun-chagi.md
+    - sangbal-chagi.md
+    - japgo-chagi.md
+    - mikulgi-chagi.md
+    - ihamyo-bandae-dollyo-chagi.md
+  - ...
