@@ -14,7 +14,7 @@ C'est une position debout, jambes droites, pieds écartés d'une largeur d'épau
 
 | Caractéristique | Norme technique ITF |
 | --- | --- |
-| **Écartement des pieds** | **Une largeur d'épaule**, mesurée entre les gros orteils. |
+| **Écartement des pieds** | **Une largeur d'épaule**, mesurée entre les bords extérieurs des pieds. |
 | **Orientation des pieds** | **Strictement parallèles**, orteils pointant droit devant (0°). |
 | **Répartition du poids** | **50 % / 50 %**, également sur les deux pieds. |
 | **Position des genoux** | Jambes droites, genoux souples mais non fléchis. |

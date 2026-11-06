@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Répartition du poids** | **95% sur la jambe arrière / 5% sur la jambe avant** (la jambe arrière porte la quasi-totalité de la masse du corps). |
-| **Longueur de la posture** | **1 largeur d'épaules** (mesurée entre le gros orteil du pied avant et les orteils du pied arrière). |
+| **Longueur de la posture** | **1 largeur d'épaules** (mesurée entre les petits orteils des deux pieds). |
 | **Orientation du pied arrière** | Tourné à environ **15° vers l'intérieur** par rapport à la perpendiculaire. |
 | **Orientation du pied avant** | Pointé légèrement vers l'intérieur (environ **25°**) sur la ligne d'attaque. |
 | **Contact au sol du pied avant** | **Uniquement le bol du pied (*Ap Kumchi*)** touche le sol très légèrement. Le talon est maintenu décollé du sol. |
