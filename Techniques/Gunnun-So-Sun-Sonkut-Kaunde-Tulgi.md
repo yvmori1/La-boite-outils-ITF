@@ -32,7 +32,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 1 : L'armement
 
-1. La main qui pique est à la hanche ; l'autre main presse vers le bas devant le corps.
+1. Les deux mains sont à la hauteur des épaules, les mains légèrement fermées.
 2. Le pas commence en même temps.
 
 ### Étape 2 : Le pas et la chute de masse
