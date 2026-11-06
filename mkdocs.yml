@@ -107,12 +107,13 @@ hooks:
   # Traduction des termes coréens au survol : charge includes/infobulles.md
   # dans l'extension abbr (fichier produit par scripts/generer-infobulles.py).
   - hooks/infobulles.py
-  # Application installable (iPhone, iPad) utilisable hors ligne : manifeste,
-  # balises Apple et liste des fichiers pour le service worker (docs/sw.js).
-  - hooks/pwa.py
   # Menu principal écrit une fois dans assets/menu.html au lieu de chaque page
   # (allège le site de 180 à environ 40 Mo).
   - hooks/menu_partage.py
+  # Application installable (iPhone, iPad) utilisable hors ligne : manifeste,
+  # balises Apple et liste des fichiers pour le service worker (docs/sw.js).
+  # En dernier : la liste doit inclure assets/menu.html, écrit juste avant.
+  - hooks/pwa.py
 
 markdown_extensions:
   - abbr
