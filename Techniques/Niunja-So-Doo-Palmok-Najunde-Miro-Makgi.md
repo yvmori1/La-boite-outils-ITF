@@ -8,7 +8,7 @@ Cette technique défensive à contrôle continu utilise l'action combinée des d
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Doo Palmok ([두 팔목](../audio/termes/doo-palmok.m4a)) :** Double avant-bras (*Double forearm* — le bras principal bloque et le bras secondaire vient renforcer la structure).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / niveau du bas-ventre et des cuisses).
 * **Miro ([밀어](../audio/termes/miro.m4a)) :** Poussé / En poussant (*Pushing* — mouvement fluide et continu sans choc brusque).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Bakat Palmok** (Avant-bras extérieur) du bras avant, renforcé par le bras arrière dont le poing ou l'avant-bras vient s'appuyer près du coude du bras principal. |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Rôle des bras** | **Bras bloquant (avant) :** descend en arc de cercle vers le niveau bas.<br>**Bras de renfort (arrière) :** se place près du coude avant pour verrouiller la poussée. |
 | **Trajectoire (*Miro*)** | **Poussée continue et contrôlée** vers le bas et l'avant (*Pushing motion*), exécutée sans déclic sec au point d'impact. |
 | **Zone protégée** | **Niveau bas (*Najunde*)** : protège l'aine, le bas-ventre et la cuisse avant. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour injecter le poids du corps dans la poussée.
 
 ### Étape 3 : La Poussée Descendante (*Miro Makgi*)

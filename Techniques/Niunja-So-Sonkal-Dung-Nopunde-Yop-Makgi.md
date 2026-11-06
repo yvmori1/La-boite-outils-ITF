@@ -8,7 +8,7 @@ Cette technique défensive utilise le revers du tranchant de la main (**Sonkal D
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, de la tempe ou de la tête).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sonkal Dung** (Le revers du tranchant de la main : la main est ouverte, les 4 doigts tendus et bien serrés, mais le pouce est fléchi fermement vers la paume pour exposer l'arête osseuse à la base de l'index). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Trajectoire (*Yop Makgi*)** | **Extérieure/Latérale** : le bras se déploie vers le côté du corps au niveau haut (*Nopunde*) pour intercepter la frappe adverse. |
 | **Hauteur / Zone protégée** | **Niveau haut (*Nopunde*)** : protège la tempe, le visage ou le côté de la tête. La main s'arrête à hauteur des yeux. |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé est tiré sèchement à la hanche (*Heori*), paume vers le haut. |

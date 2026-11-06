@@ -8,7 +8,7 @@ Cette technique défensive utilise la surface osseuse intérieure de l'avant-bra
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **An Palmok ([안 팔목](../audio/termes/an-palmok.m4a)) :** Intérieur de l'avant-bras (*Inner forearm* — zone osseuse du côté du pouce / du radius).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **An Palmok** (L'intérieur de l'avant-bras : la surface osseuse située du côté du pouce, poing fermement fermé). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Trajectoire (*Yop Makgi*)** | **Latérale du dedans vers le dehors** : le bras s'arme près du flanc/épaule opposée pour balayer le corps vers l'extérieur et couvrir le profil. |
 | **Hauteur / Zone protégée** | **Niveau moyen (*Kaunde*)** : le poing bloquant s'arrête à hauteur des épaules/plexus solaire pour protéger la cage thoracique et les organes vitaux. |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
@@ -39,7 +39,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour coupler l'énergie gravitationnelle à la sortie de l'avant-bras.
 
 ### Étape 3 : Le Balayage Latéral et le Verrouillage (*Snap*)

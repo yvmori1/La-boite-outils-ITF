@@ -25,7 +25,7 @@ Elle se traduit par : **Blocage de garde haut au tranchant de la main en positio
 Cette technique associe la stabilité en retrait de la position en L à la protection étendue d'une garde haute au tranchant des mains :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-    * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied arrière supporte **70 % du poids du corps**, orienté à environ 15° vers l'intérieur.
     * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
     * Les talons sont alignés sur la même ligne de référence, le corps à mi-profil (*Ban Mom*).
 2. **L'armement (Préparation) :**

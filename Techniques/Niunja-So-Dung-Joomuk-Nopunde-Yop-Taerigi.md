@@ -8,7 +8,7 @@ Cette technique d'attaque rapide et percutante utilise le revers du poing fermé
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing fermé (*Backfist* — la surface dorsale des deux premières jointures de l'index et du majeur).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou de la tempe).
 * **Yop ([옆](../audio/grammaire/Yop.m4a)) :** Latéral / Sur le côté (*Side*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Dung Joomuk** (Le revers des deux premières jointures de l'index et du majeur du poing fermement fermé). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Trajectoire (*Yop Taerigi*)** | **Latérale et circulaire (fouettée)** : le poing s'arme près de l'épaule opposée pour se détendre de façon cinglante vers le côté au niveau haut. |
 | **Zone ciblée / Hauteur** | **Niveau haut (*Nopunde*)** : la tempe, la mâchoire, l'arête du nez ou la pommette de l'adversaire. Le poing s'arrête à hauteur des yeux. |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
@@ -39,7 +39,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir la gravité et la rotation du buste en force de frappe.
 
 ### Étape 3 : Le Fouetté Latéral et le Verrouillage (*Snap*)

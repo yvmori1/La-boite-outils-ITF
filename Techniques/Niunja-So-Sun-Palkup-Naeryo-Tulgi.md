@@ -25,7 +25,7 @@ Elle se traduit par : **Pousser / pique descendante du coude vertical en positio
 Cette technique associe la force de gravité au verrouillage de la position en L pour enfoncer le coude verticalement sur la cible :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-    * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied arrière supporte **70 % du poids du corps**, orienté à environ 15° vers l'intérieur.
     * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
     * Les talons sont alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**

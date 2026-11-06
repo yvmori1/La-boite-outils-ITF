@@ -8,7 +8,7 @@ Cette technique défensive bilatérale et très spécifique utilise simultanéme
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Jumelé (*Twin* — les deux mains agissent de concert).
 * **Sonbadak ([손바닥](../audio/grammaire/Sonbadak.m4a)) :** Paume de la main (*Palm*).
 * **Soopyong / Supyeong ([수평](../audio/termes/soopyong.m4a)) :** Horizontal / À l'horizontale (*Horizontal*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Sang Sonbadak** (La zone charnue des deux paumes ouvertes : les 4 doigts sont tendus, serrés et légèrement incurvés vers l'arrière, pouces fléchis). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Trajectoire (*Soopyong*)** | **Horizontale et symétrique** : les deux bras se déploient parallèlement au sol de manière à former un écran défensif horizontal. |
 | **Zone protégée** | Le thorax, le plexus solaire ou les flancs contre des frappes arrivant sur un plan horizontal. |
 | **Orientation des paumes** | À l'impact final, les paumes des deux mains sont **orientées vers l'extérieur / vers l'avant** pour absorber ou pousser la frappe adverse. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps ancré sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps ancré sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir la gravité en puissance de blocage.
 
 ### Étape 3 : Le Balayage Horizontal et le Verrouillage (*Snap*)

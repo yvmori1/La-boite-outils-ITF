@@ -8,7 +8,7 @@ Cette technique d'attaque ou de contre-attaque permet de décocher un coup de po
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — répartition 60% arrière / 40% avant, pieds formant un angle de 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — répartition 70% arrière / 30% avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du thorax, du plexus solaire ou des côtes).
 * **Yop / Yeop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct en piston / perçant (*Piercing punch*).
@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Ap Joomuk** (Les deux grosses jointures à la base de l'index et du majeur du poing fermé). |
-| **Posture (*Niunja Sogi*)** | **60% du poids sur la jambe arrière, 40% sur la jambe avant**. Les pieds forment un angle de 90°. La distance en longueur est d'environ 1,5 largeur d'épaules. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Les pieds forment presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. La distance en longueur est d'environ 1,5 largeur d'épaules. |
 | **Trajectoire (*Yop Jirugi*)** | **Ligne droite rectiligne vers le côté à 90°** (ou vers le flanc de l'adversaire situé latéralement par rapport à la ligne de garde). |
 | **Hauteur (*Kaunde*)** | **Niveau moyen** (aligné avec le plexus solaire ou les côtes flottantes du pratiquant). |
 | **Orientation du buste** | Profil ou semi-profil (*Han Momtong*), aligné avec l'axe de la frappe latérale. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L et la Chute de Masse
 
-1. **Ancrage en *Niunja Sogi* :** Le pied se pose fermement pour verrouiller la posture en L (60% du poids sur la jambe arrière, 40% sur la jambe avant).
+1. **Ancrage en *Niunja Sogi* :** Le pied se pose fermement pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescente du bassin au moment de la pose des pieds pour convertir l'énergie de pesanteur en puissance d'impact.
 
 ### Étape 3 : L'Impact Latéral et le Verrouillage (*Snap*)
@@ -54,7 +54,7 @@ Sa décomposition linguistique est la suivante :
 > **Attaque en angle mort et stabilité en retrait :**
 >
 > 1. **Gestion d'un agresseur sur le flanc :** Le *Yop Jirugi* permet de neutraliser un adversaire qui tente de vous contourner ou qui attaque depuis le côté, sans avoir besoin de faire un tour complet sur soi-même.
-> 2. **Profiter de la mobilité de la posture en L :** La répartition de masse en *Niunja Sogi* (60% sur l'arrière) permet d'absorber une charge venant de face tout en frappant un second adversaire ou une ouverture latérale.
+> 2. **Profiter de la mobilité de la posture en L :** La répartition de masse en *Niunja Sogi* (70% sur l'arrière) permet d'absorber une charge venant de face tout en frappant un second adversaire ou une ouverture latérale.
 > 3. **Pénétration étroite (*Ap Joomuk*) :** La projection en piston du poing traverse la garde latérale pour atteindre directement les côtes flottantes ou le plexus.
 
 ---
@@ -62,7 +62,7 @@ Sa décomposition linguistique est la suivante :
 ## 4. Erreurs fréquentes à éviter
 
 * **Pousser au lieu de fouetter/tourner :** Oublier la vrille finale de 180° du poing (**Ap Joomuk**) à l'impact.
-* **Mauvaise répartition du poids :** Mettre 50% du poids sur chaque jambe au lieu de maintenir 60% sur la jambe arrière en *Niunja Sogi*.
+* **Mauvaise répartition du poids :** Mettre 50% du poids sur chaque jambe au lieu de maintenir 70% sur la jambe arrière en *Niunja Sogi*.
 * **Frapper vers l'avant au lieu du côté :** Confondre le *Yop Jirugi* (coup de poing latéral à 90°) avec un coup de poing frontal (*Ap Jirugi*).
 * **Casser l'alignement du poignet :** Tordre le poignet au moment du choc latéral au lieu de le maintenir aligné avec l'avant-bras.
 * **Buste penché :** Pencher le torse à l'opposé de la frappe pour compenser l'extension du bras, ce qui détruit l'équilibre et la structure de la posture.

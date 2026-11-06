@@ -26,7 +26,7 @@ Elle se traduit par : **Blocage de garde moyen au tranchant de la main en positi
 Cette technique associe la stabilité de la position en L à la protection offerte par les deux mains fermement armées en tranchant (*Sonkal*) :
 
 1. **La position des jambes (*Orun Niunja Sogi*) :**
-    * Le pied droit est placé à l'arrière, orienté à environ 15° vers l'extérieur, et supporte **70 % du poids du corps**.
+    * Le pied droit est placé à l'arrière, orienté à environ 15° vers l'intérieur, et supporte **70 % du poids du corps**.
     * Le pied gauche est à l'avant, pointant vers l'avant (légèrement incliné vers l'intérieur d'environ 15°), supportant **30 % du poids**.
     * Le talon du pied avant est aligné avec le talon du pied arrière.
 2. **L'armement (Préparation) :**

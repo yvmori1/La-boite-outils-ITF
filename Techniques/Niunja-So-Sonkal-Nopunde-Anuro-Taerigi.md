@@ -8,7 +8,7 @@ Cette technique d'attaque circulaire et tranchante utilise le bord extérieur de
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur/auriculaire de la main ouverte).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur du visage, du cou ou de la tempe).
 * **Anuro ([안으로](../audio/grammaire/Anuro.m4a)) :** Vers l'intérieur / Du dehors vers le dedans (*Inward*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sonkal** (Le tranchant de la main ouverte : 4 doigts tendus et serrés, pouce fléchi fermement contre la paume). |
-| **Posture (*Niunja Sogi*)** | **60% du poids sur la jambe arrière, 40% sur la jambe avant**. Les pieds forment un angle de 90°. La distance en longueur est d'environ 1,5 largeur d'épaules. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Les pieds forment presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. La distance en longueur est d'environ 1,5 largeur d'épaules. |
 | **Trajectoire (*Anuro*)** | **Arc de cercle du dehors vers le dedans** : la main part de l'extérieur/arrière et balaye vers la ligne centrale ou le côté opposé. |
 | **Orientation de la main** | À l'impact final, la paume de la main en *Sonkal* est **orientée vers le bas**. |
 | **Zone ciblée / Hauteur** | **Niveau haut (*Nopunde*)** : la carotide, la tempe, le côté du cou ou la mâchoire. |
@@ -40,7 +40,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L et la Chute de Masse
 
-1. **Ancrage en *Niunja Sogi* :** Le pied avant se pose fermement pour verrouiller la posture en L (60% du poids sur la jambe arrière, 40% sur la jambe avant).
+1. **Ancrage en *Niunja Sogi* :** Le pied avant se pose fermement pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescente du bassin au moment de la pose des pieds pour convertir la pesanteur en force de rotation.
 
 ### Étape 3 : L'Impact Cinglant et le Verrouillage (*Snap*)
@@ -58,7 +58,7 @@ Sa décomposition linguistique est la suivante :
 >
 > 1. **Cible névralgique à haut risque (*Sinus carotidien*) :** Frapper le côté du cou avec le tranchant de la main (**Sonkal**) peut provoquer une baisse brutale de tension artérielle (réflexe vagal) ou un K.O. immédiat.
 > 2. **Contournement des bras adverses :** La trajectoire circulaire extérieure-intérieure (*Anuro*) permet d'englober et de passer par-dessus ou autour des avant-bras de l'adversaire pour atteindre le visage.
-> 3. **Stabilité défensive (*Niunja Sogi*) :** L'assise sur la jambe arrière (60%) garantit une excellente stabilité en retrait, permettant d'esquiver une charge tout en décochant le coup cinglant au passage.
+> 3. **Stabilité défensive (*Niunja Sogi*) :** L'assise sur la jambe arrière (70%) garantit une excellente stabilité en retrait, permettant d'esquiver une charge tout en décochant le coup cinglant au passage.
 
 ---
 
@@ -67,5 +67,5 @@ Sa décomposition linguistique est la suivante :
 * **Main molle :** Doigts écartés ou pouce non fléchi contre la paume, risquant de se luxer ou casser la main au moment de l'impact.
 * **Paume tournée vers le haut à l'impact :** Ne pas effectuer la rotation finale du poignet (la paume doit finir orientée vers le bas).
 * **Trajectoire droite au lieu de circulaire :** Pousser le bras de façon rectiligne (*Jirugi*) au lieu d'exécuter un fouetté circulaire (*Taerigi*).
-* **Mauvaise répartition du poids :** Ne pas charger 60% du poids sur la jambe arrière en *Niunja Sogi*.
+* **Mauvaise répartition du poids :** Ne pas charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
 * **Buste trop ouvert :** Tourner complètement le corps de face (*Jeongmyon*) au lieu de maintenir la posture de semi-profil (*Han Momtong*).

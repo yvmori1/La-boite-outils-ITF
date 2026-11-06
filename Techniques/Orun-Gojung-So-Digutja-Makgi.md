@@ -24,7 +24,7 @@ Elle se traduit par : **Blocage en U (en forme de « [ㄷ](../audio/termes/digeu
 Cette technique associe la stabilité maximale de la position fixe à une structure de blocage en tenailles à deux niveaux :
 
 1. **La position des jambes (*Orun Gojung Sogi*) :**
-    * Le pied droit est placé à l'arrière (orienté à 15° vers l'extérieur) et le pied gauche à l'avant (légèrement rentré de 15°).
+    * Le pied droit est placé à l'arrière (orienté à environ 15° vers l'intérieur) et le pied gauche à l'avant (légèrement rentré de 15°).
     * La distance entre les gros orteils est d'environ **1,5 largeur d'épaules** (plus longue que la position en L *Niunja Sogi*).
     * Le poids du corps est réparti à **50 % sur la jambe arrière et 50 % sur la jambe avant**.
 2. **L'armement (Préparation) :**

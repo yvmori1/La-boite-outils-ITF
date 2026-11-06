@@ -8,7 +8,7 @@ Cette technique d'attaque très spécifique et chirurgicale utilise la saillie d
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Joongji Joomuk ([중지주먹](../audio/termes/joongji-joomuk.m4a)) :** Poing à majeur sortant (*Middle-finger knuckle fist* — le poing est fermé, mais la deuxième articulation du majeur est projetée vers l'extérieur et verrouillée par le pouce).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Direct / Obverse* — la frappe est exécutée avec le bras situé **du même côté que la jambe arrière**).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Joongji Joomuk** (Le poing est fermé, mais l'articulation interphalangienne proximale du majeur ressort vers l'avant. La pulpe du pouce vient se plaquer fermement sur l'ongle ou la première phalange du majeur pour la verrouiller complètement). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Principe *Baro* (Direct)** | La frappe est effectuée par la main **du côté de la jambe arrière** (ex: jambe droite derrière + poing droit qui frappe). |
 | **Trajectoire (*Kaunde Jirugi*)** | **Directe et rectiligne** vers le plexus solaire. Le bras sort de la hanche en vrillant au dernier instant. |
 | **Main de réaction (*Bandae Son*)** | Le poing opposé (du côté de la jambe avant) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
@@ -39,7 +39,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour sceller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour sceller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir l'énergie gravitationnelle en force de pénétration.
 
 ### Étape 3 : La Pénétration et le Verrouillage (*Snap*)

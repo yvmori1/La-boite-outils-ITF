@@ -8,7 +8,7 @@ Cette technique de saisie et de contrôle bilatérale très spécifique mime la 
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Digutja ([ㄷ자](../audio/termes/digutja.m4a)) :** En forme de la lettre coréenne *Digut* **[ㄷ](../audio/termes/digeut.m4a)** (*U-shape / C-shape*).
 * **Japgi ([잡기](../audio/termes/japgi.m4a)) :** Saisie / Prise / Attraper (*Grasp / Hold*).
 
@@ -19,7 +19,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Sonbadak & Sonkal** (Les deux mains ouvertes travaillent en étau : la main supérieure présente la paume/tranchant vers le bas, la main inférieure présente la paume/tranchant vers le haut). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Disposition des mains** | Les deux bras sont fléchis et superposés sur une même ligne verticale devant l'axe du corps. La main supérieure est au niveau du visage/arcade, la main inférieure au niveau du bas-ventre/ceinture, formant un crochet vertical **[ㄷ](../audio/termes/digeut.m4a)**. |
 | **Alignement des poignets** | Les deux poignets et paumes sont alignés verticalement l'un au-dessus de l'autre pour verrouiller l'objet ou le membre attaquant en étau. |
 | **Orientation du buste** | Semi-profil (*Han Momtong*) à 45° ou de face selon la ligne de l'attaque. |
@@ -35,7 +35,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour ancrer la prise et fixer le centre de gravité.
 
 ### Étape 3 : La Fermeture en Étau (*Japgi*)

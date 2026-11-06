@@ -8,7 +8,7 @@ Cette technique défensive bilatérale utilise le croisement des deux poings fer
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Kyocha ([교차](../audio/termes/kyocha.m4a)) :** Croisé / En X (*X-shape / Cross*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
 * **Noollo ([눌러](../audio/grammaire/Nullo.m4a)) :** Pressant / Écraseur / Poussée vers le bas (*Pressing*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Kyocha Joomuk** (Les deux poings fermés, croisés au niveau des poignets). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Croisement des poignets** | Les poignets se croisent en forment un « X ». Le bras du côté de la jambe avant se place généralement à l'extérieur pour maintenir l'alignement biomécanique. |
 | **Trajectoire (*Noollo*)** | **Descendante et pressante** : les poignets croisés descendent du niveau de la poitrine/ceinture vers le bas-ventre/cuisses en effectuant une poussée d'écrasement. |
 | **Zone protégée / Hauteur** | **Niveau bas (*Najunde*)** : protège l'aine, le bas-ventre et les cuisses en écrasant l'attaque de l'adversaire. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour ajouter la force de gravité à la poussée descendante.
 
 ### Étape 3 : La Pression Descendante et le Verrouillage (*Pressing Snap*)

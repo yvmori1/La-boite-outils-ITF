@@ -8,7 +8,7 @@ Cette technique défensive à un seul bras utilise le revers du tranchant de la 
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/au niveau du bas-ventre).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
@@ -22,7 +22,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sonkal Dung** (Le revers du tranchant de la main : 4 doigts tendus et bien serrés, pouce fléchi fermement contre la paume pour exposer la tranche osseuse à la base de l'index). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Principe *Bandae* (Inversé)** | Le blocage est exécuté par la main située **du côté de la jambe avant**. |
 | **Trajectoire (*Anuro*)** | **Du dehors vers le dedans** : la main part de l'extérieur (du côté de la hanche/épaule avant) et balaie vers l'axe central du corps au niveau bas (*Najunde*). |
 | **Zone protégée** | **Niveau bas (*Najunde*)** : le bas-ventre, la vessie, l'aine et le haut de la cuisse avant. |
@@ -41,7 +41,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir l'énergie gravitationnelle en puissance de balayage défensif.
 
 ### Étape 3 : Le Balayage Intérieur et le Verrouillage (*Snap*)

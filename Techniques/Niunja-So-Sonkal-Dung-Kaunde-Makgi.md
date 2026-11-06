@@ -8,7 +8,7 @@ Cette technique défensive utilise le revers du tranchant de la main (**Sonkal D
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — bord intérieur de la main ouverte, du côté du pouce fléchi et du bord de l'index).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sonkal Dung** (Le revers du tranchant de la main : 4 doigts tendus et bien serrés, pouce fléchi fermement contre la paume pour exposer la tranche osseuse à la base de l'index). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Trajectoire (*Kaunde Makgi*)** | **Du dehors vers le dedans (*Anuro*)** : la main s'arme près de l'épaule arrière pour venir dévier l'attaque devant le plexus solaire. |
 | **Hauteur / Zone protégée** | **Niveau moyen (*Kaunde*)** : le revers du tranchant de la main s'arrête à hauteur des épaules/du plexus solaire. |
 | **Main de réaction (*Bandae Son*)** | Le poing de la main opposée est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de la pose des pieds pour convertir l'énergie gravitationnelle en force de blocage.
 
 ### Étape 3 : Le Balayage Intérieur et le Verrouillage (*Snap*)

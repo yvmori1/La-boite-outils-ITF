@@ -8,7 +8,7 @@ Elle associe en un seul temps d'impact un **blocage haut vers l'extérieur avec 
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Bakat Palmok ([바깥 팔목](../audio/termes/bakat-palmok.m4a)) :** Extérieur de l'avant-bras (du côté du petit doigt/du radius).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (hauteur du visage / des yeux).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (exécuté par le bras situé **du côté de la jambe arrière**).
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 
 | Élément | Norme technique ITF |
 | --- | --- |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. |
 | **Bras haut (*Baro*)** | **Bakat Palmok Nopunde Baro Bakuro Makgi** : Le bras du côté de la **jambe arrière** balaie de l'intérieur vers l'extérieur pour bloquer au niveau du visage (*Nopunde*) avec l'extérieur de l'avant-bras (*Bakat Palmok*). La paume du poing termine tournée vers l'extérieur ou l'avant. |
 | **Bras bas (*Bandae*)** | **Palmok Najunde Bandae Makgi** : Le bras du côté de la **jambe avant** descend en arc de cercle le long du buste pour bloquer au niveau bas (*Najunde*) au-dessus de la cuisse avant. |
 | **Synchronicité** | Les deux blocages se déploient et se verrouillent **strictement en même temps** lors du temps final de la chute de masse (*Sine Wave*). |
@@ -44,7 +44,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15° (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de la pose des pieds pour convertir la gravité en puissance de blocage bidirectionnelle.
 
 ### Étape 3 : Le Déploiement Simultané et le Verrouillage (*Snap*)

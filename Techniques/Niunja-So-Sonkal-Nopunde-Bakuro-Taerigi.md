@@ -25,7 +25,7 @@ Elle se traduit par : **Frappe vers l'extérieur au tranchant de la main au nive
 Cette technique associe le soutien en retrait de la position en L à la force centrifuge du tranchant de la main projeté vers l'extérieur :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-    * Le pied arrière supporte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied arrière supporte **70 % du poids du corps**, orienté à environ 15° vers l'intérieur.
     * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
     * Les talons sont alignés sur la même ligne de référence, le corps placé à mi-profil (*Ban Mom*).
 2. **L'armement (Préparation) :**

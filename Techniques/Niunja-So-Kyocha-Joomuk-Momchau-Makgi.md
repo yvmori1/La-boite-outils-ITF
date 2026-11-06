@@ -8,7 +8,7 @@ Cette technique défensive bilatérale utilise le croisement rigide des deux poi
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Kyocha ([교차](../audio/termes/kyocha.m4a)) :** Croisé / En X (*X-shape / Cross*).
 * **Joomuk ([주먹](../audio/grammaire/Joomuk.m4a)) :** Poing fermé (*Fist*).
 * **Momchau ([멈춰](../audio/termes/momchau.m4a)) :** Arrêt net / Stopper / Bloquer l'impulsion (*Checking / Stop*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Kyocha Joomuk** (Les deux poings fermement fermés et croisés au niveau des poignets/articulations). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Croisement des poignets** | Les poignets se croisent en formant une structure rigide en « X ». Le bras du côté de la jambe avant se place à l'extérieur pour garantir l'alignement structurel. |
 | **Trajectoire (*Momchau*)** | **Poussée d'arrêt directe** : les poings croisés s'opposent frontalement à la trajectoire d'attaque pour stopper net l'énergie cinétique du membre adverse. |
 | **Zone ciblée / Hauteur** | Généralement exécuté au niveau **bas (*Najunde*)** ou **moyen (*Kaunde*)** pour intercepter le tibia, la cheville ou le genou adverse. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour ancrer la force de blocage contre l'impact de l'agresseur.
 
 ### Étape 3 : L'Interception et le Verrouillage (*Momchau Snap*)

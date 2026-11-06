@@ -8,7 +8,7 @@ Cette technique défensive bilatérale utilise le revers du tranchant des deux m
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal Dung ([손칼등](../audio/grammaire/Sonkal-Dung.m4a)) :** Revers du tranchant de la main (*Reverse knife-hand* — le bord intérieur de la main ouverte, du côté du pouce et de la base de l'index).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur des yeux, du visage ou de la tempe).
 * **Daebi ([대비](../audio/termes/daebi.m4a)) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Sang Sonkal Dung** (Le revers du tranchant des deux mains : 4 doigts tendus et serrés, pouces fléchis fermement vers les paumes pour exposer l'arête osseuse à la base de chaque index). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Position du bras bloquant** | Le bras avant est fléchi et déployé vers l'avant au niveau haut (*Nopunde*). Le revers du tranchant de la main se trouve à hauteur des yeux/du visage. |
 | **Position du bras de réaction** | Le bras arrière est plié devant la poitrine/plexus, la main en *Sonkal Dung* placée à environ 2 à 3 cm du thorax pour protéger le buste. |
 | **Hauteur / Zone protégée** | **Niveau haut (*Nopunde*)** : protège la tête, le visage, les tempes et le cou. |
