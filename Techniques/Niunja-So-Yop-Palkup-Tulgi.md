@@ -8,7 +8,7 @@ Cette technique de frappe dévastatrice à très courte distance utilise la poin
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Yop / Yeop ([옆](../audio/grammaire/Yop.m4a)) :** Côté / Latéral (*Side*).
 * **Palkup / Palgup ([팔굽](../audio/grammaire/Palkup.m4a)) :** Coude (*Elbow*).
 * **Tulgi ([뚫기](../audio/grammaire/Tulgi.m4a)) :** Pique / Poussée perçante en piston (*Thrust / Piercing strike*).
@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Yop Palkup** (La pointe osseuse ou la face extérieure du coude fortement fléchi). |
-| **Posture (*Niunja Sogi*)** | **60% du poids sur la jambe arrière, 40% sur la jambe avant**. Les pieds forment un angle de 90°. Longueur de la posture : 1,5 largeur d'épaules. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Les pieds forment presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Longueur de la posture : 1,5 largeur d'épaules. |
 | **Trajectoire (*Tulgi*)** | **Poussée rectiligne horizontale vers le côté à 90°** : le coude fuse en ligne droite vers la cible latérale. |
 | **Hauteur / Cible** | **Niveau moyen (*Kaunde*)** (plexus solaire, côtes flottantes) ou **niveau haut (*Nopunde*)** (mâchoire, tempe). |
 | **Main de soutien (*Sonbadak*)** | La paume de la main opposée vient se plaquer fermement contre le poing du bras de frappe pour former une structure de poussée indéformable. |
@@ -37,7 +37,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L et la Chute de Masse
 
-1. **Ancrage en *Niunja Sogi* :** Poser le pied avant au sol pour verrouiller la posture en L (60% de la masse sur la jambe arrière).
+1. **Ancrage en *Niunja Sogi* :** Poser le pied avant au sol pour verrouiller la posture en L (70% de la masse sur la jambe arrière).
 2. **Chute de masse :** Redescendre le bassin au moment de la pose des pieds pour convertir l'énergie de pesanteur en force de pénétration latérale.
 
 ### Étape 3 : La Poussée Latérale et le Verrouillage (*Tulgi Snap*)
@@ -54,7 +54,7 @@ Sa décomposition linguistique est la suivante :
 >
 > 1. **Réponse à un agresseur latéral :** Idéal pour neutraliser un adversaire situé sur votre flanc qui tente une saisie à la ceinture, un étranglement ou une frappe rapprochée.
 > 2. **Démultiplication par le soutien des deux bras :** L'action de pousser le coude tout en appuyant avec la paume opposée recrée une structure triangulaire indéformable capable de briser les côtes de l'agresseur.
-> 3. **Stabilité en retrait (*Niunja Sogi*) :** Conserver 60% du poids du corps sur la jambe arrière permet de résister à une poussée frontale tout en projetant le coude vers le côté avec une force maximale.
+> 3. **Stabilité en retrait (*Niunja Sogi*) :** Conserver 70% du poids du corps sur la jambe arrière permet de résister à une poussée frontale tout en projetant le coude vers le côté avec une force maximale.
 
 ---
 
@@ -62,6 +62,6 @@ Sa décomposition linguistique est la suivante :
 
 * **Confondre poussée et balayage :** Effectuer un arc de cercle avec le coude (*Dollyo Palkup*) au lieu de pousser le coude de manière rectiligne vers le côté (*Tulgi*).
 * **Oublier la main de soutien :** Laisser la main opposée pendre à la hanche au lieu de la caler contre le poing de frappe pour renforcer la poussée.
-* **Mauvaise répartition de la posture :** Répartir le poids 50/50 au lieu de charger 60% du poids sur la jambe arrière en *Niunja Sogi*.
+* **Mauvaise répartition de la posture :** Répartir le poids 50/50 au lieu de charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
 * **Pencher le buste :** Incliner le torse du côté opposé pour essayer de gagner de la portée, ce qui détruit l'alignement de la colonne vertébrale et l'équilibre.
 * **Coudre trop haut ou trop bas :** Ne pas maintenir l'avant-bras parallèle au sol à l'impact, dispersant la force de pénétration.

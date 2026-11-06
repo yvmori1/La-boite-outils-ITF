@@ -8,7 +8,7 @@ Cette technique d'attaque perforante associe la précision chirurgicale de la pi
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Opun ([엎은](../audio/termes/opun.m4a)) :** À plat / Paume vers le bas (*Flat / Palm down*).
 * **Sonkut ([손끝](../audio/termes/sonkut.m4a)) :** Bout des doigts (*Fingertips*).
 * **Nopunde ([높은데](../audio/grammaire/Nopunde.m4a)) :** Niveau haut (*High level* — hauteur de la gorge ou des yeux).
@@ -22,7 +22,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Opun Sonkut** (Bout des trois doigts centraux : index, majeur et annulaire tendus et serrés ; le majeur est très légèrement fléchi pour s'aligner sur la même longueur que les deux autres). |
-| **Posture (*Niunja Sogi*)** | **60% du poids sur la jambe arrière, 40% sur la jambe avant**. Les pieds forment un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Les pieds forment presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Principe *Bandae* (Inversé)** | **Main qui pique située du côté de la jambe avant** (ex: jambe droite à l'arrière / jambe gauche devant = pique de la main gauche). |
 | **Orientation de la main (*Opun*)** | **Paume orientée fermement vers le sol** à l'impact final. |
 | **Zone ciblée / Hauteur** | **Niveau haut (*Nopunde*)** : la gorge (fossette jugulaire), la pomme d'Adam ou les yeux. |
@@ -41,7 +41,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Verrouillage de l'assise :** Poser les pieds pour bloquer la posture en L (60% du poids du corps ancré sur la jambe arrière).
+1. **Verrouillage de l'assise :** Poser les pieds pour bloquer la posture en L (70% du poids du corps ancré sur la jambe arrière).
 2. **Chute de masse :** Redescendre le bassin pour convertir la gravité en force de pénétration horizontale.
 
 ### Étape 3 : La Pique et le Verrouillage (*Tulgi Snap*)
@@ -57,7 +57,7 @@ Sa décomposition linguistique est la suivante :
 
 > **Portée en esquive, neutralisation sur cible molle et profil réduit :**
 >
-> 1. **Protection en retrait (*Niunja Sogi*) :** Conserver 60% de la masse sur la jambe arrière permet d'esquiver un coup de poing de face tout en gardant une distance de sécurité.
+> 1. **Protection en retrait (*Niunja Sogi*) :** Conserver 70% de la masse sur la jambe arrière permet d'esquiver un coup de poing de face tout en gardant une distance de sécurité.
 > 2. **Cibles molles hyper-sensibles :** La pique des doigts n'a pas besoin de la masse d'un poing lourd pour neutraliser un agresseur : cibler la gorge ou les yeux coupe immédiatement sa respiration ou sa vision.
 > 3. **Engagement par l'effet *Bandae* :** La rotation du buste en position inversée propulse la main avant avec plus de vitesse tout en conservant le corps de semi-profil (*Han Momtong*), offrant ainsi moins de surface vulnérable à l'adversaire.
 
@@ -68,5 +68,5 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Baro* et *Bandae* :** Frapper avec la main du côté de la jambe arrière au lieu d'utiliser la main située du côté de la jambe avant.
 * **Majeur non ajusté :** Laisser le majeur dépasser, risquant de se le luxer ou se le casser lors de la pénétration.
 * **Doigts écartés :** Relâcher la cohésion des trois doigts d'impact, ce qui annule la rigidité de la pique.
-* **Mauvaise répartition du poids :** Répartir le poids 50/50 ou charger la jambe avant au lieu de maintenir 60% sur la jambe arrière en *Niunja Sogi*.
+* **Mauvaise répartition du poids :** Répartir le poids 50/50 ou charger la jambe avant au lieu de maintenir 70% sur la jambe arrière en *Niunja Sogi*.
 * **Paume mal orientée :** Terminer la frappe paume de profil au lieu d'effectuer la rotation complète pour verrouiller la paume vers le sol (**Opun**).

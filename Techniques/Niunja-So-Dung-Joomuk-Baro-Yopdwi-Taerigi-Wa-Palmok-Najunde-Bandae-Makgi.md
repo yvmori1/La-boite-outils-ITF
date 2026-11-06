@@ -8,7 +8,7 @@ Elle associe en un seul temps d'impact un **coup de revers de poing direct vers 
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Dung Joomuk ([등주먹](../audio/grammaire/Dung-Joomuk.m4a)) :** Revers du poing fermé (surface dorsale de l'index et du majeur).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (exécuté avec le bras du côté de la jambe arrière).
 * **Yopdwi ([옆뒤](../audio/termes/yopdwi.m4a)) :** Latéral-arrière / Oblique vers l'arrière (*Side-rear*).
@@ -25,7 +25,7 @@ Sa décomposition linguistique est la suivante :
 
 | Élément | Norme technique ITF |
 | --- | --- |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds à 90°. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds presque à angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. |
 | **Bras de frappe (*Baro*)** | **Dung Joomuk Baro Yopdwi Taerigi** : Le bras situé du côté de la **jambe arrière** s'arme près de l'épaule opposée pour détendre un coup cinglant avec le revers du poing vers le côté-arrière (niveau haut/moyen). |
 | **Bras de blocage (*Bandae*)** | **Palmok Najunde Bandae Makgi** : Le bras situé du côté de la **jambe avant** balaie du haut vers le bas pour effectuer un blocage à l'avant-bras au niveau bas (*Najunde*). |
 | **Synchronicité** | La frappe arrière et le blocage bas se verrouillent **exactement au même instant**, scellés par la chute de masse et une seule expiration. |
@@ -44,7 +44,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° (70% du poids sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15° (70% du poids sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de la pose des pieds pour convertir la gravité en double énergie cinétique (frappe + blocage).
 
 ### Étape 3 : L'Action simultanée et le Verrouillage (*Snap*)

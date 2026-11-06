@@ -8,7 +8,7 @@ Cette technique d'attaque percutante utilise la surface du dos de la main ouvert
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sondung ([손등](../audio/termes/sondung.m4a)) :** Dos / Revers de la main (*Back hand* — la surface dorsale de la main ouverte).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main située du côté de la jambe avant / opposée à la jambe arrière).
 * **Naeryo ([내려](../audio/grammaire/Naeryo.m4a)) :** Descendant / Du haut vers le bas (*Downward*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sondung** (Le dos de la main ouverte : la main est complètement étendue, 4 doigts tendus et bien serrés, pouce fléchi fermement contre la paume. L'impact se fait avec le dessus du métacarpe). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Principe *Bandae* (Inversé)** | La frappe est exécutée par la main située **du côté de la jambe avant** (ex: jambe gauche devant + main gauche qui frappe). |
 | **Trajectoire (*Naeryo*)** | **Verticale descendante** : la main s'élève au-dessus de l'épaule/tête puis rabat le coup de façon cravachée vers le bas. |
 | **Zone ciblée** | **Clavicule, tête, arête du nez ou épaule** de l'adversaire. |
@@ -40,7 +40,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps ancré sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps ancré sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir la gravité en puissance de frappe descendante.
 
 ### Étape 3 : Le Fouetté Descendant et le Verrouillage (*Snap*)

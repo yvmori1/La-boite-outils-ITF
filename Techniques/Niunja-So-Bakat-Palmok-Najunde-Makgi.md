@@ -8,7 +8,7 @@ Cette technique défensive fondamentale utilise la surface osseuse extérieure d
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Bakat Palmok ([바깥 팔목](../audio/termes/bakat-palmok.m4a)) :** Extérieur de l'avant-bras (*Outer forearm* — zone osseuse du côté du petit doigt / du radius).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture / bas-ventre, aine, cuisses).
 * **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Bakat Palmok** (L'extérieur de l'avant-bras : la zone osseuse située sur le tranchant extérieur près du poignet, poing fermement fermé). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Trajectoire (*Najunde*)** | **Descendante en arc de cercle** : la main bloquante part de l'épaule opposée pour descendre balayer le niveau bas. |
 | **Zone protégée** | Le bas-ventre, l'aine, la vessie et le haut de la cuisse. Le poing s'arrête à environ 15-20 cm au-dessus de la cuisse/genou avant. |
 | **Variantes de bras (*Baro / Bandae*)** | Peut s'exécuter en version **Baro** (bras du côté de la jambe arrière) ou **Bandae** (bras du côté de la jambe avant, la forme la plus courante). |
@@ -39,7 +39,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour coupler l'énergie gravitationnelle à la descente du bras.
 
 ### Étape 3 : Le Balayage Descendant et le Verrouillage (*Snap*)

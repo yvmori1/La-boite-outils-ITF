@@ -8,7 +8,7 @@ Cette technique d'attaque chirurgicale et ascendante utilise l'articulation sail
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Joongji Joomuk ([중지주먹](../audio/termes/joongji-joomuk.m4a)) :** Poing à majeur sortant (*Middle-finger knuckle fist* — poing fermé dont la deuxième articulation du majeur est projetée vers l'extérieur et verrouillée par le pouce).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Direct / Obverse* — la frappe est exécutée par le bras du côté de la jambe arrière).
 * **Dwijibo ([뒤집어](../audio/termes/dwijibo.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Joongji Joomuk** (Poing fermé avec l'articulation du majeur projetée vers l'avant. La pulpe du pouce vient se plaquer fermement sur la première phalange ou l'ongle du majeur pour sceller la structure). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Principe *Baro* (Direct)** | La frappe est exécutée par le bras situé **du côté de la jambe arrière** (ex: jambe droite derrière + bras droit qui frappe). |
 | **Orientation de la main (*Dwijibo*)** | À l'impact final, le poing est **retourné, paume orientée vers le haut**. |
 | **Trajectoire et Hauteur** | **Légèrement ascendante et pénétrante** (niveau moyen / bas du plexus solaire ou abdomen). |
@@ -40,7 +40,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour ajouter la force de gravité à la poussée.
 
 ### Étape 3 : La Pénétration Ascendante (*Dwijibo Jirugi*)

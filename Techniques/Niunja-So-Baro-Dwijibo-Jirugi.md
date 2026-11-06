@@ -8,7 +8,7 @@ Cette technique d'attaque à trajectoire légèrement ascendante et pénétrante
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Baro ([바로](../audio/grammaire/Baro.m4a)) :** Direct / Du même côté (*Obverse* — s'exécute avec la main située du côté de la jambe arrière).
 * **Dwijibo ([뒤집어](../audio/termes/dwijibo.m4a)) :** Retourné / Paume vers le haut (*Upset / Turned over / Upside down*).
 * **Jirugi ([지르기](../audio/grammaire/Jirugi.m4a)) :** Coup de poing direct / Pénétration (*Punch*).
@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Ap Joomuk** (Les deux premières jointures de l'index et du majeur du poing fermement fermé). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Principe *Baro* (Direct)** | La frappe est exécutée par la main **du côté de la jambe arrière** (ex: jambe droite arrière + poing droit qui frappe). |
 | **Orientation de la main (*Dwijibo*)** | À l'impact final, le poing est **retourné, paume orientée vers le haut**. |
 | **Trajectoire et Hauteur** | **Légèrement ascendante et pénétrante**, au niveau moyen (*Kaunde*) ou bas (*Najunde*) — visant le plexus solaire ou le bas-ventre. |
@@ -39,7 +39,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir la gravité et l'engagement de la hanche arrière en force de poussée.
 
 ### Étape 3 : La Pénétration Ascendante (*Dwijibo Jirugi*)

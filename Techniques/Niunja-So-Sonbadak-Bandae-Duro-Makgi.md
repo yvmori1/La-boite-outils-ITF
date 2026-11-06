@@ -25,7 +25,7 @@ Elle se traduit par : **Blocage relevé (en cuillère) inversé à la paume de l
 Cette technique privilégie la déviation circulaire et le déséquilibre de l'adversaire plutôt que le choc frontal :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-    * Le pied arrière porte **70 % du poids du corps**, orienté à 15° vers l'extérieur.
+    * Le pied arrière porte **70 % du poids du corps**, orienté à environ 15° vers l'intérieur.
     * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
     * Les talons restent alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**

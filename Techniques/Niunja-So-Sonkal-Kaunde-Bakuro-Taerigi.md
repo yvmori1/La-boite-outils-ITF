@@ -25,7 +25,7 @@ La frappe s'exécute en profil de trois-quarts (*Half-facing*), associant protec
 | **Longueur** | **1,5 largeur d'épaules** (du tranchant du pied arrière au gros orteil du pied avant). |
 | **Largeur** | Les deux talons sont alignés sur la même ligne axiale. |
 | **Répartition du poids** | **70% sur la jambe arrière** / **30% sur la jambe avant**. |
-| **Orientation des pieds** | Pied arrière ouvert à **90°**, pied avant pointé vers l'avant. Genoux fléchis vers l'extérieur. |
+| **Orientation des pieds** | Pieds presque à angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Genoux fléchis vers l'extérieur. |
 | **Orientation du buste** | **Profil de trois-quarts** (*Half-facing* / *Pan Momtong*). |
 
 ---

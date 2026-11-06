@@ -8,7 +8,7 @@ Cette technique défensive fondamentale utilise simultanément le tranchant des 
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sang ([쌍](../audio/termes/sang.m4a)) :** Double / Jumelé (*Twin* — les deux mains agissent ensemble).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
 * **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Sang Sonkal** (Le tranchant des deux mains ouvertes : 4 doigts tendus et bien serrés, pouces fléchis fermement contre les paumes). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Position du bras bloquant** | Le bras avant est fléchi et déployé vers l'avant, le tranchant de la main au niveau des épaules/du plexus solaire (ou niveau haut selon la variante). |
 | **Position du bras de garde** | Le bras arrière est fléchi devant le thorax, la main en *Sonkal* placée à environ 2 à 3 cm du plexus solaire pour assurer la seconde ligne défensive. |
 | **Zone protégée** | Le buste, le plexus solaire, le visage et la cage thoracique. |
@@ -37,7 +37,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour sceller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour sceller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir la gravité en puissance de blocage.
 
 ### Étape 3 : Le Déploiement et le Verrouillage (*Snap*)

@@ -8,7 +8,7 @@ Cette technique défensive fondamentale utilise la surface des deux avant-bras (
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Palmok ([팔목](../audio/grammaire/Palmok.m4a)) :** Avant-bras (*Forearm* — zone osseuse de blocage).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Daebi ([대비](../audio/termes/daebi.m4a)) :** Garde / Protection double (*Guarding* — les deux mains agissent en synergie pour protéger le corps).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Sang Palmok** (Les deux avant-bras, les deux points étant fermement fermés). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Position du bras bloquant** | Le bras avant est fléchi et déployé vers la cible. L'avant-bras se situe au niveau du plexus/épaule, le poing étant aligné avec la ligne de l'épaule avant. |
 | **Position du bras de garde** | Le bras arrière est fléchi devant le thorax, le poing fermé placé à environ 2 à 3 cm du plexus solaire pour assurer la seconde ligne défensive. |
 | **Hauteur / Zone protégée** | **Niveau moyen (*Kaunde*)** : protège la cage thoracique, les côtes flottantes et le plexus solaire. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour convertir la gravité en force de verrouillage défensif.
 
 ### Étape 3 : Le Déploiement et le Verrouillage (*Daebi Snap*)

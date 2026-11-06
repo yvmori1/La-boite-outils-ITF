@@ -24,7 +24,7 @@ Elle se traduit par : **Coup de poing direct double au niveau bas en position en
 Cette technique associe l'ancrage arrière de la position en L à la puissance symétrique d'une frappe double vers le bas :
 
 1. **La position des jambes (*Niunja Sogi*) :**
-    * Le pied arrière est orienté à 15° vers l'extérieur et supporte **70 % du poids du corps**.
+    * Le pied arrière est orienté à environ 15° vers l'intérieur et supporte **70 % du poids du corps**.
     * Le pied avant pointe vers l'avant (légèrement rentré de 15°) et supporte **30 % du poids**.
     * Les talons sont alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**

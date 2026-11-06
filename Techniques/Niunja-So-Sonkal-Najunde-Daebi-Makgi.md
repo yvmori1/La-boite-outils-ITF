@@ -8,7 +8,7 @@ Cette technique défensive fondamentale utilise les tranchants des deux mains ou
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/niveau de la vessie).
 * **Daebi ([대비](../audio/termes/daebi.m4a)) :** Garde / Protection double (*Guarding* — les deux mains agissent de concert pour protéger le corps).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Sang Sonkal** (Le tranchant des deux mains ouvertes : 4 doigts tendus et bien serrés, pouces fléchis contre les paumes). |
-| **Posture (*Niunja Sogi*)** | **60% du poids sur la jambe arrière, 40% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Position du bras bloquant** | Le bras avant est étendu vers le bas/l'avant, coude légèrement fléchi. Le tranchant de la main se trouve au niveau de la ceinture/bas-ventre, au-dessus du genou avant. |
 | **Position du bras de réaction** | Le bras arrière est plié devant le plexus/poitrine, la main en *Sonkal* est à environ 2 à 3 cm du thorax, paume tournée vers le haut/l'intérieur. |
 | **Hauteur / Zone protégée** | **Niveau bas (*Najunde*)** : protège l'aine, le bas-ventre et le haut des cuisses. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Poser les pieds pour sceller la posture en L à 90°, en distribuant 60% du poids du corps sur la jambe arrière et 40% sur la jambe avant.
+1. **Placement des pieds :** Poser les pieds presque à angle droit (orteils rentrés d'environ 15°) pour sceller la posture en L, en distribuant 70% du poids du corps sur la jambe arrière et 30% sur la jambe avant.
 2. **Chute de masse :** Redescendre le bassin pour convertir l'énergie gravitationnelle en force de blocage.
 
 ### Étape 3 : La Trajectoire et le Verrouillage (*Daebi Snap*)
@@ -56,7 +56,7 @@ Sa décomposition linguistique est la suivante :
 >
 > 1. **Protection intégrale de l'axe bas :** Le *Sonkal Najunde Daebi Makgi* permet de dévier un coup de pied bas puissant (*Ap Chagi* ou *Bandal Chagi* bas) sans risquer de se casser les doigts, grâce à la rigidité de la tranche de la main (**Sonkal**).
 > 2. **Double barrière (Principe *Daebi*) :** Pendant que la main avant barre l'accès au bas-ventre, la main arrière reste prête à intercepter une seconde frappe montante ou à enchaîner sur une contre-attaque.
-> 3. **Position en retrait sécurisée :** Conserver 60% du poids sur la jambe arrière en *Niunja Sogi* éloigne le buste de l'agresseur tout en gardant la jambe avant mobile pour bloquer ou riposter.
+> 3. **Position en retrait sécurisée :** Conserver 70% du poids sur la jambe arrière en *Niunja Sogi* éloigne le buste de l'agresseur tout en gardant la jambe avant mobile pour bloquer ou riposter.
 
 ---
 

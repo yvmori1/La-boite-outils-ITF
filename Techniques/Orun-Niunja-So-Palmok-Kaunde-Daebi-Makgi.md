@@ -26,7 +26,7 @@ Elle se traduit par : **Blocage de garde moyen à l'avant-bras en position L dro
 Cette technique offre une protection compacte et très solide en utilisant les poings fermés et la structure des avant-bras :
 
 1. **La position des jambes (*Orun Niunja Sogi*) :**
-    * Le pied droit se trouve à l'arrière, orienté à 15° vers l'extérieur, supportant **70 % du poids**.
+    * Le pied droit se trouve à l'arrière, orienté à environ 15° vers l'intérieur, supportant **70 % du poids**.
     * Le pied gauche est à l'avant, orienté vers l'avant (légèrement rentré de 15°), supportant **30 % du poids**.
     * Les talons sont alignés sur la même ligne de référence.
 2. **L'armement (Préparation) :**

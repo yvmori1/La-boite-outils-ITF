@@ -8,7 +8,7 @@ Cette technique défensive utilise le tranchant de la main ouverte (**Sonkal**) 
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
 * **Kaunde ([가운데](../audio/grammaire/Kaunde.m4a)) :** Niveau moyen (*Middle level* — hauteur du plexus solaire / thorax).
 * **Makgi ([막기](../audio/termes/makgi.m4a)) :** Blocage / Parade (*Block*).
@@ -20,7 +20,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sonkal** (Le tranchant de la main ouverte : 4 doigts tendus et bien serrés, pouce fléchi fermement contre la paume). |
-| **Posture (*Niunja Sogi*)** | **60% du poids sur la jambe arrière, 40% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Trajectoire (*Kaunde Makgi*)** | **Du dehors vers le dedans (*Anuro*)** : la main s'arme près de l'épaule arrière pour venir dévier l'attaque devant le plexus solaire. |
 | **Hauteur / Zone protégée** | **Niveau moyen (*Kaunde*)** : le tranchant de la main s'arrête au niveau de l'épaule/du plexus solaire. |
 | **Main de réaction (*Bandae Son*)** | Le poing de la main opposée (arrière) est tiré sèchement à la hanche (*Heori*), paume vers le haut. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L et la Chute de Masse
 
-1. **Verrouillage de l'assise :** Poser les pieds pour sceller la posture en L (*Niunja Sogi*), en conservant 60% de la masse sur la jambe arrière.
+1. **Verrouillage de l'assise :** Poser les pieds pour sceller la posture en L (*Niunja Sogi*), en conservant 70% de la masse sur la jambe arrière.
 2. **Chute de masse :** Redescendre le bassin au moment de la pose des pieds pour convertir la gravité en force de blocage.
 
 ### Étape 3 : La Trajectoire et le Verrouillage (*Snap*)
@@ -65,5 +65,5 @@ Sa décomposition linguistique est la suivante :
 * **Confondre avec *Sonkal Daebi Makgi* :** Laisser la main arrière devant la poitrine au lieu de la tirer sèchement à la hanche (*Heori*).
 * **Doigts mous ou pouce non verrouillé :** Relâcher la tension de la main ouverte, risquant de se faire tordre ou casser les doigts au contact.
 * **Dépasser l'axe du corps :** Envoyer le bras trop loin vers l'extérieur ou trop loin de l'autre côté, laissant le buste totalement découvert.
-* **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de maintenir 60% sur la jambe arrière en *Niunja Sogi*.
+* **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de maintenir 70% sur la jambe arrière en *Niunja Sogi*.
 * **Blocage trop haut ou trop bas :** S'arrêter au niveau du visage (niveau *Nopunde*) ou sous la ceinture (niveau *Najunde*) au lieu de viser le niveau du plexus (*Kaunde*).

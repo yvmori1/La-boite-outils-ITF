@@ -8,7 +8,7 @@ Cette technique défensive utilise le tranchant extérieur de la main ouverte (*
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 60% du poids sur la jambe arrière, 40% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte, du petit doigt au poignet).
 * **Najunde ([낮은데](../audio/grammaire/Najunde.m4a)) :** Niveau bas (*Low level* — au-dessous de la ceinture/niveau du bas-ventre).
 * **Bandae ([반대](../audio/grammaire/Bandae.m4a)) :** Inversé (*Reverse* — s'exécute avec la main du côté de la jambe avant / opposée à la jambe arrière).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Arme naturelle** | **Sonkal** (Le tranchant de la main ouverte : 4 doigts tendus et bien serrés, pouce fléchi fermement contre la paume). |
-| **Posture (*Niunja Sogi*)** | **60% du poids sur la jambe arrière, 40% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Principe *Bandae* (Inversé)** | La posture en L étant nommée d'après la jambe arrière, *Bandae* indique que le blocage est effectué par la main **située du côté de la jambe avant**. |
 | **Trajectoire (*Najunde*)** | **Descendante en arc de cercle** partant de l'épaule opposée vers le bas-ventre/genou avant. |
 | **Zone protégée** | **Niveau bas (*Najunde*)** : protège la vessie, l'aine et le haut de la cuisse avant. |
@@ -40,7 +40,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Verrouillage de l'assise :** Poser les pieds pour sceller la posture en L (60% du poids du corps ancré sur la jambe arrière).
+1. **Verrouillage de l'assise :** Poser les pieds pour sceller la posture en L (70% du poids du corps ancré sur la jambe arrière).
 2. **Chute de masse :** Redescendre le bassin pour convertir l'énergie gravitationnelle en force de balayage défensif.
 
 ### Étape 3 : Le Balayage Descendant et le Verrouillage (*Snap*)
@@ -57,7 +57,7 @@ Sa décomposition linguistique est la suivante :
 > **Dévitation fluide, absorption en retrait et transition rapide :**
 >
 > 1. **Dévitation sans force brute :** Frapper la jambe d'un agresseur avec le tranchant osseux de la main (**Sonkal**) permet de dévier un coup de pied bas (*Ap Chagi*) de façon très incisive, perturbant gravement son équilibre.
-> 2. **Protection en retrait (*Niunja Sogi*) :** Conserver 60% du poids sur la jambe arrière maintient le buste hors de portée d'une seconde attaque tout en protégeant le bas du corps.
+> 2. **Protection en retrait (*Niunja Sogi*) :** Conserver 70% du poids sur la jambe arrière maintient le buste hors de portée d'une seconde attaque tout en protégeant le bas du corps.
 > 3. **Différence entre *Baro* et *Bandae* :** En position *Bandae*, la main du côté de la jambe avant balaye directement l'espace au-dessus de la cuisse avancée, offrant un écran défensif naturel sur le flanc exposé.
 
 ---
@@ -68,4 +68,4 @@ Sa décomposition linguistique est la suivante :
 * **Confondre avec le blocage de garde (*Daebi Makgi*) :** Garder la main arrière en protection sur la poitrine au lieu de la tirer sèchement à la hanche (*Heori*).
 * **Doigts mous ou pouce non verrouillé :** Relâcher la tension de la main ouverte, risquant de se luxer ou casser les doigts au contact de la jambe adverse.
 * **Bloquer trop haut :** S'arrêter au niveau du plexus (niveau moyen) au lieu de descendre la main sous le niveau de la ceinture.
-* **Mauvaise répartition du poids :** Charger la jambe avant au lieu de maintenir 60% de la masse sur la jambe arrière en *Niunja Sogi*.
+* **Mauvaise répartition du poids :** Charger la jambe avant au lieu de maintenir 70% de la masse sur la jambe arrière en *Niunja Sogi*.

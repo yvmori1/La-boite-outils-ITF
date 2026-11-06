@@ -8,7 +8,7 @@ Cette technique défensive spécialisée utilise le croisement des deux tranchan
 
 Sa décomposition linguistique est la suivante :
 
-* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds à 90°).
+* **Niunja So / Niunja Sogi ([ㄴ자 서기](../audio/Techniques/Niunja-Sogi.m4a)) :** Posture en L (*L-stance* — 70% du poids sur la jambe arrière, 30% sur la jambe avant, pieds presque à angle droit, orteils rentrés d'environ 15°).
 * **Kyocha ([교차](../audio/termes/kyocha.m4a)) :** Croisé / En X (*X-shape / Cross*).
 * **Sonkal ([손칼](../audio/grammaire/Sonkal.m4a)) :** Tranchant de la main (*Knife-hand* — bord extérieur de la main ouverte).
 * **Momchau ([멈춰](../audio/termes/momchau.m4a)) :** Arrêt / Bloquer net / Stopper (*Checking / Stop*).
@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Armes naturelles** | **Kyocha Sonkal** (Le croisement des tranchants des deux mains ouvertes : 4 doigts tendus et bien serrés, pouces fléchis fermement contre les paumes). |
-| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant un angle de 90°. Écartement : environ 1,5 largeur d'épaules en longueur. |
+| **Posture (*Niunja Sogi*)** | **70% du poids sur la jambe arrière, 30% sur la jambe avant**. Pieds formant presque un angle droit, orteils des deux pieds tournés d'environ 15° vers l'intérieur. Écartement : environ 1,5 largeur d'épaules en longueur. |
 | **Croisement des poignets** | Les deux poignets se croisent au niveau du point d'impact. La main correspondant au bras extérieur dépend de la jambe avant pour maintenir l'alignement structurel. |
 | **Trajectoire (*Momchau*)** | **Poussée d'arrêt directe** : le blocage s'oppose directement à la ligne de force adverse pour stopper la progression du membre attaquant. |
 | **Zone ciblée / Hauteur** | Généralement exécuté au niveau **bas (*Najunde*)** ou **moyen (*Kaunde*)** pour bloquer la cheville, le tibia ou le genou d'un coup de pied. |
@@ -38,7 +38,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 2 : L'Ancrage en L (*Niunja Sogi*)
 
-1. **Placement des pieds :** Ancrer les pieds à 90° pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
+1. **Placement des pieds :** Placer les pieds presque à angle droit, orteils rentrés d'environ 15°, pour verrouiller la posture en L (70% du poids du corps sur la jambe arrière, 30% sur la jambe avant).
 2. **Chute de masse :** Redescendre le bassin au moment de poser les pieds pour ancrer la force de blocage contre l'impact de l'adversaire.
 
 ### Étape 3 : L'Interception et le Verrouillage (*Momchau Snap*)
