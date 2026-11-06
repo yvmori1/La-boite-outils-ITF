@@ -30,11 +30,10 @@ Pour transformer la main en une pointe rigide et perforante sans se blesser les 
 
 ## 2. Décomposition étape par étape de l'exécution
 
-### Étape 1 : L'Armement à la Hanche et la Main de Pression
+### Étape 1 : L'Armement
 
-1. **Position d'amorce :** La main d'attaque s'arme à la hanche (*Heori*), paume vers le haut, doigts déjà mis en forme de *Sun Sonkut*.
-2. **Main de réaction / Pression (*Sonbadak Nullo Makgi*) :** Souvent, le bras opposé s'étend vers l'avant en exécutant un blocage descendant de la paume pour abaisser ou chasser la garde adverse tout en guidant l'axe de frappe.
-3. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors du déplacement.
+1. **Position d'amorce :** Les deux mains sont à la hauteur des épaules, les mains légèrement fermées.
+2. **Phase basse (*Sine Wave*) :** Abaissement du centre de gravité en fléchissant les genoux lors du déplacement.
 
 ### Étape 2 : La Trajectoire Rectiligne et le Mouvement de Vague (*Sine Wave*)
 
@@ -43,7 +42,7 @@ Pour transformer la main en une pointe rigide et perforante sans se blesser les 
 
 ### Étape 3 : L'Impact et le Verrouillage (*Snap*)
 
-1. **Rotation du poignet (90°) :** La main quitte la hanche paume vers le haut et pivote d'un quart de tour pour se fixer **strictement à la verticale** (*Sun*) à l'impact.
+1. **Main verticale :** La main part de la hauteur de l'épaule, s'ouvre en *Sun Sonkut* et se fixe **strictement à la verticale** (*Sun*) à l'impact.
 2. **Gainage total :** Verrouillez l'axe du poignet, des phalanges et de l'avant-bras au millième de seconde de la pénétration.
 3. **Expiration (*Kihap*) :** Contractez la sangle abdominale avec une expulsion d'air brève et sèche.
 

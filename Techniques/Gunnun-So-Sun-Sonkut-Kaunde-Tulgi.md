@@ -21,7 +21,7 @@ Sa décomposition linguistique est la suivante :
 | --- | --- |
 | **Posture (*Gunnun Sogi*)** | Longueur 1,5 largeur d'épaules, largeur 1 largeur d'épaules. Genou avant fléchi à l'aplomb du talon, jambe arrière tendue, pied arrière ouvert à 25°. Poids 50/50. |
 | **Arme naturelle** | **Sun Sonkut** : le bout des quatre doigts alignés, main verticale. |
-| **Trajectoire** | Rectiligne, de la hanche vers la ligne centrale, au niveau moyen. |
+| **Trajectoire** | Rectiligne, de la hauteur des épaules vers la ligne centrale, au niveau moyen. |
 | **Cible / hauteur** | Plexus solaire. |
 | **Main de réaction** | La paume de l'autre main se place sous le coude du bras qui pique, après un blocage en pression. |
 | **Orientation du buste** | De face (*Jeongmyon* — *Full facing*). |
@@ -32,7 +32,7 @@ Sa décomposition linguistique est la suivante :
 
 ### Étape 1 : L'armement
 
-1. La main qui pique est à la hanche ; l'autre main presse vers le bas devant le corps.
+1. Les deux mains sont à la hauteur des épaules, les mains légèrement fermées.
 2. Le pas commence en même temps.
 
 ### Étape 2 : Le pas et la chute de masse
