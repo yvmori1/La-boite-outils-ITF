@@ -11,7 +11,9 @@
   function charger() {
     if (menu) return Promise.resolve(menu);
     if (!attente) {
-      attente = fetch(new URL("assets/menu.html", __md_scope).href).then(function (r) {
+      // « no-cache » : après une publication, ne pas reprendre l'ancien menu
+      // gardé par le cache HTTP du navigateur (10 minutes sur GitHub Pages).
+      attente = fetch(new URL("assets/menu.html", __md_scope).href, { cache: "no-cache" }).then(function (r) {
         if (!r.ok) throw new Error("menu " + r.status);
         return r.text();
       }).then(function (texte) { menu = texte; return texte; });

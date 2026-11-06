@@ -44,6 +44,18 @@ function cleDe(chemin) {
   return BASE + encodeURI(chemin);
 }
 
+// Empreinte d'une réponse, calculée comme hooks/pwa.py : 12 premiers
+// caractères du SHA-1 du contenu.
+async function empreinte(rep) {
+  const octets = await rep.clone().arrayBuffer();
+  const sha = new Uint8Array(await crypto.subtle.digest("SHA-1", octets));
+  return Array.from(sha, (o) => o.toString(16).padStart(2, "0")).join("").slice(0, 12);
+}
+
+// Fichiers texte vérifiés à l'installation : ce sont eux qui changent d'une
+// publication à l'autre (pages, menu, scripts, index de recherche).
+const TEXTE = /(^|\/)$|\.(html|js|css|json|xml|txt|webmanifest)$/;
+
 self.addEventListener("install", (evenement) => {
   evenement.waitUntil((async () => {
     const rep = await fetch(BASE + "pwa-fichiers.json", { cache: "no-store" });
@@ -56,7 +68,16 @@ self.addEventListener("install", (evenement) => {
       const chemin = cheminDe(new URL(requete.url));
       const neuf = nouvelle.fichiers[chemin];
       const vieux = ancienne.fichiers[chemin];
-      if (!neuf || !vieux || vieux[0] !== neuf[0]) await cache.delete(requete);
+      if (!neuf || !vieux || vieux[0] !== neuf[0]) {
+        await cache.delete(requete);
+      } else if (TEXTE.test(chemin)) {
+        // Une copie prise juste après une publication a pu venir du cache
+        // HTTP du navigateur (GitHub Pages le garde 10 minutes) et donc
+        // dater de la version d'avant : on la retire si son contenu ne
+        // correspond pas à l'empreinte annoncée.
+        const garde = await cache.match(requete);
+        if (!garde || (await empreinte(garde)) !== neuf[0]) await cache.delete(requete);
+      }
     }
     // Garde de quoi ouvrir l'accueil et naviguer hors ligne dès l'installation.
     const coquille = Object.keys(nouvelle.fichiers).filter((c) =>
@@ -118,12 +139,17 @@ async function local(requete, chemin) {
   if (!rep) {
     try {
       // Requête complète, sans en-tête Range, pour garder le fichier entier.
-      rep = await fetch(connu ? cleDe(chemin) : requete);
+      // « no-cache » : revalider auprès du serveur plutôt que reprendre une
+      // copie du cache HTTP, qui peut dater de la publication précédente.
+      rep = await fetch(connu ? cleDe(chemin) : requete, connu ? { cache: "no-cache" } : {});
     } catch (erreur) {
       return horsLigne(requete);
     }
     if (rep.redirected && requete.mode === "navigate") return Response.redirect(rep.url, 302);
     if (!connu || !rep.ok || rep.redirected) return rep;
+    // On ne garde que la version annoncée par la liste : une copie d'une
+    // autre version (publication en cours) est servie sans être gardée.
+    if ((await empreinte(rep)) !== fichiers[chemin][0]) return rep;
     await cache.put(cleDe(chemin), rep.clone());
   }
   // Safari lit les sons par morceaux (Range) et refuse une réponse entière.
