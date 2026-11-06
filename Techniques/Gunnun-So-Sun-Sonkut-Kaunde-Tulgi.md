@@ -80,3 +80,12 @@ La pique suit presque toujours un blocage en pression de la paume : on abaisse l
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Sun Sonkut Kaunde Tulgi](Sun-Sonkut-Kaunde-Tulgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

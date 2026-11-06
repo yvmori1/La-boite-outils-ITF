@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Charger la jambe avant :** Transférer du poids sur le pied avant (ex: 60/40), détruisant l'esquive de la posture *Dwitbal Sogi*.
 * **Déviation du coude :** Laisser le coude plonger vers le sol ou monter trop haut, percutant en dehors du plan horizontal visé (*Kaunde* ou *Nopunde*).
 * **Soulever le talon arrière :** Décoller le talon de la jambe de terre au moment de l'impact, ce qui annule la stabilité de la posture.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

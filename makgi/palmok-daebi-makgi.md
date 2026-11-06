@@ -77,3 +77,12 @@ Cette technique est une pierre angulaire du programme de progression de l'ITF :
 * **Poing avant trop près du visage :** Placer le bras avant trop près du buste, ce qui fait que le coup adverse risque d'enfoncer la garde.
 * **Poignets cassés :** Ne pas maintenir le poing dans l'alignement exact de l'avant-bras à l'impact, risquant une entorse du poignet.
 * **Désynchronisation des bras :** Placer un bras avant l'autre au lieu de verrouiller les deux bras au même instant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Dwitbal So Palmok Kaunde Daebi Makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md), [Gojung So Palmok Nopunde Daebi Makgi](../Techniques/Gojung-So-Palmok-Nopunde-Daebi-Makgi.md), [Niunja So Palmok Kaunde Daebi Makgi](../Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.md), [Orun Dwitbal So Palmok Kaunde Daebi Makgi](../Techniques/Orun-Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md), [Orun Niunja So Palmok Kaunde Daebi Makgi](../Techniques/Orun-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md), [Wen Niunja So Palmok Kaunde Daebi Makgi](../Techniques/Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md)
+* **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Joong-Gun](../tul/joong-gun.md), [Choong-Moo](../tul/choong-moo.md), [Po-Eun](../tul/po-eun.md), [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md), [Sam-Il](../tul/sam-il.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

@@ -72,3 +72,13 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *An Palmok* et *Bakat Palmok* :** Exécuter la rotation du poignet à l'envers et impacter avec le côté extérieur (petit doigt) au lieu du côté intérieur (pouce).
 * **Tourner les pieds :** Laisser les pointes de pieds tourner vers la direction du blocage au lieu de les maintenir strictement parallèles vers l'avant en *Annun Sogi*.
 * **Tendre les coudes à 180° :** Bloquer bras tendus, ce qui transfère toute l'onde de choc directement dans l'articulation des épaules et des coudes.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage parallèle (Narani Makgi)](../makgi/narani-makgi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

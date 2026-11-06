@@ -58,3 +58,11 @@ Cette technique associe la descente du centre de gravité en position croisée �
 * **Oubli de la vague (*Sine Wave*) :** Presser uniquement avec la force des bras, sans synchroniser l'impact avec la descente de la masse corporelle.
 
 > **Point clé :** La force du *Orun Kyocha So Kyocha Joomuk Noollo Makgi* repose sur le verrouillage des poignets croisés et l'utilisation de la masse du corps projetée vers le bas pour écraser et bloquer l'attaque ennemie.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+
+<!-- /fiches-liees -->

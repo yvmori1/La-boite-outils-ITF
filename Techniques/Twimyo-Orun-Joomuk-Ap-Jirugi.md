@@ -72,3 +72,11 @@ Sa décomposition linguistique est la suivante :
 * **Negliger la main de réaction :** Laisser tomber la main gauche sans la tirer sèchement à la hanche, ce qui prive le coup de poing de la puissance de rotation des épaules.
 * **Jambes pendantes en l'air :** Laisser les jambes raides ou pendantes pendant le saut, ce qui détruit l'équilibre aérien et alourdit la trajectoire.
 * **Atterrissage rigide :** Ne pas fléchir les genoux à la réception, risquant des traumatismes aux chevilles et aux genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

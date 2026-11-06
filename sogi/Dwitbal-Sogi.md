@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Genou arrière verrouillé ou trop tendu :** Rester trop haut sur la jambe arrière, ce qui supprime la stabilité et la capacité de ressort.
 * **Buste penché vers l'avant :** Pencher le haut du corps au-dessus de la jambe avant pour compenser la flexion arrière, ce qui réexpose le visage aux attaques.
 * **Trop écarter la posture :** Confondre la longueur du *Dwitbal Sogi* (1 largeur d'épaules) avec celle du *Niunja Sogi* (1,5 largeur d'épaules), rendant la position trop lourde et peu mobile.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques dans cette position :** 14 fiches, classées dans [Techniques](../Techniques/README.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

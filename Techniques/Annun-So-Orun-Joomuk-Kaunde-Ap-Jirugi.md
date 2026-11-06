@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Casser le poignet :** Ne pas maintenir l'alignement rectiligne entre le dos de la main et l'avant-bras au moment de la vrille finale.
 * **Ne pas fléchir les genoux à l'impact :** Tendre les jambes au lieu d'effectuer la redescente de masse (*Sine Wave*) en *Annun Sogi*.
 * **Laisser flotter le bras de réaction :** Ne pas ramener le poing gauche fermement à la hanche (*Heori*), ce qui prive le coup de poing droit d'au moins 50 % de sa puissance de réaction.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md)
+
+<!-- /fiches-liees -->

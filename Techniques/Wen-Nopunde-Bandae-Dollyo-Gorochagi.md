@@ -66,3 +66,11 @@ Sa décomposition linguistique est la suivante :
 * **Genou trop bas :** Ne pas monter le genou à hauteur du visage (*Nopunde*) lors de l'armement, ce qui transforme la technique en un balayage bas ou moyen peu puissant.
 * **Oublier le fouetté crocheté (*Goro*) :** Tendre la jambe de manière raide (comme un coup de pied retourné direct *Dwit Chagi* ou une hache) au lieu de réaliser le crochetage caractéristique du *Gorochagi*.
 * **Perdre le contrôle à la réception :** Laisser la force de rotation emporter tout le corps après la frappe au lieu de rétracter la jambe et de se stabiliser.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied crocheté inversé (Bandae Dollyo Goro Chagi)](../chagi/bandae-dollyo-goro-chagi.md)
+
+<!-- /fiches-liees -->

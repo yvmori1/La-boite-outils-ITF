@@ -68,3 +68,12 @@ La frappe se donne en diagonale, sans déplacement : elle enchaîne directement 
 * **Confondre *Baro* et *Bandae* :** agir avec la main du côté de la jambe avant, ce qui change la technique.
 
 Voir aussi : [Gunnun So Sang Sonkal Nopunde Anuro Taerigi](Gunnun-So-Sang-Sonkal-Nopunde-Anuro-Taerigi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

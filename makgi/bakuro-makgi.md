@@ -77,3 +77,12 @@ On retrouve les mouvements de déviation vers l'extérieur dans de nombreux *Tul
 * **Dépasser exagérément la ligne du corps :** Envoyer le bras trop loin sur le côté arrière, ce qui fatigue l'épaule et découvre complètement votre propre torse.
 * **Armer du même côté :** Démarrer le blocage déjà sur le côté au lieu d'armer depuis le centre/côté opposé, ce qui supprime la force centrifuge.
 * **Absence de rotation du poignet :** Tendre le bras en ligne droite sans faire pivoter le poignet (*Snap*) à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Orun Bakat Palmok Nopunde Bakuro Makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.md), [Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi](../Techniques/Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.md), [Gunnun So An Palmok Kaunde Baro Bakuro Makgi Wa Sonkal Najunde Bandae Makgi](../Techniques/Gunnun-So-An-Palmok-Kaunde-Baro-Bakuro-Makgi-Wa-Sonkal-Najunde-Bandae-Makgi.md), [Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi](../Techniques/Gunnun-So-Sonkal-Kaunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md), [Gunnun So Sonkal Najunde Bandae Bakuro Makgi](../Techniques/Gunnun-So-Sonkal-Najunde-Bandae-Bakuro-Makgi.md), [Niunja So Bakat Palmok Nopunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi](../Techniques/Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md)
+* **Dans les formes :** [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Yon-Gae](../tul/yon-gae.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

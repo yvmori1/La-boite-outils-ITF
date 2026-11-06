@@ -55,3 +55,12 @@ Elle se traduit par : **Position de marche** (*Walking stance*).
 * **Talon arrière décollé :** la jambe arrière doit rester tendue, le talon au sol.
 
 Voir aussi : [16.9 Position de marche (Gunnun Sogi)](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md#169-position-de-marche-gunnun-sogi) dans le manuel.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques dans cette position :** 92 fiches, classées dans [Techniques](../Techniques/README.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md)
+
+<!-- /fiches-liees -->

@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Poings ouverts ou mous :** Ne pas verrouiller les poings, ce qui affaiblit les poignets et risque de causer une entorse au moment de la pression.
 * **S'incliner vers l'avant :** Pencher le buste lors de la poussée vers le bas au lieu de garder le dos droit et d'utiliser uniquement la descente du bassin.
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de conserver 70% du poids ancré sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

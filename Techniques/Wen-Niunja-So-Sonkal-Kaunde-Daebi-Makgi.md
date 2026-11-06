@@ -71,3 +71,12 @@ Sa décomposition linguistique est la suivante :
 * **Main arrière plaquée contre le corps :** Coller la main arrière contre la poitrine ou la laisser flotter trop loin du plexus au lieu de la stabiliser à 2-3 cm.
 * **Doigts relâchés ou écartés :** Ne pas maintenir la tension de la main en *Sonkal* (doigts serrés et pouce fléchi), risquant d'avoir un doigt retourné ou cassé lors du blocage.
 * **Alignement des talons incorrect :** Trop écarter les pieds en largeur (confondre la largeur du *Niunja Sogi* qui est quasi nulle avec celle du *Gunnun Sogi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
+
+<!-- /fiches-liees -->

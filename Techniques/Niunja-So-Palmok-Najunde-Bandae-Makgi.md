@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Poing ouvert ou mal fermé :** Ne pas verrouiller le poing, ce qui relâche la tension musculaire de l'avant-bras et affaiblit le blocage.
 * **Bloquer trop haut :** S'arrêter au niveau de la ceinture (niveau moyen = *Kaunde*) au lieu de descendre sous la ceinture (*Najunde*).
 * **Mauvaise répartition du poids :** Ne pas maintenir le ratio 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md)
+
+<!-- /fiches-liees -->

@@ -56,3 +56,12 @@ Cette technique associe la force de gravité au verrouillage de la position en L
 * **Négliger l'apport de la vague (*Sine Wave*) :** Déclencher le coup uniquement avec la force du bras, sans utiliser l'accélération descendante du corps.
 
 > **Point clé :** La puissance du *Niunja So Sun Palkup Naeryo Tulgi* réside dans l'effet de **piston vertical descendant**, où la masse corporelle chute en position en L pour enfoncer la pointe du coude (*Sun Palkup*) sur la cible.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

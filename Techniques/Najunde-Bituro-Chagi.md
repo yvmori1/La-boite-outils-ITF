@@ -62,3 +62,11 @@ Sa décomposition linguistique est la suivante :
 * **Oublier le bol du pied (*Ap Chook*) :** Frapper avec le plat des orteils, risquant une entorse ou une fracture des orteils.
 * **Absence de retour de jambe :** Laisser tomber la jambe tendue après l'impact au lieu de replier le genou (*Rechambering*).
 * **Perte d'équilibre / Pencher le buste :** Trop casser le buste vers l'arrière lors du désaxage de la hanche.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied vrillé (Bituro Chagi)](../chagi/bituro-chagi.md)
+
+<!-- /fiches-liees -->

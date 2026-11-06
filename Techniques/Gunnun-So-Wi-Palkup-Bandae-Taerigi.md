@@ -66,3 +66,12 @@ Chaque frappe suit un blocage de garde au tranchant de la main en position en L 
 * **Ouvrir l'avant-bras :** le poing s'éloigne de l'épaule et le coude perd sa pointe.
 * **Lever le pied avant :** faire un pas au lieu d'un glissé, ce qui annonce l'attaque.
 * **Confondre *Baro* et *Bandae* :** agir avec la main du côté de la jambe avant, ce qui change la technique.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md)
+
+<!-- /fiches-liees -->

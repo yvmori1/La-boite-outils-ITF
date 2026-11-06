@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Talon arrière posé à plat :** Poser le talon du pied arrière (droit) au sol, ce qui ruine l'ancrage et la mobilité en *Kyocha Sogi*.
 * **Genoux écartés :** Ne pas presser les genoux l'un contre l'autre, ce qui détruit la compacité de la posture.
 * **Absence de synchronisation :** Séparer le déplacement du pied gauche du verrouillage des bras au lieu de sceller l'impact à l'instant précis de la chute de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Dans les formes :** [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

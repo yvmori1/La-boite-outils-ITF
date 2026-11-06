@@ -63,3 +63,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper à l'aveugle :** on regarde avant de frapper.
 
 Voir aussi : [Wen Kaunde Dwitcha Jirugi](Wen-Kaunde-Dwitcha-Jirugi.md), [Nopunde Dwitcha Jirugi](Nopunde-Dwitcha-Jirugi.md), [Coup de pied arrière tranchant](../chagi/dwit-cha-jirugi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied arrière tranchant](../chagi/dwit-cha-jirugi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ko-Dang](../tul/ko-dang.md), [Ul-Ji](../tul/ul-ji.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

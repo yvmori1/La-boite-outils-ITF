@@ -69,3 +69,11 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec les petites jointures :** Impacter avec les jointures de l'annulaire et de meurtre au lieu de verrouiller les deux premières jointures de l'index et du majeur (**Ap Joomuk**).
 * **Décoller les talons :** Tourner sur les pieds et perdre l'ancrage parallèle strict de *Narani Sogi*.
 * **Mauvaise hauteur :** Monter au niveau du visage (niveau haut / *Nopunde*) au lieu de maintenir la trajectoire au niveau du thorax/côtes (*Kaunde*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md)
+
+<!-- /fiches-liees -->

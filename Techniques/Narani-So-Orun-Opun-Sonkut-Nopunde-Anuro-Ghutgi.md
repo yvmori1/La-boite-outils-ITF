@@ -71,3 +71,11 @@ Sa décomposition linguistique est la suivante :
 * **Pousser au lieu de trancher :** Donner un piqué direct droit vers l'avant (*Ap*) au lieu de maintenir une trajectoire de balayage circulaire du dehors vers le dedans (**Anuro Gutgi**).
 * **Frapper trop bas :** Visere le plexus solaire (niveau moyen) au lieu de maintenir le tranchage au niveau des yeux/gorge (*Nopunde*).
 * **Pieds non parallèles :** Ouvrir les pointes de pieds vers l'extérieur au lieu de garder le verrouillage strict de *Narani Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

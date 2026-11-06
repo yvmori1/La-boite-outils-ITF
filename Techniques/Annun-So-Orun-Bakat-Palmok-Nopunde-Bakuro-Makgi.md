@@ -66,3 +66,13 @@ Sa décomposition linguistique est la suivante :
 * **Ouvrir le bras trop loin (*Over-swing*) :** Dépasser la ligne de l'épaule droite, ce qui désaxe la garde et laisse le thorax totalement découvert.
 * **Hauteur incorrecte :** Finir au niveau des épaules (*Kaunde*) au lieu de maintenir le poing scrupuleusement au niveau des yeux (*Nopunde*).
 * **Perte de tension dans le poignet :** Ne pas verrouiller l'articulation du poignet lors de la vrille finale, ce qui absorbe l'impact dans la main au lieu de l'avant-bras.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

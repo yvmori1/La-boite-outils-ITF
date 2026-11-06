@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Tendre complètement le bras :** Tendre le coude à 180° annule la force de levier et risque de blesser l'articulation en cas d'impact lourd.
 * **Oublier la rotation finale :** Arriver avec l'avant-bras passif sans la vrille de poignet (*Snap*), ce qui enlève toute la rigidité au blocage.
 * **Casser le poignet :** Ne pas maintenir l'alignement entre le poing et l'avant-bras à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Blocage latéral (Yop Makgi)](../makgi/yop-makgi.md)
+* **Dans les formes :** [Chon-Ji](../tul/chon-ji.md), [Ko-Dang](../tul/ko-dang.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

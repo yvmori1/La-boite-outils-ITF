@@ -66,3 +66,12 @@ Le *Naeryo Taerigi* définit une dynamique de frappe descendante qui s'applique 
 * **Pencher le buste en avant :** Casser la colonne vertébrale pour aller chercher la cible vers le bas, ce qui rompt l'alignement corporel et détruit la stabilité.
 * **Absence d'arrêt sec (*Over-swing*) :** Laisser le bras s'écraser trop bas au lieu de stopper la frappe de manière nette sur la cible (*Snap*).
 * **Négliger la *Sine Wave* :** Rester haut sur ses jambes, ce qui prive la frappe du transfert de masse apporté par la gravité.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So Sonkal Bandae Ap Naeryo Taerigi](../Techniques/Gunnun-So-Sonkal-Bandae-Ap-Naeryo-Taerigi.md), [Moa So Orun Yop Joomuk Naeryo Taerigi](../Techniques/Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.md), [Moa So Wen Yop Joomuk Naeryo Taerigi](../Techniques/Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.md), [Niunja So Dung Joomuk Bandae Naeryo Taerigi](../Techniques/Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.md), [Niunja So Sondung Bandae Naeryo Taerigi](../Techniques/Niunja-So-Sondung-Bandae-Naeryo-Taerigi.md), [Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi](../Techniques/Orun-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md), [Soojik So Sonkal Bandae Naeryo Taerigi](../Techniques/Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md), [Soojik So Yop Joomuk Bandae Naeryo Taerigi](../Techniques/Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.md), [Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md)
+* **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md), [Kwang-Gae](../tul/kwang-gae.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Yoo-Sin](../tul/yoo-sin.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

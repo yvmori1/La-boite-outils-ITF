@@ -72,3 +72,12 @@ On retrouve le blocage poussé dans plusieurs formes de ceintures noires (*Black
 * **Frapper la cible (*Snap*) au lieu de pousser :** Donner une claque sèche ou un coup d'avant-bras percutant au lieu d'accompagner et d'exercer une force de pression continue.
 * **Pousser uniquement avec la force du bras :** N'utiliser que le triceps ou l'épaule sans engager l'avancée des hanches ni le poids du corps.
 * **Se déséquilibrer vers l'avant :** Pencher le buste trop loin en avant pour pousser, ce qui détruit votre propre posture et vous rend vulnérable aux saisies.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Sonbadak Kaunde Miro Makgi](../Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.md), [Annun So Wen Sonbadak Kaunde Yobap Miro Makgi](../Techniques/Annun-So-Wen-Sonbadak-Kaunde-Yobap-Miro-Makgi.md), [Gunnun So Sonbadak Kaunde Bandae Miro Makgi](../Techniques/Gunnun-So-Sonbadak-Kaunde-Bandae-Miro-Makgi.md), [Niunja So Doo Palmok Najunde Miro Makgi](../Techniques/Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Hwa-Rang](../tul/hwa-rang.md), [Ko-Dang](../tul/ko-dang.md), [Ul-Ji](../tul/ul-ji.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Manque de tirage de la main de réaction :** Negliger le retour dynamique du poing opposé à la hanche (*Heori*), ce qui prive le coup de la force de torsion du buste.
 * **Pousser le bras de manière raide :** Tendre le bras en ligne droite au lieu d'exécuter un fouetté sec depuis l'articulation du coude (*Taerigi*).
 * **Perdre la verticalité du buste :** Pencher le haut du corps du côté de la jambe levée pour compenser le manque de gainage abdominal et fessier.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Waebal Sogi](../sogi/Waebal-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

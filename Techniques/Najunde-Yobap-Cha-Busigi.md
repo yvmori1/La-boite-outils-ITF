@@ -69,3 +69,11 @@ Sa décomposition linguistique est la suivante :
 * **Oublier le réarmement (*Rechambering*) :** Laisser retamper la jambe tendue au sol après l'impact, exposant la jambe aux balayages ou aux saisies.
 * **Orteils non relevés :** Frapper avec la pointe des orteils au lieu de fléchir les articulations pour impacter avec le bol du pied (**Ap Kumchi**), risquant la fracture des phalanges.
 * **Se pencher trop en arrière :** Casser la ligne du buste vers l'arrière pour chercher de la puissance, ce qui ruine l'équilibre et réduit la vitesse de rétraction.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Toi-Gye](../tul/toi-gye.md), [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Éloigner le bras du corps :** Tendre le bras loin devant soi au lieu de maintenir une trajectoire fluide et proche du buste lors de la descente.
 * **Confondre avec le blocage de garde (*Daebi Makgi*) :** Laisser le second bras devant la poitrine au lieu de le tirer sèchement à la hanche (*Heori*).
 * **Mauvaise répartition du poids :** Ne pas respecter le ratio strict 70% du poids sur la jambe arrière et 30% sur la jambe avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage avec le tranchant externe de l'avant-bras (Bakat Palmok Makgi)](../makgi/bakat-palmok-makgi.md), [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md)
+
+<!-- /fiches-liees -->

@@ -80,3 +80,12 @@ La technique revient **28 fois** dans 15 formes :
 * **Pied d'appui figé :** sans pivot, la hanche ne s'aligne pas.
 
 Voir aussi : [Nopunde Yopcha Jirugi](Nopunde-Yopcha-Jirugi.md), [Twimyo Yopcha Jirugi](../chagi/twimyo-yopcha-jirugi.md), [Coup de pied latéral perçant (Yop Cha Jirugi)](../chagi/yop-cha-jirugi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied latéral perçant (Yop Cha Jirugi)](../chagi/yop-cha-jirugi.md)
+* **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Joong-Gun](../tul/joong-gun.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

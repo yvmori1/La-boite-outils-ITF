@@ -56,3 +56,11 @@ La position en L est conçue pour offrir un excellent compromis entre protection
 * **Pied arrière trop ouvert :** Pointer le pied arrière complètement vers l'arrière (à 180°), ce qui fragilise la cheville et le genou arrière lors des impacts.
 
 > **Point clé :** La force de la **Niunja Sogi** réside dans son ratio **70/30** : la jambe arrière sert d'ancrage et d'amortisseur, tandis que la jambe avant reste libre de contrer ou d'avancer à tout moment.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques dans cette position :** 55 fiches, classées dans [Techniques](../Techniques/README.md)
+
+<!-- /fiches-liees -->

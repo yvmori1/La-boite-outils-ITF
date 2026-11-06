@@ -62,3 +62,12 @@ Sa décomposition linguistique est la suivante :
 * **Mains trop rapprochées :** Réduire la taille du "[ㄷ](../audio/termes/digeut.m4a)", ce qui empêche d'intercepter correctement la longueur d'une arme ou d'un membre.
 * **Mains molles ou doigts décollés :** Ne pas maintenir la cohésion et la tension des mains ouvertes, risquant de se faire fracturer les doigts lors de l'impact contre un bâton.
 * **S'incliner vers l'avant :** Pencher le buste pour aller chercher la saisie au lieu de maintenir le dos droit et d'utiliser l'assise 70/30 de la posture en L (*Niunja Sogi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

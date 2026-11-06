@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Baro* et *Bandae* :** Frapper avec la main du même côté que la jambe avant (version *Baro*).
 * **Frapper avec la paume ou le tranchant :** Impact avec la mauvaise surface de la main au lieu de toucher avec la cavité située entre le pouce et l'index (**Bandal Son**).
 * **Perdre la largeur d'épaules :** Aligner les pieds sur la même ligne au sol, ce qui ruine la stabilité et la rotation de la hanche arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

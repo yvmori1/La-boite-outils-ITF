@@ -70,3 +70,12 @@ C'est une technique fondamentale intégrée très tôt dans le cursus de l'ITF :
 * **Confondre les surfaces (bloquer avec *Bakat Palmok*) :** Ne pas faire pivoter le poignet correctement à l'impact, ce qui fait bloquer avec l'extérieur ou le dessus de l'avant-bras au lieu du tranchant intérieur.
 * **Balayage exagéré :** Envoyer le bras trop loin sur le côté, ce qui dépasse la ligne des épaules, fatigue l'articulation et laisse le centre du corps complètement découvert.
 * **Armement incorrect :** Ne pas croiser le bras d'amorce sous le bras opposé, réduisant considérablement l'amplitude et la puissance de la rotation.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Niunja So An Palmok Kaunde Makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md)
+
+<!-- /fiches-liees -->

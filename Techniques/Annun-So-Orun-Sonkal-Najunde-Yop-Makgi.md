@@ -67,3 +67,13 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer trop en avant (*Ap*) :** Descendre la main directement devant le pubis au lieu de la décaler vers le flanc droit (*Yop*).
 * **Casser le poignet :** Ne pas maintenir l'alignement rectiligne entre l'avant-bras et le tranchant de la main à l'impact.
 * **Coller la main à la cuisse :** Finir le blocage en appuyant la main sur la jambe, ce qui transmet tout le choc de l'attaque directement dans votre propre cuisse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage latéral (Yop Makgi)](../makgi/yop-makgi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

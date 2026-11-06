@@ -66,3 +66,12 @@ Dans Juche, la frappe de coude précède un pas croisé en position en X : elle 
 * **Coude trop bas :** frapper à hauteur de poitrine, ce qui en fait une frappe moyenne.
 * **Confondre *Baro* et *Bandae* :** agir avec la main du côté de la jambe avant, ce qui change la technique.
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

@@ -64,3 +64,11 @@ Sa décomposition linguistique est la suivante :
 * **Oublier l'armement croisé :** Monter le genou directement sur le côté, ce qui supprime l'effet de torsion (*Bituro*) et diminue fortement la puissance.
 * **Mauvais armement du pied :** Laisser les orteils détendus au lieu de fléchir la cheville vers le haut pour impacter avec le bol du pied (**Ap Kumchi**), au risque de se blesser les orteils.
 * **Décoller le talon de la jambe d'appui :** Perdre l'ancrage au sol pendant la torsion de la hanche, ce qui détruit l'équilibre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied vrillé (Bituro Chagi)](../chagi/bituro-chagi.md)
+
+<!-- /fiches-liees -->

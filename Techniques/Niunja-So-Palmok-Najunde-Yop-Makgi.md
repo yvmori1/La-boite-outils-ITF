@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer trop haut :** S'arrêter au niveau de la ceinture (niveau moyen = *Kaunde*) au lieu de descendre la main au-dessus du genou (*Najunde*).
 * **Confondre avec la version en garde (*Daebi Makgi*) :** Laisser le second bras devant la poitrine au lieu de le tirer sèchement à la hanche (*Heori*).
 * **Mauvaise répartition du poids :** Ne pas respecter la répartition 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage latéral (Yop Makgi)](../makgi/yop-makgi.md)
+
+<!-- /fiches-liees -->

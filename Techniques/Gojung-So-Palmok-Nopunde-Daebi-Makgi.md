@@ -68,3 +68,11 @@ Sa décomposition linguistique est la suivante :
 * **Bras avant trop tendu ou trop collé :** Verrouiller le coude en extension (ce qui fragilise le bras) ou plaquer l'avant-bras contre le visage (ce qui transmet l'impact à la tête).
 * **Bras arrière flottant :** Laisser la main arrière s'écarter du buste au lieu de la stabiliser à 2-3 cm du plexus solaire.
 * **Relâchement des genoux :** Ne pas maintenir la tension des genoux fléchis vers l'intérieur, ce qui déstabilise la base de la posture *Gojung Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Blocage de garde des avant-bras (Palmok Daebi Makgi)](../makgi/palmok-daebi-makgi.md)
+
+<!-- /fiches-liees -->

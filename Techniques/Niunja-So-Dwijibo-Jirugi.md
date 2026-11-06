@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Poignet cassé ou mal aligné :** Fléchir le poignet vers le haut ou le bas lors de l'impact, ce qui risque de tordre le poignet au choc.
 * **Armement trop haut :** Placer le poing d'armement au niveau de la poitrine au lieu de la hanche/du flanc, ce qui réduit l'amplitude du mouvement.
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de maintenir le ratio strict 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

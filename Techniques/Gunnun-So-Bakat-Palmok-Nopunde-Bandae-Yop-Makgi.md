@@ -68,3 +68,13 @@ Dans Eui-Am, le blocage ouvre la forme : on recule en posture de marche pour fai
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Bakat Palmok Nopunde Yop Makgi](Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage latéral haut (Nopunde Yop Makgi)](../makgi/nopunde-yop-makgi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md)
+
+<!-- /fiches-liees -->

@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre avec *Sonkal Dung Daebi Makgi* :** Laisser le bras arrière devant la poitrine au lieu de le tirer sèchement à la hanche (*Heori*).
 * **Bloquer trop haut ou trop bas :** S'arrêter au niveau du visage (niveau *Nopunde*) ou sous la ceinture (niveau *Najunde*) au lieu de viser le niveau du plexus (*Kaunde*).
 * **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de maintenir le ratio strict 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage du revers de la main (Sonkal Dung Makgi)](../makgi/sonkal-dung-makgi.md), [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md)
+
+<!-- /fiches-liees -->

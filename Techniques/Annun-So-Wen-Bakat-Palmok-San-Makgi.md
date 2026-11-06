@@ -67,3 +67,13 @@ Sa décomposition linguistique est la suivante :
 * **Regard de face :** Oublier de tourner la tête vers la gauche (*Wen*), ce qui rompt l'alignement du combat.
 * **Effondrement des coudes :** Coller les coudes au corps ou abaisser un bras plus que l'autre, détruisant la géométrie rigide du "W".
 * **Casser la flexion d'*Annun Sogi* :** Tendre les jambes à l'impact au lieu de maintenir une flexion basse et solide des genoux poussés vers l'extérieur.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage en "W" (San Makgi)](../makgi/san-makgi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md)
+
+<!-- /fiches-liees -->

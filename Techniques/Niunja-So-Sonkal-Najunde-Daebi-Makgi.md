@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise hauteur :** Placer la main avant au niveau du plexus (niveau moyen = *Kaunde*) au lieu de descendre sous la ceinture (*Najunde*).
 * **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de maintenir le ratio 60/40 sur l'arrière en *Niunja Sogi*.
 * **Main arrière collée au corps :** Plquer la main de garde contre le thorax au lieu de maintenir une distance de protection d'environ 2 à 3 cm.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde au niveau bas (Najunde Daebi Makgi)](../makgi/najunde-daebi-makgi.md), [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
+
+<!-- /fiches-liees -->

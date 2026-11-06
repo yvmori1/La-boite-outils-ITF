@@ -59,3 +59,12 @@ Cette technique associe le soutien en retrait de la position en L à la force ce
 * **Oubli du bras de réaction :** Ne pas ramener la main opposée à la hanche au moment précis de l'impact.
 
 > **Point clé :** La puissance du *Niunja So Sonkal Nopunde Bakuro Taerigi* provient du **fouetté du coude de l'intérieur vers l'extérieur**, synchronisé avec la descente en position en L (70/30) et la rotation finale du tranchant de la main.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

@@ -63,3 +63,11 @@ Sa décomposition linguistique est la suivante :
 * **Absence de retour de genou :** Laisser tomber la jambe tendue après la frappe au lieu de la replier immédiatement vers le torse, laissant la jambe vulnérable aux saisies (*Japgi*).
 * **Genou trop bas à l'armement :** Ne pas monter le genou avant d'étendre la jambe, ce qui transforme la frappe en un coup de pied montant inefficace (*Ap Cha Ollyigi*).
 * **Basculer le buste trop en arrière :** Pencher exagérément le dos vers l'arrière pour chercher de la portée, ce qui détruit la structure et l'équilibre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied avant fouetté (Apcha Busigi)](../chagi/apcha-busigi.md)
+
+<!-- /fiches-liees -->

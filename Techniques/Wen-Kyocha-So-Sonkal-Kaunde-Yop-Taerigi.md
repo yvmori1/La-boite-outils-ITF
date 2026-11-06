@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Genoux écartés :** Ne pas serrer les genoux l'un contre l'autre, ce qui détruit la solidité de la base et crée un risque de déséquilibre.
 * **Oublier la rotation du regard (*Siseon*) :** Frapper vers le côté gauche tout en gardant les yeux fixés vers l'avant.
 * **Main de réaction flottante :** Négliger le tirage du poing opposé à la hanche, ce qui diminue la force de fouetté du bras de frappe.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

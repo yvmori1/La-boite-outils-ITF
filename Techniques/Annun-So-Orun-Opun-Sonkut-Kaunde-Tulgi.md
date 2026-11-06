@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Opun* et *Sun* :** Finir la pique la main à la verticale au lieu de maintenir la paume strictement parallèle au sol (*Opun*).
 * **Casser le poignet :** Ne pas rigidifier le poignet à l'impact, ce qui fait plier la main vers le haut ou le bas et détruit toute la force de pénétration.
 * **Déformer l'*Annun Sogi* :** Laisser les genoux rentrer vers l'intérieur ou les talons se décoller au moment de la descente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

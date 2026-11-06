@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Déformer le cadre en "B" :** Écarter exagérément les bras ou perdre le parallélisme étagé entre le bras principal et le bras de garde.
 * **Confondre *Sonkal* et *Sonkal Dung* :** Orienter le tranchant interne (côté pouce) vers l'attaque au lieu du tranchant extérieur (côté petit doigt).
 * **Déformer l'*Annun Sogi* :** Laisser les genoux s'effondrer vers l'intérieur lors de la redescente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

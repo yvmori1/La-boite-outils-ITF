@@ -71,3 +71,13 @@ Sa décomposition linguistique est la suivante :
 * **Doigts écartés ou pouce décollé :** Laisser la main relâchée au lieu de maintenir les doigts fermement joints et le pouce replié contre la paume.
 * **Tendre complètement le coude :** Verrouiller l'articulation du coude en fin de course, ce qui fragilise le bras et risque une entorse en cas de choc lourd.
 * **Défaire l'*Annun Sogi* :** Laisser remonter les hanches ou incliner le buste vers le côté lors de la descente du bras.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage latéral (Yop Makgi)](../makgi/yop-makgi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

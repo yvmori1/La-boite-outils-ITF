@@ -64,3 +64,12 @@ Sa décomposition linguistique est la suivante :
 * **Main arrière collée contre le thorax :** Plquer la main de garde contre le corps au lieu de maintenir une distance d'absorption de 2 à 3 cm.
 * **Confondre *Sang Sonkal Makgi* et *Sonkal Daebi Makgi* :** En *Sang Sonkal Makgi*, les deux mains bloquent activement sur deux axes, tandis qu'en *Daebi Makgi*, une main est bloquante principale et l'autre est en garde passive d'accompagnement.
 * **Mauvaise répartition du poids :** Ne pas respecter le ratio 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Double blocage du tranchant de la main (Sang Sonkal Makgi)](../makgi/sang-sonkal-makgi.md)
+
+<!-- /fiches-liees -->

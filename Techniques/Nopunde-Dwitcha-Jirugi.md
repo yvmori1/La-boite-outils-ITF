@@ -39,3 +39,11 @@ Elle se traduit par : **Coup de pied arrière perçant au niveau haut** (*High B
 * **Zone de frappe incorrecte :** Frapper avec le tranchant du pied au lieu d'enfoncer le talon (*Dwit Chook*).
 
 > **Point clé :** Le *Nopunde Dwitcha Jirugi* fonctionne comme un **piston rectiligne** où le talon s'enfonce dans la cible haute grâce au verrouillage des fessiers et du dos.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied arrière tranchant](../chagi/dwit-cha-jirugi.md)
+
+<!-- /fiches-liees -->

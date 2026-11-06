@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Oublier la rotation du poing :** Finir la frappe paume vers le sol au lieu de la tourner vers soi.
 * **S'incliner vers l'arrière :** Pencher le buste pour accentuer la montée au lieu de garder le dos droit et d'utiliser la poussée des cuisses en *Niunja Sogi*.
 * **Mauvaise répartition du poids :** Ne pas conserver 70% du poids du corps ancré sur la jambe arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md)
+
+<!-- /fiches-liees -->

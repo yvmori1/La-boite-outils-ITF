@@ -75,3 +75,13 @@ Dans le Saju Makgi, ce blocage alterne avec le blocage bas au tranchant de la ma
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [An Palmok Kaunde Yop Makgi](An-Palmok-Kaunde-Yop-Makgi.md), [Niunja So An Palmok Kaunde Yop Makgi](Niunja-So-An-Palmok-Kaunde-Yop-Makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage latéral (Yop Makgi)](../makgi/yop-makgi.md)
+* **Dans les formes :** [Saju Makgi](../tul/saju-makgi.md), [Yul-Gok](../tul/yul-gok.md)
+
+<!-- /fiches-liees -->

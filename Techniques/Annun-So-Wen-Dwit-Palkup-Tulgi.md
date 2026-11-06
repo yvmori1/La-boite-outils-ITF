@@ -65,3 +65,13 @@ Sa décomposition linguistique est la suivante :
 * **Frapper en balayage circulaire :** Écarter le coude vers l'extérieur (*Taerigi*) au lieu de le maintenir serré près du flanc pour percer en ligne droite (*Tulgi*).
 * **Décoller les pieds / tourner les talons :** Faire pivoter les plantes de pieds ou perdre la structure d'*Annun Sogi* sous l'effet de l'élan vers l'arrière.
 * **Poing gauche flottant :** Laisser la main gauche ouverte ou relâchée au lieu de maintenir le poing fermement scellé contre le thorax au moment de la percussion.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Pique de coude arrière (Dwit Palkup Tulgi)](../jirugi/dwit-palkup-tulgi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

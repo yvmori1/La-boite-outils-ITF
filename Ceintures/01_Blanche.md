@@ -1,5 +1,7 @@
 # FICHE D'ÉTUDE :Ceinture Blanche (10e Gup)
 
+> **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/01-10e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#10e-gup--ceinture-blanche--fiche) · [combats arrangés](Combats-arranges/01_10e-9e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#10e-gup-ceinture-blanche-vers-9e-gup)
+
  Ceinture Blanche (10e Gup)
 
 * **Effort d'entraînement minimal requis :** 20 heures d'entraînement minimales.
@@ -122,66 +124,4 @@ Pour ce niveau, l'accent est particulièrement mis sur la signification de la ce
 
 ## Questions d'Examen Théorique (Auto-Évaluation)
 
-### Q1. Quelle est la définition littérale du mot "Taekwon-Do" et quel est son pays d'origine ? (2 points)
-
-<details markdown="1">
-<summary><b>Afficher le corrigé</b></summary>
-
-* **Réponse :** Le Taekwon-Do est un art martial d'autodéfense originaire de la **Corée**. Littéralement :
-    * **Tae :** Frapper ou détruire avec le pied (sauter, ruer).
-    * **Kwon :** Frapper ou détruire avec la main ou le poing.
-    * **Do :** La Voie, l'art, le cheminement spirituel et philosophique.
-
-</details>
-
-### Q2. Que signifie la couleur Blanche de la ceinture ? (2 points)
-
-<details markdown="1">
-<summary><b>Afficher le corrigé</b></summary>
-
-* **Réponse :** Elle signifie l'innocence; l'élève débutant qui n'a aucune connaissance préalable du Taekwon-Do.
-
-</details>
-
-### Q3. Combien de mouvements comportent respectivement les exercices fondamentaux Saju Jirugi et Saju Makgi, et quelle est leur utilité ? (2 points)
-
-<details markdown="1">
-<summary><b>Afficher le corrigé</b></summary>
-
-* **Réponse :**
-    * **Saju Jirugi (Attaque 4 directions) :** Comporte **14 mouvements** (7 à droite, 7 à gauche). Il permet d'apprendre la position de marche (Gunnun Sogi) et le coup de poing moyen (Kaunde Jirugi).
-    * **Saju Makgi (Blocage 4 directions) :** Comporte **16 mouvements** (8 à droite, 8 à gauche). Il permet d'enseigner les déplacements, le blocage bas avec le tranchant de la main (Knife-hand low block) et le blocage moyen de l'avant-bras intérieur.
-
-</details>
-
-### Q4. Traduisez les termes de base suivants en coréen : (2 points)
-
-* a) Attention !
-* b) Salle d'entraînement (Dojang)
-* c) Position de marche
-* d) Position assise
-
-<details markdown="1">
-<summary><b>Afficher le corrigé</b></summary>
-
-* **Réponse :**
-    * a) Attention ! = **Charyot**
-    * b) Salle d'entraînement = **Dojang**
-    * c) Position de marche = **Gunnun Sogi**
-    * d) Position assise = **Annun Sogi**
-
-</details>
-
-### Q5. Citez dans l'ordre les 5 principes du Taekwon-Do (le Crédo) : (2 points)
-
-<details markdown="1">
-<summary><b>Afficher le corrigé</b></summary>
-
-* **Réponse :**
-    1. **Courtoisie** (Ye Ui)
-    2. **Intégrité** (Yum Chi)
-    3. **Persévérance** (In Nae)
-    4. **Contrôle de soi** (Guk Gi)
-    5. **Esprit indomptable** (Baekjul Boolgool)
-
-</details>
+Les questions de ce grade, avec leur corrigé, le mode révision et l'impression, sont dans l'[examen théorique du 10e Gup](../Theorie/examens/ceintures-de-couleur/01-10e-gup.md).

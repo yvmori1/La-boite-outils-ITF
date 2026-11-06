@@ -64,3 +64,13 @@ Sa décomposition linguistique est la suivante :
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So An Palmok Dollimyo Makgi](Gunnun-So-An-Palmok-Dollimyo-Makgi.md), [Gunnun So Sonkal Dung Dollimyo Makgi](Gunnun-So-Sonkal-Dung-Dollimyo-Makgi.md), [Blocage circulaire (Dollimyo Makgi)](../makgi/dollimyo-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage circulaire (Dollimyo Makgi)](../makgi/dollimyo-makgi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

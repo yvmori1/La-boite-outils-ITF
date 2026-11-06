@@ -62,3 +62,11 @@ Sa décomposition linguistique est la suivante :
 * **Confusion linguistique et technique :** Effectuer une rotation sur soi-même (*Dora Chagi*) au lieu d'un mouvement de retour d'axe (*Doro Chagi*).
 * **Basculer le buste en arrière :** Jeter le haut du corps vers l'arrière au moment du retour de la jambe, ce qui détruit la posture et l'équilibre.
 * **Armement incomplet :** Ne pas fléchir suffisamment le genou lors du retour, réduisant l'efficacité du retrait à un simple mouvement mou.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Dépasser l'axe du corps :** Envoyer le bras trop loin vers l'extérieur ou trop loin de l'autre côté, laissant le buste totalement découvert.
 * **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de maintenir 70% sur la jambe arrière en *Niunja Sogi*.
 * **Blocage trop haut ou trop bas :** S'arrêter au niveau du visage (niveau *Nopunde*) ou sous la ceinture (niveau *Najunde*) au lieu de viser le niveau du plexus (*Kaunde*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md)
+
+<!-- /fiches-liees -->

@@ -58,3 +58,12 @@ Cette technique offre une protection compacte et très solide en utilisant les p
 * **Oubli de la vague (*Sine Wave*) :** Bloquer de manière rigide et "à plat", sans utiliser la descente du bassin pour injecter la masse corporelle dans la garde.
 
 > **Point clé :** Le *Orun Niunja So Palmok Kaunde Daebi Makgi* est la garde de référence du Taekwon-Do : les poings fermés et la flexion des avant-bras créent un bouclier hermétique capable de dévier les attaques moyennes tout en conservant une mobilité immédiate.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde des avant-bras (Palmok Daebi Makgi)](../makgi/palmok-daebi-makgi.md)
+
+<!-- /fiches-liees -->

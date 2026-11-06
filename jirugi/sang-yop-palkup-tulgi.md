@@ -64,3 +64,12 @@ Cette technique s'exécute le plus souvent en **Annun Sogi** (posture du cavalie
 * **Dissynchronisation des coudes :** Sortir un coude avant l'autre, ce qui rompt l'équilibre des forces et annule l'effet "double" (*Sang*).
 * **Asymétrie de hauteur :** Placer un coude plus haut que l'autre (par exemple un au niveau haut et l'autre au niveau moyen sans intention technique explicite).
 * **Hausser les épaules :** Crisper les pièges et les épaules vers les oreilles lors de la poussée, ce qui absorbe l'onde de choc dans les cervicales au lieu de la transmettre aux coudes.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Moa So Sang Yop Palkup Tulgi](../Techniques/Moa-So-Sang-Yop-Palkup-Tulgi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

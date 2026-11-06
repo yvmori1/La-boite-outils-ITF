@@ -91,3 +91,12 @@ On retrouve le coup de poing inverse dans de nombreuses formes du programme ITF 
 * **Décoller le talon arrière :** Soulever le talon du pied arrière au moment de la rotation de la hanche, ce qui casse l'ancrage au sol.
 * **Perdre la largeur d'épaules :** Croiser les pieds sur une même ligne lors du pas, entraînant une perte d'équilibre au moment de recevoir la réaction d'impact.
 * **Casser le poignet :** Ne pas maintenir le poing parfaitement aligné avec l'avant-bras lors du verrouillage final.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

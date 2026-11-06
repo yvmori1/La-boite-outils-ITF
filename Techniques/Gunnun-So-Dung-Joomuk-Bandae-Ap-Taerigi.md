@@ -60,3 +60,12 @@ Cette technique associe l'élan vers l'avant de la position en marche à la vite
 * **Poignet mou à l'impact :** Ne pas verrouiller l'articulation du poignet au moment précis du contact, risquant une entorse et dissipant l'énergie de frappe.
 
 > **Point clé :** La puissance du *Gunnun So Dung Joomuk Bandae Ap Taerigi* provient du verrouillage de la position en marche (50/50) synchronisé avec la détente fustigeante du coude opposé sur l'axe frontal.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

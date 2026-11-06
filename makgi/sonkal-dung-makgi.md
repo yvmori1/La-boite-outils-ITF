@@ -74,3 +74,12 @@ On retrouve le *Sonkal Dung* sous forme de blocages, de gardes et de frappes dan
 * **Pouce décollé :** Laisser le pouce flotter ou pointer vers l'extérieur, ce qui crée un risque majeur de blessure à l'impact.
 * **Impact avec les doigts :** Percuter le membre adverse avec les phalanges des doigts au lieu de l'arête osseuse située entre l'index et le pouce.
 * **Poignet cassé :** Ne pas maintenir le poignet rigide dans l'alignement de l'avant-bras, ce qui fait plier la main au moment de l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Niunja So Sonkal Dung Kaunde Makgi](../Techniques/Niunja-So-Sonkal-Dung-Kaunde-Makgi.md)
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md)
+
+<!-- /fiches-liees -->

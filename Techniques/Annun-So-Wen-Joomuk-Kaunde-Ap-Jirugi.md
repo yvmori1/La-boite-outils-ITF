@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Casser le poignet :** Ne pas maintenir le dos de la main et l'avant-bras parfaitement alignés sur le même plan rigide lors du choc.
 * **Vrille prématurée :** Tourner le poing trop tôt au lieu d'exécuter la rotation à 180° au tout dernier instant (*Snap*).
 * **Déformer l'*Annun Sogi* :** Tendre les jambes ou laisser les genoux s'affaisser vers l'intérieur sous l'effort de la percussion.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md), [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

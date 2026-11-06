@@ -64,3 +64,13 @@ Sa décomposition linguistique est la suivante :
 * **Déformer le "W" (*San*) :** Laisser tomber un coude, monter une main plus haut que l'autre ou coller les bras contre le visage, ce qui détruit la géométrie et la résistance de la structure.
 * **Oublier le coup d'œil (*Siseon*) :** Regarder droit devant soi au lieu de tourner la tête vers le côté d'exécution de la technique.
 * **Relâcher l'*Annun Sogi* :** Laisser les genoux rentrer vers l'intérieur ou basculer le buste en arrière sous l'effort de la montée des bras.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage en "W" (San Makgi)](../makgi/san-makgi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

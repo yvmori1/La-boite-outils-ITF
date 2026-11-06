@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Coudre trop haut ou trop bas :** Ne pas maintenir l'avant-bras horizontalement par rapport au sol lors de la frappe.
 * **Buste de profil :** Tourner les épaules de profil au lieu d'aligner la poitrine de face (*Jeongmyon*).
 * **Absence de vrille au poignet :** Oublier la rotation finale du poing à l'impact (la paume du poing gauche doit être tournée vers le sol à la finition).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

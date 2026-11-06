@@ -71,3 +71,12 @@ Sa décomposition linguistique est la suivante :
 * **Tourner les pieds ou le bassin :** Pivoter les talons ou faire pivoter les hanches vers la gauche, détruisant la structure et le parallélisme d'*Annun Sogi*.
 * **Écarter le coude lors du départ :** Faire faire une boucle au poing au lieu de pousser le bras en piston rectiligne depuis la position d'armement.
 * **Casser le poignet :** Ne pas maintenir le poing et l'avant-bras parfaitement alignés au moment de la vrille finale à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

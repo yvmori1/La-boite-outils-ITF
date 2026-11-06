@@ -69,3 +69,11 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise répartition du poids :** Faire basculer le poids vers l'avant ou l'arrière au lieu de maintenir le strict 50/50 du *Gojung Sogi*.
 * **Tendre complètement les coudes :** Verrouiller les bras en hyper-extension à l'impact, ce qui supprime la capacité d'amortissement et fragilise les coudes.
 * **Oublier la rotation/fixation (*Snap*) :** Laisser tomber les bras de manière molle au lieu de sceller le blocage avec un déclic sec (*Snap*) soutenu par l'expiration.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Blocage d'arrêt (Momchau Makgi)](../makgi/momchau-makgi.md)
+
+<!-- /fiches-liees -->

@@ -41,3 +41,11 @@ Elle se traduit par : **Coup de pied latéral perçant au niveau haut** (*High S
 * **Affaissement de la ligne de corps :** Casser le dos ou laisser la hanche s'effondrer au moment de l'impact au lieu de maintenir une structure solide.
 
 > **Point clé :** La force du *Nopunde Yopcha Jirugi* réside dans l'alignement parfait du buste, des hanches et du **tranchant du pied (*Balkal*)** propulsés en ligne droite vers la cible haute.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied latéral perçant (Yop Cha Jirugi)](../chagi/yop-cha-jirugi.md)
+
+<!-- /fiches-liees -->

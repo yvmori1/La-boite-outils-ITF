@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Placer le blocage trop bas :** S'arrêter au niveau de la poitrine (niveau moyen = *Kaunde*) au lieu de monter la main bloquante à hauteur des yeux (*Nopunde*).
 * **Main arrière collée au buste :** Plaquer la main de protection contre le thorax au lieu de maintenir une distance d'absorption de 2 à 3 cm.
 * **Mauvaise répartition du poids :** Ne pas charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Sam-Il](../tul/sam-il.md)
+
+<!-- /fiches-liees -->

@@ -73,3 +73,11 @@ Sa décomposition linguistique est la suivante :
 * **Jambe d'appui trop raide :** Ne pas fléchir suffisamment le genou de terre, ce qui supprime l'effet ressort et déstabilise l'équilibre.
 * **Pencher le buste :** Incliner le haut du corps pour tricher sur l'équilibre au lieu de gainer la sangle abdominale.
 * **Relâcher la garde :** Baisser les bras au lieu de maintenir une structure de protection (*Daebi Makgi*) solide.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

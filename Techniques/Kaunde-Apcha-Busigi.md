@@ -71,3 +71,12 @@ La technique revient **10 fois** dans 6 formes :
 * **Bouger les mains :** elles gardent la position du mouvement précédent.
 
 Voir aussi : [Najunde Apcha Busigi](Najunde-Apcha-Busigi.md), [Twimyo Apcha Busigi](Twimyo-Apcha-Busigi.md), [Coup de pied avant fouetté (Apcha Busigi)](../chagi/apcha-busigi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied avant fouetté (Apcha Busigi)](../chagi/apcha-busigi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Choong-Jang](../tul/choong-jang.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

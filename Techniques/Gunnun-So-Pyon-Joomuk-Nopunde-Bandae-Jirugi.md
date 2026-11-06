@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Baro* et *Bandae* :** Frapper avec la main située du même côté que la jambe avant.
 * **Perdre la largeur d'épaules :** Aligner les deux pieds sur un même rail au sol en *Gunnun Sogi*, ruinant la stabilité et la rotation de la hanche.
 * **Oublier la rotation du poignet :** Projeter le poing sans la vrille finale à 180° qui verrouille l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

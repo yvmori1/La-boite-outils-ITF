@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Coudes trop bas ou trop hauts :** Ne pas maintenir la trajectoire dans le plan horizontal (*Kaunde*), ce qui affaiblit la pénétration et expose les côtes.
 * **Écartement des pieds :** Décoller les talons ou laisser un espace entre les pieds au lieu de sceller le *Moa Sogi*.
 * **Épaules montées :** Crisper les trapèzes vers le haut pendant la projection des coudes au lieu de maintenir les épaules basses.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Geste de base :** [Double coup de coude latéral perçant (Sang Yop Palkup Tulgi)](../jirugi/sang-yop-palkup-tulgi.md)
+
+<!-- /fiches-liees -->

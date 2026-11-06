@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Écarter les pieds :** Laisser un espace entre les talons ou les pointes de pieds en *Moa Sogi*.
 * **Coudes trop ouverts :** Écarter exagérément les coudes vers l'extérieur au lieu de guider la trajectoire depuis les flancs.
 * **Désynchronisation des bras :** Impact non simultané des deux poings, rompant le principe de la frappe bilatérale (*Sang*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

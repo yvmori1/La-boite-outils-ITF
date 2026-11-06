@@ -72,3 +72,11 @@ Sa décomposition linguistique est la suivante :
 * **Talon arrière décollé :** Soulever le talon du pied arrière au lieu de le maintenir fermement à plat sur le sol.
 * **Surcharge sur la jambe avant :** Pencher le buste vers l'avant et charger 70% du poids sur la jambe avant (confondre la répartition avec une posture de combat déséquilibrée).
 * **Genou avant trop dépassé :** Pousser le genou avant trop loin au-dessus des orteils, risquant d'endommager l'articulation du genou et de gâcher l'équilibre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

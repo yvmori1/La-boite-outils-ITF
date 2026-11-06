@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise zone d'impact :** Frapper avec le dos de la main ou les petites jointures au lieu des deux premières jointures du revers du poing (**Dung Joomuk**).
 * **Écartement des pieds :** Décoller les talons ou ouvrir les pieds en "V" au lieu de maintenir un *Moa Sogi* strict.
 * **Perte d'axe du buste :** Trop pencher le corps vers l'avant pour compenser la frappe vers l'arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md)
+
+<!-- /fiches-liees -->

@@ -50,3 +50,11 @@ Voici la 4ᵉ section complète portant sur les erreurs fréquentes à éviter l
 * **Mauvaise tenue de la main :** Garder les doigts écartés ou mous. Les quatre doigts doivent être fermement collés et légèrement fléchis aux articulations, avec le pouce bien replié contre la paume, afin d'offrir une surface rigide (*Sonkal*).
 * **Désynchronisation du bras de réaction :** Oublier de ramener vivement le bras opposé à la hanche (poing fermé) au moment précis de l'impact, ce qui prive le mouvement de l'effet d'action-réaction et du verrouillage des hanches.
 * **Oubli de la vague (*Sine Wave*) :** Délivrer le coup de manière rigide et "plate", sans synchroniser l'impact avec la descente finale du corps, ce qui empêche d'injecter la masse corporelle dans la frappe.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

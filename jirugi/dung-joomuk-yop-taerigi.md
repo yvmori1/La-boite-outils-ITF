@@ -74,3 +74,12 @@ C'est l'un des mouvements latéraux les plus célèbres et travaillés du TaeKwo
 * **Trajectoire poussée :** Amener tout le bras rigide depuis l'épaule au lieu de fouetter l'avant-bras autour du coude.
 * **Dépasser la ligne latérale (*Over-swing*) :** Envoyer le poing trop loin vers l'arrière, ce qui déséquilibre le buste et détruit la structure de puissance.
 * **Frapper avec le méplat du poing :** Impact avec le plat des phalanges au lieu du sommet du revers des deux grosses jointures.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Orun Dung Joomuk Nopunde Yop Taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md), [Annun So Wen Dung Joomuk Nopunde Yop Taerigi](../Techniques/Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.md), [Dung Joomuk Nopunde Yop Taerigi](../Techniques/Dung-Joomuk-Nopunde-Yop-Taerigi.md), [Gunnun So Dung Joomuk Nopunde Yop Taerigi](../Techniques/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md), [Niunja So Dung Joomuk Nopunde Yop Taerigi](../Techniques/Niunja-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md), [Orun Dung Joomuk Nopunde Yop Taerigi](../Techniques/Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md), [Orun Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi](../Techniques/Orun-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md), [Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi](../Techniques/Orun-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md), [Wen Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md), [Wen Kyocha So Dung Joomuk Nopunde Yop Taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Yul-Gok](../tul/yul-gok.md), [Joong-Gun](../tul/joong-gun.md), [Choong-Moo](../tul/choong-moo.md), [Kwang-Gae](../tul/kwang-gae.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Ko-Dang](../tul/ko-dang.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

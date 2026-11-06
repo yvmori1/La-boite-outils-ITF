@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
     * Sortir le bras gauche trop sur le côté (90°) ou trop devant (0°) au lieu de respecter l'angle de 45° (*Yobap*).
 * **Perte de structure en *Annun Sogi* :** Laisser le bassin basculer ou les genoux rentrer vers l'intérieur pour compenser le double effort des bras.
 * **Apnée durant le mouvement :** Bloquer sa respiration au lieu de produire une expiration nette au moment du scellage.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

@@ -74,3 +74,12 @@ Cette technique majeure figure dans plusieurs formes officielles de l'ITF :
 * **Casser le buste vers le sol :** Pencher la tête et les épaules vers le bas pour réussir à lever la jambe, ce qui fait tomber la hauteur de la frappe.
 * **Se laisser emporter par la rotation :** Ne pas contrôler la force centrifuge après l'impact et effectuer un tour sur soi-même incontrôlé.
 * **Cheville molle :** Ne pas armer les orteils vers l'arrière, risquant de frapper avec le côté du pied ou les orteils au lieu du talon (*Dwitchuk*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Kaunde Bandae Dollyo Chagi](../Techniques/Kaunde-Bandae-Dollyo-Chagi.md), [Nopunde Bandae Dollyo Chagi](../Techniques/Nopunde-Bandae-Dollyo-Chagi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

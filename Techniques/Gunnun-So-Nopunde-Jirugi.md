@@ -94,3 +94,12 @@ On retrouve cette frappe dans plusieurs formes du programme des gradations :
 * **Hausser l'épaule :** Crisper le trapèze du bras de frappe lors de la montée du poing, ce qui réduit la vitesse et absorbe de la puissance.
 * **Lever le talon arrière :** Décoller le talon du pied arrière à l'impact pour tenter de gagner de la portée, romptant le transfert d'énergie depuis le sol.
 * **Poignet cassé vers le haut :** Ne pas maintenir le poing rigide dans le prolongement de l'avant-bras, ce qui risque de tordre le poignet au contact de la tête adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Kwang-Gae](../tul/kwang-gae.md), [Eui-Am](../tul/eui-am.md), [Sam-Il](../tul/sam-il.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

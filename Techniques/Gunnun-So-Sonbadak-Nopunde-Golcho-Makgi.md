@@ -67,3 +67,12 @@ Le pas croisé qui précède le blocage apprend à avancer en se décalant de la
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Blocage crocheté à la paume (Golcho Sonbadak Makgi)](../makgi/golcho-sonbadak-makgi.md) · [Gunnun So Sonbadak Nopunde Bandae Golcho Makgi](Gunnun-So-Sonbadak-Nopunde-Bandae-Golcho-Makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md)
+
+<!-- /fiches-liees -->

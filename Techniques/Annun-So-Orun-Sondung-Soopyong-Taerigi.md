@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper poing fermé :** Utiliser le revers du poing (*Dung Joomuk*) au lieu de maintenir la main ouverte avec les doigts tendus et rassemblés (*Sondung*).
 * **Poignet mou :** Ne pas verrouiller l'articulation du poignet à l'impact, ce qui risque de casser l'alignement et d'absorber le choc dans la main du pratiquant.
 * **Ouvrir les doigts :** Laisser les doigts écartés au lieu de les maintenir scellés et le pouce bien plaqué contre la paume.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

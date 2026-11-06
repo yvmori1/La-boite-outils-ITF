@@ -73,3 +73,11 @@ Sa décomposition linguistique est la suivante :
 * **Pied libre appuyé sur le genou :** "Lasser" ou poser l'intérieur du pied contre l'articulation au lieu de le maintenir armé par la force musculaire des fléchisseurs de la hanche.
 * **Incliné le buste :** Pencher le torse sur le côté pour compenser un manque de souplesse ou d'équilibre, ce qui découvre le buste et désaligne la colonne vertébrale.
 * **Baisser les bras :** Relâcher la garde *Palmok Daebi Makgi*, ce qui laisse la tête et le haut du corps sans défense.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Choi-Yong](../tul/choi-yong.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Pousser au lieu de fouetter :** Donner un coup d'épaule lourd sans utiliser la charnière du coude et le verrouillage du poignet (*Snap*).
 * **Frapper à côté de l'axe :** Laisser partir le bras vers l'extérieur au lieu de maintenir une trajectoire verticale et axiale par rapport à la cible.
 * **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de conserver 70% de la masse sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Frappe vers la bas (Naeryo Taerigi)](../jirugi/naeryo-taerigi.md)
+
+<!-- /fiches-liees -->

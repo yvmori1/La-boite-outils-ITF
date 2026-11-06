@@ -73,3 +73,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *An Palmok* et *Bakat Palmok* :** Inverser la rotation du poignet et présenter l'extérieur du bras au lieu du côté pouce.
 * **Déformer l'*Annun Sogi* :** Laisser le genou droit s'effondrer vers l'intérieur lors du blocage au lieu de maintenir les deux genoux poussés fermement vers l'extérieur.
 * **Oublier le tirage de réaction :** Laisser flotter la main gauche au lieu de la ramener vivement à la hanche.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

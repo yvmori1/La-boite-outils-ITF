@@ -64,3 +64,12 @@ Premier mouvement de Tong-Il : le pratiquant recule d'un pas et frappe des deux 
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Sang Joomuk Nopunde Sewo Jirugi](Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

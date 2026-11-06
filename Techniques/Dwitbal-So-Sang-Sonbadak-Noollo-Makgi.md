@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Tendre complètement les coudes :** Verrouiller les bras vers le bas en hyper-extension, annulant la capacité d'amortissement de la poussée.
 * **Doigts écartés :** Relâcher la tension dans les mains, risquant d'avoir les doigts retournés ou luxés lors du contact avec la jambe adverse.
 * **Écraser le talon avant :** Poser le talon de la jambe avant au sol au lieu de le maintenir légèrement décollé sur le bol du pied (*Ap Kumchi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md)
+
+<!-- /fiches-liees -->

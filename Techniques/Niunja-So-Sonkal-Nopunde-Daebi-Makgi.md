@@ -57,3 +57,12 @@ Cette technique associe la stabilité en retrait de la position en L à la prote
 * **Oubli de la vague (*Sine Wave*) :** Exécuter le blocage de manière plate sans synchroniser le verrouillage des avant-bras avec l'abaissement du centre de gravité.
 
 > **Point clé :** La spécificité du *Niunja So Sonkal Nopunde Daebi Makgi* réside dans l'élévation du tranchant de la main avant **au niveau des yeux**, soutenue par l'ancrage arrière (70/30) de la position en L.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
+
+<!-- /fiches-liees -->

@@ -39,3 +39,11 @@ Elle se traduit par : **Coup de pied en torsade / de biais au niveau haut** (*Hi
 * **Perte d'équilibre arrière :** Trop incliner le buste vers l'arrière au point de chuter lors de l'extension.
 
 > **Point clé :** La spécificité du *Nopunde Bituro Chagi* réside dans son **armement intérieur suivi d'une détente vrillée vers l'extérieur**, surprenant la garde adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied vrillé (Bituro Chagi)](../chagi/bituro-chagi.md)
+
+<!-- /fiches-liees -->

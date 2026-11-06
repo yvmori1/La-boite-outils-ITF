@@ -70,3 +70,12 @@ Sa décomposition linguistique est la suivante :
 * **Pousser au lieu de fouetter :** Accompagner mollement le poing vers le bas au lieu d'utiliser l'effet de cravache de l'articulation du coude (*Taerigi*).
 * **Talon arrière posé à plat :** Poser le talon du pied arrière (droit) au sol, ce qui ruine l'ancrage et la mobilité en *Kyocha Sogi*.
 * **Oublier la chute de masse :** Garder les genoux raides au lieu d'abaisser le bassin au moment où le poing s'abat.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Frappe vers la bas (Naeryo Taerigi)](../jirugi/naeryo-taerigi.md)
+
+<!-- /fiches-liees -->

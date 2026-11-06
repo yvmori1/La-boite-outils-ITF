@@ -88,3 +88,13 @@ C'est l'un des blocages doubles les plus fondamentaux du programme ITF :
 * **Bras moyen collé au corps :** Poser l'avant-bras inférieur contre le ventre, transmettant l'énergie de l'impact directement dans votre propre thorax.
 * **Oublier le croisement d'armement :** Écarter les bras directement depuis les flancs sans croiser devant la poitrine, supprimant la force de levier du mouvement.
 * **Perdre l'angle de la posture en L :** Basculer trop de poids sur la jambe avant (dépasser les 30%), déséquilibrant le buste vers l'avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage double des avant-bras (Sang Palmok Makgi)](../makgi/sang-palmok-makgi.md)
+* **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Won-Hyo](../tul/won-hyo.md), [Hwa-Rang](../tul/hwa-rang.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

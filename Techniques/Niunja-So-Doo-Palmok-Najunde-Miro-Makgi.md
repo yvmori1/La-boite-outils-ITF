@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **S'incliner vers l'avant :** Pencher le buste lors de la poussée descendante au lieu de maintenir le dos droit et d'utiliser la descente du bassin en *Niunja Sogi*.
 * **Bloquer trop haut :** S'arrêter au niveau de la ceinture (niveau moyen) au lieu d'amener le bras bloquant nettement au-dessus de la cuisse/bas-ventre (*Najunde*).
 * **Mauvaise répartition du poids :** Charger la jambe avant au lieu de conserver 70% du poids ancré sur la jambe arrière.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage poussée (Miro Makgi)](../makgi/miro-makgi.md)
+
+<!-- /fiches-liees -->

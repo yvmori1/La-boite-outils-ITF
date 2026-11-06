@@ -50,3 +50,13 @@ Cette séquence dynamique combine un **coup de pied latéral perçant sauté** a
 >
 > * **Combler l'espace :** Le coup de pied sauté (*Twimyo*) permet d'attaquer un adversaire qui a rompu la distance ou de passer par-dessus une garde/obstacle au sol.
 > * **Sécurité à la réception :** L'exécution immédiate du blocage de garde au tranchant de la main (**Sonkal Daebi Makgi**) dès l'atterrissage assure une couverture défensive totale contre une éventuelle contre-attaque si l'adversaire a esquivé le coup sauté.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Coup de pied latéral perçant sauté (Twimyo Yopcha Jirugi)](../chagi/twimyo-yopcha-jirugi.md), [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md)
+
+<!-- /fiches-liees -->

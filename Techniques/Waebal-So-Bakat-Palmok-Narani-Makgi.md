@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Désynchronisation :** Arriver en équilibre sur la jambe d'appui avant ou après le verrouillage des bras, au lieu de synchroniser la stabilité du corps avec l'impact des bras.
 * **Buste incliné :** Pencher le haut du corps pour compenser la montée de la jambe libre, ce qui rompt l'axe d'équilibre vertical.
 * **Poings ou poignets mous :** Ne pas verrouiller les poings (**Ap Joomuk**) à l'impact, ce qui affaiblit la rigidité des avant-bras.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Waebal Sogi](../sogi/Waebal-Sogi.md)
+* **Geste de base :** [Blocage parallèle (Narani Makgi)](../makgi/narani-makgi.md)
+
+<!-- /fiches-liees -->

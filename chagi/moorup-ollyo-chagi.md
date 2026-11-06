@@ -75,3 +75,11 @@ On retrouve cette technique dans les formes de niveau intermédiaire :
 * **Pousser le genou vers l'avant :** Transformer l'élévation verticale en une poussée horizontale, réduisant la hauteur atteinte sous le menton.
 * **Ne pas compacter la jambe :** Laisser pendre le bas de la jambe (mollet/pied), ce qui alourdit le mouvement et retire de la vitesse d'ascension.
 * **S'effondrer le buste vers l'arrière :** Pencher le haut du corps en arrière pour faire monter le genou plus haut, ce qui casse la force de poussée du bassin.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md)
+
+<!-- /fiches-liees -->

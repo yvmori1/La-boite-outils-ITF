@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Trajectoire droite au lieu de circulaire :** Pousser le bras de façon rectiligne (*Jirugi*) au lieu d'exécuter un fouetté circulaire (*Taerigi*).
 * **Mauvaise répartition du poids :** Ne pas charger 70% du poids sur la jambe arrière en *Niunja Sogi*.
 * **Buste trop ouvert :** Tourner complètement le corps de face (*Jeongmyon*) au lieu de maintenir la posture de semi-profil (*Han Momtong*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Kwang-Gae](../tul/kwang-gae.md)
+
+<!-- /fiches-liees -->

@@ -68,3 +68,13 @@ Dans Kwang-Gae, le blocage est suivi d'un blocage bas avec l'autre bras, sans d�
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Doo Palmok Nopunde Makgi](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md), [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

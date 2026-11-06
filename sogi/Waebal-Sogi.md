@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Désaligner les hanches :** Laisser tomber la hanche du côté de la jambe levée, ce qui fait pencher le buste et détruit l'équilibre.
 * **Talon d'appui décollé :** Se hisser sur la pointe du pied au lieu de garder le pied d'appui entièrement plaqué au sol.
 * **Buste penché vers l'avant ou l'arrière :** Casser la ligne de la colonne vertébrale pour compenser un manque de gainage abdominal.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques dans cette position :** 5 fiches, classées dans [Techniques](../Techniques/README.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

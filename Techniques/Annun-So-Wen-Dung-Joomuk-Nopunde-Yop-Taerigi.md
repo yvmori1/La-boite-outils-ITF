@@ -68,3 +68,13 @@ Sa décomposition linguistique est la suivante :
 * **Mauvaise hauteur :** S'arrêter au niveau des épaules (*Kaunde*) au lieu de monter fermement à la hauteur des yeux/visage (*Nopunde*).
 * **Oublier le coup d'œil (*Siseon*) :** Regarder droit devant soi au lieu de tourner la tête pour cibler l'adversaire sur le flanc gauche.
 * **Tourner les pieds :** Laisser les talons pivoter sous l'effet de l'élan au lieu de garder les deux plantes de pieds strictement parallèles en *Annun Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

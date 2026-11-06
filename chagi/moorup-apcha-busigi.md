@@ -76,3 +76,12 @@ On retrouve cette technique clé dans plusieurs formes officielles de l'ITF :
 * **Ne pas engager les hanches :** Donner un coup uniquement avec la cuisse sans pousser le bassin vers l'avant, enlevant toute la puissance de pénétration.
 * **Oublier la force de réaction des bras :** Frapper du genou sans tirer l'adversaire vers soi avec les mains.
 * **Casser le dos en arrière :** S'effondrer vers l'arrière au lieu de gainer la sangle abdominale, ce qui détruit l'équilibre et la pression vers l'avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Moorup Najunde Apcha Busigi](../Techniques/Moorup-Najunde-Apcha-Busigi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

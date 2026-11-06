@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Écarter trop ou pas assez :** Prendre une position trop étroite (manque de stabilité) ou excessivement large (impossibilité de fléchir correctement et perte de mobilité).
 * **Fesses en arrière / Buste penché :** Cambrer le bas du dos et sortir les fesses vers l'arrière au lieu de conserver un buste bien vertical et gainé.
 * **Décoller les talons :** Laisser les talons se soulever lors des frappes au lieu de garder les deux pieds ancrés à plat sur le sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques dans cette position :** 58 fiches, classées dans [Techniques](../Techniques/README.md)
+* **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Yoo-Sin](../tul/yoo-sin.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

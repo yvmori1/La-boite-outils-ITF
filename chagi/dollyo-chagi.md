@@ -65,3 +65,12 @@ En TaeKwon-Do ITF, deux surfaces d'impact sont principalement utilisées selon l
 * **Coup "balayé" (jambe tendue) :** Lancer la jambe complètement tendue depuis le sol au lieu de fouetter depuis le genou détruit la vitesse et la précision.
 * **Mauvaise position des orteils (*Apkumchi*) :** Oublier de relever les orteils lors d'une frappe avec le bol du pied expose à des fractures des orteils.
 * **Absence de retrait :** Laisser tomber la jambe immédiatement après l'impact sans la ramener vers le genou.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Kaunde Dollyo Chagi](../Techniques/Kaunde-Dollyo-Chagi.md), [Nopunde Dollyo Chagi](../Techniques/Nopunde-Dollyo-Chagi.md)
+* **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

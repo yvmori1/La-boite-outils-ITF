@@ -60,3 +60,12 @@ L'ajout du terme **Baro** précise que le coup est porté par la main droite (ho
 * **Poignet mou à l'impact :** Ne pas verrouiller le poignet au moment du contact, ce qui absorbe l'onde de choc au lieu de la transmettre à la cible.
 
 > **Point clé :** Le terme **Baro** confirme l'utilisation de la main droite en parfaite synergie avec le pied droit avant. La puissance du *Orun Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi* repose sur la détente explosive du coude droit synchronisée avec la descente du bassin en position croisée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
+
+<!-- /fiches-liees -->

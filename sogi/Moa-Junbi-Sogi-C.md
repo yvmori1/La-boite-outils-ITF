@@ -72,3 +72,11 @@ On retrouve le *Moa Junbi Sogi C* comme posture de départ et de fin dans :
 * **Écartement des talons :** Laisser un espace entre les pieds en bas.
 
 > **Point clé :** La spécificité du *Moa Junbi Sogi C* réside dans l'utilisation des **mains ouvertes superposées (gauche sur droite)** au niveau du bas-ventre, matérialisant une garde réceptive, concentrée et équilibrée sur le centre d'énergie (*Danjeon*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

@@ -72,3 +72,12 @@ On retrouve cette technique élaborée dans les formes de niveau avancé (*Black
 * **Manque de souplesse de hanche / Torsion forcée du genou :** Forcer sur l'articulation du genou pour orienter le pied au lieu de faire pivoter le bassin et la hanche.
 * **Cheville molle à l'impact :** Ne pas armer les orteils vers l'arrière, risquant de se tordre les orteils lors du contact.
 * **Oublier le réarmement :** Laisser tomber la jambe de manière désordonnée après la vrille au lieu de la ramener vers le centre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Kaunde Bituro Chagi](../Techniques/Kaunde-Bituro-Chagi.md), [Najunde Bituro Chagi](../Techniques/Najunde-Bituro-Chagi.md), [Nopunde Bituro Chagi](../Techniques/Nopunde-Bituro-Chagi.md), [Yop Bituro Chagi](../Techniques/Yop-Bituro-Chagi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Sam-Il](../tul/sam-il.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

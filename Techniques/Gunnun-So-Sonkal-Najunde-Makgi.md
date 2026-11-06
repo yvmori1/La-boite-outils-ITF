@@ -76,3 +76,13 @@ Dans le Saju Makgi, ce blocage alterne avec le blocage latéral moyen à l'avant
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Palmok Najunde Makgi](Gunnun-So-Palmok-Najunde-Makgi.md), [Gunnun So Sonkal Najunde Bandae Bakuro Makgi](Gunnun-So-Sonkal-Najunde-Bandae-Bakuro-Makgi.md), [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md)
+* **Dans les formes :** [Saju Makgi](../tul/saju-makgi.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

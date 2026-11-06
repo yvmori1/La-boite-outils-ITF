@@ -67,3 +67,13 @@ Sa décomposition linguistique est la suivante :
 * **Dépasser la hauteur des yeux :** Monter le poing trop haut au-dessus de la tête, ce qui laisse le menton et la gorge découverts par le dessous.
 * **Inverser la rotation (*An Palmok*) :** Tourner le poignet à l'envers et présenter la face intérieure de l'avant-bras (côté pouce) au lieu de l'extérieur (*Bakat Palmok*).
 * **Tendre complètement le coude :** Bloquer bras tendu à 180°, ce qui détruit l'effet de ressort et transmet toute l'onde de choc directement dans l'articulation de l'épaule.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage frontal (Ap Makgi)](../makgi/ap-makgi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

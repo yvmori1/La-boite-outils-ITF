@@ -68,3 +68,12 @@ La frappe répond à une attaque venue de l'arrière sans abandonner la garde ve
 * **Confondre *Baro* et *Bandae* :** agir avec la main du côté de la jambe avant, ce qui change la technique.
 
 Voir aussi : [Frappe de côté avec le revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

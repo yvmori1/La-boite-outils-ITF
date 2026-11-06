@@ -76,3 +76,12 @@ On retrouve les techniques de blocage d'arrêt et d'interception dans les formes
 * **Intervenir trop tard :** Tenter un *Momchau Makgi* lorsque la frappe adverse a déjà atteint 90% de son extension, ce qui transforme l'interception en choc frontal douloureux.
 * **Armement trop large :** Reculer le bras pour armer avant de bloquer, ce qui fait perdre l'avantage de vitesse et laisse le coup adverse passer.
 * **Absence d'engagement de masse :** Rester fuyant sur ses appuis au moment de l'interception, risquant de se faire enfoncer par l'élan de l'attaquant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So Sang Sun Palmok Momchau Makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md), [Gojung So Kyocha Sonkal Momchau Makgi](../Techniques/Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md), [Niunja So Kyocha Joomuk Momchau Makgi](../Techniques/Niunja-So-Kyocha-Joomuk-Momchau-Makgi.md), [Niunja So Kyocha Sonkal Momchau Makgi](../Techniques/Niunja-So-Kyocha-Sonkal-Momchau-Makgi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Yon-Gae](../tul/yon-gae.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

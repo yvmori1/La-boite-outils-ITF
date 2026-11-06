@@ -68,3 +68,12 @@ Le cisaillage aveugle l'adversaire pour ouvrir la voie à la technique suivante.
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Annun So Orun Opun Sonkut Nopunde Bakuro Ghutgi](Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

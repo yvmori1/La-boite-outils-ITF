@@ -73,3 +73,12 @@ C'est un blocage incontournable dès les premières ceintures du programme ITF :
 * **Oublier le croisement d'armement :** Écarter les bras directement depuis les côtés sans croiser devant le torse, ce qui supprime toute la force de levier du mouvement en coin.
 * **Désynchronisation des deux bras :** Faire arriver un bras avant l'autre au lieu d'obtenir une ouverture strictement symétrique et simultanée.
 * **Tendre complètement les coudes :** Bloquer bras tendus à 180°, éliminant l'effet amortisseur et fragilisant les coudes et les épaules.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Annun So An Palmok Kaunde Hechyo Makgi](../Techniques/Annun-So-Palmok-Kaunde-Hechyo-Makgi.md), [Annun So Sonkal Dung Kaunde Hechyo Makgi](../Techniques/Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.md), [Gunnun So Bakat Palmok Nopunde Hechyo Makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md), [Gunnun So Sonkal Kaunde Hechyo Makgi](../Techniques/Gunnun-So-Sonkal-Kaunde-Hechyo-Makgi.md), [Kaunde Yobap Cha Busigi Wa An Palmok Kaunde Hechyo Makgi](../Techniques/Kaunde-Yobap-Cha-Busigi-Wa-An-Palmok-Kaunde-Hechyo-Makgi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Po-Eun](../tul/po-eun.md), [Eui-Am](../tul/eui-am.md), [Sam-Il](../tul/sam-il.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

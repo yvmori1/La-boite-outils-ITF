@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Ne pas bouger les jambes :** Rester statique et tenter de se libérer uniquement avec la force du bras, sans utiliser l'ancrage du pas en *Gunnun Sogi*.
 * **Mouvement trop lent :** Exécuter le mouvement de manière hésitante au lieu d'impulser une rotation et une rétraction explosives.
 * **S'arrêter après le dégagement :** Rester passif une fois la main libérée au lieu de réenchaîner immédiatement sur une posture ou un coup de contre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Joong-Gun](../tul/joong-gun.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

@@ -55,3 +55,12 @@ Cette technique associe la poussée naturelle du transfert de masse en position 
 * **Buste trop penché vers l'avant :** Se casser au niveau de la taille pour atteindre la cible au lieu d'abaisser le centre de gravité par la descente dans la vague (*Sine Wave*).
 
 > **Point clé :** La spécificité du *Gunnun So Sonbadak Baro Noollo Makgi* repose sur l'utilisation de la main homologue au pied avant (**Baro**) combinée à la descente de la masse corporelle dans la vague pour écraser fermement l'attaque adverse vers le sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

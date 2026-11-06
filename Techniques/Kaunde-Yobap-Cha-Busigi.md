@@ -64,3 +64,11 @@ Le coup de pied part de la jambe avant, légère, sans déplacer les mains : c'e
 * **Pencher le buste en arrière :** compenser le coup de pied par le haut du corps.
 
 Voir aussi : [Najunde Yobap Cha Busigi](Najunde-Yobap-Cha-Busigi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

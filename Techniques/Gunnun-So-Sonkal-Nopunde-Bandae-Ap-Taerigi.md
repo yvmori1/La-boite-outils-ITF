@@ -64,3 +64,12 @@ Sa décomposition linguistique est la suivante :
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Sonkal Nopunde Ap Taerigi](Gunnun-So-Sonkal-Nopunde-Ap-Taerigi.md), [Sonkal Nopunde Ap Taerigi](Sonkal-Nopunde-Ap-Taerigi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Bakuro* et *Anuro* :** Mener le mouvement de l'extérieur vers l'intérieur au lieu de partir du centre vers l'extérieur.
 * **Casser le poignet :** Ne pas maintenir le poignet rigide dans l'alignement de l'avant-bras au moment du cisaillage final.
 * **Pouce relâché :** Laisser le pouce décollé au lieu de le plaquer contre le bord de la paume.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Juche](../tul/juche.md)
+
+<!-- /fiches-liees -->

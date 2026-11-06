@@ -65,3 +65,13 @@ Sa décomposition linguistique est la suivante :
 * **Désynchronisation des bras :** Arriver avec le bras droit en avance ou en retard par rapport au bras gauche.
 * **Perdre la structure d'*Annun Sogi* :** Laisser les genoux s'effondrer vers l'intérieur lors de la descente du bras droit.
 * **Oublier la rotation finale :** Bloquer bras passifs sans imprimer la vrille des poignets au moment de l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage en forme de "9" (Gut-Ja Makgi)](../makgi/gutja-makgi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

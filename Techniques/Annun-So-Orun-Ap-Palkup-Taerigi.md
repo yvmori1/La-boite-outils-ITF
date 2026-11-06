@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Oublier la main de soutien (*Sonbadak Dae*) :** Lancer le coude droit sans la connexion de la paume gauche, ce qui prive la technique de sa rigidité structurelle.
 * **Déformer l'*Annun Sogi* :** Tourner les pieds ou laisser le genou droit rentrer vers l'intérieur lors du pivotement des épaules.
 * **Tendre le bras au lieu de maintenir le coude fléchi :** Écarter le poing du buste au lieu de le maintenir verrouillé près du sternum.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

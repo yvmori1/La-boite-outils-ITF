@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Bras arrière collé contre le thorax :** Plaquer le poing arrière contre la poitrine au lieu de maintenir une distance d'absorption de 2 à 3 cm.
 * **Blocage trop haut ou trop bas :** Monter le poing avant au niveau du visage (niveau *Nopunde*) ou le descendre sous la ceinture (niveau *Najunde*) au lieu de le maintenir au niveau du plexus solaire (*Kaunde*).
 * **Mauvaise répartition du poids :** Ne pas respecter le ratio strict 70% du poids sur la jambe arrière et 30% sur la jambe avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde des avant-bras (Palmok Daebi Makgi)](../makgi/palmok-daebi-makgi.md)
+
+<!-- /fiches-liees -->

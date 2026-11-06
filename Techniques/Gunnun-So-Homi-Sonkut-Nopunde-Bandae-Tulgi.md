@@ -68,3 +68,12 @@ Dans Tong-Il, les deux piques sont données en reculant, d'abord vers D puis ver
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Pique de main angulaire (Homi Sonkut Tulgi)](../jirugi/homi-sunkut-tulgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

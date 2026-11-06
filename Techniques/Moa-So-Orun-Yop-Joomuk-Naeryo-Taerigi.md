@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Frapper avec les jointures :** Impacter avec le plat des doigts au lieu de la tranche charnue du poing (**Yop Joomuk**).
 * **Cassure du poignet :** Plier le poignet vers le bas ou le haut au moment de l'impact, ce qui affaiblit la frappe et risque de blesser l'articulation.
 * **Basculer le buste en avant :** Casser le dos vers l'avant pour chercher de la portée au lieu de garder une colonne vertébrale droite et d'utiliser la flexion des genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Moa Sogi](../sogi/Moa-Sogi.md)
+* **Geste de base :** [Frappe vers la bas (Naeryo Taerigi)](../jirugi/naeryo-taerigi.md)
+
+<!-- /fiches-liees -->

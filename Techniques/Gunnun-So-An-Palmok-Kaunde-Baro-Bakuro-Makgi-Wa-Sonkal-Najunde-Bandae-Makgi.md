@@ -72,3 +72,13 @@ Le geste encadre le corps de l'adversaire, haut et bas, au moment où l'on gliss
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Sonkal Kaunde Baro Bakuro Makgi Wa Palmok Najunde Bandae Makgi](Gunnun-So-Sonkal-Kaunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md), [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md), [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md)
+* **Dans les formes :** [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

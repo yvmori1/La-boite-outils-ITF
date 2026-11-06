@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Sonkal* et *Sonkal Dung* :** Frapper avec le tranchant extérieur (côté petit doigt) au lieu de l'arête intérieure (côté index/pouce).
 * **Mauvais alignement *Bandae* :** Frapper avec la main du même côté que la jambe avant (*Baro*) au lieu d'exécuter la frappe croisée (*Bandae*).
 * **Décoller le talon arrière :** Soulever le talon du pied arrière lors de la poussée en posture de marche (*Gunnun Sogi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

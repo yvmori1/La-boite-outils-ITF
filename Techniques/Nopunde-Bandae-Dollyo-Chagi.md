@@ -40,3 +40,11 @@ Elle se traduit par : **Coup de pied circulaire inversé au niveau haut** (*High
 * **Perte d'équilibre à la réception :** Ne pas fléchir le genou de la jambe d'appui ou négliger le réarmement final.
 
 > **Point clé :** La puissance du *Nopunde Bandae Dollyo Chagi* provient de l'accélération centrifuge générée par la rotation complète du buste, verrouillée par la rigidité du talon à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied circulaire inversé (Bandae Dollyo Chagi)](../chagi/bandae-dollyo-chagi.md)
+
+<!-- /fiches-liees -->

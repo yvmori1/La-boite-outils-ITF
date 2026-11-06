@@ -57,3 +57,12 @@ En TaeKwon-Do ITF, la dénomination d'une technique exécutée en *Kyocha Sogi* 
 * **Mettre du poids sur la jambe arrière :** Charger la jambe croisée au lieu de garder 90% du poids ancré sur la jambe porteuse avant.
 * **Jambes tendues ou genoux écartés :** Garder les jambes raides ou laisser un espace entre les genoux, ce qui rend la posture extrêmement instable.
 * **Pieds trop éloignés :** Trop écarter les pieds latéralement lors du croisement au lieu de caler le bol du pied arrière juste à côté/derrière le talon avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques dans cette position :** 18 fiches, classées dans [Techniques](../Techniques/README.md)
+* **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

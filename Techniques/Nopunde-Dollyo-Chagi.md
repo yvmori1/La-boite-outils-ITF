@@ -41,3 +41,11 @@ Il se traduit par : **Coup de pied circulaire au niveau haut** (*High Turning Ki
 * **Oubli du réarmement :** Laisser tomber la jambe tendue après l'impact.
 
 > **Point clé :** La force du *Nopunde Dollyo Chagi* provient du **pivot complet du pied d'appui** combiné au fouetté sec de la jambe au niveau du visage.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied circulaire (Dollyo Chagi)](../chagi/dollyo-chagi.md)
+
+<!-- /fiches-liees -->

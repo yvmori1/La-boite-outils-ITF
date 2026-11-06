@@ -58,3 +58,12 @@ Cette technique associe la légèreté de la posture *Dwitbal Sogi* à la solidi
 * **Oubli de la vague (*Sine Wave*) :** Exécuter la technique de manière rigide et "plate", sans synchroniser le blocage avec la descente du bassin.
 
 > **Point clé :** La force du *Orun Dwitbal So Palmok Kaunde Daebi Makgi* réside dans l'effet de **ressort de la jambe arrière** : la garde fermée protège le buste tandis que la jambe avant reste libre de frapper à la moindre ouverture.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Geste de base :** [Blocage de garde des avant-bras (Palmok Daebi Makgi)](../makgi/palmok-daebi-makgi.md)
+
+<!-- /fiches-liees -->

@@ -71,3 +71,13 @@ Dans Kwang-Gae et Yoo-Sin, l'autre main reste dans la position du mouvement pré
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Palmok Najunde Makgi](Gunnun-So-Palmok-Najunde-Makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

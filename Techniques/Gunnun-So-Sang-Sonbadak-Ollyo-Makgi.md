@@ -63,3 +63,12 @@ Sa décomposition linguistique est la suivante :
 * **Doigts écartés ou mou :** Ne pas maintenir les doigts serrés et légèrement fléchis, ce qui expose les doigts à des luxations lors du contact.
 * **Coudes trop ouverts :** Écarter les coudes vers l'extérieur, ce qui supprime l'appui des bras sur le buste et affaiblit considérablement la force d'interception vers le haut.
 * **Talon arrière décollé :** Décoller le talon du pied arrière lors de la poussée en posture de marche (*Gunnun Sogi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choong-Moo](../tul/choong-moo.md)
+
+<!-- /fiches-liees -->

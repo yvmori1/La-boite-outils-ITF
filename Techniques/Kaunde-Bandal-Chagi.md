@@ -60,3 +60,12 @@ Sa décomposition linguistique est la suivante :
 * **Talon mal orienté :** au moment du blocage, le talon du pied qui bloque reste tourné vers le bas.
 
 Voir aussi : [Gunnun So Bandal Son Nopunde Bandae Bandal Taerigi](Gunnun-So-Bandal-Son-Nopunde-Bandae-Bandal-Taerigi.md), [Coup de pied semi-circulaire (Bandal Chagi)](../chagi/bandal-chagi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Coup de pied semi-circulaire (Bandal Chagi)](../chagi/bandal-chagi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

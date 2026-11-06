@@ -85,3 +85,12 @@ C'est la technique d'attaque reine du programme des gradations :
 * **Talon arrière décollé :** Soulever le talon arrière lors de l'impact, ce qui rompt la connexion avec le sol et dissipe l'énergie.
 * **Poignet cassé :** Ne pas aligner le poing avec l'avant-bras à l'impact, risquant une entorse du poignet.
 * **Épaule de frappe surélevée :** Crisper le trapeze et l'épaule au lieu de garder le buste relâché jusqu'à la contraction finale (*Snap*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Saju Jirugi](../tul/saju-jirugi.md), [Chon-Ji](../tul/chon-ji.md), [Do-San](../tul/do-san.md), [Yul-Gok](../tul/yul-gok.md), [Toi-Gye](../tul/toi-gye.md), [Hwa-Rang](../tul/hwa-rang.md), [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

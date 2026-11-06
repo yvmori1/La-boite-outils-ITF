@@ -76,3 +76,11 @@ Le *Moa Junbi Sogi B* sert de posture de départ pour plusieurs formes emblémat
 * **Coudes écartés en "ailes de poulet" :** Trop écarter les coudes vers l'extérieur ou, au contraire, les plaquer contre les côtes.
 
 > **Point clé :** Le *Moa Junbi Sogi B* symbolise le contrôle de soi et le rassemblement de l'énergie (*Ki*) au niveau du centre du corps (*Danjeon*), matérialisé par le poing droit enveloppé par la main gauche à hauteur de la ceinture.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

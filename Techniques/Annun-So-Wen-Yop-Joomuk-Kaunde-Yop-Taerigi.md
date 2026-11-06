@@ -69,3 +69,12 @@ Sa décomposition linguistique est la suivante :
 * **Oublier le coup d'œil (*Siseon*) :** Garder le visage tourné vers l'avant au lieu d'orienter le regard à 90° vers la gauche.
 * **Déviation de hauteur :** Frapper au niveau du visage (*Nopunde*) au lieu de maintenir le bras au niveau moyen du thorax (*Kaunde*).
 * **Casser la structure *Annun Sogi* :** Tendre les jambes ou laisser pivoter les talons sous l'effet de la rotation du haut du corps.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

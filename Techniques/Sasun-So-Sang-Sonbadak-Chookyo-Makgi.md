@@ -58,3 +58,11 @@ Cette technique permet d'ériger un bouclier montant au-dessus de la tête tout 
 * **Absence de vague (*Sine Wave*) :** Tenter de bloquer uniquement par la force des épaules, sans associer le mouvement ascendant et descendant de la masse corporelle.
 
 > **Point clé :** Le *Sasun So Sang Sonbadak Chookyo Makgi* combine l'esquive angulaire de la position *Sasun Sogi* avec la force de poussée vers le haut des deux paumes, formant une arche de protection solide pour intercepter les attaques descendantes au-dessus de la tête.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Blocage soulevé (Chookyo Makgi)](../makgi/chookyo-makgi.md)
+
+<!-- /fiches-liees -->

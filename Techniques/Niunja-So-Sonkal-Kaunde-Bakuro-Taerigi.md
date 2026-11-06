@@ -94,3 +94,12 @@ Il est essentiel de ne pas confondre les trois directions de frappe au tranchant
 * **Tendre le bras à 180° :** Bloquer l'articulation du coude en fin de course, ce qui prive le mouvement de sa force de fouet et risque de blesser l'articulation.
 * **Pouce décollé :** Laisser le pouce relâché ou ouvert, l'exposant à une entorse ou une fracture au moment de l'impact.
 * **Pied arrière décollé :** Soulever le talon de la jambe arrière lors de l'extension du bras, ce qui rompt l'ancrage 70/30 de la posture *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Jang](../tul/choong-jang.md), [Choi-Yong](../tul/choi-yong.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

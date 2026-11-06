@@ -70,3 +70,12 @@ Dans Yoo-Sin, le blocage se fait en diagonale ; la main qui crochète prépare l
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
 Voir aussi : [Gunnun So Sonbadak Nopunde Golcho Makgi](Gunnun-So-Sonbadak-Nopunde-Golcho-Makgi.md) · [Blocage crocheté à la paume (Golcho Sonbadak Makgi)](../makgi/golcho-sonbadak-makgi.md).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

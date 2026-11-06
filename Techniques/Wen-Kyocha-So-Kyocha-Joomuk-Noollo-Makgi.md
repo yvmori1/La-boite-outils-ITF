@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Transformer en frappe au lieu d'une pression :** Frapper brutalement le membre adverse vers le bas au lieu d'accompagner le mouvement par une action de pression contrôlée (*Noollo*).
 * **Genoux écartés :** Ne pas presser les genoux l'un contre l'autre, ce qui détruit la stabilité de la posture.
 * **Bras trop tendus en hyper-extension :** Verrouiller les coudes à la fin de la descente, risquant une hyperextension de l'articulation sous le choc.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Dans les formes :** [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Laisser tomber le coude :** Abaisser le coude vers le bas pendant la trajectoire au lieu de le maintenir sur le plan horizontal.
 * **Casser le poignet :** Ne pas aligner le dos du poing gauche avec l'avant-bras au moment de l'impact, risquant une entorse lors du choc.
 * **Oublier la main de réaction :** Laisser pendre le bras droit ou mal le verrouiller à la hanche (*Heori*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

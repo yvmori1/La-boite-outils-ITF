@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Pencher le buste vers l'avant :** Casser la colonne vertébrale pour aller chercher le bas-ventre au lieu de fléchir les genoux en *Gunnun Sogi*.
 * **Bloquer avec les doigts :** Ne pas orienter le talon de la paume (**Sonbadak**), risquant de se retourner ou de se casser les doigts à l'impact.
 * **Perdre la largeur d'épaules :** Aligner les pieds sur la même ligne au sol, ruinant la stabilité nécessaire pour exercer une pression verticale.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Choi-Yong](../tul/choi-yong.md), [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

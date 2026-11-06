@@ -70,3 +70,12 @@ Sa décomposition linguistique est la suivante :
 * **Doigts écartés :** Relâcher la cohésion des trois doigts d'impact, ce qui annule la rigidité de la pique.
 * **Mauvaise répartition du poids :** Répartir le poids 50/50 ou charger la jambe avant au lieu de maintenir 70% sur la jambe arrière en *Niunja Sogi*.
 * **Paume mal orientée :** Terminer la frappe paume de profil au lieu d'effectuer la rotation complète pour verrouiller la paume vers le sol (**Opun**).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

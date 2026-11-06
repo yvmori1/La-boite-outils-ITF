@@ -57,3 +57,11 @@ Cette technique utilise la gravité et l'ancrage profond de la position basse po
 * **Bloquer avec les doigts :** Laisser les doigts souples ou repliés vers le bas au lieu de maintenir la paume ferme et tendue.
 
 > **Point clé :** La force du *Nachuo So Sonbadak Bandae Noollo Makgi* repose sur le transfert du poids corporel vers le bas, combiné à la stabilité de la position *Nachuo Sogi* et la pression contrôlée de la paume inversée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Kwang-Gae](../tul/kwang-gae.md)
+
+<!-- /fiches-liees -->

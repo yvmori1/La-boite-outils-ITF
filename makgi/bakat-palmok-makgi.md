@@ -77,3 +77,12 @@ C'est la technique défensive de référence du programme ITF :
 * **Poignet cassé :** Ne pas maintenir le poing parfaitement aligné avec l'avant-bras à l'impact, ce qui risque de provoquer une entorse du poignet.
 * **Bloquer avec le coude verrouillé :** Tendre le bras à 180°, ce qui détruit l'effet amortisseur et transmet l'onde de choc directement dans l'épaule.
 * **Désynchroniser la main de réaction :** Ne pas ramener le poing opposé fermement à la hanche lors de la frappe.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Niunja So Bakat Palmok Najunde Makgi](../Techniques/Niunja-So-Bakat-Palmok-Najunde-Makgi.md)
+* **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
+
+<!-- /fiches-liees -->

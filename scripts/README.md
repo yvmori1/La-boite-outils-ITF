@@ -31,8 +31,9 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | Script | Rôle |
 | :--- | :--- |
 | [maintenir.py](maintenir.py) | Enchaîne tous les autres dans l'ordre, puis contrôle |
-| [verifier.py](verifier.py) | Dix contrôles d'intégrité, n'écrit jamais |
+| [verifier.py](verifier.py) | Onze contrôles d'intégrité, n'écrit jamais |
 | [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `Techniques/README.md` |
+| [generer-voir-aussi.py](generer-voir-aussi.py) | Bloc « Fiches liées » en bas des fiches : position, geste de base, techniques, formes |
 | [generer-menus.py](generer-menus.py) | Écrit le menu (`.pages`) de sogi, chagi, makgi, jirugi et Techniques d'après leur sommaire |
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
@@ -46,7 +47,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 
 Étapes, dans un ordre où chacune dépend des précédentes : index de `Techniques/`,
 compteurs du README racine, normalisation des graphies (y compris les hangul
-fautifs relevés par le glossaire), liens des formes, prononciations
+fautifs relevés par le glossaire), liens des formes, fiches liées, prononciations
 de tout le site, réparation des audio manquants, index de `Techniques/` une
 seconde fois, menus des sections, mise en forme Markdown, contrôle final.
 
@@ -55,7 +56,7 @@ seconde fois, menus des sections, mise en forme Markdown, contrôle final.
 ### verifier.py
 
 Liens Markdown morts · liens audio morts · fichiers audio orphelins · fiches
-vides · compteurs du README racine · index Techniques à jour · menus à jour ·
+vides · compteurs du README racine · index Techniques à jour · fiches liées à jour · menus à jour ·
 graphies concurrentes · couverture des formes · mise en forme Markdown.
 
 Les graphies surveillées sont déclarées en tête du fichier (`GRAPHIES`) : une

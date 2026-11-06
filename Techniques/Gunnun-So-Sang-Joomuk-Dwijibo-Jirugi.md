@@ -65,3 +65,12 @@ Sa décomposition linguistique est la suivante :
 * **Perdre la largeur d'épaules :** Aligner les deux pieds sur une même ligne en *Gunnun Sogi*, ruinant la stabilité latérale au moment de l'impact.
 * **Buste penché vers l'avant :** Se pencher pour chercher de la portée au lieu de maintenir la colonne vertébrale droite et d'utiliser l'avancée de la posture.
 * **Désynchronisation des poings :** Impact non simultané des deux mains, annulant l'effet d'ébranlement bilatéral (*Sang Joomuk*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Kwang-Gae](../tul/kwang-gae.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md)
+
+<!-- /fiches-liees -->

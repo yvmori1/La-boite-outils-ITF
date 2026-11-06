@@ -74,3 +74,12 @@ Sa décomposition linguistique est la suivante :
 * **Désynchronisation des bras :** Verrouiller un blocage avant l'autre au lieu de sceller les deux impacts en même temps (*Wa*).
 * **Buste penché :** Pencher le haut du corps pour compenser l'élévation de la jambe libre, détruisant l'axe de stabilité vertical.
 * **Oublier la rotation du regard (*Siseon*) :** Bloquer vers le côté sans orienter les yeux vers la cible à 90°.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Waebal Sogi](../sogi/Waebal-Sogi.md)
+* **Geste de base :** [Blocage latéral haut (Nopunde Yop Makgi)](../makgi/nopunde-yop-makgi.md)
+
+<!-- /fiches-liees -->

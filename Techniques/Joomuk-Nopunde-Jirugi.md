@@ -65,3 +65,11 @@ Sa décomposition linguistique est la suivante :
 * **Coudre qui s'écarte :** Ouvrir le coude vers l'extérieur pendant le trajet au lieu de le faire frôler le flanc, ce qui dévie la trajectoire et perd de la force.
 * **Tordre le poignet :** Casser l'alignement du poignet vers le haut ou le bas à l'impact, risquant l'entorse ou la fracture à la percussion.
 * **Bloquer le coude en hyperextension :** Tendre le bras à 100% de manière rigide, ce qui abîme l'articulation du coude.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
+
+<!-- /fiches-liees -->

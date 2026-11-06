@@ -70,3 +70,13 @@ Sa décomposition linguistique est la suivante :
 * **Tendre le coude à 180° :** Bloquer le coude en hyper-extension en fin de course, rendant le bras vulnérable à une casse mécanique sous l'effet du coup adverse.
 * **Confondre *Bandae* et *Baro* :** Utiliser la main du même côté que la jambe avant au lieu du bras opposé.
 * **Poser le talon avant :** Écraser le talon du pied avant à plat sur le sol au lieu de le maintenir légèrement surélevé sur le bol du pied (*Ap Kumchi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
+* **Geste de base :** [Blocage descendant (Naeryo Makgi)](../makgi/naeryo-makgi.md)
+* **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
+
+<!-- /fiches-liees -->

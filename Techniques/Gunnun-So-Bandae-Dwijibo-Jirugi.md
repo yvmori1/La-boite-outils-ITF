@@ -56,3 +56,12 @@ Cette technique combine la poussée vers l'avant de la position en marche avec l
 * **Hauteur de frappe inadaptée :** Viser le visage (*Nopunde*) alors que cette frappe est conçue pour s'infiltrer au niveau du buste ou du ventre.
 
 > **Point clé :** Le *Gunnun So Bandae Dwijibo Jirugi* tire sa puissance du transfert de masse en position en marche (50/50) et de la rotation du bassin, propulsant le poing inversé **paume vers le haut** pour contourner et transpercer la garde adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

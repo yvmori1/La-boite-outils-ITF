@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Sortir le coude trop loin :** Ouvrir exagérément l'angle du coude, ce qui vide la garde et empêche de contrôler le choc.
 * **Confondre avec le blocage de garde (*Daebi Makgi*) :** Laisser la main arrière devant la poitrine au lieu de la tirer sèchement à la hanche (*Heori*).
 * **Mauvaise répartition du poids :** Mettre trop de poids sur la jambe avant au lieu de maintenir 70% sur la jambe arrière en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage latéral (Yop Makgi)](../makgi/yop-makgi.md)
+
+<!-- /fiches-liees -->

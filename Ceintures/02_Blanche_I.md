@@ -1,5 +1,7 @@
 # FICHE D'ÉTUDE :Ceinture Blanche I / Barre Jaune (9e Gup)
 
+> **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/02-9e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#9e-gup--ceinture-blanche-barre-jaune--fiche) · [combats arrangés](Combats-arranges/01_10e-9e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#9e-gup-barre-jaune-vers-8e-gup)
+
 Ceinture Blanche I / Barre Jaune (9e Gup)
 
 * **Effort d'entraînement minimal requis :** 45 heures d'entraînement minimales.

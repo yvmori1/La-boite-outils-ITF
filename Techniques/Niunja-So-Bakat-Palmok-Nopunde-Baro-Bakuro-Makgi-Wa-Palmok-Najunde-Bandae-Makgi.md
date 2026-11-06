@@ -74,3 +74,12 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer trop loin sur le côté (*Bakuro*) :** Sortir le bras haut au-delà de la ligne de l'épaule arrière, ce qui découvre le centre du visage.
 * **Hauteur du bras bas incorrecte :** S'arrêter au niveau de la ceinture au lieu de descendre l'avant-bras sous le niveau du bas-ventre.
 * **Mauvaise répartition du poids :** Ne pas respecter le ratio strict 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage de l'intérieur vers l'extérieur (Bakuro Makgi)](../makgi/bakuro-makgi.md)
+
+<!-- /fiches-liees -->

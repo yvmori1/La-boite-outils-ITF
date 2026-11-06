@@ -67,3 +67,12 @@ C'est l'une des premières techniques enseignées en TaeKwon-Do, mais aussi l'un
 * **Genou trop bas à l'armement :** Si le genou ne monte pas assez haut avant l'extension, le coup perd sa hauteur, sa portée et son effet de fouet.
 * **Pencher le buste trop en arrière :** Casser la colonne vers l'arrière pour tricher sur la hauteur, ce qui détruit l'équilibre et expose la tête aux contre-attaques.
 * **Oublier le réarmement :** Laisser tomber la jambe lourdement vers le sol après l'impact au lieu de réarmer le genou en suspension.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Kaunde Apcha Busigi](../Techniques/Kaunde-Apcha-Busigi.md), [Najunde Apcha Busigi](../Techniques/Najunde-Apcha-Busigi.md), [Twimyo Apcha Busigi](../Techniques/Twimyo-Apcha-Busigi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

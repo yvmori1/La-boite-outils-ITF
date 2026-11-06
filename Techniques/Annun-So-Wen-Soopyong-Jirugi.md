@@ -67,3 +67,12 @@ Sa décomposition linguistique est la suivante :
 * **Vrille prématurée du poing :** Pivoter le poing trop tôt au lieu de garder la paume vers le haut jusqu'au déclenchement final du *snap*.
 * **Casser l'alignement du poignet :** Incurver le poignet vers le haut ou le bas au moment du choc, risquant une entorse à l'impact.
 * **Perte d'ancrage en *Annun Sogi* :** Tendre les jambes ou laisser les genoux s'effondrer vers l'intérieur lors de la redescente de masse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Dans les formes :** [Po-Eun](../tul/po-eun.md)
+
+<!-- /fiches-liees -->

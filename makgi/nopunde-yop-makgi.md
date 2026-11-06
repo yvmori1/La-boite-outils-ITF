@@ -73,3 +73,12 @@ Cette technique est enseignée dès les premiers niveaux de ceinture et se retro
 * **Hauteur incorrecte :** Placer le bras au niveau de l'épaule (trop bas) au lieu du niveau des yeux, laissant la tête vulnérable.
 * **Coller le coude au buste :** Placer le bras de blocage trop près de la tête, ce qui fait que le coup adverse risque d'enfoncer le blocage et d'atteindre le visage.
 * **Dépasser le plan latéral :** Tirer le bras trop loin vers l'arrière du corps, ce qui déséquilibre la posture et étire exagérément l'épaule.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So Bakat Palmok Nopunde Bandae Yop Makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Bandae-Yop-Makgi.md), [Gunnun So Bakat Palmok Nopunde Yop Makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md), [Gunnun So Sonkal Dung Nopunde Yop Makgi](../Techniques/Gunnun-So-Sonkal-Dung-Nopunde-Yop-Makgi.md), [Gunnun So Sonkal Nopunde Bandae Yop Makgi](../Techniques/Gunnun-So-Sonkal-Nopunde-Bandae-Yop-Makgi.md), [Gunnun So Sonkal Nopunde Yop Makgi](../Techniques/Gunnun-So-Sonkal-Nopunde-Yop-Makgi.md), [Niunja So Sonkal Dung Nopunde Yop Makgi](../Techniques/Niunja-So-Sonkal-Dung-Nopunde-Yop-Makgi.md), [Waebal So Bakat Palmok Nopunde Baro Yop Makgi Wa Palmok Najunde Bandae Yop Makgi](../Techniques/Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.md), [Waebal So Sonkal Najunde Baro Yop Makgi Wa Sonkal Nopunde Bandae Yop Makgi](../Techniques/Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.md)
+* **Dans les formes :** [Do-San](../tul/do-san.md), [Yul-Gok](../tul/yul-gok.md), [Eui-Am](../tul/eui-am.md), [Ko-Dang](../tul/ko-dang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->

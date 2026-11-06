@@ -58,3 +58,12 @@ Cette technique associe la stabilité de la position en L à la protection offer
 * **Absence de vague (*Sine Wave*) :** Exécuter le blocage sans le mouvement de descente-montée-descente du bassin, ce qui prive le blocage de la masse corporelle.
 
 > **Point clé :** Le *Orun Niunja So Sonkal Kaunde Daebi Makgi* n'est pas seulement un blocage, mais une **posture de garde active** : la main avant contrôle la distance tandis que la main arrière sécurise les organes vitaux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
+
+<!-- /fiches-liees -->

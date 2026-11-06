@@ -92,3 +92,13 @@ C'est l'un des mouvements les plus récurrents du programme ITF :
 * **Main arrière collée au corps ou trop éloignée :** Poser la main arrière sur la poitrine ou la laisser flotter trop loin du buste, perdant son rôle de bouclier.
 * **Pouces décollés :** Laisser les pouces ouverts ou lâches, risquant une luxation lors d'une déviation d'attaque.
 * **Bras avant trop tendu :** Tendre le coude avant à 180°, éliminant toute la capacité d'amorti et d'absorption de la force adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
+* **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Joong-Gun](../tul/joong-gun.md), [Toi-Gye](../tul/toi-gye.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Yon-Gae](../tul/yon-gae.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
+
+<!-- /fiches-liees -->

@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Bloquer trop bas ou trop loin :** Descendre les poings trop bas sous les genoux ou trop loin en avant du corps, exposant le visage et annulant la force de pression.
 * **Perdre la largeur d'épaules :** Aligner les deux pieds sur un même rail en *Gunnun Sogi*, ruinant la stabilité latérale face à une charge basse.
 * **Absence de *Sine Wave* :** Exécuter une pression uniquement musculaire avec les bras sans utiliser la redescente de la masse corporelle.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md)
+
+<!-- /fiches-liees -->

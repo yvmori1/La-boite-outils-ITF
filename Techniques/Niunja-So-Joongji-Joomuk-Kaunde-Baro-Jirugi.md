@@ -68,3 +68,12 @@ Sa décomposition linguistique est la suivante :
 * **Confondre *Joongji Joomuk* et *Inji Joomuk* :** Faire sortir l'index (*Inji*) au lieu du majeur (*Joongji*).
 * **Frapper trop haut ou trop bas :** Viser le visage (niveau *Nopunde*) au lieu de maintenir la trajectoire au niveau du plexus solaire (*Kaunde*).
 * **Mauvaise répartition du poids :** Ne pas respecter le ratio 70% arrière / 30% avant en *Niunja Sogi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Dans les formes :** [Ge-Baek](../tul/ge-baek.md)
+
+<!-- /fiches-liees -->

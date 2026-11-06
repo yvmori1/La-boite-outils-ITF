@@ -72,3 +72,11 @@ Sa décomposition linguistique est la suivante :
 * **Pousser au lieu de fouetter :** Tendre le bras de manière raide au lieu de relâcher l'articulation du coude pour décocher un fouetté sec (*Taerigi*).
 * **Absence d'élévation :** Déclencher la technique sans sauter suffisamment haut, supprimant l'avantage gravitationnel du mouvement.
 * **Réception rigide :** Atterrir les genoux verrouillés, ce qui nuit aux articulations et ruine l'équilibre final.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
+
+<!-- /fiches-liees -->

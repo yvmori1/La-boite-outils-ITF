@@ -66,3 +66,12 @@ Sa décomposition linguistique est la suivante :
 * **Pousser au lieu de fouetter :** Tendre le bras de façon raide comme pour un coup de poing direct (*Jirugi*) au lieu de relâcher puis verrouiller sèchement le coude (*Taerigi*).
 * **Frapper avec la tranche au lieu du dos de l'avant-bras :** Mal orienter l'avant-bras et impacter avec le côté au lieu du revers (**Dungpalmok**).
 * **Perdre l'alignement vertical :** Pencher le buste vers l'arrière ou sur le côté pour compenser la montée de la jambe libre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Waebal Sogi](../sogi/Waebal-Sogi.md)
+* **Dans les formes :** [Se-Jong](../tul/se-jong.md)
+
+<!-- /fiches-liees -->

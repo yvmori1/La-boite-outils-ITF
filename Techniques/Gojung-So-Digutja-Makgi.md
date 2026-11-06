@@ -69,3 +69,11 @@ Sa décomposition linguistique est la suivante :
 * **Écarter exagérément les bras :** Laisser un espace trop grand entre le bras supérieur et le bras inférieur, ce qui empêche de coincer efficacement le bâton.
 * **Verrouillage rigide en hyper-extension :** Tendre complètement les coudes à l'impact, risquant des blessures aux articulations lors du choc avec une arme lourde.
 * **Négliger la tension des genoux :** Ne pas maintenir les genoux fléchis vers l'intérieur en *Gojung Sogi*, ce qui fragilise les appuis et annule la capacité d'absorption.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Choong-Moo](../tul/choong-moo.md), [Sam-Il](../tul/sam-il.md)
+
+<!-- /fiches-liees -->

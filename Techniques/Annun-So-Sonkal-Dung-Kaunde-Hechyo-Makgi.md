@@ -64,3 +64,13 @@ Sa décomposition linguistique est la suivante :
 * **Pouce relâché ou ressorti :** Ne pas fléchir et plaquer fermement le pouce dans la paume, exposant le pouce à une luxation ou fracture lors de l'écartement.
 * **Trouver un écartement excessif (*Over-extension*) :** Écarter les bras trop loin vers l'arrière, ce qui découvre inutilement la poitrine et détruit la structure de biseau.
 * **Oublier le croisement d'amorce :** Écarter les bras directement sans avoir préalablement croisé les avant-bras devant le thorax pour prendre l'élan de levier.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Blocage d'arret (Hechyo Makgi)](../makgi/hechyo-makgi.md)
+* **Dans les formes :** [Sam-Il](../tul/sam-il.md)
+
+<!-- /fiches-liees -->

@@ -76,3 +76,12 @@ Cette technique emblématique apparaît dans plusieurs formes clés du programme
 * **Casser le cercle (mouvement saccadé) :** Effectuer un blocage en deux temps rectilignes au lieu de maintenir une trajectoire fluide et ininterrompue.
 * **Taper au lieu d'envelopper :** Frapper violemment le pied adverse de bas en haut au lieu de le cueillir et d'accompagner son élévation.
 * **Écarter le bras trop loin du corps :** Faire un cercle trop large qui laisse le buste totalement découvert si l'adversaire feinte son attaque.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Techniques complètes :** [Gunnun So An Palmok Dollimyo Makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md), [Gunnun So Sonkal Dollimyo Makgi](../Techniques/Gunnun-So-Sonkal-Dollimyo-Makgi.md), [Gunnun So Sonkal Dung Dollimyo Makgi](../Techniques/Gunnun-So-Sonkal-Dung-Dollimyo-Makgi.md)
+* **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Toi-Gye](../tul/toi-gye.md), [Eui-Am](../tul/eui-am.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
+
+<!-- /fiches-liees -->
