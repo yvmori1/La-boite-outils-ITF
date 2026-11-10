@@ -78,6 +78,7 @@ Cette technique est omniprésente dans le programme de progression ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Niunja So Sang Palmok Makgi](../Techniques/Niunja-So-Sang-Palmok-Makgi.md)
 * **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Won-Hyo](../tul/won-hyo.md), [Hwa-Rang](../tul/hwa-rang.md), [Se-Jong](../tul/se-jong.md)
 

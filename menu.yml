@@ -19,12 +19,19 @@
 
 - "Accueil": README.md
 - "Sommaire du Manuel": Theorie/manuel/README.md
-- "I. L'art et sa voie": Theorie/manuel/partie-1-art-et-voie
-- "II. Les principes physiques": Theorie/manuel/partie-2-principes-physiques
-- "III. La grammaire des techniques": Theorie/manuel/partie-3-grammaire-des-techniques
+- "I. L'art et sa voie":
+    - Theorie/manuel/partie-1-art-et-voie
+    - "Révision": Theorie/revisions/partie-1.md
+- "II. Les principes physiques":
+    - Theorie/manuel/partie-2-principes-physiques
+    - "Révision": Theorie/revisions/partie-2.md
+- "III. La grammaire des techniques":
+    - Theorie/manuel/partie-3-grammaire-des-techniques
+    - "Révision": Theorie/revisions/partie-3.md
 - "IV. Les positions (Sogi)":
     - Theorie/manuel/partie-4-positions-sogi
     - "Fiches des positions": sogi
+    - "Révision": Theorie/revisions/partie-4.md
 - "V. Le répertoire technique":
     - Theorie/manuel/partie-5-repertoire-technique/README.md
     - Theorie/manuel/partie-5-repertoire-technique/17-les-deplacements-dolgi.md
@@ -34,27 +41,31 @@
     - Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md
     - "Fiches : coups de pied (Chagi)": chagi
     - "Techniques combinées": Techniques
+    - "Révision": Theorie/revisions/partie-5.md
 - "VI. Les formes (Tul)":
     - Theorie/manuel/partie-6-formes-tul
     - Theorie/manuel/annexe-b-distances-de-saut.md
     - Theorie/manuel/annexe-c-types-de-mouvements.md
     - "Fiches des formes": tul
+    - "Révision": Theorie/revisions/partie-6.md
 - "VII. Combat, autodéfense et casse":
     - Combat/README.md
     - Combat/systemes-de-combat.md
     - Combat/prise-de-mesure.md
     - "Combats arrangés": Ceintures/Combats-arranges
     - Combat/combat-libre.md
-    - "Hosinsul : le programme par grade": Theorie/manuel/partie-7-autodefense-hosinsul.md
+    - "Hosinsul : le programme par grade": Theorie/manuel/partie-7-autodefense-hosinsul
     - Combat/hosinsul.md
     - Combat/points-vitaux.md
     - Combat/kyokpa.md
     - Combat/progression.md
     - Combat/arbitrage.md
+    - "Révision": Theorie/revisions/partie-7.md
 - "VIII. La progression":
     - Ceintures
     - "Programme de session": Theorie/programme-session
     - "Examens théoriques": Theorie/examens
+    - "Révision": Theorie/revisions/partie-8.md
 - "Annexes":
     - "A. Lexique trilingue": Theorie/manuel/annexe-a-lexique-trilingue
     - "B. Glossaire coréen-français": Theorie/glossaire

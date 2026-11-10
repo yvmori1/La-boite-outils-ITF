@@ -82,3 +82,11 @@ Les frappes obliques apparaissent dans plusieurs formes du programme ITF pour ma
 * **Aplatir la frappe en *Yop Taerigi* :** Transformer le mouvement en une frappe strictement horizontale à hauteur d'épaule.
 * **Incliner le buste :** Pencher la colonne vertébrale vers l'avant ou le côté pour "accompagner" la diagonale, ce qui casse la posture et annule le transfert de force issu du sol.
 * **Tendre le coude à 180° :** Verrouiller le coude en fin de course, risquant de blesser l'articulation lors de l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

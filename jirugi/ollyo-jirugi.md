@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Kyocha So Baro Ollyo Jirugi](../Techniques/Kyocha-So-Baro-Ollyo-Jirugi.md), [Niunja So Baro Ollyo Jirugi](../Techniques/Niunja-So-Baro-Ollyo-Jirugi.md)
 * **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md), [Yon-Gae](../tul/yon-gae.md)
 

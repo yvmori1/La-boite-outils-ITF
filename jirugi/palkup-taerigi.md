@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Orun Ap Palkup Taerigi](../Techniques/Annun-So-Orun-Ap-Palkup-Taerigi.md), [Gunnun So Ap Palkup Bandae Taerigi](../Techniques/Gunnun-So-Ap-Palkup-Bandae-Taerigi.md), [Gunnun So Nopun Palkup Bandae Taerigi](../Techniques/Gunnun-So-Nopun-Palkup-Bandae-Taerigi.md), [Gunnun So Wi Palkup Bandae Taerigi](../Techniques/Gunnun-So-Wi-Palkup-Bandae-Taerigi.md)
 * **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Joong-Gun](../tul/joong-gun.md), [Ge-Baek](../tul/ge-baek.md), [Juche](../tul/juche.md), [Sam-Il](../tul/sam-il.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md)
 

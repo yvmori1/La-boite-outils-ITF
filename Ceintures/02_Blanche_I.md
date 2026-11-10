@@ -2,6 +2,18 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/02-9e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#9e-gup--ceinture-blanche-barre-jaune--fiche) · [combats arrangés](Combats-arranges/01_10e-9e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#9e-gup-barre-jaune-vers-8e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [2. Histoire et filiation](../Theorie/manuel/partie-1-art-et-voie/02-histoire-et-filiation.md)
+* [ ] [14. Principes et constantes](../Theorie/manuel/partie-4-positions-sogi/14-principes-et-constantes.md)
+* [ ] [20. La forme comme héritage](../Theorie/manuel/partie-6-formes-tul/20-la-forme-comme-heritage.md)
+* [ ] [21. Directives d'exécution](../Theorie/manuel/partie-6-formes-tul/21-directives-d-execution.md)
+* [ ] [24. Les formes une à une](../Theorie/manuel/partie-6-formes-tul/24-les-formes-une-a-une.md)
+
+<!-- /parcours -->
+
 Ceinture Blanche I / Barre Jaune (9e Gup)
 
 * **Effort d'entraînement minimal requis :** 45 heures d'entraînement minimales.

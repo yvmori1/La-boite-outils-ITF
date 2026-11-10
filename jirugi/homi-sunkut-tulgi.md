@@ -89,3 +89,11 @@ On retrouve les Piques d'angle des doigts (*Homi Sonkut*) dans les formes supér
 * **Doigts trop ou pas assez fléchis :** Garder les doigts tendus (ce qui en fait un *Pyeon Sonkut*) ou les fermer complètement en poing (ce qui supprime la pointe).
 * **Pouce décollé :** Ne pas plaquer le pouce contre la paume, l'exposant à une luxation au moindre frottement.
 * **Absence de gainage du poignet :** Laisser le poignet flotter lors de la pénétration de la frappe.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

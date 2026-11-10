@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Kaunde Bandae Sewo Jirugi](../Techniques/Gunnun-So-Kaunde-Bandae-Sewo-Jirugi.md), [Gunnun So Sang Joomuk Nopunde Sewo Jirugi](../Techniques/Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
 

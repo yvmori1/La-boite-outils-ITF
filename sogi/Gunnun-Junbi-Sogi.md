@@ -77,6 +77,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * **Dans les formes :** [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md)
 
 <!-- /fiches-liees -->

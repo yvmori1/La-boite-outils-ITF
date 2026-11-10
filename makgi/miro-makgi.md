@@ -77,6 +77,7 @@ On retrouve le blocage poussé dans plusieurs formes de ceintures noires (*Black
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Sonbadak Kaunde Miro Makgi](../Techniques/Annun-So-Sonbadak-Kaunde-Miro-Makgi.md), [Annun So Wen Sonbadak Kaunde Yobap Miro Makgi](../Techniques/Annun-So-Wen-Sonbadak-Kaunde-Yobap-Miro-Makgi.md), [Gunnun So Sonbadak Kaunde Bandae Miro Makgi](../Techniques/Gunnun-So-Sonbadak-Kaunde-Bandae-Miro-Makgi.md), [Niunja So Doo Palmok Najunde Miro Makgi](../Techniques/Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Hwa-Rang](../tul/hwa-rang.md), [Ko-Dang](../tul/ko-dang.md), [Ul-Ji](../tul/ul-ji.md), [Tong-Il](../tul/tong-il.md)
 

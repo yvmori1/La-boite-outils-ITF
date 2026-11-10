@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Narani So Orun Joomuk Kaunde Dollyo Jirugi](../Techniques/Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md), [Narani So Wen Joomuk Kaunde Dollyo Jirugi](../Techniques/Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md)
 * **Dans les formes :** [Eui-Am](../tul/eui-am.md)
 

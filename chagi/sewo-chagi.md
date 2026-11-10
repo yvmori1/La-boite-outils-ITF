@@ -82,6 +82,7 @@ On retrouve les techniques de frappe verticale dans plusieurs formes de ceinture
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Bakuro Sewo Chagi](../Techniques/Bakuro-Sewo-Chagi.md), [Balkal Dung Anuro Sewo Chagi](../Techniques/Balkal-Dung-Anuro-Sewo-Chagi.md)
 * **Dans les formes :** [Tong-Il](../tul/tong-il.md)
 

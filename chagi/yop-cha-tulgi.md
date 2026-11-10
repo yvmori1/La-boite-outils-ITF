@@ -72,6 +72,7 @@ On retrouve le *Yop Cha Tulgi* dans les formes (*Tul*) de ceinture noire :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Orun Kaunde Yopcha Tulgi](../Techniques/Orun-Kaunde-Yopcha-Tulgi.md), [Wen Kaunde Yopcha Tulgi](../Techniques/Wen-Kaunde-Yopcha-Tulgi.md)
 * **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
 

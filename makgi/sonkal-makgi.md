@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Sonkal Najunde Makgi](../Techniques/Gunnun-So-Sonkal-Najunde-Makgi.md), [Niunja So Sonkal Kaunde Makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Makgi.md)
 * **Dans les formes :** [Saju Makgi](../tul/saju-makgi.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md)
 

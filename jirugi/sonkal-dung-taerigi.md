@@ -50,3 +50,11 @@ Sa décomposition linguistique est la suivante :
 * Pouce mal replié : il se blesse et la surface d'impact disparaît.
 * Trajectoire en ligne droite au lieu d'un arc.
 * Coude bloqué tendu, qui ôte toute souplesse au geste.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

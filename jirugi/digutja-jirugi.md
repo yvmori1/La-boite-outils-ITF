@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gojung So Digutja Jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md)
 * **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
 

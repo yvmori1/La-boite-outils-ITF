@@ -92,6 +92,7 @@ C'est l'un des blocages en posture en L les plus fréquemment étudiés :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
 * **Geste de base :** [Blocage avec l'avant-bras intérieur (An Palmok Makgi)](../makgi/an-palmok-makgi.md), [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md)

@@ -68,3 +68,11 @@ On retrouve des déclinaisons de cette trajectoire vers l'intérieur dans plusie
 * **Oublier le pivot du pied d'appui :** Bloquer la cheville et le genou au sol, ce qui restreint la rotation de la hanche et empêche la jambe de traverser l'axe du corps.
 * **Perte d'équilibre vers l'intérieur :** Se laisser emporter par le poids de la jambe lors du balayage, ce qui fait basculer le haut du corps du côté opposé.
 * **Absence de verrouillage de la cheville :** Laisser le pied mou à l'impact, risquant de se tordre la cheville contre la garde ou la tête de l'adversaire.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

@@ -50,3 +50,11 @@ Sa décomposition linguistique est la suivante :
 * Frappe avec les jointures au lieu du bord du poing.
 * Poignet cassé à l'impact.
 * Frappe descendante qui tombe droit au lieu de décrire un cercle.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

@@ -2,6 +2,16 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/06-5e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#5e-gup--ceinture-verte-barre-bleue--fiche) · [combats arrangés](Combats-arranges/05_5e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#5e-gup-barre-bleue-vers-4e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [7. Le mouvement de vague](../Theorie/manuel/partie-2-principes-physiques/07-le-mouvement-de-vague.md)
+* [ ] [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md)
+* [ ] [La casse (Kyokpa — 격파)](../Combat/kyokpa.md)
+
+<!-- /parcours -->
+
 Ceinture Verte I / Barre Bleue (5e Gup)
 
 * **Effort d'entraînement minimal requis :** 90 heures d'entraînement minimales.

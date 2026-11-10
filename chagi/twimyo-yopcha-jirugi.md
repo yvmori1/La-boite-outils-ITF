@@ -74,6 +74,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi](../Techniques/Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md)
 * **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md)
 

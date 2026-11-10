@@ -64,3 +64,11 @@ On retrouve cette technique dans plusieurs formes (*Tul*) avancées de l'ITF :
 * **Jambe rigide :** Balayer la jambe complètement tendue du début à la fin au lieu de fouetter avec la flexion du genou, ce qui détruit la vitesse.
 * **Manque de pivot du pied d'appui :** Conserver le pied au sol face à l'adversaire, ce qui bloque la hanche et empêche d'atteindre le niveau haut (*Nopunde*).
 * **Casser le dos vers l'arrière :** S'effondrer vers l'arrière au lieu de maintenir le buste gainé, perdant ainsi l'équilibre et la précision à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

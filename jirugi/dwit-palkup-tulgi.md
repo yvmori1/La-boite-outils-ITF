@@ -76,6 +76,7 @@ On retrouve le coup de coude arrière dans plusieurs *Tul* de niveau intermédia
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Orun Dwit Palkup Tulgi](../Techniques/Annun-So-Orun-Dwit-Palkup-Tulgi.md), [Annun So Wen Dwit Palkup Tulgi](../Techniques/Annun-So-Wen-Dwit-Palkup-Tulgi.md), [Gunnun So Dwit Palkup Bandae Tulgi](../Techniques/Gunnun-So-Dwit-Palkup-Bandae-Tulgi.md), [Sasun So Dwit Palkup Tulgi](../Techniques/Sasun-So-Dwit-Palkup-Tulgi.md)
 * **Dans les formes :** [Po-Eun](../tul/po-eun.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Ul-Ji](../tul/ul-ji.md)
 

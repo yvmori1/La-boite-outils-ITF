@@ -76,6 +76,7 @@ Voir aussi : [Najunde Apcha Busigi](Najunde-Apcha-Busigi.md), [Twimyo Apcha Busi
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Geste de base :** [Coup de pied avant fouetté (Apcha Busigi)](../chagi/apcha-busigi.md)
 * **Dans les formes :** [Do-San](../tul/do-san.md), [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Choong-Jang](../tul/choong-jang.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md)
 

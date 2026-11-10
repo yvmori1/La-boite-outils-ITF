@@ -71,3 +71,11 @@ Selon l'orientation de l'articulation et la direction du mouvement, le poignet o
 * **Poignet mou à l'impact :** Ne pas gainer l'articulation du poignet au moment du contact, ce qui entraîne une entorse ou une hyperflexion douloureuse sous la force adverse.
 * **Confondre *Sommok* et *Palmok* :** Frapper avec la tranche du bras au lieu d'utiliser la bosse/jonction de l'articulation du poignet.
 * **Mains/Doigts relâchés sans tension :** Laisser les doigts flasques, ce qui détruit la tension générale de la chaîne musculaire de l'avant-bras.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

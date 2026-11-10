@@ -67,3 +67,11 @@ Contrairement aux techniques offensives classiques destinées à percer ou fouet
 * **Cheville molle :** Ne pas verrouiller le chant du pied (*Balkal*) ou la cheville expose à des entorses lors de l'impact contre le corps de l'adversaire.
 * **Pied d'appui trop tendu :** Garder la jambe d'appui complètement droite fait perdre l'équilibre au moment où l'adversaire vient percuter le pied d'arrêt.
 * **Incurver le dos vers l'arrière :** Pencher le buste trop en arrière pendant l'arrêt casse l'alignement de la colonne et détruit la capacité de résistance.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

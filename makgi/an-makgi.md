@@ -79,3 +79,11 @@ Les mouvements vers l'intérieur (*Anuro*) sont omniprésents dès les ceintures
 * **Dépasser l'axe central du corps :** Envoyer le bras trop loin de l'autre côté du corps lors du balayage, ce qui découvre votre propre flanc et dissipe l'énergie de l'impact.
 * **Armer trop près du torse :** Ne pas armer le bras loin à l'extérieur, ce qui réduit la trajectoire à un petit geste de la main sans force d'onde de choc.
 * **Absence de rotation du poignet :** Conserver le bras fuyant sans verrouiller le poignet (*Snap*) à l'arrivée sur l'axe central.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

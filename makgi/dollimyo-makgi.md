@@ -81,6 +81,7 @@ Cette technique emblématique apparaît dans plusieurs formes clés du programme
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So An Palmok Dollimyo Makgi](../Techniques/Gunnun-So-An-Palmok-Dollimyo-Makgi.md), [Gunnun So Sonkal Dollimyo Makgi](../Techniques/Gunnun-So-Sonkal-Dollimyo-Makgi.md), [Gunnun So Sonkal Dung Dollimyo Makgi](../Techniques/Gunnun-So-Sonkal-Dung-Dollimyo-Makgi.md)
 * **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Toi-Gye](../tul/toi-gye.md), [Eui-Am](../tul/eui-am.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
 

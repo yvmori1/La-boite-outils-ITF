@@ -87,6 +87,7 @@ On retrouve cette garde basse travaillée dans les formes de niveau intermédiai
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Niunja So Sonkal Dung Najunde Daebi Makgi](../Techniques/Niunja-So-Sonkal-Dung-Najunde-Daebi-Makgi.md), [Niunja So Sonkal Najunde Daebi Makgi](../Techniques/Niunja-So-Sonkal-Najunde-Daebi-Makgi.md)
 * **Dans les formes :** [Choong-Jang](../tul/choong-jang.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
 

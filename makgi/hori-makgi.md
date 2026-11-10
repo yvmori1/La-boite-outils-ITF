@@ -76,6 +76,7 @@ On retrouve des blocages et balayages au niveau de la taille dans de nombreuses 
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Dwitbal So An Palmok Bandae Hori Makgi](../Techniques/Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md)
 * **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
 

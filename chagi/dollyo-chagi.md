@@ -70,6 +70,7 @@ En TaeKwon-Do ITF, deux surfaces d'impact sont principalement utilisées selon l
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Kaunde Dollyo Chagi](../Techniques/Kaunde-Dollyo-Chagi.md), [Nopunde Dollyo Chagi](../Techniques/Nopunde-Dollyo-Chagi.md)
 * **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
 

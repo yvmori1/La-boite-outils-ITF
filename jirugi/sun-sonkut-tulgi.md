@@ -57,6 +57,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Sun Sonkut Kaunde Tulgi](../Techniques/Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.md), [Sun Sonkut Kaunde Tulgi](../Techniques/Sun-Sonkut-Kaunde-Tulgi.md)
 * **Dans les formes :** [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
 

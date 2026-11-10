@@ -72,3 +72,11 @@ Le *Ikwon Taerigi* s'adapte à plusieurs axes d'attaque selon la position de l'a
 * **Poignet cassé à l'impact :** Ne pas maintenir le poing rigide dans l'alignement de l'avant-bras, risquant une entorse lors du choc.
 * **Masquer son propre champ de vision :** Monter le coude d'armement trop haut devant les yeux lors de la préparation du geste.
 * 
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

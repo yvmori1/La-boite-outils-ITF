@@ -14,3 +14,4 @@ Les techniques elles-mêmes, classées par famille. Le commentaire donne la méc
 * Après le ch. 19 : [coups de pied (Chagi)](../../../chagi/README.md), et les [coups de pied des formes](../../../chagi/Dans-les-formes.md).
 * Enfin, les [techniques combinées](../../../Techniques/README.md) : chaque technique dans sa position, telle qu'elle paraît dans les formes.
 * Vocabulaire : [déplacements (Dolgi)](../../glossaire/12-les-deplacements-dolgi.md) et [coups de pied les plus courants](../../glossaire/11-les-coups-de-pied-les-plus-courants.md) (annexe B, glossaire).
+* Se tester : [révision de la partie V](../../revisions/partie-5.md), avec les questions des examens théoriques.

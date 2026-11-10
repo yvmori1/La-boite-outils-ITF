@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Dwijibun Sonkut Bandae Najunde Tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Bandae-Najunde-Tulgi.md), [Gunnun So Dwijibun Sonkut Najunde Tulgi](../Techniques/Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md), [Sam-Il](../tul/sam-il.md)
 

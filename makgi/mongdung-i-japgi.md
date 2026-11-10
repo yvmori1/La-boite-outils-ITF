@@ -68,3 +68,11 @@ En Self-Défense (*Hosinsul*), attraper un objet contondant en mouvement obéit 
 * **Tenter de saisir directement sans bloquer/dévier au préalable :** Chercher à attraper le bâton au vol sans casser la trajectoire, ce qui entraîne une frappe directe sur la main.
 * **Saisir avec des mains molles :** Ne pas verrouiller les doigts immédiatement après le contact, ce qui permet à l'adversaire de dégager son arme.
 * **Tirer l'arme vers soi au lieu de tordre le levier :** Engager un bras de fer en ligne droite contre l'agresseur au lieu d'utiliser la rotation et les angles d'anatomie du poignet (*Pouce ouvert*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

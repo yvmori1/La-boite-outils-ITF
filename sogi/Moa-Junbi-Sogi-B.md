@@ -81,6 +81,7 @@ Le *Moa Junbi Sogi B* sert de posture de départ pour plusieurs formes emblémat
 
 ## Fiches liées
 
+* **Dans le Manuel :** [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
 
 <!-- /fiches-liees -->

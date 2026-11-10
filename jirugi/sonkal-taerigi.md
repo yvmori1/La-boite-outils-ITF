@@ -53,3 +53,11 @@ Sa décomposition linguistique est la suivante :
 * Main qui dépasse le point de concentration et laisse le corps de face.
 * Poing de réaction ramené à la hanche en position en L : la frappe s'allonge trop.
 * Doigts écartés ou pouce tendu : la main se blesse à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

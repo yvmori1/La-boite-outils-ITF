@@ -82,6 +82,7 @@ C'est la technique défensive de référence du programme ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Niunja So Bakat Palmok Najunde Makgi](../Techniques/Niunja-So-Bakat-Palmok-Najunde-Makgi.md)
 * **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
 

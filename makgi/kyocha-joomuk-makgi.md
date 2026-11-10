@@ -76,3 +76,11 @@ Le blocage croisé avec poings fermés apparaît dans plusieurs formes clés du 
 * **Espace entre les poignets :** Laisser un écart entre les deux poignets au lieu de maintenir un contact léger ou une proximité immédiate de croisement.
 * **Poings mous :** Relâcher la fermeture des doigts ou la tension du poignet, risquant une entorse lors de l'impact contre un membre adverse lourd.
 * **Se pencher vers l'avant :** Casser le buste pour atteindre le niveau bas au lieu d'abaisser les hanches et fléchir les genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

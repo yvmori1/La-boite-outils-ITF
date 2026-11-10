@@ -51,3 +51,11 @@ Sa décomposition linguistique est la suivante :
 * Frapper en redescendant, après le sommet du saut.
 * Bras resté le long du corps : le corps tourne trop et perd l'équilibre.
 * Jambe non repliée après l'impact, réception déséquilibrée.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

@@ -58,6 +58,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Orun Joomuk Kaunde Ap Jirugi](../Techniques/Annun-So-Orun-Joomuk-Kaunde-Ap-Jirugi.md), [Annun So Wen Joomuk Kaunde Ap Jirugi](../Techniques/Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md), [Twimyo Orun Joomuk Ap Jirugi](../Techniques/Twimyo-Orun-Joomuk-Ap-Jirugi.md)
 * **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md), [Ge-Baek](../tul/ge-baek.md), [Juche](../tul/juche.md)
 

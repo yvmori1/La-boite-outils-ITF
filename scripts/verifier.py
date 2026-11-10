@@ -19,6 +19,7 @@ Contrôles effectués :
   9. graphies concurrentes d'un même terme
  10. couverture des liens dans les formes
  11. mise en forme Markdown compatible GitHub et MkDocs
+ 12. lectures par grade et révisions de fin de partie à jour
 """
 
 import argparse
@@ -127,7 +128,8 @@ def controle_compteurs():
     for l in (RACINE / "README.md").read_text(encoding="utf-8").splitlines():
         m = ligne.match(l)
         if m:
-            dossier, annonce = m.group(2), int(m.group(3))
+            # « Theorie/manuel/README.md » compte pour le dossier Theorie
+            dossier, annonce = m.group(2).split("/")[0], int(m.group(3))
             reel = compte_reel(dossier)
             if reel is not None and reel != annonce:
                 ecarts.append(f"{dossier} : annoncé {annonce}, réel {reel}")
@@ -186,6 +188,8 @@ CONTROLES = [
      lambda: controle_generateur("generer-index-techniques.py"), True),
     ("fiches liées à jour",
      lambda: controle_generateur("generer-voir-aussi.py"), True),
+    ("parcours et révisions à jour",
+     lambda: controle_generateur("generer-parcours.py"), True),
     ("menus des sections à jour",
      lambda: controle_generateur("generer-menus.py"), True),
     ("planches des points vitaux à jour",

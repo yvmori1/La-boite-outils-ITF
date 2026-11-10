@@ -72,3 +72,11 @@ Contrairement au *Apcha Olligi* qui est un exercice d'assouplissement jambe tend
 * **Oublier d'armer les orteils :** Laisser les orteils pointer vers le haut, risquant un choc violent des orteils contre le menton ou les coudes de l'adversaire.
 * **Pencher le buste en arrière :** Casser le dos vers l'arrière au moment de la frappe, ce qui détruit la force de poussée verticale et fait perdre l'équilibre.
 * 
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

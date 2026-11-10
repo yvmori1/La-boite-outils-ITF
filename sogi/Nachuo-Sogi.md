@@ -61,6 +61,7 @@ C'est une position de marche (*Gunnun Sogi*) allongée d'une longueur de pied. P
 
 ## Fiches liées
 
+* **Dans le Manuel :** [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * **Techniques dans cette position :** 3 fiches, classées dans [Techniques](../Techniques/README.md)
 
 <!-- /fiches-liees -->

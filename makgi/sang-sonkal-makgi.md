@@ -85,6 +85,7 @@ C'est l'une des techniques les plus récurrentes du programme ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Niunja So Sang Sonkal Makgi](../Techniques/Niunja-So-Sang-Sonkal-Makgi.md)
 * **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Choong-Moo](../tul/choong-moo.md), [Ul-Ji](../tul/ul-ji.md)
 

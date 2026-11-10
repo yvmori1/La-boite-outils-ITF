@@ -75,6 +75,7 @@ Voir aussi : [Gunnun So Sonkal Bandae Chookyo Makgi](Gunnun-So-Sonkal-Bandae-Cho
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
 * **Geste de base :** [Blocage soulevé (Chookyo Makgi)](../makgi/chookyo-makgi.md)
 * **Dans les formes :** [Ko-Dang](../tul/ko-dang.md), [Choi-Yong](../tul/choi-yong.md), [Tong-Il](../tul/tong-il.md)

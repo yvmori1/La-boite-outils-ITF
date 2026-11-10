@@ -77,6 +77,7 @@ Cette technique supérieure est enseignée dans les formes de ceintures noires (
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Orun Gutja Makgi](../Techniques/Annun-So-Orun-Gutja-Makgi.md), [Annun So Wen Gutja Makgi](../Techniques/Annun-So-Wen-Gutja-Makgi.md), [Gunnun So Bandae Gutja Makgi](../Techniques/Gunnun-So-Bandae-Gutja-Makgi.md)
 * **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md), [Yoo-Sin](../tul/yoo-sin.md)
 

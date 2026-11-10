@@ -1,4 +1,4 @@
-# Blocage d'arret (Hechyo Makgi)
+# Blocage d'arrêt (Hechyo Makgi)
 
 > 🔊 **Prononciation :** [헤쳐 막기](../audio/makgi/hechyo-makgi.m4a)
 
@@ -78,6 +78,7 @@ C'est un blocage incontournable dès les premières ceintures du programme ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So An Palmok Kaunde Hechyo Makgi](../Techniques/Annun-So-Palmok-Kaunde-Hechyo-Makgi.md), [Annun So Sonkal Dung Kaunde Hechyo Makgi](../Techniques/Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.md), [Gunnun So Bakat Palmok Nopunde Hechyo Makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md), [Gunnun So Sonkal Kaunde Hechyo Makgi](../Techniques/Gunnun-So-Sonkal-Kaunde-Hechyo-Makgi.md), [Kaunde Yobap Cha Busigi Wa An Palmok Kaunde Hechyo Makgi](../Techniques/Kaunde-Yobap-Cha-Busigi-Wa-An-Palmok-Kaunde-Hechyo-Makgi.md)
 * **Dans les formes :** [Do-San](../tul/do-san.md), [Po-Eun](../tul/po-eun.md), [Eui-Am](../tul/eui-am.md), [Sam-Il](../tul/sam-il.md), [Ul-Ji](../tul/ul-ji.md)
 

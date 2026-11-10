@@ -56,6 +56,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Dwitbal So Euhkallin Sonbadak Naeryo Makgi](../Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md), [Dwitbal So Sonbadak Bandae Naeryo Makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md)
 * **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Moon-Moo](../tul/moon-moo.md)
 

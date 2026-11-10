@@ -2,6 +2,16 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/08-3e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#3e-gup--ceinture-bleue-barre-rouge--fiche) · [combats arrangés](Combats-arranges/07_3e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#3e-gup-barre-rouge-vers-2e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
+* [ ] [Le combat libre (Jayu Matsogi — 자유 맞서기)](../Combat/combat-libre.md)
+* [ ] [Règlement et arbitrage du combat](../Combat/arbitrage.md)
+
+<!-- /parcours -->
+
  Ceinture Bleue I / Barre Rouge (3e Gup)
 
 * **Effort d'entraînement minimal requis :** 90 heures d'entraînement minimales.

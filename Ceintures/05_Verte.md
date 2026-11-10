@@ -2,6 +2,16 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/05-6e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#6e-gup--ceinture-verte--fiche) · [combats arrangés](Combats-arranges/04_6e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#6e-gup-ceinture-verte-vers-5e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [11. Les verbes d'action](../Theorie/manuel/partie-3-grammaire-des-techniques/11-les-verbes-d-action.md)
+* [ ] [12. Les armes naturelles (Jook Bang)](../Theorie/manuel/partie-3-grammaire-des-techniques/12-les-armes-naturelles-jook-bang.md)
+* [ ] [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /parcours -->
+
 Ceinture Verte (6e Gup)
 
 * **Effort d'entraînement minimal requis :** 90 heures d'entraînement minimales.
