@@ -76,6 +76,7 @@ Voir aussi : [Gunnun So Palmok Najunde Makgi](Gunnun-So-Palmok-Najunde-Makgi.md)
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
 * **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage inversé (Bandae Makgi)](../makgi/bandae-makgi.md)
 * **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Yoo-Sin](../tul/yoo-sin.md)

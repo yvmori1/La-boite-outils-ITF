@@ -73,6 +73,7 @@ On retrouve cette technique dans plusieurs formes (*Tul*) supérieures de l'ITF 
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Nopunde Bandae Dollyo Gorochagi](../Techniques/Nopunde-Bandae-Dollyo-Gorochagi.md), [Orun Nopunde Bandae Dollyo Gorochagi](../Techniques/Orun-Nopunde-Bandae-Dollyo-Gorochagi.md), [Wen Nopunde Bandae Dollyo Gorochagi](../Techniques/Wen-Nopunde-Bandae-Dollyo-Gorochagi.md)
 * **Dans les formes :** [Juche](../tul/juche.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md), [Moon-Moo](../tul/moon-moo.md)
 

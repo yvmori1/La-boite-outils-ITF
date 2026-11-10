@@ -75,6 +75,7 @@ On retrouve le *Doo Bandalson Makgi* dans les formes avancées de ceintures noir
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Kaunde Doo Bandalson Makgi](../Techniques/Gunnun-So-Kaunde-Doo-Bandalson-Makgi.md), [Gunnun So Nopunde Doo Bandalson Makgi](../Techniques/Gunnun-So-Nopunde-Doo-Bandalson-Makgi.md)
 * **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
 

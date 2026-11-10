@@ -78,3 +78,11 @@ Prenons l'exemple le plus emblématique : le **Twimyo Sangbang Yop Chagi** (doub
 * **Absence d'impulsion verticale :** Sauter trop bas, ce qui empêche d'avoir le temps de déplier et de réarmer les deux jambes avant d'toucher le sol.
 * **Oublier le réarmement aérien :** Laisser retomber les jambes tendues vers le sol, risquant de se tordre les chevilles ou de se blesser aux genoux à la réception.
 * **Manque de gainage abdominal :** Laisser s'effondrer le bas du dos à l'impact, ce qui absorbe la puissance des coups au lieu de la transmettre aux pieds.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

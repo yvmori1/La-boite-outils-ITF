@@ -79,6 +79,7 @@ On retrouve le coup de poing descendant dans plusieurs formes avancées du progr
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Bandae Naeryo Jirugi](../Techniques/Gunnun-So-Bandae-Naeryo-Jirugi.md), [Gunnun So Naeryo Jirugi](../Techniques/Gunnun-So-Naeryo-Jirugi.md)
 * **Dans les formes :** [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md)
 

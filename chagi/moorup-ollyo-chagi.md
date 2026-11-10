@@ -80,6 +80,7 @@ On retrouve cette technique dans les formes de niveau intermédiaire :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md)
 
 <!-- /fiches-liees -->

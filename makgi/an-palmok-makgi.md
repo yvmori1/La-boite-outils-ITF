@@ -75,6 +75,7 @@ C'est une technique fondamentale intégrée très tôt dans le cursus de l'ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Niunja So An Palmok Kaunde Makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md)
 

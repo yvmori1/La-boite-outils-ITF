@@ -62,3 +62,11 @@ Sa décomposition linguistique est la suivante :
 * **Oublier le fouetté descendant :** Laisser tomber la jambe par simple gravité au lieu de contracter activement la jambe pour « piquer » le talon vers le bas.
 * **Pied pointe tendue (*Ap Kumchi*) :** Ne pas fléchir la cheville, risquant de frapper avec les orteils au lieu du talon solide (*Dwitkumchi*).
 * **Perte d'équilibre / Corps trop penché :** Basculer le buste exagérément vers l'arrière au lieu de maintenir le gainage abdominal pour contrôler le retour de la jambe.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

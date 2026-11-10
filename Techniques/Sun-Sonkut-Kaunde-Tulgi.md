@@ -74,3 +74,11 @@ C'est une technique majeure du programme intermédiaire :
 * **Orientation de la main à plat (*Pyeon*) :** Laisser la paume orientée vers le sol au lieu de la maintenir verticale, ce qui transforme la technique en un *Pyeon Sonkut*.
 * **Frapper une zone dure / osseuse :** Viser les côtes ou le sternum au lieu du creux de l'estomac / plexus mâtiné de tissus mous.
 * **Poignet cassé :** Relâcher la tension du poignet à l'impact, ce qui absorbe l'onde de choc et peut blesser l'articulation.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

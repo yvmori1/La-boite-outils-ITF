@@ -66,6 +66,7 @@ En self-défense (*Hosinsul*), cette technique permet d'amener un agresseur au s
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Yop Bal Badak Suroh Chagi](../Techniques/Yop-Bal-Badak-Suroh-Chagi.md)
 * **Dans les formes :** [Sam-Il](../tul/sam-il.md), [Moon-Moo](../tul/moon-moo.md)
 

@@ -79,3 +79,11 @@ On retrouve les déplacements glissés associés aux frappes dans plusieurs form
 * **Désynchronisation :** Glisser d'abord, s'arrêter, puis frapper. La glissade et le coup de pied doivent former un seul mouvement fluide et continu.
 * **Perdre son centre de gravité :** Pencher le buste trop loin en arrière pendant le glissement, risquant de glisser et de tomber si le pied d'appui manque d'adhérence.
 * **Oublier de pivoter le pied d'appui :** Lors d'un *Mikulgi Yop Cha Jirugi*, ne pas orienter le talon d'appui vers l'adversaire pendant la glissade bloque la hanche et détruit la puissance.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

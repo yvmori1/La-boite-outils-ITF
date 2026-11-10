@@ -76,6 +76,7 @@ On retrouve des mouvements en parallélisme dans les formes intermédiaires et a
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So An Palmok Narani Makgi](../Techniques/Annun-So-An-Palmok-Narani-Makgi.md), [Waebal So Bakat Palmok Narani Makgi](../Techniques/Waebal-So-Bakat-Palmok-Narani-Makgi.md)
 * **Dans les formes :** [Juche](../tul/juche.md)
 

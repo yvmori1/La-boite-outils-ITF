@@ -74,3 +74,11 @@ Le *Inji Joomuk* est une arme naturelle fragile si elle est mal formée. Sa pré
 * **Frapper une zone osseuse dure :** Viser le front ou le sommet du crâne avec cette technique. Le *Inji Joomuk* doit être réservé aux zones molles ou aux points nerveux vulnérables.
 * **Pousser la frappe :** Chercher à enfoncer le bras au lieu de donner une frappe sèche avec un retour/arrêt net (*Snap*).
 * **Poignet instable :** Ne pas maintenir le poignet parfaitement rigide à l'impact, ce qui absorbe la force dans le poignet au lieu de la transmettre à l'index.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

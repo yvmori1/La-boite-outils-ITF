@@ -72,3 +72,11 @@ C'est une technique clef du programme de ceinture verte et supérieure :
 * **Frapper la cible au lieu de presser :** Donner une claque à la jambe au lieu d'utiliser le poids du corps pour exercer une poussée ferme vers le sol.
 * **Bras trop tendu :** Verrouiller complètement le coude à 180°, risquant la luxation ou l'entorse du coude si la frappe adverse est trop puissante.
 * **Poignet mou :** Laisser la paume de la main sans tension, ce qui entraîne le retournement des doigts en cas de choc lourd.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

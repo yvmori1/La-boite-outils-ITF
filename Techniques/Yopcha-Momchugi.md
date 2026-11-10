@@ -63,3 +63,11 @@ Sa décomposition linguistique est la suivante :
 * **Pied mal orienté :** Frapper avec la plante du pied ou les orteils au lieu de verrouiller la cheville sur le tranchant extérieur (**Balkal**).
 * **Manque de rigidité à l'impact :** Laisser le genou d'appui ou de frappe fléchir sous la pression de l'adversaire, ce qui fait céder le blocage d'arrêt.
 * **Montée de genou trop lente ou déploiement balayé :** Déployer la jambe dans un mouvement circulaire au lieu de passer par une détente rectiligne en piston.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

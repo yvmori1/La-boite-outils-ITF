@@ -80,6 +80,7 @@ Voir aussi : [An Palmok Kaunde Yop Makgi](An-Palmok-Kaunde-Yop-Makgi.md), [Niunj
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
 * **Geste de base :** [Blocage latéral (Yop Makgi)](../makgi/yop-makgi.md)
 * **Dans les formes :** [Saju Makgi](../tul/saju-makgi.md), [Yul-Gok](../tul/yul-gok.md)

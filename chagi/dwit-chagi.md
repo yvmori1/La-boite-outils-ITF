@@ -58,3 +58,11 @@ C'est l'un des coups de pied les plus puissants du répertoire martial, fonction
 * **Sur-rotation (*Over-rotation*) :** Continuer à tourner le buste pendant l'extension, ce qui fait dévier le pied sur le côté et fait perdre toute la puissance de pénétration.
 * **Frapper à l'aveugle :** Ne pas aligner le regard par-dessus l'épaule avant d'envoyer le pied.
 * **Pied à l'horizontale :** Si les orteils pointent sur le côté (comme pour un *Yop Chagi* / coup de pied latéral), la hanche est mal positionnée pour un *Dwit Chagi*.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

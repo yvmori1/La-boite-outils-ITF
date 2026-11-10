@@ -80,6 +80,7 @@ On retrouve cette mécanique de poussée latérale dans les formes officielles d
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Kaunde Yopcha Milgi](../Techniques/Kaunde-Yopcha-Milgi.md)
 * **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
 

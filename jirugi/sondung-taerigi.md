@@ -83,3 +83,11 @@ On retrouve les percussions du dos de la main ouverte dans les formes supérieur
 * **Confondre avec le poing fermé :** Fermer les doigts à l'impact (ce qui en fait un *Dung Joomuk*).
 * **Poignet cassé à l'impact :** Ne pas aligner le dos de la main avec l'avant-bras, risquant de plier le poignet sous le choc.
 * **Trajectoire trop poussée :** Amener tout le bras rigide depuis l'épaule sans utiliser la détente du coude.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

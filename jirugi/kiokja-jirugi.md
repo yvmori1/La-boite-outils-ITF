@@ -70,3 +70,11 @@ Cette technique emblématique apparaît dans plusieurs formes du programme ITF :
 * **Coude qui tombe :** Laisser chuter le coude vers le bas au lieu de le maintenir à la hauteur de l'avant-bras et de la cible.
 * **Poignet cassé :** Ne pas maintenir le poignet rigide dans l'axe de l'avant-bras au moment de l'impact, ce qui risque de provoquer une entorse du poignet.
 * **Oublier la rotation des hanches :** Lancer le bras uniquement avec l'épaule sans engager le pivotement des hanches pour transmettre la masse du corps.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

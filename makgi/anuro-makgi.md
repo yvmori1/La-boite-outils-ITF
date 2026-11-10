@@ -76,6 +76,7 @@ On retrouve cette mécanique de balayage entrant dans plusieurs formes du progra
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Dwitbal So Bakat Palmok Kaunde Anuro Bandae Makgi](../Techniques/Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md), [Gunnun So Sonbadak Najunde Anuro Bandae Makgi](../Techniques/Gunnun-So-Sonbadak-Najunde-Anuro-Bandae-Makgi.md), [Gunnun So Sonkal Dung Najunde Bandae Anuro Makgi](../Techniques/Gunnun-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md), [Gunnun So Sonkal Najunde Bandae Anuro Makgi](../Techniques/Gunnun-So-Sonkal-Najunde-Bandae-Anuro-Makgi.md), [Niunja So Sonkal Dung Najunde Bandae Anuro Makgi](../Techniques/Niunja-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md)
 * **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
 

@@ -74,3 +74,11 @@ Le préfixe *Dora* vient qualifier la frappe qui suit la rotation :
 * **Ne pas armer le genou :** Lancer la jambe complètement tendue dès le départ comme un bâton, ce qui ralentit la rotation et rend le coup facile à esquiver.
 * **Se faire embarquer par l'inertie :** Ne pas fléchir le genou après la frappe, effectuant un tour complet incontrôlé qui vous laisse le dos tourné à l'adversaire.
 * **Casser la colonne vertébrale :** Pencher le buste vers le bas pendant la rotation au lieu de maintenir un axe vertical gainé.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

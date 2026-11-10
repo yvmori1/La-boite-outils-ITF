@@ -79,6 +79,7 @@ On retrouve le *Sonkal Dung* sous forme de blocages, de gardes et de frappes dan
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Niunja So Sonkal Dung Kaunde Makgi](../Techniques/Niunja-So-Sonkal-Dung-Kaunde-Makgi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md)
 

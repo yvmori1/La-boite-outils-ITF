@@ -69,3 +69,11 @@ On retrouve cette technique dans plusieurs formes officielles de l'ITF :
 * **Armer le genou trop bas :** Ne pas lever le genou avant de pousser, ce qui supprime toute la force gravitationnelle nécessaire au coup pressant.
 * **Incurver le dos / Casser la colonne :** Pencher le buste vers l'arrière au lieu d'engager le haut du corps au-dessus de la zone de pression, perdant ainsi le transfert de masse.
 * **Cheville molle :** Ne pas verrouiller rigide l'articulation de la cheville à l'impact, ce qui absorbe l'énergie du coup au lieu de la transmettre à la cible.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

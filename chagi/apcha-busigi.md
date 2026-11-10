@@ -72,6 +72,7 @@ C'est l'une des premières techniques enseignées en TaeKwon-Do, mais aussi l'un
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Kaunde Apcha Busigi](../Techniques/Kaunde-Apcha-Busigi.md), [Najunde Apcha Busigi](../Techniques/Najunde-Apcha-Busigi.md), [Twimyo Apcha Busigi](../Techniques/Twimyo-Apcha-Busigi.md)
 * **Dans les formes :** [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md)
 

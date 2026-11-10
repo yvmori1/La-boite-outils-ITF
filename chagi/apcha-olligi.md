@@ -64,3 +64,11 @@ Il appartient à la catégorie des exercices fondamentaux de montée de jambe (*
 * **Décoller le talon du pied d'appui :** Monter sur la pointe du pied d'appui fait perdre l'équilibre et détruit l'ancrage au sol.
 * **S'effondrer vers l'arrière :** Pencher excessivement le buste vers l'arrière pour tricher sur la hauteur de la jambe, ce qui désaligne la colonne vertébrale.
 * **Oublier de tirer les orteils vers soi :** Laisser les orteils pointés vers le haut (comme une ballerine) au lieu de les armer vers l'arrière (*Apkumchi*).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

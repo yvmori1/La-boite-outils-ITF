@@ -62,6 +62,7 @@ En TaeKwon-Do ITF, la dénomination d'une technique exécutée en *Kyocha Sogi* 
 
 ## Fiches liées
 
+* **Dans le Manuel :** [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * **Techniques dans cette position :** 18 fiches, classées dans [Techniques](../Techniques/README.md)
 * **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
 

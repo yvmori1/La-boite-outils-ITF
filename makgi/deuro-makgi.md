@@ -78,3 +78,11 @@ On retrouve le blocage en levant dans plusieurs formes du programme de ceinture 
 * **Bloquer trop haut au-dessus de la tête :** Transformer la technique en *Chookyo Makgi*, ce qui laisse passer la frappe sous le bras au lieu de la cueillir.
 * **Soulever uniquement avec l'épaule :** Négliger la poussée des jambes et le mouvement de vague, rendant impossible le soulèvement d'un membre puissant ou lourd.
 * **Ne pas accompagner du poignet :** Oublier la rotation du poignet (*Snap*) en fin de course, risquant de laisser glisser le membre adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

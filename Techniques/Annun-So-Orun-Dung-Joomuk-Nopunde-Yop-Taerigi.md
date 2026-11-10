@@ -72,6 +72,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
 * **Geste de base :** [Frappe latérale du revers du poing (Dung Joomuk Yop Taerigi)](../jirugi/dung-joomuk-yop-taerigi.md)
 * **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md)

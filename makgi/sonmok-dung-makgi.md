@@ -78,3 +78,11 @@ On retrouve cette technique de raffinement dans les formes de niveau intermédia
 * **Ne pas assez fléchir le poignet :** Conserver le poignet droit ou à peine cassé, ce qui fait frapper l'adversaire sur les os fragiles de la main ou des doigts.
 * **Poignet mou à l'impact :** Ne pas gainer l'articulation au moment du contact, risquant une entorse du poignet sous la pression de la frappe.
 * **Heurter au lieu de dévier :** Chercher à casser le membre adverse au lieu de dévier sa trajectoire avec fluidité.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

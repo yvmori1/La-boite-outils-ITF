@@ -62,6 +62,7 @@ Cette technique associe la force centrifuge d'une rotation par le dos à un foue
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Geste de base :** [Coup de pied crocheté inversé (Bandae Dollyo Goro Chagi)](../chagi/bandae-dollyo-goro-chagi.md)
 
 <!-- /fiches-liees -->

@@ -72,3 +72,11 @@ On retrouve des frappes de main en demi-rotation dans les formes intermédiaires
 * **Oublier la rotation des hanches :** Lancer la main uniquement avec l'épaule sans engager le pivot des hanches, supprimant la puissance centrifuge.
 * **Poignet mou à l'impact :** Relâcher la tension de la main au moment du contact, ce qui absorbe l'énergie au lieu de la transmettre et risque de blesser le poignet.
 * **Verrouiller le coude à 180° :** Tendre complètement le bras en fin de course, risquant une entorse à l'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

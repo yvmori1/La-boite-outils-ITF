@@ -58,6 +58,7 @@ Contrairement aux blocages percutants ou durs (comme un blocage avec le tranchan
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Dans les formes :** [Juche](../tul/juche.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md)
 
 <!-- /fiches-liees -->

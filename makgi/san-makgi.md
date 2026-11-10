@@ -79,6 +79,7 @@ Le *San Makgi* apparaît dans plusieurs formes emblématiques du programme des c
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Bakat Palmok San Makgi](../Techniques/Annun-So-Bakat-Palmok-San-Makgi.md), [Annun So Orun Bakat Palmok San Makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-San-Makgi.md), [Annun So Sonkal Dung San Makgi](../Techniques/Annun-So-Sonkal-Dung-San-Makgi.md), [Annun So Wen Bakat Palmok San Makgi](../Techniques/Annun-So-Wen-Bakat-Palmok-San-Makgi.md), [Gunnun So Sonkal San Makgi](../Techniques/Gunnun-So-Sonkal-San-Makgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
 

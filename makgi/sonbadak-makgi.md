@@ -82,3 +82,11 @@ On retrouve le blocage/frappe montant de la paume dans plusieurs *Tul* de niveau
 * **Pouce décollé :** Ne pas plaquer le pouce, risquant de l'accrocher dans le dobok ou le membre du partenaire.
 * **Tendre complètement le coude :** Bloquer bras tendu à 180°, éliminant toute absorption et fatiguant l'épaule.
 * **Mouvement uniquement musculaire des bras :** Ignorer la poussée des jambes et le mouvement de vague (*Sine Wave*), ce qui rend le blocage faible face à une attaque lourde.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

@@ -69,3 +69,11 @@ Toute la nuance réside dans le mot-clé **Taerigi** :
 * **Frapper avec le plat des doigts :** Relâcher la fermeture du poing et impacter avec les secondes jointures (*phalanges*) au lieu du sommet des deux grosses jointures (*Ap Joomuk*).
 * **Poignet "cassé" à l'impact :** Ne pas maintenir la rigidité de l'articulation du poignet lors de la rotation finale, absorbant le choc dans le poignet au lieu de le transmettre à la cible.
 * **Oublier la rotation des hanches :** Lancer uniquement le bras sans engager le pivot du bassin, ce qui prive la percussion de sa masse corporelle.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

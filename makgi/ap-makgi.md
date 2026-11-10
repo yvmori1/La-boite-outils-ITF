@@ -74,6 +74,7 @@ Le blocage frontal sous ses diverses formes est le premier blocage enseigné aux
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Orun Bakat Palmok Nopunde Ap Makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Ap-Makgi.md), [Annun So Orun Bakat Palmok Kaunde Ap Makgi](../Techniques/Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.md), [Gunnun So Bakat Palmok Nopunde Ap Makgi](../Techniques/Gunnun-So-Bakat-Palmok-Nopunde-Ap-Makgi.md), [Gunnun So Palmok Kaunde Bandae Ap Makgi](../Techniques/Gunnun-So-Palmok-Kaunde-Bandae-Ap-Makgi.md), [Gunnun So Palmok Nopunde Bandae Ap Makgi](../Techniques/Gunnun-So-Palmok-Nopunde-Bandae-Ap-Makgi.md), [Kyocha So Bakat Palmok Najunde Baro Ap Makgi](../Techniques/Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.md), [Kyocha So Sonkal Dung Najunde Bandae Ap Makgi](../Techniques/Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.md), [Moa So Orun Sonkal Najunde Ap Makgi](../Techniques/Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.md)
 * **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Po-Eun](../tul/po-eun.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [So-San](../tul/so-san.md)
 

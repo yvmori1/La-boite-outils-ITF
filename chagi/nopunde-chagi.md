@@ -61,3 +61,11 @@ Exécuter un coup de pied efficace en section haute nécessite d'allier hauteur 
 * **S'effondrer vers l'arrière :** Cassure du dos vers l'arrière pour essayer d'atteindre la tête sans souplesse de hanche, ce qui détruit la puissance et l'équilibre.
 * **Ne pas pivoter le pied d'appui :** Conserver le pied d'appui face à l'adversaire lors d'un coup de pied haut bloque la hanche et crée un risque majeur de blessure au genou d'appui.
 * **Bâcler l'armement du genou :** Monter la jambe tendue directement depuis le sol pour chercher la hauteur au lieu de lever d'abord le genou fléchi à la hauteur de la cible.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

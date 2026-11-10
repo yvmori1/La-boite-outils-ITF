@@ -61,6 +61,7 @@ Cette technique utilise la pointe du coude comme une pointe de lance propulsée 
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Sasun Sogi](../sogi/Sasun-Sogi.md)
 * **Geste de base :** [Pique de coude arrière (Dwit Palkup Tulgi)](../jirugi/dwit-palkup-tulgi.md)
 
