@@ -2,6 +2,16 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/07-4e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#4e-gup--ceinture-bleue--fiche) · [combats arrangés](Combats-arranges/06_4e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#4e-gup-ceinture-bleue-vers-3e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [8. Respiration, ki et méditation](../Theorie/manuel/partie-2-principes-physiques/08-respiration-ki-et-meditation.md)
+* [ ] [Les systèmes de combat (Matsogi Goosong)](../Combat/systemes-de-combat.md)
+* [ ] [La prise de mesure (Gori Jajil)](../Combat/prise-de-mesure.md)
+
+<!-- /parcours -->
+
 Ceinture Bleue (4e Gup)
 
 * **Effort d'entraînement minimal requis :** 45 heures d'entraînement minimales.

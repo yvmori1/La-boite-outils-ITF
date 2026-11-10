@@ -12,3 +12,4 @@ La position est le point de départ et d'appui de tout mouvement : sa géométri
 
 * [Fiches des positions](../../../sogi/README.md) : une fiche par position, avec son schéma coté.
 * Vocabulaire : [les positions (Sogi)](../../glossaire/07-les-positions-sogi.md) (annexe B, glossaire).
+* Se tester : [révision de la partie IV](../../revisions/partie-4.md), avec les questions des examens théoriques.

@@ -82,6 +82,7 @@ Cette technique est une pierre angulaire du programme de progression de l'ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Dwitbal So Palmok Kaunde Daebi Makgi](../Techniques/Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md), [Gojung So Palmok Nopunde Daebi Makgi](../Techniques/Gojung-So-Palmok-Nopunde-Daebi-Makgi.md), [Niunja So Palmok Kaunde Daebi Makgi](../Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.md), [Orun Dwitbal So Palmok Kaunde Daebi Makgi](../Techniques/Orun-Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md), [Orun Niunja So Palmok Kaunde Daebi Makgi](../Techniques/Orun-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md), [Wen Niunja So Palmok Kaunde Daebi Makgi](../Techniques/Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md)
 * **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Joong-Gun](../tul/joong-gun.md), [Choong-Moo](../tul/choong-moo.md), [Po-Eun](../tul/po-eun.md), [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md), [Sam-Il](../tul/sam-il.md), [Choi-Yong](../tul/choi-yong.md), [Yon-Gae](../tul/yon-gae.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md)
 

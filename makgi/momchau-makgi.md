@@ -81,6 +81,7 @@ On retrouve les techniques de blocage d'arrêt et d'interception dans les formes
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Annun So Sang Sun Palmok Momchau Makgi](../Techniques/Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md), [Gojung So Kyocha Sonkal Momchau Makgi](../Techniques/Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md), [Niunja So Kyocha Joomuk Momchau Makgi](../Techniques/Niunja-So-Kyocha-Joomuk-Momchau-Makgi.md), [Niunja So Kyocha Sonkal Momchau Makgi](../Techniques/Niunja-So-Kyocha-Sonkal-Momchau-Makgi.md)
 * **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Yon-Gae](../tul/yon-gae.md), [Ul-Ji](../tul/ul-ji.md)
 

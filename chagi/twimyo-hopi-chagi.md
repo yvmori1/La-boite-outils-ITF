@@ -66,3 +66,11 @@ Selon la technique de frappe combinée au bond (souvent un *Ap Chagi*, un *Yop C
 * **Ne pas monter le premier genou :** Si la jambe d'appel ne monte pas haut, le mouvement perd sa feinte tactique et réduit la hauteur du saut.
 * **Pendre la jambe passive :** Laisser la jambe qui ne frappe pas pendre vers le sol pendant la volée, ce qui déséquilibre le corps et ralentit le ciseau.
 * **Réception rigide :** Ne pas fléchir les genoux à l'atterrissage, risquant des traumatismes articulaires aux chevilles et aux genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

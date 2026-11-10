@@ -69,6 +69,7 @@ Cette technique s'exécute le plus souvent en **Annun Sogi** (posture du cavalie
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Moa So Sang Yop Palkup Tulgi](../Techniques/Moa-So-Sang-Yop-Palkup-Tulgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Ul-Ji](../tul/ul-ji.md)
 

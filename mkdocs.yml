@@ -157,6 +157,7 @@ extra_javascript:
   - assets/anciennes-ancres.js
   - assets/audio.js
   - assets/quiz.js
+  - assets/parcours.js
   - assets/impression.js
   - assets/pwa.js
   # Statistiques de fréquentation sans témoins (GoatCounter), voir

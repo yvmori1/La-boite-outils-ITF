@@ -67,3 +67,11 @@ On retrouve les techniques de pied bas dans plusieurs formes officielles ITF :
 * **Pencher le buste en arrière :** S'incliner vers l'arrière lors du coup bas, ce qui retire tout le poids du corps de l'impact et met le pratiquant en déséquilibre.
 * **Ne pas armer la cheville :** Garder le pied mou à l'impact, risquant une entorse ou un traumatisme à la cheville en percutant la cuisse ou le genou rigide de l'adversaire.
 * **Ne pas réarmer après l'impact :** Laisser tomber la jambe tendue au sol au lieu de la ramener en suspension.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

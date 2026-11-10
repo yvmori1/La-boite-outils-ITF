@@ -2,6 +2,15 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-noires/01-1er-dan.md) · [combat, autodéfense et casse](../Combat/progression.md#1er-dan--fiche) · [combats arrangés](Combats-arranges/10_Ceintures-noires.md)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [20. La forme comme héritage](../Theorie/manuel/partie-6-formes-tul/20-la-forme-comme-heritage.md)
+* [ ] [24. Les formes une à une](../Theorie/manuel/partie-6-formes-tul/24-les-formes-une-a-une.md)
+
+<!-- /parcours -->
+
 * **Temps d'attente minimum et Heures :** Minimum d'un an et demi (18 mois / 1,5 an) d'attente active depuis l'obtention du 1er Dan ITF, avant de se présenter au 2e Dan.
 * **Signification du Grade :** L'opposé de la ceinture blanche ; symbolise la maturité et la maîtrise technique du Taekwon-Do. C'est aussi le début d'un nouveau cycle d'apprentissage : le pratiquant développe son expertise technique et théorique et approfondit sa compréhension de l'Encyclopédie.
 

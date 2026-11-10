@@ -72,6 +72,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * **Techniques dans cette position :** 14 fiches, classées dans [Techniques](../Techniques/README.md)
 * **Dans les formes :** [Ko-Dang](../tul/ko-dang.md)
 

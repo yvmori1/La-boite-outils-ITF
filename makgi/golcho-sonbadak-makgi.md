@@ -68,3 +68,11 @@ Cette technique est une pièce maîtresse des enchaînements de ceinture bleue e
 * **Frapper l'attaque au lieu de la dévier :** Donner une claque violente au membre adverse au lieu d'accompagner et d'accrocher sa trajectoire avec fluidité.
 * **Dépasser exagérément la ligne du corps :** Balayer le bras beaucoup trop loin vers l'extérieur, ce qui prend trop de temps, fatigue l'épaule et découvre le buste à une seconde frappe.
 * **Poignet et main moux :** Laisser la paume sans tension, ce qui fait que le coup de poing adverse enfonce la main et atteint le corps.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

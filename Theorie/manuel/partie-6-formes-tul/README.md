@@ -19,3 +19,4 @@ même temps la mémoire historique de la Corée.
 * [Fiches des formes](../../../tul/README.md) : les trois Saju, puis chaque forme mouvement par mouvement, rangées par grade.
 * La forme à présenter à chaque examen : [fiches de grade](../../../Ceintures/README.md) (partie VIII).
 * Vocabulaire : [formes et figures](../../glossaire/09-formes-et-figures.md) et [les formes (Tul)](../../glossaire/15-les-formes-tul.md) (annexe B, glossaire).
+* Se tester : [révision de la partie VI](../../revisions/partie-6.md), avec les questions des examens théoriques.

@@ -79,6 +79,7 @@ C'est probablement la hauteur de blocage la plus représentée dans l'ensemble d
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Doo Palmok Kaunde Makgi](../Techniques/Gunnun-So-Doo-Palmok-Kaunde-Makgi.md), [Niunja So An Palmok Kaunde Makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Makgi.md), [Niunja So Sonkal Dung Kaunde Makgi](../Techniques/Niunja-So-Sonkal-Dung-Kaunde-Makgi.md), [Niunja So Sonkal Kaunde Makgi](../Techniques/Niunja-So-Sonkal-Kaunde-Makgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Kwang-Gae](../tul/kwang-gae.md), [Ko-Dang](../tul/ko-dang.md), [Ul-Ji](../tul/ul-ji.md)
 

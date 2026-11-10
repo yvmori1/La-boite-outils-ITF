@@ -70,3 +70,11 @@ On retrouve les principes de permutation et d'échange de bras dans plusieurs fo
 * **Mouvements parasites larges :** Écarter exagérément les coudes du corps lors de la permutation, ce qui crée un trou dans la défense pendant le changement de main.
 * **Mains molles au croisement :** Relâcher totalement la tension des poignets pendant la transition, ce qui rend le second blocage vulnérable à l'enfoncement.
 * **Oublier la rotation des poignets (*Snap*) :** Échanger simplement la position des bras en ligne droite sans faire pivoter le poignet à l'impact final.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

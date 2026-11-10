@@ -76,3 +76,11 @@ On retrouve cette technique de pression et de poussée dans plusieurs formes off
 * **Poignets mous :** Ne pas verrouiller l'articulation du poignet, ce qui fait fléchir la main sous la pression de l'attaque.
 * **Désynchronisation des paumes :** Faire arriver une paume avant l'autre, annulant la stabilité et la puissance de la structure double.
 * **Tendre les bras à 100% (Verrouillage du coude) :** Tendre complètement les coudes en fin de mouvement, ce qui détruit l'effet d'amortisseur et transmet le choc directement dans les épaules.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

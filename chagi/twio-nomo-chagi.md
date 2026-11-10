@@ -68,3 +68,11 @@ On retrouve également cette mécanique dans les formes (*Tul*) :
 * **Trajectoire trop verticale :** Privilégier la hauteur au détriment de la longueur, retombant directement sur l'obstacle.
 * **Jambe passive pendante :** Ne pas replier la jambe qui ne frappe pas sous les fessiers, ce qui fait percuter l'obstacle avec le pied arrière.
 * **Atterrissage les jambes raides :** Réceptionner le saut sans fléchir les genoux, provoquant un risque majeur de blessure aux chevilles ou aux genoux.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

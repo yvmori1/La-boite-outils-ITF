@@ -70,6 +70,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
 * **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Joong-Gun](../tul/joong-gun.md), [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md)
 

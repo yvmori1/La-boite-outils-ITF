@@ -79,6 +79,7 @@ Selon le contexte tactique, deux armes naturelles sont principalement utilisées
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Kaunde Bandal Chagi](../Techniques/Kaunde-Bandal-Chagi.md)
 * **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md), [Ul-Ji](../tul/ul-ji.md)
 

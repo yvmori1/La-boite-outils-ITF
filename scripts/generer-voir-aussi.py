@@ -13,6 +13,8 @@ Pour une fiche de chagi/, makgi/ ou jirugi/ : les techniques complètes qui
 utilisent ce geste, et les formes où il paraît (directement ou par elles).
 Pour une fiche de sogi/ : le nombre de techniques dans cette position, et les
 formes qui citent la fiche.
+Pour toutes : en tête, le chapitre du Manuel qui explique la famille de la
+fiche (« Dans le Manuel »), d'après son dossier (table MANUEL).
 
 Les formes sont lues dans les liens des pages de tul/ (posés par
 lier-mouvements.py) et rangées dans l'ordre du menu Formes (tul/.pages).
@@ -35,6 +37,17 @@ FIN = "<!-- /fiches-liees -->"
 BLOC = re.compile(r"\n*" + re.escape(DEBUT) + r".*?" + re.escape(FIN) + r"\n*", re.S)
 LIEN = re.compile(r"\]\(\.\./(" + "|".join(CIBLES) + r")/([^)#\s]+\.md)")
 MAX_TECHNIQUES = 20
+# Chapitres du Manuel qui expliquent chaque famille de fiches.
+M = "Theorie/manuel/"
+CH13 = (M + "partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md",
+        "13. Décrypter un nom de technique")
+CH16 = (M + "partie-4-positions-sogi/16-les-21-positions-en-detail.md",
+        "16. Les 21 positions en détail")
+CH18 = (M + "partie-5-repertoire-technique/18-les-techniques-de-bras.md",
+        "18. Les techniques de bras")
+CH19 = (M + "partie-5-repertoire-technique/19-les-techniques-de-jambes.md",
+        "19. Les techniques de jambes")
+MANUEL = {"sogi": [CH16], "jirugi": [CH18], "makgi": [CH18], "chagi": [CH19]}
 LATERAL = {"wen", "orun"}
 MODIFICATEURS = {"najunde", "kaunde", "nopunde", "bandae", "baro"}
 
@@ -123,6 +136,20 @@ def liste_formes(noms):
     return ", ".join(f"[{nom_forme(RACINE / 'tul' / n)}](../tul/{n})" for n in noms)
 
 
+def ligne_manuel(chapitres):
+    return "* **Dans le Manuel :** " + ", ".join(
+        f"[{texte}](../{chemin})" for chemin, texte in chapitres)
+
+
+def chapitres_technique(nom, geste):
+    """Une technique combinée : la grammaire de son nom (ch. 13), puis le
+    chapitre de son geste, jambes (ch. 19) ou bras (ch. 18)."""
+    ms = mots(nom)
+    jambe = any(g.startswith("chagi/") for g in geste) or any(
+        m.startswith("cha") for m in ms)
+    return [CH13, CH19 if jambe else CH18]
+
+
 def construire():
     cites = formes_citant()
     rang = {n: i for i, n in enumerate(ordre_formes())}
@@ -144,6 +171,7 @@ def construire():
             if fiche_pos:
                 lignes.append(f"* **Position :** {lien(cle, fiche_pos, titres[fiche_pos])}")
         geste = gestes(p.name, bases)
+        lignes.insert(0, ligne_manuel(chapitres_technique(p.name, geste)))
         for g in geste:
             usages[g].append(cle)
         if geste:
@@ -156,7 +184,7 @@ def construire():
     for d in BASES:
         for p in fiches(d):
             cle = f"{d}/{p.name}"
-            lignes = []
+            lignes = [ligne_manuel(MANUEL[d])]
             techniques = sorted(usages.get(cle, []))
             if techniques:
                 montres = techniques[:MAX_TECHNIQUES]
@@ -176,7 +204,7 @@ def construire():
 
     for p in fiches("sogi"):
         cle = f"sogi/{p.name}"
-        lignes = []
+        lignes = [ligne_manuel(MANUEL["sogi"])]
         pos = p.name.lower()[:-len("-sogi.md")] if p.name.lower().endswith("-sogi.md") else None
         if pos and par_position.get(pos):
             lignes.append(f"* **Techniques dans cette position :** "

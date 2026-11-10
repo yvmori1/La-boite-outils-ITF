@@ -61,3 +61,11 @@ Le *Japgo Chagi* est directement illustré dans plusieurs formes officielles de 
 * **Désynchronisation :** Tirer avant de frapper (ce qui donne le temps à l'adversaire de réagir) ou frapper avant de tirer (ce qui annule la force de réaction).
 * **Saisie "molle" :** Laisser glisser la prise au moment de l'impact, faisant perdre tout le bénéfice du transfert de force.
 * **Se faire déséquilibrer :** Tenter de tirer un adversaire beaucoup plus lourd sans gainer la sangle abdominale, ce qui risque de vous faire basculer vers l'avant.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

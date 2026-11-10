@@ -66,3 +66,11 @@ Le terme *Cha Olligi* se décline selon la trajectoire de l'élévation :
 * **Plier le genou pendant la montée :** Transformer l'exercice en un mauvais coup de pied fouetté, ce qui retire tout le bénéfice de l'étirement des ischio-jambiers.
 * **Casser la colonne / Pencher le buste en avant :** Courber le dos pour donner l'illusion que la jambe monte plus haut, ce qui neutralise le travail de la hanche et met une pression inutile sur les vertèbres lombaires.
 * **Taper le sol à la redescente :** Laisser chuter la jambe lourdement au sol au lieu de contrôler la phase descendante.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

@@ -81,6 +81,7 @@ Selon la façon dont la garde de l'adversaire est organisée, l'armement peut em
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Dans les formes :** [Tong-Il](../tul/tong-il.md)
 
 <!-- /fiches-liees -->

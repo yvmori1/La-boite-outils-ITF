@@ -68,3 +68,11 @@ Cette technique s'étudie principalement en travail de ligne ou sur place, notam
 * **Confondre avec un fouetté (*Taerigi*) :** Amener les coudes dans un arc circulaire large au lieu de pousser en ligne droite.
 * **Dissynchronisation :** Impacter à un temps décalé entre le coude gauche et le coude droit, ce qui divise par deux la force de l'onde de choc.
 * **Pencher le buste :** Clincher le haut du corps vers l'avant pour chercher de la portée, ce qui rompt l'alignement de la colonne vertébrale et annule l'ancrage au sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

@@ -68,6 +68,7 @@ Voir aussi : [Wen Kaunde Dwitcha Jirugi](Wen-Kaunde-Dwitcha-Jirugi.md), [Nopunde
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Geste de base :** [Coup de pied arrière tranchant](../chagi/dwit-cha-jirugi.md)
 * **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Ko-Dang](../tul/ko-dang.md), [Ul-Ji](../tul/ul-ji.md), [Tong-Il](../tul/tong-il.md)
 

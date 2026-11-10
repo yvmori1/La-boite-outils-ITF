@@ -73,3 +73,11 @@ Exécuté entièrement en l'air. Le pratiquant prend de l'impulsion et décoche 
 * **Poser le pied au sol :** Toucher le sol entre les deux coups transforme la technique en deux attaques séparées et détruit l'effet de vitesse du double-impact.
 * **Perte d'amplitude sur le second coup :** Ne pas élever suffisamment le genou après la première frappe, ce qui empêche le second coup d'atteindre le niveau haut (*Nopunde*).
 * **Tendre la jambe d'appui :** Rester la jambe d'appui raide au sol empêche le réajustement du bassin et provoque une perte d'équilibre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

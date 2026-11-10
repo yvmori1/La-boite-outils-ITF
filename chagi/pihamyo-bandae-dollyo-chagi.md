@@ -67,3 +67,11 @@ Alors qu'un *Bandae Dollyo Chagi* classique s'exécute souvent en offensive dire
 * **Perdre son centre de gravité :** Trop pencher le buste sans gainer la sangle abdominale (*core*), ce qui provoque une chute vers l'arrière au moment de l'impact.
 * **Esquiver trop tôt :** Si vous faites l'esquive avant que l'adversaire ne s'engage, il interrompra son attaque et verra venir votre rotation.
 * **Jambe tendue dès le départ :** Balayer avec la jambe complètement rigide depuis le sol au lieu de faire monter le genou armé réduit considérablement la vitesse de rotation.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

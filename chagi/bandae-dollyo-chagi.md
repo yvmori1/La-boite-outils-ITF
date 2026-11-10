@@ -79,6 +79,7 @@ Cette technique majeure figure dans plusieurs formes officielles de l'ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Kaunde Bandae Dollyo Chagi](../Techniques/Kaunde-Bandae-Dollyo-Chagi.md), [Nopunde Bandae Dollyo Chagi](../Techniques/Nopunde-Bandae-Dollyo-Chagi.md)
 * **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Moon-Moo](../tul/moon-moo.md)
 

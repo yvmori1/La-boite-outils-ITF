@@ -77,3 +77,11 @@ On retrouve cette mécanique dans les formes officielles de l'ITF :
 * **Hauteur de saut insuffisante :** Tenter la frappe sans élever le bassin, empêchant l'extension complète des deux jambes.
 * **Oublier le réarmement avant la réception :** Laisser tomber les jambes tendues vers le sol, risquant de graves traumatismes aux articulations des genoux et des chevilles à la réception.
 * **Perte du gainage dorsal :** Se voûter complètement en l'air lors de l'extension des jambes, ce qui annule la force d'impact.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

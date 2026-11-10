@@ -66,3 +66,11 @@ Sa décomposition linguistique est la suivante :
 * **Arrondir la trajectoire (*Over-swing*) :** Faire un grand moulinet circulaire au lieu d'enfoncer le coude en ligne droite vers le bas.
 * **Pencher le buste en avant :** Casser la colonne vertébrale pour aller chercher la cible au lieu de fléchir les genoux en gardant le dos droit.
 * **Oublier le rôle de la main de réaction :** Laisser flotter le bras opposé au lieu de le ramener à la hanche ou de contrôler l'agresseur.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

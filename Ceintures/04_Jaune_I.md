@@ -2,6 +2,16 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/04-7e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#7e-gup--ceinture-jaune-barre-verte--fiche) · [combats arrangés](Combats-arranges/03_7e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#7e-gup-barre-verte-vers-6e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [6. La théorie de la puissance (Him Ui Wolli)](../Theorie/manuel/partie-2-principes-physiques/06-la-theorie-de-la-puissance-him-ui-wolli.md)
+* [ ] [10. Les briques de la formule](../Theorie/manuel/partie-3-grammaire-des-techniques/10-les-briques-de-la-formule.md)
+* [ ] [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /parcours -->
+
 Ceinture Jaune I / Barre Verte (7e Gup)
 
 * **Effort d'entraînement minimal requis :** 45 heures d'entraînement minimales.

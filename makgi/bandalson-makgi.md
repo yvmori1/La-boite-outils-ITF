@@ -69,3 +69,11 @@ La main en arc (*Bandalson*) est introduite très tôt dans le cursus, mais son 
 * **Pouce relâché ou trop ouvert :** Un pouce mou ou trop écarté risque de se retourner et de se casser lors du blocage d'un coup puissant.
 * **Main immobile / passive :** Tendre la main en attendant l'attaque au lieu d'impacter et de dévier le membre adverse avec le mouvement de vague (*Sine Wave*).
 * **Doigts écartés :** Écarter les quatre autres doigts, ce qui fragilise la structure globale de la main.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

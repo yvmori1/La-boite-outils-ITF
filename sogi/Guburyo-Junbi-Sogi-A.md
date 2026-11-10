@@ -78,6 +78,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Choong-Moo](../tul/choong-moo.md), [Ge-Baek](../tul/ge-baek.md), [Choi-Yong](../tul/choi-yong.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
 
 <!-- /fiches-liees -->

@@ -63,3 +63,11 @@ L'exécution complète de l'Ap Chagi se divise en quatre phases distinctes et fl
 * **Coup « poussé » au lieu de fouetté :** Laisser la jambe tendue sur la cible au lieu de la ramener vivement.
 * **Genou trop bas à l'armement :** Si le genou ne monte pas assez haut avant l'extension, le coup manque de hauteur, de portée et de puissance.
 * **Pencher le buste trop en arrière :** Cela détruit l'équilibre, réduit la portée effective du coup et expose le visage aux contre-attaques.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

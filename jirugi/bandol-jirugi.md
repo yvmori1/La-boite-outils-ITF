@@ -79,3 +79,11 @@ Le *Bandal Jirugi* est une technique avancée que l'on retrouve dans les formes 
 * **Frapper "bras tendu" :** Tendre le coude à 180° en fin de course, ce qui détruit la forme en demi-lune (*Bandal*) et risque d'endommager l'articulation du coude.
 * **Oublier la rotation du poignet :** Arriver paume vers le haut ou sur le côté au lieu d'achever la rotation complète du poing paume vers le sol.
 * **Absence d'engagement de la hanche :** Frapper uniquement avec la force de l'épaule sans accompagner le mouvement de la demi-lune par la rotation du bassin.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

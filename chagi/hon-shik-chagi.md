@@ -67,3 +67,11 @@ Prenons l'exemple d'un **Hon Shik Chagi** très classique : **Ap Chagi** (avant)
 * **Ne pas réajuster le pied d'appui :** Conserver la même position du pied d'appui entre les deux coups bloque la hanche lors du passage d'une technique linéaire à une technique circulaire (risque de blessure au genou d'appui).
 * **Bâcler le premier coup :** Lancer le premier coup de pied à moitié uniquement pour "préparer" le second. Chaque technique du *Hon Shik Chagi* doit être exécutée avec une intention réelle de frappe.
 * **Supprimer le réarmement :** Transformer l'enchaînement en un balancement continu de la jambe sans fléchir le genou entre les deux coups, ce qui détruit la puissance et la vitesse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

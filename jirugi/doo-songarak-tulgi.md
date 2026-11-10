@@ -83,6 +83,7 @@ La pique à deux doigts est introduite à un niveau avancé du programme :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Doo Songarak Nopunde Bandae Tulgi](../Techniques/Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.md)
 * **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
 

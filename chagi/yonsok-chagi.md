@@ -80,3 +80,11 @@ Le *Yonsok Chagi* peut être exécuté de deux manières principales :
 * **Affaissement de la jambe d'appui :** Tendre complètement la jambe au sol, ce qui bloque le pivot du bassin et fait perdre l'équilibre.
 * **Buste trop incliné :** Laisser tomber le haut du corps vers l'arrière pour compenser le poids de la jambe, ce qui détruit la structure et rend le retrait impossible.
 * **Manque de micro-pivot au sol :** Ne pas adapter l'orientation du pied d'appui entre deux coups de nature différente (risque de torsion du genou d'appui).
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

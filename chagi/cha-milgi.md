@@ -66,3 +66,11 @@ On retrouve cette technique dans les formes (*Tul*) avancées de l'ITF :
 * **Armer le genou trop bas :** Ne pas lever suffisamment le genou, ce qui donne une poussée ascendante qui glisse sur la poitrine de l'adversaire au lieu de le projeter vers l'arrière.
 * **S'incliner trop en arrière :** Pencher le buste loin vers l'arrière pour essayer d'allonger la jambe, ce qui détruit le transfert de poids vers l'avant et annule la force de poussée.
 * **Frapper du bout des orteils :** Ne pas fléchir la cheville pour exposer la plante du pied (*Balbadak*), risquant de se blesser les orteils sur le torse de l'adversaire.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

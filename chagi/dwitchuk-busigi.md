@@ -62,3 +62,11 @@ Pour bien le maîtriser, il faut comprendre la différence fondamentale entre le
 * **Écarter le genou sur le côté :** Ne pas garder les genoux serrés à l'armement dévie la trajectoire et transforme la frappe en coup circulaire.
 * **Frapper à l'aveugle :** Ne pas tourner la tête par-dessus l'épaule avant de déclencher la jambe.
 * **Oublier le réarmement :** Laisser tomber la jambe lourdement après la frappe au lieu de la ramener vivement vers la fesse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

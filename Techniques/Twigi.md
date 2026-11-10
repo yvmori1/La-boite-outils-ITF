@@ -65,6 +65,7 @@ Pour réussir un saut efficace et sécurisé en TaeKwon-Do, quatre phases doiven
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Ge-Baek](../tul/ge-baek.md), [Ul-Ji](../tul/ul-ji.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md)
 
 <!-- /fiches-liees -->
