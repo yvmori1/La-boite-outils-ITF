@@ -3,7 +3,7 @@
 Pour chaque forme : le nombre de mouvements, le tracé au sol, la signification
 du nom, et le contexte historique ou politique dont elle est issue.
 
-## 24.1 Chon-Ji (10e Gup à 9e Gup)
+## 24.1 Chon-Ji (9e Gup à 8e Gup)
 
 * **Mouvements :** 19.
 * **Diagramme :** Croix ($+$) représentant le Ciel et la Terre, et l'assemblage des quatre forces cosmiques : la terre, l'eau, le feu et le ciel.
@@ -15,7 +15,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/chon-ji.md](../../../tul/chon-ji.md).
 
-## 24.2 Dan-Gun (9e Gup à 8e Gup)
+## 24.2 Dan-Gun (8e Gup à 7e Gup)
 
 * **Mouvements :** 21.
 * **Diagramme :** La lettre capitale $I$ (représentant le concept de « l'étudiant » ou de l'ancrage fondateur).
@@ -26,7 +26,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/dan-gun.md](../../../tul/dan-gun.md).
 
-## 24.3 Do-San (8e Gup à 7e Gup)
+## 24.3 Do-San (7e Gup à 6e Gup)
 
 * **Mouvements :** 24.
 * **Diagramme :** Une marche d'escalier en zigzag (symbolisant la « voie » ou l'ascension par l'éducation).
@@ -37,7 +37,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/do-san.md](../../../tul/do-san.md).
 
-## 24.4 Won-Hyo (7e Gup à 6e Gup)
+## 24.4 Won-Hyo (6e Gup à 5e Gup)
 
 * **Mouvements :** 28.
 * **Diagramme :** La lettre capitale $I$ (symbole de l'étudiant).
@@ -48,7 +48,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/won-hyo.md](../../../tul/won-hyo.md).
 
-## 24.5 Yul-Gok (6e Gup à 5e Gup)
+## 24.5 Yul-Gok (5e Gup à 4e Gup)
 
 * **Mouvements :** 38.
 * **Diagramme :** Le caractère chinois représentant l'« Érudit » / le « Lettré ».
@@ -59,7 +59,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/yul-gok.md](../../../tul/yul-gok.md).
 
-## 24.6 Joong-Gun (5e Gup à 4e Gup)
+## 24.6 Joong-Gun (4e Gup à 3e Gup)
 
 * **Mouvements :** 32.
 * **Diagramme :** La lettre capitale $I$.
@@ -70,7 +70,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/joong-gun.md](../../../tul/joong-gun.md).
 
-## 24.7 Toi-Gye (4e Gup à 3e Gup)
+## 24.7 Toi-Gye (3e Gup à 2e Gup)
 
 * **Mouvements :** 37.
 * **Diagramme :** Le caractère de l'« Érudit » / le « Lettré ».
@@ -81,7 +81,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/toi-gye.md](../../../tul/toi-gye.md).
 
-## 24.8 Hwa-Rang (3e Gup à 2e Gup)
+## 24.8 Hwa-Rang (2e Gup à 1er Gup)
 
 * **Mouvements :** 29.
 * **Diagramme :** La lettre capitale $I$ (symbole de l'étudiant).
@@ -92,7 +92,7 @@ du nom, et le contexte historique ou politique dont elle est issue.
 
 > Exécution mouvement par mouvement : [../tul/hwa-rang.md](../../../tul/hwa-rang.md).
 
-## 24.9 Choong-Moo (2e Gup à 1er Gup)
+## 24.9 Choong-Moo (1er Gup à 1er Dan)
 
 * **Mouvements :** 30.
 * **Diagramme :** La lettre capitale $I$.
