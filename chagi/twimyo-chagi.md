@@ -80,3 +80,11 @@ Le prefixe *Twimyo* s'applique à presque toutes les techniques de base :
 * **Jambe passive qui pend :** Laisser la jambe qui ne frappe pas pendre vers le bas, ce qui abaisse le centre de gravité, ralentit le saut et détruit l'équilibre en l'air.
 * **Oublier le réarmement aérien :** Laisser la jambe tendue lors de la redescente, ce qui provoque un atterrissage désordonné et dangereux pour les chevilles et genoux.
 * **Réception les genoux verrouillés (raides) :** Risque majeur de blessure grave aux articulations lors de l'impact avec le sol.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

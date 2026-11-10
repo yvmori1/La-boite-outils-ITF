@@ -90,6 +90,7 @@ C'est la technique d'attaque reine du programme des gradations :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
 * **Dans les formes :** [Saju Jirugi](../tul/saju-jirugi.md), [Chon-Ji](../tul/chon-ji.md), [Do-San](../tul/do-san.md), [Yul-Gok](../tul/yul-gok.md), [Toi-Gye](../tul/toi-gye.md), [Hwa-Rang](../tul/hwa-rang.md), [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Choong-Jang](../tul/choong-jang.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md), [Choi-Yong](../tul/choi-yong.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
 

@@ -70,6 +70,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Geste de base :** [Coup de pied vertical / dressé (Sewo Chagi)](../chagi/sewo-chagi.md)
 * **Dans les formes :** [Tong-Il](../tul/tong-il.md)
 

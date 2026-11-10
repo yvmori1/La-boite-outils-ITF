@@ -78,6 +78,7 @@ Les blocages latéraux sont essentiels dans la géométrie des *Tul* ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [An Palmok Kaunde Yop Makgi](../Techniques/An-Palmok-Kaunde-Yop-Makgi.md), [Annun So Orun Sonkal Najunde Yop Makgi](../Techniques/Annun-So-Orun-Sonkal-Najunde-Yop-Makgi.md), [Annun So Wen Sonkal Najunde Yop Makgi](../Techniques/Annun-So-Wen-Sonkal-Najunde-Yop-Makgi.md), [Gunnun So An Palmok Kaunde Yop Makgi](../Techniques/Gunnun-So-An-Palmok-Kaunde-Yop-Makgi.md), [Gunnun So Sonkal Dung Kaunde Bandae Yop Makgi](../Techniques/Gunnun-So-Sonkal-Dung-Kaunde-Bandae-Yop-Makgi.md), [Niunja So An Palmok Kaunde Yop Makgi](../Techniques/Niunja-So-An-Palmok-Kaunde-Yop-Makgi.md), [Niunja So Palmok Najunde Yop Makgi](../Techniques/Niunja-So-Palmok-Najunde-Yop-Makgi.md)
 * **Dans les formes :** [Saju Makgi](../tul/saju-makgi.md), [Chon-Ji](../tul/chon-ji.md), [Yul-Gok](../tul/yul-gok.md), [Choong-Moo](../tul/choong-moo.md), [Ko-Dang](../tul/ko-dang.md), [Yoo-Sin](../tul/yoo-sin.md), [Moon-Moo](../tul/moon-moo.md), [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
 

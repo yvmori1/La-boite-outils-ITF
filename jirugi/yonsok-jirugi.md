@@ -88,3 +88,11 @@ On retrouve les enchaînements consécutifs de coups de poing dans de nombreuses
 * **Bloquer sa respiration :** Retenir son souffle pendant toute la série au lieu de délivrer une expiration brève et rythmée par frappe.
 * **Supprimer le mouvement de vague sur le deuxième coup :** Rester rigide ou "plat" lors de la deuxième frappe au lieu de maintenir une micro-ondulation fluide du corps.
 * **Négliger le bras de réaction :** Oublier de ramener le premier poing à la hanche lors du lancement du second, laissant le haut du corps découvert.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

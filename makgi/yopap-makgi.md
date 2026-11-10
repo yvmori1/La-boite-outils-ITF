@@ -75,3 +75,11 @@ On retrouve des trajectoires obliques *Yobap* / *Yopap* dans les formes intermé
 * **Regard mal aligné :** Fixer devant soi au lieu d'orienter le regard et le menton vers la ligne d'attaque à 45°.
 * **Verrouiller le coude :** Tendre complètement le bras à 180°, ce qui fragilise l'articulation en cas d'impact lourd.
 * **Absence de rotation (*Snap*) :** Amener le bras sans faire pivoter le poignet au dernier moment pour verrouiller le blocage.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

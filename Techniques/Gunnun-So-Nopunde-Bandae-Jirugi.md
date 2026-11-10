@@ -80,6 +80,7 @@ Voir aussi : [Gunnun So Nopunde Jirugi](Gunnun-So-Nopunde-Jirugi.md), [Gunnun So
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
 

@@ -74,3 +74,11 @@ Cette technique double de paume apparaît dans plusieurs formes clés du program
 * **Pouces décollés :** Ne pas plaquer les pouces contre la paume, les exposant à une luxation en cas d'accrochage avec le membre adverse.
 * **Bras complètement tendus :** Verrouiller les coudes à 180°, ce qui détruit la capacité d'absorption de la paume et transmet le choc directement dans les épaules.
 * **Désynchronisation :** Faire arriver une paume avant l'autre au lieu d'obtenir un arrêt strictement simultané des deux mains.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

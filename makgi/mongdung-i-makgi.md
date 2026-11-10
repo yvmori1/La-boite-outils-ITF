@@ -67,3 +67,11 @@ Bloquer un bâton nécessite une mécanique spécifique pour ne pas subir la for
 * **Reculer ou hésiter :** Reculer place le pratiquant exactement dans la zone d'impact maximale de la pointe du bâton.
 * **Bloquer le bâton au lieu du bras :** Opposer son avant-bras directement contre la pièce de bois/métal au lieu d'intercepter le poignet de l'agresseur.
 * **Absence de contrôle après le blocage :** Bloquer puis retirer son bras, ce qui permet à l'agresseur de réarmer immédiatement un deuxième coup de bâton.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

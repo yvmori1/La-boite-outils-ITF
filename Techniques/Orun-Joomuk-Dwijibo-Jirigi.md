@@ -54,3 +54,11 @@ Contrairement au coup de poing direct classique où le poing pivote pour finir p
 * **Hauteur de cible incorrecte :** Viser le visage (*Nopunde*) avec cette technique, alors qu'elle est conçue pour s'infiltrer au niveau du buste (*Kaunde*) ou du bas-ventre (*Najunde*).
 
 > **Point clé :** La spécificité du *Orun Joomuk Dwijibo Jirigi* réside dans son poing final **paume vers le haut**, qui permet d'infiltrer la garde de l'adversaire à courte distance en propulsant la masse corporelle par la descente de la vague.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

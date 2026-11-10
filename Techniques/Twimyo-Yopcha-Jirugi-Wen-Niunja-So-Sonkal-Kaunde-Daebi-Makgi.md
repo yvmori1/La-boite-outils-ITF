@@ -55,6 +55,7 @@ Cette séquence dynamique combine un **coup de pied latéral perçant sauté** a
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
 * **Geste de base :** [Coup de pied latéral perçant sauté (Twimyo Yopcha Jirugi)](../chagi/twimyo-yopcha-jirugi.md), [Blocage de garde du tranchant de la main (Sonkal Daebi Makgi)](../makgi/sonkal-daebi-makgi.md)
 * **Dans les formes :** [Choong-Moo](../tul/choong-moo.md)

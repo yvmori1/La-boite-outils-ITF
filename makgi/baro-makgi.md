@@ -79,6 +79,7 @@ Les blocages *Baro* sont omniprésents dès le début de l'apprentissage :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gojung So Sonkal Kaunde Bakuro Baro Makgi Wa Sonbadak Kaunde Bandae Miro Makgi](../Techniques/Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.md)
 * **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
 

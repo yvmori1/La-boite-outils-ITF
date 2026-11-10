@@ -64,6 +64,7 @@ Le *Dwit Cha Jirugi* tire sa force exceptionnelle du verrouillage des fessiers, 
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Kaunde Dwitcha Jirugi](../Techniques/Kaunde-Dwitcha-Jirugi.md), [Nopunde Dwitcha Jirugi](../Techniques/Nopunde-Dwitcha-Jirugi.md), [Wen Kaunde Dwitcha Jirugi](../Techniques/Wen-Kaunde-Dwitcha-Jirugi.md)
 * **Dans les formes :** [Choong-Moo](../tul/choong-moo.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md), [Ul-Ji](../tul/ul-ji.md), [Moon-Moo](../tul/moon-moo.md), [Tong-Il](../tul/tong-il.md)
 

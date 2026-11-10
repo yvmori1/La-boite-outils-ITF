@@ -80,3 +80,11 @@ En l'absence d'appui direct au sol au moment de l'impact, la puissance du *Twimy
 * **Bloquer la respiration :** Rester en apnée durant toute la phase de vol au lieu d'émettre deux expirations courtes et séquencées.
 * **Ne pas ramener le premier bras :** Laisser le premier poing flotter devant soi au lieu de le ramener fermement à la hanche pour alimenter la force de réaction du second coup.
 * **Atterrir les jambes tendues :** Risquer une entorse ou un traumatisme articulaire lors du contact avec le sol par manque d'amorti.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

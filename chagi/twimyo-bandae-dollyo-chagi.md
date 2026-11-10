@@ -67,3 +67,11 @@ C'est l'une des techniques aériennes les plus spectaculaires et dévastatrices 
 * **Frapper dans la phase de redescente :** Déployer la jambe trop tard (après l'*Apex*), ce qui détruit la trajectoire horizontale et écrase la puissance du coup.
 * **Jambe passive qui pend :** Ne pas replier la jambe d'appui sous soi en l'air, ce qui freine la vitesse de rotation et abaisse la hauteur du saut.
 * **Chute à l'atterrissage :** Ne pas fléchir les genoux à la réception ou perdre l'alignement du buste, entraînant un déséquilibre ou une blessure aux chevilles.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

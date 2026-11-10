@@ -81,6 +81,7 @@ On retrouve cette technique clé dans plusieurs formes officielles de l'ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Moorup Najunde Apcha Busigi](../Techniques/Moorup-Najunde-Apcha-Busigi.md)
 * **Dans les formes :** [Choong-Jang](../tul/choong-jang.md)
 

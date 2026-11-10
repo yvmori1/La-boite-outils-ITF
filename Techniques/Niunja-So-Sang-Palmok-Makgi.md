@@ -93,6 +93,7 @@ C'est l'un des blocages doubles les plus fondamentaux du programme ITF :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
 * **Geste de base :** [Blocage double des avant-bras (Sang Palmok Makgi)](../makgi/sang-palmok-makgi.md)
 * **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Won-Hyo](../tul/won-hyo.md), [Hwa-Rang](../tul/hwa-rang.md), [Se-Jong](../tul/se-jong.md)

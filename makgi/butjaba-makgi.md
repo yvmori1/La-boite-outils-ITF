@@ -65,3 +65,11 @@ Cette technique de contrôle est introduite dans les formes intermédiaires et a
 * **Chercher à saisir à l'aveugle :** Vouloir attraper le membre avec les doigts déjà ouverts/tendus au lieu de bloquer/intercepter d'abord avec la paume, ce qui fait risquer des fractures aux doigts si le coup est lourd.
 * **Absence de traction du corps :** Compter uniquement sur la force du bras pour retenir l'adversaire au lieu d'engager le bassin et la rotation du buste vers l'arrière.
 * **Saisie molle :** Ne pas gainer le poignet et la main au moment de la fermeture des doigts, ce qui permet à l'adversaire de se dégager facilement par simple rotation du membre.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

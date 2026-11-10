@@ -71,3 +71,11 @@ Cette technique est enseignée dans les formes (*Tul*) avancées du programme IT
 * **Ne pas pivoter le pied d'appui :** Bloquer le talon au sol, ce qui restreint l'ouverture de la hanche et risque de tordre le genou d'appui.
 * **Le balancement du buste :** Pencher exagérément le haut du corps du côté opposé pour compenser le manque de souplesse de hanche.
 * **Cheville molle :** Ne pas verrouiller le pied en *Balkal* à l'impact, risquant un traumatisme lors du contact avec la garde adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

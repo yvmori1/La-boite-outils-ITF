@@ -55,3 +55,11 @@ Cette technique canalise toute la force de poussée du corps à travers une surf
 * **Pouce décollé :** Laisser le pouce libre sur le côté de la main au lieu de le plaquer fermement contre la paume.
 
 > **Point clé :** La précision du **Opun Sonkut Tulgi** repose sur la tenue rigide des doigts (majeur ajusté) et l'orientation **paume vers le sol**, permettant à la pique de glisser horizontalement à travers la garde adverse.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->

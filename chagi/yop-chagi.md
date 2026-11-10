@@ -68,3 +68,11 @@ Le *Yop Chagi* repose sur une trajectoire rectiligne (effet de piston) poussée 
 * **Absence de réarmement :** Laisser tomber la jambe tendue directement après le coup, ce qui laisse le pratiquant à la merci d'une balayette ou d'une saisie.
 
 > **Point clé :** La puissance du **Yop Chagi** provient de l'alignement rectiligne parfait du buste, de la hanche et du **tranchant du pied (*Balkal*)**, propulsés par le pivot à 180° du talon d'appui.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

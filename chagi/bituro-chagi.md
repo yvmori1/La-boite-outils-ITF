@@ -77,6 +77,7 @@ On retrouve cette technique élaborée dans les formes de niveau avancé (*Black
 
 ## Fiches liées
 
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
 * **Techniques complètes :** [Kaunde Bituro Chagi](../Techniques/Kaunde-Bituro-Chagi.md), [Najunde Bituro Chagi](../Techniques/Najunde-Bituro-Chagi.md), [Nopunde Bituro Chagi](../Techniques/Nopunde-Bituro-Chagi.md), [Yop Bituro Chagi](../Techniques/Yop-Bituro-Chagi.md)
 * **Dans les formes :** [Ge-Baek](../tul/ge-baek.md), [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Sam-Il](../tul/sam-il.md), [Moon-Moo](../tul/moon-moo.md)
 

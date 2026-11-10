@@ -71,6 +71,7 @@ Le *Naeryo Taerigi* définit une dynamique de frappe descendante qui s'applique 
 
 ## Fiches liées
 
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Techniques complètes :** [Gunnun So Sonkal Bandae Ap Naeryo Taerigi](../Techniques/Gunnun-So-Sonkal-Bandae-Ap-Naeryo-Taerigi.md), [Moa So Orun Yop Joomuk Naeryo Taerigi](../Techniques/Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.md), [Moa So Wen Yop Joomuk Naeryo Taerigi](../Techniques/Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.md), [Niunja So Dung Joomuk Bandae Naeryo Taerigi](../Techniques/Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.md), [Niunja So Sondung Bandae Naeryo Taerigi](../Techniques/Niunja-So-Sondung-Bandae-Naeryo-Taerigi.md), [Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi](../Techniques/Orun-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md), [Soojik So Sonkal Bandae Naeryo Taerigi](../Techniques/Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md), [Soojik So Yop Joomuk Bandae Naeryo Taerigi](../Techniques/Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.md), [Wen Kyocha So Dung Joomuk Baro Naeryo Taerigi](../Techniques/Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md)
 * **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md), [Kwang-Gae](../tul/kwang-gae.md), [Choong-Jang](../tul/choong-jang.md), [Juche](../tul/juche.md), [Yoo-Sin](../tul/yoo-sin.md), [Yon-Gae](../tul/yon-gae.md), [Tong-Il](../tul/tong-il.md)
 

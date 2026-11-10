@@ -61,3 +61,11 @@ Cette technique se distingue par la position de la jambe et de la surface de fra
 * **Pied incliné (non plat) :** Frapper avec la tranche ou la pointe du pied inclinée au lieu de maintenir la plante du pied parallèle au sol.
 * **Manque de gainage du buste :** Laisser pencher le haut du corps de manière incontrôlée vers l'arrière pour compenser le poids de la jambe à l'horizontale.
 * **Oublier le réarmement :** Laisser tomber la jambe directement vers le sol après l'impact au lieu de la ramener en position fléchie.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

@@ -99,6 +99,7 @@ On retrouve cette frappe dans plusieurs formes du programme des gradations :
 
 ## Fiches liées
 
+* **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
 * **Dans les formes :** [Dan-Gun](../tul/dan-gun.md), [Kwang-Gae](../tul/kwang-gae.md), [Eui-Am](../tul/eui-am.md), [Sam-Il](../tul/sam-il.md), [Moon-Moo](../tul/moon-moo.md), [So-San](../tul/so-san.md), [Se-Jong](../tul/se-jong.md), [Tong-Il](../tul/tong-il.md)
 

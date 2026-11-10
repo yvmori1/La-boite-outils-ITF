@@ -63,3 +63,11 @@ Cette technique combine un saut en suspension avec une vrille précise du corps 
 * **Perte de gainage du tronc :** Relâcher les abdominaux en l'air, ce qui fait dévier la trajectoire de la pique au moment de l'impact.
 * **Déclencher la pique trop tôt ou trop tard :** Ne pas frapper à l'*Apex* du saut, annulant le transfert de masse en suspension.
 * **Oublier le réarmement :** Laisser la jambe tomber tendue vers le sol après la frappe, risquant un atterrissage déséquilibré.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [19. Les techniques de jambes](../Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md)
+
+<!-- /fiches-liees -->

@@ -85,3 +85,11 @@ C'est l'une des frappes les plus récurrentes dans le programme ITF :
 * **Percuter avec le méplat des phalanges :** Frapper avec la partie platte du dos de la main au lieu du sommet des deux grosses jointures (*Ap Joomuk*), ce qui disperse l'énergie d'impact.
 * **Poignet cassé à l'impact :** Laisser le poignet fléchir vers le bas ou le haut au moment du contact, risquant une entorse du poignet.
 * **Hyperextension du coude :** Tendre le bras à 180° au bout du mouvement, ce qui blesse l'articulation du coude.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Dans le Manuel :** [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+
+<!-- /fiches-liees -->
