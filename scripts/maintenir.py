@@ -92,9 +92,12 @@ def compteurs(ecrire):
         m = motif.match(l)
         if not m:
             continue
-        reel = compte_reel(m.group(2))
+        # le lien peut viser un sous-dossier (Theorie/manuel/README.md) :
+        # on compte le dossier de premier niveau, comme verifier.py
+        dossier = m.group(2).split("/")[0]
+        reel = compte_reel(dossier)
         if reel is not None and reel != int(m.group(3)):
-            corriges.append(f"{m.group(2)} : {m.group(3)} -> {reel}")
+            corriges.append(f"{dossier} : {m.group(3)} -> {reel}")
             lignes[i] = f"{m.group(1)}{reel}{m.group(4)}"
     if corriges and ecrire:
         fichier.write_text("\n".join(lignes) + "\n", encoding="utf-8")

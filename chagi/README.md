@@ -30,6 +30,7 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 | Fiche | Technique |
 | :--- | :--- |
 | [dollyo-chagi.md](dollyo-chagi.md) | Coup de pied circulaire |
+| [golcho-chagi.md](golcho-chagi.md) | Coup de pied crocheté |
 | [bandal-chagi.md](bandal-chagi.md) | Coup de pied semi-circulaire |
 | [bandae-dollyo-chagi.md](bandae-dollyo-chagi.md) | Coup de pied circulaire inversé |
 | [dollyo-goro-chagi.md](dollyo-goro-chagi.md) | Coup de pied crocheté |
@@ -80,6 +81,7 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 | Fiche | Technique |
 | :--- | :--- |
 | [twimyo-chagi.md](twimyo-chagi.md) | Coup de pied sauté |
+| [twimyo-dollyo-chagi.md](twimyo-dollyo-chagi.md) | Coup de pied circulaire sauté |
 | [twimyo-hopi-chagi.md](twimyo-hopi-chagi.md) | Coup de pied sauté avec bond |
 | [twimyo-bandae-dollyo-chagi.md](twimyo-bandae-dollyo-chagi.md) | Coup de pied circulaire inversé sauté |
 | [twimyo-yopcha-jirugi.md](twimyo-yopcha-jirugi.md) | Coup de pied latéral perçant sauté |

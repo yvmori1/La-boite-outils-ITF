@@ -87,6 +87,7 @@ Voir aussi : [Sun Sonkut Kaunde Tulgi](Sun-Sonkut-Kaunde-Tulgi.md).
 
 * **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Pique verticale du bout des doigts (Sun Sonkut Tulgi)](../jirugi/sun-sonkut-tulgi.md)
 * **Dans les formes :** [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
 
 <!-- /fiches-liees -->

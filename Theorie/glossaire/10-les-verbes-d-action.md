@@ -18,7 +18,7 @@ Le dernier mot d'un nom de technique dit **comment** elle agit. Exemples de déc
 | **Nullo** | [눌러](../../audio/grammaire/Nullo.m4a) | En pressant | Écrasement vers le bas (Nullo Makgi, Yop Nullo Chagi). |
 | **Miro** | [밀어](../../audio/termes/miro.m4a) | En poussant | Blocage qui repousse le bras adverse. |
 | **Golcho** | [걸쳐](../../audio/termes/golcho.m4a) | En accrochant | Blocage crocheté de la paume. |
-| **Goro** | [걸어](../../audio/grammaire/Goro.m4a) | En crochetant | Goro Chagi, coup de pied crocheté. |
+| **Goro** | [걸어](../../audio/grammaire/Goro.m4a) | En crochetant | Dollyo Goro Chagi, coup de pied crocheté tournant. |
 | **Hechyo** | [헤쳐](../../audio/termes/hechyo.m4a) | En écartant | Double blocage qui ouvre les deux bras vers l'extérieur. |
 | **Momchau** | [멈춰](../../audio/termes/momchau.m4a) | En arrêtant | Blocage d'arrêt. |
 | **Chookyo** | [추켜](../../audio/termes/chookyo.m4a) | En soulevant | Blocage montant qui soulève l'attaque. |

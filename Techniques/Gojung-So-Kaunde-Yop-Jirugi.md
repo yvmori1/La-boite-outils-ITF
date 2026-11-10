@@ -75,6 +75,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
+* **Geste de base :** [Coup de poing latéral (Yop Jirugi)](../jirugi/yop-jirugi.md)
 * **Dans les formes :** [Won-Hyo](../tul/won-hyo.md), [Hwa-Rang](../tul/hwa-rang.md), [Choi-Yong](../tul/choi-yong.md)
 
 <!-- /fiches-liees -->

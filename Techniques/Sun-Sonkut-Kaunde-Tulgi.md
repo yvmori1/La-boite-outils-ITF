@@ -80,5 +80,6 @@ C'est une technique majeure du programme intermédiaire :
 ## Fiches liées
 
 * **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
+* **Geste de base :** [Pique verticale du bout des doigts (Sun Sonkut Tulgi)](../jirugi/sun-sonkut-tulgi.md)
 
 <!-- /fiches-liees -->

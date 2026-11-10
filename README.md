@@ -41,12 +41,12 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 | [Requis Examen](Ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
 | [tul](tul/README.md) | Les formes (Tul) et exercices fondamentaux, mouvement par mouvement | 28 |
 | [sogi](sogi/README.md) | Les positions d'appui et de préparation — [서기](audio/termes/sogi.m4a) | 17 |
-| [chagi](chagi/README.md) | Les coups de pied — [차기](audio/termes/chagi.m4a) | 48 |
-| [makgi](makgi/README.md) | Les blocages — [막기](audio/termes/makgi.m4a) | 44 |
-| [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — [지르기](audio/grammaire/Jirugi.m4a) | 21 |
+| [chagi](chagi/README.md) | Les coups de pied — [차기](audio/termes/chagi.m4a) | 50 |
+| [makgi](makgi/README.md) | Les blocages — [막기](audio/termes/makgi.m4a) | 46 |
+| [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — [지르기](audio/grammaire/Jirugi.m4a) | 34 |
 | [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 333 |
 | [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 8 |
-| [Theorie](Theorie/manuel/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 5 |
+| [Theorie](Theorie/manuel/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 6 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 29 |
 
 ---

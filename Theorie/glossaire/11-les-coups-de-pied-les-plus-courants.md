@@ -10,7 +10,7 @@ Le répertoire complet se trouve dans [les fiches de coups de pied](../../chagi/
 | **Dwit Chagi** | [뒤차기](../../audio/grammaire/Dwit-Chagi.m4a) | Coup de pied arrière | Frappe rectiligne vers l'arrière avec le talon. |
 | **Bandae Dollyo Chagi** | [반대 돌려차기](../../audio/grammaire/Bandae-Dollyo-Chagi.m4a) | Coup de pied circulaire inversé | Circulaire tourné par le dos, impact du talon. |
 | **Naeryo Chagi** | [내려차기](../../audio/chagi/naeryo-chagi.m4a) | Coup de pied descendant | Le talon tombe de haut en bas. |
-| **Goro Chagi** | [걸어차기](../../audio/grammaire/Goro-Chagi.m4a) | Coup de pied crocheté | La jambe dépasse la cible puis revient en crochet. |
+| **Golcho Chagi** | [걸쳐차기](../../audio/termes/golcho-chagi.m4a) | Coup de pied crocheté | Le côté du cou-de-pied accroche le membre qui attaque, en courbe vers l'extérieur. |
 | **Sewo Chagi** | [세워차기](../../audio/chagi/sewo-chagi.m4a) | Coup de pied vertical | Jambe tendue en arc, vers l'intérieur (Anuro) ou l'extérieur (Bakuro). |
 | **Bandal Chagi** | [반달차기](../../audio/chagi/bandal-chagi.m4a) | Coup de pied en croissant | Trajectoire en demi-lune. |
 | **Bituro Chagi** | [비틀어차기](../../audio/grammaire/Bituro-Chagi.m4a) | Coup de pied vrillé | Départ de face, ouverture en torsion à l'impact. |

@@ -75,7 +75,7 @@ Sa décomposition linguistique est la suivante :
 
 * **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
-* **Geste de base :** [Blocage descendant (Naeryo Makgi)](../makgi/naeryo-makgi.md)
+* **Geste de base :** [Blocage descendant de la paume (Sonbadak Naeryo Makgi)](../makgi/sonbadak-naeryo-makgi.md)
 * **Dans les formes :** [Eui-Am](../tul/eui-am.md)
 
 <!-- /fiches-liees -->
