@@ -68,7 +68,7 @@
 * **Opo chagi ([어포차기](../audio/chagi/opo-chagi.m4a)) :** Coup de pied horizontal / à plat.
 * **Sewo chagi ([세워차기](../audio/chagi/sewo-chagi.m4a)) :** Coup de pied vertical (*Vertical kick*). Le pied monte sur un plan strictement vertical, frappant avec le chant du pied ou le bol du pied.
 * **Suroh chagi ([쓸어차기](../audio/grammaire/Suroh-Chagi.m4a)) :** Coup de pied balayé / balayage au sol pour déséquilibrer les appuis.
-* **Doro chagi ([도로차기](../audio/termes/doro-chagi.m4a)) :** Coup de pied ramené / rebondissant (la jambe revient immédiatement sur sa trajectoire après l'impact pour enchaîner ou feinter).
+* **Doro chagi ([도로차기](../audio/termes/doro-chagi.m4a)) :** Coup de pied en vague (côté de la plante du pied, en ligne droite sur la cheville d'un adversaire qui attaque l'entrejambe, depuis la position assise).
 * **Japgo chagi ([잡고차기](../audio/chagi/japgo-chagi.m4a)) :** Coup de pied exécuté tout en saisissant la tenue, le bras ou la tête de l'adversaire (*Japgo* = attraper).
 * **Mikulgi chagi ([미끌기차기](../audio/termes/mikulgi-chagi.m4a)) :** Coup de pied exécuté en glissant / chassé glissé sur le sol pour combler la distance.
 

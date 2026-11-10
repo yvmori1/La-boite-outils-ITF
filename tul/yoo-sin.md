@@ -130,9 +130,9 @@
    *([Gojung so digutja jirugi](../Techniques/Gojung-So-Digutja-Jirugi.md))*
 51. Déplacer le pied droit sur la ligne CD en un mouvement étampé pour former une position assise vers E tout en exécutant une frappe frontale vers E avec le revers du poing droit.
    *([Annun so orun dung joomuk ap taerigi](../Techniques/Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md))*
-52. Exécuter un coup de pied retourné vers D avec le pied droit, puis un blocage extérieur haut vers AC avec l'avant-bras extérieur droit, en gardant les mains dans la position du mouvement 51 tout en formant une position assise vers E.
+52. Exécuter un coup de pied en vague vers D avec le pied droit, puis un blocage extérieur haut vers AC avec l'avant-bras extérieur droit, en gardant les mains dans la position du mouvement 51 tout en formant une position assise vers E.
    *([Doro chagi](../Techniques/Doro-Chagi.md), [annun so orun bakat palmok nopunde bakuro makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.md))*
-53. Exécuter un coup de pied retourné vers C avec le pied gauche, puis un blocage frontal haut vers ED avec l'avant-bras extérieur droit, en gardant les mains dans la position du mouvement 52 tout en formant une position assise vers E.
+53. Exécuter un coup de pied en vague vers C avec le pied gauche, puis un blocage frontal haut vers ED avec l'avant-bras extérieur droit, en gardant les mains dans la position du mouvement 52 tout en formant une position assise vers E.
    *([Doro chagi](../Techniques/Doro-Chagi.md), [annun so orun bakat palmok nopunde ap makgi](../Techniques/Annun-So-Orun-Bakat-Palmok-Nopunde-Ap-Makgi.md))*
 54. Exécuter une frappe horizontale vers C avec le revers de la main droite tout en maintenant une position assise vers E.
    *([Annun so orun sondung soopyong taerigi](../Techniques/Annun-So-Orun-Sondung-Soopyong-Taerigi.md))*

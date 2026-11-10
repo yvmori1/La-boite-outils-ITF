@@ -462,7 +462,7 @@ Techniques de jambe nommées sans position d'appui imposée.
 | [Bakuro-Noollo-Chagi.md](Bakuro-Noollo-Chagi.md) | Coup de pied pressant vers l'extérieur |
 | [Bakuro-Sewo-Chagi.md](Bakuro-Sewo-Chagi.md) | Coup de poing-pied / coup de pied vertical vers l'extérieur |
 | [Balkal-Dung-Anuro-Sewo-Chagi.md](Balkal-Dung-Anuro-Sewo-Chagi.md) | Coup de pied vertical vers l'intérieur avec le contre-tranchant du pied |
-| [Doro-Chagi.md](Doro-Chagi.md) | Coup de poing-pied de retour / coup de pied retournant |
+| [Doro-Chagi.md](Doro-Chagi.md) | Coup de pied en vague |
 | [Gokaeng-I-Chagi.md](Gokaeng-I-Chagi.md) | Coup de pied en pioche |
 | [Kaunde-Apcha-Busigi.md](Kaunde-Apcha-Busigi.md) | Coup de pied avant fouetté moyen |
 | [Kaunde-Bandae-Dollyo-Chagi.md](Kaunde-Bandae-Dollyo-Chagi.md) | Coup de pied circulaire inversé moyen |
