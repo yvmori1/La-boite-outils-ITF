@@ -143,13 +143,13 @@ Chaque technique se termine en revenant en position de combat, mains ouvertes.
 
 | Grade | Thème | Dans le manuel |
 | :--- | :--- | :--- |
-| 10e Gup — Blanche | Dégagements sur saisies de poignet | [chapitre 25](../Theorie/manuel/partie-7-autodefense-hosinsul.md#25-ceinture-blanche--dégagements-sur-saisies) |
-| 9e Gup — Blanche I | Défenses sur poussées | [chapitre 26](../Theorie/manuel/partie-7-autodefense-hosinsul.md#26-ceinture-blanche-i--défenses-sur-poussées) |
-| 8e Gup — Jaune | Attaques de face (étranglements, saisies du corps, du collet) | [chapitre 27](../Theorie/manuel/partie-7-autodefense-hosinsul.md#27-ceinture-jaune--attaques-de-face) |
-| 7e Gup — Jaune I | Attaques par l'arrière (étranglement, *full Nelson*, saisies) | [chapitre 28](../Theorie/manuel/partie-7-autodefense-hosinsul.md#28-ceinture-jaune-i--attaques-par-larrière) |
-| 6e Gup — Verte | Attaques de côté (saisie du bras, étranglement, guillotine) | [chapitre 29](../Theorie/manuel/partie-7-autodefense-hosinsul.md#29-ceinture-verte--attaques-de-côté) |
-| 5e Gup — Verte I | Attaques au sol | [chapitre 30](../Theorie/manuel/partie-7-autodefense-hosinsul.md#30-ceinture-verte-i--attaques-au-sol) |
-| 4e Gup — Bleue | Attaques combinées (saisie et frappe) | [chapitre 31](../Theorie/manuel/partie-7-autodefense-hosinsul.md#31-ceinture-bleue--attaques-combinées) |
+| 10e Gup — Blanche | Dégagements sur saisies de poignet | [chapitre 27](../Theorie/manuel/partie-7-autodefense-hosinsul.md#27-ceinture-blanche--dégagements-sur-saisies) |
+| 9e Gup — Blanche I | Défenses sur poussées | [chapitre 28](../Theorie/manuel/partie-7-autodefense-hosinsul.md#28-ceinture-blanche-i--défenses-sur-poussées) |
+| 8e Gup — Jaune | Attaques de face (étranglements, saisies du corps, du collet) | [chapitre 29](../Theorie/manuel/partie-7-autodefense-hosinsul.md#29-ceinture-jaune--attaques-de-face) |
+| 7e Gup — Jaune I | Attaques par l'arrière (étranglement, *full Nelson*, saisies) | [chapitre 30](../Theorie/manuel/partie-7-autodefense-hosinsul.md#30-ceinture-jaune-i--attaques-par-larrière) |
+| 6e Gup — Verte | Attaques de côté (saisie du bras, étranglement, guillotine) | [chapitre 31](../Theorie/manuel/partie-7-autodefense-hosinsul.md#31-ceinture-verte--attaques-de-côté) |
+| 5e Gup — Verte I | Attaques au sol | [chapitre 32](../Theorie/manuel/partie-7-autodefense-hosinsul.md#32-ceinture-verte-i--attaques-au-sol) |
+| 4e Gup — Bleue | Attaques combinées (saisie et frappe) | [chapitre 33](../Theorie/manuel/partie-7-autodefense-hosinsul.md#33-ceinture-bleue--attaques-combinées) |
 | 3e Gup — Bleue I | Revue des attaques de face, de côté et par l'arrière | — |
 | 2e Gup — Rouge | Revue complète : combinées, au sol, poignets, poussées | — |
 | 1er Gup — Rouge I | Mise en situation réelle contre un agresseur non armé | — |

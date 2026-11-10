@@ -3,9 +3,9 @@
 Ce manuel réunit la théorie du Taekwon-Do ITF en un seul parcours : la doctrine
 et l'histoire de l'art, les principes physiques qui font la puissance, la
 grammaire qui permet de nommer et de comprendre chaque technique, les positions
-qui les portent, le répertoire technique, les formes, l'autodéfense, puis trois
-annexes de consultation — le lexique trilingue, les distances de saut des
-formes et les types de mouvements.
+qui les portent, le répertoire technique, les formes (avec les distances de
+saut et les types de mouvements), l'autodéfense, puis une annexe de
+consultation, le lexique trilingue.
 
 L'ordre est celui de l'apprentissage : ce qu'est l'art avant les techniques, les
 principes de puissance avant la grammaire qui les nomme, la grammaire avant les
@@ -49,11 +49,11 @@ lequel.
     * [22. Les exercices fondamentaux (Saju)](partie-6-formes-tul/22-les-exercices-fondamentaux-saju.md)
     * [23. Les vingt-quatre formes en un tableau](partie-6-formes-tul/23-les-vingt-quatre-formes-en-un-tableau.md)
     * [24. Les formes une à une](partie-6-formes-tul/24-les-formes-une-a-une.md)
+    * [25. Distances de saut dans les formes](annexe-b-distances-de-saut.md)
+    * [26. Types de mouvements](annexe-c-types-de-mouvements.md)
 * **[Partie VII — L'autodéfense (Hosinsul)](partie-7-autodefense-hosinsul.md)**
 * **[Annexe A — Lexique trilingue](annexe-a-lexique-trilingue/README.md)**
     * [A. Termes généraux, dojang et compétition](annexe-a-lexique-trilingue/a-termes-generaux-dojang-et-competition.md)
     * [B. Coups de pied (Chagi)](annexe-a-lexique-trilingue/b-coups-de-pied-chagi.md)
     * [C. Blocages (Makgi)](annexe-a-lexique-trilingue/c-blocages-makgi.md)
     * [D. Frappes et attaques (Jirugi / Taerigi / Tulgi)](annexe-a-lexique-trilingue/d-frappes-et-attaques-jirugi-taerigi-tulgi.md)
-* **[Annexe B — Distances de saut dans les formes](annexe-b-distances-de-saut.md)**
-* **[Annexe C — Types de mouvements](annexe-c-types-de-mouvements.md)**

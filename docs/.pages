@@ -1,4 +1,6 @@
-# Ordre et titres des sections du menu latéral.
+# Sections du menu construites par awesome-pages. Leur place finale dans le
+# menu est fixée par menu.yml (hooks/menu_manuel.py) : le Manuel d'abord,
+# chaque partie suivie de ses fiches.
 # Toute fiche ajoutée dans un dossier apparaît automatiquement dans sa section.
 # images/ n'est plus une entrée du menu : ses pages restent publiées et
 # accessibles par les liens des fiches.

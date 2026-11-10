@@ -104,5 +104,5 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 ## Voir aussi
 
 * [../Theorie/manuel/partie-3-grammaire-des-techniques/README.md](../Theorie/manuel/partie-3-grammaire-des-techniques/README.md) — partie III du manuel : les règles de construction des noms de techniques.
-* [../Theorie/manuel/annexe-b-distances-de-saut.md](../Theorie/manuel/annexe-b-distances-de-saut.md) — annexe B du manuel : les distances de saut, reprises aussi dans chaque fiche de forme.
+* [../Theorie/manuel/annexe-b-distances-de-saut.md](../Theorie/manuel/annexe-b-distances-de-saut.md) — chapitre 25 du manuel : les distances de saut, reprises aussi dans chaque fiche de forme.
 * [../tul/README.md](../tul/README.md) — les coups de pied en contexte, dans les formes.

@@ -2,7 +2,7 @@
 
 Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coordination, vitesse et concentration face à une agression spontanée.
 
-## 25. Ceinture blanche — dégagements sur saisies
+## 27. Ceinture blanche — dégagements sur saisies
 
 | Technique | Description |
 | --- | --- |
@@ -11,7 +11,7 @@ Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coo
 | **Saisie des deux poignets** | Frapper le tibia ou l'intérieur de la jambe de l'agresseur avec son propre tibia. Avancer d'un pas et frapper le poignet de l'agresseur avec la paume ouverte pour le libérer. |
 | **Saisie d'un poignet à deux mains** | Passer la main libre entre les deux bras de l'agresseur pour saisir sa propre main saisie. Tirer puissamment vers soi et vers le haut pour dégager, puis asséner un coup de coude à la poitrine de l'agresseur. |
 
-## 26. Ceinture blanche I — défenses sur poussées
+## 28. Ceinture blanche I — défenses sur poussées
 
 | Technique | Description |
 | --- | --- |
@@ -19,7 +19,7 @@ Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coo
 | **Poussée croisée à l'épaule droite** | Effectuer une rotation arrière droite, reculer la jambe droite, puis riposter par une poussée de la main arquée à la gorge et un coup de genou sur le côté de la cuisse de l'agresseur. |
 | **Poussée à deux mains** | Écarter les deux bras de l'agresseur, pousser avec la main arquée à la gorge et asséner un coup de poing au plexus avec l'autre bras, ou appliquer un bloc de l'avant-bras sur son biceps. |
 
-## 27. Ceinture jaune — attaques de face
+## 29. Ceinture jaune — attaques de face
 
 | Technique | Description |
 | --- | --- |
@@ -29,7 +29,7 @@ Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coo
 | **Saisie du corps, bras libres** | Appliquer une forte pression avec les pouces sous les oreilles de l'agresseur (points de pression) ou appliquer une rotation de sa tête, puis enchaîner par un coup de genou au bas-ventre. |
 | **Saisie du collet à deux mains** | Frapper de ses avant-bras sur les avant-bras de l'agresseur, puis appliquer un coup de pied circulaire à la hauteur du genou. |
 
-## 28. Ceinture jaune I — attaques par l'arrière
+## 30. Ceinture jaune I — attaques par l'arrière
 
 | Technique | Description |
 | --- | --- |
@@ -38,7 +38,7 @@ Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coo
 | **Saisie arrière, bras pris** | Contracter les épaules en appuyant ses mains sur ses cuisses pour déplacer le bassin sur le côté, puis asséner des coups de coude aux côtes ou un tranchant de main aux parties, ou plier un doigt. |
 | **Saisie arrière, bras libres** | Frapper sur le dos des mains de l'agresseur pour lui faire lâcher prise, ou plier un de ses doigts, ou frapper du coude au visage. |
 
-## 29. Ceinture verte — attaques de côté
+## 31. Ceinture verte — attaques de côté
 
 | Technique | Description |
 | --- | --- |
@@ -46,7 +46,7 @@ Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coo
 | **Étranglement de côté** | Asséner un coup de paume au visage, piquer de la main au cou, ou briser la prise par un blocage intérieur poussé entre ses bras, puis asséner un coup de coude au visage. |
 | **Prise de tête latérale / Guillotine** | Saisir les cheveux pour renverser l'agresseur, ou poser un genou au sol en frappant au bas-ventre et saisir la jambe proche pour le projeter au sol, ou appuyer sa main derrière sa tête pour lui faire baisser le visage et le frapper. |
 
-## 30. Ceinture verte I — attaques au sol
+## 32. Ceinture verte I — attaques au sol
 
 | Technique | Description |
 | --- | --- |
@@ -54,7 +54,7 @@ Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coo
 | **Étranglement au sol** | Piquer de la main arquée à la gorge, saisir immédiatement les bras de l'agresseur et le projeter sur le côté. |
 | **Prise de cou par un bras, corps couché de côté** | Saisir les cheveux ou appuyer sur le point de pression situé sous le nez de l'agresseur. Renverser sa tête tout en lui appliquant un ciseau de jambes à la tête, et finaliser par une frappe. |
 
-## 31. Ceinture bleue — attaques combinées
+## 33. Ceinture bleue — attaques combinées
 
 | Technique | Description |
 | --- | --- |
