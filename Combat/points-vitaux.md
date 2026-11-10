@@ -60,6 +60,16 @@ pour la place du niveau dans le nom d'une technique.
 ## 3. Les 49 points vitaux de l'Encyclopédie
 
 Romanisation telle que donnée par l'*Encyclopédie* (1999).
+Les planches ci-dessous situent chaque point d'après les croquis de
+l'*Encyclopédie* (p. 108-111) : la tête de profil, agrandie, puis le corps de
+face et de dos. Un point présent des deux côtés du corps (rein, creux du
+genou…) n'est marqué qu'une fois.
+
+![Points vitaux de la tête et du cou, de profil](../images/points-vitaux/tete-profil.svg)
+
+![Points vitaux du corps, face avant](../images/points-vitaux/face.svg)
+
+![Points vitaux du corps, face arrière](../images/points-vitaux/dos.svg)
 
 ### Face avant — tête, cou et membres supérieurs
 

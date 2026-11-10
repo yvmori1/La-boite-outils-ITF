@@ -39,6 +39,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [romanisation.py](romanisation.py) | Nom de fichier romanisé d'un hangul (utilisé par `generer-audio.py`) |
 | [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
+| [generer-points-vitaux.py](generer-points-vitaux.py) | Dessine les trois planches des 49 points vitaux dans `images/points-vitaux/` |
 | [generer-icones.py](generer-icones.py) | Dessine les icônes de l'application iPhone et iPad dans `docs/assets/icones/` (demande Pillow) |
 | [generer-manuel.py](generer-manuel.py) | Hors service : assemblait l'ancien manuel d'un seul tenant |
 | [formater-markdown.py](formater-markdown.py) | Met les listes en forme pour qu'elles s'affichent pareil sur GitHub et sur le site |
@@ -137,6 +138,19 @@ toujours le même enregistrement.
 `--reparer` reproduit l'audio de tout lien dont le fichier a disparu : c'est ce
 qui permet de corriger une graphie sans effort — corriger le texte, supprimer
 l'audio devenu faux, relancer.
+
+### generer-points-vitaux.py
+
+```sh
+python3 scripts/generer-points-vitaux.py           # liste ce qui serait écrit
+python3 scripts/generer-points-vitaux.py --write   # écrit images/points-vitaux/*.svg
+```
+
+Dessine en SVG la tête de profil, le corps de face et le corps de dos, avec les
+49 points vitaux de [Combat/points-vitaux.md](../Combat/points-vitaux.md) placés
+d'après les croquis de l'Encyclopédie (p. 108-111). Les noms et les termes
+coréens sont lus dans le tableau de la page : après une correction de nom,
+relancer avec `--write`. `verifier.py` signale des planches en retard.
 
 ### generer-sogi.py
 
