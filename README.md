@@ -1,3 +1,5 @@
+<p class="logo-accueil" align="center"><img src="images/logo/hosinsul-contour.svg" alt="Logo Hosinsul" width="320"></p>
+
 # La boîte à outils ITF
 
 Recueil de documentation technique et théorique de **Taekwon-Do ITF** (International Taekwon-Do Federation), rédigé en français. L'ensemble est constitué de fiches Markdown autonomes : une fiche par technique, par grade ou par thème théorique.

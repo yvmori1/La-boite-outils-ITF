@@ -4,6 +4,18 @@ Diagrammes et schémas référencés par les fiches du dépôt : **diagrammes de
 
 ---
 
+## Logo Hosinsul
+
+`images/logo/hosinsul.svg` est le logo d'origine, à ne pas modifier.
+[scripts/generer-icones.py](https://github.com/yvmori1/La-boite-outils-ITF/blob/main/scripts/generer-icones.py)
+en tire les autres fichiers (relancer avec `--write` si le logo change) :
+
+| Fichier | Usage |
+| :--- | :--- |
+| `hosinsul-contour.svg` | Le logo bordé d'un liseré blanc, pour qu'il reste visible sur l'en-tête noir et en thème sombre : en-tête, accueil, impression |
+| `hosinsul-orteils.svg` | Les cinq orteils seuls, grossis : icône d'onglet du navigateur |
+| `docs/assets/icones/*.png` | Icônes de l'application (écran d'accueil) : le logo entier sur fond blanc |
+
 ## Positions (*Sogi*)
 
 Les schémas cotés des 21 positions, générés par

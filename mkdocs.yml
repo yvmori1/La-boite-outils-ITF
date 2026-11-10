@@ -22,6 +22,10 @@ theme:
   # overrides/partials/nav.html : menu principal partagé (hooks/menu_partage.py)
   custom_dir: overrides
   language: fr
+  # Logo Hosinsul (images/logo/) : version à liseré blanc, lisible sur l'en-tête
+  # noir ; onglet : les orteils seuls (scripts/generer-icones.py).
+  logo: images/logo/hosinsul-contour.svg
+  favicon: assets/icones/favicon.png
   features:
     - navigation.instant
     - navigation.instant.progress

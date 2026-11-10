@@ -74,6 +74,10 @@
       nav.querySelectorAll("a[href]").forEach(function (a) {
         a.setAttribute("href", new URL(a.getAttribute("href"), __md_scope).href);
       });
+      // logo du menu (images/logo/) : adresse relative à la racine aussi
+      nav.querySelectorAll("img[src]").forEach(function (img) {
+        img.setAttribute("src", new URL(img.getAttribute("src"), __md_scope).href);
+      });
       var lien = activer(nav, vide.querySelector("template[data-menu-toc]"));
       vide.replaceWith(nav);
       // Sur grand écran, faire voir la page active dans la barre latérale.
