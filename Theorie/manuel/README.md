@@ -1,24 +1,11 @@
 # Manuel de Taekwon-Do ITF
 
-Ce manuel est la colonne vertébrale du site : il réunit la théorie du
-Taekwon-Do ITF en un seul parcours, et chaque partie est suivie des fiches qui
-la mettent en pratique. On y trouve la doctrine et l'histoire de l'art, les
-principes physiques qui font la puissance, la grammaire qui permet de nommer et
-de comprendre chaque technique, les positions qui les portent, le répertoire
-technique, les formes, le combat et l'autodéfense, la progression par grade,
-puis quatre annexes de consultation.
+Ce manuel réunit la théorie du Taekwon-Do ITF en un seul parcours, et chaque partie est suivie des fiches qui
+la mettent en pratique. On y trouve la doctrine et l'histoire de l'art, les principes physiques qui font la puissance, la grammaire qui permet de nommer et de comprendre chaque technique, les positions qui les portent, le répertoire technique, les formes, le combat et l'autodéfense, la progression par grade, puis quatre annexes de consultation.
 
-L'ordre est celui de l'apprentissage : ce qu'est l'art avant les techniques, les
-principes de puissance avant la grammaire qui les nomme, la grammaire avant les
-positions et le répertoire dont elle donne la clé de lecture, enfin les formes,
-le combat et l'autodéfense en application. Le bouton « Suivant », en bas de
-chaque page, suit cet ordre : les chapitres d'une partie, les fiches qui la
-mettent en pratique, puis une révision pour se tester avant la partie suivante.
+L'ordre est celui de l'apprentissage : ce qu'est l'art avant les techniques, les principes de puissance avant la grammaire qui les nomme, la grammaire avant les positions et le répertoire dont elle donne la clé de lecture, enfin les formes, le combat et l'autodéfense en application. Le bouton « Suivant », en bas de chaque page, suit cet ordre : un chapitre, puis le suivant, puis les fiches de la partie.
 
-Chaque notion n'apparaît qu'une fois : le crédo, les principes de position, les
-modificateurs de nomenclature, les déplacements, les verbes d'action et le
-vocabulaire du dojang sont traités à un seul endroit, et les renvois indiquent
-lequel.
+Chaque notion n'apparaît qu'une fois : le crédo, les principes de position, les modificateurs de nomenclature, les déplacements, les verbes d'action et le vocabulaire du dojang sont traités à un seul endroit, et les renvois indiquent lequel.
 
 ## Sommaire
 

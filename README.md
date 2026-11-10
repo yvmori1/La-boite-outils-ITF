@@ -2,17 +2,6 @@
 
 # La boîte à outils ITF
 
-Recueil de documentation technique et théorique de **Taekwon-Do ITF** (International Taekwon-Do Federation), rédigé en français. L'ensemble est constitué de fiches Markdown autonomes : une fiche par technique, par grade ou par thème théorique.
-
-Le dépôt sert deux usages :
-
-* **Étude et révision** — fiches de passage de grade, lexique coréen, formes détaillées mouvement par mouvement.
-* **Enseignement** — support de cours pour l'instructeur, nomenclature complète, décomposition pédagogique de chaque technique.
-
-Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi.md`, `najunde-makgi.md`) et titrées en français avec le terme coréen entre parenthèses.
-
----
-
 ## À propos de ce recueil
 
 ### L'initiateur
