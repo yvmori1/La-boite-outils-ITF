@@ -1,6 +1,5 @@
 # Ordre et titres des sous-sections du menu Théorie.
 nav:
-  - README.md
   - Manuel de Taekwon-Do: manuel
   - Glossaire coréen-français: glossaire
   - Examens théoriques: examens

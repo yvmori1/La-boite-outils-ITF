@@ -3,8 +3,26 @@
 // sommaire du document en gardant l'ancre (#...) ; ce script envoie ensuite
 // cette ancre vers la sous-page qui contient désormais la section.
 // Table produite lors du découpage : { sommaire : { ancienne ancre : adresse } }.
+// La partie VII du manuel, page unique jusqu'au 2026-11-10, est découpée de la
+// même façon : ses ancres (numérotées 25-31, puis 27-33) mènent aux chapitres.
 (function () {
   var ANCRES = {
+  "Theorie/manuel/partie-7-autodefense-hosinsul/": {
+    "25-ceinture-blanche--dégagements-sur-saisies": "27-ceinture-blanche-degagements-sur-saisies/",
+    "27-ceinture-blanche--dégagements-sur-saisies": "27-ceinture-blanche-degagements-sur-saisies/",
+    "26-ceinture-blanche-i--défenses-sur-poussées": "28-ceinture-blanche-i-defenses-sur-poussees/",
+    "28-ceinture-blanche-i--défenses-sur-poussées": "28-ceinture-blanche-i-defenses-sur-poussees/",
+    "27-ceinture-jaune--attaques-de-face": "29-ceinture-jaune-attaques-de-face/",
+    "29-ceinture-jaune--attaques-de-face": "29-ceinture-jaune-attaques-de-face/",
+    "28-ceinture-jaune-i--attaques-par-larrière": "30-ceinture-jaune-i-attaques-par-l-arriere/",
+    "30-ceinture-jaune-i--attaques-par-larrière": "30-ceinture-jaune-i-attaques-par-l-arriere/",
+    "29-ceinture-verte--attaques-de-côté": "31-ceinture-verte-attaques-de-cote/",
+    "31-ceinture-verte--attaques-de-côté": "31-ceinture-verte-attaques-de-cote/",
+    "30-ceinture-verte-i--attaques-au-sol": "32-ceinture-verte-i-attaques-au-sol/",
+    "32-ceinture-verte-i--attaques-au-sol": "32-ceinture-verte-i-attaques-au-sol/",
+    "31-ceinture-bleue--attaques-combinées": "33-ceinture-bleue-attaques-combinees/",
+    "33-ceinture-bleue--attaques-combinées": "33-ceinture-bleue-attaques-combinees/"
+  },
   "Theorie/manuel/": {
     "partie-i--lart-et-sa-voie": "partie-1-art-et-voie/",
     "1-ce-quest-le-taekwon-do": "partie-1-art-et-voie/01-ce-qu-est-le-taekwon-do/",
@@ -124,13 +142,13 @@
     "2423-se-jong-5e-dan": "partie-6-formes-tul/24-les-formes-une-a-une/#2423-se-jong-5e-dan",
     "2424-tong-il-6e-dan": "partie-6-formes-tul/24-les-formes-une-a-une/#2424-tong-il-6e-dan",
     "partie-vii--lautodéfense-hosinsul": "partie-7-autodefense-hosinsul/",
-    "25-ceinture-blanche--dégagements-sur-saisies": "partie-7-autodefense-hosinsul/#27-ceinture-blanche--dégagements-sur-saisies",
-    "26-ceinture-blanche-i--défenses-sur-poussées": "partie-7-autodefense-hosinsul/#28-ceinture-blanche-i--défenses-sur-poussées",
-    "27-ceinture-jaune--attaques-de-face": "partie-7-autodefense-hosinsul/#29-ceinture-jaune--attaques-de-face",
-    "28-ceinture-jaune-i--attaques-par-larrière": "partie-7-autodefense-hosinsul/#30-ceinture-jaune-i--attaques-par-larrière",
-    "29-ceinture-verte--attaques-de-côté": "partie-7-autodefense-hosinsul/#31-ceinture-verte--attaques-de-côté",
-    "30-ceinture-verte-i--attaques-au-sol": "partie-7-autodefense-hosinsul/#32-ceinture-verte-i--attaques-au-sol",
-    "31-ceinture-bleue--attaques-combinées": "partie-7-autodefense-hosinsul/#33-ceinture-bleue--attaques-combinées",
+    "25-ceinture-blanche--dégagements-sur-saisies": "partie-7-autodefense-hosinsul/27-ceinture-blanche-degagements-sur-saisies/",
+    "26-ceinture-blanche-i--défenses-sur-poussées": "partie-7-autodefense-hosinsul/28-ceinture-blanche-i-defenses-sur-poussees/",
+    "27-ceinture-jaune--attaques-de-face": "partie-7-autodefense-hosinsul/29-ceinture-jaune-attaques-de-face/",
+    "28-ceinture-jaune-i--attaques-par-larrière": "partie-7-autodefense-hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere/",
+    "29-ceinture-verte--attaques-de-côté": "partie-7-autodefense-hosinsul/31-ceinture-verte-attaques-de-cote/",
+    "30-ceinture-verte-i--attaques-au-sol": "partie-7-autodefense-hosinsul/32-ceinture-verte-i-attaques-au-sol/",
+    "31-ceinture-bleue--attaques-combinées": "partie-7-autodefense-hosinsul/33-ceinture-bleue-attaques-combinees/",
     "annexe-a--lexique-trilingue": "annexe-a-lexique-trilingue/",
     "a-termes-généraux-dojang-et-compétition": "annexe-a-lexique-trilingue/a-termes-generaux-dojang-et-competition/",
     "b-coups-de-pied-chagi": "annexe-a-lexique-trilingue/b-coups-de-pied-chagi/",

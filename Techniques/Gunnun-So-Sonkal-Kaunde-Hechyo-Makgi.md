@@ -64,7 +64,7 @@ Sa décomposition linguistique est la suivante :
 * **Mains molles :** les doigts restent tendus et serrés.
 * **Perdre la largeur d'épaule :** aligner les deux pieds sur une même ligne, ce qui ruine la stabilité latérale et la rotation de hanche.
 
-Voir aussi : [Gunnun So Bakat Palmok Nopunde Hechyo Makgi](Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md), [Blocage d'arret (Hechyo Makgi)](../makgi/hechyo-makgi.md).
+Voir aussi : [Gunnun So Bakat Palmok Nopunde Hechyo Makgi](Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md), [Blocage d'arrêt (Hechyo Makgi)](../makgi/hechyo-makgi.md).
 
 <!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
 
@@ -72,7 +72,7 @@ Voir aussi : [Gunnun So Bakat Palmok Nopunde Hechyo Makgi](Gunnun-So-Bakat-Palmo
 
 * **Dans le Manuel :** [13. Décrypter un nom de technique](../Theorie/manuel/partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md), [18. Les techniques de bras](../Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md)
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
-* **Geste de base :** [Blocage d'arret (Hechyo Makgi)](../makgi/hechyo-makgi.md)
+* **Geste de base :** [Blocage d'arrêt (Hechyo Makgi)](../makgi/hechyo-makgi.md)
 * **Dans les formes :** [Eui-Am](../tul/eui-am.md)
 
 <!-- /fiches-liees -->
