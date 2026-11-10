@@ -13,6 +13,18 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 ---
 
+## À propos de ce recueil
+
+**Qui.** Ce recueil a été mis en place par **Yves Morin**, 5e degré, du club **Hosinsul** de Sainte-Thérèse–Blainville.
+
+**Pourquoi.** Il n'existait aucune ressource de référence fiable en français sur le Taekwon-Do ITF. Ce recueil veut combler ce manque, en s'appuyant sur les ouvrages du Général Choi Hong Hi et les documents officiels de l'ITF réunis dans la [bibliographie](Bibliographie.md).
+
+**Pour qui.** Pour l'ensemble des pratiquants francophones et francophiles du Taekwon-Do, partout dans le monde.
+
+**Un ouvrage collaboratif.** Chacun peut proposer ses corrections et ses améliorations, soit dans les [discussions](https://github.com/yvmori1/La-boite-outils-ITF/discussions), soit directement par une [Pull Request](https://github.com/yvmori1/La-boite-outils-ITF/pulls). Les discussions sont aussi le bon endroit pour poser une question ou nous joindre.
+
+---
+
 ## Par où commencer
 
 Le site suit le [Manuel](Theorie/manuel/README.md) : huit parties, de ce qu'est le Taekwon-Do jusqu'aux grades, chacune suivie des fiches qui la mettent en pratique.
