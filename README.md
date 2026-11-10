@@ -11,6 +11,16 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 ---
 
+## Par où commencer
+
+Le site suit le [Manuel](Theorie/manuel/README.md) : huit parties, de ce qu'est le Taekwon-Do jusqu'aux grades, chacune suivie des fiches qui la mettent en pratique.
+
+* **Je débute** → lisez la [partie I, L'art et sa voie](Theorie/manuel/partie-1-art-et-voie/README.md), puis suivez le bouton « Suivant » en bas de page.
+* **Je prépare mon grade** → la [partie VIII, La progression](Ceintures/README.md) : une fiche par grade, du 10e Gup au 6e Dan, et les examens théoriques.
+* **Je cherche une technique** → la recherche (en haut de page) ou la [partie V, Le répertoire technique](Theorie/manuel/partie-5-repertoire-technique/README.md).
+
+---
+
 ## Sur le site
 
 Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
@@ -43,7 +53,7 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 
 ## Comment s'y retrouver
 
-**Si vous cherchez la théorie** → tout est réuni dans le [manuel](Theorie/manuel/README.md), découpé en une page par chapitre : l'art et sa voie, les principes de puissance, la grammaire des techniques, les positions, le répertoire technique, les formes, l'autodéfense, puis le lexique trilingue et les distances de saut en annexe.
+**Si vous cherchez la théorie** → tout est réuni dans le [manuel](Theorie/manuel/README.md), découpé en une page par chapitre : l'art et sa voie, les principes de puissance, la grammaire des techniques, les positions, le répertoire technique, les formes, le combat et l'autodéfense, la progression par grade, puis le lexique trilingue, le glossaire, l'analyse statistique et la bibliographie en annexe.
 
 **Si vous préparez un passage de grade** → commencez par [Ceintures/README.md](Ceintures/README.md), qui donne pour chaque grade la théorie, les formes, le lexique et les exigences physiques.
 

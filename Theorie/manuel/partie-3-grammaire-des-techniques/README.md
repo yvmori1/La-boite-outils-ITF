@@ -9,3 +9,8 @@ En Taekwon-Do ITF, le nom d'une technique n'est pas une étiquette : il en décr
 * [11. Les verbes d'action](11-les-verbes-d-action.md)
 * [12. Les armes naturelles (Jook Bang)](12-les-armes-naturelles-jook-bang.md)
 * [13. Décrypter un nom de technique](13-decrypter-un-nom-de-technique.md)
+
+## Pour aller plus loin
+
+* Le vocabulaire de cette partie : [armes naturelles de la main et du bras](../../glossaire/05-les-armes-naturelles-la-main-et-le-bras.md), [de la jambe et du pied](../../glossaire/06-les-armes-naturelles-la-jambe-et-le-pied.md), [hauteur, côté et direction](../../glossaire/08-hauteur-cote-et-direction.md), [verbes d'action](../../glossaire/10-les-verbes-d-action.md) (annexe B, glossaire).
+* La grammaire appliquée : chaque [technique combinée](../../../Techniques/README.md) (partie V) porte un nom construit selon ces règles.

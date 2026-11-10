@@ -1,4 +1,4 @@
-# Partie VII — L'autodéfense (Hosinsul)
+# Hosinsul : le programme par grade
 
 Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coordination, vitesse et concentration face à une agression spontanée.
 

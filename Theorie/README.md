@@ -1,5 +1,7 @@
 # Théorie
 
+*Ces documents sont maintenant rangés dans le [Manuel](manuel/README.md) : glossaire et analyse statistique en annexes, examens théoriques et programme de session dans la partie VIII.*
+
 Documents de fond : le manuel qui réunit toute la théorie, puis les documents
 qui l'entourent — glossaire, questionnaires d'examen, plan de cours et analyses
 statistiques du répertoire technique. Le combat et son arbitrage ont leur
