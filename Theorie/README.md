@@ -23,11 +23,9 @@ en sept parties et deux annexes.
 | [III — La grammaire des techniques](manuel/partie-3-grammaire-des-techniques/README.md) | Formules de construction, briques, verbes d'action, armes naturelles |
 | [IV — Les positions (*Sogi*)](manuel/partie-4-positions-sogi/README.md) | Les 21 positions, cotées et schématisées |
 | [V — Le répertoire technique](manuel/partie-5-repertoire-technique/README.md) | Déplacements, techniques de bras, techniques de jambes |
-| [VI — Les formes (*Tul*)](manuel/partie-6-formes-tul/README.md) | Genèse, directives d'exécution, Saju, les 24 formes une à une |
+| [VI — Les formes (*Tul*)](manuel/partie-6-formes-tul/README.md) | Genèse, directives d'exécution, Saju, les 24 formes une à une, distances de saut (ch. 25), types de mouvements (ch. 26) |
 | [VII — L'autodéfense](manuel/partie-7-autodefense-hosinsul.md) | Programme de la FQTI, grade par grade |
 | [Annexe A](manuel/annexe-a-lexique-trilingue/README.md) | Lexique trilingue français – anglais – coréen |
-| [Annexe B](manuel/annexe-b-distances-de-saut.md) | Distances de saut dans les formes |
-| [Annexe C](manuel/annexe-c-types-de-mouvements.md) | Types de mouvements : normal, rapide, lent, connecté, continu |
 
 ## Le glossaire
 
@@ -59,7 +57,7 @@ contenu se trouve désormais.
 * Conditions et temps requis au passage de grade → [chapitre 5](manuel/partie-1-art-et-voie/05-le-dobok-et-les-ceintures.md#conditions-et-temps-requis-au-passage-de-grade).
 * Descriptions des positions (*Sogi*) → [partie IV](manuel/partie-4-positions-sogi/README.md), avec un schéma coté par position.
 * Encyclopédie historique et socio-politique des formes → [partie VI](manuel/partie-6-formes-tul/README.md), et reprise dans chaque fiche de [../tul/](../tul/README.md).
-* Distances de saut → [annexe B](manuel/annexe-b-distances-de-saut.md), et reportées sur chaque mouvement concerné dans [../tul/](../tul/README.md).
+* Distances de saut → [chapitre 25 du manuel](manuel/annexe-b-distances-de-saut.md), et reportées sur chaque mouvement concerné dans [../tul/](../tul/README.md).
 
 ## Combat et arbitrage
 

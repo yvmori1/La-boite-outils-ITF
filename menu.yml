@@ -1,0 +1,65 @@
+# Plan du menu principal du site : le Manuel sert de colonne vertébrale.
+# Lu par hooks/menu_manuel.py, qui range dans ce plan le menu construit par
+# awesome-pages (docs/.pages et les .pages des sections).
+#
+# Chaque entrée est l'une des formes suivantes :
+#   - chemin/page.md            la page, avec son titre habituel
+#   - "Titre": chemin/page.md   la page, sous ce titre
+#   - chemin/dossier            le contenu de la section de ce dossier, à plat
+#   - "Titre": chemin/dossier   la section de ce dossier, sous ce titre
+#   - "Titre": [entrées]        une section qui regroupe ces entrées
+#
+# Un dossier mis à plat ou en section reprend son propre menu (.pages ou
+# README), sauf les pages et sous-dossiers placés ailleurs dans ce plan.
+# Les fichiers ne bougent pas : seules leurs places dans le menu changent,
+# leurs adresses restent les mêmes.
+#
+# Une page du site qui ne trouve pas de place ici est signalée à la
+# construction ; ajoutez-la au plan, ou à HORS_MENU dans le hook.
+
+- "Accueil": README.md
+- "Sommaire du Manuel": Theorie/manuel/README.md
+- "I. L'art et sa voie": Theorie/manuel/partie-1-art-et-voie
+- "II. Les principes physiques": Theorie/manuel/partie-2-principes-physiques
+- "III. La grammaire des techniques": Theorie/manuel/partie-3-grammaire-des-techniques
+- "IV. Les positions (Sogi)":
+    - Theorie/manuel/partie-4-positions-sogi
+    - "Fiches des positions": sogi
+- "V. Le répertoire technique":
+    - Theorie/manuel/partie-5-repertoire-technique/README.md
+    - Theorie/manuel/partie-5-repertoire-technique/17-les-deplacements-dolgi.md
+    - Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md
+    - "Fiches : frappes du bras (Jirugi)": jirugi
+    - "Fiches : blocages (Makgi)": makgi
+    - Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md
+    - "Fiches : coups de pied (Chagi)": chagi
+    - "Techniques combinées": Techniques
+- "VI. Les formes (Tul)":
+    - Theorie/manuel/partie-6-formes-tul
+    - Theorie/manuel/annexe-b-distances-de-saut.md
+    - Theorie/manuel/annexe-c-types-de-mouvements.md
+    - "Fiches des formes": tul
+- "VII. Combat, autodéfense et casse":
+    - Combat/README.md
+    - Combat/systemes-de-combat.md
+    - Combat/prise-de-mesure.md
+    - "Combats arrangés": Ceintures/Combats-arranges
+    - Combat/combat-libre.md
+    - "Hosinsul : le programme par grade": Theorie/manuel/partie-7-autodefense-hosinsul.md
+    - Combat/hosinsul.md
+    - Combat/points-vitaux.md
+    - Combat/kyokpa.md
+    - Combat/progression.md
+    - Combat/arbitrage.md
+- "VIII. La progression":
+    - Ceintures
+    - "Programme de session": Theorie/programme-session
+    - "Examens théoriques": Theorie/examens
+- "Annexes":
+    - "A. Lexique trilingue": Theorie/manuel/annexe-a-lexique-trilingue
+    - "B. Glossaire coréen-français": Theorie/glossaire
+    - "C. Analyse statistique des formes": Theorie/Analyse_Statistique.md
+    - "D. Bibliographie": Bibliographie.md
+- "À propos":
+    - "Application iPhone et iPad": Application.md
+    - "Confidentialité": Confidentialite.md

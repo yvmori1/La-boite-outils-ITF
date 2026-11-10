@@ -11,3 +11,5 @@ même temps la mémoire historique de la Corée.
 * [22. Les exercices fondamentaux (Saju)](22-les-exercices-fondamentaux-saju.md)
 * [23. Les vingt-quatre formes en un tableau](23-les-vingt-quatre-formes-en-un-tableau.md)
 * [24. Les formes une à une](24-les-formes-une-a-une.md)
+* [25. Distances de saut dans les formes](../annexe-b-distances-de-saut.md)
+* [26. Types de mouvements](../annexe-c-types-de-mouvements.md)

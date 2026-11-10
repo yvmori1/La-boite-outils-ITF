@@ -100,7 +100,7 @@ Non officiels, mais préalables à Chon-Ji. Diagramme en croix, quatre direction
 
 * [../Theorie/manuel/partie-6-formes-tul/README.md](../Theorie/manuel/partie-6-formes-tul/README.md) — partie VI du manuel : genèse des formes, directives d'exécution et notice de chacune.
 * [../Theorie/Analyse_Statistique.md](../Theorie/Analyse_Statistique.md) — analyse statistique du contenu technique des formes.
-* [../Theorie/manuel/annexe-b-distances-de-saut.md](../Theorie/manuel/annexe-b-distances-de-saut.md) — annexe B du manuel : toutes les distances de saut réunies en un tableau.
+* [../Theorie/manuel/annexe-b-distances-de-saut.md](../Theorie/manuel/annexe-b-distances-de-saut.md) — chapitre 25 du manuel : toutes les distances de saut réunies en un tableau.
 * [../chagi/Dans-les-formes.md](../chagi/Dans-les-formes.md) — répartition des coups de pied par forme.
 * [../images/README.md](../images/README.md) — diagrammes au sol de chaque forme.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque forme est exigée.

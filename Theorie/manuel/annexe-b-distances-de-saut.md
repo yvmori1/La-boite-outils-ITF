@@ -1,4 +1,4 @@
-# Annexe B — Distances de saut dans les formes
+# 25. Distances de saut dans les formes
 
 Distance à franchir, et non hauteur à atteindre : chaque saut des formes a une
 longueur d'arrivée définie, mesurée depuis la position de départ. La distance

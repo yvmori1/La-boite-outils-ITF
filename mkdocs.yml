@@ -107,6 +107,9 @@ hooks:
   # Traduction des termes coréens au survol : charge includes/infobulles.md
   # dans l'extension abbr (fichier produit par scripts/generer-infobulles.py).
   - hooks/infobulles.py
+  # Menu principal rangé selon le plan du Manuel (menu.yml), après
+  # awesome-pages et avant menu_partage, qui l'écrit.
+  - hooks/menu_manuel.py
   # Menu principal écrit une fois dans assets/menu.html au lieu de chaque page
   # (allège le site de 180 à environ 40 Mo).
   - hooks/menu_partage.py

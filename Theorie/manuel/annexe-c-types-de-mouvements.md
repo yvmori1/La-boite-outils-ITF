@@ -1,4 +1,4 @@
-# Annexe C — Types de mouvements
+# 26. Types de mouvements
 
 Tableau comparatif des types de mouvements du TaeKwon-Do ITF : nombre de
 techniques, respiration, objectif et exemple tiré des formes.
