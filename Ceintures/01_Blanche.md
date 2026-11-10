@@ -2,6 +2,18 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/01-10e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#10e-gup--ceinture-blanche--fiche) · [combats arrangés](Combats-arranges/01_10e-9e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#10e-gup-ceinture-blanche-vers-9e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [1. Ce qu'est le Taekwon-Do](../Theorie/manuel/partie-1-art-et-voie/01-ce-qu-est-le-taekwon-do.md)
+* [ ] [3. Le Do : la culture morale de l'adepte](../Theorie/manuel/partie-1-art-et-voie/03-le-do-la-culture-morale-de-l-adepte.md)
+* [ ] [4. Étiquette et vie du dojang](../Theorie/manuel/partie-1-art-et-voie/04-etiquette-et-vie-du-dojang.md)
+* [ ] [5. Le dobok et les ceintures](../Theorie/manuel/partie-1-art-et-voie/05-le-dobok-et-les-ceintures.md)
+* [ ] [22. Les exercices fondamentaux (Saju)](../Theorie/manuel/partie-6-formes-tul/22-les-exercices-fondamentaux-saju.md)
+
+<!-- /parcours -->
+
  Ceinture Blanche (10e Gup)
 
 * **Effort d'entraînement minimal requis :** 20 heures d'entraînement minimales.

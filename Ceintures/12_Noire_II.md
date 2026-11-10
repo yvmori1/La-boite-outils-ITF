@@ -2,6 +2,15 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-noires/02-2e-dan.md) · [combat, autodéfense et casse](../Combat/progression.md#2e-dan--fiche) · [combats arrangés](Combats-arranges/10_Ceintures-noires.md)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [24. Les formes une à une](../Theorie/manuel/partie-6-formes-tul/24-les-formes-une-a-une.md)
+* [ ] [Glossaire coréen-français du Taekwon-Do ITF](../Theorie/glossaire/README.md)
+
+<!-- /parcours -->
+
 * **Temps d'attente minimum et Heures :** Minimum de deux ans (24 mois / 2 ans) d'attente active depuis l'obtention du 2e Dan ITF, avant de se présenter au 3e Dan.
 * **Signification du Grade :** L'acquisition d'une rigueur absolue et de l'esprit d'indépendance de l'adepte.
 

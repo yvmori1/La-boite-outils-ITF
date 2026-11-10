@@ -2,6 +2,16 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/03-8e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#8e-gup--ceinture-jaune--fiche) · [combats arrangés](Combats-arranges/02_8e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#8e-gup-ceinture-jaune-vers-7e-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [9. Les deux formules de construction](../Theorie/manuel/partie-3-grammaire-des-techniques/09-les-deux-formules-de-construction.md)
+* [ ] [15. Les positions d'un coup d'œil](../Theorie/manuel/partie-4-positions-sogi/15-les-positions-d-un-coup-d-oeil.md)
+* [ ] [17. Les déplacements (Dolgi)](../Theorie/manuel/partie-5-repertoire-technique/17-les-deplacements-dolgi.md)
+
+<!-- /parcours -->
+
 Ceinture Jaune (8e Gup)
 
 * **Effort d'entraînement minimal requis :** 90 heures d'entraînement minimales.
