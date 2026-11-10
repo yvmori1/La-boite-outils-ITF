@@ -42,3 +42,19 @@ a[href$=".m4a"].audio-en-cours::after { content: " 🔊"; }
 }
 .pwa-avis[hidden] { display: none; }
 @media print { .pwa-avis, #pwa-etat { display: none !important; } }
+
+/* Logo Hosinsul (images/logo/) : plus haut que l'icône prévue par le thème,
+   pour que le mot reste lisible dans l'en-tête et le menu. */
+.md-header__button.md-logo img, .md-header__button.md-logo svg { height: 2rem; }
+.md-nav__title .md-nav__button.md-logo img { height: 2.8rem; }
+.md-header__button.md-logo { padding: .2rem; }
+/* Accueil : logo centré au-dessus du titre */
+.md-typeset .logo-accueil { text-align: center; margin: 0 0 1em; }
+.md-typeset .logo-accueil img { width: 320px; max-width: 80%; }
+/* Impression : l'en-tête du site disparaît, le logo reste en haut à droite */
+@media print {
+  .md-content__inner::before {
+    content: url("../images/logo/hosinsul-contour.svg");
+    display: block; height: auto; text-align: right; margin-bottom: .5em;
+  }
+}
