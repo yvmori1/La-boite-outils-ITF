@@ -188,6 +188,8 @@ CONTROLES = [
      lambda: controle_generateur("generer-voir-aussi.py"), True),
     ("menus des sections à jour",
      lambda: controle_generateur("generer-menus.py"), True),
+    ("planches des points vitaux à jour",
+     lambda: controle_generateur("generer-points-vitaux.py"), True),
     ("graphies concurrentes", controle_graphies, True),
     ("couverture des formes", controle_couverture, False),
     ("mise en forme Markdown",

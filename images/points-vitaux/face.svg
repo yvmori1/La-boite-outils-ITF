@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 900" width="780" height="900" font-family="Helvetica, Arial, sans-serif">
+<title>Face avant</title>
+<rect width="780" height="900" fill="#fff"/>
+<text x="390.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Face avant</text>
+<path d="M406.0,178.0C411.8,183.3 405.0,202.7 409.0,210.0C413.0,217.3 422.2,218.7 430.0,222.0C437.8,225.3 448.3,226.7 456.0,230.0C463.7,233.3 470.7,235.7 476.0,242.0C481.3,248.3 485.0,256.7 488.0,268.0C491.0,279.3 492.3,294.7 494.0,310.0C495.7,325.3 496.0,341.3 498.0,360.0C500.0,378.7 502.7,402.0 506.0,422.0C509.3,442.0 514.0,460.7 518.0,480.0C522.0,499.3 526.3,525.3 530.0,538.0C533.7,550.7 536.7,548.7 540.0,556.0C543.3,563.3 548.0,572.0 550.0,582.0C552.0,592.0 553.0,605.3 552.0,616.0C551.0,626.7 547.3,639.7 544.0,646.0C540.7,652.3 535.7,655.0 532.0,654.0C528.3,653.0 524.3,647.3 522.0,640.0C519.7,632.7 519.7,619.7 518.0,610.0C516.3,600.3 513.3,592.0 512.0,582.0C510.7,572.0 512.3,565.3 510.0,550.0C507.7,534.7 502.3,510.0 498.0,490.0C493.7,470.0 488.0,450.0 484.0,430.0C480.0,410.0 477.0,389.7 474.0,370.0C471.0,350.3 468.0,315.3 466.0,312.0C464.0,308.7 464.0,333.7 462.0,350.0C460.0,366.3 455.0,393.3 454.0,410.0C453.0,426.7 454.0,436.7 456.0,450.0C458.0,463.3 463.7,475.0 466.0,490.0C468.3,505.0 469.7,521.7 470.0,540.0C470.3,558.3 470.0,578.3 468.0,600.0C466.0,621.7 460.0,646.7 458.0,670.0C456.0,693.3 458.3,714.7 456.0,740.0C453.7,765.3 445.3,804.3 444.0,822.0C442.7,839.7 444.7,839.3 448.0,846.0C451.3,852.7 461.7,857.0 464.0,862.0C466.3,867.0 467.7,873.3 462.0,876.0C456.3,878.7 438.3,879.0 430.0,878.0C421.7,877.0 415.0,876.3 412.0,870.0C409.0,863.7 411.7,848.3 412.0,840.0C412.3,831.7 414.7,836.7 414.0,820.0C413.3,803.3 409.7,765.0 408.0,740.0C406.3,715.0 405.3,695.0 404.0,670.0C402.7,645.0 401.8,611.0 400.0,590.0C398.2,569.0 395.2,551.7 393.0,544.0C390.8,536.3 389.2,536.3 387.0,544.0C384.8,551.7 381.8,569.0 380.0,590.0C378.2,611.0 377.3,645.0 376.0,670.0C374.7,695.0 373.7,715.0 372.0,740.0C370.3,765.0 366.7,803.3 366.0,820.0C365.3,836.7 367.7,831.7 368.0,840.0C368.3,848.3 371.0,863.7 368.0,870.0C365.0,876.3 358.3,877.0 350.0,878.0C341.7,879.0 323.7,878.7 318.0,876.0C312.3,873.3 313.7,867.0 316.0,862.0C318.3,857.0 328.7,852.7 332.0,846.0C335.3,839.3 337.3,839.7 336.0,822.0C334.7,804.3 326.3,765.3 324.0,740.0C321.7,714.7 324.0,693.3 322.0,670.0C320.0,646.7 314.0,621.7 312.0,600.0C310.0,578.3 309.7,558.3 310.0,540.0C310.3,521.7 311.7,505.0 314.0,490.0C316.3,475.0 322.0,463.3 324.0,450.0C326.0,436.7 327.0,426.7 326.0,410.0C325.0,393.3 320.0,366.3 318.0,350.0C316.0,333.7 316.0,308.7 314.0,312.0C312.0,315.3 309.0,350.3 306.0,370.0C303.0,389.7 300.0,410.0 296.0,430.0C292.0,450.0 286.3,470.0 282.0,490.0C277.7,510.0 272.3,534.7 270.0,550.0C267.7,565.3 269.3,572.0 268.0,582.0C266.7,592.0 263.7,600.3 262.0,610.0C260.3,619.7 260.3,632.7 258.0,640.0C255.7,647.3 251.7,653.0 248.0,654.0C244.3,655.0 239.3,652.3 236.0,646.0C232.7,639.7 229.0,626.7 228.0,616.0C227.0,605.3 228.0,592.0 230.0,582.0C232.0,572.0 236.7,563.3 240.0,556.0C243.3,548.7 246.3,550.7 250.0,538.0C253.7,525.3 258.0,499.3 262.0,480.0C266.0,460.7 270.7,442.0 274.0,422.0C277.3,402.0 280.0,378.7 282.0,360.0C284.0,341.3 284.3,325.3 286.0,310.0C287.7,294.7 289.0,279.3 292.0,268.0C295.0,256.7 298.7,248.3 304.0,242.0C309.3,235.7 316.3,233.3 324.0,230.0C331.7,226.7 342.2,225.3 350.0,222.0C357.8,218.7 367.0,217.3 371.0,210.0C375.0,202.7 368.2,183.3 374.0,178.0C379.8,172.7 400.2,172.7 406.0,178.0Z" fill="#fff" stroke="#222" stroke-width="2.2" stroke-linejoin="round"/>
+<ellipse cx="390.0" cy="132" rx="36" ry="48" fill="#fff" stroke="#222" stroke-width="2.2"/>
+<ellipse cx="353.0" cy="136" rx="6" ry="12" fill="#fff" stroke="#222" stroke-width="1.6"/>
+<ellipse cx="427.0" cy="136" rx="6" ry="12" fill="#fff" stroke="#222" stroke-width="1.6"/>
+<path d="M374.0,126.0C375.0,125.5 378.0,123.0 380.0,123.0C382.0,123.0 385.0,125.5 386.0,126.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M394.0,126.0C395.0,125.5 398.0,123.0 400.0,123.0C402.0,123.0 405.0,125.5 406.0,126.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M390.0,130.0C389.3,132.7 385.7,143.0 386.0,146.0C386.3,149.0 391.0,147.7 392.0,148.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M381.0,162.0C382.5,162.5 387.0,165.0 390.0,165.0C393.0,165.0 397.5,162.5 399.0,162.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M384.0,224.0C380.0,223.3 368.7,219.0 360.0,220.0C351.3,221.0 336.7,228.3 332.0,230.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M382.0,300.0C377.7,301.3 364.3,309.7 356.0,308.0C347.7,306.3 336.0,293.0 332.0,290.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M396.0,224.0C400.0,223.3 411.3,219.0 420.0,220.0C428.7,221.0 443.3,228.3 448.0,230.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M398.0,300.0C402.3,301.3 415.7,309.7 424.0,308.0C432.3,306.3 444.0,293.0 448.0,290.0" fill="none" stroke="#222" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="390.0" cy="442" r="2.5" fill="#222"/>
+<path d="M320.0,478.0C331.7,479.3 366.7,486.0 390.0,486.0C413.3,486.0 448.3,479.3 460.0,478.0" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M311.0,550.0C317.5,551.0 337.8,556.0 350.0,556.0C362.2,556.0 378.3,551.0 384.0,550.0" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M469.0,550.0C462.5,551.0 442.2,556.0 430.0,556.0C417.8,556.0 401.7,551.0 396.0,550.0" fill="none" stroke="#222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="200,256 214,256 302.0,256" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="302.0" cy="256" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,312 214,312 314.0,312" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="314.0" cy="312" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,348 214,348 390.0,336" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="390.0" cy="336" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,384 214,384 352.0,368" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="352.0" cy="368" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,420 214,420 324.0,408" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="324.0" cy="408" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,468 214,468 390.0,468" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="390.0" cy="468" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,516 214,516 360.0,516" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="360.0" cy="516" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,552 214,552 246.0,540" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="246.0" cy="540" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,588 214,588 238.0,578" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="238.0" cy="578" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,670 214,670 322.0,670" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="322.0" cy="670" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="200,750 214,750 352.0,750" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="352.0" cy="750" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,227 566,227 424.0,227" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="424.0" cy="227" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,264 566,264 390.0,264" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="390.0" cy="264" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,312 566,312 410.0,312" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="410.0" cy="312" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,366 566,366 430.0,366" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="430.0" cy="366" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,402 566,402 390.0,374" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="390.0" cy="374" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,442 566,442 390.0,442" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="390.0" cy="442" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,498 566,498 390.0,498" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="390.0" cy="498" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,536 566,536 390.0,536" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="390.0" cy="536" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,572 566,572 522.0,546" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="522.0" cy="546" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,608 566,608 406.0,598" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="406.0" cy="598" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<polyline points="580,850 566,850 436.0,850" fill="none" stroke="#888" stroke-width="1"/>
+<circle cx="436.0" cy="850" r="5" fill="#fff" stroke="#c62828" stroke-width="2.4"/>
+<text x="194" y="253" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">20</tspan> Articulation de l&#39;épaule</text><text x="194" y="268" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Eukke Gwanjol</text>
+<text x="194" y="309" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">45</tspan> Aisselle</text><text x="194" y="324" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Gyodurang</text>
+<text x="194" y="345" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">25</tspan> Plexus solaire</text><text x="194" y="360" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Myong Chi</text>
+<text x="194" y="381" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">27</tspan> Foie</text><text x="194" y="396" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Ganjang</text>
+<text x="194" y="417" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">46</tspan> Côtes flottantes</text><text x="194" y="432" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Nuk Gol</text>
+<text x="194" y="465" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">30</tspan> Bas-ventre</text><text x="194" y="480" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Ha Bokboo</text>
+<text x="194" y="513" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">32</tspan> Aine</text><text x="194" y="528" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Sataguni</text>
+<text x="194" y="549" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">17</tspan> Artère radiale</text><text x="194" y="564" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Maekbak Sonmok Dongmaek</text>
+<text x="194" y="585" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">16</tspan> Éminence thénar</text><text x="194" y="600" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Umjigoo</text>
+<text x="194" y="667" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">47</tspan> Articulation du genou</text><text x="194" y="682" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Murup Gwanjol</text>
+<text x="194" y="747" text-anchor="end" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">49</tspan> Tibia</text><text x="194" y="762" text-anchor="end" font-size="11.5" font-style="italic" fill="#555">Kyong Gol</text>
+<text x="586" y="224" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">15</tspan> Clavicule</text><text x="586" y="239" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Swe Gol</text>
+<text x="586" y="261" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">23</tspan> Sternum</text><text x="586" y="276" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Hyung Gol</text>
+<text x="586" y="309" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">24</tspan> Cœur</text><text x="586" y="324" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Shimjang</text>
+<text x="586" y="363" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">26</tspan> Rate</text><text x="586" y="378" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Bijang</text>
+<text x="586" y="399" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">28</tspan> Épigastre</text><text x="586" y="414" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Sang Bokboo</text>
+<text x="586" y="439" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">29</tspan> Nombril</text><text x="586" y="454" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Baekkob</text>
+<text x="586" y="495" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">31</tspan> Région pubienne</text><text x="586" y="510" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Chiboo</text>
+<text x="586" y="533" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">33</tspan> Scrotum</text><text x="586" y="548" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Nang Shim</text>
+<text x="586" y="569" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">19</tspan> Articulation du poignet</text><text x="586" y="584" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Sonmok Gwanjol</text>
+<text x="586" y="605" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">48</tspan> Intérieur de la cuisse</text><text x="586" y="620" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Anjok Hobok Dari</text>
+<text x="586" y="847" text-anchor="start" font-size="13" fill="#222"><tspan font-weight="bold" fill="#c62828">34</tspan> Cou-de-pied</text><text x="586" y="862" text-anchor="start" font-size="11.5" font-style="italic" fill="#555">Baldung</text>
+</svg>

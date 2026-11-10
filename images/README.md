@@ -11,6 +11,15 @@ Les schémas cotés des 21 positions, générés par
 [sogi/](sogi/README.md) : ce sont eux que référence la partie IV du
 [manuel](../Theorie/manuel/partie-4-positions-sogi/README.md).
 
+## Points vitaux (*Kupso*)
+
+Trois planches SVG (tête de profil, corps de face, corps de dos) dans
+`images/points-vitaux/`, générées par
+[scripts/generer-points-vitaux.py](https://github.com/yvmori1/La-boite-outils-ITF/blob/main/scripts/generer-points-vitaux.py)
+à partir du tableau des 49 points de
+[Combat/points-vitaux.md](../Combat/points-vitaux.md) : changer un nom dans la
+page, puis relancer le script avec `--write`.
+
 ## Exercices fondamentaux
 
 | Image | Exercice |
