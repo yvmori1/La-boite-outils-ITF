@@ -10,7 +10,8 @@
   1. index de Techniques/           (les fiches ont pu changer)
   2. compteurs du README racine     (d'après le contenu réel des dossiers)
   3. graphies normalisées           (variantes sans ambiguïté)
-  4. liens des formes vers les fiches, fiches liées, infobulles du glossaire
+  4. liens des formes vers les fiches, fiches liées, lectures par grade et
+     révisions de fin de partie, infobulles du glossaire
   5. prononciations et liens audio  (fiches, manuel, pages de Combat/)
   6. réparation des audio manquants
   7. menus des sections (.pages)    (d'après les sommaires README)
@@ -134,6 +135,7 @@ def main():
         ("liens des formes", lambda: lancer("lier-mouvements.py", [], args.write)),
         # les fiches liées se calculent d'après les liens que les formes portent
         ("fiches liées", lambda: lancer("generer-voir-aussi.py", [], args.write)),
+        ("parcours et révisions", lambda: lancer("generer-parcours.py", [], args.write)),
         ("infobulles du glossaire",
          lambda: lancer("generer-infobulles.py", [], args.write)),
     ]

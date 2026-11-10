@@ -12,3 +12,4 @@ Ce qui distingue le Taekwon-Do d'une gymnastique : la puissance y est calculée.
 
 * Le vocabulaire de cette partie : [la théorie de la puissance](../../glossaire/14-la-theorie-de-la-puissance.md) (annexe B, glossaire).
 * Ces principes s'appliquent à chaque position (partie IV) et à chaque technique (partie V) ; les formes (partie VI) en sont l'entraînement.
+* Se tester : [révision de la partie II](../../revisions/partie-2.md), avec les questions des examens théoriques.

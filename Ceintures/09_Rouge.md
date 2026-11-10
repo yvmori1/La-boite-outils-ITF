@@ -2,6 +2,17 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/09-2e-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#2e-gup--ceinture-rouge--fiche) · [combats arrangés](Combats-arranges/08_2e-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#2e-gup-ceinture-rouge-vers-1er-gup)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [Combat, autodéfense et casse](../Combat/README.md)
+* [ ] [23. Les vingt-quatre formes en un tableau](../Theorie/manuel/partie-6-formes-tul/23-les-vingt-quatre-formes-en-un-tableau.md)
+* [ ] [25. Distances de saut dans les formes](../Theorie/manuel/annexe-b-distances-de-saut.md)
+* [ ] [26. Types de mouvements](../Theorie/manuel/annexe-c-types-de-mouvements.md)
+
+<!-- /parcours -->
+
 Ceinture Rouge (2e Gup)
 
 * **Effort d'entraînement minimal requis :** 45 heures d'entraînement minimales.

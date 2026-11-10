@@ -14,3 +14,4 @@ En Taekwon-Do ITF, le nom d'une technique n'est pas une étiquette : il en décr
 
 * Le vocabulaire de cette partie : [armes naturelles de la main et du bras](../../glossaire/05-les-armes-naturelles-la-main-et-le-bras.md), [de la jambe et du pied](../../glossaire/06-les-armes-naturelles-la-jambe-et-le-pied.md), [hauteur, côté et direction](../../glossaire/08-hauteur-cote-et-direction.md), [verbes d'action](../../glossaire/10-les-verbes-d-action.md) (annexe B, glossaire).
 * La grammaire appliquée : chaque [technique combinée](../../../Techniques/README.md) (partie V) porte un nom construit selon ces règles.
+* Se tester : [révision de la partie III](../../revisions/partie-3.md), avec les questions des examens théoriques.

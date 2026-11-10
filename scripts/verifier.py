@@ -19,6 +19,7 @@ Contrôles effectués :
   9. graphies concurrentes d'un même terme
  10. couverture des liens dans les formes
  11. mise en forme Markdown compatible GitHub et MkDocs
+ 12. lectures par grade et révisions de fin de partie à jour
 """
 
 import argparse
@@ -186,6 +187,8 @@ CONTROLES = [
      lambda: controle_generateur("generer-index-techniques.py"), True),
     ("fiches liées à jour",
      lambda: controle_generateur("generer-voir-aussi.py"), True),
+    ("parcours et révisions à jour",
+     lambda: controle_generateur("generer-parcours.py"), True),
     ("menus des sections à jour",
      lambda: controle_generateur("generer-menus.py"), True),
     ("planches des points vitaux à jour",

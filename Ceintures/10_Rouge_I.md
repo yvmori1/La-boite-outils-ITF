@@ -2,6 +2,16 @@
 
 > **Pour ce grade :** [examen théorique](../Theorie/examens/ceintures-de-couleur/10-1er-gup.md) · [combat, autodéfense et casse](../Combat/progression.md#1er-gup--ceinture-rouge-barre-noire--fiche) · [combats arrangés](Combats-arranges/09_1er-Gup.md) · [exigences du programme de session](../Theorie/programme-session/02-exigences-des-examens.md#1er-gup-barre-noire-vers-1er-dan-ceinture-noire)
 
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [Les points vitaux (Kupso — 급소)](../Combat/points-vitaux.md)
+* [ ] [L'autodéfense (Hosinsul — 호신술)](../Combat/hosinsul.md)
+* [ ] [Exigences par grade : combat, autodéfense et casse](../Combat/progression.md)
+
+<!-- /parcours -->
+
 Ceinture Rouge I / Barre Noire (1er Gup)
 
 * **Effort d'entraînement minimal requis :** 90 heures d'entraînement minimales (135 heures de Rouge I à Noire I d'après le barème du club).
