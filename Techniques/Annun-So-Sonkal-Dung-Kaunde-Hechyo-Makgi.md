@@ -70,7 +70,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
-* **Geste de base :** [Blocage d'arret (Hechyo Makgi)](../makgi/hechyo-makgi.md)
+* **Geste de base :** [Blocage d'arrêt (Hechyo Makgi)](../makgi/hechyo-makgi.md)
 * **Dans les formes :** [Sam-Il](../tul/sam-il.md)
 
 <!-- /fiches-liees -->

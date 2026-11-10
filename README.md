@@ -46,7 +46,7 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — [지르기](audio/grammaire/Jirugi.m4a) | 21 |
 | [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 333 |
 | [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 8 |
-| [Theorie](Theorie/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 5 |
+| [Theorie](Theorie/manuel/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 5 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 29 |
 
 ---

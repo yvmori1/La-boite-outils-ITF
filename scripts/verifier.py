@@ -127,7 +127,8 @@ def controle_compteurs():
     for l in (RACINE / "README.md").read_text(encoding="utf-8").splitlines():
         m = ligne.match(l)
         if m:
-            dossier, annonce = m.group(2), int(m.group(3))
+            # « Theorie/manuel/README.md » compte pour le dossier Theorie
+            dossier, annonce = m.group(2).split("/")[0], int(m.group(3))
             reel = compte_reel(dossier)
             if reel is not None and reel != annonce:
                 ecarts.append(f"{dossier} : annoncé {annonce}, réel {reel}")

@@ -35,4 +35,4 @@ Une attaque peut survenir n'importe où, même chez soi. L'agresseur a l'avantag
 - Situations illustrées : **poignard** (*Dae Dando* : coup à la tête, coups de taille vers l'extérieur, etc.), **baïonnette** (*Dae Chong Gum* : estoc au plexus ou à la gorge, coup de crosse, coup de taille vers les jambes ; esquiver de près pour contre-attaquer sans pas supplémentaire), **bâton** (*Dae Gonbong*), **perche** (*Dae Mongdung-i*), **pistolet** (*Dae Gwon Chong*).
 - Contre un pistolet, toute technique de combat peut servir, mais seulement à très courte distance, quand l'adversaire sort l'arme ou est en train de viser ; la feinte est peut-être la meilleure défense, à condition d'être très rapide.
 
-> Le site traite le sujet dans `Combat/hosinsul.md` et `Theorie/manuel/partie-7-autodefense-hosinsul.md`.
+> Le site traite le sujet dans `Combat/hosinsul.md` et `Theorie/manuel/partie-7-autodefense-hosinsul/`.

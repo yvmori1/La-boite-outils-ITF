@@ -1,4 +1,4 @@
-# Blocage d'arret (Hechyo Makgi)
+# Blocage d'arrêt (Hechyo Makgi)
 
 > 🔊 **Prononciation :** [헤쳐 막기](../audio/makgi/hechyo-makgi.m4a)
 

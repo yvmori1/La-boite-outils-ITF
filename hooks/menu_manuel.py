@@ -25,7 +25,7 @@ from mkdocs.structure.pages import Page
 PLAN = pathlib.Path(__file__).resolve().parents[1] / "menu.yml"
 
 # Pages publiées volontairement hors du menu (on y arrive par des liens).
-HORS_MENU = {"Theorie/README.md"}
+HORS_MENU = set()
 
 log = logging.getLogger("mkdocs.hooks.menu_manuel")
 

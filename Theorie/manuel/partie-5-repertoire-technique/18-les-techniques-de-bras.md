@@ -32,7 +32,7 @@
 * **[Bakat Palmok Makgi](../../../makgi/bakat-palmok-makgi.md) ([밖팔목막기](../../../audio/grammaire/Bakat-Palmok-Makgi.m4a)) :** Blocage externe de l'avant-bras.
 * **[An Palmok Makgi](../../../makgi/an-palmok-makgi.md) ([안팔목막기](../../../audio/grammaire/An-Palmok-Makgi.m4a)) :** Blocage interne de l'avant-bras.
 * **Sonkal Makgi ([손칼막기](../../../audio/grammaire/Sonkal-Makgi.m4a)) :** Blocage du tranchant de la main.
-* **Heetchyo Makgi ([헤쳐막기](../../../audio/grammaire/Heetchyo-Makgi.m4a)) :** Double blocage d'écartement (de l'intérieur vers l'extérieur).
+* **[Heetchyo Makgi](../../../makgi/hechyo-makgi.md) ([헤쳐막기](../../../audio/grammaire/Heetchyo-Makgi.m4a)) :** Double blocage d'arrêt : les deux avant-bras s'ouvrent ensemble de l'intérieur vers l'extérieur.
 * **[Sang Palmok Makgi](../../../makgi/sang-palmok-makgi.md) ([쌍팔목막기](../../../audio/grammaire/Sang-Palmok-Makgi.m4a)) :** Double blocage protecteur des avant-bras.
 * **Kyocha Makgi ([교차막기](../../../audio/grammaire/Kyocha-Makgi.m4a)) :** Blocage croisé (en X) haut ou bas.
 * **Mokuro Makgi ([몽둥이막기](../../../audio/grammaire/Mokuro-Makgi.m4a)) :** Blocage bimanuel en berceau / en U.
