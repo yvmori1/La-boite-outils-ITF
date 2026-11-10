@@ -13,6 +13,31 @@ Les fiches techniques sont nommées en **romanisation coréenne** (`dollyo-chagi
 
 ---
 
+## À propos de ce recueil
+
+### L'initiateur
+
+*La boîte à outils ITF* a été conçue et mise en place par **Yves Morin**, 5e degré, du club **Hosinsul** de Sainte-Thérèse–Blainville.
+
+### La raison d'être
+
+Au moment où ce projet a vu le jour, il n'existait aucune ressource de référence fiable consacrée au Taekwon-Do ITF en langue française. Les ouvrages fondamentaux, à commencer par ceux du Général Choi Hong Hi, fondateur de la discipline, ainsi que les documents officiels de la Fédération internationale de Taekwon-Do, sont pour l'essentiel rédigés en anglais, et les documents disponibles en français demeurent épars et inégaux.
+
+Ce recueil entend combler ce manque. Il rassemble, en un même lieu et dans une langue commune, la théorie, la terminologie coréenne, les techniques, les formes et les exigences de chaque grade, en s'appuyant systématiquement sur les sources reconnues, recensées dans la [bibliographie](Bibliographie.md).
+
+### Le public visé
+
+Le recueil s'adresse à l'ensemble des pratiquants francophones et francophiles du Taekwon-Do, à travers le monde, quel que soit leur grade : l'élève qui prépare son prochain passage de grade, le pratiquant avancé qui souhaite approfondir la théorie, comme l'instructeur à la recherche d'un support de cours rigoureux.
+
+### Un ouvrage collaboratif
+
+*La boîte à outils ITF* se veut un ouvrage ouvert et vivant. Chacun est invité à contribuer à son exactitude et à son enrichissement, en signalant une erreur, en proposant une précision ou en suggérant un ajout, par l'une des deux voies suivantes :
+
+* les [pages de discussion](https://github.com/yvmori1/La-boite-outils-ITF/discussions), ouvertes à tous, qui constituent également le moyen privilégié pour poser une question ou entrer en contact avec l'initiateur du projet ;
+* une [Pull Request](https://github.com/yvmori1/La-boite-outils-ITF/pulls), pour soumettre directement une modification des fiches.
+
+---
+
 ## Par où commencer
 
 Le site suit le [Manuel](Theorie/manuel/README.md) : huit parties, de ce qu'est le Taekwon-Do jusqu'aux grades, chacune suivie des fiches qui la mettent en pratique.
