@@ -9,3 +9,8 @@ Avant les techniques : ce qu'est le Taekwon-Do, d'où il vient, et la conduite q
 * [3. Le Do : la culture morale de l'adepte](03-le-do-la-culture-morale-de-l-adepte.md)
 * [4. Étiquette et vie du dojang](04-etiquette-et-vie-du-dojang.md)
 * [5. Le dobok et les ceintures](05-le-dobok-et-les-ceintures.md)
+
+## Pour aller plus loin
+
+* Le vocabulaire de cette partie, mot par mot : [l'art et ses valeurs](../../glossaire/01-l-art-et-ses-valeurs.md), [au dojang : commandements et étiquette](../../glossaire/02-au-dojang-commandements-et-etiquette.md), [grades et titres](../../glossaire/04-grades-et-titres.md) (annexe B, glossaire).
+* Ce que chaque grade demande en théorie : [examens théoriques](../../examens/README.md) (partie VIII).

@@ -1,5 +1,7 @@
 # Combat, autodéfense et casse
 
+*Partie VII du [Manuel](../Theorie/manuel/README.md).*
+
 Le Taekwon-Do se compose de cinq volets si étroitement liés qu'on ne peut
 isoler l'un des autres : les mouvements fondamentaux, les formes (*Tul*), le
 conditionnement (*Dallyon* — [단련](../audio/combats/Dallyon.m4a)), le combat (*Matsogi* — [맞서기](../audio/combats/Matsogi.m4a)) et

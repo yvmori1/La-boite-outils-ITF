@@ -13,3 +13,9 @@ même temps la mémoire historique de la Corée.
 * [24. Les formes une à une](24-les-formes-une-a-une.md)
 * [25. Distances de saut dans les formes](../annexe-b-distances-de-saut.md)
 * [26. Types de mouvements](../annexe-c-types-de-mouvements.md)
+
+## Pour pratiquer
+
+* [Fiches des formes](../../../tul/README.md) : les trois Saju, puis chaque forme mouvement par mouvement, rangées par grade.
+* La forme à présenter à chaque examen : [fiches de grade](../../../Ceintures/README.md) (partie VIII).
+* Vocabulaire : [formes et figures](../../glossaire/09-formes-et-figures.md) et [les formes (Tul)](../../glossaire/15-les-formes-tul.md) (annexe B, glossaire).
