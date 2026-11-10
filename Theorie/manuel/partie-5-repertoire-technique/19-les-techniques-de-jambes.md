@@ -13,7 +13,7 @@
 * **[Yop Nullo Chagi](../../../chagi/nullo-chagi.md) ([옆눌러차기](../../../audio/grammaire/Yop-Nullo-Chagi.m4a)) :** Coup de pied pressant latéral (écrasement du genou adverse).
 * **[Dollyo Chagi](../../../chagi/dollyo-chagi.md) ([돌려차기](../../../audio/chagi/dollyo-chagi.m4a)) :** Coup de pied circulaire (avec le bol *Apkumchi* ou le dessus du pied *Baldong*).
 * **[Bandae Dollyo Chagi](../../../chagi/bandae-dollyo-chagi.md) ([반대돌려차기](../../../audio/grammaire/Bandae-Dollyo-Chagi.m4a)) :** Coup de pied circulaire retourné (par le dos, impact avec le talon).
-* **Goro Chagi ([걸어차기](../../../audio/grammaire/Goro-Chagi.m4a)) :** Coup de pied crocheté de face (avec l'arrière du talon *Dwikumchi*).
+* **[Golcho Chagi](../../../chagi/golcho-chagi.md) ([걸쳐차기](../../../audio/termes/golcho-chagi.m4a)) :** Coup de pied crocheté : le côté du cou-de-pied accroche le membre qui attaque, en courbe vers l'extérieur.
 * **[Bandae Dollyo Goro Chagi](../../../chagi/bandae-dollyo-goro-chagi.md) ([반대돌려걸어차기](../../../audio/grammaire/Bandae-Dollyo-Goro-Chagi.m4a)) :** Coup de pied crocheté retourné (par le dos).
 * **[Bituro Chagi](../../../chagi/bituro-chagi.md) ([비틀어차기](../../../audio/grammaire/Bituro-Chagi.m4a)) :** Coup de pied vrillé (ouverture en torsion externe avec le bol).
 * **[Dwit Chagi](../../../chagi/dwit-chagi.md) ([뒤차기](../../../audio/grammaire/Dwit-Chagi.m4a)) :** Coup de pied arrière direct rectiligne (en piston, impact avec le talon).

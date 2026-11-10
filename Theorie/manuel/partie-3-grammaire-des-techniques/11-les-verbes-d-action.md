@@ -17,5 +17,5 @@ même verbe ne s'exécutent pas de la même façon.
 | **Suroh** | Dynamique | Fauchage circulaire rasant le sol. | Voûte plantaire — *Suroh Chagi*. |
 | **Naeryo** | Dynamique | Percussion lourde verticale, du haut vers le bas. | Talon ou tranchant externe. |
 | **Nullo** | Dynamique | Écrasement vertical vers le bas pour briser un appui. | Plante du pied ou paume. |
-| **Goro** | Dynamique | Trajectoire circulaire qui dépasse la cible pour la ramener en crochet. | Arrière du talon — *Goro Chagi*. |
+| **Goro** | Dynamique | Trajectoire circulaire qui dépasse la cible pour la ramener en crochet. | Arrière du talon — *Dollyo Goro Chagi*. |
 | **Bituro** | Dynamique | Départ axial s'ouvrant en torsion vers l'extérieur à l'impact. | Bol du pied — *Bituro Chagi*. |
