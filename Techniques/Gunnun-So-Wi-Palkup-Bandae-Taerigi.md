@@ -72,6 +72,7 @@ Chaque frappe suit un blocage de garde au tranchant de la main en position en L 
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Frappe du coude (Palkup Taerigi)](../jirugi/palkup-taerigi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md)
 
 <!-- /fiches-liees -->

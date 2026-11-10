@@ -75,6 +75,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Gojung Sogi](../sogi/Gojung-Sogi.md)
+* **Geste de base :** [Coup de poing en U (Digutja Jirugi)](../jirugi/digutja-jirugi.md)
 * **Dans les formes :** [Yoo-Sin](../tul/yoo-sin.md)
 
 <!-- /fiches-liees -->

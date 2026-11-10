@@ -62,6 +62,7 @@ Cette technique combine la poussée vers l'avant de la position en marche avec l
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Coup de poing retourné (Dwijibo Jirugi)](../jirugi/dwijibo-jirugi.md)
 * **Dans les formes :** [Kwang-Gae](../tul/kwang-gae.md), [Ge-Baek](../tul/ge-baek.md)
 
 <!-- /fiches-liees -->

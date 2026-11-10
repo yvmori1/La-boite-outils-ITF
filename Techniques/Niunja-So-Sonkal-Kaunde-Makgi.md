@@ -73,6 +73,6 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
-* **Geste de base :** [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md)
+* **Geste de base :** [Blocage au niveau moyen (Kaunde Makgi)](../makgi/kaunde-makgi.md), [Blocage du tranchant de la main (Sonkal Makgi)](../makgi/sonkal-makgi.md)
 
 <!-- /fiches-liees -->

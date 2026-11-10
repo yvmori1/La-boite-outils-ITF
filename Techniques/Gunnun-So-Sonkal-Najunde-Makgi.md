@@ -82,7 +82,7 @@ Voir aussi : [Gunnun So Palmok Najunde Makgi](Gunnun-So-Palmok-Najunde-Makgi.md)
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
-* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md)
+* **Geste de base :** [Blocage bas (Najunde Makgi)](../makgi/najunde-makgi.md), [Blocage du tranchant de la main (Sonkal Makgi)](../makgi/sonkal-makgi.md)
 * **Dans les formes :** [Saju Makgi](../tul/saju-makgi.md), [Ge-Baek](../tul/ge-baek.md), [Choong-Jang](../tul/choong-jang.md)
 
 <!-- /fiches-liees -->

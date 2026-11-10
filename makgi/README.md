@@ -44,6 +44,8 @@ Un nom de blocage se construit en combinant quatre éléments : **surface** (*Pa
 | [bakat-palmok-makgi.md](bakat-palmok-makgi.md) | Blocage avec le tranchant externe de l'avant-bras |
 | [sonkal-dung-makgi.md](sonkal-dung-makgi.md) | Blocage du revers de la main |
 | [sonbadak-makgi.md](sonbadak-makgi.md) | Blocage montant de la paume |
+| [sonbadak-naeryo-makgi.md](sonbadak-naeryo-makgi.md) | Blocage descendant de la paume |
+| [sonkal-makgi.md](sonkal-makgi.md) | Blocage du tranchant de la main |
 | [sonmok-makgi.md](sonmok-makgi.md) | Blocage du poignet |
 | [sonmok-dung-makgi.md](sonmok-dung-makgi.md) | Blocage avec le dos du poignet |
 | [bandalson-makgi.md](bandalson-makgi.md) | Blocage en arc de main |

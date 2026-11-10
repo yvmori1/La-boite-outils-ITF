@@ -77,6 +77,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
+* **Geste de base :** [Coup de poing direct de face (Ap Jirugi)](../jirugi/ap-jirugi.md)
 * **Dans les formes :** [Juche](../tul/juche.md)
 
 <!-- /fiches-liees -->

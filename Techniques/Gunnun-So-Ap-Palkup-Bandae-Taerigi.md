@@ -73,6 +73,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Frappe du coude (Palkup Taerigi)](../jirugi/palkup-taerigi.md)
 * **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Ge-Baek](../tul/ge-baek.md), [Sam-Il](../tul/sam-il.md), [Choi-Yong](../tul/choi-yong.md)
 
 <!-- /fiches-liees -->

@@ -71,6 +71,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Coup de poing retourné (Dwijibo Jirugi)](../jirugi/dwijibo-jirugi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Kwang-Gae](../tul/kwang-gae.md), [Sam-Il](../tul/sam-il.md), [Yoo-Sin](../tul/yoo-sin.md)
 
 <!-- /fiches-liees -->

@@ -72,6 +72,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Coup de poing latéral (Yop Jirugi)](../jirugi/yop-jirugi.md)
 * **Dans les formes :** [Joong-Gun](../tul/joong-gun.md), [Eui-Am](../tul/eui-am.md), [Ul-Ji](../tul/ul-ji.md), [So-San](../tul/so-san.md), [Tong-Il](../tul/tong-il.md)
 
 <!-- /fiches-liees -->

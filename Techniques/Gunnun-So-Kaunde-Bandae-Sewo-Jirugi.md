@@ -74,6 +74,7 @@ Voir aussi : [Gunnun So Sang Joomuk Nopunde Sewo Jirugi](Gunnun-So-Sang-Joomuk-N
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Coup de poing vertical (Sewo Jirugi)](../jirugi/sewo-jirugi.md)
 * **Dans les formes :** [So-San](../tul/so-san.md)
 
 <!-- /fiches-liees -->

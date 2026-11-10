@@ -74,3 +74,11 @@ C'est une technique majeure du programme intermédiaire :
 * **Orientation de la main à plat (*Pyeon*) :** Laisser la paume orientée vers le sol au lieu de la maintenir verticale, ce qui transforme la technique en un *Pyeon Sonkut*.
 * **Frapper une zone dure / osseuse :** Viser les côtes ou le sternum au lieu du creux de l'estomac / plexus mâtiné de tissus mous.
 * **Poignet cassé :** Relâcher la tension du poignet à l'impact, ce qui absorbe l'onde de choc et peut blesser l'articulation.
+
+<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
+
+## Fiches liées
+
+* **Geste de base :** [Pique verticale du bout des doigts (Sun Sonkut Tulgi)](../jirugi/sun-sonkut-tulgi.md)
+
+<!-- /fiches-liees -->

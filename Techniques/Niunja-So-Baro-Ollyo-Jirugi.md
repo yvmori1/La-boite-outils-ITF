@@ -75,6 +75,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Coup de poing ascendant (Ollyo Jirugi)](../jirugi/ollyo-jirugi.md)
 * **Dans les formes :** [Hwa-Rang](../tul/hwa-rang.md)
 
 <!-- /fiches-liees -->

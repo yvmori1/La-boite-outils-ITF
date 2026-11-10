@@ -80,6 +80,7 @@ Le nom des fichiers reprend la **romanisation coréenne** de la technique.
 | Fiche | Technique |
 | :--- | :--- |
 | [twimyo-chagi.md](twimyo-chagi.md) | Coup de pied sauté |
+| [twimyo-dollyo-chagi.md](twimyo-dollyo-chagi.md) | Coup de pied circulaire sauté |
 | [twimyo-hopi-chagi.md](twimyo-hopi-chagi.md) | Coup de pied sauté avec bond |
 | [twimyo-bandae-dollyo-chagi.md](twimyo-bandae-dollyo-chagi.md) | Coup de pied circulaire inversé sauté |
 | [twimyo-yopcha-jirugi.md](twimyo-yopcha-jirugi.md) | Coup de pied latéral perçant sauté |

@@ -86,6 +86,7 @@ Voir aussi : [Sun Sonkut Kaunde Tulgi](Sun-Sonkut-Kaunde-Tulgi.md).
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Pique verticale du bout des doigts (Sun Sonkut Tulgi)](../jirugi/sun-sonkut-tulgi.md)
 * **Dans les formes :** [Do-San](../tul/do-san.md), [Won-Hyo](../tul/won-hyo.md), [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md), [Choong-Moo](../tul/choong-moo.md), [Ul-Ji](../tul/ul-ji.md), [Se-Jong](../tul/se-jong.md)
 
 <!-- /fiches-liees -->

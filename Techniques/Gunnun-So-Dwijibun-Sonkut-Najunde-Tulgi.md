@@ -64,6 +64,7 @@ Cette technique associe la puissance de poussée de la position en marche à la 
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Pique retournée du bout des doigts (Dwijibun Sonkut Tulgi)](../jirugi/dwijibun-sonkut-tulgi.md)
 * **Dans les formes :** [Toi-Gye](../tul/toi-gye.md), [Choong-Moo](../tul/choong-moo.md)
 
 <!-- /fiches-liees -->

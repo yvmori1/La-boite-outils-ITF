@@ -77,6 +77,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Coup de poing latéral (Yop Jirugi)](../jirugi/yop-jirugi.md)
 * **Dans les formes :** [Tong-Il](../tul/tong-il.md)
 
 <!-- /fiches-liees -->

@@ -74,6 +74,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Kyocha Sogi](../sogi/Kyocha-Sogi.md)
+* **Geste de base :** [Coup de poing ascendant (Ollyo Jirugi)](../jirugi/ollyo-jirugi.md)
 * **Dans les formes :** [Yon-Gae](../tul/yon-gae.md)
 
 <!-- /fiches-liees -->

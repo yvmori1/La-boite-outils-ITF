@@ -71,6 +71,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Frappe du coude (Palkup Taerigi)](../jirugi/palkup-taerigi.md)
 * **Dans les formes :** [Ul-Ji](../tul/ul-ji.md)
 
 <!-- /fiches-liees -->

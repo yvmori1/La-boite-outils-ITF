@@ -72,6 +72,7 @@ Dans Juche, la frappe de coude précède un pas croisé en position en X : elle 
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Frappe du coude (Palkup Taerigi)](../jirugi/palkup-taerigi.md)
 * **Dans les formes :** [Juche](../tul/juche.md)
 
 <!-- /fiches-liees -->

@@ -76,7 +76,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Dwitbal Sogi](../sogi/Dwitbal-Sogi.md)
-* **Geste de base :** [Blocage descendant (Naeryo Makgi)](../makgi/naeryo-makgi.md)
+* **Geste de base :** [Blocage descendant de la paume (Sonbadak Naeryo Makgi)](../makgi/sonbadak-naeryo-makgi.md)
 * **Dans les formes :** [Moon-Moo](../tul/moon-moo.md)
 
 <!-- /fiches-liees -->

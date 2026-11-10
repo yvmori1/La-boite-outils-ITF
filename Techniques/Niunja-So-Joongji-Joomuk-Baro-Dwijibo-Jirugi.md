@@ -75,6 +75,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Niunja Sogi](../sogi/Niunja-Sogi.md)
+* **Geste de base :** [Coup de poing retourné (Dwijibo Jirugi)](../jirugi/dwijibo-jirugi.md)
 * **Dans les formes :** [So-San](../tul/so-san.md)
 
 <!-- /fiches-liees -->

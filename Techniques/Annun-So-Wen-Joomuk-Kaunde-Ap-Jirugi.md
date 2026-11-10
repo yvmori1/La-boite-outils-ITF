@@ -75,6 +75,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Annun Sogi](../sogi/Annun-Sogi.md)
+* **Geste de base :** [Coup de poing direct de face (Ap Jirugi)](../jirugi/ap-jirugi.md)
 * **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Hwa-Rang](../tul/hwa-rang.md), [Ge-Baek](../tul/ge-baek.md)
 
 <!-- /fiches-liees -->

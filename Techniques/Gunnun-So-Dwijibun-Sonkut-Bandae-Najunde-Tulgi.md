@@ -69,6 +69,7 @@ Voir aussi : [Gunnun So Dwijibun Sonkut Najunde Tulgi](Gunnun-So-Dwijibun-Sonkut
 ## Fiches liées
 
 * **Position :** [Gunnun Sogi](../sogi/Gunnun-Sogi.md)
+* **Geste de base :** [Pique retournée du bout des doigts (Dwijibun Sonkut Tulgi)](../jirugi/dwijibun-sonkut-tulgi.md)
 * **Dans les formes :** [Sam-Il](../tul/sam-il.md)
 
 <!-- /fiches-liees -->

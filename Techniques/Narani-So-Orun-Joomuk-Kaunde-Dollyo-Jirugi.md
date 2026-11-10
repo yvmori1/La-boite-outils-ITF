@@ -75,6 +75,7 @@ Sa décomposition linguistique est la suivante :
 ## Fiches liées
 
 * **Position :** [Narani Sogi](../sogi/Narani-Sogi.md)
+* **Geste de base :** [Coup de poing tournant (Dollyo Jirugi)](../jirugi/dollyo-jirugi.md)
 * **Dans les formes :** [Eui-Am](../tul/eui-am.md)
 
 <!-- /fiches-liees -->

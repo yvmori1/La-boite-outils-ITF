@@ -76,7 +76,7 @@ On retrouve les techniques de blocage descendant dans plusieurs formes officiell
 
 ## Fiches liées
 
-* **Techniques complètes :** [Dwitbal So Euhkallin Sonbadak Naeryo Makgi](../Techniques/Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md), [Dwitbal So Sonbadak Bandae Naeryo Makgi](../Techniques/Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md), [Gunnun So Kyocha Joomuk Naeryo Makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Naeryo-Makgi.md), [Niunja So Bakat Palmok Bandae Naeryo Makgi](../Techniques/Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.md), [Niunja So Bakat Palmok Naeryo Makgi](../Techniques/Niunja-So-Bakat-Palmok-Naeryo-Makgi.md)
-* **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md), [Moon-Moo](../tul/moon-moo.md)
+* **Techniques complètes :** [Gunnun So Kyocha Joomuk Naeryo Makgi](../Techniques/Gunnun-So-Kyocha-Joomuk-Naeryo-Makgi.md), [Niunja So Bakat Palmok Bandae Naeryo Makgi](../Techniques/Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.md), [Niunja So Bakat Palmok Naeryo Makgi](../Techniques/Niunja-So-Bakat-Palmok-Naeryo-Makgi.md)
+* **Dans les formes :** [Eui-Am](../tul/eui-am.md), [Juche](../tul/juche.md), [Ko-Dang](../tul/ko-dang.md)
 
 <!-- /fiches-liees -->
