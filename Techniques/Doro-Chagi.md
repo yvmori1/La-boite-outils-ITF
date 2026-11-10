@@ -2,66 +2,59 @@
 
 > 🔊 **Prononciation :** [도로 차기](../audio/Techniques/Doro-Chagi.m4a)
 
-Le **Doro Chagi** ([도로 차기](../audio/Techniques/Doro-Chagi.m4a)) est le **coup de poing-pied de retour / coup de pied retournant** (*Returning kick*) en TaeKwon-Do ITF.
+Le **Doro Chagi** ([도로 차기](../audio/Techniques/Doro-Chagi.m4a)) est le **coup de pied en vague** (*Waving kick*) en TaeKwon-Do ITF.
 
-Cette technique dynamique repose sur une action d'extension suivie d'une **rétraction immédiate et explosive** de la jambe (*Kopurigi*) le long de sa trajectoire d'origine. Contrairement aux coups de pied standard où le pied retombe naturellement vers le sol après l'impact, le *Doro Chagi* met l'accent sur le rappel ultra-rapide du membre pour enchaîner, feinter ou éviter une saisie.
+C'est un coup de pied défensif : il sert à **bloquer un coup de pied adverse dirigé vers l'entrejambe**, et à éviter que l'adversaire n'écrase le cou-de-pied latéral. Il s'exécute le plus souvent en **position assise** (*Annun Sogi*), parfois en position diagonale (*Sasun Sogi*), et si vite que **le centre de gravité ne change pas** pendant le coup.
 
 Sa décomposition linguistique est la suivante :
 
-* **Doro ([도로](../audio/termes/doro.m4a)) :** De retour / En arrière / Revenir au point d'origine (*Returning / Back*).
+* **Doro ([도로](../audio/termes/doro.m4a)) :** terme ITF rendu en anglais par *waving* (en vague).
 * **Chagi ([차기](../audio/termes/chagi.m4a)) :** Coup de pied (*Kick*).
 
-*(Note : Ne pas confondre avec **Dora Chagi** [[돌아 차기](../audio/chagi/dora-chagi.m4a)], qui désigne un coup de pied tournant/retourné sur soi-même).*
+*(Note : Ne pas confondre avec **Dora Chagi** [[돌아 차기](../audio/chagi/dora-chagi.m4a)], qui désigne un coup de pied tournant/retourné sur soi-même.)*
 
 ---
 
-## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
+## 1. Caractéristiques techniques
 
 | Caractéristique | Norme technique ITF |
 | --- | --- |
-| **Arme naturelle** | Variable selon la déclinaison : **Ap Kumchi** (bol du pied), **Balkal** (tranchant), **Dwitkumchi** (talon) ou **Balbadak** (plante du pied). |
-| **Mécanisme principal (*Doro*)** | **Effet de ressort bidirectionnel** : une phase d'extension vive suivie immédiatement d'un retrait en piston de égale vitesse (*Snap-back*). |
-| **Cibles prioritaires** | Le **visage**, le **plexus solaire**, le **bas-ventre** ou la **garde adverse** (en feinte). |
-| **Niveaux d'exécution** | **Kaunde** (moyen) ou **Nopunde** (haut). |
-| **Pied d'appui** | Reste fermement ancré et légèrement fléchi pour maintenir le centre de gravité bas pendant l'aller-retour de la jambe. |
+| **Arme naturelle** | **Yop Balbadak** (côté de la plante du pied). |
+| **Trajectoire** | **En ligne droite** vers la cible, sans mouvement de rotation. |
+| **Cible** | **L'articulation de la cheville** de la jambe qui attaque, et elle seule. |
+| **Positions** | **Annun Sogi** (position assise) le plus souvent ; occasionnellement **Sasun Sogi** (position diagonale). |
+| **Centre de gravité** | **Inchangé** : le coup est si rapide que le corps ne bouge pas. |
+| **Retour** | Le pied qui frappe **revient au sol après chaque coup**. |
 
 ---
 
-## 2. Décomposition étape par étape de l'exécution
+## 2. Exécution
 
-### Étape 1 : L'Armement et l'Extension Initiales
-
-1. **Montée du genou :** Le genou de la jambe d'attaque monte haut et armé vers le buste, verrouillant l'angle de tir.
-2. **Détente vive :** La jambe se détend rapidement vers la cible (en coup de pied direct, latéral ou circulaire selon la variante).
-
-### Étape 2 : L'Impact et la Rétraction Instantanée (*Doro*)
-
-1. **Percussion brève :** Le contact avec la cible est extrêmement bref et sec (*Snap*), sans transfert de poids prolongé vers l'avant.
-2. **Rappel en ressort (*Kopurigi*) :** Dès la fraction de seconde de l'impact, le genou se replie violemment en sens inverse, ramenant le pied vers le bassin le long de la même ligne géométrique.
-
-### Étape 3 : La Pose ou le Re-déclenchement
-
-1. **Contrôle de trajectoire :** La jambe ramenée peut soit se poser au sol en posture de combat parfaitement équilibrée (*Niunja Sogi* ou *Gunnun Sogi*), soit ré-attaquer immédiatement sans toucher le sol (*Double / Redoubled kick*).
-2. **Gainage du tronc :** La sangle abdominale absorbe l'inertie du retour pour éviter que le buste ne soit entraîné vers l'arrière.
+1. **Départ :** en position assise, le poids réparti également sur les deux pieds, le buste droit.
+2. **Coup :** le pied part en ligne droite vers la cheville du pied qui attaque, avec le côté de la plante, sans pivoter.
+3. **Retour :** le pied revient aussitôt au sol, à sa place, pour retrouver la position assise sans que le centre de gravité ait bougé.
 
 ---
 
-## 3. Intérêt tactique et Self-Défense (*Hosinsul*)
+## 3. Dans les formes
 
-> **Anti-saisie, feinte tactique et vitesse d'enchaînement :**
->
-> 1. **Protection contre les saisies de jambe :** Face à un adversaire spécialisé dans la capture des coups de pied, le rappel instantané (*Doro*) retire le pied avant que la main ennemie ne puisse se refermer sur la cheville ou le pantalon.
-> 2. **Feinte et rupture de rythme (*Double Kick*) :** Permet de simuler une première attaque pour faire réagir la garde de l'adversaire, ramener la jambe à mi-course (*Doro*), puis relancer une frappe réelle dans la brèche créée.
-> 3. **Maintien de la distance de sécurité :** Empêche le combattant de se retrouver déséquilibré ou "aspiré" vers l'avant après une frappe manquée.
+Le *Doro Chagi* n'apparaît que dans **Yoo-Sin** :
+
+* **Mouvement 52 :** coup de pied en vague vers D avec le pied droit, puis blocage extérieur haut vers AC avec l'avant-bras extérieur droit, en position assise vers E.
+* **Mouvement 53 :** coup de pied en vague vers C avec le pied gauche, puis blocage frontal haut vers ED avec l'avant-bras extérieur droit, en position assise vers E.
+
+Les mains restent dans la position du mouvement précédent pendant le coup de pied.
 
 ---
 
 ## 4. Erreurs fréquentes à éviter
 
-* **Laisser tomber la jambe :** Relâcher le genou après l'impact et laisser la jambe descendre en diagonale au lieu de la ramener vivement le long de son axe d'armement.
-* **Confusion linguistique et technique :** Effectuer une rotation sur soi-même (*Dora Chagi*) au lieu d'un mouvement de retour d'axe (*Doro Chagi*).
-* **Basculer le buste en arrière :** Jeter le haut du corps vers l'arrière au moment du retour de la jambe, ce qui détruit la posture et l'équilibre.
-* **Armement incomplet :** Ne pas fléchir suffisamment le genou lors du retour, réduisant l'efficacité du retrait à un simple mouvement mou.
+* **Déplacer le centre de gravité :** pencher le corps ou se soulever pendant le coup ; c'est l'erreur que l'Encyclopédie signale.
+* **Frapper en arc :** faire tourner le pied au lieu de l'amener en ligne droite sur la cheville.
+* **Viser trop haut :** la cible est la cheville, pas le tibia ni le genou.
+* **Ne pas reposer le pied :** enchaîner sans ramener le pied au sol après chaque coup.
+
+*Source : Encyclopédie condensée du Taekwon-Do, p. 313.*
 
 <!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
 

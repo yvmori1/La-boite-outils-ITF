@@ -47,4 +47,4 @@
 | Double coup de pied avant                  | twin foot front kick         | Sangbal chagi               | [쌍발 차기](../../../audio/chagi/sangbal-chagi.m4a)                                |
 | Coup de pied dévié                         | twisting kick                | Bituro chagi | [비틀어차기](../../../audio/grammaire/Bituro-Chagi.m4a) |
 | Coup de pied vertical                      | vertical kick                | Sewo chagi | [세워차기](../../../audio/chagi/sewo-chagi.m4a) |
-| Coup de pied d'arrêt balayé                | waving kick                  | Doro chagi                  | [도로 차기](../../../audio/Techniques/Doro-Chagi.m4a)                              |
+| Coup de pied en vague                      | waving kick                  | Doro chagi                  | [도로 차기](../../../audio/Techniques/Doro-Chagi.m4a)                              |
