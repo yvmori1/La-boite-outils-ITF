@@ -33,7 +33,7 @@ Les fiches sont cumulatives : un grade suppose la maîtrise de tous les précéd
 
 ## Combats arrangés
 
-* [Combats arrangés par grade](Combats-arranges/README.md) — déroulement pas à pas des combats arrangés #1 à #21 et exigences des ceintures noires, d'après le programme de session. Chaque fiche de grade renvoie à la page de son niveau.
+* [Combats arrangés par grade](Combats-arranges/README.md) — déroulement pas à pas des combats arrangés #1 à #20 et exigences des ceintures noires, d'après le programme de session. Chaque fiche de grade renvoie à la page de son niveau.
 
 ---
 

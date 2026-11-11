@@ -137,7 +137,7 @@ Le coup de pied de côté sauté n'est pas exigé à partir de 40 ans.
 
 ### 4e Dan · [fiche](../Ceintures/14_Noire_IV.md)
 
-* **Combat :** combat sportif.
+* **Combat :** semi-libre continu de 50 secondes ; combat sportif.
 * **Autodéfense :** défense et contrôle contre deux agresseurs simultanés.
 * **Casse :** coup de pied de côté sauté en hauteur (homme au coude, femme aux yeux) ; coup de pied circulaire sauté (homme au bout des doigts, femme et homme de 35 à 39 ans au coude) ; vitesse et précision sur une planche suspendue (coup de pied de côté en puissance, circulaire en vitesse). Programme aménagé en puissance après 40 ans.
 

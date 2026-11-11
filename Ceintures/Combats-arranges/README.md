@@ -22,7 +22,7 @@ La théorie de ces exercices (principes, rôle de chaque format, combat semi-lib
 | [4e Gup](06_4e-Gup.md) | Ceinture bleue | *Joong-Gun* | #10 (1 pas), #11 (1 pas) |
 | [3e Gup](07_3e-Gup.md) | Ceinture bleue barre rouge | *Toi-Gye* | #12 (1 pas), #13 (1 pas) |
 | [2e Gup](08_2e-Gup.md) | Ceinture rouge | *Hwa-Rang* | #14 (1 pas), #15 (1 pas) |
-| [1er Gup](09_1er-Gup.md) | Ceinture rouge barre noire | *Choong-Moo* | #16 (1 pas), #17 (1 pas), #18 à #21 (inventés) |
+| [1er Gup](09_1er-Gup.md) | Ceinture rouge barre noire | *Choong-Moo* | #16 (1 pas), #17 (1 pas), #18 à #20 (inventés, 2 pas) |
 | [Ceintures noires](10_Ceintures-noires.md) | Noire | formes du degré | combats inventés, puis semi-libre |
 
 ## Lire une fiche de combat
