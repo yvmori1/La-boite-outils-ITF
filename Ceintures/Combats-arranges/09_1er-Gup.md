@@ -20,18 +20,17 @@ Par convention, la première attaque se fait du côté droit ; chaque combat se 
 | Défense | Reculer avec un [blocage mains croisées](../../makgi/momchau-makgi.md) (*X checking block*) |
 | Contre-attaque | Dégager le coup de poing vers l'adversaire, pivoter et exécuter un [coup de pied de côté arrière](../../Techniques/Kaunde-Dwitcha-Jirugi.md), puis [double blocage moyen poings fermés en position en L](../../Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) |
 
-## Combats arrangés #18 à #21 — à inventer
+## Combats arrangés #18 à #20 — à inventer
 
-Le candidat au 1er Gup crée ses propres combats sur la base de *Choong-Moo* et des formes déjà apprises, puis révise l'ensemble des combats arrangés depuis le 10e Gup. Le programme de session en donne seulement le cadre :
+Le candidat au 1er Gup **crée trois combats arrangés originaux à 2 pas**, inspirés de *Choong-Moo* et des formes déjà apprises, puis révise l'ensemble des 20 combats arrangés appris depuis le 10e Gup. Chaque combat suit le cadre du combat à 2 pas : l'attaquant part en position en L et alterne une technique de bras et une technique de jambe.
 
-### Combat arrangé #18 — 3 pas de *Choong-Moo* (inventé)
+### Combat arrangé #18 — 2 pas de *Choong-Moo* (inventé)
 
 | Étape | Technique |
 | :--- | :--- |
-| Distance | Placer le pied droit en position de marche, à côté du partenaire |
-| Préparation | *à inventer* |
-| Attaques 1 à 3 | *à inventer* |
-| Défenses 1 à 3 | *à inventer* |
+| Préparation | [Position en L, double blocage mains fermées](../../Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) |
+| Attaque 1 / Défense 1 | *à inventer* |
+| Attaque 2 / Défense 2 | *à inventer* |
 | Contre-attaque | *à inventer* |
 
 ### Combat arrangé #19 — 2 pas de *Choong-Moo* (inventé)
@@ -43,20 +42,14 @@ Le candidat au 1er Gup crée ses propres combats sur la base de *Choong-Moo* et 
 | Attaque 2 / Défense 2 | *à inventer* |
 | Contre-attaque | *à inventer* |
 
-### Combat arrangé #20 — 1 pas de *Choong-Moo* (inventé)
+### Combat arrangé #20 — 2 pas de *Choong-Moo* (inventé)
 
 | Étape | Technique |
 | :--- | :--- |
-| Attaque / Défense / Contre-attaque | *à inventer* |
-
-### Combat arrangé #21 — 1 pas de *Choong-Moo* (inventé)
-
-| Étape | Technique |
-| :--- | :--- |
-| Attaque / Défense / Contre-attaque | *à inventer* |
-
-!!! note "Écart entre les sources"
-    La [fiche du 1er Gup](../10_Rouge_I.md) demande trois combats inventés à 2 pas (#18 à #20), alors que le programme de session en prévoit quatre (#18 à 3 pas, #19 à 2 pas, #20 et #21 à 1 pas). Suivre la consigne de l'instructeur.
+| Préparation | [Position en L, double blocage mains fermées](../../Techniques/Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) |
+| Attaque 1 / Défense 1 | *à inventer* |
+| Attaque 2 / Défense 2 | *à inventer* |
+| Contre-attaque | *à inventer* |
 
 
 ---

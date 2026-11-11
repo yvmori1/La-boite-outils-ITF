@@ -21,6 +21,7 @@
     * *Moon-Moo*
     * Révision complète de *Chon-Ji* à *Choi-Yong*.
 * **Combat :**
+    * Combat semi-libre continu de 50 secondes.
     * Combat sportif.
     * Déroulement détaillé : [combats arrangés des ceintures noires](Combats-arranges/10_Ceintures-noires.md).
 * **Autodéfense (Hosinsul) :**
