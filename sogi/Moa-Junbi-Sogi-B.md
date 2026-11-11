@@ -2,80 +2,54 @@
 
 > 🔊 **Prononciation :** [모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a)
 
-Le **Moa Junbi Sogi B** ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a) B) est une posture rituelle et technique fondamentale du Taekwon-Do (ITF).
+Le **Moa Junbi Sogi B** ([모아 준비 서기](../audio/Techniques/Moa-Junbi-Sogi-B.m4a)) est la **position d'attente rapprochée B** (*Close Ready Stance B*) en TaeKwon-Do ITF.
 
-Elle se traduit par : **Position fermée de préparation "B"** (*Closed Ready Stance B*).
-
-C'est une posture d'attente, de concentration et de recentrage mental exécutée avant le début ou à la fin de certaines formes (*Tuls*).
+C'est la position rapprochée ([Moa Sogi](Moa-Sogi.md)) avec les mains réunies devant le ventre, un poing enveloppé par l'autre main. C'est une posture de concentration avant la forme.
 
 ---
 
-## 1. Décomposition de la terminologie coréenne
-
-| Terme | Hangeul | Traduction | Rôle dans la technique |
-| --- | --- | --- | --- |
-| **Moa** | [모아](../audio/termes/moa.m4a) | Fermé / Joint | Indique que les pieds sont parfaitement collés l'un contre l'autre. |
-| **Junbi** | [준비](../audio/termes/junbi.m4a) | Préparation | Posture d'attente, d'éveil et d'harmonisation de la respiration. |
-| **Sogi** | [서기](../audio/termes/sogi.m4a) | Position / Posture | Posture générale du corps. |
-| **B** | B | Type B | Spécifie la position et la hauteur des mains (au niveau de la ceinture / l'abdomen). |
-
----
-
-## 2. Exécution et principes biomécaniques
+## 1. Caractéristiques techniques et géométrie (*Jook Bang*)
 
 ![moa-junbi-sogi](../images/sogi/moa-junbi-sogi.png)
 
-Le *Moa Junbi Sogi B* demande de la rigidité dans l'ancrage et de la sérénité dans le haut du corps :
-
-1. **La position du bas du corps (*Moa Sogi*) :**
-    * Les pieds sont joints : les talons et les gros orteils se touchent complètement.
-    * Les jambes sont tendues sans verrouillage excessif des genoux.
-    * Le poids du corps est parfaitement réparti (**50 % sur chaque pied**).
-    * Le bassin est rétroversé pour maintenir la colonne vertébrale bien droite.
-2. **La position des mains (Spécificité du Type B) :**
-    * Le **poing droit** est fermé.
-    * La **main gauche s'ouvre et vient envelopper** le poing droit.
-    * La combinaison des mains est placée **au niveau du bas-ventre / de la ceinture** (au niveau du centre de gravité ou *Danjeon*).
-    * Les mains sont maintenues à une distance d'environ **10 à 15 cm du corps**.
-    * Les coudes sont légèrement fléchis et décollés du buste de façon naturelle.
-3. **L'attitude et la respiration :**
-    * Le regard est fixé droit devant soi à hauteur des yeux.
-    * Les épaules sont baissées et décontractées.
-    * La respiration est lente, profonde et abdominale pour favoriser le calme avant l'action.
+| Caractéristique | Norme technique ITF |
+| --- | --- |
+| **Pieds** | Joints, comme en position rapprochée. |
+| **Mains** | Un poing enveloppé par l'autre main, tenus devant le ventre (d'après les photos ; le texte ne dit pas quelle main enveloppe l'autre). |
+| **Distance poings-nombril** | Environ **15 cm**. |
+| **Répartition du poids** | **50 % / 50 %**. |
 
 ---
 
-## 3. Distinction avec les autres variantes *Moa Junbi Sogi*
+## 2. Décomposition de l'exécution
 
-En Taekwon-Do ITF, les lettres permettent d'identifier la hauteur et la forme des mains :
-
-* **Moa Junbi Sogi A :** Le poing droit enveloppé par la main gauche est tenu au niveau du **visage / menton** (ex. *Dan-Gun*, *Won-Hyo*).
-* **Moa Junbi Sogi B :** Le poing droit enveloppé par la main gauche est tenu au niveau du **bas-ventre / ceinture** (ex. *Joong-Goon*, *Toi-Gye*).
-* **Moa Junbi Sogi C :** Les deux mains sont ouvertes, superposées au niveau du **bas-ventre** (ex. *Gae-Baek*).
-* **Moa Junbi Sogi D :** Mains ouvertes tenues plus bas sur les côtés ou au niveau de la ceinture selon les tuls supérieurs (ex. *Eui-Am*).
+1. **Les pieds :** les joindre.
+2. **Les mains :** fermer un poing et l'envelopper de l'autre main.
+3. **La hauteur :** placer les mains devant le ventre, à environ 15 cm du nombril, coudes légèrement fléchis.
+4. **La posture :** épaules basses, regard droit devant.
 
 ---
 
-## 4. Utilisation dans les Formes (*Tuls*)
+## 3. Les quatre types de Moa Junbi Sogi
 
-Le *Moa Junbi Sogi B* sert de posture de départ pour plusieurs formes emblématiques de l'ITF :
+L'Encyclopédie distingue quatre types, selon la place des mains :
 
-* **Joong-Goon Tul**
-* **Toi-Gye Tul**
-* **Po-Eun Tul**
-* **Kwang-Gae Tul**
+* **A :** poings tenus devant le visage, à environ 30 cm du philtrum (voir [type A](Moa-Junbi-Sogi-A.md)).
+* **B :** poings devant le ventre, à environ 15 cm du nombril (voir [type B](Moa-Junbi-Sogi-B.md)).
+* **C :** mains ouvertes devant le bas-ventre, à environ 10 cm de l'abdomen (voir [type C](Moa-Junbi-Sogi-C.md)).
+* **D :** poings tenus bas, à environ 30 cm des cuisses (voir [type D](Moa-Junbi-Sogi-D.md)).
+
+Le type B est la posture de départ de *Joong-Gun*, *Toi-Gye* et *Se-Jong*.
 
 ---
 
-## 5. Erreurs fréquentes à éviter
+## 4. Erreurs fréquentes à éviter
 
-* **Confondre avec le Type A :** Monter les mains au niveau de la poitrine ou du visage au lieu de les maintenir au niveau du nombril/ceinture.
-* **Écartement des pieds :** Laisser un espace entre les talons ou les pointes de pieds (les pieds doivent être rigoureusement collés).
-* **Mains collées au corps :** Poser les mains directement contre le GI (*Dobok*) au lieu de garder un espace de 10 à 15 cm.
-* **Épaules crispées :** Monter les épaules vers les oreilles, ce qui bloque la respiration abdominale.
-* **Coudes écartés en "ailes de poulet" :** Trop écarter les coudes vers l'extérieur ou, au contraire, les plaquer contre les côtes.
+* **Mains collées au ventre** au lieu d'en être écartées d'environ 15 cm.
+* **Mains trop hautes**, devant la poitrine ou le visage : on se rapproche du type A.
+* **Épaules crispées.**
 
-> **Point clé :** Le *Moa Junbi Sogi B* symbolise le contrôle de soi et le rassemblement de l'énergie (*Ki*) au niveau du centre du corps (*Danjeon*), matérialisé par le poing droit enveloppé par la main gauche à hauteur de la ceinture.
+> **Source :** Encyclopédie condensée (1999), p. 81 ; formes : *Joong-Gun*, *Toi-Gye*, *Se-Jong*.
 
 <!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->
 

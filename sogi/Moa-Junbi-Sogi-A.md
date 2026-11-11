@@ -2,7 +2,7 @@
 
 Le **Moa Junbi Sogi A** (모아 준비 서기) est la **position d'attente rapprochée A** (*Close Ready Stance A*) en TaeKwon-Do ITF.
 
-C'est la position rapprochée ([Moa Sogi](Moa-Sogi.md)) avec les mains réunies devant le visage : la main gauche enveloppe le poing droit. C'est une posture de concentration avant la forme.
+C'est la position rapprochée ([Moa Sogi](Moa-Sogi.md)) avec les mains réunies devant le visage, un poing enveloppé par l'autre main. C'est une posture de concentration avant la forme.
 
 ---
 
@@ -13,7 +13,7 @@ C'est la position rapprochée ([Moa Sogi](Moa-Sogi.md)) avec les mains réunies 
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Pieds** | Joints, comme en position rapprochée. |
-| **Mains** | Le poing droit enveloppé par la main gauche, tenus devant le visage. |
+| **Mains** | Un poing enveloppé par l'autre main, tenus devant le visage (d'après les photos ; le texte ne dit pas quelle main enveloppe l'autre). |
 | **Distance poings-philtrum** | Environ **30 cm**. |
 | **Répartition du poids** | **50 % / 50 %**. |
 
@@ -22,7 +22,7 @@ C'est la position rapprochée ([Moa Sogi](Moa-Sogi.md)) avec les mains réunies 
 ## 2. Décomposition de l'exécution
 
 1. **Les pieds :** les joindre.
-2. **Les mains :** fermer le poing droit et l'envelopper de la main gauche.
+2. **Les mains :** fermer un poing et l'envelopper de l'autre main.
 3. **La hauteur :** monter les mains devant le visage, à environ 30 cm du philtrum (le creux sous le nez).
 4. **La posture :** épaules basses, regard droit devant par-dessus les mains.
 
