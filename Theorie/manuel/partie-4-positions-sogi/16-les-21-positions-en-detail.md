@@ -1,4 +1,4 @@
-# 16. Les 21 positions en détail
+# 16. Les 27 positions en détail
 
 Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du poids et le schéma d'alignement coté. Les schémas sont générés par [scripts/generer-sogi.py](https://github.com/yvmori1/La-boite-outils-ITF/blob/main/scripts/generer-sogi.py) ; les longueurs y sont exprimées en largeurs d'épaule.
 
@@ -22,6 +22,7 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
     * **Type A :** Les poings fermés sont tenus haut devant le visage. La distance entre la racine du nez et les poings est d'environ **30 cm**.
     * **Type B :** Les poings sont placés devant le tronc. La distance entre les poings et le nombril est d'environ **15 cm**.
     * **Type C :** Les mains ouvertes sont placées bas devant l'abdomen. La distance entre les mains et l'abdomen est d'environ **10 cm**.
+    * **Type D :** Les poings fermés sont tenus bas, de part et d'autre du corps. La distance entre les poings et les cuisses est d'environ **30 cm**. Posture de départ de la forme *Eui-Am*.
 * **Schéma d'alignement :**
 
 ![moa-junbi-sogi](../../../images/sogi/moa-junbi-sogi.png)
@@ -239,3 +240,70 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 ![an-palja-sogi](../../../images/sogi/an-palja-sogi.png)
 
 ![bakat-palja-sogi](../../../images/sogi/bakat-palja-sogi.png)
+
+## 16.22 Position d'attente ouverte (Palja Junbi Sogi)
+
+* **Nomenclature coréenne :** *Palja Junbi Sogi / 팔자 준비 서기*.
+* **Base :** Identique à la position ouverte (*Palja Sogi*), vers l'intérieur (*An Palja*) ou vers l'extérieur (*Bakat Palja*).
+* **Posture des bras :** Les deux poings sont ramenés naturellement au-dessus des cuisses.
+* **Usage :** Rarement employée, parce qu'elle relâche le corps et les muscles.
+* **Schémas d'alignement :**
+
+![an-palja-sogi](../../../images/sogi/an-palja-sogi.png)
+
+![bakat-palja-sogi](../../../images/sogi/bakat-palja-sogi.png)
+
+## 16.23 Position d'attente assise (Annun Junbi Sogi)
+
+* **Nomenclature coréenne :** *Annun Junbi Sogi / 앉은 준비 서기*.
+* **Base :** Identique à la position assise (*Annun Sogi*).
+* **Posture des bras :** Les mains sont placées comme en position d'attente de marche (*Gunnun Junbi Sogi*, 16.24) : poings fermés à environ **30 cm** des cuisses, coudes fléchis à **30 degrés**.
+* **Usage :** Surtout dans les exercices de pas de côté et dans les exercices fondamentaux de coups de pied.
+* **Schéma d'alignement :**
+
+![annun-sogi](../../../images/sogi/annun-sogi.png)
+
+## 16.24 Position d'attente de marche (Gunnun Junbi Sogi)
+
+* **Nomenclature coréenne :** *Gunnun Junbi Sogi / 걷는 준비 서기*.
+* **Base :** Identique à la position de marche (*Gunnun Sogi*). Elle est dite droite quand le pied droit est devant, et gauche dans le cas inverse.
+* **Posture des bras :** Les poings fermés sont tenus bas, de part et d'autre du corps.
+* **Distances de contrôle :**
+    * Distance entre les poings et les cuisses : environ **30 cm**.
+    * Flexion des coudes : **30 degrés**.
+* **Usage :** Point de départ de nombreux exercices fondamentaux ; on la retrouve en cours de forme, par exemple dans *So-San*.
+* **Schéma d'alignement :**
+
+![gunnun-sogi](../../../images/sogi/gunnun-sogi.png)
+
+## 16.25 Position d'attente du guerrier (Moosa Junbi Sogi)
+
+* **Nomenclature coréenne :** *Moosa Junbi Sogi / 무사 준비 서기*.
+* **Base :** Les photos de l'Encyclopédie montrent les pieds écartés et parallèles, comme en position parallèle (*Narani Sogi*) ; le texte ne précise pas leur placement.
+* **Posture des bras :** Les deux mains sont réunies sur le côté de la taille, un poing enveloppé par l'autre main, comme sur la poignée d'un sabre.
+* **Variantes :**
+    * **Type A :** Les mains sont placées du côté **gauche** de la taille. Posture de départ de la forme *Yon-Gae*.
+    * **Type B :** Les mains sont placées du côté **droit** de la taille. Posture de départ de la forme *Yoo-Sin*, où elle figure un sabre tiré du mauvais côté.
+* **Schéma d'alignement :**
+
+![narani-sogi](../../../images/sogi/narani-sogi.png)
+
+## 16.26 Position d'attente en « L » (Niunja Junbi Sogi)
+
+* **Nomenclature coréenne :** *Niunja Junbi Sogi / ㄴ자 준비 서기*.
+* **Base :** Identique à la position en « L » (*Niunja Sogi*). Elle est dite droite ou gauche comme la position en « L ».
+* **Posture des bras :** L'Encyclopédie ne donne que des photos : les poings fermés sont tenus bas, à hauteur de la ceinture, coudes légèrement fléchis.
+* **Usage :** Point de départ des exercices fondamentaux de coups de pied en avançant.
+* **Schéma d'alignement :**
+
+![niunja-sogi](../../../images/sogi/niunja-sogi.png)
+
+## 16.27 Position d'attente en « X » (Kyocha Junbi Sogi)
+
+* **Nomenclature coréenne :** *Kyocha Junbi Sogi / 교차 준비 서기*.
+* **Base :** Identique à la position en « X » (*Kyocha Sogi*).
+* **Posture des bras :** L'Encyclopédie ne donne que des photos : les deux bras sont presque tendus, écartés vers le bas de chaque côté du corps, poings fermés.
+* **Usage :** Point de départ de certains exercices fondamentaux en position assise, comme la frappe latérale du tranchant de la main.
+* **Schéma d'alignement :**
+
+![kyocha-sogi](../../../images/sogi/kyocha-sogi.png)

@@ -56,7 +56,7 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 | :--- | :--- | :--- |
 | [Requis Examen](Ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
 | [tul](tul/README.md) | Les formes (Tul) et exercices fondamentaux, mouvement par mouvement | 28 |
-| [sogi](sogi/README.md) | Les positions d'appui et de préparation — [서기](audio/termes/sogi.m4a) | 17 |
+| [sogi](sogi/README.md) | Les positions d'appui et de préparation — [서기](audio/termes/sogi.m4a) | 31 |
 | [chagi](chagi/README.md) | Les coups de pied — [차기](audio/termes/chagi.m4a) | 50 |
 | [makgi](makgi/README.md) | Les blocages — [막기](audio/termes/makgi.m4a) | 46 |
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — [지르기](audio/grammaire/Jirugi.m4a) | 34 |

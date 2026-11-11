@@ -42,7 +42,7 @@ M = "Theorie/manuel/"
 CH13 = (M + "partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md",
         "13. Décrypter un nom de technique")
 CH16 = (M + "partie-4-positions-sogi/16-les-21-positions-en-detail.md",
-        "16. Les 21 positions en détail")
+        "16. Les 27 positions en détail")
 CH18 = (M + "partie-5-repertoire-technique/18-les-techniques-de-bras.md",
         "18. Les techniques de bras")
 CH19 = (M + "partie-5-repertoire-technique/19-les-techniques-de-jambes.md",
