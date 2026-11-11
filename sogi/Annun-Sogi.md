@@ -70,7 +70,7 @@ Sa décomposition linguistique est la suivante :
 
 ## Fiches liées
 
-* **Dans le Manuel :** [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
+* **Dans le Manuel :** [16. Les 27 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * **Techniques dans cette position :** 58 fiches, classées dans [Techniques](../Techniques/README.md)
 * **Dans les formes :** [Yul-Gok](../tul/yul-gok.md), [Yoo-Sin](../tul/yoo-sin.md), [Se-Jong](../tul/se-jong.md)
 

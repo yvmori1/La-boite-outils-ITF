@@ -31,7 +31,7 @@ Chaque notion n'apparaît qu'une fois : le crédo, les principes de position, le
 * **[Partie IV — Les positions (Sogi)](partie-4-positions-sogi/README.md)**
     * [14. Principes et constantes](partie-4-positions-sogi/14-principes-et-constantes.md)
     * [15. Les positions d'un coup d'œil](partie-4-positions-sogi/15-les-positions-d-un-coup-d-oeil.md)
-    * [16. Les 21 positions en détail](partie-4-positions-sogi/16-les-21-positions-en-detail.md)
+    * [16. Les 27 positions en détail](partie-4-positions-sogi/16-les-21-positions-en-detail.md)
     * Pour pratiquer : [fiches des positions](../../sogi/README.md)
     * Se tester : [révision de la partie IV](../revisions/partie-4.md)
 * **[Partie V — Le répertoire technique](partie-5-repertoire-technique/README.md)**

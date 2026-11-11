@@ -6,7 +6,7 @@
 
 **À lire dans le Manuel pour ce grade, dans l'ordre :**
 
-* [ ] [16. Les 21 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
+* [ ] [16. Les 27 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
 * [ ] [Le combat libre (Jayu Matsogi — 자유 맞서기)](../Combat/combat-libre.md)
 * [ ] [Règlement et arbitrage du combat](../Combat/arbitrage.md)
 

@@ -200,7 +200,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
     pied = """## Voir aussi
 
 * [../sogi/README.md](../sogi/README.md) — les positions (*Sogi*) et positions de préparation, une fiche chacune.
-* [../Theorie/manuel/partie-4-positions-sogi/README.md](../Theorie/manuel/partie-4-positions-sogi/README.md) — partie IV du manuel : les 21 positions (*Sogi*), cotées et schématisées.
+* [../Theorie/manuel/partie-4-positions-sogi/README.md](../Theorie/manuel/partie-4-positions-sogi/README.md) — partie IV du manuel : les 27 positions (*Sogi*), cotées et schématisées.
 * [../Theorie/manuel/partie-3-grammaire-des-techniques/README.md](../Theorie/manuel/partie-3-grammaire-des-techniques/README.md) — partie III du manuel : les règles complètes de nomenclature.
 * [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.
 """
