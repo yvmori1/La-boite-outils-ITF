@@ -1,6 +1,8 @@
 # Moosa Junbi Sogi B
 
-Le **Moosa Junbi Sogi B** (무사 준비 서기) est la **position d'attente du guerrier B** (*Warrior Ready Stance B*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [무사 준비 서기](../audio/sogi/Moosa-Junbi-Sogi-B.m4a)
+
+Le **Moosa Junbi Sogi B** ([무사 준비 서기](../audio/sogi/Moosa-Junbi-Sogi-A.m4a)) est la **position d'attente du guerrier B** (*Warrior Ready Stance B*) en TaeKwon-Do ITF.
 
 C'est une position d'attente debout, les deux mains réunies sur le côté droit de la taille, comme sur la poignée d'un sabre. C'est la posture de départ de *Yoo-Sin* : le sabre tiré du côté droit au lieu du gauche rappelle l'erreur du général Kim Yoo-Sin, qui suivit l'ordre de son roi de combattre aux côtés de forces étrangères.
 

@@ -1,6 +1,8 @@
 # Moa Junbi Sogi D
 
-Le **Moa Junbi Sogi D** (모아 준비 서기) est la **position d'attente rapprochée D** (*Close Ready Stance D*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [모아 준비 서기](../audio/sogi/Moa-Junbi-Sogi-D.m4a)
+
+Le **Moa Junbi Sogi D** ([모아 준비 서기](../audio/lexique/Moa-junbi-sogi.m4a)) est la **position d'attente rapprochée D** (*Close Ready Stance D*) en TaeKwon-Do ITF.
 
 C'est la position rapprochée ([Moa Sogi](Moa-Sogi.md)) avec les poings tenus bas, écartés du corps de part et d'autre.
 

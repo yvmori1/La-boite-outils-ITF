@@ -1,6 +1,8 @@
 # Guburyo Sogi
 
-Le **Guburyo Sogi** (구부려 서기) est la **position fléchie** (*Bending Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [구부려 서기](../audio/sogi/Guburyo-Sogi.m4a)
+
+Le **Guburyo Sogi** ([구부려 서기](../audio/grammaire/Guburyo-Sogi.m4a)) est la **position fléchie** (*Bending Stance*) en TaeKwon-Do ITF.
 
 C'est une position sur une jambe dont la jambe d'appui est fléchie. Elle prépare surtout les coups de pied de côté et vers l'arrière, mais sert aussi souvent pour défendre.
 

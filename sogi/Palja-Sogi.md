@@ -1,8 +1,10 @@
 # Palja Sogi
 
-Le **Palja Sogi** (팔자 서기) est la **position ouverte** (*Open Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [팔자 서기](../audio/sogi/Palja-Sogi.m4a)
 
-C'est une position debout, jambes droites, pieds écartés d'une largeur d'épaule. Elle se divise en deux variantes selon l'orientation des orteils : vers l'intérieur (*An Palja Sogi*, 안 팔자 서기) ou vers l'extérieur (*Bakat Palja Sogi*, 밖 팔자 서기). Les muscles des jambes y sont relâchés et l'assise peu stable : on l'emploie donc surtout comme position préparatoire, rarement pour attaquer ou défendre.
+Le **Palja Sogi** ([팔자 서기](../audio/grammaire/Palja-Sogi.m4a)) est la **position ouverte** (*Open Stance*) en TaeKwon-Do ITF.
+
+C'est une position debout, jambes droites, pieds écartés d'une largeur d'épaule. Elle se divise en deux variantes selon l'orientation des orteils : vers l'intérieur (*An Palja Sogi*, [안 팔자 서기](../audio/termes/an-palja-sogi.m4a)) ou vers l'extérieur (*Bakat Palja Sogi*, [밖 팔자 서기](../audio/termes/bak-palja-sogi.m4a)). Les muscles des jambes y sont relâchés et l'assise peu stable : on l'emploie donc surtout comme position préparatoire, rarement pour attaquer ou défendre.
 
 ---
 

@@ -1,6 +1,8 @@
 # Annun Junbi Sogi
 
-Le **Annun Junbi Sogi** (앉은 준비 서기) est la **position d'attente assise** (*Sitting Ready Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [앉은 준비 서기](../audio/sogi/Annun-Junbi-Sogi.m4a)
+
+Le **Annun Junbi Sogi** ([앉은 준비 서기](../audio/sogi/Annun-Junbi-Sogi.m4a)) est la **position d'attente assise** (*Sitting Ready Stance*) en TaeKwon-Do ITF.
 
 C'est la position assise ([Annun Sogi](Annun-Sogi.md)) avec les mains placées comme en position d'attente de marche ([Gunnun Junbi Sogi](Gunnun-Junbi-Sogi.md)). Elle sert surtout aux exercices de pas de côté.
 

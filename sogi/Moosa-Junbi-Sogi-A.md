@@ -1,6 +1,8 @@
 # Moosa Junbi Sogi A
 
-Le **Moosa Junbi Sogi A** (무사 준비 서기) est la **position d'attente du guerrier A** (*Warrior Ready Stance A*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [무사 준비 서기](../audio/sogi/Moosa-Junbi-Sogi-A.m4a)
+
+Le **Moosa Junbi Sogi A** ([무사 준비 서기](../audio/sogi/Moosa-Junbi-Sogi-A.m4a)) est la **position d'attente du guerrier A** (*Warrior Ready Stance A*) en TaeKwon-Do ITF.
 
 C'est une position d'attente debout, les deux mains réunies sur le côté gauche de la taille, comme sur la poignée d'un sabre. C'est la posture de départ de *Yon-Gae*.
 

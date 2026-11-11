@@ -1,6 +1,8 @@
 # Niunja Junbi Sogi
 
-Le **Niunja Junbi Sogi** (ㄴ자 준비 서기) est la **position d'attente en « L »** (*L-Ready Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [ㄴ자 준비 서기](../audio/sogi/Niunja-Junbi-Sogi.m4a)
+
+Le **Niunja Junbi Sogi** ([ㄴ자 준비 서기](../audio/sogi/Niunja-Junbi-Sogi.m4a)) est la **position d'attente en « L »** (*L-Ready Stance*) en TaeKwon-Do ITF.
 
 C'est la position en « L » ([Niunja Sogi](Niunja-Sogi.md)) prise comme position d'attente, les poings tenus bas. L'Encyclopédie ne la décrit que par des photos.
 

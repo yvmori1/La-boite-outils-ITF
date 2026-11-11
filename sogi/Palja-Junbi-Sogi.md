@@ -1,6 +1,8 @@
 # Palja Junbi Sogi
 
-Le **Palja Junbi Sogi** (팔자 준비 서기) est la **position d'attente ouverte** (*Open Ready Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [팔자 준비 서기](../audio/sogi/Palja-Junbi-Sogi.m4a)
+
+Le **Palja Junbi Sogi** ([팔자 준비 서기](../audio/sogi/Palja-Junbi-Sogi.m4a)) est la **position d'attente ouverte** (*Open Ready Stance*) en TaeKwon-Do ITF.
 
 C'est la position ouverte ([Palja Sogi](Palja-Sogi.md)), vers l'intérieur ou vers l'extérieur, avec les deux poings ramenés naturellement au-dessus des cuisses. Elle est rarement employée, parce qu'elle relâche le corps et les muscles.
 

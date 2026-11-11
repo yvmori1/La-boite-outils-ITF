@@ -1,6 +1,8 @@
 # Moa Junbi Sogi A
 
-Le **Moa Junbi Sogi A** (모아 준비 서기) est la **position d'attente rapprochée A** (*Close Ready Stance A*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [모아 준비 서기](../audio/sogi/Moa-Junbi-Sogi-A.m4a)
+
+Le **Moa Junbi Sogi A** ([모아 준비 서기](../audio/lexique/Moa-junbi-sogi.m4a)) est la **position d'attente rapprochée A** (*Close Ready Stance A*) en TaeKwon-Do ITF.
 
 C'est la position rapprochée ([Moa Sogi](Moa-Sogi.md)) avec les mains réunies devant le visage, un poing enveloppé par l'autre main. C'est une posture de concentration avant la forme.
 

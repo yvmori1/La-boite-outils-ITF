@@ -1,8 +1,10 @@
 # Kyong Ye Jase
 
-Le **Kyong Ye Jase** (경례 자세) est la **posture de salut** (*Bow Posture*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [경례 자세](../audio/sogi/Kyong-Ye-Jase.m4a)
 
-C'est le salut du TaeKwon-Do ITF : depuis la position à l'attention, le corps s'incline légèrement vers l'avant, sans quitter l'autre des yeux. Il se fait au commandement *Kyong Ye* (경례).
+Le **Kyong Ye Jase** ([경례 자세](../audio/grammaire/Kyong-Ye-Jase.m4a)) est la **posture de salut** (*Bow Posture*) en TaeKwon-Do ITF.
+
+C'est le salut du TaeKwon-Do ITF : depuis la position à l'attention, le corps s'incline légèrement vers l'avant, sans quitter l'autre des yeux. Il se fait au commandement *Kyong Ye* ([경례](../audio/combats/Kyong-ye.m4a)).
 
 ---
 

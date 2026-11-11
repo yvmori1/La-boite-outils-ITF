@@ -1,6 +1,8 @@
 # Oguryo Sogi
 
-Le **Oguryo Sogi** (오구려 서기) est la **position accroupie** (*Crouched Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [오구려 서기](../audio/sogi/Oguryo-Sogi.m4a)
+
+Le **Oguryo Sogi** ([오구려 서기](../audio/grammaire/Oguryo-Sogi.m4a)) est la **position accroupie** (*Crouched Stance*) en TaeKwon-Do ITF.
 
 C'est une variante de la position en diagonale ([Sasun Sogi](Sasun-Sogi.md)) : les genoux sont fléchis et rentrés l'un vers l'autre, ce qui met les jambes sous tension. Elle permet de passer vite à une autre position et offre une garde souple qui pousse l'adversaire à bouger en combat libre. Elle reste peu employée, car les genoux rentrés sont vulnérables aux attaques latérales.
 

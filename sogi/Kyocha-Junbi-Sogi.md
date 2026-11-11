@@ -1,6 +1,8 @@
 # Kyocha Junbi Sogi
 
-Le **Kyocha Junbi Sogi** (교차 준비 서기) est la **position d'attente en « X »** (*X-Ready Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [교차 준비 서기](../audio/sogi/Kyocha-Junbi-Sogi.m4a)
+
+Le **Kyocha Junbi Sogi** ([교차 준비 서기](../audio/sogi/Kyocha-Junbi-Sogi.m4a)) est la **position d'attente en « X »** (*X-Ready Stance*) en TaeKwon-Do ITF.
 
 C'est la position en « X » ([Kyocha Sogi](Kyocha-Sogi.md)) prise comme position d'attente, les bras écartés vers le bas. L'Encyclopédie ne la décrit que par des photos.
 

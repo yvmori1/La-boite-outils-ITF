@@ -1,8 +1,10 @@
 # Charyo Sogi
 
-Le **Charyo Sogi** (차렷 서기) est la **position à l'attention** (*Attention Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [차렷 서기](../audio/sogi/Charyo-Sogi.m4a)
 
-C'est la position du garde-à-vous, prise avant et après chaque exercice, et au début comme à la fin du cours. L'Encyclopédie l'appelle *Charyot Sogi* ; le commandement *Charyot* (차렷) la fait prendre.
+Le **Charyo Sogi** ([차렷 서기](../audio/grammaire/Charyo-Sogi.m4a)) est la **position à l'attention** (*Attention Stance*) en TaeKwon-Do ITF.
+
+C'est la position du garde-à-vous, prise avant et après chaque exercice, et au début comme à la fin du cours. L'Encyclopédie l'appelle *Charyot Sogi* ; le commandement *Charyot* ([차렷](../audio/lexique/Charyot.m4a)) la fait prendre.
 
 ---
 
@@ -30,7 +32,7 @@ C'est la position du garde-à-vous, prise avant et après chaque exercice, et au
 
 ## 3. Position à l'attention et salut
 
-Le salut ([Kyong Ye Jase](Kyong-Ye-Jase.md)) se fait depuis la position à l'attention. Au commandement *Swiyo* (쉬어, repos), l'élève passe en position d'attente parallèle ([Narani Junbi Sogi](Narani-Junbi-Sogi.md)).
+Le salut ([Kyong Ye Jase](Kyong-Ye-Jase.md)) se fait depuis la position à l'attention. Au commandement *Swiyo* ([쉬어](../audio/grammaire/Swiyo.m4a), repos), l'élève passe en position d'attente parallèle ([Narani Junbi Sogi](Narani-Junbi-Sogi.md)).
 
 ---
 

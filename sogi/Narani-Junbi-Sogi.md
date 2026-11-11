@@ -1,6 +1,8 @@
 # Narani Junbi Sogi
 
-Le **Narani Junbi Sogi** (나란히 준비 서기) est la **position d'attente parallèle** (*Parallel Ready Stance*) en TaeKwon-Do ITF.
+> 🔊 **Prononciation :** [나란히 준비 서기](../audio/sogi/Narani-Junbi-Sogi.m4a)
+
+Le **Narani Junbi Sogi** ([나란히 준비 서기](../audio/lexique/Narani-junbi-sogi.m4a)) est la **position d'attente parallèle** (*Parallel Ready Stance*) en TaeKwon-Do ITF.
 
 C'est la position parallèle ([Narani Sogi](Narani-Sogi.md)) avec les deux poings ramenés naturellement devant l'abdomen. C'est la position d'attente la plus courante : elle ouvre de nombreuses formes et la plupart des exercices fondamentaux.
 
