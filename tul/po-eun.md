@@ -22,6 +22,8 @@
 
 ### Posture de départ : position parallèle avec les mains vers le ciel
 
+*([Narani so hanulson](../Techniques/Narani-So-Hanulson.md))*
+
 1. Déplacer le pied gauche vers B, pour former une position en L droite vers B tout en exécutant un blocage de garde moyen vers B avec l'avant-bras.
    *([Niunja so palmok kaunde daebi makgi](../makgi/palmok-daebi-makgi.md))*
 2. Tirer le pied droit vers l'articulation du genou gauche pour former une position sur une jambe gauche vers D, tout en soulevant les deux poings tout en tournant le visage vers A.

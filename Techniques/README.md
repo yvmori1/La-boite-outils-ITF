@@ -10,7 +10,7 @@ L'ordre de lecture d'un nom ITF est : **position → surface → niveau → dire
 
 Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
 
-**333 fiches** au total.
+**334 fiches** au total.
 
 ---
 
@@ -442,6 +442,7 @@ La posture elle-même est décrite dans [Narani-Sogi.md](../sogi/Narani-Sogi.md)
 
 | Fiche | Technique |
 | :--- | :--- |
+| [Narani-So-Hanulson.md](Narani-So-Hanulson.md) | Position parallèle avec la main du ciel |
 | [Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md](Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md) | Coup de poing circulaire moyen du poing gauche en posture pieds parallèles |
 | [Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md](Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md) | Coup de poing circulaire moyen du poing droit en posture pieds parallèles |
 | [Narani-So-Wen-Joomuk-Kaunde-Jirugi.md](Narani-So-Wen-Joomuk-Kaunde-Jirugi.md) | Coup de poing direct moyen du poing gauche en posture pieds parallèles |
