@@ -1,8 +1,8 @@
 # Coup de pied circulaire inversé en esquive (Pihamyo Bandae Dollyo Chagi)
 
-> 🔊 **Prononciation :** [피하며 반대 돌려차기](../audio/chagi/ihamyo-bandae-dollyo-chagi.m4a)
+> 🔊 **Prononciation :** [피하며 반대 돌려차기](../audio/chagi/pihamyo-bandae-dollyo-chagi.m4a)
 
-Le **Pihamyo Bandae Dollyo Chagi** ([피하며 반대 돌려차기](../audio/chagi/ihamyo-bandae-dollyo-chagi.m4a)) est le **coup de pied circulaire inversé en esquive** (ou *Dodging reverse turning kick*).
+Le **Pihamyo Bandae Dollyo Chagi** ([피하며 반대 돌려차기](../audio/chagi/pihamyo-bandae-dollyo-chagi.m4a)) est le **coup de pied circulaire inversé en esquive** (ou *Dodging reverse turning kick*).
 
 C'est l'une des contre-attaques les plus spectaculaires, efficaces et gratifiantes du TaeKwon-Do ITF.
 

@@ -17,7 +17,7 @@
 | Coup de pied sauté avant en hauteur        | flying high kick             | Twimyo hopi chagi           | [뛰며 호피차기](../../../audio/chagi/twimyo-hopi-chagi.m4a)                        |
 | Coup de pied circulaire inversé sauté      | flying reverse turning kick  | Twimyo bandae dollyo chagi  | [뛰며 반대 돌려차기](../../../audio/chagi/twimyo-bandae-dollyo-chagi.m4a)          |
 | Coup de pied latéral tranchant sauté       | flying side piercing kick    | Twimyo yopcha jirugi        | [뛰며 옆차 지르기](../../../audio/Techniques/Twimyo-Yopcha-Jirugi.m4a)             |
-| Double coup de pied sauté                  | flying two directions kick   | Twimyo sangband chagi       | [뛰며 쌍방차기](../../../audio/chagi/twimyo-sangband-chagi.m4a)                    |
+| Double coup de pied sauté                  | flying two directions kick   | Twimyo sangband chagi       | [뛰며 쌍방차기](../../../audio/chagi/twimyo-sangbang-chagi.m4a)                    |
 | Coup de pied sauté pénétrant               | flying thrusting kick        | Twimyo cha tulgi | [뛰며 차 뚫기](../../../audio/grammaire/twimyo-cha-tulgi.m4a) |
 | Coup de pied avant                         | front kick                   | Ap chagi | [앞차기](../../../audio/chagi/ap-chagi.m4a) |
 | Coup de pied avant soulevé                 | front rising kick            | Apcha olligi                | [앞차 올리기](../../../audio/chagi/apcha-olligi.m4a)                               |

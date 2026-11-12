@@ -81,7 +81,7 @@
 * **Ijun chagi ([이중차기](../audio/chagi/ijun-chagi.m4a)) :** Coup de pied double (deux frappes identiques répétées très rapidement).
 * **Napunde chagi (Nopunde chagi) :** Coup de pied exécuté au niveau haut (*Nopunde* = niveau visage/tête).
 * **Hache chagi ([하체차기](../audio/termes/hachechagi.m4a)) :** Coup de pied ciblant le bas du corps / les membres inférieurs (*Hache* = bas du corps).
-* **Pihamyo bandae dollyo chagi ([피하며 반대 돌려차기](../audio/chagi/ihamyo-bandae-dollyo-chagi.m4a)) :** Coup de pied circulaire inversé exécuté tout en effectuant une esquive ou un retrait du buste (*Pihamyo* = en esquivant).
+* **Pihamyo bandae dollyo chagi ([피하며 반대 돌려차기](../audio/chagi/pihamyo-bandae-dollyo-chagi.m4a)) :** Coup de pied circulaire inversé exécuté tout en effectuant une esquive ou un retrait du buste (*Pihamyo* = en esquivant).
 
 ---
 
