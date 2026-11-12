@@ -36,4 +36,5 @@ consultées.
 ## Autres documents
 
 * GM Paul McPhail, *Flying and Jumping Distances*.
-    * [Manuel, chapitre 25 — Distances de saut dans les formes](Theorie/manuel/annexe-b-distances-de-saut.md), complétée par les informations reçues lors des différents IIC (*International Instructor Courses*).
+    * [Manuel, chapitre 25 — Distances de saut dans les formes](Theorie/manuel/annexe-b-distances-de-saut.md),
+* *IIC de 2010 a 2026*: Les informations reçues lors des différents IIC (*International Instructor Courses*).
