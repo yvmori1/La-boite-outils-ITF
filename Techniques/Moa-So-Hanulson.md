@@ -4,7 +4,7 @@
 
 Le **Moa So Hanulson** ([모아 서 하늘손](../audio/Techniques/Moa-So-Hanulson.m4a)) est la **posture pieds joints avec la main du ciel** (*Closed stance heaven hand*) en TaeKwon-Do ITF.
 
-Cette posture statique et hautement symbolique combine l'ancrage strict pieds joints (**Moa Sogi**) et le placement rituel des mains appelé **Hanulson** (*Heaven hand* ou "main céleste"). Elle sert principalement de position de départ de préparation (**Junbi Sogi**) pour certains patrons (*Tul*) très avancés.
+Cette posture statique et hautement symbolique combine l'ancrage strict pieds joints (**Moa Sogi**) et le placement rituel des mains appelé **Hanulson** (*Heaven hand* ou "main céleste"). L'Encyclopédie l'emploie au mouvement 26 de **Juche** et dans deux exercices fondamentaux. La même main du ciel, en position parallèle, ouvre **Kwang-Gae** et **Po-Eun** : voir [Narani So Hanulson](Narani-So-Hanulson.md).
 
 Sa décomposition linguistique est la suivante :
 
@@ -19,19 +19,20 @@ Sa décomposition linguistique est la suivante :
 | Caractéristique | Norme technique ITF |
 | --- | --- |
 | **Posture (*Moa Sogi*)** | **Pieds parfaitement joints et parallèles** (talons, métatarses et gros orteils en contact strict sur toute leur longueur). Poids du corps réparti à 50% / 50%. |
-| **Placement des mains (*Hanulson*)** | Les deux mains sont ouvertes (**Sonkal**). La **main gauche entoure ou se place sous/devant la main droite**, les paumes étant dirigées vers le haut ou vers soi au niveau du visage/du front. |
-| **Hauteur des mains** | Les mains sont tenues hautes, généralement au niveau des yeux, du front ou juste au-dessus de la tête. |
-| **Position des coudes** | Les coudes sont fléchis et maintenus naturellement vers l'extérieur pour former un cadre harmonieux sans crisper les épaules. |
+| **Placement des mains (*Hanulson*)** | Les deux mains sont ouvertes (**Sonkal**) et placées **côte à côte**, sans se superposer. Les **pouces et les index se touchent** et dessinent un **triangle** entre les deux mains. |
+| **Hauteur des mains** | Le triangle se trouve **juste au-dessus du front**, légèrement devant la tête. |
+| **Position des coudes** | Les coudes sont fléchis et ouverts vers l'extérieur ; les bras encadrent la tête, sans crisper les épaules. |
 | **Orientation du buste** | De face (*[정면](../audio/termes/jeongmyeon.m4a) - Jungmyeon*), colonne vertébrale parfaitement verticale. |
 
 ---
 
 ## 2. Décomposition du placement des mains (*Hanulson*)
 
-1. **Ouverture des mains :** Ouvrir les deux mains, doigts serrés et allongés, pouces fléchis contre la paume (*Sonkal*).
-2. **Superposition :** La main gauche vient soutenir, envelopper ou se placer parallèlement devant la main droite.
-3. **Élévation :** Monter les mains ensemble vers le haut du visage / front, la paume de la main droite faisant face vers le haut ou légèrement vers le visage.
-4. **Respiration :** L'élévation s'accompagne d'une inspiration lente et profonde pour concentrer l'énergie (*Ki*).
+1. **Ouverture des mains :** Ouvrir les deux mains, doigts serrés et allongés (*Sonkal*).
+2. **Élévation :** Monter les deux mains ensemble au-dessus du front, coudes ouverts vers l'extérieur.
+3. **Triangle :** Joindre les pouces et les index des deux mains pour former un triangle juste au-dessus du front, les mains restant côte à côte.
+
+> **Source :** photos de la posture de départ de Kwang-Gae et de Po-Eun et du mouvement 26 de Juche, Encyclopédie condensée (1999), p. 549, 553 et 568.
 
 ---
 
@@ -41,7 +42,9 @@ Sa décomposition linguistique est la suivante :
 >
 > 1. **Symbolisme du Ciel (*Hanul*) :** Dans la philosophie martiale coréenne, *Hanul* représente le Ciel, la création, la hauteur et l'infini. Porter les mains vers le ciel en posture pieds joints symbolise la recherche de la sagesse, de la clarté d'esprit et de la pureté des intentions.
 > 2. **Rassemblement d'énergie (*Ki*) :** Comme toutes les postures de préparation (*Junbi Sogi*), elle permet au pratiquant de stabiliser sa respiration, de relâcher les tensions musculaires inutiles et d'aligner son centre de gravité avant d'entamer une séquence dynamique.
-> 3. **Présence dans les patrons (*Tul*) :** On retrouve **Moa Junbi Sogi (Hanulson)** comme position de départ spécifique dans le patron **Tong-Il Tul** (le 24ᵉ et dernier patron du Taekwon-Do ITF, qui symbolise la réunification de la Corée).
+> 3. **Présence dans les formes (*Tul*) :** En position fermée, on la trouve au **mouvement 26 de Juche** (« position fermée avec la main du ciel vers D », en mouvement lent). En position parallèle, elle est la posture de départ de **Kwang-Gae** et de **Po-Eun** ([Narani So Hanulson](Narani-So-Hanulson.md)). Elle sert aussi de posture de départ aux exercices fondamentaux n° 98 (coup de pied pressant vers l'extérieur) et n° 175 (frappe horizontale du revers des deux poings en position assise).
+>
+> **Source :** Encyclopédie condensée (1999), p. 466, 497, 549, 553 et 568.
 
 ---
 

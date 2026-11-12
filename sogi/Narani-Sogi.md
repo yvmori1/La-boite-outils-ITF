@@ -62,6 +62,6 @@ La position parallèle étant symétrique, elle n'a ni côté gauche ni côté d
 ## Fiches liées
 
 * **Dans le Manuel :** [16. Les 27 positions en détail](../Theorie/manuel/partie-4-positions-sogi/16-les-21-positions-en-detail.md)
-* **Techniques dans cette position :** 8 fiches, classées dans [Techniques](../Techniques/README.md)
+* **Techniques dans cette position :** 9 fiches, classées dans [Techniques](../Techniques/README.md)
 
 <!-- /fiches-liees -->

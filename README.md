@@ -60,7 +60,7 @@ Sur [outils.hosinsul.ca](https://outils.hosinsul.ca/) :
 | [chagi](chagi/README.md) | Les coups de pied — [차기](audio/termes/chagi.m4a) | 50 |
 | [makgi](makgi/README.md) | Les blocages — [막기](audio/termes/makgi.m4a) | 46 |
 | [jirugi](jirugi/README.md) | Les frappes de la main : poings, piques, coudes — [지르기](audio/grammaire/Jirugi.m4a) | 34 |
-| [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 333 |
+| [Techniques](Techniques/README.md) | Techniques complètes : position + blocage ou frappe combinés | 334 |
 | [Combat](Combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 8 |
 | [Theorie](Theorie/manuel/README.md) | Le manuel complet, le glossaire coréen-français, les examens théoriques, les analyses et le programme de session | 6 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 29 |
