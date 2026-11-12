@@ -174,6 +174,9 @@ LIEN_MD = re.compile(r"!?\[([^\]]*)\]\([^)]*\)")
 # présence de la ligne de prononciation de la fiche. Ne pas chercher « audio/ » :
 # un terme du corps de la fiche peut déjà renvoyer à un enregistrement.
 MARQUE = "**Prononciation :**"
+# cible de la ligne de prononciation déjà posée
+CIBLE_PRONONCIATION = re.compile(
+    r"\*\*Prononciation :\*\*\s*\[[^\]]*\]\(([^)]+)\)")
 
 
 def texte_coreen(fiche):
@@ -215,6 +218,25 @@ def produire_audio(texte, cible, voix, debit):
     # un lien ne doit jamais pointer vers un fichier absent ou vide
     if not cible.exists() or cible.stat().st_size < 1000:
         raise RuntimeError(f"audio non produit ou vide : {cible.name}")
+
+
+def audio_deja_lie(fiche):
+    """Vrai si la ligne de prononciation renvoie déjà à un audio présent.
+
+    Une fiche déplacée d'un dossier à l'autre (de Techniques/ vers sogi/, par
+    exemple) ou renommée garde son ancien audio : en produire un second sous
+    audio/<dossier>/<nom>.m4a ne ferait qu'un doublon orphelin.
+    """
+    return audio_lie(fiche) is not None
+
+
+def audio_lie(fiche):
+    """Le fichier audio de la ligne de prononciation, s'il existe."""
+    m = CIBLE_PRONONCIATION.search(fiche.read_text(encoding="utf-8"))
+    if not m:
+        return None
+    chemin = (fiche.parent / m.group(1)).resolve()
+    return chemin if chemin.is_file() else None
 
 
 def inserer_lien(fiche, texte, nom_audio):
@@ -651,6 +673,16 @@ def main():
 
             nom_audio = f"{dossier}/{fiche.stem}.m4a"
             cible = AUDIO / nom_audio
+            if audio_deja_lie(fiche):
+                if args.force and args.write and not args.sans_synthese:
+                    # régénère l'audio là où la fiche le cherche déjà
+                    produire_audio(texte, audio_lie(fiche), args.voix,
+                                   args.debit)
+                    compte["audio"] += 1
+                else:
+                    compte["deja_audio"] += 1
+                compte["deja_lies"] += 1
+                continue
             if cible.exists() and not args.force:
                 compte["deja_audio"] += 1
             elif args.sans_synthese:
