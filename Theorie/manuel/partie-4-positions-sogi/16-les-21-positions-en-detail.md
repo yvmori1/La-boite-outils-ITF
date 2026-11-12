@@ -19,10 +19,11 @@ Chaque fiche donne les dimensions, l'orientation des pieds, la répartition du p
 * **Largeur :** Pieds entièrement collés l'un contre l'autre (bords internes en contact).
 * **Poids :** Réparti à 50% sur le pied gauche, 50% sur le pied droit.
 * **Variantes de Garde (Mains) :**
-    * **Type A :** Les poings fermés sont tenus haut devant le visage. La distance entre la racine du nez et les poings est d'environ **30 cm**.
-    * **Type B :** Les poings sont placés devant le tronc. La distance entre les poings et le nombril est d'environ **15 cm**.
-    * **Type C :** Les mains ouvertes sont placées bas devant l'abdomen. La distance entre les mains et l'abdomen est d'environ **10 cm**.
+    * **Type A :** La main gauche enveloppe le poing droit, tenus haut devant le visage. La distance entre la racine du nez et les poings est d'environ **30 cm**.
+    * **Type B :** La main gauche enveloppe le poing droit, placés devant le tronc. La distance entre les poings et le nombril est d'environ **15 cm**.
+    * **Type C :** Les mains ouvertes sont placées bas devant l'abdomen, la main gauche couvrant en partie la main droite : bout du majeur gauche sur le bout du majeur droit, bout de l'index gauche sur la deuxième phalange du majeur droit, pouce gauche sur la deuxième jointure de la main droite. La distance entre les mains et l'abdomen est d'environ **10 cm**.
     * **Type D :** Les poings fermés sont tenus bas, de part et d'autre du corps. La distance entre les poings et les cuisses est d'environ **30 cm**. Posture de départ de la forme *Eui-Am*.
+    * *L'Encyclopédie ne précise pas la place des mains l'une par rapport à l'autre : la main gauche sur le poing droit (types A et B) et la superposition du type C sont la pratique retenue ici.*
 * **Schéma d'alignement :**
 
 ![moa-junbi-sogi](../../../images/sogi/moa-junbi-sogi.png)
