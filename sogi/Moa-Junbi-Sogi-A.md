@@ -36,7 +36,7 @@ L'Encyclopédie distingue quatre types, selon la place des mains :
 
 * **A :** poing droit enveloppé par la main gauche, devant le visage, à environ 30 cm du philtrum (voir [type A](Moa-Junbi-Sogi-A.md)).
 * **B :** poing droit enveloppé par la main gauche, devant le ventre, à environ 15 cm du nombril (voir [type B](Moa-Junbi-Sogi-B.md)).
-* **C :** mains ouvertes devant le bas-ventre, à environ 10 cm de l'abdomen (voir [type C](Moa-Junbi-Sogi-C.md)).
+* **C :** mains ouvertes, la gauche couvrant en partie la droite, devant le bas-ventre, à environ 10 cm de l'abdomen (voir [type C](Moa-Junbi-Sogi-C.md)).
 * **D :** poings tenus bas, à environ 30 cm des cuisses (voir [type D](Moa-Junbi-Sogi-D.md)).
 
 Le type A est la posture de départ de *Won-Hyo*, *Choong-Jang* et *So-San*.
