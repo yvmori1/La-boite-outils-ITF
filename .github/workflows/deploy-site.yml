@@ -49,7 +49,7 @@ jobs:
           ADRESSES_DOSSIERS: "false"
         run: |
           mkdocs build --site-dir /tmp/hors-ligne
-          rm -f /tmp/hors-ligne/CNAME
+          rm -f /tmp/hors-ligne/CNAME /tmp/hors-ligne/google*.html
           (cd /tmp/hors-ligne && zip -qr "$GITHUB_WORKSPACE/site/hors-ligne.zip" .)
 
       # Deux fusions rapprochées lancent deux publications ; si la plus

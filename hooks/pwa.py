@@ -19,7 +19,9 @@ import pathlib
 import urllib.parse
 
 # Jamais mis en cache par l'application.
-EXCLUS = {"CNAME", "sw.js", "pwa-fichiers.json", "hors-ligne.zip", "sitemap.xml.gz", ".nojekyll"}
+# googlec4a229f0d9aae752.html : fichier de vérification Google Search Console.
+EXCLUS = {"CNAME", "sw.js", "pwa-fichiers.json", "hors-ligne.zip", "sitemap.xml.gz", ".nojekyll",
+          "googlec4a229f0d9aae752.html"}
 
 BALISES = """
 <link rel="manifest" href="{racine}manifest.webmanifest">
