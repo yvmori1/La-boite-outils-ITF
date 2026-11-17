@@ -18,7 +18,8 @@ en pratique, puis les annexes et les pages « À propos ».
       9-progression/              ceintures/, programme-session/, examens/
       annexes/                    a-lexique/, b-glossaire/,
                                   c-analyse-statistique.md, d-bibliographie.md
-      a-propos/                   application.md, confidentialite.md
+      a-propos/                   application.md, confidentialite.md,
+                                  journal.md (généré)
       audio/  images/  assets/
 
 Un script qui a besoin d'un dossier le prend ici plutôt que d'écrire son

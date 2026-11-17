@@ -29,7 +29,7 @@ pratique.
 | [docs/8-autodefense/](docs/8-autodefense/) | VIII. L'autodéfense (Hosinsul) : `autodefense.md`, puis le programme par grade (chapitres 27 à 33) |
 | [docs/9-progression/](docs/9-progression/) | IX. La progression : `ceintures/` (Requis Examen), `programme-session/`, `examens/` |
 | [docs/annexes/](docs/annexes/) | Annexes : A lexique, B glossaire, C analyse statistique, D bibliographie |
-| [docs/a-propos/](docs/a-propos/) | À propos : application, confidentialité |
+| [docs/a-propos/](docs/a-propos/) | À propos : application, confidentialité, journal des modifications |
 | [docs/audio/](docs/audio/), [docs/images/](docs/images/) | Prononciations et images, liées depuis les fiches |
 | [docs/assets/](docs/assets/) | Feuille de style et scripts du site |
 
@@ -46,7 +46,11 @@ Hors du site :
 * [hooks/](hooks/), [overrides/](overrides/), [includes/](includes/) :
   extensions de MkDocs ;
 * [encyclopedie/](encyclopedie/README.md) : notes de travail sur
-  l'Encyclopédie, non publiées.
+  l'Encyclopédie, non publiées ;
+* [CHANGELOG.md](CHANGELOG.md) : journal des modifications, toutes les PR
+  fusionnées de la plus récente à la plus ancienne. Il est tenu à jour
+  automatiquement à chaque publication du site (aussi visible sur le site,
+  À propos › Journal des modifications).
 
 ## Contribuer
 
