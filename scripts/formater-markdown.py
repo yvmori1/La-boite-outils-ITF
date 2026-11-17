@@ -25,7 +25,7 @@ import pathlib
 import re
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
-IGNORES = {".git", "site", "venv", ".venv", "node_modules", "docs"}
+IGNORES = {".git", "site", "venv", ".venv", "node_modules"}
 LI = re.compile(r'^( *)([-*+]|\d+[.)])( +)(.*)$')
 FENCE = re.compile(r'^ *(```|~~~)')
 DETAILS = re.compile(r'^( *)<details>', re.M)

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Produit includes/infobulles.md : la traduction des termes coréens au survol.
 
-Lit les tableaux du glossaire coréen-français (Theorie/glossaire/) et écrit une
+Lit les tableaux du glossaire coréen-français (docs/annexes/b-glossaire/) et écrit une
 définition d'abréviation Markdown par terme :
 
   *[Joomuk]: Poing (주먹)
@@ -21,8 +21,8 @@ import argparse
 import pathlib
 import re
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
-GLOSSAIRE = RACINE / "Theorie" / "glossaire"
+from chemins import GLOSSAIRE, RACINE
+
 SORTIE = RACINE / "includes" / "infobulles.md"
 LIGNE = re.compile(
     r"^\|\s*\*\*\[?([^*\]|]+?)\]?(?:\([^)]*\))?\*\*\s*\|\s*\[?([^\]|]*)\]?"

@@ -93,4 +93,4 @@ L'auteur reproche à certains instructeurs de miser sur le spectacle et le comba
 - **Combat de démonstration** (*Mobum Matsogi*, p. 663-668 environ) : montrer au public l'agilité du démonstrateur et l'application de chaque mouvement, souvent en répétant le même mouvement au ralenti ; le partenaire ne donne qu'un coup convenu et sert de cible précise.
 - **Combat libre convenu** (*Yaksok Jayu Matsogi*, p. 668-680 environ) : combat libre simulé selon un scénario préparé, pour montrer sans risque une grande variété de techniques ; idéal en démonstration et bon guide pour le vrai combat libre. Le livre en donne une longue séquence photographiée (coups de pied en vrille, doubles coups de pied sautés, esquives).
 
-> Le site traite le sujet dans `Combat/combat-libre.md`, `Combat/systemes-de-combat.md` et `Ceintures/Combats-arranges/`.
+> Le site traite le sujet dans `docs/7-combat/combat-libre.md`, `docs/7-combat/systemes-de-combat.md` et `docs/7-combat/combats-arranges/`.

@@ -33,8 +33,9 @@ try:
 except ImportError:  # pragma: no cover
     sys.exit("matplotlib est requis : pip install matplotlib")
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
-SORTIE = RACINE / "images" / "sogi"
+from chemins import IMAGES, RACINE
+
+SORTIE = IMAGES / "sogi"
 
 # ---------------------------------------------------------------- mesures ---
 

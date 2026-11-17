@@ -1,0 +1,82 @@
+# WON-HYO
+
+> 🔊 **Prononciation :** [원효](../../audio/tul/won-hyo.m4a)
+
+> **Grade :** 6e Gup — Ceinture verte
+
+* **Nombre de mouvements :** 28
+* **Diagramme au sol :** (Hanja ou lettre capitale I)
+* **Durée :** 40 secondes
+
+| Diagramme | Description |
+| ------ | ------ |
+| ![**I**](../../images/tul/won-hyo.png) | WON-HYO fut le moine célèbre qui introduisit le bouddhisme sous la dynastie Silla en l'an 686. |
+
+[WON-HYO](https://vimeo.com/107541045)
+
+## Origine et contexte historique
+
+* **Contexte religieux et philosophique :** Won-Hyo vécut sous le règne de Silla, à une époque d'intenses guerres intestines entre les trois royaumes (Silla, Koguryo, Baekje). Contrairement aux moines de l'époque qui s'isolaient dans les monastères de l'aristocratie, Won-Hyo parcourut les campagnes pour enseigner le bouddhisme au peuple démuni, unifiant spirituellement la nation brisée par la misère économique et la guerre.
+
+## Liste Détaillée des Mouvements
+
+### Posture de départ : position de préparation fermée A
+
+1. Déplacer le pied gauche vers B pour former une position en L droite vers B tout en exécutant un blocage double des avant-bras.
+   *([Niunja so sang palmok makgi](../../5-repertoire-technique/combinees/Niunja-So-Sang-Palmok-Makgi.md))*
+2. Exécuter une frappe intérieure haute vers B avec le tranchant de la main droite tout en amenant le côté du poing gauche devant l'épaule droite, en maintenant une position en L droite vers B.
+   *([Niunja so sonkal nopunde anuro taerigi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
+3. Exécuter un coup de poing moyen vers B avec le poing gauche tout en formant une position fixe gauche vers B, en glissant le pied gauche vers B.
+   *([Gojung so kaunde yop jirugi](../../5-repertoire-technique/combinees/Gojung-So-Kaunde-Yop-Jirugi.md))*
+4. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A, pour former une position en L gauche vers A tout en exécutant un blocage double des avant-bras.
+   *([Niunja so sang palmok makgi](../../5-repertoire-technique/combinees/Niunja-So-Sang-Palmok-Makgi.md))*
+5. Exécuter une frappe intérieure haute vers A avec le tranchant de la main gauche tout en amenant le côté du poing droit devant l'épaule gauche, en maintenant une position en L gauche vers A.
+   *([Niunja so sonkal nopunde anuro taerigi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
+6. Exécuter un coup de poing moyen vers A avec le poing droit tout en formant une position fixe droite vers A, en glissant le pied droit vers A.
+   *([Gojung so kaunde yop jirugi](../../5-repertoire-technique/combinees/Gojung-So-Kaunde-Yop-Jirugi.md))*
+7. Ramener le pied droit vers le pied gauche puis tourner le visage vers D tout en formant une position de préparation pliée A droite vers D.
+   *([guburyo junbi sogi A](../../4-positions/fiches/Guburyo-Junbi-Sogi-A.md))*
+8. Exécuter un coup de pied latéral perçant moyen vers D avec le pied gauche.
+   *([Kaunde yopcha jirugi](../../5-repertoire-technique/combinees/Kaunde-Yopcha-Jirugi.md))*
+9. Abaisser le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
+   *([Niunja so sonkal kaunde daebi makgi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
+10. Déplacer le pied droit vers D pour former une position en L gauche vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
+   *([Niunja so sonkal kaunde daebi makgi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
+11. Déplacer le pied gauche vers D pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
+   *([Niunja so sonkal kaunde daebi makgi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
+12. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec le bout des doigts droit.
+   *([Gunnun so sun sonkut kaunde tulgi](../../5-repertoire-technique/combinees/Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.md))*
+13. Déplacer le pied gauche vers E en tournant dans le sens anti-horaire pour former une position en L droite vers E, tout en exécutant un blocage double des avant-bras.
+   *([Niunja so sang palmok makgi](../../5-repertoire-technique/combinees/Niunja-So-Sang-Palmok-Makgi.md))*
+14. Exécuter une frappe intérieure haute vers E avec le tranchant de la main droite tout en amenant le côté du poing gauche devant l'épaule droite, en maintenant une position en L droite vers E.
+   *([Niunja so sonkal nopunde anuro taerigi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
+15. Exécuter un coup de poing moyen vers E avec le poing gauche tout en formant une position fixe gauche vers E, en glissant le pied gauche vers E.
+   *([Gojung so kaunde yop jirugi](../../5-repertoire-technique/combinees/Gojung-So-Kaunde-Yop-Jirugi.md))*
+16. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers F, pour former une position en L gauche vers F tout en exécutant un blocage double des avant-bras.
+   *([Niunja so sang palmok makgi](../../5-repertoire-technique/combinees/Niunja-So-Sang-Palmok-Makgi.md))*
+17. Exécuter une frappe intérieure haute vers F avec le tranchant de la main gauche tout en amenant le côté du poing droit devant l'épaule gauche, en maintenant une position en L gauche vers F.
+   *([Niunja so sonkal nopunde anuro taerigi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md))*
+18. Exécuter un coup de poing moyen vers F avec le poing droit tout en formant une position fixe droite vers F, en glissant le pied droit vers F.
+   *([Gojung so kaunde yop jirugi](../../5-repertoire-technique/combinees/Gojung-So-Kaunde-Yop-Jirugi.md))*
+19. Ramener le pied droit vers le pied gauche puis déplacer le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un blocage circulaire vers CF avec l'avant-bras intérieur droit.
+   *([Gunnun so an palmok dollimyo makgi](../../5-repertoire-technique/combinees/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
+20. Exécuter un coup de pied avant fouetté bas vers C avec le pied droit, en gardant les mains dans la position du mouvement 19.
+   *([Najunde apcha busigi](../../5-repertoire-technique/chagi/apcha-busigi.md))*
+21. Abaisser le pied droit vers C pour former une position de marche droite vers C tout en exécutant un coup de poing moyen vers C avec le poing gauche.
+   *([Gunnun so kaunde bandae jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
+22. Exécuter un blocage circulaire vers CE avec l'avant-bras intérieur gauche tout en maintenant une position de marche droite vers C.
+   *([Gunnun so an palmok dollimyo makgi](../../5-repertoire-technique/combinees/Gunnun-So-An-Palmok-Dollimyo-Makgi.md))*
+23. Exécuter un coup de pied avant fouetté bas vers C avec le pied gauche, en gardant les mains dans la position du mouvement 22.
+   *([Najunde apcha busigi](../../5-repertoire-technique/chagi/apcha-busigi.md))*
+24. Abaisser le pied gauche vers C pour former une position de marche gauche vers C tout en exécutant un coup de poing moyen vers C avec le poing droit.
+   *([Gunnun so kaunde bandae jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
+25. Tourner le visage vers C pour former une position de préparation pliée A gauche vers C.
+   *([Guburyo junbi sogi A](../../4-positions/fiches/Guburyo-Junbi-Sogi-A.md))*
+26. Exécuter un coup de pied latéral perçant moyen vers C avec le pied droit.
+   *([Kaunde yopcha jirugi](../../5-repertoire-technique/combinees/Kaunde-Yopcha-Jirugi.md))*
+27. Abaisser le pied droit sur la ligne CD puis déplacer le pied gauche vers B, en tournant dans le sens anti-horaire pour former une position en L droite vers B, tout en exécutant un blocage de garde moyen vers B avec l'avant-bras.
+   *([Niunja so palmok kaunde daebi makgi](../../5-repertoire-technique/makgi/palmok-daebi-makgi.md))*
+28. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position en L gauche vers A tout en exécutant un blocage de garde moyen vers A avec l'avant-bras.
+   *([Niunja so palmok kaunde daebi makgi](../../5-repertoire-technique/makgi/palmok-daebi-makgi.md))*
+
+### FIN : ramener le pied droit à la posture de départ.

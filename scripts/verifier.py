@@ -12,8 +12,8 @@ Contrôles effectués :
   2. liens audio morts
   3. fichiers audio orphelins (aucun lien n'y mène)
   4. fiches vides
-  5. compteurs du README racine
-  6. Techniques/README.md à jour
+  5. compteurs de la page d'accueil (docs/README.md)
+  6. index des techniques combinées à jour
   7. blocs « Fiches liées » à jour
   8. menus des sections (.pages) à jour de leur sommaire
   9. graphies concurrentes d'un même terme
@@ -30,11 +30,8 @@ import subprocess
 import sys
 import urllib.parse
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
+from chemins import ACCUEIL, AUDIO, DOCS, RACINE
 SCRIPTS = RACINE / "scripts"
-AUDIO = RACINE / "audio"
-DOSSIERS_FICHES = ("Techniques", "sogi", "chagi", "jirugi", "makgi", "tul",
-                   "Ceintures", "Theorie")
 IGNORES = {".git", "site", "venv", ".venv", "node_modules", "audio"}
 
 # graphies dont une seule doit subsister ; la première fait référence
@@ -58,7 +55,7 @@ GRAPHIES = [
 ]
 # le glossaire cite à dessein les graphies fautives qu'il a corrigées
 # (tout le dossier du glossaire, découpé en une page par thème)
-EXCEPTIONS_GRAPHIES = ("Theorie/glossaire/",)
+EXCEPTIONS_GRAPHIES = ("docs/annexes/b-glossaire/",)
 
 LIEN_MD = re.compile(r"\[[^\]]*\]\(([^)#]+\.md)(?:#[^)]*)?\)")
 # « audio/ » depuis la racine, « ../audio/ » depuis un dossier
@@ -108,28 +105,27 @@ def controle_fiches_vides():
 
 
 def compte_reel(dossier):
-    d = RACINE / dossier
+    """Nombre de fiches d'un dossier de docs/ (sans son README ni sa
+    révision de fin de partie)."""
+    d = DOCS / dossier
     if not d.is_dir():
         return None
     if dossier == "images":
         # images/ et ses diagrammes de formes (images/tul/) ; les schémas sogi/ à part
         return len([f for f in [*d.iterdir(), *(d / "tul").glob("*")]
                     if f.suffix.lower() in (".png", ".svg", ".gif", ".jpg")])
-    if dossier == "Theorie":
-        # un document découpé en sous-pages compte pour un : son dossier
-        return len([f for f in d.iterdir()
-                    if f.is_dir() or (f.suffix == ".md" and f.name != "README.md")])
-    return len([f for f in d.glob("*.md") if f.name != "README.md"])
+    return len([f for f in d.glob("*.md")
+                if f.name not in ("README.md", "revision.md")])
 
 
 def controle_compteurs():
     ecarts = []
     ligne = re.compile(r"\|\s*\[([^\]]+)\]\(([^)]+)/README\.md\)[^|]*\|[^|]*\|\s*(\d+)\s*\|")
-    for l in (RACINE / "README.md").read_text(encoding="utf-8").splitlines():
+    for l in ACCUEIL.read_text(encoding="utf-8").splitlines():
         m = ligne.match(l)
         if m:
-            # « Theorie/manuel/README.md » compte pour le dossier Theorie
-            dossier, annonce = m.group(2).split("/")[0], int(m.group(3))
+            # « 6-formes/fiches/README.md » compte pour ce dossier
+            dossier, annonce = m.group(2), int(m.group(3))
             reel = compte_reel(dossier)
             if reel is not None and reel != annonce:
                 ecarts.append(f"{dossier} : annoncé {annonce}, réel {reel}")
@@ -183,8 +179,8 @@ CONTROLES = [
     ("liens audio morts", controle_liens_audio, True),
     ("fichiers audio orphelins", controle_audio_orphelins, False),
     ("fiches vides", controle_fiches_vides, False),
-    ("compteurs du README racine", controle_compteurs, True),
-    ("index Techniques à jour",
+    ("compteurs de l'accueil", controle_compteurs, True),
+    ("index des techniques combinées à jour",
      lambda: controle_generateur("generer-index-techniques.py"), True),
     ("fiches liées à jour",
      lambda: controle_generateur("generer-voir-aussi.py"), True),

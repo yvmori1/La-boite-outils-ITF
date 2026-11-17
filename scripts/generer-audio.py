@@ -6,12 +6,13 @@
   python3 scripts/generer-audio.py --write --force # régénère même l'audio existant
   python3 scripts/generer-audio.py --limite 5      # s'arrête après 5 fiches
   python3 scripts/generer-audio.py --manuel        # lie les hangul du manuel
-  python3 scripts/generer-audio.py --combats       # lie les hangul des pages de Combat/
+  python3 scripts/generer-audio.py --combats       # lie les hangul des pages de docs/7-combat/
   python3 scripts/generer-audio.py --tout          # lie les hangul de tout le site
   python3 scripts/generer-audio.py --tout --sans-synthese --write
                                                    # hors macOS : réemploi seul
 
-Pour chaque fiche de Techniques/, sogi/, chagi/, jirugi/, makgi/ et tul/ :
+Pour chaque fiche des familles de scripts/chemins.py (FICHES : Techniques,
+sogi, chagi, jirugi, makgi et tul, rangées sous docs/) :
 
   1. le hangul est lu dans la première phrase — « Le **Nom** (한글) est le… » ;
      pour les formes (tul/), il vient de la table NOMS_TUL ci-dessous ;
@@ -36,7 +37,7 @@ dans le manuel, que --manuel remplace. Leurs anciens indicateurs --lexique et
 
 Avec --tout, ce même traitement s'étend à chaque document publié du site : les
 fiches (au-delà de leur ligne de prononciation), les README, le glossaire, le
-manuel et Combat/. Le manuel et Combat/ gardent leur sous-dossier d'audio ; les
+manuel et 7-combat/. Le manuel et les pages du combat gardent leur sous-dossier d'audio ; les
 autres documents rangent leurs nouveaux enregistrements dans audio/termes/,
 sous le nom romanisé du hangul (scripts/romanisation.py : « 옆차 뚫기 » donne
 yopcha-tulgi.m4a) ; si ce nom dit déjà un autre texte, un suffixe -2, -3… le
@@ -57,10 +58,9 @@ import re
 import subprocess
 import sys
 
+from chemins import AUDIO, DOCS, RACINE, famille, fiches, lien, pages_combat, pages_manuel, site
 from romanisation import romaniser
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
-AUDIO = RACINE / "audio"
 DOSSIERS = ("Techniques", "sogi", "chagi", "jirugi", "makgi", "tul")
 HORS_TRAITEMENT = {"README.md", "Dans-les-formes.md", "nomenclature.md"}
 
@@ -68,13 +68,13 @@ VOIX = "Yuna"
 DEBIT = 130
 
 # Documents de fond dont chaque hangul devient un lien de prononciation, avec le
-# sous-dossier d'audio qui leur est propre ; un motif glob en désigne plusieurs.
+# sous-dossier d'audio qui leur est propre ; une fonction rend leurs pages.
 # Celui du manuel reste « grammaire », nom de la fiche d'origine : le renommer
 # perdrait les enregistrements déjà liés. Le manuel est découpé en sous-pages,
-# d'où le motif récursif.
+# d'où une fonction qui rend toutes ses pages (scripts/chemins.py).
 DOCUMENTS = {
-    "manuel": ("Theorie/manuel/**/*.md", "grammaire"),
-    "combats": ("Combat/*.md", "combats"),
+    "manuel": (pages_manuel, "grammaire"),
+    "combats": (pages_combat, "combats"),
 }
 
 # Noms des formes en hangul : absents des fiches, donc fournis ici.
@@ -181,7 +181,7 @@ CIBLE_PRONONCIATION = re.compile(
 
 def texte_coreen(fiche):
     """Le hangul à prononcer, ou None si la fiche n'en donne pas."""
-    if fiche.parent.name == "tul":
+    if famille(fiche) == "tul":
         return NOMS_TUL.get(fiche.stem)
     contenu = fiche.read_text(encoding="utf-8")
     # la ligne de prononciation déjà posée fait foi : l'audio doit dire
@@ -223,7 +223,7 @@ def produire_audio(texte, cible, voix, debit):
 def audio_deja_lie(fiche):
     """Vrai si la ligne de prononciation renvoie déjà à un audio présent.
 
-    Une fiche déplacée d'un dossier à l'autre (de Techniques/ vers sogi/, par
+    Une fiche déplacée d'un dossier à l'autre (des techniques combinées vers les positions, par
     exemple) ou renommée garde son ancien audio : en produire un second sous
     audio/<dossier>/<nom>.m4a ne ferait qu'un doublon orphelin.
     """
@@ -249,14 +249,14 @@ def inserer_lien(fiche, texte, nom_audio):
     if i is None:
         return None
     lien = (f"\n> 🔊 **Prononciation :** [{texte}]"
-            f"(../audio/{nom_audio})\n")
+            f"({lien(fiche, AUDIO)}/{nom_audio})\n")
     lignes.insert(i + 1, lien)
     return "".join(lignes)
 
 
 # ---------------------------------------------------------------- lexique
 
-LEXIQUE = RACINE / "Theorie" / "Lexique.md"
+LEXIQUE = DOCS / "Lexique.md"
 SEPARATEUR_TABLE = re.compile(r"^\|[\s:-]+\|")
 
 
@@ -270,7 +270,7 @@ def index_des_fiches():
     """{clé du nom de fiche: (hangul, chemin audio relatif)} pour tout le dépôt."""
     index = {}
     for dossier in DOSSIERS:
-        for fiche in sorted((RACINE / dossier).glob("*.md")):
+        for fiche in sorted(fiches(dossier).glob("*.md")):
             if fiche.name in HORS_TRAITEMENT:
                 continue
             texte = texte_coreen(fiche)
@@ -389,17 +389,13 @@ PROTEGE = re.compile(r"!?\[[^\]]*\]\([^)]*\)|`[^`]*`")
 LIEN_AUDIO = re.compile(
     r"\[([가-힣ㄱ-ㅎ][^\]]*)\]\((?:\.\./)*audio/([^)]+)\)")
 
-# Documents publiés dont --tout lie chaque hangul : tous les dossiers du site.
+# Documents publiés dont --tout lie chaque hangul : tout docs/.
 # Les documents de DOCUMENTS gardent leur sous-dossier d'audio ; les autres
 # rangent leurs nouveaux enregistrements dans audio/termes/.
-DOSSIERS_PUBLIES = ("", "Ceintures", "tul", "sogi", "chagi", "makgi", "jirugi",
-                    "Techniques", "Combat", "Theorie", "images", "images/sogi")
-# dossiers publiés parcourus avec leurs sous-dossiers (pages découpées)
-DOSSIERS_RECURSIFS = {"Theorie"}
 SOUS_DOSSIER_TERMES = "termes"
 # documents produits par un autre script : les lier ici ferait diverger leur
 # générateur, qui les réécrirait sans les liens à chaque passage
-GENERES = {"Techniques/README.md"}
+GENERES = {"5-repertoire-technique/combinees/README.md"}
 
 
 def romanisation_precedente(ligne, position):
@@ -433,9 +429,7 @@ def index_par_hangul():
     doivent renvoyer au même enregistrement, quelle que soit leur origine.
     """
     index = {}
-    for md in sorted(RACINE.rglob("*.md")):
-        if ".git" in md.parts or "docs" in md.relative_to(RACINE).parts[:1]:
-            continue
+    for md in sorted(DOCS.rglob("*.md")):
         for han, audio in LIEN_AUDIO.findall(
                 md.read_text(encoding="utf-8", errors="ignore")):
             han = normaliser(han)
@@ -444,7 +438,7 @@ def index_par_hangul():
             if han not in index or not (AUDIO / index[han]).exists():
                 index[han] = audio
     for dossier in DOSSIERS:
-        for fiche in sorted((RACINE / dossier).glob("*.md")):
+        for fiche in sorted(fiches(dossier).glob("*.md")):
             if fiche.name in HORS_TRAITEMENT:
                 continue
             texte = texte_coreen(fiche)
@@ -569,17 +563,15 @@ attente = collections.Counter()
 
 def documents_publies():
     """Tous les documents Markdown du site, dans l'ordre du dépôt."""
-    for dossier in DOSSIERS_PUBLIES:
-        motif = "**/*.md" if dossier in DOSSIERS_RECURSIFS else "*.md"
-        for md in sorted((RACINE / dossier).glob(motif)):
-            if md.relative_to(RACINE).as_posix() not in GENERES:
-                yield md
+    for md in sorted(DOCS.rglob("*.md")):
+        if site(md) not in GENERES:
+            yield md
 
 
 def lier_tout(args):
     """Lie chaque hangul de chaque document publié. Rend {chemin: compte}."""
-    propres = {md.resolve(): sd for rel, sd in DOCUMENTS.values()
-               for md in RACINE.glob(rel)}
+    propres = {md.resolve(): sd for pages, sd in DOCUMENTS.values()
+               for md in pages()}
     index = index_par_hangul()
     resultats = {}
     for md in documents_publies():
@@ -600,9 +592,7 @@ def reparer(args):
     puis cette passe le régénère à partir du texte corrigé.
     """
     compte = collections.Counter()
-    for md in sorted(RACINE.rglob("*.md")):
-        if ".git" in md.parts or "docs" in md.relative_to(RACINE).parts[:1]:
-            continue
+    for md in sorted(DOCS.rglob("*.md")):
         for label, rel in LIEN_AUDIO.findall(
                 md.read_text(encoding="utf-8", errors="ignore")):
             cible = AUDIO / rel
@@ -629,17 +619,17 @@ def main():
     p.add_argument("--debit", type=int, default=DEBIT,
                    help=f"mots par minute (défaut : {DEBIT})")
     p.add_argument("--manuel", action="store_true",
-                   help="lie les hangul des pages de Theorie/manuel/")
+                   help="lie les hangul des pages du Manuel")
     p.add_argument("--lexique", "--grammaire", dest="manuel",
                    action="store_true",
                    help="ancien nom de --manuel (fiches fusionnées au manuel)")
     p.add_argument("--combats", action="store_true",
-                   help="lie les hangul des pages de Combat/")
+                   help="lie les hangul des pages de docs/7-combat/")
     p.add_argument("--reparer", action="store_true",
                    help="reproduit l'audio des liens dont le fichier manque")
     p.add_argument("--tout", action="store_true",
                    help="lie les hangul de tous les documents du site "
-                        "(manuel et Combat/ compris)")
+                        "(manuel et combat compris)")
     p.add_argument("--sans-synthese", action="store_true",
                    help="hors macOS : ne lie que les hangul dont l'audio existe "
                         "déjà et liste ceux qui restent à produire")
@@ -658,7 +648,7 @@ def main():
     sans_hangul, fiches_en_attente = [], []
 
     for dossier in DOSSIERS:
-        for fiche in sorted((RACINE / dossier).glob("*.md")):
+        for fiche in sorted(fiches(dossier).glob("*.md")):
             if fiche.name in HORS_TRAITEMENT:
                 continue
             if args.limite and compte["fiches"] >= args.limite:
@@ -744,8 +734,8 @@ def main():
         for nom, (relatif, sous_dossier) in DOCUMENTS.items():
             if not getattr(args, nom):
                 continue
-            # un motif (« Combat/*.md ») désigne tous les documents d'un dossier
-            for chemin in sorted(RACINE.glob(relatif)):
+            # la fonction rend toutes les pages du document (manuel découpé)
+            for chemin in relatif():
                 c = lier_document(chemin, sous_dossier, args)
                 print(f"\n{chemin.relative_to(RACINE)}")
                 print(f"  hangul liés               : {c['reemploi'] + c['propre']}")

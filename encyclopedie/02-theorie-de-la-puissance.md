@@ -58,4 +58,4 @@ Selon l'auteur, une personne ordinaire n'utilise que 10 à 20 % de son potentiel
 - Le temps de réflexe humain le plus rapide est d'environ **0,2 s** : ces techniques ne peuvent donc pas être bloquées si l'on attend qu'elles partent. Il faut les anticiper, d'où la consigne de **regarder les yeux de l'adversaire** plutôt que ses bras ou ses jambes.
 - Avec P = ½ M V², tripler la masse triple la puissance, mais tripler la vitesse la multiplie par neuf.
 
-> Le manuel du site traite ces notions dans `Theorie/manuel/partie-2-principes-physiques/` et le glossaire dans `Theorie/glossaire/14-la-theorie-de-la-puissance.md`.
+> Le manuel du site traite ces notions dans `docs/2-principes-physiques/` et le glossaire dans `docs/annexes/b-glossaire/14-la-theorie-de-la-puissance.md`.

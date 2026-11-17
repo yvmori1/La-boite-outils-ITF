@@ -1,6 +1,6 @@
 # 4. Armes naturelles et points vitaux (p. 84-118)
 
-Synthèse des chapitres *Gong Gyok mit Makgi Boowi* (armes d'attaque et de blocage) et *Kupso* (points vitaux). Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Noms français d'après le glossaire du site (`Theorie/glossaire/05-les-armes-naturelles-la-main-et-le-bras.md` et `06-les-armes-naturelles-la-jambe-et-le-pied.md`).
+Synthèse des chapitres *Gong Gyok mit Makgi Boowi* (armes d'attaque et de blocage) et *Kupso* (points vitaux). Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Noms français d'après le glossaire du site (`docs/annexes/b-glossaire/05-les-armes-naturelles-la-main-et-le-bras.md` et `06-les-armes-naturelles-la-jambe-et-le-pied.md`).
 
 ---
 
@@ -80,4 +80,4 @@ Trois lignes verticales complètent ce découpage : ligne du plexus, ligne de la
 
 Tableaux illustrés reliant chaque arme d'attaque aux points vitaux qu'elle vise, et chaque arme de blocage aux parties à bloquer. Principe : une arme inadaptée est aussi inefficace qu'un marteau pour scier (exemple : l'index est plus efficace que le poing avant contre l'œil). Ces pages sont essentiellement graphiques ; elles ne sont pas reprises ici.
 
-> Le site traite le sujet dans `Combat/points-vitaux.md` et les fiches d'armes du glossaire.
+> Le site traite le sujet dans `docs/7-combat/points-vitaux.md` et les fiches d'armes du glossaire.

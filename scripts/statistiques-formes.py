@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Compte les positions et les techniques nommées dans les fiches de tul/.
+"""Compte les positions et les techniques nommées dans les fiches des formes
+(docs/6-formes/fiches/).
 
 Chaque mouvement des formes est lié à sa fiche (scripts/lier-mouvements.py) ;
 le texte de ces liens est le nom coréen de la technique. Ce script les compte
-et imprime les tableaux en Markdown utilisés par Theorie/Analyse_Statistique.md.
+et imprime les tableaux en Markdown utilisés par docs/annexes/c-analyse-statistique.md.
 
   python3 scripts/statistiques-formes.py
 
@@ -15,7 +16,8 @@ import pathlib
 import re
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
-LIEN = re.compile(r"\[([^\]]+)\]\(\.\./(?:Techniques|sogi|makgi|jirugi|chagi)/[^)]+\)")
+# lien d'une fiche de forme vers une fiche de position ou de technique
+LIEN = re.compile(r"\[([^\]]+)\]\(\.\./\.\./(?:4-positions/fiches|5-repertoire-technique/(?:combinees|makgi|jirugi|chagi))/[^)]+\)")
 POSITION = re.compile(
     r"\b(gunnun|niunja|annun|dwitbal|moa|kyocha|guburyo|nachuo|waebal|"
     r"soojik|sasun|gojung|narani)\s+so(gi)?\b")
@@ -49,7 +51,7 @@ def sans_cote(nom):
 
 def main():
     noms = []
-    for fiche in sorted((RACINE / "tul").glob("*.md")):
+    for fiche in sorted((RACINE / "docs" / "6-formes" / "fiches").glob("*.md")):
         if fiche.name == "README.md":
             continue
         for ligne in fiche.read_text(encoding="utf-8").splitlines():

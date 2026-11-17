@@ -31,25 +31,26 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | Script | Rôle |
 | :--- | :--- |
 | [maintenir.py](maintenir.py) | Enchaîne tous les autres dans l'ordre, puis contrôle |
+| [chemins.py](chemins.py) | Emplacements du contenu dans `docs/`, partagés par tous les scripts (à modifier si un dossier bouge) |
 | [verifier.py](verifier.py) | Onze contrôles d'intégrité, n'écrit jamais |
-| [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `Techniques/README.md` |
+| [generer-index-techniques.py](generer-index-techniques.py) | Reconstruit `docs/5-repertoire-technique/combinees/README.md` |
 | [generer-voir-aussi.py](generer-voir-aussi.py) | Bloc « Fiches liées » en bas des fiches : position, geste de base, techniques, formes |
-| [generer-menus.py](generer-menus.py) | Écrit le menu (`.pages`) de sogi, chagi, makgi, jirugi et Techniques d'après leur sommaire |
+| [generer-menus.py](generer-menus.py) | Écrit le menu (`.pages`) des fiches de positions, jirugi, makgi, chagi et techniques combinées d'après leur sommaire |
 | [lier-mouvements.py](lier-mouvements.py) | Lie les mouvements des formes aux fiches techniques |
 | [generer-audio.py](generer-audio.py) | Prononciations coréennes et liens vers l'audio |
 | [romanisation.py](romanisation.py) | Nom de fichier romanisé d'un hangul (utilisé par `generer-audio.py`) |
-| [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `images/sogi/` |
+| [generer-sogi.py](generer-sogi.py) | Dessine les schémas de pieds des positions dans `docs/images/sogi/` |
 | [generer-points-vitaux.py](generer-points-vitaux.py) | Dessine les trois planches des 49 points vitaux dans `images/points-vitaux/` |
-| [generer-icones.py](generer-icones.py) | Tire du logo Hosinsul (`images/logo/hosinsul.svg`) la version à liseré blanc du site, l'icône d'onglet (les orteils) et les icônes de l'application dans `docs/assets/icones/` (demande cairosvg et Pillow) |
+| [generer-icones.py](generer-icones.py) | Tire du logo Hosinsul (`docs/images/logo/hosinsul.svg`) la version à liseré blanc du site, l'icône d'onglet (les orteils) et les icônes de l'application dans `docs/assets/icones/` (demande cairosvg et Pillow) |
 | [generer-manuel.py](generer-manuel.py) | Hors service : assemblait l'ancien manuel d'un seul tenant |
 | [formater-markdown.py](formater-markdown.py) | Met les listes en forme pour qu'elles s'affichent pareil sur GitHub et sur le site |
 
 ### maintenir.py
 
-Étapes, dans un ordre où chacune dépend des précédentes : index de `Techniques/`,
+Étapes, dans un ordre où chacune dépend des précédentes : index de `docs/5-repertoire-technique/combinees/`,
 compteurs du README racine, normalisation des graphies (y compris les hangul
 fautifs relevés par le glossaire), liens des formes, fiches liées, prononciations
-de tout le site, réparation des audio manquants, index de `Techniques/` une
+de tout le site, réparation des audio manquants, index de `docs/5-repertoire-technique/combinees/` une
 seconde fois, menus des sections, mise en forme Markdown, contrôle final.
 
 `--sans-audio` saute la synthèse vocale, de loin l'étape la plus longue.
@@ -57,7 +58,7 @@ seconde fois, menus des sections, mise en forme Markdown, contrôle final.
 ### verifier.py
 
 Liens Markdown morts · liens audio morts · fichiers audio orphelins · fiches
-vides · compteurs du README racine · index Techniques à jour · fiches liées à jour · menus à jour ·
+vides · compteurs de l'accueil · index des techniques combinées à jour · fiches liées à jour · menus à jour ·
 graphies concurrentes · couverture des formes · mise en forme Markdown.
 
 Les graphies surveillées sont déclarées en tête du fichier (`GRAPHIES`) : une
@@ -102,17 +103,17 @@ exacte n'existe pas, il pointe vers l'explication la plus proche.
 
 ```sh
 python3 scripts/generer-audio.py --write            # fiches
-python3 scripts/generer-audio.py --manuel --write   # pages de Theorie/manuel/
-python3 scripts/generer-audio.py --combats --write  # pages de Combat/
+python3 scripts/generer-audio.py --manuel --write   # pages du Manuel (sommaire, parties, annexe A)
+python3 scripts/generer-audio.py --combats --write  # pages de docs/7-combat/
 python3 scripts/generer-audio.py --reparer --write  # audio manquants
 python3 scripts/generer-audio.py --tout --write     # chaque hangul du site
 ```
 
 `--tout` étend ce traitement à **tous** les documents publiés : chaque hangul
-d'une fiche, d'un README, du glossaire, du manuel ou de Combat/ devient un lien
+d'une fiche, d'un README, du glossaire, du manuel ou du combat devient un lien
 vers sa prononciation (sauf le titre « # » de la page, les blocs de code et ce
-qui est déjà un lien). Les nouveaux enregistrements hors manuel et Combat/ vont
-dans `audio/termes/`, sous le nom romanisé du hangul (`yopcha-tulgi.m4a`,
+qui est déjà un lien). Les nouveaux enregistrements hors manuel et combat vont
+dans `docs/audio/termes/`, sous le nom romanisé du hangul (`yopcha-tulgi.m4a`,
 voir [romanisation.py](romanisation.py)). C'est ce que lance
 `maintenir.py`.
 
@@ -147,7 +148,7 @@ python3 scripts/generer-points-vitaux.py --write   # écrit images/points-vitaux
 ```
 
 Dessine en SVG la tête de profil, le corps de face et le corps de dos, avec les
-49 points vitaux de [Combat/points-vitaux.md](../Combat/points-vitaux.md) placés
+49 points vitaux de [../docs/7-combat/points-vitaux.md](../docs/7-combat/points-vitaux.md) placés
 d'après les croquis de l'Encyclopédie (p. 108-111). Les noms et les termes
 coréens sont lus dans le tableau de la page : après une correction de nom,
 relancer avec `--write`. `verifier.py` signale des planches en retard.
@@ -156,13 +157,13 @@ relancer avec `--write`. `verifier.py` signale des planches en retard.
 
 ```sh
 python3 scripts/generer-sogi.py                        # liste les 22 schémas
-python3 scripts/generer-sogi.py --write                # écrit images/sogi/*.png
+python3 scripts/generer-sogi.py --write                # écrit docs/images/sogi/*.png
 python3 scripts/generer-sogi.py --write --only niunja-sogi
 ```
 
 Dessine, vue de dessus, la position des pieds des 21 positions de la
-[partie IV du manuel](../Theorie/manuel/partie-4-positions-sogi/README.md) — *Palja Sogi* donnant
-deux schémas, intérieur et extérieur. Voir [../images/sogi/](../images/sogi/README.md).
+[partie IV du manuel](../docs/4-positions/README.md) — *Palja Sogi* donnant
+deux schémas, intérieur et extérieur. Voir [../docs/images/sogi/README.md](../docs/images/sogi/README.md).
 
 Chaque pied est posé par un repère nommé — talon, talon interne, gros orteil,
 petit orteil, centre, bord interne — et jamais à l'œil : les distances du schéma
@@ -170,7 +171,7 @@ sont donc bien celles de la position, et « talons collés » ou « bords intern
 en contact » se dessinent sans chevauchement. La géométrie est calculée sur les
 dimensions standard (épaule 47 cm, pied 25 × 9 cm), mais les cotes se libellent
 toujours en largeurs d'épaule, jamais en centimètres. Le contour de pied vient
-des tracés de [../images/gojung-sogi.svg](../images/gojung-sogi.svg).
+des tracés de [../docs/images/gojung-sogi.svg](../docs/images/gojung-sogi.svg).
 
 Chaque schéma est une vignette carrée de 350 × 350 pixels : le cadrage s'ajuste
 au dessin, et les textes, de taille fixe sur la vignette, sont pris en compte
@@ -190,7 +191,7 @@ partir de quatre fiches de théorie — `Genes.md`, `grammaire-itf.md`,
 `mouvement_de_vagues.md` et `Lexique.md`. Ces quatre fiches ayant été fusionnées
 dans le manuel puis supprimées, **il ne peut plus s'exécuter** : le manuel est
 désormais entretenu directement, découpé en une page par chapitre dans
-[../Theorie/manuel/](../Theorie/manuel/README.md).
+[../docs/sommaire.md](../docs/sommaire.md).
 
 Le fichier est conservé pour mémoire de la façon dont le manuel a été composé —
 l'ordre des parties, et le dictionnaire `FUSIONS` qui note, passage par passage,

@@ -6,12 +6,13 @@
 
 Deux productions, tirées de tables tenues ici :
 
-  * PARCOURS : dans chaque fiche de grade (Ceintures/), sous l'encadré
+  * PARCOURS : dans chaque fiche de grade (docs/9-progression/ceintures/), sous l'encadré
     « Pour ce grade », un bloc « À lire dans le Manuel » : les chapitres à
     lire pour ce grade, dans l'ordre, chacun avec une case à cocher que
     assets/parcours.js garde cochée dans le navigateur.
-  * REVISIONS : une page Theorie/revisions/partie-N.md par partie du Manuel,
-    faite de questions recopiées des examens théoriques (Theorie/examens/),
+  * REVISIONS : une page revision.md dans le dossier de chaque partie du
+    Manuel (docs/1-art-et-voie/revision.md…),
+    faite de questions recopiées des examens théoriques (docs/9-progression/examens/),
     avec leur corrigé. assets/quiz.js y installe le mode révision.
 
 Les titres des chapitres sont lus dans les fichiers ; les questions sont
@@ -25,35 +26,38 @@ import pathlib
 import re
 import sys
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
-MANUEL = "Theorie/manuel/"
+from chemins import DOCS, RACINE, site
+from chemins import revision as page_de_revision
+
+# Chapitres du Manuel, chemins sous docs/.
+MANUEL = ""
 CH = {
-    1: "partie-1-art-et-voie/01-ce-qu-est-le-taekwon-do.md",
-    2: "partie-1-art-et-voie/02-histoire-et-filiation.md",
-    3: "partie-1-art-et-voie/03-le-do-la-culture-morale-de-l-adepte.md",
-    4: "partie-1-art-et-voie/04-etiquette-et-vie-du-dojang.md",
-    5: "partie-1-art-et-voie/05-le-dobok-et-les-ceintures.md",
-    6: "partie-2-principes-physiques/06-la-theorie-de-la-puissance-him-ui-wolli.md",
-    7: "partie-2-principes-physiques/07-le-mouvement-de-vague.md",
-    8: "partie-2-principes-physiques/08-respiration-ki-et-meditation.md",
-    9: "partie-3-grammaire-des-techniques/09-les-deux-formules-de-construction.md",
-    10: "partie-3-grammaire-des-techniques/10-les-briques-de-la-formule.md",
-    11: "partie-3-grammaire-des-techniques/11-les-verbes-d-action.md",
-    12: "partie-3-grammaire-des-techniques/12-les-armes-naturelles-jook-bang.md",
-    13: "partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md",
-    14: "partie-4-positions-sogi/14-principes-et-constantes.md",
-    15: "partie-4-positions-sogi/15-les-positions-d-un-coup-d-oeil.md",
-    16: "partie-4-positions-sogi/16-les-21-positions-en-detail.md",
-    17: "partie-5-repertoire-technique/17-les-deplacements-dolgi.md",
-    18: "partie-5-repertoire-technique/18-les-techniques-de-bras.md",
-    19: "partie-5-repertoire-technique/19-les-techniques-de-jambes.md",
-    20: "partie-6-formes-tul/20-la-forme-comme-heritage.md",
-    21: "partie-6-formes-tul/21-directives-d-execution.md",
-    22: "partie-6-formes-tul/22-les-exercices-fondamentaux-saju.md",
-    23: "partie-6-formes-tul/23-les-vingt-quatre-formes-en-un-tableau.md",
-    24: "partie-6-formes-tul/24-les-formes-une-a-une.md",
-    25: "annexe-b-distances-de-saut.md",
-    26: "annexe-c-types-de-mouvements.md",
+    1: "1-art-et-voie/01-ce-qu-est-le-taekwon-do.md",
+    2: "1-art-et-voie/02-histoire-et-filiation.md",
+    3: "1-art-et-voie/03-le-do-la-culture-morale-de-l-adepte.md",
+    4: "1-art-et-voie/04-etiquette-et-vie-du-dojang.md",
+    5: "1-art-et-voie/05-le-dobok-et-les-ceintures.md",
+    6: "2-principes-physiques/06-la-theorie-de-la-puissance-him-ui-wolli.md",
+    7: "2-principes-physiques/07-le-mouvement-de-vague.md",
+    8: "2-principes-physiques/08-respiration-ki-et-meditation.md",
+    9: "3-grammaire-des-techniques/09-les-deux-formules-de-construction.md",
+    10: "3-grammaire-des-techniques/10-les-briques-de-la-formule.md",
+    11: "3-grammaire-des-techniques/11-les-verbes-d-action.md",
+    12: "3-grammaire-des-techniques/12-les-armes-naturelles-jook-bang.md",
+    13: "3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md",
+    14: "4-positions/14-principes-et-constantes.md",
+    15: "4-positions/15-les-positions-d-un-coup-d-oeil.md",
+    16: "4-positions/16-les-21-positions-en-detail.md",
+    17: "5-repertoire-technique/17-les-deplacements-dolgi.md",
+    18: "5-repertoire-technique/18-les-techniques-de-bras.md",
+    19: "5-repertoire-technique/19-les-techniques-de-jambes.md",
+    20: "6-formes/20-la-forme-comme-heritage.md",
+    21: "6-formes/21-directives-d-execution.md",
+    22: "6-formes/22-les-exercices-fondamentaux-saju.md",
+    23: "6-formes/23-les-vingt-quatre-formes-en-un-tableau.md",
+    24: "6-formes/24-les-formes-une-a-une.md",
+    25: "6-formes/25-distances-de-saut.md",
+    26: "6-formes/26-types-de-mouvements.md",
 }
 
 
@@ -70,18 +74,18 @@ PARCOURS = {
     "03_Jaune.md": [ch(9), ch(15), ch(17)],
     "04_Jaune_I.md": [ch(6), ch(10), ch(18)],
     "05_Verte.md": [ch(11), ch(12), ch(19)],
-    "06_Verte_I.md": [ch(7), ch(13), "Combat/kyokpa.md"],
-    "07_Bleu.md": [ch(8), "Combat/systemes-de-combat.md", "Combat/prise-de-mesure.md"],
-    "08_Bleu_I.md": [ch(16), "Combat/combat-libre.md", "Combat/arbitrage.md"],
-    "09_Rouge.md": ["Combat/README.md", ch(23), ch(25), ch(26)],
-    "10_Rouge_I.md": ["Combat/points-vitaux.md", "Combat/hosinsul.md",
-                      "Combat/progression.md"],
+    "06_Verte_I.md": [ch(7), ch(13), "7-combat/kyokpa.md"],
+    "07_Bleu.md": [ch(8), "7-combat/systemes-de-combat.md", "7-combat/prise-de-mesure.md"],
+    "08_Bleu_I.md": [ch(16), "7-combat/combat-libre.md", "7-combat/arbitrage.md"],
+    "09_Rouge.md": ["7-combat/README.md", ch(23), ch(25), ch(26)],
+    "10_Rouge_I.md": ["7-combat/points-vitaux.md", "8-autodefense/autodefense.md",
+                      "7-combat/progression.md"],
     "11_Noire_I.md": [ch(20), ch(24)],
-    "12_Noire_II.md": [ch(24), "Theorie/glossaire/README.md"],
+    "12_Noire_II.md": [ch(24), "annexes/b-glossaire/README.md"],
 }
 
 # Révisions : (partie, titre) -> questions (examen, numéro de question).
-C, N = "Theorie/examens/ceintures-de-couleur/", "Theorie/examens/ceintures-noires/"
+C, N = "9-progression/examens/ceintures-de-couleur/", "9-progression/examens/ceintures-noires/"
 G = {1: C + "01-10e-gup.md", 2: C + "02-9e-gup.md", 3: C + "03-8e-gup.md",
      4: C + "04-7e-gup.md", 5: C + "05-6e-gup.md", 6: C + "06-5e-gup.md",
      7: C + "07-4e-gup.md", 8: C + "08-3e-gup.md", 9: C + "09-2e-gup.md",
@@ -97,10 +101,10 @@ REVISIONS = [
                                     (G[8], 5), (G[9], 5)]),
     (6, "Les formes (Tul)", [(G[2], 4), (G[1], 3), (G[2], 3), (G[3], 3), (G[4], 2),
                              (G[5], 1), (G[6], 2), (G[8], 2), (G[10], 3), (D[3], 1)]),
-    (7, "Combat, autodéfense et casse", [(G[6], 4), (G[7], 4), (G[8], 3), (G[9], 2)]),
-    (8, "La progression", [(G[10], 4), (D[1], 4), (D[3], 4), (D[4], 4)]),
+    (7, "Combat et casse", [(G[6], 4), (G[7], 4), (G[8], 3), (G[9], 2)]),
+    (9, "La progression", [(G[10], 4), (D[1], 4), (D[3], 4), (D[4], 4)]),
 ]
-ROMAINS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII", 8: "VIII"}
+ROMAINS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII", 8: "VIII", 9: "IX"}
 
 DEBUT = "<!-- parcours : bloc produit par scripts/generer-parcours.py -->"
 FIN = "<!-- /parcours -->"
@@ -109,7 +113,7 @@ LIEN = re.compile(r"(\]\()([^)#\s]+)([^)]*\))")
 
 
 def titre(chemin):
-    p = RACINE / chemin
+    p = DOCS / chemin
     if not p.exists():
         sys.exit(f"generer-parcours.py : fichier absent : {chemin}")
     m = re.search(r"^#\s+(.+)$", p.read_text(encoding="utf-8"), re.M)
@@ -119,12 +123,12 @@ def titre(chemin):
 
 
 def relatif(cible, depuis):
-    """Chemin de cible (depuis la racine) vu du dossier du fichier depuis."""
-    return os.path.relpath(RACINE / cible, (RACINE / depuis).parent).replace(os.sep, "/")
+    """Chemin de cible (sous docs/) vu du dossier du fichier depuis."""
+    return os.path.relpath(DOCS / cible, (DOCS / depuis).parent).replace(os.sep, "/")
 
 
 def bloc_parcours(fiche, chemins):
-    depuis = "Ceintures/" + fiche
+    depuis = "9-progression/ceintures/" + fiche
     lignes = [f"* [ ] [{titre(c)}]({relatif(c, depuis)})" for c in chemins]
     return ("\n\n" + DEBUT + "\n\n**À lire dans le Manuel pour ce grade, dans l'ordre :**\n\n"
             + "\n".join(lignes) + "\n\n" + FIN + "\n\n")
@@ -140,7 +144,7 @@ def appliquer_parcours(texte, bloc):
 
 
 def question(examen, n):
-    texte = (RACINE / examen).read_text(encoding="utf-8")
+    texte = (DOCS / examen).read_text(encoding="utf-8")
     m = re.search(r"^### Q%d\.\s*(.+?)$(.*?)(?=^#{1,3} |\Z)" % n, texte, re.M | re.S)
     if not m:
         sys.exit(f"generer-parcours.py : question Q{n} absente de {examen}")
@@ -168,10 +172,10 @@ def nom_examen(examen):
 
 
 def page_revision(partie, nom, questions):
-    page = f"Theorie/revisions/partie-{partie}.md"
+    page = site(page_de_revision(partie))
     lignes = [f"# Révision — Partie {ROMAINS[partie]} : {nom}", "",
               f"{len(questions)} questions tirées des "
-              "[examens théoriques](../examens/README.md), avec leur corrigé. "
+              f"[examens théoriques]({relatif('9-progression/examens/README.md', page)}), avec leur corrigé. "
               "Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode "
               "révision garde le score dans ce navigateur.", ""]
     for i, (examen, n) in enumerate(questions, 1):
@@ -186,12 +190,12 @@ def page_revision(partie, nom, questions):
 def produire():
     fichiers = {}
     for fiche, chemins in PARCOURS.items():
-        p = RACINE / "Ceintures" / fiche
+        p = DOCS / "9-progression" / "ceintures" / fiche
         fichiers[p] = appliquer_parcours(p.read_text(encoding="utf-8"),
                                          bloc_parcours(fiche, chemins))
     for partie, nom, questions in REVISIONS:
         page, texte = page_revision(partie, nom, questions)
-        fichiers[RACINE / page] = texte
+        fichiers[DOCS / page] = texte
     return fichiers
 
 

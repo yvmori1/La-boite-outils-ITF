@@ -1,0 +1,139 @@
+# FICHE D'ÉTUDE :Ceinture Blanche (10e Gup)
+
+> **Pour ce grade :** [examen théorique](../examens/ceintures-de-couleur/01-10e-gup.md) · [combat, autodéfense et casse](../../7-combat/progression.md#10e-gup--ceinture-blanche--fiche) · [combats arrangés](../../7-combat/combats-arranges/01_10e-9e-Gup.md) · [exigences du programme de session](../programme-session/02-exigences-des-examens.md#10e-gup-ceinture-blanche-vers-9e-gup)
+
+<!-- parcours : bloc produit par scripts/generer-parcours.py -->
+
+**À lire dans le Manuel pour ce grade, dans l'ordre :**
+
+* [ ] [1. Ce qu'est le Taekwon-Do](../../1-art-et-voie/01-ce-qu-est-le-taekwon-do.md)
+* [ ] [3. Le Do : la culture morale de l'adepte](../../1-art-et-voie/03-le-do-la-culture-morale-de-l-adepte.md)
+* [ ] [4. Étiquette et vie du dojang](../../1-art-et-voie/04-etiquette-et-vie-du-dojang.md)
+* [ ] [5. Le dobok et les ceintures](../../1-art-et-voie/05-le-dobok-et-les-ceintures.md)
+* [ ] [22. Les exercices fondamentaux (Saju)](../../6-formes/22-les-exercices-fondamentaux-saju.md)
+
+<!-- /parcours -->
+
+ Ceinture Blanche (10e Gup)
+
+* **Effort d'entraînement minimal requis :** 20 heures d'entraînement minimales.
+* **Signification de la Ceinture :** La ceinture blanche signifie l'innocence; le débutant qui n'a pas de connaissances préalables du Taekwon-Do.
+
+---
+
+## Exigences Techniques de l'Examen
+
+* **Techniques fondamentales :**
+    * Position assise (*Annun Sogi*)
+    * Position de marche (*Gunnun Sogi*)
+    * Coup de poing moyen (*Kaunde Ap Jirugi*)
+    * Coup de pied avant (*Ap Chagi*)
+    * Coup de pied marteau (*Naeryo Chagi*)
+    * Blocage bas main fermé (*Palmok Najunde Makgi*)
+    * Blocage bas main ouverte (*Sonkal Najunde Makgi*)
+* **Exercices fondamentaux (Bases) :**
+    * *Saju Jirugi*
+    * *Saju Makgi*
+* **Système de combat :**
+    * Combat arrangé #1 (Combat sur 3 pas de *Chon-Ji*), effectué sans partenaire.
+    * Déroulement détaillé : [combats arrangés du 10e Gup](../../7-combat/combats-arranges/01_10e-9e-Gup.md).
+* **Combat sportif :**
+    * Position de combat et garde,
+    * Déplacements de base (croisé, glissé, chassé, switch, pivot).
+    * Atteinte de cibles mobiles.
+    * Coup de poing avant
+    * Coup de pied demi-circulaire de la jambe avant.
+* **Autodéfense :**
+    * Dégagements simples sur prises de poignets.
+    * Application des mouvements issus des bases apprises.
+* **Connaissances théoriques :**
+    * Définition du Taekwon-Do
+    * L'origine du Taekwon-Do
+    * Utilité de la ceinture blanche
+    * Le Crédo de Taekwon-Do
+    * Le Serment de l'adepte
+    * Le Vocabulaire technique spécifique
+
+## Théorie
+
+* Définition du Taekwon-Do
+    * En termes simples, le Taekwon-Do est un type de combat sans arme dans un but d’autodéfense. C’est l’usage scientifique du corps dans une méthode d’autodéfense.
+    * **Tae** signifie sauter ou voler, donner un coup de pied ou écraser avec le pied;
+    * **Kwon** décrit le poing, généralement pour frapper ou écraser avec la main ou le poing;
+    * **Do** signifie un chemin, la véritable voie tracée et pavée par les saints et les sages du passé.
+    * **TaeKwon-Do** veut dire l’entrainement de l’esprit et les techniques d’un combat sans armes pour l’autodéfense de même pour la santé, impliquant une utilisation habile de coups de poings et de pieds, de blocages et d’esquives avec les mains nues et les pieds, pour la suppression rapide d’un ou plusieurs adversaires en mouvement.
+* L'origine
+    * Le TaeKwon-Do est originaire de la Corée, le nom de l’art fut confirmé le 11 avril 1955 à Séoul. Le fondateur est le général Choi Hong-Hi. Il a créé le TaeKwon-Do en se basant sur le Taek Kyon et le Karaté. Il a utilisé le 29e régiment d’infanterie qui était sous son commandement pour mener à terme le développement de ce nouvel art martial coréen.
+* signification de la ceinture blanche
+    * La pure innocence d’un débutant, son ignorance face au Taekwon-Do
+* utilité et signification de *Saju Jirugi* et *Saju Makgi*.
+    * **Saju Jirugi** ou coup de poing quatre directions est composé de 7 mouvements, soit un enchainement de coup de poing moyen en position de marche et de blocage bas main fermé en position de marche. Il se pratique de droite et de la gauche pour un totel de 14 mouvements.
+    * **Saju Makgi** ou blocage quatre directions est composé de 8 mouvements, soit un enchainement de blocage bas main ouverte en position de marche et de blocage moyen main fermé en position de marche. Il se pratique de la droite et de la gauche pour un total de 16 mouvements.
+* Le Crédo de Taekwon-Do (Tenets of Taekwon-do / Taekwon-Do Jungshin)
+    * Courtoisie (Courtesy / Ye Ui)
+        * **Synonymes** : Politesse, modestie, humilité, amabilité, civilité, générosité, délicatesse, sociabilité, serviabilité
+        * Les adeptes du Taekwon-Do doivent s’efforcer de mettre en pratique les éléments suivants de courtoisie afin d’édifier la noblesse de leur caractère et de permettre du même coup une pratique ordonnée :
+            * Promouvoir un esprit de concessions mutuelles;
+            * Être honteux de ses propres vices et dédaigneux de ceux d’autrui;
+            * Être poli les uns envers les autres;
+            * Encourager un sens de la justice et de l’humanisme;
+            * Se distinguer en tant qu’instructeur de l’élève, en tant que senior du junior, en tant qu’aîné du cadet;
+            * Se conduire selon l’étique;
+            * Respecter les possessions d’autrui;
+            * Agir avec équité et sincérité; et
+            * Se restreindre à ne pas accepter de donner ou recevoir dans le doute.
+    * Intégrité (Integrity / Yum Chi)
+        * **Synonymes** : Loyauté, sens de l’honneur, incorruptibilité, justice, sincérité, franchise
+        * En Taekwon-Do, la définition de l’intégrité est quelque peu libérale par rapport à celle du dictionnaire. Chacun se doit de définir ce qui est bien et mal, et d’avoir conscience dans le mal, de ressentir un sentiment de culpabilité justifié. Voici quelques exemples où l’intégrité semble faire défaut :
+            * L’instructeur qui triche dans son art ainsi qu’avec lui-même en enseignant des techniques inadéquates, en raison de son apathie ou de son ignorance;
+            * Un étudiant qui se trompe lui-même ou le public en truquant ses démonstrations;
+            * L’instructeur qui camoufle son incompétence derrière le luxe de sa salle d’entraînement ou de ses belles paroles;
+            * Un élève qui demande un grade ou essaie de l’acheter à son instructeur;
+            * Un élève qui monte en grade par égocentrisme ou par soif de puissance;
+            * L’instructeur qui enseigne ou popularise son art dans un but mercantile;
+            * Un étudiant dont les gestes contredisent les paroles; et
+            * Un étudiant honteux de demander l’aide ou l’opinion de ses juniors.
+    * Persévérance (Perseverance / In Nae)
+        * **Synonymes** : Patience, discipline, défi, ténacité, optimiste
+        * Un vieux proverbe oriental affirme que “la patience mène à la vertu et au mérite”. “Un foyer peut connaître la paix si l’on est cent fois patient.” Il est certain que la personne patiente obtient plus aisément bonheur et prospérité. Pour atteindre un but, que ce soit un degré plus élevé ou la perfection d’une technique, il faut se fixer un objectif et persévérer sans relâche. Robert Bruce appris sa leçon de persévérance en observant les efforts déterminés d’une simple araignée. C’est en imitant cette même ténacité qu’il pu libérer l’Écosse au XIVème siècle.
+        * L’un des plus importants secrets pour devenir un leader du Taekwon-Do est de faire face et surmonter toute difficulté avec persévérance. Confucius a dit: “Celui qui s’impatiente pour de simples choses du commun peut rarement atteindre le succès dans les grandes choses d’importance.”
+    * Contrôle de soi (Self Control / Guk Gi)
+        * **Synonymes** : Maîtrise de soi, respect, sacrifice
+        * Ce but est primordial aussi bien en dehors qu’à l’intérieur du dojang, aussi bien dans la façon de se comporter en combat que dans ses affaires personnelles. Une perte de contrôle en combat peut s’avérer désastreuse pour soi-même autant que pour l’opposant. Une incapacité de vivre et oeuvrer selon ses propres moyens et dans son propre milieu démontre également une perte de contrôle de soi. Selon Lao Tzu : «On appelle «Fort» celui qui se vainc soi-même et non celui qui vainc les autres. »
+    * Courage / Esprit Indomptable (Indomitable Spirit / Baekjul Boolgool)
+        * **Synonymes** : Combativité, esprit fort, fermeté inébranlable, esprit indomptable
+        * «Ici reposent 300 hommes qui accomplirent leur devoir», voilà une simple épitaphe en l’honneur de l’un des plus grands actes de courage de toute l’histoire de l’humanité. Bien que face à des forces supérieures de Xerxes, Léonidas et ses 300 spartiates montrèrent au monde entier, à Thermophylae, la signification du concept d’esprit indomptable.
+        * Le courage apparaît chez la personne qui persévère face à une opposition insurmontable. L’adepte sérieux du Taekwon-Do sera toujours honnête et modeste. Confronté à l’injustice, il affrontera celle-ci sans peur ni hésitation, quelle qu’elle soit, avec un esprit indomptable, sans regard à qui ou combien s’oppose à lui. Confucius affirme : «c’est un geste de lâcheté que de se taire face à l’injustice. » Comme l’histoire l’a prouvé, ceux qui poursuivent leurs idéaux avec effort, engagement et un esprit indomptable, n’ont jamais manqué d’atteindre leurs buts.
+* Le Serment de l'Adepte (Étudiant)
+    * **J'observerai le credo du Taekwon-Do.**
+    * **Je respecterai mon instructeur et les seniors.**
+    * **Je n'utiliserai jamais le Taekwon-Do à mauvais escient.**
+    * **Je serai honnête et juste.**
+    * **Je bâtirai un monde meilleur.**
+
+## Le "DO" : Philosophie et Éthique du Pratiquant
+
+Le pratiquant doit appliquer rigoureusement le serment et le crédo de l'ITF. L'étiquette au dojang est évaluée à chaque séance et lors de l'examen de passage de grade.
+
+Pour ce niveau, l'accent est particulièrement mis sur la signification de la ceinture et le respect absolu de l'étiquette envers les instructeurs et seniors.
+
+## Lexique Technique Spécifique
+
+* Position de marche (Walking Stance / Gunnun sogi)
+* Position assise (Sitting Stance / Annun sogi)
+* Coup de poing moyen (Middle punch / Kaunde jirugi)
+* Coup de pied avant (Front kick / Ap chagi)
+* Coup de pied marteau (Downward kick / Naeryo chagi)
+* Blocage bas (Low block / Najunde makgi)
+* Attention! (Attention! / Charyot)
+* Crédo de Taekwon-Do (Tenets of Taekwon-do / Taekwon-Do Jungshin)
+* Courtoisie (Courtesy / Ye Ui)
+* Intégrité (Integrity / Yum Chi)
+* Persévérance (Perseverance / In Nae)
+* Contrôle de soi (Self control / Guk Gi)
+* Esprit indomptable (Indomitable spirit / Baekjul Boolgool)
+* Salle d'entraînement (Training hall / Dojang)
+
+## Questions d'Examen Théorique (Auto-Évaluation)
+
+Les questions de ce grade, avec leur corrigé, le mode révision et l'impression, sont dans l'[examen théorique du 10e Gup](../examens/ceintures-de-couleur/01-10e-gup.md).

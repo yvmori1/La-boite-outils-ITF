@@ -4,7 +4,8 @@ awesome-pages construit d'abord le menu dossier par dossier (docs/.pages et
 les .pages des sections). Ce hook reprend ces sections et ces pages telles
 quelles, avec leurs titres et leur ordre, et les replace dans l'arborescence
 décrite par menu.yml : chaque partie du Manuel suivie des fiches qui la
-mettent en pratique. Aucun fichier ne bouge, les adresses restent les mêmes.
+mettent en pratique. Les dossiers de docs/ suivent ce plan, mais le menu
+reste décrit par menu.yml : c'est lui qui fixe titres et ordre.
 
 awesome-pages ne sait pas mettre un dossier dans la section d'un autre
 dossier (« Nav entry not found ») : d'où ce hook, qui passe après lui.

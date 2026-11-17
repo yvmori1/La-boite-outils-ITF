@@ -33,7 +33,7 @@ async function listeActive() {
 }
 
 // Chemin relatif à la racine du site, décodé, sans « index.html » final :
-// « Techniques/Ap-Chagi/ » sert de clé à Techniques/Ap-Chagi/index.html.
+// « 6-formes/fiches/chon-ji/ » sert de clé à 6-formes/fiches/chon-ji/index.html.
 function cheminDe(url) {
   let chemin = url.href.slice(BASE.length).replace(/[?#].*$/, "");
   try { chemin = decodeURIComponent(chemin); } catch (e) { /* laissé tel quel */ }

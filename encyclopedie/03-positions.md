@@ -1,6 +1,6 @@
 # 3. Les positions (*Sogi*, p. 65-83)
 
-Synthèse du chapitre, avec les mesures données par l'Encyclopédie. Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Les noms français suivent le glossaire du site (`Theorie/glossaire/07-les-positions-sogi.md`).
+Synthèse du chapitre, avec les mesures données par l'Encyclopédie. Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Les noms français suivent le glossaire du site (`docs/annexes/b-glossaire/07-les-positions-sogi.md`).
 
 ---
 
