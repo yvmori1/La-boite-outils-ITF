@@ -6,7 +6,7 @@
 
 **À lire dans le Manuel pour ce grade, dans l'ordre :**
 
-* [ ] [Combat, autodéfense et casse](../../7-combat/README.md)
+* [ ] [Combat et casse](../../7-combat/README.md)
 * [ ] [23. Les vingt-quatre formes en un tableau](../../6-formes/23-les-vingt-quatre-formes-en-un-tableau.md)
 * [ ] [25. Distances de saut dans les formes](../../6-formes/25-distances-de-saut.md)
 * [ ] [26. Types de mouvements](../../6-formes/26-types-de-mouvements.md)

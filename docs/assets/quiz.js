@@ -1,4 +1,4 @@
-// Mode révision des examens théoriques (8-progression/examens/) et des
+// Mode révision des examens théoriques (9-progression/examens/) et des
 // révisions de fin de partie du Manuel (revision.md de chaque partie).
 // Après chaque corrigé, deux boutons : « Je savais » / « À revoir ».
 // Un bandeau en haut de page tient le score et permet de ne revoir que les
@@ -13,7 +13,7 @@
   }
 
   function installer() {
-    if (location.pathname.indexOf("/8-progression/examens/") === -1 &&
+    if (location.pathname.indexOf("/9-progression/examens/") === -1 &&
         !/\/revision(\/|\.html)$/.test(location.pathname)) return;
     var contenu = document.querySelector(".md-content__inner");
     if (!contenu || contenu.querySelector(".quiz-bandeau")) return;

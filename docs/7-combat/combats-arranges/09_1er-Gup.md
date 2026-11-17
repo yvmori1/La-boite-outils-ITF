@@ -1,6 +1,6 @@
 # Combats arrangés — 1er Gup (ceinture rouge barre noire)
 
-Fiche du grade : [Rouge I](../../8-progression/ceintures/10_Rouge_I.md) · Forme du niveau : [*Choong-Moo*](../../6-formes/fiches/choong-moo.md)
+Fiche du grade : [Rouge I](../../9-progression/ceintures/10_Rouge_I.md) · Forme du niveau : [*Choong-Moo*](../../6-formes/fiches/choong-moo.md)
 
 Par convention, la première attaque se fait du côté droit ; chaque combat se travaille ensuite autant à droite qu'à gauche.
 

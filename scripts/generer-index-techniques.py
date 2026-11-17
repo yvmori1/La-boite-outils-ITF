@@ -203,7 +203,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 * [../../4-positions/fiches/README.md](../../4-positions/fiches/README.md) — les positions (*Sogi*) et positions de préparation, une fiche chacune.
 * [../../4-positions/README.md](../../4-positions/README.md) — partie IV du manuel : les 27 positions (*Sogi*), cotées et schématisées.
 * [../../3-grammaire-des-techniques/README.md](../../3-grammaire-des-techniques/README.md) — partie III du manuel : les règles complètes de nomenclature.
-* [../../8-progression/ceintures/README.md](../../8-progression/ceintures/README.md) — à quel grade chaque technique est exigée.
+* [../../9-progression/ceintures/README.md](../../9-progression/ceintures/README.md) — à quel grade chaque technique est exigée.
 """
     stats = {
         "total": len(fiches),

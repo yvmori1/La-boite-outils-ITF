@@ -1,6 +1,6 @@
 # Combats arrangés — 5e Gup (ceinture verte barre bleue)
 
-Fiche du grade : [Verte I](../../8-progression/ceintures/06_Verte_I.md) · Forme du niveau : [*Yul-Gok*](../../6-formes/fiches/yul-gok.md)
+Fiche du grade : [Verte I](../../9-progression/ceintures/06_Verte_I.md) · Forme du niveau : [*Yul-Gok*](../../6-formes/fiches/yul-gok.md)
 
 Par convention, la première attaque se fait du côté droit ; chaque combat se travaille ensuite autant à droite qu'à gauche.
 

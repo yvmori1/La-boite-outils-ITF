@@ -13,5 +13,5 @@ Avant les techniques : ce qu'est le Taekwon-Do, d'où il vient, et la conduite q
 ## Pour aller plus loin
 
 * Le vocabulaire de cette partie, mot par mot : [l'art et ses valeurs](../annexes/b-glossaire/01-l-art-et-ses-valeurs.md), [au dojang : commandements et étiquette](../annexes/b-glossaire/02-au-dojang-commandements-et-etiquette.md), [grades et titres](../annexes/b-glossaire/04-grades-et-titres.md) (annexe B, glossaire).
-* Ce que chaque grade demande en théorie : [examens théoriques](../8-progression/examens/README.md) (partie VIII).
+* Ce que chaque grade demande en théorie : [examens théoriques](../9-progression/examens/README.md) (partie IX).
 * Se tester : [révision de la partie I](revision.md), avec les questions des examens théoriques.

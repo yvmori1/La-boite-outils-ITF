@@ -1,6 +1,6 @@
 # Ceintures — Fiches d'étude de passage de grade
 
-*Partie VIII du [Manuel](../../sommaire.md), La progression : les fiches de grade, le [programme de session](../programme-session/README.md) et les [examens théoriques](../examens/README.md).*
+*Partie IX du [Manuel](../../sommaire.md), La progression : les fiches de grade, le [programme de session](../programme-session/README.md) et les [examens théoriques](../examens/README.md).*
 
 Une fiche par grade, du **10e Gup** (ceinture blanche) au **6e Dan**. Chaque fiche rassemble tout ce qui est exigé à l'examen : la théorie et le lexique coréen du niveau, les formes à présenter avec leur signification, les techniques nouvelles, les exigences de combat et de condition physique, ainsi que les requis de temps et d'heures de pratique.
 

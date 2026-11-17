@@ -1,4 +1,4 @@
-# Révision — Partie VIII : La progression
+# Révision — Partie IX : La progression
 
 4 questions tirées des [examens théoriques](examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 

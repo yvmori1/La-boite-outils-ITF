@@ -9,7 +9,7 @@
 // sous-pages sont désignés par leur nouvelle adresse.
 (function () {
   var ANCRES = {
-  "7-combat/hosinsul/": {
+  "8-autodefense/": {
     "25-ceinture-blanche--dégagements-sur-saisies": "27-ceinture-blanche-degagements-sur-saisies/",
     "27-ceinture-blanche--dégagements-sur-saisies": "27-ceinture-blanche-degagements-sur-saisies/",
     "26-ceinture-blanche-i--défenses-sur-poussées": "28-ceinture-blanche-i-defenses-sur-poussees/",
@@ -143,14 +143,14 @@
     "2422-so-san-5e-dan": "../6-formes/24-les-formes-une-a-une/#2422-so-san-5e-dan",
     "2423-se-jong-5e-dan": "../6-formes/24-les-formes-une-a-une/#2423-se-jong-5e-dan",
     "2424-tong-il-6e-dan": "../6-formes/24-les-formes-une-a-une/#2424-tong-il-6e-dan",
-    "partie-vii--lautodéfense-hosinsul": "../7-combat/hosinsul/",
-    "25-ceinture-blanche--dégagements-sur-saisies": "../7-combat/hosinsul/27-ceinture-blanche-degagements-sur-saisies/",
-    "26-ceinture-blanche-i--défenses-sur-poussées": "../7-combat/hosinsul/28-ceinture-blanche-i-defenses-sur-poussees/",
-    "27-ceinture-jaune--attaques-de-face": "../7-combat/hosinsul/29-ceinture-jaune-attaques-de-face/",
-    "28-ceinture-jaune-i--attaques-par-larrière": "../7-combat/hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere/",
-    "29-ceinture-verte--attaques-de-côté": "../7-combat/hosinsul/31-ceinture-verte-attaques-de-cote/",
-    "30-ceinture-verte-i--attaques-au-sol": "../7-combat/hosinsul/32-ceinture-verte-i-attaques-au-sol/",
-    "31-ceinture-bleue--attaques-combinées": "../7-combat/hosinsul/33-ceinture-bleue-attaques-combinees/",
+    "partie-vii--lautodéfense-hosinsul": "../8-autodefense/",
+    "25-ceinture-blanche--dégagements-sur-saisies": "../8-autodefense/27-ceinture-blanche-degagements-sur-saisies/",
+    "26-ceinture-blanche-i--défenses-sur-poussées": "../8-autodefense/28-ceinture-blanche-i-defenses-sur-poussees/",
+    "27-ceinture-jaune--attaques-de-face": "../8-autodefense/29-ceinture-jaune-attaques-de-face/",
+    "28-ceinture-jaune-i--attaques-par-larrière": "../8-autodefense/30-ceinture-jaune-i-attaques-par-l-arriere/",
+    "29-ceinture-verte--attaques-de-côté": "../8-autodefense/31-ceinture-verte-attaques-de-cote/",
+    "30-ceinture-verte-i--attaques-au-sol": "../8-autodefense/32-ceinture-verte-i-attaques-au-sol/",
+    "31-ceinture-bleue--attaques-combinées": "../8-autodefense/33-ceinture-bleue-attaques-combinees/",
     "annexe-a--lexique-trilingue": "../annexes/a-lexique/",
     "a-termes-généraux-dojang-et-compétition": "../annexes/a-lexique/a-termes-generaux-dojang-et-competition/",
     "b-coups-de-pied-chagi": "../annexes/a-lexique/b-coups-de-pied-chagi/",
@@ -158,7 +158,7 @@
     "d-frappes-et-attaques-jirugi--taerigi--tulgi": "../annexes/a-lexique/d-frappes-et-attaques-jirugi-taerigi-tulgi/",
     "annexe-b--distances-de-saut-dans-les-formes": "../6-formes/25-distances-de-saut/"
   },
-  "8-progression/examens/": {
+  "9-progression/examens/": {
     "taekwon-do-itf--du-10e-gup-ceinture-blanche-au-6e-dan-ceinture-noire": "#taekwon-do-itf--du-10e-gup-ceinture-blanche-au-6e-dan-ceinture-noire",
     "consignes-générales-pour-lévaluation": "#consignes-générales-pour-lévaluation",
     "section-a--programme-des-ceintures-de-couleur-gups": "ceintures-de-couleur/",
@@ -290,7 +290,7 @@
     "les-formes-tul": "15-les-formes-tul/",
     "notes-sur-les-graphies": "16-notes-sur-les-graphies/"
   },
-  "8-progression/programme-session/": {
+  "9-progression/programme-session/": {
     "manuel-de-formation-unifié--groupe-mixte-enfants--adultes": "#manuel-de-formation-unifié--groupe-mixte-enfants--adultes",
     "section-1--plan-de-cours-hebdomadaire-12-semaines": "01-plan-de-cours/",
     "semaine-1": "01-plan-de-cours/#semaine-1",

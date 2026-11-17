@@ -1,11 +1,11 @@
-// Lectures par grade (fiches de 8-progression/ceintures/, bloc produit par
+// Lectures par grade (fiches de 9-progression/ceintures/, bloc produit par
 // scripts/generer-parcours.py) : les cases « lu » deviennent cliquables et
 // restent cochées dans ce navigateur seulement.
 (function () {
   function cle(lien) { return "parcours:" + new URL(lien, location.href).pathname; }
 
   function installer() {
-    if (location.pathname.indexOf("/8-progression/ceintures/") === -1) return;
+    if (location.pathname.indexOf("/9-progression/ceintures/") === -1) return;
     document.querySelectorAll(".md-content .task-list-item").forEach(function (li) {
       var caseLu = li.querySelector("input[type=checkbox]");
       var lien = li.querySelector("a[href]");

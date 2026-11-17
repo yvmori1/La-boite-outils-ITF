@@ -6,13 +6,13 @@
 
 Deux productions, tirées de tables tenues ici :
 
-  * PARCOURS : dans chaque fiche de grade (docs/8-progression/ceintures/), sous l'encadré
+  * PARCOURS : dans chaque fiche de grade (docs/9-progression/ceintures/), sous l'encadré
     « Pour ce grade », un bloc « À lire dans le Manuel » : les chapitres à
     lire pour ce grade, dans l'ordre, chacun avec une case à cocher que
     assets/parcours.js garde cochée dans le navigateur.
   * REVISIONS : une page revision.md dans le dossier de chaque partie du
     Manuel (docs/1-art-et-voie/revision.md…),
-    faite de questions recopiées des examens théoriques (docs/8-progression/examens/),
+    faite de questions recopiées des examens théoriques (docs/9-progression/examens/),
     avec leur corrigé. assets/quiz.js y installe le mode révision.
 
 Les titres des chapitres sont lus dans les fichiers ; les questions sont
@@ -78,14 +78,14 @@ PARCOURS = {
     "07_Bleu.md": [ch(8), "7-combat/systemes-de-combat.md", "7-combat/prise-de-mesure.md"],
     "08_Bleu_I.md": [ch(16), "7-combat/combat-libre.md", "7-combat/arbitrage.md"],
     "09_Rouge.md": ["7-combat/README.md", ch(23), ch(25), ch(26)],
-    "10_Rouge_I.md": ["7-combat/points-vitaux.md", "7-combat/hosinsul/autodefense.md",
+    "10_Rouge_I.md": ["7-combat/points-vitaux.md", "8-autodefense/autodefense.md",
                       "7-combat/progression.md"],
     "11_Noire_I.md": [ch(20), ch(24)],
     "12_Noire_II.md": [ch(24), "annexes/b-glossaire/README.md"],
 }
 
 # Révisions : (partie, titre) -> questions (examen, numéro de question).
-C, N = "8-progression/examens/ceintures-de-couleur/", "8-progression/examens/ceintures-noires/"
+C, N = "9-progression/examens/ceintures-de-couleur/", "9-progression/examens/ceintures-noires/"
 G = {1: C + "01-10e-gup.md", 2: C + "02-9e-gup.md", 3: C + "03-8e-gup.md",
      4: C + "04-7e-gup.md", 5: C + "05-6e-gup.md", 6: C + "06-5e-gup.md",
      7: C + "07-4e-gup.md", 8: C + "08-3e-gup.md", 9: C + "09-2e-gup.md",
@@ -101,10 +101,10 @@ REVISIONS = [
                                     (G[8], 5), (G[9], 5)]),
     (6, "Les formes (Tul)", [(G[2], 4), (G[1], 3), (G[2], 3), (G[3], 3), (G[4], 2),
                              (G[5], 1), (G[6], 2), (G[8], 2), (G[10], 3), (D[3], 1)]),
-    (7, "Combat, autodéfense et casse", [(G[6], 4), (G[7], 4), (G[8], 3), (G[9], 2)]),
-    (8, "La progression", [(G[10], 4), (D[1], 4), (D[3], 4), (D[4], 4)]),
+    (7, "Combat et casse", [(G[6], 4), (G[7], 4), (G[8], 3), (G[9], 2)]),
+    (9, "La progression", [(G[10], 4), (D[1], 4), (D[3], 4), (D[4], 4)]),
 ]
-ROMAINS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII", 8: "VIII"}
+ROMAINS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V", 6: "VI", 7: "VII", 8: "VIII", 9: "IX"}
 
 DEBUT = "<!-- parcours : bloc produit par scripts/generer-parcours.py -->"
 FIN = "<!-- /parcours -->"
@@ -128,7 +128,7 @@ def relatif(cible, depuis):
 
 
 def bloc_parcours(fiche, chemins):
-    depuis = "8-progression/ceintures/" + fiche
+    depuis = "9-progression/ceintures/" + fiche
     lignes = [f"* [ ] [{titre(c)}]({relatif(c, depuis)})" for c in chemins]
     return ("\n\n" + DEBUT + "\n\n**À lire dans le Manuel pour ce grade, dans l'ordre :**\n\n"
             + "\n".join(lignes) + "\n\n" + FIN + "\n\n")
@@ -175,7 +175,7 @@ def page_revision(partie, nom, questions):
     page = site(page_de_revision(partie))
     lignes = [f"# Révision — Partie {ROMAINS[partie]} : {nom}", "",
               f"{len(questions)} questions tirées des "
-              f"[examens théoriques]({relatif('8-progression/examens/README.md', page)}), avec leur corrigé. "
+              f"[examens théoriques]({relatif('9-progression/examens/README.md', page)}), avec leur corrigé. "
               "Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode "
               "révision garde le score dans ce navigateur.", ""]
     for i, (examen, n) in enumerate(questions, 1):
@@ -190,7 +190,7 @@ def page_revision(partie, nom, questions):
 def produire():
     fichiers = {}
     for fiche, chemins in PARCOURS.items():
-        p = DOCS / "8-progression" / "ceintures" / fiche
+        p = DOCS / "9-progression" / "ceintures" / fiche
         fichiers[p] = appliquer_parcours(p.read_text(encoding="utf-8"),
                                          bloc_parcours(fiche, chemins))
     for partie, nom, questions in REVISIONS:

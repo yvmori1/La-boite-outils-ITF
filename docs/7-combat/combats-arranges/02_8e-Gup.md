@@ -1,6 +1,6 @@
 # Combats arrangés — 8e Gup (ceinture jaune)
 
-Fiche du grade : [Jaune](../../8-progression/ceintures/03_Jaune.md) · Forme du niveau : [*Dan-Gun*](../../6-formes/fiches/dan-gun.md)
+Fiche du grade : [Jaune](../../9-progression/ceintures/03_Jaune.md) · Forme du niveau : [*Dan-Gun*](../../6-formes/fiches/dan-gun.md)
 
 Par convention, la première attaque se fait du côté droit ; chaque combat se travaille ensuite autant à droite qu'à gauche.
 

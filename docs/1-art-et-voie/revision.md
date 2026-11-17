@@ -1,10 +1,10 @@
 # Révision — Partie I : L'art et sa voie
 
-9 questions tirées des [examens théoriques](../8-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
+9 questions tirées des [examens théoriques](../9-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 
 ### Q1. Quelle est la définition littérale du mot "Taekwon-Do" et quel est son pays d'origine ?
 
-*Examen du 10e Gup, question 1 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
+*Examen du 10e Gup, question 1 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -18,7 +18,7 @@
 
 ### Q2. Que signifie la couleur Blanche de la ceinture ?
 
-*Examen du 10e Gup, question 2 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
+*Examen du 10e Gup, question 2 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -29,7 +29,7 @@
 
 ### Q3. Citez dans l'ordre les 5 principes du Taekwon-Do (le Crédo) :
 
-*Examen du 10e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
+*Examen du 10e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -45,7 +45,7 @@
 
 ### Q4. Quel est le nom du fondateur du Taekwon-Do ?
 
-*Examen du 9e Gup, question 1 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
+*Examen du 9e Gup, question 1 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -56,7 +56,7 @@
 
 ### Q5. Donnez la date exacte de fondation du Taekwon-Do et celle de la Fédération Internationale de Taekwon-Do (ITF).
 
-*Examen du 8e Gup, question 1 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
+*Examen du 8e Gup, question 1 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -69,7 +69,7 @@
 
 ### Q6. Quelle est la procédure d'étiquette obligatoire pour entrer ou sortir du dojang ?
 
-*Examen du 8e Gup, question 4 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
+*Examen du 8e Gup, question 4 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -80,7 +80,7 @@
 
 ### Q7. Quel est le protocole d'étiquette requis lorsqu'un élève s'adresse à un ceinture noire senior ou instructeur ?
 
-*Examen du 7e Gup, question 4 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
+*Examen du 7e Gup, question 4 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -91,7 +91,7 @@
 
 ### Q8. Que symbolise la broderie et la coupe du Dobuk (uniforme officiel) ?
 
-*Examen du 6e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/05-6e-gup.md)).*
+*Examen du 6e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/05-6e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -102,7 +102,7 @@
 
 ### Q9. Citez au moins trois avantages ou bienfaits physiques et mentaux de la pratique constante du Taekwon-Do.
 
-*Examen du 5e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
+*Examen du 5e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>

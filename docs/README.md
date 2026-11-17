@@ -29,10 +29,10 @@ Le recueil s'adresse à l'ensemble des pratiquants francophones et francophiles 
 
 ## Par où commencer
 
-Le site suit le [Manuel](sommaire.md) : huit parties, de ce qu'est le Taekwon-Do jusqu'aux grades, chacune suivie des fiches qui la mettent en pratique.
+Le site suit le [Manuel](sommaire.md) : neuf parties, de ce qu'est le Taekwon-Do jusqu'aux grades, chacune suivie des fiches qui la mettent en pratique.
 
 * **Je débute** → lisez la [partie I, L'art et sa voie](1-art-et-voie/README.md), puis suivez le bouton « Suivant » en bas de page.
-* **Je prépare mon grade** → la [partie VIII, La progression](8-progression/ceintures/README.md) : une fiche par grade, du 10e Gup au 6e Dan, et les examens théoriques.
+* **Je prépare mon grade** → la [partie IX, La progression](9-progression/ceintures/README.md) : une fiche par grade, du 10e Gup au 6e Dan, et les examens théoriques.
 * **Je cherche une technique** → la recherche (en haut de page) ou la [partie V, Le répertoire technique](5-repertoire-technique/README.md).
 
 ---
@@ -64,8 +64,8 @@ Les dossiers du site suivent le menu : chaque partie du Manuel est un dossier, q
 | [Formes (*Tul*)](6-formes/fiches/README.md) | Les formes (Tul) et exercices fondamentaux, mouvement par mouvement | 28 |
 | [Combat](7-combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 7 |
 | [Combats arrangés](7-combat/combats-arranges/README.md) | Les combats arrangés de chaque grade, du 10e Gup aux ceintures noires | 10 |
-| [Hosinsul](7-combat/hosinsul/README.md) | L'autodéfense : principes, puis le programme grade par grade | 8 |
-| [Requis Examen](8-progression/ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
+| [Hosinsul](8-autodefense/README.md) | L'autodéfense : principes, puis le programme grade par grade | 8 |
+| [Requis Examen](9-progression/ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 29 |
 
 ---
@@ -74,7 +74,7 @@ Les dossiers du site suivent le menu : chaque partie du Manuel est un dossier, q
 
 **Si vous cherchez la théorie** → tout est réuni dans le [manuel](sommaire.md), découpé en une page par chapitre : l'art et sa voie, les principes de puissance, la grammaire des techniques, les positions, le répertoire technique, les formes, le combat et l'autodéfense, la progression par grade, puis le lexique trilingue, le glossaire, l'analyse statistique et la bibliographie en annexe.
 
-**Si vous préparez un passage de grade** → commencez par la [partie VIII, La progression](8-progression/ceintures/README.md), qui donne pour chaque grade la théorie, les formes, le lexique et les exigences physiques.
+**Si vous préparez un passage de grade** → commencez par la [partie IX, La progression](9-progression/ceintures/README.md), qui donne pour chaque grade la théorie, les formes, le lexique et les exigences physiques.
 
 **Si vous cherchez une technique précise** → l'index du répertoire correspondant ([sogi](4-positions/fiches/README.md), [chagi](5-repertoire-technique/chagi/README.md), [makgi](5-repertoire-technique/makgi/README.md), [jirugi](5-repertoire-technique/jirugi/README.md)) classe les fiches par famille de mouvement, avec le nom français en regard du nom coréen.
 
@@ -82,7 +82,7 @@ Les dossiers du site suivent le menu : chaque partie du Manuel est un dossier, q
 
 **Si vous travaillez une forme** → l'[index des formes](6-formes/fiches/README.md) mène à la fiche de chaque forme (mouvement par mouvement) ; la [partie VI du manuel](6-formes/README.md) en donne le sens et l'histoire.
 
-**Si vous travaillez le combat, l'autodéfense ou la casse** → la [partie VII, Combat](7-combat/README.md) : systèmes de combat, conseils pour le combat libre, autodéfense, points vitaux, casse, et un récapitulatif des exigences de chaque examen.
+**Si vous travaillez le combat, l'autodéfense ou la casse** → la [partie VII, Combat et casse](7-combat/README.md) : systèmes de combat, conseils pour le combat libre, points vitaux, casse, et un récapitulatif des exigences de chaque examen.
 
 **Si vous préparez un combat ou un arbitrage** → [Règlement et arbitrage](7-combat/arbitrage.md) : commandements de l'arbitre, barème des points et des pénalités ; la prise de mesure est dans [Prise de mesure](7-combat/prise-de-mesure.md).
 

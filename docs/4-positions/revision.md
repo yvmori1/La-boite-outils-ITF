@@ -1,10 +1,10 @@
 # Révision — Partie IV : Les positions (Sogi)
 
-3 questions tirées des [examens théoriques](../8-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
+3 questions tirées des [examens théoriques](../9-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 
 ### Q1. Quel est le rôle de la posture Moa Junbi Sogi B (utilisée dans Toi-Gye) ?
 
-*Examen du 3e Gup, question 4 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
+*Examen du 3e Gup, question 4 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -15,7 +15,7 @@
 
 ### Q2. Quelle est la posture de départ (Junbi Sogi) de JOONG-GUN Tul ?
 
-*Examen du 4e Gup, question 2 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
+*Examen du 4e Gup, question 2 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -26,7 +26,7 @@
 
 ### Q3. Quelle est la posture de départ (Junbi Sogi) de HWA-RANG Tul ?
 
-*Examen du 2e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/09-2e-gup.md)).*
+*Examen du 2e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/09-2e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>

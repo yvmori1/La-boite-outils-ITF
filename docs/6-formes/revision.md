@@ -1,10 +1,10 @@
 # Révision — Partie VI : Les formes (Tul)
 
-10 questions tirées des [examens théoriques](../8-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
+10 questions tirées des [examens théoriques](../9-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 
 ### Q1. Quelle est l'utilité des formes (Tuls) en Taekwon-Do ?
 
-*Examen du 9e Gup, question 4 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
+*Examen du 9e Gup, question 4 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -15,7 +15,7 @@
 
 ### Q2. Combien de mouvements comportent respectivement les exercices fondamentaux Saju Jirugi et Saju Makgi, et quelle est leur utilité ?
 
-*Examen du 10e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
+*Examen du 10e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -28,7 +28,7 @@
 
 ### Q3. Combien de mouvements comporte le Tul CHON-JI et quel est son diagramme au sol ?
 
-*Examen du 9e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
+*Examen du 9e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -39,7 +39,7 @@
 
 ### Q4. Combien de mouvements comporte le Tul DAN-GUN et quel est son diagramme au sol ?
 
-*Examen du 8e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
+*Examen du 8e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -50,7 +50,7 @@
 
 ### Q5. Quel est le diagramme au sol de DO-SAN Tul et que représente-t-il ?
 
-*Examen du 7e Gup, question 2 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
+*Examen du 7e Gup, question 2 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -61,7 +61,7 @@
 
 ### Q6. Quelle est la signification historique et philosophique de la forme WON-HYO Tul ?
 
-*Examen du 6e Gup, question 1 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/05-6e-gup.md)).*
+*Examen du 6e Gup, question 1 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/05-6e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -72,7 +72,7 @@
 
 ### Q7. Quel est le diagramme au sol de YUL-GOK Tul et que symbolise-t-il ?
 
-*Examen du 5e Gup, question 2 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
+*Examen du 5e Gup, question 2 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -83,7 +83,7 @@
 
 ### Q8. Quel est le diagramme au sol de TOI-GYE Tul et que représente-t-il ?
 
-*Examen du 3e Gup, question 2 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
+*Examen du 3e Gup, question 2 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -94,7 +94,7 @@
 
 ### Q9. Combien de formes (Tuls) comporte l'école Chang-Hun de l'ITF, que représentent-elles globalement, et pourquoi ce nombre ?
 
-*Examen du 1er Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/10-1er-gup.md)).*
+*Examen du 1er Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/10-1er-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -105,7 +105,7 @@
 
 ### Q10. Quelle est la signification de SAM-IL Tul et que représentent ses 33 mouvements ?
 
-*Examen du EXAMEN : 3e Degré (Dan) vers 4e Degré (Dan - Grade de Sabum / Instructeur International), question 1 ([voir l'examen](../8-progression/examens/ceintures-noires/03-3e-dan.md)).*
+*Examen du EXAMEN : 3e Degré (Dan) vers 4e Degré (Dan - Grade de Sabum / Instructeur International), question 1 ([voir l'examen](../9-progression/examens/ceintures-noires/03-3e-dan.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>

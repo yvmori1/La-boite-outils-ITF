@@ -1,6 +1,6 @@
 # Combats arrangés — 3e Gup (ceinture bleue barre rouge)
 
-Fiche du grade : [Bleu I](../../8-progression/ceintures/08_Bleu_I.md) · Forme du niveau : [*Toi-Gye*](../../6-formes/fiches/toi-gye.md)
+Fiche du grade : [Bleu I](../../9-progression/ceintures/08_Bleu_I.md) · Forme du niveau : [*Toi-Gye*](../../6-formes/fiches/toi-gye.md)
 
 Par convention, la première attaque se fait du côté droit ; chaque combat se travaille ensuite autant à droite qu'à gauche.
 

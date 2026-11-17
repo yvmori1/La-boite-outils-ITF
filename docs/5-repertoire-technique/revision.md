@@ -1,10 +1,10 @@
 # Révision — Partie V : Le répertoire technique
 
-6 questions tirées des [examens théoriques](../8-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
+6 questions tirées des [examens théoriques](../9-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 
 ### Q1. Traduisez ces techniques issues du Tul DO-SAN :
 
-*Examen du 7e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
+*Examen du 7e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
 
 * a) Position fléchie (Bending stance)
 * b) Coup de pied avant sauté
@@ -24,7 +24,7 @@
 
 ### Q2. Donnez le terme coréen officiel des techniques de blocage et frappes suivantes :
 
-*Examen du 6e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/05-6e-gup.md)).*
+*Examen du 6e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/05-6e-gup.md)).*
 
 * a) Position fixe
 * b) Coup de pied circulaire inversé arrière
@@ -44,7 +44,7 @@
 
 ### Q3. Traduisez ces termes spécifiques issus du Tul YUL-GOK :
 
-*Examen du 5e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
+*Examen du 5e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
 
 * a) Position croisée (X-stance)
 * b) Coup de pied de côté sauté
@@ -64,7 +64,7 @@
 
 ### Q4. Donnez le terme coréen officiel de ces techniques du Tul JOONG-GUN :
 
-*Examen du 4e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
+*Examen du 4e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
 
 * a) Position basse (Low stance)
 * b) Coup de pied consécutif
@@ -84,7 +84,7 @@
 
 ### Q5. Traduisez ces termes spécifiques issus du Tul TOI-GYE :
 
-*Examen du 3e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
+*Examen du 3e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
 
 * a) Position fermée
 * b) Coup de pied arrière sauté
@@ -104,7 +104,7 @@
 
 ### Q6. Donnez le terme coréen officiel des techniques et positions suivantes :
 
-*Examen du 2e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/09-2e-gup.md)).*
+*Examen du 2e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/09-2e-gup.md)).*
 
 * a) Position verticale
 * b) Coup de pied de côté arrière sauté à 360 degrés

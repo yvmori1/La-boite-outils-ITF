@@ -103,4 +103,4 @@ Non officiels, mais préalables à Chon-Ji. Diagramme en croix, quatre direction
 * [../25-distances-de-saut.md](../25-distances-de-saut.md) — chapitre 25 du manuel : toutes les distances de saut réunies en un tableau.
 * [../../5-repertoire-technique/chagi/Dans-les-formes.md](../../5-repertoire-technique/chagi/Dans-les-formes.md) — répartition des coups de pied par forme.
 * [../../images/README.md](../../images/README.md) — diagrammes au sol de chaque forme.
-* [../../8-progression/ceintures/README.md](../../8-progression/ceintures/README.md) — à quel grade chaque forme est exigée.
+* [../../9-progression/ceintures/README.md](../../9-progression/ceintures/README.md) — à quel grade chaque forme est exigée.

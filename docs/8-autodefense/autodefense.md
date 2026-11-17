@@ -28,7 +28,7 @@ Il y a trois façons de se libérer d'une prise :
 
 | Repère | Méthode | Principe |
 | :---: | :--- | :--- |
-| **A** | Attaque | Frapper directement un point vulnérable ou un [point vital](../points-vitaux.md). |
+| **A** | Attaque | Frapper directement un point vulnérable ou un [point vital](../7-combat/points-vitaux.md). |
 | **B** | Fracture | Briser l'articulation de la main ou du bras qui saisit. |
 | **R** | Dégagement | Un mouvement logique de libération, le plus souvent suivi d'une contre-attaque. |
 
@@ -120,7 +120,7 @@ l'adversaire, surtout s'il est attentif, la technique échouera.
 | Arme | Terme coréen | Points clés |
 | :--- | :--- | :--- |
 | Poignard | *Dae Dando* | Coupe à la tête, au ventre, coupe intérieure, coupe extérieure ; garde de l'avant-bras en esquivant vers l'arrière, puis riposte du pied bas ou sautée |
-| Baïonnette | *Dae Chong Gum* | Esquiver d'abord de près, pour contre-attaquer sans pas supplémentaire ; contre une estocade à la gorge, bloquer le canon du tranchant de la main. Le [blocage en U](../../5-repertoire-technique/makgi/mongdung-i-makgi.md) sert aussi contre une perche ou une baïonnette |
+| Baïonnette | *Dae Chong Gum* | Esquiver d'abord de près, pour contre-attaquer sans pas supplémentaire ; contre une estocade à la gorge, bloquer le canon du tranchant de la main. Le [blocage en U](../5-repertoire-technique/makgi/mongdung-i-makgi.md) sert aussi contre une perche ou une baïonnette |
 | Bâton | *Dae Gonbong* | Contre la frappe descendante au front, blocage montant en X ou du tranchant de la main ; contre la frappe intérieure, blocage latéral du tranchant, puis coude ou coup de pied en esquive |
 | Perche | *Dae Mongdung-I* | Garde de l'avant-bras en glissant contre la frappe aux côtes ; contre la poussée au plexus, coup de pied en croissant et blocage bas |
 | Pistolet | *Dae Gwon Chong* | Seulement à très courte distance, quand l'adversaire dégaine ou vise ; la feinte est peut-être la meilleure défense |
@@ -138,7 +138,7 @@ l'adversaire, surtout s'il est attentif, la technique échouera.
 La Fédération québécoise de Taekwon-Do ITF répartit l'autodéfense par grade,
 chaque ceinture abordant une famille d'attaques. Les techniques sont décrites
 une à une dans la
-[partie VII du manuel](README.md).
+[partie VIII du manuel](README.md).
 Chaque technique se termine en revenant en position de combat, mains ouvertes.
 
 | Grade | Thème | Dans le manuel |
@@ -159,7 +159,7 @@ Chaque technique se termine en revenant en position de combat, mains ouvertes.
 | 4e Dan | Défense et contrôle contre deux agresseurs simultanés | — |
 
 !!! note "Écarts entre les fiches"
-    Les fiches de grade du dépôt ([Ceintures](../../8-progression/ceintures/README.md)) placent
+    Les fiches de grade du dépôt ([Ceintures](../9-progression/ceintures/README.md)) placent
     certains thèmes un cran plus tôt que les *Notes* de 2011 (par exemple les
     attaques au sol à la ceinture verte, les attaques de côté à la verte I).
     Le tableau ci-dessus suit le manuel ; l'instructeur tranche.
@@ -172,6 +172,6 @@ défense réaliste contre une saisie ou une frappe.
 
 ## Voir aussi
 
-* [Les points vitaux](../points-vitaux.md) — où frapper, et avec quelle arme.
-* [Les systèmes de combat](../systemes-de-combat.md) — le combat à un pas, considéré comme le plus proche du combat réel.
-* [Exigences par grade](../progression.md) — l'autodéfense dans l'ensemble de l'examen.
+* [Les points vitaux](../7-combat/points-vitaux.md) — où frapper, et avec quelle arme.
+* [Les systèmes de combat](../7-combat/systemes-de-combat.md) — le combat à un pas, considéré comme le plus proche du combat réel.
+* [Exigences par grade](../7-combat/progression.md) — l'autodéfense dans l'ensemble de l'examen.

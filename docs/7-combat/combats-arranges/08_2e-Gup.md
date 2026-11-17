@@ -1,6 +1,6 @@
 # Combats arrangés — 2e Gup (ceinture rouge)
 
-Fiche du grade : [Rouge](../../8-progression/ceintures/09_Rouge.md) · Forme du niveau : [*Hwa-Rang*](../../6-formes/fiches/hwa-rang.md)
+Fiche du grade : [Rouge](../../9-progression/ceintures/09_Rouge.md) · Forme du niveau : [*Hwa-Rang*](../../6-formes/fiches/hwa-rang.md)
 
 Par convention, la première attaque se fait du côté droit ; chaque combat se travaille ensuite autant à droite qu'à gauche.
 

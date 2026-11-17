@@ -105,4 +105,4 @@ Avant Chon-Ji, deux exercices fondamentaux préparent aux tuls :
 
 Remarques de lecture : les diagrammes de Yul-Gok et Toi-Gye sont imprimés inversés « pour une lecture plus claire » ; Se-Jong utilise, en plus de A, B, C et D, les directions E et F.
 
-> Pour comparer avec le site : `docs/6-formes/fiches/` et `docs/8-progression/examens/table-de-correspondance-des-tuls.md`.
+> Pour comparer avec le site : `docs/6-formes/fiches/` et `docs/9-progression/examens/table-de-correspondance-des-tuls.md`.

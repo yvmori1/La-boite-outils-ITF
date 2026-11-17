@@ -9,7 +9,7 @@ edit_uri: edit/main/docs/
 copyright: La boîte à outils ITF
 
 # Tout le contenu du site est dans docs/, rangé comme le menu : un dossier par
-# partie du Manuel (1-art-et-voie … 8-progression), avec les fiches qui la
+# partie du Manuel (1-art-et-voie … 9-progression), avec les fiches qui la
 # mettent en pratique, puis annexes/ et a-propos/. Médias : docs/audio,
 # docs/images ; fichiers propres au site : docs/assets.
 docs_dir: docs
@@ -80,9 +80,9 @@ plugins:
         # page mène au sommaire, et docs/assets/anciennes-ancres.js envoie
         # l'ancre éventuelle (#...) vers la sous-page qui la contient.
         Theorie/manuel-taekwon-do.md: sommaire.md
-        Theorie/examens-theoriques-taekwondo.md: 8-progression/examens/README.md
+        Theorie/examens-theoriques-taekwondo.md: 9-progression/examens/README.md
         Theorie/glossaire-coreen-francais.md: annexes/b-glossaire/README.md
-        Theorie/programme-session.md: 8-progression/programme-session/README.md
+        Theorie/programme-session.md: 9-progression/programme-session/README.md
         # Positions regroupées dans sogi/, fiches en double fusionnées et
         # noms de fichiers corrigés (ancienne adresse -> fiche conservée).
         Techniques/Annun-Sogi.md: 4-positions/fiches/Annun-Sogi.md
@@ -112,23 +112,23 @@ plugins:
         # Chaque ancienne adresse mène à la page à sa nouvelle place.
         Application.md: a-propos/application.md
         Bibliographie.md: annexes/d-bibliographie.md
-        Ceintures/00_Intro.md: 8-progression/ceintures/00_Intro.md
-        Ceintures/01_Blanche.md: 8-progression/ceintures/01_Blanche.md
-        Ceintures/02_Blanche_I.md: 8-progression/ceintures/02_Blanche_I.md
-        Ceintures/03_Jaune.md: 8-progression/ceintures/03_Jaune.md
-        Ceintures/04_Jaune_I.md: 8-progression/ceintures/04_Jaune_I.md
-        Ceintures/05_Verte.md: 8-progression/ceintures/05_Verte.md
-        Ceintures/06_Verte_I.md: 8-progression/ceintures/06_Verte_I.md
-        Ceintures/07_Bleu.md: 8-progression/ceintures/07_Bleu.md
-        Ceintures/08_Bleu_I.md: 8-progression/ceintures/08_Bleu_I.md
-        Ceintures/09_Rouge.md: 8-progression/ceintures/09_Rouge.md
-        Ceintures/10_Rouge_I.md: 8-progression/ceintures/10_Rouge_I.md
-        Ceintures/11_Noire_I.md: 8-progression/ceintures/11_Noire_I.md
-        Ceintures/12_Noire_II.md: 8-progression/ceintures/12_Noire_II.md
-        Ceintures/13_Noire_III.md: 8-progression/ceintures/13_Noire_III.md
-        Ceintures/14_Noire_IV.md: 8-progression/ceintures/14_Noire_IV.md
-        Ceintures/15_Noire_V.md: 8-progression/ceintures/15_Noire_V.md
-        Ceintures/16_Noire_VI.md: 8-progression/ceintures/16_Noire_VI.md
+        Ceintures/00_Intro.md: 9-progression/ceintures/00_Intro.md
+        Ceintures/01_Blanche.md: 9-progression/ceintures/01_Blanche.md
+        Ceintures/02_Blanche_I.md: 9-progression/ceintures/02_Blanche_I.md
+        Ceintures/03_Jaune.md: 9-progression/ceintures/03_Jaune.md
+        Ceintures/04_Jaune_I.md: 9-progression/ceintures/04_Jaune_I.md
+        Ceintures/05_Verte.md: 9-progression/ceintures/05_Verte.md
+        Ceintures/06_Verte_I.md: 9-progression/ceintures/06_Verte_I.md
+        Ceintures/07_Bleu.md: 9-progression/ceintures/07_Bleu.md
+        Ceintures/08_Bleu_I.md: 9-progression/ceintures/08_Bleu_I.md
+        Ceintures/09_Rouge.md: 9-progression/ceintures/09_Rouge.md
+        Ceintures/10_Rouge_I.md: 9-progression/ceintures/10_Rouge_I.md
+        Ceintures/11_Noire_I.md: 9-progression/ceintures/11_Noire_I.md
+        Ceintures/12_Noire_II.md: 9-progression/ceintures/12_Noire_II.md
+        Ceintures/13_Noire_III.md: 9-progression/ceintures/13_Noire_III.md
+        Ceintures/14_Noire_IV.md: 9-progression/ceintures/14_Noire_IV.md
+        Ceintures/15_Noire_V.md: 9-progression/ceintures/15_Noire_V.md
+        Ceintures/16_Noire_VI.md: 9-progression/ceintures/16_Noire_VI.md
         Ceintures/Combats-arranges/01_10e-9e-Gup.md: 7-combat/combats-arranges/01_10e-9e-Gup.md
         Ceintures/Combats-arranges/02_8e-Gup.md: 7-combat/combats-arranges/02_8e-Gup.md
         Ceintures/Combats-arranges/03_7e-Gup.md: 7-combat/combats-arranges/03_7e-Gup.md
@@ -140,11 +140,11 @@ plugins:
         Ceintures/Combats-arranges/09_1er-Gup.md: 7-combat/combats-arranges/09_1er-Gup.md
         Ceintures/Combats-arranges/10_Ceintures-noires.md: 7-combat/combats-arranges/10_Ceintures-noires.md
         Ceintures/Combats-arranges/README.md: 7-combat/combats-arranges/README.md
-        Ceintures/README.md: 8-progression/ceintures/README.md
+        Ceintures/README.md: 9-progression/ceintures/README.md
         Combat/README.md: 7-combat/README.md
         Combat/arbitrage.md: 7-combat/arbitrage.md
         Combat/combat-libre.md: 7-combat/combat-libre.md
-        Combat/hosinsul.md: 7-combat/hosinsul/autodefense.md
+        Combat/hosinsul.md: 8-autodefense/autodefense.md
         Combat/kyokpa.md: 7-combat/kyokpa.md
         Combat/points-vitaux.md: 7-combat/points-vitaux.md
         Combat/prise-de-mesure.md: 7-combat/prise-de-mesure.md
@@ -487,25 +487,25 @@ plugins:
         Techniques/Yop-Bituro-Chagi.md: 5-repertoire-technique/combinees/Yop-Bituro-Chagi.md
         Techniques/Yopcha-Momchugi.md: 5-repertoire-technique/combinees/Yopcha-Momchugi.md
         Theorie/Analyse_Statistique.md: annexes/c-analyse-statistique.md
-        Theorie/examens/README.md: 8-progression/examens/README.md
-        Theorie/examens/ceintures-de-couleur/01-10e-gup.md: 8-progression/examens/ceintures-de-couleur/01-10e-gup.md
-        Theorie/examens/ceintures-de-couleur/02-9e-gup.md: 8-progression/examens/ceintures-de-couleur/02-9e-gup.md
-        Theorie/examens/ceintures-de-couleur/03-8e-gup.md: 8-progression/examens/ceintures-de-couleur/03-8e-gup.md
-        Theorie/examens/ceintures-de-couleur/04-7e-gup.md: 8-progression/examens/ceintures-de-couleur/04-7e-gup.md
-        Theorie/examens/ceintures-de-couleur/05-6e-gup.md: 8-progression/examens/ceintures-de-couleur/05-6e-gup.md
-        Theorie/examens/ceintures-de-couleur/06-5e-gup.md: 8-progression/examens/ceintures-de-couleur/06-5e-gup.md
-        Theorie/examens/ceintures-de-couleur/07-4e-gup.md: 8-progression/examens/ceintures-de-couleur/07-4e-gup.md
-        Theorie/examens/ceintures-de-couleur/08-3e-gup.md: 8-progression/examens/ceintures-de-couleur/08-3e-gup.md
-        Theorie/examens/ceintures-de-couleur/09-2e-gup.md: 8-progression/examens/ceintures-de-couleur/09-2e-gup.md
-        Theorie/examens/ceintures-de-couleur/10-1er-gup.md: 8-progression/examens/ceintures-de-couleur/10-1er-gup.md
-        Theorie/examens/ceintures-de-couleur/README.md: 8-progression/examens/ceintures-de-couleur/README.md
-        Theorie/examens/ceintures-noires/01-1er-dan.md: 8-progression/examens/ceintures-noires/01-1er-dan.md
-        Theorie/examens/ceintures-noires/02-2e-dan.md: 8-progression/examens/ceintures-noires/02-2e-dan.md
-        Theorie/examens/ceintures-noires/03-3e-dan.md: 8-progression/examens/ceintures-noires/03-3e-dan.md
-        Theorie/examens/ceintures-noires/04-4e-dan.md: 8-progression/examens/ceintures-noires/04-4e-dan.md
-        Theorie/examens/ceintures-noires/05-5e-dan.md: 8-progression/examens/ceintures-noires/05-5e-dan.md
-        Theorie/examens/ceintures-noires/README.md: 8-progression/examens/ceintures-noires/README.md
-        Theorie/examens/table-de-correspondance-des-tuls.md: 8-progression/examens/table-de-correspondance-des-tuls.md
+        Theorie/examens/README.md: 9-progression/examens/README.md
+        Theorie/examens/ceintures-de-couleur/01-10e-gup.md: 9-progression/examens/ceintures-de-couleur/01-10e-gup.md
+        Theorie/examens/ceintures-de-couleur/02-9e-gup.md: 9-progression/examens/ceintures-de-couleur/02-9e-gup.md
+        Theorie/examens/ceintures-de-couleur/03-8e-gup.md: 9-progression/examens/ceintures-de-couleur/03-8e-gup.md
+        Theorie/examens/ceintures-de-couleur/04-7e-gup.md: 9-progression/examens/ceintures-de-couleur/04-7e-gup.md
+        Theorie/examens/ceintures-de-couleur/05-6e-gup.md: 9-progression/examens/ceintures-de-couleur/05-6e-gup.md
+        Theorie/examens/ceintures-de-couleur/06-5e-gup.md: 9-progression/examens/ceintures-de-couleur/06-5e-gup.md
+        Theorie/examens/ceintures-de-couleur/07-4e-gup.md: 9-progression/examens/ceintures-de-couleur/07-4e-gup.md
+        Theorie/examens/ceintures-de-couleur/08-3e-gup.md: 9-progression/examens/ceintures-de-couleur/08-3e-gup.md
+        Theorie/examens/ceintures-de-couleur/09-2e-gup.md: 9-progression/examens/ceintures-de-couleur/09-2e-gup.md
+        Theorie/examens/ceintures-de-couleur/10-1er-gup.md: 9-progression/examens/ceintures-de-couleur/10-1er-gup.md
+        Theorie/examens/ceintures-de-couleur/README.md: 9-progression/examens/ceintures-de-couleur/README.md
+        Theorie/examens/ceintures-noires/01-1er-dan.md: 9-progression/examens/ceintures-noires/01-1er-dan.md
+        Theorie/examens/ceintures-noires/02-2e-dan.md: 9-progression/examens/ceintures-noires/02-2e-dan.md
+        Theorie/examens/ceintures-noires/03-3e-dan.md: 9-progression/examens/ceintures-noires/03-3e-dan.md
+        Theorie/examens/ceintures-noires/04-4e-dan.md: 9-progression/examens/ceintures-noires/04-4e-dan.md
+        Theorie/examens/ceintures-noires/05-5e-dan.md: 9-progression/examens/ceintures-noires/05-5e-dan.md
+        Theorie/examens/ceintures-noires/README.md: 9-progression/examens/ceintures-noires/README.md
+        Theorie/examens/table-de-correspondance-des-tuls.md: 9-progression/examens/table-de-correspondance-des-tuls.md
         Theorie/glossaire/01-l-art-et-ses-valeurs.md: annexes/b-glossaire/01-l-art-et-ses-valeurs.md
         Theorie/glossaire/02-au-dojang-commandements-et-etiquette.md: annexes/b-glossaire/02-au-dojang-commandements-et-etiquette.md
         Theorie/glossaire/03-compter-en-coreen.md: annexes/b-glossaire/03-compter-en-coreen.md
@@ -561,17 +561,17 @@ plugins:
         Theorie/manuel/partie-6-formes-tul/23-les-vingt-quatre-formes-en-un-tableau.md: 6-formes/23-les-vingt-quatre-formes-en-un-tableau.md
         Theorie/manuel/partie-6-formes-tul/24-les-formes-une-a-une.md: 6-formes/24-les-formes-une-a-une.md
         Theorie/manuel/partie-6-formes-tul/README.md: 6-formes/README.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/27-ceinture-blanche-degagements-sur-saisies.md: 7-combat/hosinsul/27-ceinture-blanche-degagements-sur-saisies.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/28-ceinture-blanche-i-defenses-sur-poussees.md: 7-combat/hosinsul/28-ceinture-blanche-i-defenses-sur-poussees.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/29-ceinture-jaune-attaques-de-face.md: 7-combat/hosinsul/29-ceinture-jaune-attaques-de-face.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere.md: 7-combat/hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/31-ceinture-verte-attaques-de-cote.md: 7-combat/hosinsul/31-ceinture-verte-attaques-de-cote.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/32-ceinture-verte-i-attaques-au-sol.md: 7-combat/hosinsul/32-ceinture-verte-i-attaques-au-sol.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/33-ceinture-bleue-attaques-combinees.md: 7-combat/hosinsul/33-ceinture-bleue-attaques-combinees.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/README.md: 7-combat/hosinsul/README.md
-        Theorie/programme-session/01-plan-de-cours.md: 8-progression/programme-session/01-plan-de-cours.md
-        Theorie/programme-session/02-exigences-des-examens.md: 8-progression/programme-session/02-exigences-des-examens.md
-        Theorie/programme-session/README.md: 8-progression/programme-session/README.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/27-ceinture-blanche-degagements-sur-saisies.md: 8-autodefense/27-ceinture-blanche-degagements-sur-saisies.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/28-ceinture-blanche-i-defenses-sur-poussees.md: 8-autodefense/28-ceinture-blanche-i-defenses-sur-poussees.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/29-ceinture-jaune-attaques-de-face.md: 8-autodefense/29-ceinture-jaune-attaques-de-face.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere.md: 8-autodefense/30-ceinture-jaune-i-attaques-par-l-arriere.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/31-ceinture-verte-attaques-de-cote.md: 8-autodefense/31-ceinture-verte-attaques-de-cote.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/32-ceinture-verte-i-attaques-au-sol.md: 8-autodefense/32-ceinture-verte-i-attaques-au-sol.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/33-ceinture-bleue-attaques-combinees.md: 8-autodefense/33-ceinture-bleue-attaques-combinees.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/README.md: 8-autodefense/README.md
+        Theorie/programme-session/01-plan-de-cours.md: 9-progression/programme-session/01-plan-de-cours.md
+        Theorie/programme-session/02-exigences-des-examens.md: 9-progression/programme-session/02-exigences-des-examens.md
+        Theorie/programme-session/README.md: 9-progression/programme-session/README.md
         Theorie/revisions/partie-1.md: 1-art-et-voie/revision.md
         Theorie/revisions/partie-2.md: 2-principes-physiques/revision.md
         Theorie/revisions/partie-3.md: 3-grammaire-des-techniques/revision.md
@@ -579,7 +579,7 @@ plugins:
         Theorie/revisions/partie-5.md: 5-repertoire-technique/revision.md
         Theorie/revisions/partie-6.md: 6-formes/revision.md
         Theorie/revisions/partie-7.md: 7-combat/revision.md
-        Theorie/revisions/partie-8.md: 8-progression/revision.md
+        Theorie/revisions/partie-8.md: 9-progression/revision.md
         chagi/Dans-les-formes.md: 5-repertoire-technique/chagi/Dans-les-formes.md
         chagi/README.md: 5-repertoire-technique/chagi/README.md
         chagi/anuro-chagi.md: 5-repertoire-technique/chagi/anuro-chagi.md

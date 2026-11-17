@@ -5,7 +5,7 @@
 (function () {
   function installer() {
     var p = location.pathname;
-    if (!/\/(8-progression\/(ceintures|examens)|7-combat\/combats-arranges)\//.test(p)) return;
+    if (!/\/(9-progression\/(ceintures|examens)|7-combat\/combats-arranges)\//.test(p)) return;
     var titre = document.querySelector(".md-content__inner h1");
     if (!titre || document.querySelector(".bouton-imprimer")) return;
     var b = document.createElement("button");

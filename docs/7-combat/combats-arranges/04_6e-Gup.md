@@ -1,6 +1,6 @@
 # Combats arrangés — 6e Gup (ceinture verte)
 
-Fiche du grade : [Verte](../../8-progression/ceintures/05_Verte.md) · Forme du niveau : [*Won-Hyo*](../../6-formes/fiches/won-hyo.md)
+Fiche du grade : [Verte](../../9-progression/ceintures/05_Verte.md) · Forme du niveau : [*Won-Hyo*](../../6-formes/fiches/won-hyo.md)
 
 Premier combat à 1 pas : une seule contre-attaque décisive, sur un point vital, avec l'arme corporelle appropriée.
 

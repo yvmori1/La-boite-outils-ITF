@@ -1,10 +1,10 @@
-# Révision — Partie VII : Combat, autodéfense et casse
+# Révision — Partie VII : Combat et casse
 
-4 questions tirées des [examens théoriques](../8-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
+4 questions tirées des [examens théoriques](../9-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 
 ### Q1. Citez deux techniques de cassage (Kyokpa) requises à cet examen et les parties du corps utilisées comme outil d'impact.
 
-*Examen du 5e Gup, question 4 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
+*Examen du 5e Gup, question 4 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/06-5e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -17,7 +17,7 @@
 
 ### Q2. Qu'est-ce que le combat semi-libre (Ban Jayu Matsogi) et quel est son but pédagogique principal ?
 
-*Examen du 4e Gup, question 4 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
+*Examen du 4e Gup, question 4 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -28,7 +28,7 @@
 
 ### Q3. Quel est le système de pointage officiel et quelles sont les cibles corporelles permises en combat sportif officiel selon l'ITF ?
 
-*Examen du 3e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
+*Examen du 3e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/08-3e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -44,7 +44,7 @@
 
 ### Q4. Définissez l'un des concepts fondamentaux de la méthodologie de l'ITF : le "Cycle d'Entraînement" (Training Cycle) selon les sources.
 
-*Examen du 2e Gup, question 2 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/09-2e-gup.md)).*
+*Examen du 2e Gup, question 2 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/09-2e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>

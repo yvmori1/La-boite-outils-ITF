@@ -1,10 +1,10 @@
 # Révision — Partie III : La grammaire des techniques
 
-3 questions tirées des [examens théoriques](../8-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
+3 questions tirées des [examens théoriques](../9-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 
 ### Q1. Traduisez les termes de base suivants en coréen :
 
-*Examen du 10e Gup, question 4 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
+*Examen du 10e Gup, question 4 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/01-10e-gup.md)).*
 
 * a) Attention !
 * b) Salle d'entraînement (Dojang)
@@ -24,7 +24,7 @@
 
 ### Q2. Traduisez ces techniques de base en coréen ou en français :
 
-*Examen du 9e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
+*Examen du 9e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/02-9e-gup.md)).*
 
 * a) Position en L
 * b) Coup de pied circulaire (Dollyo chagi)
@@ -44,7 +44,7 @@
 
 ### Q3. Associez ces termes techniques de l'examen à leur traduction :
 
-*Examen du 8e Gup, question 5 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
+*Examen du 8e Gup, question 5 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/03-8e-gup.md)).*
 
 * 1. Position pieds joints
 * 2. Coup de pied crocheté inversé

@@ -1,6 +1,6 @@
 # Combats arrangés — 4e Gup (ceinture bleue)
 
-Fiche du grade : [Bleu](../../8-progression/ceintures/07_Bleu.md) · Forme du niveau : [*Joong-Gun*](../../6-formes/fiches/joong-gun.md)
+Fiche du grade : [Bleu](../../9-progression/ceintures/07_Bleu.md) · Forme du niveau : [*Joong-Gun*](../../6-formes/fiches/joong-gun.md)
 
 Par convention, la première attaque se fait du côté droit ; chaque combat se travaille ensuite autant à droite qu'à gauche.
 

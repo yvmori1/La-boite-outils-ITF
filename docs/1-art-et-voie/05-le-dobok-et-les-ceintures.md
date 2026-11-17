@@ -78,4 +78,4 @@ ans pour le 4e, et ainsi de suite.
 | Noire VIII (8e Dan) | Noire IX (9e Dan) | 96 mois (8 ans) | — |
 
 > Le programme technique de chaque grade — formes, théorie, exigences physiques —
-> est détaillé dans [../8-progression/ceintures/README.md](../8-progression/ceintures/README.md), une fiche par grade.
+> est détaillé dans [../9-progression/ceintures/README.md](../9-progression/ceintures/README.md), une fiche par grade.

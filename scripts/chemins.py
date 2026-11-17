@@ -12,9 +12,10 @@ en pratique, puis les annexes et les pages « À propos ».
       5-repertoire-technique/     chapitres 17-19, jirugi/, makgi/, chagi/,
                                   combinees/ (techniques combinées)
       6-formes/                   chapitres 20-26, fiches/ (formes)
-      7-combat/                   pages du combat, combats-arranges/,
-                                  hosinsul/ (Manuel, partie VII, et autodefense.md)
-      8-progression/              ceintures/, programme-session/, examens/
+      7-combat/                   pages du combat, combats-arranges/
+      8-autodefense/              autodefense.md, puis le programme par grade
+                                  (chapitres 27-33)
+      9-progression/              ceintures/, programme-session/, examens/
       annexes/                    a-lexique/, b-glossaire/,
                                   c-analyse-statistique.md, d-bibliographie.md
       a-propos/                   application.md, confidentialite.md
@@ -43,7 +44,7 @@ FICHES = {
     "tul": "6-formes/fiches",
 }
 
-# Parties du Manuel : numéro -> dossier sous docs/ (la révision de fin de
+# Parties du menu : numéro -> dossier sous docs/ (la révision de fin de
 # partie y est revision.md).
 PARTIES = {
     1: "1-art-et-voie",
@@ -53,19 +54,20 @@ PARTIES = {
     5: "5-repertoire-technique",
     6: "6-formes",
     7: "7-combat",
-    8: "8-progression",
+    8: "8-autodefense",
+    9: "9-progression",
 }
 
 SOMMAIRE = DOCS / "sommaire.md"
-HOSINSUL = DOCS / "7-combat" / "hosinsul"
+HOSINSUL = DOCS / "8-autodefense"
 # page du combat rangée avec le programme par grade, mais hors du Manuel
 AUTODEFENSE = HOSINSUL / "autodefense.md"
 LEXIQUE = DOCS / "annexes" / "a-lexique"
 COMBAT = DOCS / "7-combat"
 COMBATS_ARRANGES = DOCS / "7-combat" / "combats-arranges"
-CEINTURES = DOCS / "8-progression" / "ceintures"
-PROGRAMME = DOCS / "8-progression" / "programme-session"
-EXAMENS = DOCS / "8-progression" / "examens"
+CEINTURES = DOCS / "9-progression" / "ceintures"
+PROGRAMME = DOCS / "9-progression" / "programme-session"
+EXAMENS = DOCS / "9-progression" / "examens"
 GLOSSAIRE = DOCS / "annexes" / "b-glossaire"
 ACCUEIL = DOCS / "README.md"
 

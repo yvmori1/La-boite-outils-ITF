@@ -4,10 +4,10 @@
 
 | Degré | Fiche du grade | Exigence en combat arrangé |
 | :--- | :--- | :--- |
-| 1er Dan | [Noire I](../../8-progression/ceintures/11_Noire_I.md) | 2 combats à 3 pas, 2 combats à 2 pas, 6 combats à 1 pas |
-| 2e Dan | [Noire II](../../8-progression/ceintures/12_Noire_II.md) | 10 combats à 1 pas |
-| 3e Dan | [Noire III](../../8-progression/ceintures/13_Noire_III.md) | Combat arrangé semi-libre de 50 secondes |
-| 4e Dan | [Noire IV](../../8-progression/ceintures/14_Noire_IV.md) | Combat semi-libre de 50 secondes |
+| 1er Dan | [Noire I](../../9-progression/ceintures/11_Noire_I.md) | 2 combats à 3 pas, 2 combats à 2 pas, 6 combats à 1 pas |
+| 2e Dan | [Noire II](../../9-progression/ceintures/12_Noire_II.md) | 10 combats à 1 pas |
+| 3e Dan | [Noire III](../../9-progression/ceintures/13_Noire_III.md) | Combat arrangé semi-libre de 50 secondes |
+| 4e Dan | [Noire IV](../../9-progression/ceintures/14_Noire_IV.md) | Combat semi-libre de 50 secondes |
 
 Le programme de session ne prévoit pas de combat arrangé pour les 5e et 6e Dan.
 

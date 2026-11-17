@@ -1,10 +1,10 @@
 # Révision — Partie II : Les principes physiques
 
-2 questions tirées des [examens théoriques](../8-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
+2 questions tirées des [examens théoriques](../9-progression/examens/README.md), avec leur corrigé. Répondez de tête, ouvrez le corrigé, puis notez-vous : le mode révision garde le score dans ce navigateur.
 
 ### Q1. Définissez brièvement l'un des principes essentiels de la génération de force : la "Théorie de la Puissance" (Power Theory) selon les sources.
 
-*Examen du 7e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
+*Examen du 7e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/04-7e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>
@@ -15,7 +15,7 @@
 
 ### Q2. Expliquez en détail les composantes suivantes de la "Théorie de la Puissance" : la force de réaction (Reaction Force) et le contrôle respiratoire (Breath Control).
 
-*Examen du 4e Gup, question 3 ([voir l'examen](../8-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
+*Examen du 4e Gup, question 3 ([voir l'examen](../9-progression/examens/ceintures-de-couleur/07-4e-gup.md)).*
 
 <details markdown="1">
 <summary><b>Afficher le corrigé</b></summary>

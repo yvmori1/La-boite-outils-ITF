@@ -7,7 +7,7 @@
 **À lire dans le Manuel pour ce grade, dans l'ordre :**
 
 * [ ] [Les points vitaux (Kupso — 급소)](../../7-combat/points-vitaux.md)
-* [ ] [L'autodéfense (Hosinsul — 호신술)](../../7-combat/hosinsul/autodefense.md)
+* [ ] [L'autodéfense (Hosinsul — 호신술)](../../8-autodefense/autodefense.md)
 * [ ] [Exigences par grade : combat, autodéfense et casse](../../7-combat/progression.md)
 
 <!-- /parcours -->

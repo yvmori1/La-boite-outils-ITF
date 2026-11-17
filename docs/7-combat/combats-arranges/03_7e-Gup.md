@@ -1,6 +1,6 @@
 # Combats arrangés — 7e Gup (ceinture jaune barre verte)
 
-Fiche du grade : [Jaune I](../../8-progression/ceintures/04_Jaune_I.md) · Forme du niveau : [*Do-San*](../../6-formes/fiches/do-san.md)
+Fiche du grade : [Jaune I](../../9-progression/ceintures/04_Jaune_I.md) · Forme du niveau : [*Do-San*](../../6-formes/fiches/do-san.md)
 
 Premier combat à 2 pas : l'attaquant enchaîne une technique de bras et une technique de jambe.
 

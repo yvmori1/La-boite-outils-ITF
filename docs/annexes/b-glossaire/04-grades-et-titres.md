@@ -1,6 +1,6 @@
 # Grades et titres
 
-Voir aussi les [fiches de passage de grade](../../8-progression/ceintures/README.md).
+Voir aussi les [fiches de passage de grade](../../9-progression/ceintures/README.md).
 
 | Terme | Hangul | Traduction | Définition |
 | :--- | :--- | :--- | :--- |

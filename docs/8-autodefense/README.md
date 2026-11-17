@@ -1,5 +1,7 @@
 # Hosinsul : le programme par grade
 
+*Partie VIII du [Manuel](../sommaire.md), L'autodéfense : les principes sont dans [L'autodéfense (Hosinsul)](autodefense.md) ; cette page ouvre le programme par grade.*
+
 Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coordination, vitesse et concentration face à une agression spontanée.
 
 ## Dans cette partie
