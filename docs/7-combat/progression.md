@@ -150,5 +150,5 @@ Le coup de pied de côté sauté n'est pas exigé à partir de 40 ans.
 ## Voir aussi
 
 * [La casse](kyokpa.md) — principes, matériel et sécurité, notamment pour les enfants.
-* [L'autodéfense](hosinsul.md) — le contenu de chaque thème.
+* [L'autodéfense](hosinsul/autodefense.md) — le contenu de chaque thème.
 * [Les systèmes de combat](systemes-de-combat.md) — les combats à 3, 2 et 1 pas.

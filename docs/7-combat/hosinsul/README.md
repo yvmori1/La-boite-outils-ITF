@@ -14,4 +14,4 @@ Programme de la FQTI, grade par grade. C'est la validation finale du cycle : coo
 
 ---
 
-**Voir aussi :** [L'autodéfense (Hosinsul)](../hosinsul.md), dans la section Combat et autodéfense : principes, progression par grade et points vitaux visés.
+**Voir aussi :** [L'autodéfense (Hosinsul)](autodefense.md), dans la section Combat et autodéfense : principes, progression par grade et points vitaux visés.

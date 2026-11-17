@@ -25,7 +25,7 @@ Le général Choi compare la progression de l'adepte à l'instruction militaire 
 | *Dallyon* (conditionnement) | Entretien de l'équipement | [La casse](kyokpa.md#le-conditionnement-dallyon) |
 | Formes (*Tul*) | Tactique de section | [tul](../6-formes/fiches/README.md) |
 | Combat (*Matsogi*) | Exercices sur le terrain en conditions simulées | [Les systèmes de combat](systemes-de-combat.md), [La prise de mesure](prise-de-mesure.md), [Le combat libre](combat-libre.md), [Règlement et arbitrage](arbitrage.md) |
-| Autodéfense (*Hosinsul*) | Combat réel | [L'autodéfense](hosinsul.md) |
+| Autodéfense (*Hosinsul*) | Combat réel | [L'autodéfense](hosinsul/autodefense.md) |
 
 La forme est un combat contre des adversaires imaginaires ; le combat est
 l'application de ces techniques contre un adversaire qui bouge vraiment ;
@@ -43,7 +43,7 @@ cesse aux mouvements de base, même au plus haut niveau.
 | [La prise de mesure](prise-de-mesure.md) | *Gori Jajil* : alignement, mesure à 3, 2 et 1 pas, repères de pieds au sol, signal de préparation, critères d'évaluation |
 | [Le combat libre](combat-libre.md) | *Jayu Matsogi* : définition, règle du contrôle, les onze conseils du général Choi, compétition |
 | [Règlement et arbitrage](arbitrage.md) | Règlement de compétition ITF 2026 : terminologie, aire et protections, déroulement du combat, cible et points, avertissements, fautes et disqualifications, gestuelle de l'arbitre |
-| [L'autodéfense](hosinsul.md) | *Hosinsul* : principes, dégagements de saisies, attaques soudaines, chutes et projections, défense contre une arme, programme de la FQTI |
+| [L'autodéfense](hosinsul/autodefense.md) | *Hosinsul* : principes, dégagements de saisies, attaques soudaines, chutes et projections, défense contre une arme, programme de la FQTI |
 | [Les points vitaux](points-vitaux.md) | *Kupso* : les trois niveaux du corps et les 49 points vitaux de l'*Encyclopédie* |
 | [La casse](kyokpa.md) | *Kyokpa* : raison d'être, honnêteté, théorie de la puissance, matériel, techniques spéciales, sécurité |
 | [Exigences par grade](progression.md) | Combat, autodéfense et casse exigés à chaque examen, du 10e Gup au 6e Dan |
@@ -52,6 +52,6 @@ cesse aux mouvements de base, même au plus haut niveau.
 
 ## Voir aussi
 
-* [Partie VII du manuel](hosinsul-par-grade/README.md) — le programme d'autodéfense de la FQTI, technique par technique.
+* [Partie VII du manuel](hosinsul/README.md) — le programme d'autodéfense de la FQTI, technique par technique.
 * [Partie II du manuel](../2-principes-physiques/README.md) — la théorie de la puissance, qui explique la casse.
 * [../8-progression/programme-session/README.md](../8-progression/programme-session/README.md) — exercices de combat sportif semaine par semaine.

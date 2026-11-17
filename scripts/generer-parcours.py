@@ -78,7 +78,7 @@ PARCOURS = {
     "07_Bleu.md": [ch(8), "7-combat/systemes-de-combat.md", "7-combat/prise-de-mesure.md"],
     "08_Bleu_I.md": [ch(16), "7-combat/combat-libre.md", "7-combat/arbitrage.md"],
     "09_Rouge.md": ["7-combat/README.md", ch(23), ch(25), ch(26)],
-    "10_Rouge_I.md": ["7-combat/points-vitaux.md", "7-combat/hosinsul.md",
+    "10_Rouge_I.md": ["7-combat/points-vitaux.md", "7-combat/hosinsul/autodefense.md",
                       "7-combat/progression.md"],
     "11_Noire_I.md": [ch(20), ch(24)],
     "12_Noire_II.md": [ch(24), "annexes/b-glossaire/README.md"],

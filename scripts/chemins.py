@@ -13,7 +13,7 @@ en pratique, puis les annexes et les pages « À propos ».
                                   combinees/ (techniques combinées)
       6-formes/                   chapitres 20-26, fiches/ (formes)
       7-combat/                   pages du combat, combats-arranges/,
-                                  hosinsul-par-grade/ (Manuel, partie VII)
+                                  hosinsul/ (Manuel, partie VII, et autodefense.md)
       8-progression/              ceintures/, programme-session/, examens/
       annexes/                    a-lexique/, b-glossaire/,
                                   c-analyse-statistique.md, d-bibliographie.md
@@ -57,7 +57,9 @@ PARTIES = {
 }
 
 SOMMAIRE = DOCS / "sommaire.md"
-HOSINSUL = DOCS / "7-combat" / "hosinsul-par-grade"
+HOSINSUL = DOCS / "7-combat" / "hosinsul"
+# page du combat rangée avec le programme par grade, mais hors du Manuel
+AUTODEFENSE = HOSINSUL / "autodefense.md"
 LEXIQUE = DOCS / "annexes" / "a-lexique"
 COMBAT = DOCS / "7-combat"
 COMBATS_ARRANGES = DOCS / "7-combat" / "combats-arranges"
@@ -92,14 +94,16 @@ def pages_manuel():
     pages = [SOMMAIRE]
     for n in range(1, 7):
         pages += (DOCS / PARTIES[n]).glob("*.md")
-    pages += HOSINSUL.glob("*.md")
+    pages += (p for p in HOSINSUL.glob("*.md") if p != AUTODEFENSE)
     pages += LEXIQUE.glob("*.md")
     return sorted(p for p in pages if p.name != "revision.md")
 
 
 def pages_combat():
-    """Pages propres au combat (7-combat/*.md), sans la révision."""
-    return sorted(p for p in COMBAT.glob("*.md") if p.name != "revision.md")
+    """Pages propres au combat (7-combat/*.md et l'autodéfense), sans la
+    révision."""
+    return sorted([p for p in COMBAT.glob("*.md") if p.name != "revision.md"]
+                  + [AUTODEFENSE])
 
 
 def site(chemin):

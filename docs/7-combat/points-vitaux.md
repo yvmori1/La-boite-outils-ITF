@@ -156,5 +156,5 @@ Les armes naturelles et leurs cibles sont décrites dans la
 
 ## Voir aussi
 
-* [L'autodéfense](hosinsul.md) — le dégagement par attaque d'un point vital.
+* [L'autodéfense](hosinsul/autodefense.md) — le dégagement par attaque d'un point vital.
 * [Le combat libre](combat-libre.md) — la règle des deux centimètres.

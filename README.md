@@ -25,7 +25,7 @@ pratique.
 | [docs/4-positions/](docs/4-positions/) | IV. Les positions (Sogi) ; fiches des positions dans `fiches/` |
 | [docs/5-repertoire-technique/](docs/5-repertoire-technique/) | V. Le répertoire technique ; fiches dans `jirugi/`, `makgi/`, `chagi/` et `combinees/` (techniques combinées) |
 | [docs/6-formes/](docs/6-formes/) | VI. Les formes (Tul), chapitres 20 à 26 ; fiches des formes dans `fiches/` |
-| [docs/7-combat/](docs/7-combat/) | VII. Combat, autodéfense et casse ; `combats-arranges/`, `hosinsul-par-grade/` |
+| [docs/7-combat/](docs/7-combat/) | VII. Combat, autodéfense et casse ; `combats-arranges/`, `hosinsul/` (programme par grade et autodéfense) |
 | [docs/8-progression/](docs/8-progression/) | VIII. La progression : `ceintures/` (Requis Examen), `programme-session/`, `examens/` |
 | [docs/annexes/](docs/annexes/) | Annexes : A lexique, B glossaire, C analyse statistique, D bibliographie |
 | [docs/a-propos/](docs/a-propos/) | À propos : application, confidentialité |

@@ -144,7 +144,7 @@ plugins:
         Combat/README.md: 7-combat/README.md
         Combat/arbitrage.md: 7-combat/arbitrage.md
         Combat/combat-libre.md: 7-combat/combat-libre.md
-        Combat/hosinsul.md: 7-combat/hosinsul.md
+        Combat/hosinsul.md: 7-combat/hosinsul/autodefense.md
         Combat/kyokpa.md: 7-combat/kyokpa.md
         Combat/points-vitaux.md: 7-combat/points-vitaux.md
         Combat/prise-de-mesure.md: 7-combat/prise-de-mesure.md
@@ -561,14 +561,14 @@ plugins:
         Theorie/manuel/partie-6-formes-tul/23-les-vingt-quatre-formes-en-un-tableau.md: 6-formes/23-les-vingt-quatre-formes-en-un-tableau.md
         Theorie/manuel/partie-6-formes-tul/24-les-formes-une-a-une.md: 6-formes/24-les-formes-une-a-une.md
         Theorie/manuel/partie-6-formes-tul/README.md: 6-formes/README.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/27-ceinture-blanche-degagements-sur-saisies.md: 7-combat/hosinsul-par-grade/27-ceinture-blanche-degagements-sur-saisies.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/28-ceinture-blanche-i-defenses-sur-poussees.md: 7-combat/hosinsul-par-grade/28-ceinture-blanche-i-defenses-sur-poussees.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/29-ceinture-jaune-attaques-de-face.md: 7-combat/hosinsul-par-grade/29-ceinture-jaune-attaques-de-face.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere.md: 7-combat/hosinsul-par-grade/30-ceinture-jaune-i-attaques-par-l-arriere.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/31-ceinture-verte-attaques-de-cote.md: 7-combat/hosinsul-par-grade/31-ceinture-verte-attaques-de-cote.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/32-ceinture-verte-i-attaques-au-sol.md: 7-combat/hosinsul-par-grade/32-ceinture-verte-i-attaques-au-sol.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/33-ceinture-bleue-attaques-combinees.md: 7-combat/hosinsul-par-grade/33-ceinture-bleue-attaques-combinees.md
-        Theorie/manuel/partie-7-autodefense-hosinsul/README.md: 7-combat/hosinsul-par-grade/README.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/27-ceinture-blanche-degagements-sur-saisies.md: 7-combat/hosinsul/27-ceinture-blanche-degagements-sur-saisies.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/28-ceinture-blanche-i-defenses-sur-poussees.md: 7-combat/hosinsul/28-ceinture-blanche-i-defenses-sur-poussees.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/29-ceinture-jaune-attaques-de-face.md: 7-combat/hosinsul/29-ceinture-jaune-attaques-de-face.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere.md: 7-combat/hosinsul/30-ceinture-jaune-i-attaques-par-l-arriere.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/31-ceinture-verte-attaques-de-cote.md: 7-combat/hosinsul/31-ceinture-verte-attaques-de-cote.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/32-ceinture-verte-i-attaques-au-sol.md: 7-combat/hosinsul/32-ceinture-verte-i-attaques-au-sol.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/33-ceinture-bleue-attaques-combinees.md: 7-combat/hosinsul/33-ceinture-bleue-attaques-combinees.md
+        Theorie/manuel/partie-7-autodefense-hosinsul/README.md: 7-combat/hosinsul/README.md
         Theorie/programme-session/01-plan-de-cours.md: 8-progression/programme-session/01-plan-de-cours.md
         Theorie/programme-session/02-exigences-des-examens.md: 8-progression/programme-session/02-exigences-des-examens.md
         Theorie/programme-session/README.md: 8-progression/programme-session/README.md

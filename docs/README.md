@@ -62,8 +62,9 @@ Les dossiers du site suivent le menu : chaque partie du Manuel est un dossier, q
 | [Coups de pied (*Chagi*)](5-repertoire-technique/chagi/README.md) | Les coups de pied — [차기](audio/termes/chagi.m4a) | 50 |
 | [Techniques combinées](5-repertoire-technique/combinees/README.md) | Techniques complètes : position + blocage ou frappe combinés | 334 |
 | [Formes (*Tul*)](6-formes/fiches/README.md) | Les formes (Tul) et exercices fondamentaux, mouvement par mouvement | 28 |
-| [Combat](7-combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 8 |
+| [Combat](7-combat/README.md) | Combat, autodéfense (*Hosinsul*), points vitaux et casse (*Kyokpa*), prise de mesure, règlement et arbitrage, avec les exigences par grade | 7 |
 | [Combats arrangés](7-combat/combats-arranges/README.md) | Les combats arrangés de chaque grade, du 10e Gup aux ceintures noires | 10 |
+| [Hosinsul](7-combat/hosinsul/README.md) | L'autodéfense : principes, puis le programme grade par grade | 8 |
 | [Requis Examen](8-progression/ceintures/README.md) | Fiches d'étude officielles de passage de grade, du 10e Gup au 6e Dan | 17 |
 | [images](images/README.md) | Diagrammes des formes et schémas cotés des positions | 29 |
 

@@ -8,4 +8,4 @@
 
 ---
 
-**Voir aussi :** [L'autodéfense (Hosinsul)](../hosinsul.md) : principes, progression par grade et points vitaux visés.
+**Voir aussi :** [L'autodéfense (Hosinsul)](autodefense.md) : principes, progression par grade et points vitaux visés.
