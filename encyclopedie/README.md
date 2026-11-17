@@ -1,12 +1,12 @@
 # Encyclopédie du Taekwon-Do : synthèse par chapitre
 
-Document de travail, **non publié sur le site** : ce dossier n'a pas de lien dans `docs/`, il n'entre donc ni dans MkDocs, ni dans l'application, ni dans `hors-ligne.zip`.
+Document de travail, **non publié sur le site** : ce dossier est hors de `docs/`, il n'entre donc ni dans MkDocs, ni dans l'application, ni dans `hors-ligne.zip`.
 
 ## Ce que contient ce dossier
 
 Une synthèse en français, chapitre par chapitre, de *The Condensed Encyclopedia of Taekwon-Do* du général Choi Hong Hi (édition de 1999, 770 pages). Ce n'est **pas une traduction** : l'œuvre est protégée et le livre interdit toute reproduction. Chaque fichier résume avec ses propres mots les principes, les définitions, les mesures et les listes utiles, avec les numéros de page pour retrouver l'original. Les descriptions mouvement par mouvement et les séquences photographiées ne sont pas reprises.
 
-La terminologie suit celle du site (glossaire de `Theorie/glossaire/` et manuel de `Theorie/manuel/`). Chaque fichier se termine par un renvoi aux pages du site qui traitent le même sujet.
+La terminologie suit celle du site (glossaire de `docs/annexes/b-glossaire/` et manuel, dont le sommaire est `docs/sommaire.md`). Chaque fichier se termine par un renvoi aux pages du site qui traitent le même sujet.
 
 ## Pagination
 

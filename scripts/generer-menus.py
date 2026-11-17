@@ -12,7 +12,7 @@ transversales » sont placées en tête, hors groupe ; le groupe « Voir aussi �
 est ignoré. Une fiche que le README ne cite pas paraît à la fin (« ... »).
 
 Le sommaire reste ainsi la seule liste tenue à la main (ou par
-generer-index-techniques.py pour Techniques/) : le menu le suit.
+generer-index-techniques.py pour les techniques combinées) : le menu le suit.
 """
 
 import argparse
@@ -20,7 +20,8 @@ import pathlib
 import re
 import sys
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
+from chemins import fiches
+
 SECTIONS = ("sogi", "chagi", "makgi", "jirugi", "Techniques")
 EN_TETE = "Fiches transversales"
 IGNORES = ("Voir aussi",)
@@ -96,8 +97,8 @@ def main():
     args = p.parse_args()
     differents = []
     for nom in SECTIONS:
-        cible = RACINE / nom / ".pages"
-        texte = produire(RACINE / nom)
+        cible = fiches(nom) / ".pages"
+        texte = produire(fiches(nom))
         actuel = cible.read_text(encoding="utf-8") if cible.exists() else ""
         if texte != actuel:
             differents.append(nom)

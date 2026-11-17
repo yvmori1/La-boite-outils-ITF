@@ -90,4 +90,4 @@ Chaque exercice est décrit avec sa position d'attente, ses variantes (sur place
 
 Apprendre correctement chaque mouvement avec le moins d'effort possible, en le répétant jusqu'à la perfection ; le livre ne peut montrer tous les mouvements possibles ; travailler les mouvements nécessaires avant d'aborder un tul ; garder une position correcte pendant tout l'exercice.
 
-> Le site présente les exercices fondamentaux en quatre directions dans `tul/` (Saju Jirugi, Saju Makgi, Saju Tulgi) et les exigences par grade dans `Ceintures/` et `Theorie/programme-session/`.
+> Le site présente les exercices fondamentaux en quatre directions dans `docs/6-formes/fiches/` (Saju Jirugi, Saju Makgi, Saju Tulgi) et les exigences par grade dans `docs/8-progression/ceintures/` et `docs/8-progression/programme-session/`.

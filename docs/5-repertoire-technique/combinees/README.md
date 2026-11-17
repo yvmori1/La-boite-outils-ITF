@@ -1,0 +1,531 @@
+# Techniques complètes
+
+Fiches de techniques **nommées intégralement**, c'est-à-dire position et mouvement combinés — la forme sous laquelle elles sont annoncées en cours et exigées en examen.
+
+Là où [makgi](../makgi/README.md), [chagi](../chagi/README.md) et [jirugi](../jirugi/README.md) isolent un élément de vocabulaire, ce répertoire décrit le geste complet : mise en place de la position, coordination hanche/bras, force de réaction, temps d'exécution.
+
+L'ordre de lecture d'un nom ITF est : **position → surface → niveau → direction → action**.
+
+> *Gunnun So Bakat Palmok Nopunde Yop Makgi* = en position de marche, avec l'avant-bras externe, au niveau haut, blocage latéral.
+
+Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droite) ; elles sont classées côte à côte ci-dessous.
+
+**334 fiches** au total.
+
+---
+
+## 1. Position de marche (*Gunnun So*)
+
+La posture elle-même est décrite dans [Gunnun-Sogi.md](../../4-positions/fiches/Gunnun-Sogi.md).
+
+### 1.1 Coups de poing (*Jirugi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gunnun-So-Bandae-Dwijibo-Jirugi.md](Gunnun-So-Bandae-Dwijibo-Jirugi.md) | Gunnun So Bandae Dwijibo Jirugi |
+| [Gunnun-So-Bandae-Naeryo-Jirugi.md](Gunnun-So-Bandae-Naeryo-Jirugi.md) | Coup de poing descendant inversé |
+| [Gunnun-So-Ghin-Joomuk-Nopunde-Bandae-Jirugi.md](Gunnun-So-Ghin-Joomuk-Nopunde-Bandae-Jirugi.md) | Coup de poing haut inversé avec le poing allongé |
+| [Gunnun-So-Joomuk-Nopunde-Jirugi.md](Gunnun-So-Joomuk-Nopunde-Jirugi.md) | Coup de poing haut |
+| [Gunnun-So-Kaunde-Bandae-Jirugi.md](Gunnun-So-Kaunde-Bandae-Jirugi.md) | Coup de poing direct inverse au niveau moyen |
+| [Gunnun-So-Kaunde-Bandae-Sewo-Jirugi.md](Gunnun-So-Kaunde-Bandae-Sewo-Jirugi.md) | Coup de poing vertical moyen inversé |
+| [Gunnun-So-Kaunde-Jirugi.md](Gunnun-So-Kaunde-Jirugi.md) | Coup de poing direct au niveau moyen |
+| [Gunnun-So-Naeryo-Jirugi.md](Gunnun-So-Naeryo-Jirugi.md) | Coup de poing descendant |
+| [Gunnun-So-Nopunde-Bandae-Bandal-Jirugi.md](Gunnun-So-Nopunde-Bandae-Bandal-Jirugi.md) | Coup de poing en croissant haut inversé |
+| [Gunnun-So-Nopunde-Bandae-Jirugi.md](Gunnun-So-Nopunde-Bandae-Jirugi.md) | Coup de poing haut inversé |
+| [Gunnun-So-Nopunde-Jirugi.md](Gunnun-So-Nopunde-Jirugi.md) | Coup de poing direct au niveau haut |
+| [Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.md](Gunnun-So-Pyon-Joomuk-Nopunde-Bandae-Jirugi.md) | Coup de poing direct inversé au niveau haut avec les deuxièmes jointures (poing plat) |
+| [Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md](Gunnun-So-Sang-Joomuk-Dwijibo-Jirugi.md) | Double coup de poing retourné (paumes vers le haut) |
+| [Gunnun-So-Sang-Joomuk-Kaunde-Jirugi.md](Gunnun-So-Sang-Joomuk-Kaunde-Jirugi.md) | Coup de poing moyen avec les poings jumelés |
+| [Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md](Gunnun-So-Sang-Joomuk-Nopunde-Sewo-Jirugi.md) | Double coup de poing vertical haut |
+
+### 1.2 Frappes (*Taerigi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gunnun-So-Ap-Palkup-Bandae-Taerigi.md](Gunnun-So-Ap-Palkup-Bandae-Taerigi.md) | Coup de coude frontal inversé |
+| [Gunnun-So-Bandal-Son-Nopunde-Bandae-Bandal-Taerigi.md](Gunnun-So-Bandal-Son-Nopunde-Bandae-Bandal-Taerigi.md) | Frappe semi-circulaire haute inversée avec la main arquée |
+| [Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.md](Gunnun-So-Bandal-Son-Nopunde-Bandae-Taerigi.md) | Coup cinglant haut inversé avec la main en arc de cercle (croissant de lune) |
+| [Gunnun-So-Dung-Joomuk-Ap-Taerigi.md](Gunnun-So-Dung-Joomuk-Ap-Taerigi.md) | Coup cinglant frontal au niveau haut/moyen avec le revers du poing |
+| [Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md](Gunnun-So-Dung-Joomuk-Bandae-Ap-Taerigi.md) | Gunnun So Dung Joomuk Bandae Ap Taerigi |
+| [Gunnun-So-Dung-Joomuk-Bandae-Yopdwi-Taerigi.md](Gunnun-So-Dung-Joomuk-Bandae-Yopdwi-Taerigi.md) | Frappe arrière latérale inversée avec le revers du poing |
+| [Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Bandae-Yobap-Taerigi.md) | Coup cinglant inversé de biais (côté-avant) au niveau haut avec le revers du poing |
+| [Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale du revers du poing au niveau haut |
+| [Gunnun-So-Mit-Joomuk-Ap-Taerigi.md](Gunnun-So-Mit-Joomuk-Ap-Taerigi.md) | Frappe frontale avec le dessous du poing |
+| [Gunnun-So-Nopun-Palkup-Bandae-Taerigi.md](Gunnun-So-Nopun-Palkup-Bandae-Taerigi.md) | Frappe haute du coude inversée |
+| [Gunnun-So-Sang-Sonkal-Nopunde-Anuro-Taerigi.md](Gunnun-So-Sang-Sonkal-Nopunde-Anuro-Taerigi.md) | Frappe intérieure haute avec les deux tranchants de la main |
+| [Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md](Gunnun-So-Sang-Sonkal-Soopyong-Taerigi.md) | Double coup cinglant horizontal au tranchant de la main |
+| [Gunnun-So-Sang-Yop-Joomuk-Soopyong-Taerigi.md](Gunnun-So-Sang-Yop-Joomuk-Soopyong-Taerigi.md) | Frappe horizontale avec les côtés des poings jumelés |
+| [Gunnun-So-Sonkal-Bandae-Ap-Naeryo-Taerigi.md](Gunnun-So-Sonkal-Bandae-Ap-Naeryo-Taerigi.md) | Frappe descendante frontale inversée avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md](Gunnun-So-Sonkal-Dung-Nopunde-Bandae-Ap-Taerigi.md) | Coup percutant frontal haut avec le revers du tranchant de la main inversée |
+| [Gunnun-So-Sonkal-Nopunde-Ap-Taerigi.md](Gunnun-So-Sonkal-Nopunde-Ap-Taerigi.md) | Frappe frontale haute avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Nopunde-Bandae-Anuro-Taerigi.md](Gunnun-So-Sonkal-Nopunde-Bandae-Anuro-Taerigi.md) | Frappe intérieure haute inversée avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Nopunde-Bandae-Ap-Taerigi.md](Gunnun-So-Sonkal-Nopunde-Bandae-Ap-Taerigi.md) | Frappe frontale haute inversée avec le tranchant de la main |
+| [Gunnun-So-Wi-Palkup-Bandae-Taerigi.md](Gunnun-So-Wi-Palkup-Bandae-Taerigi.md) | Frappe montante du coude inversée |
+
+### 1.3 Blocages (*Makgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gunnun-So-An-Palmok-Dollimyo-Makgi.md](Gunnun-So-An-Palmok-Dollimyo-Makgi.md) | Blocage circulaire avec l'avant-bras intérieur |
+| [Gunnun-So-An-Palmok-Kaunde-Baro-Bakuro-Makgi-Wa-Sonkal-Najunde-Bandae-Makgi.md](Gunnun-So-An-Palmok-Kaunde-Baro-Bakuro-Makgi-Wa-Sonkal-Najunde-Bandae-Makgi.md) | Blocage extérieur moyen à l'avant-bras intérieur combiné à un blocage bas au tranchant de la main, |
+| [Gunnun-So-An-Palmok-Kaunde-Yop-Makgi.md](Gunnun-So-An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen avec l'avant-bras intérieur |
+| [Gunnun-So-Bakat-Palmok-Nopunde-Ap-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Ap-Makgi.md) | Blocage frontal haut avec l'avant-bras extérieur |
+| [Gunnun-So-Bakat-Palmok-Nopunde-Bandae-Yop-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Bandae-Yop-Makgi.md) | Blocage latéral haut inversé avec l'avant-bras extérieur |
+| [Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md) | Blocage en écartement haut avec l'avant-bras extérieur |
+| [Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md](Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md) | Blocage haut latéral avec le tranchant extérieur de l'avant-bras |
+| [Gunnun-So-Bandae-Gutja-Makgi.md](Gunnun-So-Bandae-Gutja-Makgi.md) | Blocage en forme de 9 inversé |
+| [Gunnun-So-Bandal-Son-Bandae-Chookyo-Makgi.md](Gunnun-So-Bandal-Son-Bandae-Chookyo-Makgi.md) | Blocage montant inversé avec la main arquée |
+| [Gunnun-So-Doo-Palmok-Kaunde-Makgi.md](Gunnun-So-Doo-Palmok-Kaunde-Makgi.md) | Blocage moyen avec le double avant-bras |
+| [Gunnun-So-Doo-Palmok-Nopunde-Makgi.md](Gunnun-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras |
+| [Gunnun-So-Kaunde-Doo-Bandalson-Makgi.md](Gunnun-So-Kaunde-Doo-Bandalson-Makgi.md) | Double blocage moyen avec les mains arquées |
+| [Gunnun-So-Kyocha-Joomuk-Chookyo-Makgi.md](Gunnun-So-Kyocha-Joomuk-Chookyo-Makgi.md) | Blocage montant avec les poings croisés |
+| [Gunnun-So-Kyocha-Joomuk-Naeryo-Makgi.md](Gunnun-So-Kyocha-Joomuk-Naeryo-Makgi.md) | Blocage descendant avec les poings croisés |
+| [Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md](Gunnun-So-Kyocha-Joomuk-Noollo-Makgi.md) | Blocage descendant en pression avec poings croisés (en X) |
+| [Gunnun-So-Kyocha-Sonkal-Chookyo-Makgi.md](Gunnun-So-Kyocha-Sonkal-Chookyo-Makgi.md) | Blocage montant avec les tranchants des mains croisées |
+| [Gunnun-So-Nopunde-Doo-Bandalson-Makgi.md](Gunnun-So-Nopunde-Doo-Bandalson-Makgi.md) | Double blocage haut avec les mains arquées |
+| [Gunnun-So-Palmok-Bandae-Chookyo-Makgi.md](Gunnun-So-Palmok-Bandae-Chookyo-Makgi.md) | Blocage montant inversé avec l'avant-bras |
+| [Gunnun-So-Palmok-Chookyo-Makgi.md](Gunnun-So-Palmok-Chookyo-Makgi.md) | Blocage haut remontant de l'avant-bras |
+| [Gunnun-So-Palmok-Kaunde-Bandae-Ap-Makgi.md](Gunnun-So-Palmok-Kaunde-Bandae-Ap-Makgi.md) | Blocage frontal moyen inversé avec l'avant-bras |
+| [Gunnun-So-Palmok-Najunde-Bandae-Makgi.md](Gunnun-So-Palmok-Najunde-Bandae-Makgi.md) | Blocage bas inversé avec l'avant-bras |
+| [Gunnun-So-Palmok-Najunde-Makgi.md](Gunnun-So-Palmok-Najunde-Makgi.md) | Blocage bas avec l'avant-bras |
+| [Gunnun-So-Palmok-Nopunde-Bandae-Ap-Makgi.md](Gunnun-So-Palmok-Nopunde-Bandae-Ap-Makgi.md) | Blocage frontal haut inversé avec l'avant-bras |
+| [Gunnun-So-Sang-Sonbadak-Ollyo-Makgi.md](Gunnun-So-Sang-Sonbadak-Ollyo-Makgi.md) | Blocage montant à deux paumes |
+| [Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md](Gunnun-So-Sonbadak-Bandae-Noollo-Makgi.md) | Blocage descendant en pression avec la paume de la main (inversé) |
+| [Gunnun-So-Sonbadak-Bandae-Ollyo-Makgi.md](Gunnun-So-Sonbadak-Bandae-Ollyo-Makgi.md) | Blocage montant inversé avec la paume |
+| [Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md](Gunnun-So-Sonbadak-Baro-Noollo-Makgi.md) | Gunnun So Sonbadak Baro Noollo Makgi |
+| [Gunnun-So-Sonbadak-Kaunde-Bandae-Golcho-Makgi.md](Gunnun-So-Sonbadak-Kaunde-Bandae-Golcho-Makgi.md) | Blocage crocheté moyen inversé avec la paume |
+| [Gunnun-So-Sonbadak-Kaunde-Bandae-Miro-Makgi.md](Gunnun-So-Sonbadak-Kaunde-Bandae-Miro-Makgi.md) | Blocage poussé moyen inversé avec la paume |
+| [Gunnun-So-Sonbadak-Kaunde-Golcho-Makgi.md](Gunnun-So-Sonbadak-Kaunde-Golcho-Makgi.md) | Blocage crocheté moyen avec la paume |
+| [Gunnun-So-Sonbadak-Najunde-Anuro-Bandae-Makgi.md](Gunnun-So-Sonbadak-Najunde-Anuro-Bandae-Makgi.md) | Blocage intérieur bas inversé avec la paume |
+| [Gunnun-So-Sonbadak-Noollo-Makgi.md](Gunnun-So-Sonbadak-Noollo-Makgi.md) | Blocage pressant avec la paume |
+| [Gunnun-So-Sonbadak-Nopunde-Bandae-Golcho-Makgi.md](Gunnun-So-Sonbadak-Nopunde-Bandae-Golcho-Makgi.md) | Blocage crocheté haut inversé avec la paume |
+| [Gunnun-So-Sonbadak-Nopunde-Golcho-Makgi.md](Gunnun-So-Sonbadak-Nopunde-Golcho-Makgi.md) | Blocage crocheté haut avec la paume |
+| [Gunnun-So-Sonkal-Bandae-Chookyo-Makgi.md](Gunnun-So-Sonkal-Bandae-Chookyo-Makgi.md) | Blocage montant inversé avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Chookyo-Makgi.md](Gunnun-So-Sonkal-Chookyo-Makgi.md) | Blocage montant avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Dollimyo-Makgi.md](Gunnun-So-Sonkal-Dollimyo-Makgi.md) | Blocage circulaire avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Dung-Dollimyo-Makgi.md](Gunnun-So-Sonkal-Dung-Dollimyo-Makgi.md) | Blocage circulaire avec le revers du tranchant de la main |
+| [Gunnun-So-Sonkal-Dung-Kaunde-Bandae-Yop-Makgi.md](Gunnun-So-Sonkal-Dung-Kaunde-Bandae-Yop-Makgi.md) | Blocage latéral moyen inversé avec le revers du tranchant de la main |
+| [Gunnun-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md](Gunnun-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md) | Blocage intérieur bas inversé avec le revers du tranchant de la main |
+| [Gunnun-So-Sonkal-Dung-Nopunde-Yop-Makgi.md](Gunnun-So-Sonkal-Dung-Nopunde-Yop-Makgi.md) | Blocage latéral haut avec le revers du tranchant de la main |
+| [Gunnun-So-Sonkal-Kaunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md](Gunnun-So-Sonkal-Kaunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md) | Blocage extérieur moyen au tranchant de la main combiné à un blocage bas à l'avant-bras, |
+| [Gunnun-So-Sonkal-Kaunde-Hechyo-Makgi.md](Gunnun-So-Sonkal-Kaunde-Hechyo-Makgi.md) | Blocage en écartement moyen avec le tranchant des mains |
+| [Gunnun-So-Sonkal-Najunde-Bandae-Anuro-Makgi.md](Gunnun-So-Sonkal-Najunde-Bandae-Anuro-Makgi.md) | Blocage intérieur bas inversé avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Najunde-Bandae-Bakuro-Makgi.md](Gunnun-So-Sonkal-Najunde-Bandae-Bakuro-Makgi.md) | Blocage extérieur bas inversé avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Najunde-Makgi.md](Gunnun-So-Sonkal-Najunde-Makgi.md) | Blocage bas avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Nopunde-Bandae-Yop-Makgi.md](Gunnun-So-Sonkal-Nopunde-Bandae-Yop-Makgi.md) | Blocage latéral haut inversé avec le tranchant de la main |
+| [Gunnun-So-Sonkal-Nopunde-Yop-Makgi.md](Gunnun-So-Sonkal-Nopunde-Yop-Makgi.md) | Blocage latéral haut avec le tranchant de la main |
+| [Gunnun-So-Sonkal-San-Makgi.md](Gunnun-So-Sonkal-San-Makgi.md) | Blocage en W avec le tranchant des mains |
+
+### 1.4 Piques, coudes et coupures (*Tulgi*, *Ghutgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.md](Gunnun-So-Doo-Songarak-Nopunde-Bandae-Tulgi.md) | Pique haute inversée avec deux doigts |
+| [Gunnun-So-Dwijibun-Sonkut-Bandae-Najunde-Tulgi.md](Gunnun-So-Dwijibun-Sonkut-Bandae-Najunde-Tulgi.md) | Pique basse inversée avec le bout des doigts renversé |
+| [Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md](Gunnun-So-Dwijibun-Sonkut-Najunde-Tulgi.md) | Gunnun So Dwijibun Sonkut Najunde Tulgi |
+| [Gunnun-So-Dwit-Palkup-Bandae-Tulgi.md](Gunnun-So-Dwit-Palkup-Bandae-Tulgi.md) | Pique inversée avec l'arrière du coude |
+| [Gunnun-So-Homi-Sonkut-Nopunde-Bandae-Tulgi.md](Gunnun-So-Homi-Sonkut-Nopunde-Bandae-Tulgi.md) | Pique haute inversée du bout des doigts en angle |
+| [Gunnun-So-Jappyosul-Tae.md](Gunnun-So-Jappyosul-Tae.md) | Gunnun So Jappyosul Tae |
+| [Gunnun-So-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md](Gunnun-So-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md) | Cisaillage horizontal haut vers l'extérieur du bout des doigts |
+| [Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md](Gunnun-So-Opun-Sonkut-Nopunde-Tulgi.md) | Pique du bout des doigts à plat au niveau haut |
+| [Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.md](Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.md) | Pique verticale moyenne avec le bout des doigts |
+
+---
+
+## 2. Position en « L » (*Niunja So*)
+
+La posture elle-même est décrite dans [Niunja-Sogi.md](../../4-positions/fiches/Niunja-Sogi.md).
+
+### 2.1 Coups de poing (*Jirugi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Niunja-So-Baro-Dwijibo-Jirugi.md](Niunja-So-Baro-Dwijibo-Jirugi.md) | Coup de poing retourné direct (paume vers le haut) (du même côté) |
+| [Niunja-So-Baro-Ollyo-Jirugi.md](Niunja-So-Baro-Ollyo-Jirugi.md) | Coup de poing uppercut direct (du même côté) |
+| [Niunja-So-Doo-Joomuk-Najunde-Jirugi.md](Niunja-So-Doo-Joomuk-Najunde-Jirugi.md) | Niunja So Doo Joomuk Najunde Jirugi |
+| [Niunja-So-Dwijibo-Jirugi.md](Niunja-So-Dwijibo-Jirugi.md) | Coup de poing retourné (paume vers le haut) |
+| [Niunja-So-Joongji-Joomuk-Baro-Dwijibo-Jirugi.md](Niunja-So-Joongji-Joomuk-Baro-Dwijibo-Jirugi.md) | Coup de poing retourné (paume vers le haut) avec le poing à majeur sortant (du même côté) |
+| [Niunja-So-Joongji-Joomuk-Kaunde-Baro-Jirugi.md](Niunja-So-Joongji-Joomuk-Kaunde-Baro-Jirugi.md) | Coup de poing direct moyen avec le poing à majeur sortant (du même côté) |
+| [Niunja-So-Kaunde-Baro-Jirugi.md](Niunja-So-Kaunde-Baro-Jirugi.md) | Coup de poing direct moyen du même côté |
+| [Niunja-So-Kaunde-Yop-Jirugi.md](Niunja-So-Kaunde-Yop-Jirugi.md) | Coup de poing perçant moyen latéral |
+
+### 2.2 Frappes (*Taerigi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.md](Niunja-So-Dung-Joomuk-Bandae-Naeryo-Taerigi.md) | Coup cinglant descendant inversé avec le revers du poing |
+| [Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.md](Niunja-So-Dung-Joomuk-Bandae-Soopyong-Taerigi.md) | Coup cinglant horizontal inversé avec le revers du poing |
+| [Niunja-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Niunja-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Coup cinglant latéral haut avec le revers du poing |
+| [Niunja-So-Sondung-Bandae-Naeryo-Taerigi.md](Niunja-So-Sondung-Bandae-Naeryo-Taerigi.md) | Coup cinglant descendat inversé avec le dos de la main |
+| [Niunja-So-Sondung-Nopunde-Bakuro-Taerigi.md](Niunja-So-Sondung-Nopunde-Bakuro-Taerigi.md) | Coup cinglant haut vers l'extérieur avec le dos de la main |
+| [Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Kaunde-Bakuro-Taerigi.md) | Frappe moyenne vers l'extérieur avec le tranchant de la main |
+| [Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md](Niunja-So-Sonkal-Nopunde-Anuro-Taerigi.md) | Coup cinglant haut au tranchant de la main vers l'intérieur |
+| [Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md](Niunja-So-Sonkal-Nopunde-Bakuro-Taerigi.md) | Niunja So Sonkal Nopunde Bakuro Taerigi |
+
+### 2.3 Blocages (*Makgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Niunja-So-An-Palmok-Kaunde-Makgi.md](Niunja-So-An-Palmok-Kaunde-Makgi.md) | Blocage moyen avec le tranchant interne de l'avant-bras |
+| [Niunja-So-An-Palmok-Kaunde-Yop-Makgi.md](Niunja-So-An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen à l'avant-bras intérieur |
+| [Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.md](Niunja-So-Bakat-Palmok-Bandae-Naeryo-Makgi.md) | Blocage descendant inversé à l'avant-bras extérieur |
+| [Niunja-So-Bakat-Palmok-Naeryo-Makgi.md](Niunja-So-Bakat-Palmok-Naeryo-Makgi.md) | Blocage descendant à l'avant-bras extérieur |
+| [Niunja-So-Bakat-Palmok-Najunde-Makgi.md](Niunja-So-Bakat-Palmok-Najunde-Makgi.md) | Blocage bas à l'avant-bras extérieur |
+| [Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md](Niunja-So-Bakat-Palmok-Nopunde-Baro-Bakuro-Makgi-Wa-Palmok-Najunde-Bandae-Makgi.md) | Technique défensive combinée et simultanée |
+| [Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.md](Niunja-So-Doo-Palmok-Najunde-Miro-Makgi.md) | Blocage poussé bas au double avant-bras |
+| [Niunja-So-Dung-Joomuk-Baro-Yopdwi-Taerigi-Wa-Palmok-Najunde-Bandae-Makgi.md](Niunja-So-Dung-Joomuk-Baro-Yopdwi-Taerigi-Wa-Palmok-Najunde-Bandae-Makgi.md) | Technique combinée complexe et simultanée |
+| [Niunja-So-Kyocha-Joomuk-Momchau-Makgi.md](Niunja-So-Kyocha-Joomuk-Momchau-Makgi.md) | Blocage d'arrêt croisé avec les poings fermés |
+| [Niunja-So-Kyocha-Joomuk-Noollo-Makgi.md](Niunja-So-Kyocha-Joomuk-Noollo-Makgi.md) | Blocage pressant croisé avec les poings fermés |
+| [Niunja-So-Kyocha-Sonkal-Momchau-Makgi.md](Niunja-So-Kyocha-Sonkal-Momchau-Makgi.md) | Blocage d'arrêt croisé au tranchant de la main |
+| [Niunja-So-Palmok-Kaunde-Daebi-Makgi.md](Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen à l'avant-bras |
+| [Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au double avant-bras gauche |
+| [Orun-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md](Orun-Niunja-So-Palmok-Kaunde-Daebi-Makgi.md) | Orun Niunja So Palmok Kaunde Daebi Makgi |
+| [Niunja-So-Palmok-Najunde-Bandae-Makgi.md](Niunja-So-Palmok-Najunde-Bandae-Makgi.md) | Blocage bas inversé à l'avant-bras |
+| [Niunja-So-Palmok-Najunde-Yop-Makgi.md](Niunja-So-Palmok-Najunde-Yop-Makgi.md) | Blocage latéral bas à l'avant-bras |
+| [Niunja-So-Sang-Palmok-Makgi.md](Niunja-So-Sang-Palmok-Makgi.md) | Blocage double des avant-bras |
+| [Niunja-So-Sang-Sonbadak-Soopyong-Makgi.md](Niunja-So-Sang-Sonbadak-Soopyong-Makgi.md) | Double blocage horizontal avec la paume des mains |
+| [Niunja-So-Sang-Sonkal-Makgi.md](Niunja-So-Sang-Sonkal-Makgi.md) | Double blocage du tranchant de la main |
+| [Niunja-So-Sonbadak-Bandae-Duro-Makgi.md](Niunja-So-Sonbadak-Bandae-Duro-Makgi.md) | Niunja So Sonbadak Bandae Duro Makgi |
+| [Niunja-So-Sonbadak-Bandae-Ollyo-Makgi.md](Niunja-So-Sonbadak-Bandae-Ollyo-Makgi.md) | Blocage montant inversé avec la paume de la main |
+| [Niunja-So-Sonkal-Dung-Kaunde-Makgi.md](Niunja-So-Sonkal-Dung-Kaunde-Makgi.md) | Blocage moyen au revers du tranchant de la main |
+| [Niunja-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md](Niunja-So-Sonkal-Dung-Najunde-Bandae-Anuro-Makgi.md) | Blocage bas inversé vers l'intérieur avec le revers du tranchant de la main |
+| [Niunja-So-Sonkal-Dung-Najunde-Daebi-Makgi.md](Niunja-So-Sonkal-Dung-Najunde-Daebi-Makgi.md) | Blocage de garde bas au revers du tranchant de la main |
+| [Niunja-So-Sonkal-Dung-Nopunde-Daebi-Makgi.md](Niunja-So-Sonkal-Dung-Nopunde-Daebi-Makgi.md) | Blocage de garde haut au revers du tranchant de la main |
+| [Niunja-So-Sonkal-Dung-Nopunde-Yop-Makgi.md](Niunja-So-Sonkal-Dung-Nopunde-Yop-Makgi.md) | Blocage latéral haut avec le revers du tranchant de la main |
+| [Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage moyen de garde au tranchant des mains |
+| [Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au tranchant des mains gauche |
+| [Orun-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Orun-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Orun Niunja So Sonkal Kaunde Daebi Makgi |
+| [Niunja-So-Sonkal-Kaunde-Makgi.md](Niunja-So-Sonkal-Kaunde-Makgi.md) | Blocage moyen au tranchant de la main |
+| [Niunja-So-Sonkal-Najunde-Bandae-Makgi.md](Niunja-So-Sonkal-Najunde-Bandae-Makgi.md) | Blocage bas inversé au tranchant de la main |
+| [Niunja-So-Sonkal-Najunde-Daebi-Makgi.md](Niunja-So-Sonkal-Najunde-Daebi-Makgi.md) | Blocage de garde bas au tranchant de la main |
+| [Niunja-So-Sonkal-Nopunde-Daebi-Makgi.md](Niunja-So-Sonkal-Nopunde-Daebi-Makgi.md) | Niunja So Sonkal Nopunde Daebi Makgi |
+| [Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md](Twimyo-Yopcha-Jirugi-Wen-Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md) | Twimyo Yopcha Jirugi, Wen Niunja So Sonkal Kaunde Daebi Makgi |
+
+### 2.4 Piques, coudes et coupures (*Tulgi*, *Ghutgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Niunja-So-Digutja-Japgi.md](Niunja-So-Digutja-Japgi.md) | Saisie / prise en forme de "[ㄷ](../../audio/termes/digeut.m4a)" (ou en forme de U / C) |
+| [Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md](Niunja-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md) | Pique du bout des doigts à plat inversée au niveau haut |
+| [Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.md](Niunja-So-Opun-Sonkut-Nopunde-Ghutgi.md) | Coup d'estoc/écorchure haut horizontal avec le bout des doigts à plat |
+| [Niunja-So-Sun-Palkup-Naeryo-Tulgi.md](Niunja-So-Sun-Palkup-Naeryo-Tulgi.md) | Niunja So Sun Palkup Naeryo Tulgi |
+| [Niunja-So-Yop-Palkup-Tulgi.md](Niunja-So-Yop-Palkup-Tulgi.md) | Coup de coude perçant latéral |
+
+---
+
+## 3. Position assise (*Annun So*)
+
+La posture elle-même est décrite dans [Annun-Sogi.md](../../4-positions/fiches/Annun-Sogi.md).
+
+### 3.1 Coups de poing (*Jirugi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Annun-So-Wen-Joomuk-C-Bang-Giokja-Jirugi.md](Annun-So-Wen-Joomuk-C-Bang-Giokja-Jirugi.md) | Coup de poing en angle droit gauche en forme de "C" |
+| [Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.md](Annun-So-Orun-Joomuk-C-Bang-Giokja-Jirugi.md) | Coup de poing droit en angle encadré en forme de "C" (ou [ㄷ](../../audio/termes/digeut.m4a)) |
+| [Annun-So-Wen-Joomuk-Giokja-Jirugi.md](Annun-So-Wen-Joomuk-Giokja-Jirugi.md) | Coup de poing gauche en angle droit |
+| [Annun-So-Orun-Joomuk-Giokja-Jirugi.md](Annun-So-Orun-Joomuk-Giokja-Jirugi.md) | Coup de poing droit en angle (à 90°) |
+| [Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md](Annun-So-Wen-Joomuk-Kaunde-Ap-Jirugi.md) | Coup de poing direct moyen frontal gauche |
+| [Annun-So-Orun-Joomuk-Kaunde-Ap-Jirugi.md](Annun-So-Orun-Joomuk-Kaunde-Ap-Jirugi.md) | Coup de poing direct frontal moyen droit |
+| [Annun-So-Wen-Joomuk-Kaunde-Jirugi.md](Annun-So-Wen-Joomuk-Kaunde-Jirugi.md) | Coup de poing moyen gauche |
+| [Annun-So-Orun-Joomuk-Kaunde-Jirugi.md](Annun-So-Orun-Joomuk-Kaunde-Jirugi.md) | Coup de poing direct moyen droit |
+| [Annun-So-Wen-Joomuk-Kaunde-Yop-Jirugi.md](Annun-So-Wen-Joomuk-Kaunde-Yop-Jirugi.md) | Coup de poing latéral moyen gauche avec le devant du poing |
+| [Annun-So-Kaunde-Bandae-Jirugi.md](Annun-So-Kaunde-Bandae-Jirugi.md) | Coup de poing direct moyen inversé |
+| [Annun-So-Wen-Soopyong-Jirugi.md](Annun-So-Wen-Soopyong-Jirugi.md) | Coup de poing horizontal gauche |
+| [Annun-So-Orun-Soopyong-Jirugi.md](Annun-So-Orun-Soopyong-Jirugi.md) | Coup de poing horizontal droit |
+
+### 3.2 Frappes (*Taerigi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Annun-So-Orun-Ap-Palkup-Taerigi.md](Annun-So-Orun-Ap-Palkup-Taerigi.md) | Coup de coude frontal droit en percussion |
+| [Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.md](Annun-So-Wen-Dung-Joomuk-Ap-Taerigi.md) | Frappe frontale cinglante avec le revers du poing gauche |
+| [Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md](Annun-So-Orun-Dung-Joomuk-Ap-Taerigi.md) | Frappe frontale avec le revers du poing droit |
+| [Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Annun-So-Wen-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale haute cinglante avec le revers du poing gauche |
+| [Annun-So-Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Annun-So-Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale haute avec le revers du poing droit |
+| [Annun-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md](Annun-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md) | Frappe latérale-arrière cinglante avec le revers du poing gauche |
+| [Annun-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md](Annun-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md) | Frappe latérale-arrière avec le revers du poing droit |
+| [Annun-So-Wen-Sondung-Soopyong-Taerigi.md](Annun-So-Wen-Sondung-Soopyong-Taerigi.md) | Frappe horizontale cinglante avec le dos de la main gauche |
+| [Annun-So-Orun-Sondung-Soopyong-Taerigi.md](Annun-So-Orun-Sondung-Soopyong-Taerigi.md) | Frappe horizontale cinglante avec le dos de la main droite |
+| [Annun-So-Wen-Sonkal-Kaunde-Yop-Taerigi.md](Annun-So-Wen-Sonkal-Kaunde-Yop-Taerigi.md) | Frappe latérale moyenne cinglante au tranchant de la main gauche |
+| [Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md](Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md) | Frappe latérale moyenne au tranchant de la main droite |
+| [Annun-So-Wen-Yop-Joomuk-Kaunde-Yop-Taerigi.md](Annun-So-Wen-Yop-Joomuk-Kaunde-Yop-Taerigi.md) | Frappe latérale moyenne cinglante avec le côté du poing gauche |
+| [Annun-So-Orun-Yop-Joomuk-Kaunde-Yop-Taerigi.md](Annun-So-Orun-Yop-Joomuk-Kaunde-Yop-Taerigi.md) | Frappe latérale moyenne avec le poing latéral droit |
+
+### 3.3 Blocages (*Makgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Annun-So-An-Palmok-Narani-Makgi.md](Annun-So-An-Palmok-Narani-Makgi.md) | Blocage parallèle avec l'avant-bras intérieur |
+| [Annun-So-Wen-An-Palmok-Yobap-Makgi.md](Annun-So-Wen-An-Palmok-Yobap-Makgi.md) | Blocage latéral-frontal gauche avec le tranchant interne de l'avant-bras |
+| [Annun-So-Orun-An-Palmok-Yobap-Makgi.md](Annun-So-Orun-An-Palmok-Yobap-Makgi.md) | Blocage latéral-avant droit avec l'avant-bras intérieur |
+| [Annun-So-Orun-Ap-Joomuk-Noollo-Makgi-Wa-Wen-An-Palmok-Yobap-Makgi.md](Annun-So-Orun-Ap-Joomuk-Noollo-Makgi-Wa-Wen-An-Palmok-Yobap-Makgi.md) | Double blocage combiné simultané |
+| [Annun-So-Wen-Ap-Joomuk-Noollo-Makgi-Wa-Orun-An-Palmok-Yobap-Makgi.md](Annun-So-Wen-Ap-Joomuk-Noollo-Makgi-Wa-Orun-An-Palmok-Yobap-Makgi.md) | Technique défensive double et simultanée |
+| [Annun-So-Orun-Bakat-Palmok-Nopunde-Ap-Makgi.md](Annun-So-Orun-Bakat-Palmok-Nopunde-Ap-Makgi.md) | Blocage frontal haut droit avec l'avant-bras extérieur |
+| [Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.md](Annun-So-Orun-Bakat-Palmok-Nopunde-Bakuro-Makgi.md) | Blocage haut droit vers l'extérieur avec l'avant-bras extérieur |
+| [Annun-So-Bakat-Palmok-San-Makgi.md](Annun-So-Bakat-Palmok-San-Makgi.md) | Blocage en montagne (ou en "W") avec l'avant-bras extérieur |
+| [Annun-So-Wen-Bakat-Palmok-San-Makgi.md](Annun-So-Wen-Bakat-Palmok-San-Makgi.md) | Blocage en montagne (ou en "W") gauche avec l'avant-bras extérieur |
+| [Annun-So-Orun-Bakat-Palmok-San-Makgi.md](Annun-So-Orun-Bakat-Palmok-San-Makgi.md) | Blocage en montagne (en "W") droit avec l'avant-bras extérieur |
+| [Annun-So-Wen-Gutja-Makgi.md](Annun-So-Wen-Gutja-Makgi.md) | Blocage en forme de "9" gauche |
+| [Annun-So-Orun-Gutja-Makgi.md](Annun-So-Orun-Gutja-Makgi.md) | Blocage en forme de "9" droit |
+| [Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.md](Annun-So-Orun-Palmok-Kaunde-Ap-Makgi.md) | Blocage frontal moyen droit avec l'avant-bras |
+| [Annun-So-Palmok-Kaunde-Hechyo-Makgi.md](Annun-So-Palmok-Kaunde-Hechyo-Makgi.md) | Double blocage écarté moyen avec l'avant-bras intérieur |
+| [Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md](Annun-So-Sang-Sun-Palmok-Momchau-Makgi.md) | Double blocage d'arrêt avec les avant-bras verticaux |
+| [Annun-So-Wen-Sonbadak-Duro-Makgi.md](Annun-So-Wen-Sonbadak-Duro-Makgi.md) | Blocage ascendant en cuillère avec la paume de la main gauche |
+| [Annun-So-Orun-Sonbadak-Duro-Makgi.md](Annun-So-Orun-Sonbadak-Duro-Makgi.md) | Blocage en cuillère droit avec la paume de la main |
+| [Annun-So-Sonbadak-Kaunde-Miro-Makgi.md](Annun-So-Sonbadak-Kaunde-Miro-Makgi.md) | Blocage poussant moyen avec la paume de la main |
+| [Annun-So-Wen-Sonbadak-Kaunde-Yobap-Miro-Makgi.md](Annun-So-Wen-Sonbadak-Kaunde-Yobap-Miro-Makgi.md) | Blocage poussoir moyen latéral-frontal gauche avec la paume de la main |
+| [Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.md](Annun-So-Sonkal-Dung-Kaunde-Hechyo-Makgi.md) | Double blocage en écartant moyen avec le tranchant interne de la main |
+| [Annun-So-Sonkal-Dung-Najunde-C-Bang-Daebi-Makgi.md](Annun-So-Sonkal-Dung-Najunde-C-Bang-Daebi-Makgi.md) | Blocage de garde bas en forme de "C" avec le tranchant interne des mains |
+| [Annun-So-Sonkal-Dung-San-Makgi.md](Annun-So-Sonkal-Dung-San-Makgi.md) | Blocage en montagne (ou en "W") avec le tranchant interne des mains |
+| [Annun-So-Sonkal-Najunde-A-Bang-Daebi-Makgi.md](Annun-So-Sonkal-Najunde-A-Bang-Daebi-Makgi.md) | Blocage de garde bas en forme de "A" au tranchant de la main |
+| [Annun-So-Sonkal-Najunde-B-Bang-Daebi-Makgi.md](Annun-So-Sonkal-Najunde-B-Bang-Daebi-Makgi.md) | Blocage de garde bas en forme de "B" au tranchant de la main |
+| [Annun-So-Sonkal-Najunde-D-Bang-Daebi-Makgi.md](Annun-So-Sonkal-Najunde-D-Bang-Daebi-Makgi.md) | Blocage de garde bas en forme de "D" au tranchant de la main |
+| [Annun-So-Wen-Sonkal-Najunde-Yop-Makgi.md](Annun-So-Wen-Sonkal-Najunde-Yop-Makgi.md) | Blocage latéral bas gauche au tranchant de la main |
+| [Annun-So-Orun-Sonkal-Najunde-Yop-Makgi.md](Annun-So-Orun-Sonkal-Najunde-Yop-Makgi.md) | Blocage latéral bas droit au tranchant de la main |
+
+### 3.4 Piques, coudes et coupures (*Tulgi*, *Ghutgi*)
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Annun-So-Wen-Dwit-Palkup-Tulgi.md](Annun-So-Wen-Dwit-Palkup-Tulgi.md) | Coup de coude arrière perçant gauche |
+| [Annun-So-Orun-Dwit-Palkup-Tulgi.md](Annun-So-Orun-Dwit-Palkup-Tulgi.md) | Pique / poussée du coude arrière droit |
+| [Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.md](Annun-So-Wen-Opun-Sonkut-Kaunde-Tulgi.md) | Pique moyenne du bout des doigts à plat du bras gauche |
+| [Annun-So-Orun-Opun-Sonkut-Kaunde-Tulgi.md](Annun-So-Orun-Opun-Sonkut-Kaunde-Tulgi.md) | Pique de doigts à plat moyenne droite |
+| [Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md](Annun-So-Wen-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md) | Cisaillage horizontal du bout des doigts gauche vers l'extérieur, au niveau haut, en position assise |
+| [Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md](Annun-So-Orun-Opun-Sonkut-Nopunde-Bakuro-Ghutgi.md) | Cisaillage horizontal du bout des doigts droit vers l'extérieur, au niveau haut, en position assise |
+
+---
+
+## 4. Position de pied arrière (*Dwitbal So*)
+
+La posture elle-même est décrite dans [Dwitbal-Sogi.md](../../4-positions/fiches/Dwitbal-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md](Dwitbal-So-An-Palmok-Bandae-Hori-Makgi.md) | Blocage inverse au niveau de la taille avec l'intérieur de l'avant-bras |
+| [Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md](Dwitbal-So-Bakat-Palmok-Kaunde-Anuro-Bandae-Makgi.md) | Blocage inverse moyen vers l'intérieur avec l'extérieur de l'avant-bras |
+| [Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md](Dwitbal-So-Euhkallin-Sonbadak-Naeryo-Makgi.md) | Blocage descendant croisé avec la paume des mains |
+| [Dwitbal-So-Joongji-Joomuk-Nopunde-Bandae-Jirugi.md](Dwitbal-So-Joongji-Joomuk-Nopunde-Bandae-Jirugi.md) | Coup de poing inverse haut avec la jointure du majeur |
+| [Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md](Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md) | Blocage de garde moyen au double avant-bras |
+| [Orun-Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md](Orun-Dwitbal-So-Palmok-Kaunde-Daebi-Makgi.md) | Orun Dwitbal So Palmok Kaunde Daebi Makgi |
+| [Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.md](Dwitbal-So-Sang-Sonbadak-Noollo-Makgi.md) | Blocage pressant double avec les paumes des mains |
+| [Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md](Dwitbal-So-Sonbadak-Bandae-Naeryo-Makgi.md) | Blocage descendant inverse avec la paume de la main |
+| [Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md](Dwitbal-So-Sonbadak-Bandae-Ollyo-Makgi.md) | Blocage montant inverse avec la paume de la main |
+| [Dwitbal-So-Sonbadak-Ollyo-Makgi.md](Dwitbal-So-Sonbadak-Ollyo-Makgi.md) | Blocage montant direct avec la paume de la main |
+| [Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.md](Dwitbal-So-Sonkal-Nopunde-Daebi-Makgi.md) | Blocage de garde haut au double tranchant de la main |
+| [Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.md](Dwitbal-So-Sonmok-Dung-Bandae-Ollyo-Makgi.md) | Blocage montant inverse avec le dessus/dos du poignet |
+| [Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md](Dwitbal-So-Sun-Palkup-Bandae-Naeryo-Tulgi.md) | Pique descendante au coude vertical inverse |
+| [Dwitbal-So-Yop-Palkup-Tulgi.md](Dwitbal-So-Yop-Palkup-Tulgi.md) | Pique latérale du coude |
+
+---
+
+## 5. Position fixe (*Gojung So*)
+
+La posture elle-même est décrite dans [Gojung-Sogi.md](../../4-positions/fiches/Gojung-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Gojung-So-Digutja-Jirugi.md](Gojung-So-Digutja-Jirugi.md) | Coup de poing double en forme de « [ㄷ](../../audio/termes/digeut.m4a) » (U / C) |
+| [Gojung-So-Digutja-Makgi.md](Gojung-So-Digutja-Makgi.md) | Blocage en forme de « [ㄷ](../../audio/termes/digeut.m4a) » (en U) |
+| [Orun-Gojung-So-Digutja-Makgi.md](Orun-Gojung-So-Digutja-Makgi.md) | Orun Gojung So Digutja Makgi |
+| [Gojung-So-Kaunde-Yop-Jirugi.md](Gojung-So-Kaunde-Yop-Jirugi.md) | Coup de poing direct latéral moyen |
+| [Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md](Gojung-So-Kyocha-Sonkal-Momchau-Makgi.md) | Blocage d'arrêt croisé avec le tranchant des mains |
+| [Gojung-So-Palmok-Nopunde-Daebi-Makgi.md](Gojung-So-Palmok-Nopunde-Daebi-Makgi.md) | Blocage de garde haut au double avant-bras |
+| [Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.md](Gojung-So-Sonkal-Kaunde-Bakuro-Baro-Makgi-Wa-Sonbadak-Kaunde-Bandae-Miro-Makgi.md) | Technique défensive combinée simultanée |
+| [Gojung-So-Yop-Palkup-Tulgi.md](Gojung-So-Yop-Palkup-Tulgi.md) | Pique latérale du coude |
+
+---
+
+## 6. Position en « X » (*Kyocha So*)
+
+La posture elle-même est décrite dans [Kyocha-Sogi.md](../../4-positions/fiches/Kyocha-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.md](Kyocha-So-Bakat-Palmok-Najunde-Baro-Ap-Makgi.md) | Blocage bas avant direct à l'avant-bras extérieur |
+| [Kyocha-So-Baro-Ollyo-Jirugi.md](Kyocha-So-Baro-Ollyo-Jirugi.md) | Coup de poing uppercut direct |
+| [Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md](Wen-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md) | Blocage haut au double avant-bras gauche |
+| [Orun-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md](Orun-Kyocha-So-Doo-Palmok-Nopunde-Makgi.md) | Orun Kyocha So Doo Palmok Nopunde Makgi |
+| [Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md](Wen-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md) | Coup cinglant descendant au revers du poing direct gauche |
+| [Orun-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md](Orun-Kyocha-So-Dung-Joomuk-Baro-Naeryo-Taerigi.md) | Orun Kyocha So Dung Joomuk Baro Naeryo Taerigi |
+| [Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md](Wen-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md) | Coup cinglant latéral haut au revers du poing direct gauche |
+| [Orun-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md](Orun-Kyocha-So-Dung-Joomuk-Nopunde-Baro-Yop-Taerigi.md) | Orun Kyocha So Dung Joomuk Nopunde Baro Yop Taerigi |
+| [Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Wen-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Coup cinglant latéral haut au revers du poing gauche |
+| [Orun-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Orun-Kyocha-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Orun Kyocha So Dung Joomuk Nopunde Yop Taerigi |
+| [Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md](Wen-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md) | Blocage pressant aux poings croisés gauche |
+| [Orun-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md](Orun-Kyocha-So-Kyocha-Joomuk-Noollo-Makgi.md) | Orun Kyocha So Kyocha Joomuk Noollo Makgi |
+| [Wen-Kyocha-So-Najunde-Bandae-Jirugi.md](Wen-Kyocha-So-Najunde-Bandae-Jirugi.md) | Coup de poing direct inversé bas gauche |
+| [Orun-Kyocha-So-Najunde-Bandae-Jirugi.md](Orun-Kyocha-So-Najunde-Bandae-Jirugi.md) | Orun Kyocha So Najunde Bandae Jirugi |
+| [Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md](Kyocha-So-Sang-Palkup-Soopyong-Tulgi.md) | Kyocha So Sang Palkup Soopyong Tulgi |
+| [Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.md](Kyocha-So-Sonkal-Dung-Najunde-Bandae-Ap-Makgi.md) | Blocage bas avant inversé au revers du tranchant de la main |
+| [Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md](Wen-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md) | Coup tranchant latéral moyen au tranchant de la main gauche |
+| [Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md](Orun-Kyocha-So-Sonkal-Kaunde-Yop-Taerigi.md) | Orun Kyocha So Sonkal Kaunde Yop Taerigi |
+
+---
+
+## 7. Position rapprochée (*Moa So*)
+
+La posture elle-même est décrite dans [Moa-Sogi.md](../../4-positions/fiches/Moa-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Moa-So-Wen-An-Palmok-Yobap-Makgi.md](Moa-So-Wen-An-Palmok-Yobap-Makgi.md) | Blocage combiné latéral-avant gauche à l'avant-bras intérieur en posture pieds joints |
+| [Moa-So-Orun-An-Palmok-Yobap-Makgi.md](Moa-So-Orun-An-Palmok-Yobap-Makgi.md) | Blocage combiné latéral-avant droit à l'avant-bras intérieur en posture pieds joints |
+| [Moa-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md](Moa-So-Wen-Dung-Joomuk-Yopdwi-Taerigi.md) | Coup percutant latéral-arrière au revers du poing gauche en posture pieds joints |
+| [Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md](Moa-So-Orun-Dung-Joomuk-Yopdwi-Taerigi.md) | Coup percutant latéral-arrière au revers du poing droit en posture pieds joints |
+| [Moa-So-Orun-Giokja-Jirugi.md](Moa-So-Orun-Giokja-Jirugi.md) | Coup de poing direct en "L" / d'angle (en équerre) du bras droit en posture pieds joints |
+| [Moa-So-Hanulson.md](Moa-So-Hanulson.md) | Posture pieds joints avec la main du ciel |
+| [Moa-So-Wen-Joomuk-Giokja-Jirugi.md](Moa-So-Wen-Joomuk-Giokja-Jirugi.md) | Coup de poing en équerre (en angle droit) du bras gauche en posture pieds joints |
+| [Moa-So-Orun-Joomuk-Giokja-Jirugi.md](Moa-So-Orun-Joomuk-Giokja-Jirugi.md) | Coup de poing direct en "L" / d'angle (en équerre) du poing droit en posture pieds joints |
+| [Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.md](Moa-So-Sang-Inji-Joomuk-Nopunde-Bandal-Jirugi.md) | Double coup de poing en croissant au niveau haut avec les jointures saillantes de l'index en posture pieds joints |
+| [Moa-So-Sang-Palkup-Soopyong-Tulgi.md](Moa-So-Sang-Palkup-Soopyong-Tulgi.md) | Coup de coude horizontal double / simultané en posture pieds joints |
+| [Moa-So-Sang-Yop-Palkup-Tulgi.md](Moa-So-Sang-Yop-Palkup-Tulgi.md) | Coup de coude pénétration latéral double / simultané en posture pieds joints |
+| [Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.md](Moa-So-Orun-Sonkal-Najunde-Ap-Makgi.md) | Blocage bas avant au tranchant de la main droite en posture pieds joints |
+| [Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.md](Moa-So-Wen-Yop-Joomuk-Naeryo-Taerigi.md) | Coup percutant descendant avec le marteau du poing gauche en posture pieds joints |
+| [Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.md](Moa-So-Orun-Yop-Joomuk-Naeryo-Taerigi.md) | Coup percutant descendant avec le marteau du poing droit en posture pieds joints |
+
+---
+
+## 8. Position basse (*Nachuo So*)
+
+La posture elle-même est décrite dans [Nachuo-Sogi.md](../../4-positions/fiches/Nachuo-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md](Nachuo-So-Opun-Sonkut-Nopunde-Bandae-Tulgi.md) | Pénétration haute inversée au piqué de la main plat (paume vers le bas) en posture basse |
+| [Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md](Nachuo-So-Opun-Sonkut-Nopunde-Tulgi.md) | Pique du bout des doigts à plat au niveau haut en posture basse |
+| [Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md](Nachuo-So-Sonbadak-Bandae-Noollo-Makgi.md) | Nachuo So Sonbadak Bandae Noollo Makgi |
+
+---
+
+## 9. Position sur une jambe (*Waebal So*)
+
+La posture elle-même est décrite dans [Waebal-Sogi.md](../../4-positions/fiches/Waebal-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Waebal-So-Bakat-Palmok-Narani-Makgi.md](Waebal-So-Bakat-Palmok-Narani-Makgi.md) | Blocage parallèle à l'extérieur des avant-bras en posture sur une seule jambe |
+| [Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.md](Waebal-So-Bakat-Palmok-Nopunde-Baro-Yop-Makgi-Wa-Palmok-Najunde-Bandae-Yop-Makgi.md) | Double blocage latéral aux avant-bras — haut extérieur direct et bas inversé — en posture sur une seule jambe |
+| [Waebal-So-Dungpalmok-Bandae-Taerigi.md](Waebal-So-Dungpalmok-Bandae-Taerigi.md) | Coup cinglant inversé au revers de l'avant-bras en posture sur une seule jambe |
+| [Waebal-So-Dungpalmok-Baro-Taerigi.md](Waebal-So-Dungpalmok-Baro-Taerigi.md) | Coup cinglant direct au revers de l'avant-bras en posture sur une seule jambe |
+| [Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.md](Waebal-So-Sonkal-Najunde-Baro-Yop-Makgi-Wa-Sonkal-Nopunde-Bandae-Yop-Makgi.md) | Blocage latéral simultané au tranchant des mains — bas direct et haut inversé — en posture sur une seule jambe |
+
+---
+
+## 10. Position verticale (*Soojik So*)
+
+La posture elle-même est décrite dans [Soojik-Sogi.md](../../4-positions/fiches/Soojik-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md](Soojik-So-Sonkal-Bandae-Naeryo-Taerigi.md) | Coup percutant descendant inversé au tranchant de la main en posture verticale |
+| [Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.md](Soojik-So-Yop-Joomuk-Bandae-Naeryo-Taerigi.md) | Coup percutant descendant inversé du côté du poing en posture verticale |
+
+---
+
+## 11. Position en diagonale (*Sasun So*)
+
+La posture elle-même est décrite dans [Sasun-Sogi.md](../../4-positions/fiches/Sasun-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Sasun-So-Dwit-Palkup-Tulgi.md](Sasun-So-Dwit-Palkup-Tulgi.md) | Sasun So Dwit Palkup Tulgi |
+| [Sasun-So-Sang-Sonbadak-Chookyo-Makgi.md](Sasun-So-Sang-Sonbadak-Chookyo-Makgi.md) | Sasun So Sang Sonbadak Chookyo Makgi |
+| [Sasun-So-Sang-Sonbadak-Noollo-Makgi.md](Sasun-So-Sang-Sonbadak-Noollo-Makgi.md) | Sasun So Sang Sonbadak Noollo Makgi |
+
+---
+
+## 12. Position parallèle (*Narani So*)
+
+La posture elle-même est décrite dans [Narani-Sogi.md](../../4-positions/fiches/Narani-Sogi.md).
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Narani-So-Hanulson.md](Narani-So-Hanulson.md) | Position parallèle avec la main du ciel |
+| [Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md](Narani-So-Wen-Joomuk-Kaunde-Dollyo-Jirugi.md) | Coup de poing circulaire moyen du poing gauche en posture pieds parallèles |
+| [Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md](Narani-So-Orun-Joomuk-Kaunde-Dollyo-Jirugi.md) | Coup de poing circulaire moyen du poing droit en posture pieds parallèles |
+| [Narani-So-Wen-Joomuk-Kaunde-Jirugi.md](Narani-So-Wen-Joomuk-Kaunde-Jirugi.md) | Coup de poing direct moyen du poing gauche en posture pieds parallèles |
+| [Narani-So-Orun-Joomuk-Kaunde-Jirugi.md](Narani-So-Orun-Joomuk-Kaunde-Jirugi.md) | Coup de poing direct moyen du poing droit en posture pieds parallèles |
+| [Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.md](Narani-So-Orun-Opun-Sonkut-Nopunde-Anuro-Ghutgi.md) | Coup traçant / d'incision entrant haut au piqué de la main plat (paume vers le bas) du côté droit en posture pieds parallèles |
+| [Narani-So-Sang-Sonkal-Soopyong-Taerigi.md](Narani-So-Sang-Sonkal-Soopyong-Taerigi.md) | Coup percutant horizontal simultané aux deux tranchants de la main en posture pieds parallèles |
+| [Narani-So-Wen-Sonbadak-Kaunde-Golcho-Makgi.md](Narani-So-Wen-Sonbadak-Kaunde-Golcho-Makgi.md) | Blocage en crochet moyen à la paume de la main gauche en posture pieds parallèles |
+| [Narani-So-Orun-Sonbadak-Kaunde-Golcho-Makgi.md](Narani-So-Orun-Sonbadak-Kaunde-Golcho-Makgi.md) | Blocage en crochet moyen à la paume de la main droite en posture pieds parallèles |
+
+---
+
+## 13. Coups de pied (*Chagi*)
+
+Techniques de jambe nommées sans position d'appui imposée.
+
+| Fiche | Technique |
+| :--- | :--- |
+| [Bakuro-Noollo-Chagi.md](Bakuro-Noollo-Chagi.md) | Coup de pied pressant vers l'extérieur |
+| [Bakuro-Sewo-Chagi.md](Bakuro-Sewo-Chagi.md) | Coup de poing-pied / coup de pied vertical vers l'extérieur |
+| [Balkal-Dung-Anuro-Sewo-Chagi.md](Balkal-Dung-Anuro-Sewo-Chagi.md) | Coup de pied vertical vers l'intérieur avec le contre-tranchant du pied |
+| [Doro-Chagi.md](Doro-Chagi.md) | Coup de pied en vague |
+| [Gokaeng-I-Chagi.md](Gokaeng-I-Chagi.md) | Coup de pied en pioche |
+| [Kaunde-Apcha-Busigi.md](Kaunde-Apcha-Busigi.md) | Coup de pied avant fouetté moyen |
+| [Kaunde-Bandae-Dollyo-Chagi.md](Kaunde-Bandae-Dollyo-Chagi.md) | Coup de pied circulaire inversé moyen |
+| [Kaunde-Bandal-Chagi.md](Kaunde-Bandal-Chagi.md) | Coup de pied semi-circulaire moyen |
+| [Kaunde-Bituro-Chagi.md](Kaunde-Bituro-Chagi.md) | Coup de pied vrillé moyen |
+| [Kaunde-Dollyo-Chagi.md](Kaunde-Dollyo-Chagi.md) | Coup de pied circulaire moyen |
+| [Kaunde-Dwitcha-Jirugi.md](Kaunde-Dwitcha-Jirugi.md) | Coup de pied arrière perçant moyen |
+| [Wen-Kaunde-Dwitcha-Jirugi.md](Wen-Kaunde-Dwitcha-Jirugi.md) | Coup de pied arrière perçant moyen de la jambe gauche |
+| [Kaunde-Golcho-Chagi.md](Kaunde-Golcho-Chagi.md) | Coup de pied crocheté moyen |
+| [Kaunde-Yobap-Cha-Busigi-Wa-An-Palmok-Kaunde-Hechyo-Makgi.md](Kaunde-Yobap-Cha-Busigi-Wa-An-Palmok-Kaunde-Hechyo-Makgi.md) | Coup de pied avant fouetté latéral moyen combiné à un blocage en écartement moyen à l'avant-bras intérieur |
+| [Kaunde-Yobap-Cha-Busigi.md](Kaunde-Yobap-Cha-Busigi.md) | Coup de pied avant fouetté latéral moyen |
+| [Kaunde-Yopcha-Goro-Chagi.md](Kaunde-Yopcha-Goro-Chagi.md) | Coup de pied de côté crocheté moyen |
+| [Kaunde-Yopcha-Jirugi.md](Kaunde-Yopcha-Jirugi.md) | Coup de pied latéral perçant moyen |
+| [Kaunde-Yopcha-Milgi.md](Kaunde-Yopcha-Milgi.md) | Coup de pied latéral poussant moyen |
+| [Wen-Kaunde-Yopcha-Tulgi.md](Wen-Kaunde-Yopcha-Tulgi.md) | Coup de pied latéral enfonçant/poussant moyen de la jambe gauche |
+| [Orun-Kaunde-Yopcha-Tulgi.md](Orun-Kaunde-Yopcha-Tulgi.md) | Orun Kaunde Yopcha Tulgi |
+| [Moorup-Najunde-Apcha-Busigi.md](Moorup-Najunde-Apcha-Busigi.md) | Coup de pied direct fouetté bas avec action du genou |
+| [Najunde-Apcha-Busigi.md](Najunde-Apcha-Busigi.md) | Coup de pied direct fouetté au niveau bas |
+| [Najunde-Bituro-Chagi.md](Najunde-Bituro-Chagi.md) | Coup de pied tordu / vrillé au niveau bas |
+| [Najunde-Yobap-Cha-Busigi.md](Najunde-Yobap-Cha-Busigi.md) | Coup de pied fouetté bas de biais (côté-avant) |
+| [Nopunde-Bandae-Dollyo-Chagi.md](Nopunde-Bandae-Dollyo-Chagi.md) | Nopunde Bandae Dollyo Chagi |
+| [Nopunde-Bandae-Dollyo-Gorochagi.md](Nopunde-Bandae-Dollyo-Gorochagi.md) | Nopunde Bandae Dollyo Gorochagi |
+| [Wen-Nopunde-Bandae-Dollyo-Gorochagi.md](Wen-Nopunde-Bandae-Dollyo-Gorochagi.md) | Coup de pied crocheté tournant inversé haut de la jambe gauche |
+| [Orun-Nopunde-Bandae-Dollyo-Gorochagi.md](Orun-Nopunde-Bandae-Dollyo-Gorochagi.md) | Orun Nopunde Bandae Dollyo Gorochagi |
+| [Nopunde-Bituro-Chagi.md](Nopunde-Bituro-Chagi.md) | Nopunde Bituro Chagi |
+| [Nopunde-Dollyo-Chagi.md](Nopunde-Dollyo-Chagi.md) | Nopunde Dollyo Chagi |
+| [Nopunde-Dwitcha-Jirugi.md](Nopunde-Dwitcha-Jirugi.md) | Nopunde Dwitcha Jirugi |
+| [Nopunde-Yopcha-Jirugi.md](Nopunde-Yopcha-Jirugi.md) | Nopunde Yopcha Jirugi |
+| [Wen-Nopunde-Yopcha-Jirugi.md](Wen-Nopunde-Yopcha-Jirugi.md) | Coup de pied latéral perçant haut de la jambe gauche |
+| [Orun-Nopunde-Yopcha-Jirugi.md](Orun-Nopunde-Yopcha-Jirugi.md) | Orun Nopunde Yopcha Jirugi |
+| [Twimyo-Apcha-Busigi.md](Twimyo-Apcha-Busigi.md) | Coup de pied direct fouetté sauté / volant |
+| [Twimyo-Nopi-Chagi.md](Twimyo-Nopi-Chagi.md) | Coup de pied sauté en hauteur / coup de pied volant haut |
+| [Twio-Dolmyo-Chagi.md](Twio-Dolmyo-Chagi.md) | Coup de pied sauté en rotation |
+| [Yop-Bal-Badak-Suroh-Chagi.md](Yop-Bal-Badak-Suroh-Chagi.md) | Coup de pied balayé latéral avec la plante du pied |
+| [Yop-Bituro-Chagi.md](Yop-Bituro-Chagi.md) | Coup de pied latéral en torsion |
+| [Yopcha-Momchugi.md](Yopcha-Momchugi.md) | Coup de pied latéral d'arrêt / de contrôle |
+
+---
+
+## 14. Sans position imposée
+
+| Fiche | Technique |
+| :--- | :--- |
+| [An-Palmok-Kaunde-Yop-Makgi.md](An-Palmok-Kaunde-Yop-Makgi.md) | Blocage latéral moyen avec l'avant-bras intérieur |
+| [Dung-Joomuk-Nopunde-Yop-Taerigi.md](Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Frappe latérale haute cinglante avec le revers du poing |
+| [Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md](Orun-Dung-Joomuk-Nopunde-Yop-Taerigi.md) | Orun Dung Joomuk Nopunde Yop Taerigi |
+| [Orun-Joomuk-Dwijibo-Jirigi.md](Orun-Joomuk-Dwijibo-Jirigi.md) | Orun Joomuk Dwijibo Jirigi |
+| [Joomuk-Nopunde-Jirugi.md](Joomuk-Nopunde-Jirugi.md) | Coup de poing direct au niveau haut |
+| [Sonbadak-Kaunde-Golcho-Makgi.md](Sonbadak-Kaunde-Golcho-Makgi.md) | Sonbadak Kaunde Golcho Makgi |
+| [Sonkal-Nopunde-Ap-Taerigi.md](Sonkal-Nopunde-Ap-Taerigi.md) | Sonkal Nopunde Ap Taerigi |
+| [Sonkal-Twio-Dolmyo-Taerigi.md](Sonkal-Twio-Dolmyo-Taerigi.md) | Sonkal Twio Dolmyo Taerigi |
+| [Sun-Sonkut-Kaunde-Tulgi.md](Sun-Sonkut-Kaunde-Tulgi.md) | Pique verticale de l'extrémité des doigts au niveau moyen |
+| [Twigi.md](Twigi.md) | Twigi |
+| [Twimyo-Orun-Joomuk-Ap-Jirugi.md](Twimyo-Orun-Joomuk-Ap-Jirugi.md) | Coup de poing direct sauté/volant du poing droit vers l'avant |
+| [Twimyo-Sonkal-Bakuro-Taerigi.md](Twimyo-Sonkal-Bakuro-Taerigi.md) | Coup cinglant sauté au tranchant de la main vers l'extérieur |
+| [Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.md](Twimyo-Sonkal-Kaunde-Bakuro-Taerigi.md) | Coup cinglant sauté moyen au tranchant de la main vers l'extérieur |
+
+---
+
+## Voir aussi
+
+* [../../4-positions/fiches/README.md](../../4-positions/fiches/README.md) — les positions (*Sogi*) et positions de préparation, une fiche chacune.
+* [../../4-positions/README.md](../../4-positions/README.md) — partie IV du manuel : les 27 positions (*Sogi*), cotées et schématisées.
+* [../../3-grammaire-des-techniques/README.md](../../3-grammaire-des-techniques/README.md) — partie III du manuel : les règles complètes de nomenclature.
+* [../../8-progression/ceintures/README.md](../../8-progression/ceintures/README.md) — à quel grade chaque technique est exigée.

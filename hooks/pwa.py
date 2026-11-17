@@ -58,7 +58,7 @@ def on_post_build(config, **kwargs):
         if relatif in EXCLUS or relatif.endswith(".map"):
             continue
         contenu = chemin.read_bytes()
-        # Techniques/Ap-Chagi/index.html est servi à l'adresse Techniques/Ap-Chagi/
+        # 6-formes/fiches/chon-ji/index.html est servi à l'adresse 6-formes/fiches/chon-ji/
         cle = relatif[:-len("index.html")] if relatif == "index.html" or relatif.endswith("/index.html") else relatif
         fichiers[cle] = [hashlib.sha1(contenu).hexdigest()[:12], len(contenu)]
     version = hashlib.sha1(json.dumps(fichiers, sort_keys=True).encode()).hexdigest()[:12]

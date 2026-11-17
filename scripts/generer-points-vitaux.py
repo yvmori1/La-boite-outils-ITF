@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Génère les planches des 49 points vitaux (Kupso) de Combat/points-vitaux.md.
+"""Génère les planches des 49 points vitaux (Kupso) de docs/7-combat/points-vitaux.md.
 
   python3 scripts/generer-points-vitaux.py            # liste ce qui serait écrit
   python3 scripts/generer-points-vitaux.py --write    # écrit images/points-vitaux/*.svg
@@ -17,9 +17,10 @@ import argparse
 import pathlib
 import re
 
-RACINE = pathlib.Path(__file__).resolve().parent.parent
-PAGE = RACINE / "Combat" / "points-vitaux.md"
-SORTIE = RACINE / "images" / "points-vitaux"
+from chemins import COMBAT, IMAGES, RACINE
+
+PAGE = COMBAT / "points-vitaux.md"
+SORTIE = IMAGES / "points-vitaux"
 
 LARGEUR = 780
 COL = 200          # largeur d'une colonne d'étiquettes

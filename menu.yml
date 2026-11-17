@@ -11,66 +11,66 @@
 #
 # Un dossier mis à plat ou en section reprend son propre menu (.pages ou
 # README), sauf les pages et sous-dossiers placés ailleurs dans ce plan.
-# Les fichiers ne bougent pas : seules leurs places dans le menu changent,
-# leurs adresses restent les mêmes.
+# Les chemins sont relatifs à docs/, dont les dossiers suivent ce plan : un
+# dossier par partie, avec les fiches qui la mettent en pratique.
 #
 # Une page du site qui ne trouve pas de place ici est signalée à la
 # construction ; ajoutez-la au plan, ou à HORS_MENU dans le hook.
 
 - "Accueil": README.md
-- "Sommaire du Manuel": Theorie/manuel/README.md
+- "Sommaire du Manuel": sommaire.md
 - "I. L'art et sa voie":
-    - Theorie/manuel/partie-1-art-et-voie
-    - "Révision": Theorie/revisions/partie-1.md
+    - 1-art-et-voie
+    - "Révision": 1-art-et-voie/revision.md
 - "II. Les principes physiques":
-    - Theorie/manuel/partie-2-principes-physiques
-    - "Révision": Theorie/revisions/partie-2.md
+    - 2-principes-physiques
+    - "Révision": 2-principes-physiques/revision.md
 - "III. La grammaire des techniques":
-    - Theorie/manuel/partie-3-grammaire-des-techniques
-    - "Révision": Theorie/revisions/partie-3.md
+    - 3-grammaire-des-techniques
+    - "Révision": 3-grammaire-des-techniques/revision.md
 - "IV. Les positions (Sogi)":
-    - Theorie/manuel/partie-4-positions-sogi
-    - "Fiches des positions": sogi
-    - "Révision": Theorie/revisions/partie-4.md
+    - 4-positions
+    - "Fiches des positions": 4-positions/fiches
+    - "Révision": 4-positions/revision.md
 - "V. Le répertoire technique":
-    - Theorie/manuel/partie-5-repertoire-technique/README.md
-    - Theorie/manuel/partie-5-repertoire-technique/17-les-deplacements-dolgi.md
-    - Theorie/manuel/partie-5-repertoire-technique/18-les-techniques-de-bras.md
-    - "Fiches : frappes du bras (Jirugi)": jirugi
-    - "Fiches : blocages (Makgi)": makgi
-    - Theorie/manuel/partie-5-repertoire-technique/19-les-techniques-de-jambes.md
-    - "Fiches : coups de pied (Chagi)": chagi
-    - "Techniques combinées": Techniques
-    - "Révision": Theorie/revisions/partie-5.md
+    - 5-repertoire-technique/README.md
+    - 5-repertoire-technique/17-les-deplacements-dolgi.md
+    - 5-repertoire-technique/18-les-techniques-de-bras.md
+    - "Fiches : frappes du bras (Jirugi)": 5-repertoire-technique/jirugi
+    - "Fiches : blocages (Makgi)": 5-repertoire-technique/makgi
+    - 5-repertoire-technique/19-les-techniques-de-jambes.md
+    - "Fiches : coups de pied (Chagi)": 5-repertoire-technique/chagi
+    - "Techniques combinées": 5-repertoire-technique/combinees
+    - "Révision": 5-repertoire-technique/revision.md
 - "VI. Les formes (Tul)":
-    - Theorie/manuel/partie-6-formes-tul
-    - Theorie/manuel/annexe-b-distances-de-saut.md
-    - Theorie/manuel/annexe-c-types-de-mouvements.md
-    - "Fiches des formes": tul
-    - "Révision": Theorie/revisions/partie-6.md
+    - 6-formes
+    - 6-formes/25-distances-de-saut.md
+    - 6-formes/26-types-de-mouvements.md
+    - "Fiches des formes": 6-formes/fiches
+    - "Révision": 6-formes/revision.md
 - "VII. Combat, autodéfense et casse":
-    - Combat/README.md
-    - Combat/systemes-de-combat.md
-    - Combat/prise-de-mesure.md
-    - "Combats arrangés": Ceintures/Combats-arranges
-    - Combat/combat-libre.md
-    - "Hosinsul : le programme par grade": Theorie/manuel/partie-7-autodefense-hosinsul
-    - Combat/hosinsul.md
-    - Combat/points-vitaux.md
-    - Combat/kyokpa.md
-    - Combat/progression.md
-    - Combat/arbitrage.md
-    - "Révision": Theorie/revisions/partie-7.md
+    - 7-combat/README.md
+    - 7-combat/systemes-de-combat.md
+    - 7-combat/prise-de-mesure.md
+    - "Combats arrangés": 7-combat/combats-arranges
+    - 7-combat/combat-libre.md
+    - "Hosinsul : le programme par grade": 7-combat/hosinsul-par-grade
+    - 7-combat/hosinsul.md
+    - 7-combat/points-vitaux.md
+    - 7-combat/kyokpa.md
+    - 7-combat/progression.md
+    - 7-combat/arbitrage.md
+    - "Révision": 7-combat/revision.md
 - "VIII. La progression":
-    - Ceintures
-    - "Programme de session": Theorie/programme-session
-    - "Examens théoriques": Theorie/examens
-    - "Révision": Theorie/revisions/partie-8.md
+    - 8-progression/ceintures
+    - "Programme de session": 8-progression/programme-session
+    - "Examens théoriques": 8-progression/examens
+    - "Révision": 8-progression/revision.md
 - "Annexes":
-    - "A. Lexique trilingue": Theorie/manuel/annexe-a-lexique-trilingue
-    - "B. Glossaire coréen-français": Theorie/glossaire
-    - "C. Analyse statistique des formes": Theorie/Analyse_Statistique.md
-    - "D. Bibliographie": Bibliographie.md
+    - "A. Lexique trilingue": annexes/a-lexique
+    - "B. Glossaire coréen-français": annexes/b-glossaire
+    - "C. Analyse statistique des formes": annexes/c-analyse-statistique.md
+    - "D. Bibliographie": annexes/d-bibliographie.md
 - "À propos":
-    - "Application iPhone et iPad": Application.md
-    - "Confidentialité": Confidentialite.md
+    - "Application iPhone et iPad": a-propos/application.md
+    - "Confidentialité": a-propos/confidentialite.md

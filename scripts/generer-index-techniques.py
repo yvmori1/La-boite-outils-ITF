@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Régénère Techniques/README.md à partir des fiches présentes.
+"""Régénère docs/5-repertoire-technique/combinees/README.md à partir des fiches présentes.
 
   python3 scripts/generer-index-techniques.py           # affiche un résumé
   python3 scripts/generer-index-techniques.py --write   # écrit le README
@@ -21,10 +21,11 @@ import pathlib
 import re
 import sys
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
-DOSSIER = RACINE / "Techniques"
-# les positions elles-mêmes ont leur section (sogi/) : l'index y renvoie
-DOSSIER_POSITIONS = RACINE / "sogi"
+from chemins import fiches as dossier_fiches
+
+DOSSIER = dossier_fiches("Techniques")
+# les positions elles-mêmes ont leur section (4-positions/fiches/) : l'index y renvoie
+DOSSIER_POSITIONS = dossier_fiches("sogi")
 
 # libellé et ordre d'apparition des sections de position
 POSITIONS = [
@@ -155,7 +156,7 @@ def construire():
         if fiche_posture:
             corps.append(
                 f"La posture elle-même est décrite dans "
-                f"[{fiche_posture}](../sogi/{fiche_posture}).\n")
+                f"[{fiche_posture}](../../4-positions/fiches/{fiche_posture}).\n")
         if len(noms) > SEUIL_DECOUPAGE:
             for i, (cle, libelle) in enumerate(FAMILLES, 1):
                 sous = [x for x in noms if famille(x) == cle]
@@ -199,10 +200,10 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 """
     pied = """## Voir aussi
 
-* [../sogi/README.md](../sogi/README.md) — les positions (*Sogi*) et positions de préparation, une fiche chacune.
-* [../Theorie/manuel/partie-4-positions-sogi/README.md](../Theorie/manuel/partie-4-positions-sogi/README.md) — partie IV du manuel : les 27 positions (*Sogi*), cotées et schématisées.
-* [../Theorie/manuel/partie-3-grammaire-des-techniques/README.md](../Theorie/manuel/partie-3-grammaire-des-techniques/README.md) — partie III du manuel : les règles complètes de nomenclature.
-* [../Ceintures/README.md](../Ceintures/README.md) — à quel grade chaque technique est exigée.
+* [../../4-positions/fiches/README.md](../../4-positions/fiches/README.md) — les positions (*Sogi*) et positions de préparation, une fiche chacune.
+* [../../4-positions/README.md](../../4-positions/README.md) — partie IV du manuel : les 27 positions (*Sogi*), cotées et schématisées.
+* [../../3-grammaire-des-techniques/README.md](../../3-grammaire-des-techniques/README.md) — partie III du manuel : les règles complètes de nomenclature.
+* [../../8-progression/ceintures/README.md](../../8-progression/ceintures/README.md) — à quel grade chaque technique est exigée.
 """
     stats = {
         "total": len(fiches),
@@ -216,7 +217,7 @@ Les techniques latéralisées portent la mention *Wen* (gauche) ou *Orun* (droit
 def main():
     p = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     p.add_argument("--write", action="store_true",
-                   help="écrit Techniques/README.md (sinon simple résumé)")
+                   help="écrit l'index des techniques combinées (sinon simple résumé)")
     args = p.parse_args()
 
     if not DOSSIER.is_dir():

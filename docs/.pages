@@ -2,20 +2,18 @@
 # menu est fixée par menu.yml (hooks/menu_manuel.py) : le Manuel d'abord,
 # chaque partie suivie de ses fiches.
 # Toute fiche ajoutée dans un dossier apparaît automatiquement dans sa section.
-# images/ n'est plus une entrée du menu : ses pages restent publiées et
+# images/ n'est pas une entrée du menu : ses pages restent publiées et
 # accessibles par les liens des fiches.
 nav:
   - README.md
-  - Requis Examen: Ceintures
-  - Formes (tul): tul
-  - Positions (sogi): sogi
-  - Coups de pied (chagi): chagi
-  - Blocages (makgi): makgi
-  - Frappes du bras (jirugi): jirugi
-  - Techniques
-  - Combat et autodéfense: Combat
-  - Théorie: Theorie
-  - À propos:
-    - Bibliographie.md
-    - Application iPhone et iPad: Application.md
-    - Confidentialité: Confidentialite.md
+  - sommaire.md
+  - 1-art-et-voie
+  - 2-principes-physiques
+  - 3-grammaire-des-techniques
+  - 4-positions
+  - 5-repertoire-technique
+  - 6-formes
+  - 7-combat
+  - 8-progression
+  - annexes
+  - a-propos

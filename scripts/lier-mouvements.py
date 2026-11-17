@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Transforme le nom coréen de chaque mouvement des tuls en hyperlien.
 
-Parcourt les fiches de tul/ et remplace le nom coréen de chaque mouvement
-par un lien vers la fiche qui l'explique, cherchée dans Techniques/, sogi/, makgi/,
-jirugi/ et chagi/.
+Parcourt les fiches des formes (docs/6-formes/fiches/) et remplace le nom coréen de chaque mouvement
+par un lien vers la fiche qui l'explique, cherchée dans les techniques combinées, les positions,
+makgi, jirugi et chagi (familles de scripts/chemins.py).
 
   python3 scripts/lier-mouvements.py              # essai à blanc, n'écrit rien
   python3 scripts/lier-mouvements.py --write      # applique les modifications
@@ -29,7 +29,7 @@ Résolution d'une cible, du plus fidèle au plus approximatif :
      dans toutes les combinaisons, des plus petites aux plus grandes ;
   4. raccourcissement par la fin (« ... baro ap makgi » -> « ap makgi »).
 La comparaison ignore casse, tirets et espaces, ce qui réconcilie par exemple
-« Kaunde yopcha jirugi » avec chagi/yop-cha-jirugi.md.
+« Kaunde yopcha jirugi » avec chagi/yop-cha-jirugi.md (docs/5-repertoire-technique/).
 
 Un lien reste toujours un fragment réel du nom du mouvement ; sur les noms
 longs, la cible peut n'expliquer qu'une partie de la technique.
@@ -42,8 +42,10 @@ import pathlib
 import re
 import sys
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
-TUL = RACINE / "tul"
+from chemins import fiches as dossier_fiches
+from chemins import lien
+
+TUL = dossier_fiches("tul")
 DOSSIERS_CIBLES = ("Techniques", "sogi", "makgi", "jirugi", "chagi")
 HORS_INDEX = {"README.md", "Dans-les-formes.md", "nomenclature.md"}
 
@@ -82,11 +84,12 @@ def cle(s):
 def indexer_cibles():
     cibles = {}
     for dossier in DOSSIERS_CIBLES:
-        for fiche in sorted((RACINE / dossier).glob("*.md")):
+        for fiche in sorted(dossier_fiches(dossier).glob("*.md")):
             if fiche.name in HORS_INDEX:
                 continue
             k = cle(fiche.stem)
-            cibles.setdefault(k, f"../{dossier}/{fiche.name}")
+            # lien vu d'une fiche de forme (toutes dans le même dossier)
+            cibles.setdefault(k, lien(TUL / "x.md", fiche))
     return cibles
 
 

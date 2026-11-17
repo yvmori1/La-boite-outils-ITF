@@ -1,0 +1,76 @@
+# DO-SAN
+
+> 🔊 **Prononciation :** [도산](../../audio/tul/do-san.m4a)
+
+> **Grade :** 7e Gup — Ceinture jaune barre verte
+
+* **Nombre de mouvements :** 24
+* **Diagramme au sol :** (Zigzag / Marche d'escalier)
+* **Durée :** 35 secondes
+
+| Diagramme | Description |
+| ------ | ------ |
+| ![**I**](../../images/tul/do-san.png) | DO-SAN est le pseudonyme du patriote Ahn Chang-Ho (1878-1938). Les 24 mouvements représentent toute sa vie qu'il a consacrée à l'avancement de l'éducation en Corée et à son mouvement d'indépendance. |
+
+[DO-SAN](https://vimeo.com/109846979)
+
+## Origine et contexte historique
+
+* **Contexte socio-politique :** Ahn Chang-Ho a lutté activement contre l'occupation coloniale japonaise (1910-1945) par la fondation d'écoles indépendantes (*Shinminhoe*). Son combat n'était pas seulement militaire, mais profondément social et économique, considérant que l'indépendance de la Corée passait par l'éducation de la jeunesse et le réarmement moral de la population.
+
+## Liste Détaillée des Mouvements
+
+### Posture de départ : position parallèle de préparation
+
+1. Déplacer le pied gauche vers B, pour former une position de marche gauche vers B tout en exécutant un blocage latéral haut vers B avec l'avant-bras extérieur gauche.
+   *([Gunnun so bakat palmok nopunde yop makgi](../../5-repertoire-technique/combinees/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
+2. Exécuter un coup de poing moyen vers B avec le poing droit tout en maintenant une position de marche gauche vers B.
+   *([Gunnun so kaunde bandae jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
+3. Déplacer le pied gauche sur la ligne AB, puis tourner dans le sens horaire pour former une position de marche droite vers A tout en exécutant un blocage latéral haut vers A avec l'avant-bras extérieur droit.
+   *([Gunnun so bakat palmok nopunde yop makgi](../../5-repertoire-technique/combinees/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
+4. Exécuter un coup de poing moyen vers A avec le poing gauche tout en maintenant une position de marche droite vers A.
+   *([Gunnun so kaunde bandae jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
+5. Déplacer le pied gauche vers D, pour former une position en L droite vers D tout en exécutant un blocage de garde moyen vers D avec le tranchant de la main.
+   *([Niunja so sonkal kaunde daebi makgi](../../5-repertoire-technique/combinees/Niunja-So-Sonkal-Kaunde-Daebi-Makgi.md))*
+6. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une pique moyenne vers D avec le bout des doigts droit.
+   *([Gunnun so sun sonkut kaunde tulgi](../../5-repertoire-technique/combinees/Gunnun-So-Sun-Sonkut-Kaunde-Tulgi.md))*
+7. Pivoter la main droite dans le sens anti-horaire jusqu'à ce que sa paume soit tournée vers le bas, puis déplacer le pied gauche vers D, en tournant dans le sens anti-horaire pour former une position de marche gauche vers D tout en exécutant une frappe latérale haute vers D avec le revers du poing gauche.
+   *([Jappyosul tae](../../5-repertoire-technique/combinees/Gunnun-So-Jappyosul-Tae.md), [gunnun so dung joomuk nopunde yop taerigi](../../5-repertoire-technique/combinees/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
+8. Déplacer le pied droit vers D pour former une position de marche droite vers D tout en exécutant une frappe latérale haute vers D avec le revers du poing droit.
+   *([Gunnun so dung joomuk nopunde yop taerigi](../../5-repertoire-technique/combinees/Gunnun-So-Dung-Joomuk-Nopunde-Yop-Taerigi.md))*
+9. Déplacer le pied gauche vers E, en tournant dans le sens anti-horaire pour former une position de marche gauche vers E tout en exécutant un blocage latéral haut vers E avec l'avant-bras extérieur gauche.
+   *([Gunnun so bakat palmok nopunde yop makgi](../../5-repertoire-technique/combinees/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
+10. Exécuter un coup de poing moyen vers E avec le poing droit tout en maintenant une position de marche gauche vers E.
+   *([Gunnun so kaunde bandae jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
+11. Déplacer le pied gauche sur la ligne EF, puis tourner dans le sens horaire pour former une position de marche droite vers F tout en exécutant un blocage latéral haut vers F avec l'avant-bras extérieur droit.
+   *([Gunnun so bakat palmok nopunde yop makgi](../../5-repertoire-technique/combinees/Gunnun-So-Bakat-Palmok-Nopunde-Yop-Makgi.md))*
+12. Exécuter un coup de poing moyen vers F avec le poing gauche tout en maintenant une position de marche droite vers F.
+   *([Gunnun so kaunde bandae jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
+13. Déplacer le pied gauche vers CE pour former une position de marche gauche vers CE, tout en exécutant un blocage en écartement haut vers CE avec l'avant-bras extérieur.
+   *([Gunnun so bakat palmok nopunde hechyo makgi](../../5-repertoire-technique/combinees/Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md))*
+14. Exécuter un coup de pied avant fouetté moyen vers CE avec le pied droit, en gardant les mains dans la position du mouvement 13.
+   *([Kaunde apcha busigi](../../5-repertoire-technique/combinees/Kaunde-Apcha-Busigi.md))*
+15. Abaisser le pied droit vers CE pour former une position de marche droite vers CE tout en exécutant un coup de poing moyen vers CE avec le poing droit.
+   *([Gunnun so kaunde jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Jirugi.md))*
+16. Exécuter un coup de poing moyen vers CE avec le poing gauche tout en maintenant une position de marche droite vers CE.
+   *([Gunnun so kaunde bandae jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Bandae-Jirugi.md))*
+   > *Exécuter 15 et 16 en mouvement rapide.*
+17. Déplacer le pied droit vers CF pour former une position de marche droite vers CF tout en exécutant un blocage en écartement haut vers CF avec l'avant-bras extérieur.
+   *([Gunnun so bakat palmok nopunde hechyo makgi](../../5-repertoire-technique/combinees/Gunnun-So-Bakat-Palmok-Nopunde-Hechyo-Makgi.md))*
+18. Exécuter un coup de pied avant fouetté moyen vers CF avec le pied gauche, en gardant les mains dans la position du mouvement 17.
+   *([Kaunde apcha busigi](../../5-repertoire-technique/combinees/Kaunde-Apcha-Busigi.md))*
+19. Abaisser le pied gauche vers CF pour former une position de marche gauche vers CF tout en exécutant un coup de poing moyen vers CF avec le poing gauche.
+   *([Gunnun so kaunde jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Jirugi.md))*
+20. Exécuter un coup de poing moyen vers CF avec le poing droit tout en maintenant une position de marche gauche vers CF.
+   *([Gunnun so kaunde jirugi](../../5-repertoire-technique/combinees/Gunnun-So-Kaunde-Jirugi.md))*
+   > *Exécuter 19 et 20 en mouvement rapide.*
+21. Déplacer le pied gauche vers C pour former une position de marche gauche vers C, tout en exécutant un blocage montant avec l'avant-bras gauche.
+   *([Gunnun so palmok chookyo makgi](../../5-repertoire-technique/combinees/Gunnun-So-Palmok-Chookyo-Makgi.md))*
+22. Déplacer le pied droit vers C pour former une position de marche droite vers C tout en exécutant un blocage montant avec l'avant-bras droit.
+   *([Gunnun so palmok chookyo makgi](../../5-repertoire-technique/combinees/Gunnun-So-Palmok-Chookyo-Makgi.md))*
+23. Déplacer le pied gauche vers B, en tournant dans le sens anti-horaire pour former une position assise vers D tout en exécutant une frappe latérale moyenne vers B avec le tranchant de la main gauche.
+   *([Annun so wen sonkal kaunde yop taerigi](../../5-repertoire-technique/combinees/Annun-So-Wen-Sonkal-Kaunde-Yop-Taerigi.md))*
+24. Ramener le pied gauche vers le pied droit puis déplacer le pied droit vers A pour former une position assise vers D tout en exécutant une frappe latérale moyenne vers A avec le tranchant de la main droite.
+   *([Annun so orun sonkal kaunde yop taerigi](../../5-repertoire-technique/combinees/Annun-So-Orun-Sonkal-Kaunde-Yop-Taerigi.md))*
+
+### FIN : ramener le pied droit à la posture de départ.

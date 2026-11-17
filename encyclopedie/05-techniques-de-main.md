@@ -133,4 +133,4 @@ Le Taekwon-Do étant d'abord une autodéfense, la défense est essentielle ; ell
 
 Techniques exécutées couché, à courte distance. La main opposée n'est pas ramenée à la hanche mais tirée dans la direction utile. Sont présentés : coups de poing, frappes vers le bas et vers l'intérieur (à deux mains), piques et coupes au sol, ainsi que des défenses au sol : **saisie à deux paumes** (*Bachigi*), **arrêt** (*Momchugi*) et **couverture** (*Karioogi*, défense passive pour gagner du temps : dos des mains alternés, parallèles, superposés ou croisés, avant-bras alternés).
 
-> Les fiches du site correspondantes se trouvent dans `jirugi/`, `makgi/` et `Techniques/`.
+> Les fiches du site correspondantes se trouvent dans `docs/5-repertoire-technique/jirugi/`, `docs/5-repertoire-technique/makgi/` et `docs/5-repertoire-technique/combinees/`.

@@ -4,20 +4,24 @@
   python3 scripts/generer-voir-aussi.py           # dit si les blocs sont à jour
   python3 scripts/generer-voir-aussi.py --write   # écrit les blocs
 
-Pour une fiche de Techniques/ :
-  * sa position (fiche de sogi/), d'après le mot qui précède « So » ;
-  * son geste de base (chagi/, makgi/, jirugi/), dont le nom est contenu
+Les familles de fiches (Techniques, sogi, chagi, makgi, jirugi, tul) sont
+celles de scripts/chemins.py, rangées sous docs/.
+
+Pour une fiche de Techniques :
+  * sa position (fiche de sogi), d'après le mot qui précède « So » ;
+  * son geste de base (chagi, makgi, jirugi), dont le nom est contenu
     dans le sien ;
   * les formes qui la citent.
-Pour une fiche de chagi/, makgi/ ou jirugi/ : les techniques complètes qui
+Pour une fiche de chagi, makgi ou jirugi : les techniques complètes qui
 utilisent ce geste, et les formes où il paraît (directement ou par elles).
-Pour une fiche de sogi/ : le nombre de techniques dans cette position, et les
+Pour une fiche de sogi : le nombre de techniques dans cette position, et les
 formes qui citent la fiche.
 Pour toutes : en tête, le chapitre du Manuel qui explique la famille de la
 fiche (« Dans le Manuel »), d'après son dossier (table MANUEL).
 
-Les formes sont lues dans les liens des pages de tul/ (posés par
-lier-mouvements.py) et rangées dans l'ordre du menu Formes (tul/.pages).
+Les formes sont lues dans les liens des fiches des formes (posés par
+lier-mouvements.py) et rangées dans l'ordre du menu Formes
+(6-formes/fiches/.pages).
 Le bloc est encadré de deux commentaires HTML, invisibles à l'affichage : le
 script remplace ce qui est entre eux et ne touche à rien d'autre.
 """
@@ -28,24 +32,26 @@ import pathlib
 import re
 import sys
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
+from chemins import DOCS, FICHES, famille
+from chemins import fiches as dossier_fiches
+from chemins import lien as lien_relatif
+
 BASES = ("chagi", "makgi", "jirugi")
 CIBLES = ("Techniques", "sogi") + BASES
 HORS = {"README.md", "nomenclature.md", "Dans-les-formes.md"}
 DEBUT = "<!-- fiches-liees : bloc produit par scripts/generer-voir-aussi.py -->"
 FIN = "<!-- /fiches-liees -->"
 BLOC = re.compile(r"\n*" + re.escape(DEBUT) + r".*?" + re.escape(FIN) + r"\n*", re.S)
-LIEN = re.compile(r"\]\(\.\./(" + "|".join(CIBLES) + r")/([^)#\s]+\.md)")
+LIEN = re.compile(r"\]\(([^)#\s]+\.md)")
 MAX_TECHNIQUES = 20
-# Chapitres du Manuel qui expliquent chaque famille de fiches.
-M = "Theorie/manuel/"
-CH13 = (M + "partie-3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md",
+# Chapitres du Manuel qui expliquent chaque famille de fiches (chemins sous docs/).
+CH13 = ("3-grammaire-des-techniques/13-decrypter-un-nom-de-technique.md",
         "13. Décrypter un nom de technique")
-CH16 = (M + "partie-4-positions-sogi/16-les-21-positions-en-detail.md",
+CH16 = ("4-positions/16-les-21-positions-en-detail.md",
         "16. Les 27 positions en détail")
-CH18 = (M + "partie-5-repertoire-technique/18-les-techniques-de-bras.md",
+CH18 = ("5-repertoire-technique/18-les-techniques-de-bras.md",
         "18. Les techniques de bras")
-CH19 = (M + "partie-5-repertoire-technique/19-les-techniques-de-jambes.md",
+CH19 = ("5-repertoire-technique/19-les-techniques-de-jambes.md",
         "19. Les techniques de jambes")
 MANUEL = {"sogi": [CH16], "jirugi": [CH18], "makgi": [CH18], "chagi": [CH19]}
 LATERAL = {"wen", "orun"}
@@ -53,7 +59,13 @@ MODIFICATEURS = {"najunde", "kaunde", "nopunde", "bandae", "baro"}
 
 
 def fiches(dossier):
-    return sorted(p for p in (RACINE / dossier).glob("*.md") if p.name not in HORS)
+    return sorted(p for p in dossier_fiches(dossier).glob("*.md") if p.name not in HORS)
+
+
+def chemin(cle):
+    """« Techniques/X.md » -> docs/5-repertoire-technique/combinees/X.md."""
+    nom, fichier = cle.split("/")
+    return DOCS / FICHES[nom] / fichier
 
 
 def titre(p):
@@ -71,8 +83,8 @@ def nom_forme(p):
 
 
 def ordre_formes():
-    """Fichiers de tul/ dans l'ordre du menu."""
-    pages = (RACINE / "tul" / ".pages").read_text(encoding="utf-8")
+    """Fiches des formes dans l'ordre du menu."""
+    pages = (dossier_fiches("tul") / ".pages").read_text(encoding="utf-8")
     ordre = re.findall(r"([\w-]+\.md)\s*$", pages, re.M)
     return [n for n in ordre if n != "README.md"]
 
@@ -82,11 +94,14 @@ def formes_citant():
     ordre = ordre_formes()
     rang = {n: i for i, n in enumerate(ordre)}
     cites = collections.defaultdict(set)
-    for p in (RACINE / "tul").glob("*.md"):
+    for p in dossier_fiches("tul").glob("*.md"):
         if p.name == "README.md":
             continue
-        for dossier, fichier in LIEN.findall(p.read_text(encoding="utf-8")):
-            cites[f"{dossier}/{fichier}"].add(p.name)
+        for cible in LIEN.findall(p.read_text(encoding="utf-8")):
+            cible = (p.parent / cible).resolve()
+            nom = famille(cible)
+            if nom in CIBLES:
+                cites[f"{nom}/{cible.name}"].add(p.name)
     return {k: sorted(v, key=lambda n: rang.get(n, len(rang)))
             for k, v in cites.items()}
 
@@ -129,16 +144,23 @@ def gestes(nom, bases):
 
 
 def lien(depuis, cible, texte):
-    return f"[{texte}](../{cible})"
+    return f"[{texte}]({lien_relatif(chemin(depuis), chemin(cible))})"
 
 
-def liste_formes(noms):
-    return ", ".join(f"[{nom_forme(RACINE / 'tul' / n)}](../tul/{n})" for n in noms)
+def liste_formes(depuis, noms):
+    return ", ".join(f"[{nom_forme(dossier_fiches('tul') / n)}]"
+                     f"({lien_relatif(chemin(depuis), dossier_fiches('tul') / n)})"
+                     for n in noms)
 
 
-def ligne_manuel(chapitres):
+def ligne_manuel(depuis, chapitres):
     return "* **Dans le Manuel :** " + ", ".join(
-        f"[{texte}](../{chemin})" for chemin, texte in chapitres)
+        f"[{texte}]({lien_relatif(chemin(depuis), DOCS / page)})"
+        for page, texte in chapitres)
+
+
+def index_techniques(depuis):
+    return lien_relatif(chemin(depuis), dossier_fiches("Techniques") / "README.md")
 
 
 def chapitres_technique(nom, geste):
@@ -153,7 +175,7 @@ def chapitres_technique(nom, geste):
 def construire():
     cites = formes_citant()
     rang = {n: i for i, n in enumerate(ordre_formes())}
-    bases = {"".join(mots(p.name)): (f"{p.parent.name}/{p.name}", set(mots(p.name)))
+    bases = {"".join(mots(p.name)): (f"{famille(p)}/{p.name}", set(mots(p.name)))
              for d in BASES for p in fiches(d)}
     titres = {f"{d}/{p.name}": titre(p) for d in CIBLES for p in fiches(d)}
     sogi = {p.name.lower(): f"sogi/{p.name}" for p in fiches("sogi")}
@@ -171,20 +193,20 @@ def construire():
             if fiche_pos:
                 lignes.append(f"* **Position :** {lien(cle, fiche_pos, titres[fiche_pos])}")
         geste = gestes(p.name, bases)
-        lignes.insert(0, ligne_manuel(chapitres_technique(p.name, geste)))
+        lignes.insert(0, ligne_manuel(cle, chapitres_technique(p.name, geste)))
         for g in geste:
             usages[g].append(cle)
         if geste:
             lignes.append("* **Geste de base :** " + ", ".join(
                 lien(cle, g, titres[g]) for g in geste))
         if cites.get(cle):
-            lignes.append("* **Dans les formes :** " + liste_formes(cites[cle]))
+            lignes.append("* **Dans les formes :** " + liste_formes(cle, cites[cle]))
         blocs[cle] = lignes
 
     for d in BASES:
         for p in fiches(d):
             cle = f"{d}/{p.name}"
-            lignes = [ligne_manuel(MANUEL[d])]
+            lignes = [ligne_manuel(cle, MANUEL[d])]
             techniques = sorted(usages.get(cle, []))
             if techniques:
                 montres = techniques[:MAX_TECHNIQUES]
@@ -192,26 +214,26 @@ def construire():
                 reste = len(techniques) - len(montres)
                 if reste:
                     texte += (f", et {reste} autres dans "
-                              f"[Techniques](../Techniques/README.md)")
+                              f"[Techniques]({index_techniques(cle)})")
                 lignes.append(f"* **Techniques complètes :** {texte}")
             formes = set(cites.get(cle, []))
             for t in techniques:
                 formes.update(cites.get(t, []))
             if formes:
-                lignes.append("* **Dans les formes :** " + liste_formes(
+                lignes.append("* **Dans les formes :** " + liste_formes(cle,
                     sorted(formes, key=lambda n: rang.get(n, len(rang)))))
             blocs[cle] = lignes
 
     for p in fiches("sogi"):
         cle = f"sogi/{p.name}"
-        lignes = [ligne_manuel(MANUEL["sogi"])]
+        lignes = [ligne_manuel(cle, MANUEL["sogi"])]
         pos = p.name.lower()[:-len("-sogi.md")] if p.name.lower().endswith("-sogi.md") else None
         if pos and par_position.get(pos):
             lignes.append(f"* **Techniques dans cette position :** "
                           f"{par_position[pos]} fiches, classées dans "
-                          f"[Techniques](../Techniques/README.md)")
+                          f"[Techniques]({index_techniques(cle)})")
         if cites.get(cle):
-            lignes.append("* **Dans les formes :** " + liste_formes(cites[cle]))
+            lignes.append("* **Dans les formes :** " + liste_formes(cle, cites[cle]))
         blocs[cle] = lignes
     return blocs
 
@@ -232,13 +254,13 @@ def main():
     args = p.parse_args()
     differents = []
     for cle, lignes in construire().items():
-        chemin = RACINE / cle
-        actuel = chemin.read_text(encoding="utf-8")
+        fichier = chemin(cle)
+        actuel = fichier.read_text(encoding="utf-8")
         nouveau = appliquer(actuel, lignes)
         if nouveau != actuel:
             differents.append(cle)
             if args.write:
-                chemin.write_text(nouveau, encoding="utf-8")
+                fichier.write_text(nouveau, encoding="utf-8")
     if not differents:
         print("blocs déjà à jour")
     elif args.write:

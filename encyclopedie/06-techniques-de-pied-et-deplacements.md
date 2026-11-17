@@ -103,4 +103,4 @@ Le trajet du pied compte aussi : le **trajet courbe vers l'intérieur puis l'ext
 
 Attaques couché à courte distance (coups de pied de face, latéraux perçant et piquant, vers le bas, circulaire, vertical, tordu) et défenses au sol : coup de pied d'arrêt, en croissant, crochet, **croisement des jambes** (*Noowo Dari Kogi*) et **flexion des genoux** (*Noowo Moorup Guburigi*) pour protéger le bas-ventre, **roulades** d'esquive (*Noowo Pihagi*).
 
-> Les fiches du site correspondantes se trouvent dans `chagi/` et `Techniques/` ; le mouvement en onde sinusoïdale est aussi traité dans `ITF_Sources/mouvement_de_vagues.md` et le manuel.
+> Les fiches du site correspondantes se trouvent dans `docs/5-repertoire-technique/chagi/` et `docs/5-repertoire-technique/combinees/` ; le mouvement en onde sinusoïdale est aussi traité dans `ITF_Sources/mouvement_de_vagues.md` et le manuel.

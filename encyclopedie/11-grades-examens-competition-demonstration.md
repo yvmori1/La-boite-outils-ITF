@@ -1,6 +1,6 @@
 # 11. Grades, examens, compétition et démonstration (p. 725-758)
 
-Synthèse des derniers chapitres. Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Les règles de compétition résumées ici sont celles du livre ; le règlement en vigueur est celui de 2026 (voir `Combat/`).
+Synthèse des derniers chapitres. Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Les règles de compétition résumées ici sont celles du livre ; le règlement en vigueur est celui de 2026 (voir `docs/7-combat/`).
 
 ---
 
@@ -157,4 +157,4 @@ Texte biographique signé par deux proches du général Choi (Choi Duk Shin et P
 - **Suite** : siège à Toronto (1972), premiers championnats du monde à Montréal (1974), rupture publique avec le président sud-coréen Park Jung Hee (1977), première présentation en Corée du Nord (1980), installation de l'ITF à Vienne et publication de l'Encyclopédie (1985), tournée en URSS (1988).
 - Le texte conclut que chaque instructeur devrait suivre cet exemple en faisant entrer le Taekwon-Do dans les écoles et en exerçant une influence positive sur ses élèves.
 
-> Le site traite ces sujets dans `Ceintures/`, `Combat/` (règlement 2026) et `Theorie/manuel/`.
+> Le site traite ces sujets dans `docs/8-progression/ceintures/`, `docs/7-combat/` (règlement 2026) et le manuel (`docs/sommaire.md`).

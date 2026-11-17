@@ -7,12 +7,12 @@
 
 Étapes, dans l'ordre — chacune dépend des précédentes :
 
-  1. index de Techniques/           (les fiches ont pu changer)
-  2. compteurs du README racine     (d'après le contenu réel des dossiers)
+  1. index des techniques combinées (les fiches ont pu changer)
+  2. compteurs de l'accueil         (d'après le contenu réel des dossiers)
   3. graphies normalisées           (variantes sans ambiguïté)
   4. liens des formes vers les fiches, fiches liées, lectures par grade et
      révisions de fin de partie, infobulles du glossaire
-  5. prononciations et liens audio  (fiches, manuel, pages de Combat/)
+  5. prononciations et liens audio  (fiches, manuel, pages du combat)
   6. réparation des audio manquants
   7. menus des sections (.pages)    (d'après les sommaires README)
   8. mise en forme Markdown         (listes lisibles sur GitHub et le site)
@@ -29,7 +29,7 @@ import shutil
 import subprocess
 import sys
 
-RACINE = pathlib.Path(__file__).resolve().parents[1]
+from chemins import ACCUEIL, AUDIO, DOCS, RACINE
 SCRIPTS = RACINE / "scripts"
 
 # substitutions sûres : la chaîne cherchée ne désigne qu'une seule chose.
@@ -50,10 +50,10 @@ GRAPHIES = [
     ("압차기", "앞차기"), ("건눈", "걷는"), ("툴기", "뚫기"), ("뛰묘", "뛰며"),
     ("수로차기", "쓸어차기"),
 ]
-IGNORES = {".git", "site", "venv", ".venv", "audio", "scripts", "docs"}
+IGNORES = {".git", "site", "venv", ".venv", "audio", "scripts"}
 # le glossaire cite à dessein les graphies fautives qu'il a corrigées
 # (tout le dossier du glossaire, découpé en une page par thème)
-EXCEPTIONS = ("Theorie/glossaire/",)
+EXCEPTIONS = ("docs/annexes/b-glossaire/",)
 
 
 def lancer(script, options, ecrire):
@@ -68,23 +68,22 @@ def lancer(script, options, ecrire):
 
 
 def compte_reel(dossier):
-    d = RACINE / dossier
+    """Nombre de fiches d'un dossier de docs/ (sans son README ni sa
+    révision de fin de partie)."""
+    d = DOCS / dossier
     if not d.is_dir():
         return None
     if dossier == "images":
         # images/ et ses diagrammes de formes (images/tul/) ; les schémas sogi/ à part
         return len([f for f in [*d.iterdir(), *(d / "tul").glob("*")]
                     if f.suffix.lower() in (".png", ".svg", ".gif", ".jpg")])
-    if dossier == "Theorie":
-        # un document découpé en sous-pages compte pour un : son dossier
-        return len([f for f in d.iterdir()
-                    if f.is_dir() or (f.suffix == ".md" and f.name != "README.md")])
-    return len([f for f in d.glob("*.md") if f.name != "README.md"])
+    return len([f for f in d.glob("*.md")
+                if f.name not in ("README.md", "revision.md")])
 
 
 def compteurs(ecrire):
-    """Aligne les nombres de fiches du tableau du README racine."""
-    fichier = RACINE / "README.md"
+    """Aligne les nombres de fiches du tableau de la page d'accueil."""
+    fichier = ACCUEIL
     lignes = fichier.read_text(encoding="utf-8").splitlines()
     motif = re.compile(r"(\|\s*\[[^\]]+\]\(([^)]+)/README\.md\)[^|]*\|[^|]*\|\s*)(\d+)(\s*\|)")
     corriges = []
@@ -92,9 +91,8 @@ def compteurs(ecrire):
         m = motif.match(l)
         if not m:
             continue
-        # le lien peut viser un sous-dossier (Theorie/manuel/README.md) :
-        # on compte le dossier de premier niveau, comme verifier.py
-        dossier = m.group(2).split("/")[0]
+        # le lien vise le README du dossier compté (6-formes/fiches/README.md)
+        dossier = m.group(2)
         reel = compte_reel(dossier)
         if reel is not None and reel != int(m.group(3)):
             corriges.append(f"{dossier} : {m.group(3)} -> {reel}")
@@ -131,7 +129,7 @@ def main():
     args = p.parse_args()
 
     etapes = [
-        ("index de Techniques", lambda: lancer("generer-index-techniques.py",
+        ("index des techniques combinées", lambda: lancer("generer-index-techniques.py",
                                                [], args.write)),
         ("compteurs du README", lambda: compteurs(args.write)),
         ("graphies normalisées", lambda: graphies(args.write)),
@@ -153,7 +151,7 @@ def main():
                 "generer-audio.py", ["--reparer", *synthese], args.write)),
             # les libellés des fiches ont pu recevoir des liens audio : l'index
             # qui les reprend doit suivre
-            ("index de Techniques (après les liens audio)",
+            ("index des techniques combinées (après les liens audio)",
              lambda: lancer("generer-index-techniques.py", [], args.write)),
         ]
     # le menu suit les sommaires, que les étapes ci-dessus ont pu réécrire

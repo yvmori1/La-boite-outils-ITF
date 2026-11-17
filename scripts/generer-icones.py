@@ -23,9 +23,9 @@ import pathlib
 import re
 
 RACINE = pathlib.Path(__file__).resolve().parents[1]
-LOGO = RACINE / "images" / "logo" / "hosinsul.svg"
-CONTOUR = RACINE / "images" / "logo" / "hosinsul-contour.svg"
-ORTEILS = RACINE / "images" / "logo" / "hosinsul-orteils.svg"
+LOGO = RACINE / "docs" / "images" / "logo" / "hosinsul.svg"
+CONTOUR = RACINE / "docs" / "images" / "logo" / "hosinsul-contour.svg"
+ORTEILS = RACINE / "docs" / "images" / "logo" / "hosinsul-orteils.svg"
 ICONES = RACINE / "docs" / "assets" / "icones"
 
 LISERE = 5  # épaisseur du liseré blanc, en unités du logo (465 de large)

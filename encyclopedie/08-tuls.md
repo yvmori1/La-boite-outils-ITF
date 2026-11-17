@@ -1,6 +1,6 @@
 # 8. Les tuls (*Tul*, p. 524-597)
 
-Synthèse du chapitre. Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Le déroulement mouvement par mouvement n'est pas repris ici : le site le donne déjà en français dans `tul/` (d'après `ITF_Sources/ITF_tuls.md`). Seuls l'introduction, le sens des tuls et les repères de chaque forme sont résumés.
+Synthèse du chapitre. Pages de l'édition imprimée de 1999 (page du PDF = page imprimée + 2). Le déroulement mouvement par mouvement n'est pas repris ici : le site le donne déjà en français dans `docs/6-formes/fiches/` (d'après `ITF_Sources/ITF_tuls.md`). Seuls l'introduction, le sens des tuls et les repères de chaque forme sont résumés.
 
 ---
 
@@ -44,7 +44,7 @@ Le nom, le nombre de mouvements et le diagramme de chaque tul renvoient à une f
 | Se-Jong | 24 | 王 | Le roi Se-Jong, inventeur de l'alphabet coréen (1443) et météorologue ; diagramme : le roi ; 24 pour les 24 lettres de l'alphabet. |
 | Tong-Il | 56 | I | La résolution de réunifier la Corée, divisée depuis 1945 ; diagramme : un peuple homogène. |
 
-**Juche et Ko-Dang** : Juche est la forme actuelle du 2e Dan ; elle a remplacé **Ko-Dang**. Cette édition est à cheval entre les deux : la liste des sens (p. 526) et l'ordre par grade (p. 527) nomment déjà Juche, mais la partie technique (p. 566-569) décrit encore Ko-Dang (45 mouvements, position d'attente parallèle avec double coude latéral), sans texte d'interprétation. Le site garde les deux : Juche comme forme en vigueur, Ko-Dang pour mémoire historique (`tul/juche.md`, `tul/ko-dang.md`).
+**Juche et Ko-Dang** : Juche est la forme actuelle du 2e Dan ; elle a remplacé **Ko-Dang**. Cette édition est à cheval entre les deux : la liste des sens (p. 526) et l'ordre par grade (p. 527) nomment déjà Juche, mais la partie technique (p. 566-569) décrit encore Ko-Dang (45 mouvements, position d'attente parallèle avec double coude latéral), sans texte d'interprétation. Le site garde les deux : Juche comme forme en vigueur, Ko-Dang pour mémoire historique (`docs/6-formes/fiches/juche.md`, `docs/6-formes/fiches/ko-dang.md`).
 
 ## Tuls par grade (p. 527)
 
@@ -105,4 +105,4 @@ Avant Chon-Ji, deux exercices fondamentaux préparent aux tuls :
 
 Remarques de lecture : les diagrammes de Yul-Gok et Toi-Gye sont imprimés inversés « pour une lecture plus claire » ; Se-Jong utilise, en plus de A, B, C et D, les directions E et F.
 
-> Pour comparer avec le site : `tul/` et `Theorie/examens/table-de-correspondance-des-tuls.md`.
+> Pour comparer avec le site : `docs/6-formes/fiches/` et `docs/8-progression/examens/table-de-correspondance-des-tuls.md`.
