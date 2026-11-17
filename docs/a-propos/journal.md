@@ -9,6 +9,7 @@ site : ne pas le modifier à la main. -->
 
 ## 2026-11-17
 
+* [#69](https://github.com/yvmori1/La-boite-outils-ITF/pull/69) Journal des modifications (CHANGELOG.md) tenu à jour automatiquement
 * [#68](https://github.com/yvmori1/La-boite-outils-ITF/pull/68) Ranger les dossiers du dépôt comme le menu du site
 
 ## 2026-11-15
