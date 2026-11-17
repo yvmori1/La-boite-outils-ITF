@@ -43,6 +43,7 @@ de hook `pre-commit` ou d'étape d'intégration continue.
 | [generer-points-vitaux.py](generer-points-vitaux.py) | Dessine les trois planches des 49 points vitaux dans `images/points-vitaux/` |
 | [generer-icones.py](generer-icones.py) | Tire du logo Hosinsul (`docs/images/logo/hosinsul.svg`) la version à liseré blanc du site, l'icône d'onglet (les orteils) et les icônes de l'application dans `docs/assets/icones/` (demande cairosvg et Pillow) |
 | [generer-manuel.py](generer-manuel.py) | Hors service : assemblait l'ancien manuel d'un seul tenant |
+| [generer-journal.py](generer-journal.py) | Écrit le journal des modifications (`CHANGELOG.md` et `docs/a-propos/journal.md`) d'après les PR fusionnées sur GitHub ; lancé à chaque publication, demande le réseau |
 | [formater-markdown.py](formater-markdown.py) | Met les listes en forme pour qu'elles s'affichent pareil sur GitHub et sur le site |
 
 ### maintenir.py

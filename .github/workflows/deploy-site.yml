@@ -36,6 +36,14 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
+      # Journal des modifications (CHANGELOG.md et sa page sur le site) :
+      # la liste des PR fusionnées, y compris celle qui vient de l'être. Si
+      # GitHub ne répond pas, on publie avec le journal tel qu'il est.
+      - name: Mettre à jour le journal des modifications
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/generer-journal.py --write || echo "::warning::journal des modifications non mis à jour"
+
       - name: Construire le site
         run: mkdocs build
 
@@ -85,6 +93,24 @@ jobs:
             --title "Site du $(date -u '+%Y-%m-%d %H:%M') UTC" \
             --notes "Copie hors ligne du site (outils.hosinsul.ca) : décompresser hors-ligne.zip, puis ouvrir index.html." \
             --latest
+
+      # Le journal mis à jour plus haut est remis dans main, pour qu'il soit
+      # aussi à jour sur GitHub. Un push fait avec le jeton du workflow ne
+      # relance pas de déploiement. Seulement si ce commit est encore le
+      # dernier de main : sinon le déploiement suivant s'en chargera.
+      - name: Enregistrer le journal des modifications dans main
+        if: steps.dernier.outputs.dernier == 'true' && github.ref == 'refs/heads/main'
+        continue-on-error: true
+        run: |
+          if git diff --quiet -- CHANGELOG.md docs/a-propos/journal.md; then
+            echo "Journal déjà à jour."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CHANGELOG.md docs/a-propos/journal.md
+          git commit -m "Journal des modifications mis à jour"
+          git push origin HEAD:main
 
       - name: Configurer GitHub Pages
         uses: actions/configure-pages@v6
